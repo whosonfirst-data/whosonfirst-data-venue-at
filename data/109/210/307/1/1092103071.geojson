@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4253540039,46.7489280701,12.4253540039,46.7489280701",
     "geom:latitude":46.748928,
     "geom:longitude":12.425354,
@@ -32,17 +33,34 @@
         "granite"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837785,
+        85632785,
+        101844457,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19dUjsqs3UTOx0kn4z6dhm_46.748928_12.425354@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900961,
-    "wof:geomhash":"e662d66b713cc4c67eb0e1f183ab73e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70cd7eccf701b91a421c4d18370e7569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837785,
+            "locality_id":101844457,
+            "region_id":85681661,
+            "venue_id":1092103071
+        }
+    ],
     "wof:id":1092103071,
-    "wof:lastmodified":1473983909,
+    "wof:lastmodified":1496899982,
     "wof:name":"Harald Fuchs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

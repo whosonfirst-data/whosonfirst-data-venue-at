@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5363636017,47.4723052979,12.5363636017,47.4723052979",
     "geom:latitude":47.472305,
     "geom:longitude":12.536364,
@@ -23,17 +24,33 @@
     "sg:postcode":"6391",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837361,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cb6f1Wc3W9hvyCI6AJDH4_47.472305_12.536364@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907546,
-    "wof:geomhash":"4ce89659e2836e85d029274ee051c985",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a74bcfc9dd62d195fedfd301c31b63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837361,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092246251
+        }
+    ],
     "wof:id":1092246251,
-    "wof:lastmodified":1473984628,
+    "wof:lastmodified":1496897299,
     "wof:name":"Putz Maximilian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

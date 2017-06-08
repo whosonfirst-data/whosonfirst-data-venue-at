@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7502660751,47.4057922363,9.7502660751,47.4057922363",
     "geom:latitude":47.405792,
     "geom:longitude":9.750266,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914551,
-    "wof:geomhash":"600ac2fdd60c7686861ef68a9327c1cf",
+    "wof:geomhash":"938d09e5d58a400ae3a9e5b7a0aff69e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092403313
         }
     ],
     "wof:id":1092403313,
-    "wof:lastmodified":1473983980,
+    "wof:lastmodified":1496900831,
     "wof:name":"Wir Public Relations",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

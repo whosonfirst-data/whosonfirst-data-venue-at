@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8533191681,47.5267486572,9.8533191681,47.5267486572",
     "geom:latitude":47.526749,
     "geom:longitude":9.853319,
@@ -31,17 +32,33 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837981,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hMasKbVCmo7Y5yKttf1ws_47.526749_9.853319@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904931,
-    "wof:geomhash":"2c2ca279209f2a05a091529de03ac43d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc136b3e8f0cf38db97622edeb1d7669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837981,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092187771
+        }
+    ],
     "wof:id":1092187771,
-    "wof:lastmodified":1473984823,
+    "wof:lastmodified":1496901239,
     "wof:name":"Ernst Nussbaumer & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

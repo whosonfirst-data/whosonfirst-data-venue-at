@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8675279617,48.0922088623,13.8675279617,48.0922088623",
     "geom:latitude":48.092209,
     "geom:longitude":13.867528,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897347,
-    "wof:geomhash":"37698c122dfadc6c66f4919ac03dbba5",
+    "wof:geomhash":"4fb80f16834b4ca6d67124459726b649",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1092020081
         }
     ],
     "wof:id":1092020081,
-    "wof:lastmodified":1473983328,
+    "wof:lastmodified":1496891637,
     "wof:name":"Gendarmerieposten Lambach",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

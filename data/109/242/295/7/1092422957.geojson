@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5277042389,47.9067955017,13.5277042389,47.9067955017",
     "geom:latitude":47.906796,
     "geom:longitude":13.527704,
@@ -31,17 +32,33 @@
         "fishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836421,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mYvjakrMJSB6wLfZvvTE9_47.906796_13.527704@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915574,
-    "wof:geomhash":"03587e3a5301416f13b64ab6a90c9401",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a507e48a1f445663d562bc24ce593b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836421,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092422957
+        }
+    ],
     "wof:id":1092422957,
-    "wof:lastmodified":1473983878,
+    "wof:lastmodified":1496890976,
     "wof:name":"Bootsbau Johann Haitzinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

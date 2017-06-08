@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4838314056,48.2130470276,14.4838314056,48.2130470276",
     "geom:latitude":48.213047,
     "geom:longitude":14.483831,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897441,
-    "wof:geomhash":"40c6e175980e3e05325e9f3d7babd905",
+    "wof:geomhash":"d285e1d2ab32aa44c8eabc7cef26d96a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092022489
         }
     ],
     "wof:id":1092022489,
-    "wof:lastmodified":1473983787,
+    "wof:lastmodified":1496887084,
     "wof:name":"Pfarramt St Marien",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3118448257,47.1327972412,14.3118448257,47.1327972412",
     "geom:latitude":47.132797,
     "geom:longitude":14.311845,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"www.zeilererdbau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838837,
+        85632785,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mSrXCsH7364X4FWQDHNa6_47.132797_14.311845@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905800,
-    "wof:geomhash":"fa2f0d1578a03929a9b80ebcc05c153b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d20d6dfd6022067ee66d7f46560dbd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838837,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092206323
+        }
+    ],
     "wof:id":1092206323,
-    "wof:lastmodified":1473984735,
+    "wof:lastmodified":1496909528,
     "wof:name":"Erich Zeiler Schotterwerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1593990326,47.8170661926,13.1593990326,47.8170661926",
     "geom:latitude":47.817066,
     "geom:longitude":13.159399,
@@ -23,17 +24,33 @@
     "sg:postcode":"5321",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837155,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NwnW6Qg6RNkVw91x3IOjr_47.817066_13.159399@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889604,
-    "wof:geomhash":"392d8537dff0c43c418b2484b893b3d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"464319076fc0a92b65c281920e4641d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091847743
+        }
+    ],
     "wof:id":1091847743,
-    "wof:lastmodified":1473984807,
+    "wof:lastmodified":1496895459,
     "wof:name":"Dessl Bautechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

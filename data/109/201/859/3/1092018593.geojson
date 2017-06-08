@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2014303207,47.3497962952,13.2014303207,47.3497962952",
     "geom:latitude":47.349796,
     "geom:longitude":13.20143,
@@ -23,17 +24,34 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        101787869,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aC66JKMOrehEsgRzMkSuw_47.349796_13.201430@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897295,
-    "wof:geomhash":"d53c758a4f153f80fcb432c07cf07601",
-    "wof:hierarchy":[],
+    "wof:geomhash":"833cdec274f2a9ab0d036cac656877a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":101787869,
+            "region_id":85681681,
+            "venue_id":1092018593
+        }
+    ],
     "wof:id":1092018593,
-    "wof:lastmodified":1473984534,
+    "wof:lastmodified":1496894096,
     "wof:name":"BEV-Vermessungsamt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

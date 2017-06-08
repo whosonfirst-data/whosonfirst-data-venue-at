@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7174816132,48.2981719971,15.7174816132,48.2981719971",
     "geom:latitude":48.298172,
     "geom:longitude":15.717482,
@@ -23,17 +24,33 @@
     "sg:postcode":"3130",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G2Xt8CA75Y45zqgYhKkcg_48.298172_15.717482@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903340,
-    "wof:geomhash":"69c1d7aac36bd71772763381b23054ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fd470a064c7946ed34d81f320087c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092152937
+        }
+    ],
     "wof:id":1092152937,
-    "wof:lastmodified":1473983888,
+    "wof:lastmodified":1496890052,
     "wof:name":"Wiener Krankenanstaltenverbund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

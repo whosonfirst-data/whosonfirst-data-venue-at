@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2301340103,48.2366485596,14.2301340103,48.2366485596",
     "geom:latitude":48.236649,
     "geom:longitude":14.230134,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898435,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905424,
-    "wof:geomhash":"4b8a0b9c27ba8fe9c7ac5a4e2f41f381",
+    "wof:geomhash":"6a62def27e4a41ddf0ec3555e788e379",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898435,
             "region_id":85681677,
             "venue_id":1092199369
         }
     ],
     "wof:id":1092199369,
-    "wof:lastmodified":1473985291,
+    "wof:lastmodified":1496887314,
     "wof:name":"Ing. Hans Fuchs",
     "wof:parent_id":85898435,
     "wof:placetype":"venue",

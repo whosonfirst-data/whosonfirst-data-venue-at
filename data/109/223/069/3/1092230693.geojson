@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3273305893,47.9048728943,13.3273305893,47.9048728943",
     "geom:latitude":47.904873,
     "geom:longitude":13.327331,
@@ -23,17 +24,33 @@
     "sg:postcode":"4893",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836533,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GBuXLShx2jcZ1ZPxfppr2_47.904873_13.327331@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473906847,
-    "wof:geomhash":"93f624f917bbdcccda20490c1861a987",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccf702f83941e55a64463f84688cb17e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836533,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092230693
+        }
+    ],
     "wof:id":1092230693,
-    "wof:lastmodified":1473983450,
+    "wof:lastmodified":1496891518,
     "wof:name":"Tenniscenter Zell am Moos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

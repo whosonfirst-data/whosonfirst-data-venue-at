@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2196998596,46.6232299805,14.2196998596,46.6232299805",
     "geom:latitude":46.62323,
     "geom:longitude":14.2197,
@@ -25,10 +26,12 @@
     "sg:website":"wsww.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893481,
-    "wof:geomhash":"a5be689aa5ebc0c38bb04c5327dfeefd",
+    "wof:geomhash":"a33937ade69bc71eefca069c6e1adbe1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1091929285
         }
     ],
     "wof:id":1091929285,
-    "wof:lastmodified":1473985054,
+    "wof:lastmodified":1496906388,
     "wof:name":"Wasserskischule Krumpendorf",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

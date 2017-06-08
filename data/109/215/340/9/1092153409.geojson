@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.17710495,48.2071762085,16.17710495,48.2071762085",
     "geom:latitude":48.207176,
     "geom:longitude":16.177105,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903368,
-    "wof:geomhash":"decff8ab079d78b25a7053b9a7ce1781",
+    "wof:geomhash":"a10343772b69722a00cb5544fe4a6d57",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092153409
         }
     ],
     "wof:id":1092153409,
-    "wof:lastmodified":1473983980,
+    "wof:lastmodified":1496888168,
     "wof:name":"Die Nieder\u00f6sterreichische Versicherung - Erste N\u00f6 Brandschaden-Versicherungs AG",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

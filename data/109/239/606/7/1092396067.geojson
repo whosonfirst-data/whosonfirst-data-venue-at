@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2573204041,48.1328620911,16.2573204041,48.1328620911",
     "geom:latitude":48.132862,
     "geom:longitude":16.25732,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914250,
-    "wof:geomhash":"72ce761865cd5c5d60c61b2701c91e29",
+    "wof:geomhash":"99b998ffe9c22ca536664b4e0731b01d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092396067
         }
     ],
     "wof:id":1092396067,
-    "wof:lastmodified":1473984495,
+    "wof:lastmodified":1496902674,
     "wof:name":"Chiba Renate Dr",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

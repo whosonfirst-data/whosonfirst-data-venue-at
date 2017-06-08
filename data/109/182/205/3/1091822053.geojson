@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7186746597,47.8893280029,15.7186746597,47.8893280029",
     "geom:latitude":47.889328,
     "geom:longitude":15.718675,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835841,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hOMVGSBBIP7mPtTM1prqG_47.889328_15.718675@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888439,
-    "wof:geomhash":"43202834187c966544cd23627690a776",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ba9fe62a6e7456a0caab8d075fb3b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835841,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091822053
+        }
+    ],
     "wof:id":1091822053,
-    "wof:lastmodified":1473983839,
+    "wof:lastmodified":1496888649,
     "wof:name":"Josef Aigner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

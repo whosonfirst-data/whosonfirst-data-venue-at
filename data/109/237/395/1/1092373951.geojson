@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6787853241,47.3038902283,11.6787853241,47.3038902283",
     "geom:latitude":47.30389,
     "geom:longitude":11.678785,
@@ -23,17 +24,33 @@
     "sg:postcode":"6133",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837715,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CcgR9T0nzJQLlC63Jr1vL_47.303890_11.678785@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913191,
-    "wof:geomhash":"0f8ca737b83e41532c084bb0dd4144f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c298fa7abbd117a9182609db3358a9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837715,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092373951
+        }
+    ],
     "wof:id":1092373951,
-    "wof:lastmodified":1473984310,
+    "wof:lastmodified":1496899741,
     "wof:name":"Schneiderhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

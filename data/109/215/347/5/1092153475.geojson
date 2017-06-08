@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.398352623,47.2628326416,11.398352623,47.2628326416",
     "geom:latitude":47.262833,
     "geom:longitude":11.398353,
@@ -24,13 +25,14 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
+        85898613,
         102191581,
+        1108837687,
         85632785,
         101748061,
         102049723,
-        85898609,
-        85898613
+        85681661,
+        85898609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,29 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473903370,
-    "wof:geomhash":"13d91c9cb94fe836092b730d4aa3ba56",
+    "wof:geomhash":"a4ebf6d8e814d8d424ce94aa7bc0570f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
             "locality_id":101748061,
-            "neighbourhood_id":85898609,
+            "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092153475
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85898613,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85898609,
             "region_id":85681661,
             "venue_id":1092153475
         }
     ],
     "wof:id":1092153475,
-    "wof:lastmodified":1473983981,
+    "wof:lastmodified":1496899278,
     "wof:name":"Donau Versicherung",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

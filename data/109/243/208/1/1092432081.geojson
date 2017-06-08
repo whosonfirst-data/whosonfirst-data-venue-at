@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7030887604,48.2289733887,14.7030887604,48.2289733887",
     "geom:latitude":48.228973,
     "geom:longitude":14.703089,
@@ -32,17 +33,33 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835569,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SO0NrjCJiJlfE7GzrVWb2_48.228973_14.703089@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916004,
-    "wof:geomhash":"584c1b2800d6bbb21ba6560dd9ce8a48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97da96f66718de067c96f68d2a4b8cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835569,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092432081
+        }
+    ],
     "wof:id":1092432081,
-    "wof:lastmodified":1473983667,
+    "wof:lastmodified":1496887470,
     "wof:name":"MAX PACHINGER KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

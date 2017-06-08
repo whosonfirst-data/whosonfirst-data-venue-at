@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9842157364,46.6752510071,13.9842157364,46.6752510071",
     "geom:latitude":46.675251,
     "geom:longitude":13.984216,
@@ -32,17 +33,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838131,
+        85632785,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RGQhRjGu0wSVNUQpMqGuS_46.675251_13.984216@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905284,
-    "wof:geomhash":"45da19f54462950399f7f9d47cc09991",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d570ae8e304d2de06758f73ced19cd6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838131,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092196011
+        }
+    ],
     "wof:id":1092196011,
-    "wof:lastmodified":1473984634,
+    "wof:lastmodified":1496905481,
     "wof:name":"Michael Huber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

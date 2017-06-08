@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9249038696,48.0073852539,13.9249038696,48.0073852539",
     "geom:latitude":48.007385,
     "geom:longitude":13.924904,
@@ -31,17 +32,34 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        101785621,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dEwbr0qTBSFL8pC2bklyM_48.007385_13.924904@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889787,
-    "wof:geomhash":"08c36b24ca18914023a054841151d18f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e94b23fb40ae4b8b68dcfec69c975014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":101785621,
+            "region_id":85681677,
+            "venue_id":1091851615
+        }
+    ],
     "wof:id":1091851615,
-    "wof:lastmodified":1473983585,
+    "wof:lastmodified":1496885220,
     "wof:name":"Bernhard Radner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

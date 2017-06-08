@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2239723206,47.9431533813,13.2239723206,47.9431533813",
     "geom:latitude":47.943153,
     "geom:longitude":13.223972,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        101786779,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dP1drDNkTItLYvb1BLlIZ_47.943153_13.223972@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913612,
-    "wof:geomhash":"af9620ebd26dddb1e791835a061e6b36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23f44b35169fe90aee5aac8f5d59daf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":101786779,
+            "region_id":85681681,
+            "venue_id":1092383351
+        }
+    ],
     "wof:id":1092383351,
-    "wof:lastmodified":1473984188,
+    "wof:lastmodified":1496895530,
     "wof:name":"Pizzeria Francesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

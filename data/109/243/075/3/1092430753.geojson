@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6117649078,46.7742156982,12.6117649078,46.7742156982",
     "geom:latitude":46.774216,
     "geom:longitude":12.611765,
@@ -32,17 +33,33 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837489,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B1LaslJZX2mzFrwP7aTR2_46.774216_12.611765@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915943,
-    "wof:geomhash":"1c2622ec32ad565ae474c28c063d0edb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bb1af847cce9768981b962d0a4a8d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837489,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092430753
+        }
+    ],
     "wof:id":1092430753,
-    "wof:lastmodified":1473983431,
+    "wof:lastmodified":1496898085,
     "wof:name":"Anton Lukasser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

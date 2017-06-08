@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9145784378,46.8796691895,15.9145784378,46.8796691895",
     "geom:latitude":46.879669,
     "geom:longitude":15.914578,
@@ -23,17 +24,33 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.bad-gleichenberg.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839269,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Uq0UxTS7c6xhV9HVjMaOW_46.879669_15.914578@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894820,
-    "wof:geomhash":"7ab171484a72263ec32a4b20accde5aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e7ef0b0071150df882d25aefffb7784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839269,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091959913
+        }
+    ],
     "wof:id":1091959913,
-    "wof:lastmodified":1473985320,
+    "wof:lastmodified":1496912398,
     "wof:name":"Bad Gleichenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

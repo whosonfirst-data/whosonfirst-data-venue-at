@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6990604401,47.9882507324,14.6990604401,47.9882507324",
     "geom:latitude":47.988251,
     "geom:longitude":14.69906,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835029,
+        85632785,
+        102049809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JDlRX9aHgSHPesUKp6Iyo_47.988251_14.699060@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898916,
-    "wof:geomhash":"1dc75317ceb24248f83d04e88ff20269",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f623c98f2e86dc54519251c8858786d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049809,
+            "localadmin_id":1108835029,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092060403
+        }
+    ],
     "wof:id":1092060403,
-    "wof:lastmodified":1473983462,
+    "wof:lastmodified":1496884268,
     "wof:name":"Kurt Ritzinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

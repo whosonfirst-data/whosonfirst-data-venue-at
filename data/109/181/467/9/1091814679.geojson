@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4540176392,47.1324653625,11.4540176392,47.1324653625",
     "geom:latitude":47.132465,
     "geom:longitude":11.454018,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"auer-gmbh.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837571,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B1EWlKs5XxBYzgEcv055x_47.132465_11.454018@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473888126,
-    "wof:geomhash":"353f186648569221ae6c86c2e09e1b8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40b5a47868200e76fa985de6db24c59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837571,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091814679
+        }
+    ],
     "wof:id":1091814679,
-    "wof:lastmodified":1473984380,
+    "wof:lastmodified":1496898512,
     "wof:name":"Auer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4554748535,46.7681846619,14.4554748535,46.7681846619",
     "geom:latitude":46.768185,
     "geom:longitude":14.455475,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://www.tiscover.com/dienstlgut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838237,
+        85632785,
+        101790139,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lKFIbo4OVlfYMwFTFyCRo_46.768185_14.455475@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894821,
-    "wof:geomhash":"4bf118b3bd984287c92768cd6ceed879",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a02da867e973c5cab2a8e47996f0fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838237,
+            "locality_id":101790139,
+            "region_id":85681655,
+            "venue_id":1091959927
+        }
+    ],
     "wof:id":1091959927,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496906682,
     "wof:name":"Dienstl Gut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

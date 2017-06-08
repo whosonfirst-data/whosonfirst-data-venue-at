@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4729204178,48.3160095215,14.4729204178,48.3160095215",
     "geom:latitude":48.31601,
     "geom:longitude":14.47292,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.solarier.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835579,
+        85632785,
+        101843331,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fXmFMgXuFRAB7b4FEP6Yd_48.316010_14.472920@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892846,
-    "wof:geomhash":"ae67b69d8cedecf0e94c51e49953431c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d085d2a87d3b1103d582c27ed06284d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835579,
+            "locality_id":101843331,
+            "region_id":85681677,
+            "venue_id":1091916329
+        }
+    ],
     "wof:id":1091916329,
-    "wof:lastmodified":1473984214,
+    "wof:lastmodified":1496887504,
     "wof:name":"SOLARier GesmbH Solar- und Biomasseheizungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

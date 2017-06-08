@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2617950439,47.4505310059,12.2617950439,47.4505310059",
     "geom:latitude":47.450531,
     "geom:longitude":12.261795,
@@ -28,17 +29,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g58ZjknDkAcbykSBL5sMu_47.450531_12.261795@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898377,
-    "wof:geomhash":"3f33bcf679a38e64518ebd09c3260f70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beeed8fb88a32d4edd17587b59b5ceb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092046607
+        }
+    ],
     "wof:id":1092046607,
-    "wof:lastmodified":1473983929,
+    "wof:lastmodified":1496897264,
     "wof:name":"Hotel garni Hetzenauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

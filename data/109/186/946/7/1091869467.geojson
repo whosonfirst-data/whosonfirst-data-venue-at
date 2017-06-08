@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4622192383,47.132358551,16.4622192383,47.132358551",
     "geom:latitude":47.132359,
     "geom:longitude":16.462219,
@@ -23,17 +24,33 @@
     "sg:postcode":"7521",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838741,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ze6Zn6ufpijEh5cUGW5Vn_47.132359_16.462219@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890632,
-    "wof:geomhash":"a83279721ad975c0084342c17ceaaf51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a9c3d0fc40906e9a29587b2682abc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838741,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091869467
+        }
+    ],
     "wof:id":1091869467,
-    "wof:lastmodified":1473985313,
+    "wof:lastmodified":1496909207,
     "wof:name":"Schrammel Ludwig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8352794647,47.9513244629,16.8352794647,47.9513244629",
     "geom:latitude":47.951324,
     "geom:longitude":16.835279,
@@ -32,17 +33,34 @@
         "coating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        101785751,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GhgAw5PsIcQHWFmZTGZSf_47.951324_16.835279@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900716,
-    "wof:geomhash":"2779382d4386f5e1d464093168d40307",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae1953d486e366b5494f56998bf04696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":101785751,
+            "region_id":85681651,
+            "venue_id":1092098235
+        }
+    ],
     "wof:id":1092098235,
-    "wof:lastmodified":1473984807,
+    "wof:lastmodified":1496908222,
     "wof:name":"Johann Wachtler GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

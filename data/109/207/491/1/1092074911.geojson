@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.331908226,47.3231620789,13.331908226,47.3231620789",
     "geom:latitude":47.323162,
     "geom:longitude":13.331908,
@@ -23,17 +24,33 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DqzOWSywG7UUsrNqkCN0c_47.323162_13.331908@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899508,
-    "wof:geomhash":"c7fc5779c5323643bad5c7c57907883c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aa0d709973f58f885b4620a8b2be60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092074911
+        }
+    ],
     "wof:id":1092074911,
-    "wof:lastmodified":1473984231,
+    "wof:lastmodified":1496894174,
     "wof:name":"Gasthof Wagrainerhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

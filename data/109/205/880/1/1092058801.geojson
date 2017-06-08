@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.84786129,48.0818748474,13.84786129,48.0818748474",
     "geom:latitude":48.081875,
     "geom:longitude":13.847861,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.bewaesserung-leitner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836579,
+        85632785,
+        101833213,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uuoFUY2PFjhbJO5EwVs0N_48.081875_13.847861@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898856,
-    "wof:geomhash":"c85aec630c3bd6aeaa5ac9165cdd1771",
-    "wof:hierarchy":[],
+    "wof:geomhash":"099d32f12e4503f156899cc7a3ac65a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836579,
+            "locality_id":101833213,
+            "region_id":85681677,
+            "venue_id":1092058801
+        }
+    ],
     "wof:id":1092058801,
-    "wof:lastmodified":1473984840,
+    "wof:lastmodified":1496891762,
     "wof:name":"Leitner Bew\u00e4sserungsanlagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

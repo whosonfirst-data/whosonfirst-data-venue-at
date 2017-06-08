@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0362577438,47.286945343,11.0362577438,47.286945343",
     "geom:latitude":47.286945,
     "geom:longitude":11.036258,
@@ -23,17 +24,34 @@
     "sg:postcode":"6421",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837437,
+        85632785,
+        101844479,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h63IvB4i3rCsxQeOCeWN4_47.286945_11.036258@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899394,
-    "wof:geomhash":"0ac1d31140b329f5043b10f3cc0c01ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a94f8cd3743bc1f48771381d3e35618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837437,
+            "locality_id":101844479,
+            "region_id":85681661,
+            "venue_id":1092072171
+        }
+    ],
     "wof:id":1092072171,
-    "wof:lastmodified":1473983721,
+    "wof:lastmodified":1496897858,
     "wof:name":"Gasthof Dorferwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

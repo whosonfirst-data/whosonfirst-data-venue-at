@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2696399689,48.1374664307,15.2696399689,48.1374664307",
     "geom:latitude":48.137466,
     "geom:longitude":15.26964,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"jansen-competition.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834999,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EXdKfttJcYCzGyfnmTh3W_48.137466_15.269640@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473911952,
-    "wof:geomhash":"a65d924e6f2fb8ee097f7d7833274f6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dbf2ce8a55702a73ec35663abd44eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108834999,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092347605
+        }
+    ],
     "wof:id":1092347605,
-    "wof:lastmodified":1473984848,
+    "wof:lastmodified":1496884162,
     "wof:name":"Jansen Competition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

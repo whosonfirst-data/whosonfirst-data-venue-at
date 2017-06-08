@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.708565712,47.5175857544,11.708565712,47.5175857544",
     "geom:latitude":47.517586,
     "geom:longitude":11.708566,
@@ -34,17 +35,34 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837847,
+        85632785,
+        101844517,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0arE2AxZwD5ONqOutpa0s0_47.517586_11.708566@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905480,
-    "wof:geomhash":"2a266ed8e7aba402ffb0ec8ca772147f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b610a32bded98ae48f3236802065f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837847,
+            "locality_id":101844517,
+            "region_id":85681661,
+            "venue_id":1092200483
+        }
+    ],
     "wof:id":1092200483,
-    "wof:lastmodified":1473983426,
+    "wof:lastmodified":1496900207,
     "wof:name":"Rudolf Jaud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

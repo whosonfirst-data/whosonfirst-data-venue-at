@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0128717422,48.3636169434,14.0128717422,48.3636169434",
     "geom:latitude":48.363617,
     "geom:longitude":14.012872,
@@ -31,17 +32,34 @@
         "agriculture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834813,
+        85632785,
+        101784581,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1944n9Gl6ePwQVDpsnJRXV_48.363617_14.012872@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905080,
-    "wof:geomhash":"f7168cff9f5b6d392bcd4735d7e7b3c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a9866afe1e2149f7042006310fb2313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834813,
+            "locality_id":101784581,
+            "region_id":85681677,
+            "venue_id":1092191263
+        }
+    ],
     "wof:id":1092191263,
-    "wof:lastmodified":1473983593,
+    "wof:lastmodified":1496882652,
     "wof:name":"MELCHART GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

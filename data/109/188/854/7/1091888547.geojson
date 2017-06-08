@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6447572708,47.271648407,9.6447572708,47.271648407",
     "geom:latitude":47.271648,
     "geom:longitude":9.644757,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891576,
-    "wof:geomhash":"1617daf6a5cd761c8cfbb34356f469d3",
+    "wof:geomhash":"0a0155ad14abc6a53b1792219cf81db2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091888547
         }
     ],
     "wof:id":1091888547,
-    "wof:lastmodified":1473985004,
+    "wof:lastmodified":1496901650,
     "wof:name":"Schnee Kurt",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9250116348,47.4017524719,15.9250116348,47.4017524719",
     "geom:latitude":47.401752,
     "geom:longitude":15.925012,
@@ -23,17 +24,33 @@
     "sg:postcode":"8250",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839085,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27et7AUwbVgUjjgzlIy4Xi_47.401752_15.925012@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914147,
-    "wof:geomhash":"41b63cc4b558bdbb74229deb4f603adc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24a6a8b4def693dc48df2b093928cefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839085,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092393745
+        }
+    ],
     "wof:id":1092393745,
-    "wof:lastmodified":1473983885,
+    "wof:lastmodified":1496911280,
     "wof:name":"Postamt 8250 Vorau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

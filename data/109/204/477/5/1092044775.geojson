@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7803478241,46.8150787354,13.7803478241,46.8150787354",
     "geom:latitude":46.815079,
     "geom:longitude":13.780348,
@@ -28,17 +29,33 @@
     "sg:postcode":"9546",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HgeCWLshBpqs2TTxhfJLh_46.815079_13.780348@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898310,
-    "wof:geomhash":"8ad01dc3596a80bceb1800831f969de0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e73ccbeba5624f03d4463a318e849cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092044775
+        }
+    ],
     "wof:id":1092044775,
-    "wof:lastmodified":1473983712,
+    "wof:lastmodified":1496906809,
     "wof:name":"Das Ronacher Thermenhotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.309015274,47.7414054871,15.309015274,47.7414054871",
     "geom:latitude":47.741405,
     "geom:longitude":15.309015,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839309,
+        85632785,
+        101858897,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EgJji2I3DwKqFEJeTQa1X_47.741405_15.309015@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890095,
-    "wof:geomhash":"c5975b1e04e32b350200dc3c785651ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60b2a7cbdf2db435e73964234091e5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839309,
+            "locality_id":101858897,
+            "region_id":85681687,
+            "venue_id":1091857935
+        }
+    ],
     "wof:id":1091857935,
-    "wof:lastmodified":1473984807,
+    "wof:lastmodified":1496912706,
     "wof:name":"Gesteinsbohrtechnik HandelsgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

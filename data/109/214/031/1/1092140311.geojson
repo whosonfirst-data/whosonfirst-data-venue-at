@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4561386108,48.2952384949,16.4561386108,48.2952384949",
     "geom:latitude":48.295238,
     "geom:longitude":16.456139,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902754,
-    "wof:geomhash":"43bfcbcaa47db6b8ba925654f5ce6072",
+    "wof:geomhash":"727c2b533ad74b4342d4c1066b31bec7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092140311
         }
     ],
     "wof:id":1092140311,
-    "wof:lastmodified":1473983357,
+    "wof:lastmodified":1496890145,
     "wof:name":"Schulungszentrum Gerasdorf",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

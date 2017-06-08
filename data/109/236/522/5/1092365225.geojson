@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1273612976,47.3614845276,11.1273612976,47.3614845276",
     "geom:latitude":47.361485,
     "geom:longitude":11.127361,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sd4OGeGvFUUg2BHhvfNjT_47.361485_11.127361@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912765,
-    "wof:geomhash":"234f61cf4e95c238d0213c7310131f70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03c3104830e238fe55d3f9c498cc690c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092365225
+        }
+    ],
     "wof:id":1092365225,
-    "wof:lastmodified":1473984574,
+    "wof:lastmodified":1496898433,
     "wof:name":"Haus Almfriede",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8369703293,47.6980552673,15.8369703293,47.6980552673",
     "geom:latitude":47.698055,
     "geom:longitude":15.83697,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834923,
+        85632785,
+        101833081,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nTJJ8IJs3M3fJjQLKqi6o_47.698055_15.836970@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913622,
-    "wof:geomhash":"c5e0f887340133bec66b89cb21c3fdc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9b891a087fe3dc96a13eb3c68e8d9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108834923,
+            "locality_id":101833081,
+            "region_id":85681671,
+            "venue_id":1092383605
+        }
+    ],
     "wof:id":1092383605,
-    "wof:lastmodified":1473984203,
+    "wof:lastmodified":1496883568,
     "wof:name":"Pizzeria Luigi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

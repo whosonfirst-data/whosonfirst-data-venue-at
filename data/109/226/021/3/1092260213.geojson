@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3509111404,47.1252250671,15.3509111404,47.1252250671",
     "geom:latitude":47.125225,
     "geom:longitude":15.350911,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908166,
-    "wof:geomhash":"e65529ebce25d416e62c70b3a15396a1",
+    "wof:geomhash":"b74faccc07da5944e54a7610b42c93da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092260213
         }
     ],
     "wof:id":1092260213,
-    "wof:lastmodified":1473983334,
+    "wof:lastmodified":1496911871,
     "wof:name":"Trinkl Johann & Sohn Bef\u00f6rderungs BetriebsgesmbH",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

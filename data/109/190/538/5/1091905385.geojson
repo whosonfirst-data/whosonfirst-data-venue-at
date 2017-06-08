@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5055160522,47.5908317566,16.5055160522,47.5908317566",
     "geom:latitude":47.590832,
     "geom:longitude":16.505516,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838693,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dHAbaaogyRiKNKU7eoXbL_47.590832_16.505516@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892364,
-    "wof:geomhash":"c7830bf944bcbbbaeffbfdf38451f587",
-    "wof:hierarchy":[],
+    "wof:geomhash":"176c6c7427dfbd51f5b5070424d45d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838693,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091905385
+        }
+    ],
     "wof:id":1091905385,
-    "wof:lastmodified":1473984418,
+    "wof:lastmodified":1496909113,
     "wof:name":"Schmidt Silvia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

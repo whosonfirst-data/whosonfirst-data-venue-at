@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4053134918,48.1382904053,16.4053134918,48.1382904053",
     "geom:latitude":48.13829,
     "geom:longitude":16.405313,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916406,
-    "wof:geomhash":"8771eed7c5b67ff64ae49e33be162e3a",
+    "wof:geomhash":"f60ee8d2b639435b9fe231de2087ddfa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092440877
         }
     ],
     "wof:id":1092440877,
-    "wof:lastmodified":1473983443,
+    "wof:lastmodified":1496928091,
     "wof:name":"MA 43 - Friedhof Oberlaa",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

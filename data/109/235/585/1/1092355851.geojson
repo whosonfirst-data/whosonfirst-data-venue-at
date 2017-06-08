@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2970714569,46.6034202576,14.2970714569,46.6034202576",
     "geom:latitude":46.60342,
     "geom:longitude":14.297071,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912342,
-    "wof:geomhash":"5b5b061669ec6d4f15ade128a1830757",
+    "wof:geomhash":"759e45ed33afc5067fb09322926d4dec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092355851
         }
     ],
     "wof:id":1092355851,
-    "wof:lastmodified":1473984544,
+    "wof:lastmodified":1496905911,
     "wof:name":"ARB\u00d6",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

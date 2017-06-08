@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1777172089,48.2345848083,13.1777172089,48.2345848083",
     "geom:latitude":48.234585,
     "geom:longitude":13.177717,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834809,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Zg6fmPCXi3pfkDauoJuEN_48.234585_13.177717@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911568,
-    "wof:geomhash":"eba2842d2d4e0b1885746d7dc8916975",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fa17a5ba1bbf60e96212b1bc8812bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834809,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092338527
+        }
+    ],
     "wof:id":1092338527,
-    "wof:lastmodified":1473985298,
+    "wof:lastmodified":1496882623,
     "wof:name":"LENHARD GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

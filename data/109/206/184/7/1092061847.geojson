@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.84770298,46.5942840576,13.84770298,46.5942840576",
     "geom:latitude":46.594284,
     "geom:longitude":13.847703,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898975,
-    "wof:geomhash":"12a26e7cd3396b95844f6ec9d0526149",
+    "wof:geomhash":"bd8825f0cc00072ccbe37c719d443e88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092061847
         }
     ],
     "wof:id":1092061847,
-    "wof:lastmodified":1473983698,
+    "wof:lastmodified":1496905994,
     "wof:name":"Auenerst\u00fcberl",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8074636459,48.2099189758,13.8074636459,48.2099189758",
     "geom:latitude":48.209919,
     "geom:longitude":13.807464,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        101784571,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CQ1EHsprnKFMRdPqPioEB_48.209919_13.807464@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892804,
-    "wof:geomhash":"1fd3b9482e9c059dc7abd12f5b6397fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dcc289b350c355320020cecbee6da27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":101784571,
+            "region_id":85681677,
+            "venue_id":1091915357
+        }
+    ],
     "wof:id":1091915357,
-    "wof:lastmodified":1473983990,
+    "wof:lastmodified":1496885285,
     "wof:name":"Schoolware-Software f Grundschulen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4939136505,48.2152671814,14.4939136505,48.2152671814",
     "geom:latitude":48.215267,
     "geom:longitude":14.493914,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910201,
-    "wof:geomhash":"d146560f6de0f911e0abb345be6798f4",
+    "wof:geomhash":"c7ea403b0d0703497ba0f58d0e0d167e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092306233
         }
     ],
     "wof:id":1092306233,
-    "wof:lastmodified":1473984696,
+    "wof:lastmodified":1496886555,
     "wof:name":"Bernhard Altmann",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

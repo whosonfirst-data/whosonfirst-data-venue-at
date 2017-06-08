@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.4970932007,47.5039749146,10.4970932007,47.5039749146",
     "geom:latitude":47.503975,
     "geom:longitude":10.497093,
@@ -23,17 +24,33 @@
     "sg:postcode":"6675",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837777,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r3Vs3f7ETB0GiPlqtiJgt_47.503975_10.497093@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912839,
-    "wof:geomhash":"2304975c56682e05ab860d686188a366",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f61a557715277a0b3eee105a10b9f926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837777,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092366661
+        }
+    ],
     "wof:id":1092366661,
-    "wof:lastmodified":1473984877,
+    "wof:lastmodified":1496899955,
     "wof:name":"Haus Reichle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2957839966,47.7894134521,13.2957839966,47.7894134521",
     "geom:latitude":47.789413,
     "geom:longitude":13.295784,
@@ -23,17 +24,33 @@
     "sg:postcode":"5330",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55tZt7slj0gEFoHz0ilr4k_47.789413_13.295784@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889969,
-    "wof:geomhash":"eb2e3e4433e24dc78541233edbb15145",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5787e16d92b276d300d4512b400a70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091855705
+        }
+    ],
     "wof:id":1091855705,
-    "wof:lastmodified":1473984354,
+    "wof:lastmodified":1496895361,
     "wof:name":"Schaden Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

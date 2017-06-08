@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2061061859,47.6662788391,16.2061061859,47.6662788391",
     "geom:latitude":47.666279,
     "geom:longitude":16.206106,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835783,
+        85632785,
+        102049787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZyZ3WP5WU7PZ7dwoU2JVm_47.666279_16.206106@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892840,
-    "wof:geomhash":"604eeebfd29631f28dfaa7550e13e64c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6dcca2511b0a3c265dd4464cf71a038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108835783,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091916179
+        }
+    ],
     "wof:id":1091916179,
-    "wof:lastmodified":1473984188,
+    "wof:lastmodified":1496888323,
     "wof:name":"MTH Schwarz-Mach Autonomous Intelligent Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

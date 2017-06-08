@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4546470642,48.3066864014,16.4546470642,48.3066864014",
     "geom:latitude":48.306686,
     "geom:longitude":16.454647,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903769,
-    "wof:geomhash":"0b2629030649a3788857dc0d67602134",
+    "wof:geomhash":"30f88f54cb654ea625244323fe1183ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092161919
         }
     ],
     "wof:id":1092161919,
-    "wof:lastmodified":1473983775,
+    "wof:lastmodified":1496890132,
     "wof:name":"Volksschule",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

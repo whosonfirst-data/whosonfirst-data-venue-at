@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7550144196,47.0693855286,10.7550144196,47.0693855286",
     "geom:latitude":47.069386,
     "geom:longitude":10.755014,
@@ -23,17 +24,33 @@
     "sg:postcode":"6522",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837301,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_293tF9CGnEiJ8PA5JA81hs_47.069386_10.755014@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912623,
-    "wof:geomhash":"7d58b85961abe3c76fe6a3bdc74bc649",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7b1176505a4aba2e498bb23761bba36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837301,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092362349
+        }
+    ],
     "wof:id":1092362349,
-    "wof:lastmodified":1473983904,
+    "wof:lastmodified":1496896794,
     "wof:name":"Familienpension Wiesenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

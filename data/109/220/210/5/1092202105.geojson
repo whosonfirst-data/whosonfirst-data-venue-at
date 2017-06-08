@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7566080093,46.6640281677,13.7566080093,46.6640281677",
     "geom:latitude":46.664028,
     "geom:longitude":13.756608,
@@ -32,17 +33,33 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838361,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FPFeXkOyDBKpXTnUDyAFD_46.664028_13.756608@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905580,
-    "wof:geomhash":"a3c9dc007365b04350056997de2c8964",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a28014c32e9e10eb6c0a9231d320f91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838361,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092202105
+        }
+    ],
     "wof:id":1092202105,
-    "wof:lastmodified":1473983838,
+    "wof:lastmodified":1496907568,
     "wof:name":"OMYA GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

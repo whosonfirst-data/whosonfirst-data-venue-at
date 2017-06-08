@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0909404755,48.1831550598,16.0909404755,48.1831550598",
     "geom:latitude":48.183155,
     "geom:longitude":16.09094,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836329,
+        85632785,
+        101833255,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Rz82HTVjsSODeNKhlxDY3_48.183155_16.090940@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898920,
-    "wof:geomhash":"85396f706a6043dc3577c4174824c44e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d575e704ab15b5f684a6dd29000214ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108836329,
+            "locality_id":101833255,
+            "region_id":85681671,
+            "venue_id":1092060509
+        }
+    ],
     "wof:id":1092060509,
-    "wof:lastmodified":1473983507,
+    "wof:lastmodified":1496889882,
     "wof:name":"Otto Lebinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

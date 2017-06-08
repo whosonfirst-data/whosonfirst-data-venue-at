@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5485401154,48.1921844482,16.5485401154,48.1921844482",
     "geom:latitude":48.192184,
     "geom:longitude":16.54854,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915996,
-    "wof:geomhash":"4e4842b14ddb61c037ffca8f7fd1086a",
+    "wof:geomhash":"9b91f60be8aedfcfd71f5e59ba082e34",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092431939
         }
     ],
     "wof:id":1092431939,
-    "wof:lastmodified":1473983657,
+    "wof:lastmodified":1496892145,
     "wof:name":"AUSTRIA FROST NAHRUNGSMITTEL GESMBH",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

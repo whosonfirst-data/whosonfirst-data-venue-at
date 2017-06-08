@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7657928467,47.2001037598,9.7657928467,47.2001037598",
     "geom:latitude":47.200104,
     "geom:longitude":9.765793,
@@ -23,17 +24,34 @@
     "sg:postcode":"6712",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838073,
+        85632785,
+        101827445,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oVhnjUshOE3UmjlZ80ECg_47.200104_9.765793@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888788,
-    "wof:geomhash":"d1be412ecd21bd83bb8655f98bc78922",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80879c8760c0458a25fbcc2a20a94d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838073,
+            "locality_id":101827445,
+            "region_id":85681649,
+            "venue_id":1091829859
+        }
+    ],
     "wof:id":1091829859,
-    "wof:lastmodified":1473985329,
+    "wof:lastmodified":1496901833,
     "wof:name":"Sparkasse Bludenz Bank AG Gesch\u00e4ftsstelle Th\u00fcringen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

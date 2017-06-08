@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4994344711,48.1676101685,13.4994344711,48.1676101685",
     "geom:latitude":48.16761,
     "geom:longitude":13.499434,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835671,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yqdRn2XVGwCimWNjv6lVg_48.167610_13.499434@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892761,
-    "wof:geomhash":"da5a45f7353632917f782674b6c1d31e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d077096049cec8f20873d3892a43520b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835671,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091914333
+        }
+    ],
     "wof:id":1091914333,
-    "wof:lastmodified":1473983863,
+    "wof:lastmodified":1496887841,
     "wof:name":"Kohl Thomas Mag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

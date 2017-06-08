@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0461006165,47.9350166321,13.0461006165,47.9350166321",
     "geom:latitude":47.935017,
     "geom:longitude":13.046101,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.salzweb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837169,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LQv8tdSjxlqjN5GMdwpY6_47.935017_13.046101@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896472,
-    "wof:geomhash":"beabf2e68703fb7999620678d53022dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d2c4e4d1e2d50f38427a1e07e215300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837169,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091998513
+        }
+    ],
     "wof:id":1091998513,
-    "wof:lastmodified":1473984967,
+    "wof:lastmodified":1496895591,
     "wof:name":"salzweb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

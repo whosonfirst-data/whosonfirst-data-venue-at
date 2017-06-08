@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1333389282,47.3586730957,11.1333389282,47.3586730957",
     "geom:latitude":47.358673,
     "geom:longitude":11.133339,
@@ -28,17 +29,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ztPr3MJzcrqyAznZ85Gml_47.358673_11.133339@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898281,
-    "wof:geomhash":"7582cb7a03627fa15277e4375e03b66a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"775fef6d5ba5fa9e73dedbb54adccd20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092043929
+        }
+    ],
     "wof:id":1092043929,
-    "wof:lastmodified":1473983522,
+    "wof:lastmodified":1496898440,
     "wof:name":"Alpenhotel Karwendel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

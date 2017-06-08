@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4233951569,47.1829681396,16.4233951569,47.1829681396",
     "geom:latitude":47.182968,
     "geom:longitude":16.423395,
@@ -23,17 +24,33 @@
     "sg:postcode":"7474",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838517,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pgnRi5C1p5nhYf10PROde_47.182968_16.423395@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913921,
-    "wof:geomhash":"4e39e8863c89221029c25798bcee0d5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d829d69a3263076e084281493081656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838517,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092389349
+        }
+    ],
     "wof:id":1092389349,
-    "wof:lastmodified":1473985331,
+    "wof:lastmodified":1496908330,
     "wof:name":"Gendarmerie Grenz\u00fcberwachungsposten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0741796494,48.0024681091,13.0741796494,48.0024681091",
     "geom:latitude":48.002468,
     "geom:longitude":13.07418,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"plansky-guggenberger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837117,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kH4uQFAMeFsYI26AjpED1_48.002468_13.074180@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893134,
-    "wof:geomhash":"04f3644be48ddbda0b60587e81ba8417",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1060445707e86b10a630bed68a8998c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837117,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091923705
+        }
+    ],
     "wof:id":1091923705,
-    "wof:lastmodified":1473984025,
+    "wof:lastmodified":1496895231,
     "wof:name":"Plansky & Guggenberger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

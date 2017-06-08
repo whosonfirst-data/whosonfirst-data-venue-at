@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.792681694,47.3030204773,12.792681694,47.3030204773",
     "geom:latitude":47.30302,
     "geom:longitude":12.792682,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uQUXeAJiWlScEIvWc43JJ_47.303020_12.792682@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899487,
-    "wof:geomhash":"982217a3079ad52da94df3606380ca57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a001ff7fd40896f83dee774401787ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092074365
+        }
+    ],
     "wof:id":1092074365,
-    "wof:lastmodified":1473984106,
+    "wof:lastmodified":1496896519,
     "wof:name":"Gasthof Sch\u00fctthof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

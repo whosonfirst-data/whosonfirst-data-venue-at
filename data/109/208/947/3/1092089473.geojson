@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8428068161,47.1517677307,14.8428068161,47.1517677307",
     "geom:latitude":47.151768,
     "geom:longitude":14.842807,
@@ -23,17 +24,33 @@
     "sg:postcode":"8734",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839397,
+        85632785,
+        102049739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z9u08fdTo9aExmquO4lUV_47.151768_14.842807@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900207,
-    "wof:geomhash":"b0bf0839da1958f8cb00938ddab78c3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9be61644048511261d30bd096124150c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049739,
+            "localadmin_id":1108839397,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092089473
+        }
+    ],
     "wof:id":1092089473,
-    "wof:lastmodified":1473985208,
+    "wof:lastmodified":1496913946,
     "wof:name":"Gemeindeamt Kleinlobming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

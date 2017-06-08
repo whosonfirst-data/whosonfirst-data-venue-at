@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2479658127,47.2718658447,11.2479658127,47.2718658447",
     "geom:latitude":47.271866,
     "geom:longitude":11.247966,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.tyrolis.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837355,
+        85632785,
+        101834221,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XhusgUc8sU2AHrvuQ0EOK_47.271866_11.247966@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916293,
-    "wof:geomhash":"3c7e11724a9c7b99b2c28c0ed2e5c8f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acda73f6da016b066fa794dc58f50a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837355,
+            "locality_id":101834221,
+            "region_id":85681661,
+            "venue_id":1092438377
+        }
+    ],
     "wof:id":1092438377,
-    "wof:lastmodified":1473985112,
+    "wof:lastmodified":1496897227,
     "wof:name":"TYROLIS Handels-GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

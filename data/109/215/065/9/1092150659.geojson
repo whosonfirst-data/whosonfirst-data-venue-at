@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1185312271,47.6002540588,12.1185312271,47.6002540588",
     "geom:latitude":47.600254,
     "geom:longitude":12.118531,
@@ -23,17 +24,33 @@
     "sg:postcode":"6335",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837271,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3014RFye02FShDcBaZdkbG_47.600254_12.118531@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903240,
-    "wof:geomhash":"fd50847a9d7f9317c8a2a351568162d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e460dd25e4a9d7f90ea4d0904ea345f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837271,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092150659
+        }
+    ],
     "wof:id":1092150659,
-    "wof:lastmodified":1473983483,
+    "wof:lastmodified":1496896580,
     "wof:name":"H\u00fcttenverein Enzian e V",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

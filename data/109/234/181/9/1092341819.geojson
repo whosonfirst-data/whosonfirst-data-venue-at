@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.74036026,48.2212905884,13.74036026,48.2212905884",
     "geom:latitude":48.221291,
     "geom:longitude":13.74036,
@@ -31,17 +32,33 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835189,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QagYzJFeEccghlrdigsyQ_48.221291_13.740360@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911706,
-    "wof:geomhash":"c28de96964569c557f66b92d887d8419",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09a800a1d180f6ed78f04f57228a74d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835189,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092341819
+        }
+    ],
     "wof:id":1092341819,
-    "wof:lastmodified":1473983618,
+    "wof:lastmodified":1496885389,
     "wof:name":"SMW METALLVERARBEITUNG GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

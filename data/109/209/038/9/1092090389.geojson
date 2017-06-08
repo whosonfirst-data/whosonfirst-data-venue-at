@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3764648438,47.4545555115,16.3764648438,47.4545555115",
     "geom:latitude":47.454556,
     "geom:longitude":16.376465,
@@ -23,17 +24,33 @@
     "sg:postcode":"7371",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838409,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_324UEgUB80r0rI5rMDgTom_47.454556_16.376465@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900256,
-    "wof:geomhash":"bf8f30336a0a109fd2e954a96034e900",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12d8e4dd2b37a67745470b35b0f8d393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838409,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092090389
+        }
+    ],
     "wof:id":1092090389,
-    "wof:lastmodified":1473983345,
+    "wof:lastmodified":1496907802,
     "wof:name":"Gemeindeamt Unterrabnitz-Schwendgraben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

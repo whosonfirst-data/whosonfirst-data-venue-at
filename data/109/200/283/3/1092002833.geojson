@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4985570908,47.2777442932,11.4985570908,47.2777442932",
     "geom:latitude":47.277744,
     "geom:longitude":11.498557,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896649,
-    "wof:geomhash":"d9197f577dbc7be6c29b35e7cdbdc215",
+    "wof:geomhash":"e40aa1f3455b3173cd6c0df4d0fdf8fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092002833
         }
     ],
     "wof:id":1092002833,
-    "wof:lastmodified":1473983904,
+    "wof:lastmodified":1496898729,
     "wof:name":"KiK Textilien u Non-Food GesmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

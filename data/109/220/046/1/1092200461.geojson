@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4772634506,47.9165763855,13.4772634506,47.9165763855",
     "geom:latitude":47.916576,
     "geom:longitude":13.477263,
@@ -34,17 +35,33 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836493,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DttEapWsexqZ3ODH6irau_47.916576_13.477263@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905480,
-    "wof:geomhash":"7aa3bc7cb047f640ac47340855bd9aba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e9f60d958108d47b92320f7938cd537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836493,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092200461
+        }
+    ],
     "wof:id":1092200461,
-    "wof:lastmodified":1473983388,
+    "wof:lastmodified":1496891284,
     "wof:name":"Otto Mair Antik Tischlerei Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

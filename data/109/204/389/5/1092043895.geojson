@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8436431885,47.525062561,10.8436431885,47.525062561",
     "geom:latitude":47.525063,
     "geom:longitude":10.843643,
@@ -28,17 +29,33 @@
     "sg:postcode":"6600",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837767,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hwLU3c5v7DUCgXBXUGVCG_47.525063_10.843643@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898280,
-    "wof:geomhash":"d5b5c0a9fb5cbe8ae0c9504cb3208647",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8434eaef608c8e0fe2aacc9791184e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837767,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092043895
+        }
+    ],
     "wof:id":1092043895,
-    "wof:lastmodified":1473983517,
+    "wof:lastmodified":1496899917,
     "wof:name":"Alpenhotel Ammerwald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

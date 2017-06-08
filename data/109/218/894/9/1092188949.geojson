@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8027667999,48.1177978516,14.8027667999,48.1177978516",
     "geom:latitude":48.117798,
     "geom:longitude":14.802767,
@@ -31,17 +32,33 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836743,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ju8VBL8VIhw84ofCV2Hj6_48.117798_14.802767@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904978,
-    "wof:geomhash":"3db53e59108444b6a75e5acb12799fda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"353b034fd2f4764968e198f3a5086003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836743,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092188949
+        }
+    ],
     "wof:id":1092188949,
-    "wof:lastmodified":1473985052,
+    "wof:lastmodified":1496892574,
     "wof:name":"Atelier Pammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

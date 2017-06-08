@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.489610672,48.2170715332,16.489610672,48.2170715332",
     "geom:latitude":48.217072,
     "geom:longitude":16.489611,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895236,
-    "wof:geomhash":"f5c0d5ace430782bdeb9f5bf7247c75f",
+    "wof:geomhash":"99ddeeea8061ff751cf1ce8e3ca640d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091969959
         }
     ],
     "wof:id":1091969959,
-    "wof:lastmodified":1473984986,
+    "wof:lastmodified":1496904435,
     "wof:name":"China-Restaurant",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

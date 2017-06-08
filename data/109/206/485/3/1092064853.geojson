@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7243175507,47.9357872009,16.7243175507,47.9357872009",
     "geom:latitude":47.935787,
     "geom:longitude":16.724318,
@@ -23,17 +24,33 @@
     "sg:postcode":"7091",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838521,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eEZscr8wMcb0mcVozsEug_47.935787_16.724318@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899097,
-    "wof:geomhash":"180157400a32872241cdf107d92e8968",
-    "wof:hierarchy":[],
+    "wof:geomhash":"780730cadda5af9dd93c367b3592ec97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838521,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092064853
+        }
+    ],
     "wof:id":1092064853,
-    "wof:lastmodified":1473984261,
+    "wof:lastmodified":1496908355,
     "wof:name":"Gasthaus am Lerchfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

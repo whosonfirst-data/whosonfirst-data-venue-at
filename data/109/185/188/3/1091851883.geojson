@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3082809448,48.7163505554,16.3082809448,48.7163505554",
     "geom:latitude":48.716351,
     "geom:longitude":16.308281,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836617,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EDutUXmnKYAdWaqvTUNDK_48.716351_16.308281@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889798,
-    "wof:geomhash":"f2721d80311f16950770d7a1fcc98bea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5357950a5d38fa28ee6dc7f72840a455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836617,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091851883
+        }
+    ],
     "wof:id":1091851883,
-    "wof:lastmodified":1473983649,
+    "wof:lastmodified":1496891962,
     "wof:name":"Markus Unden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

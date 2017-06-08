@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0878257751,47.8514022827,13.0878257751,47.8514022827",
     "geom:latitude":47.851402,
     "geom:longitude":13.087826,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913755,
-    "wof:geomhash":"0fbb978fd1910dd7779d53a19526cc39",
+    "wof:geomhash":"552469930d586b124ef8b3df621ec917",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092386443
         }
     ],
     "wof:id":1092386443,
-    "wof:lastmodified":1473984805,
+    "wof:lastmodified":1496895388,
     "wof:name":"Peranek Franz",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

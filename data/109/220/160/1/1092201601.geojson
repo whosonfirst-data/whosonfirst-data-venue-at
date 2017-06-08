@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9403409958,48.5001220703,13.9403409958,48.5001220703",
     "geom:latitude":48.500122,
     "geom:longitude":13.940341,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"alchem.at/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835713,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PTKqw6Eumnpkw2xJ0UKtU_48.500122_13.940341@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905543,
-    "wof:geomhash":"843ecf1d60f0ce16a05a69903eb7794e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"651ca11ed6ef3297d86a90f5515ab5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835713,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092201601
+        }
+    ],
     "wof:id":1092201601,
-    "wof:lastmodified":1473983742,
+    "wof:lastmodified":1496888054,
     "wof:name":"ALCHEM Metallchemie Produktionsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

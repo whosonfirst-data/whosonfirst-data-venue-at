@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3777523041,48.1433448792,14.3777523041,48.1433448792",
     "geom:latitude":48.143345,
     "geom:longitude":14.377752,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835533,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xEOCaqhQhjRUHeDtMRO0P_48.143345_14.377752@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908491,
-    "wof:geomhash":"0b6debda5a2a386a53a75e57f4c3d3fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdc0b112c22de7fe28ef3f6ab46b63e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835533,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092267469
+        }
+    ],
     "wof:id":1092267469,
-    "wof:lastmodified":1473984759,
+    "wof:lastmodified":1496887108,
     "wof:name":"Rudolf Arbeithuber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

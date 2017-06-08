@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1630630493,47.5863647461,12.1630630493,47.5863647461",
     "geom:latitude":47.586365,
     "geom:longitude":12.163063,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6n5h1p64bhovshflrldFjc_47.586365_12.163063@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908410,
-    "wof:geomhash":"1cc86063bdb02ae523962968533e5f94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e66d44a852f9613960db0b2901ad9c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1092265593
+        }
+    ],
     "wof:id":1092265593,
-    "wof:lastmodified":1473984469,
+    "wof:lastmodified":1496897585,
     "wof:name":"Ing. Dieter Seilinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

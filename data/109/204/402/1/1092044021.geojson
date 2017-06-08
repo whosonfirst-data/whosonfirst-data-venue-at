@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3149347305,47.4481468201,12.3149347305,47.4481468201",
     "geom:latitude":47.448147,
     "geom:longitude":12.314935,
@@ -28,17 +29,34 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        101834287,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3waZHxlcQIJacP4KbLFgni_47.448147_12.314935@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898284,
-    "wof:geomhash":"ae1d350fce6bb1e648d9220393f4976a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd557c2c492bdeb8e4308b11c1583c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":101834287,
+            "region_id":85681661,
+            "venue_id":1092044021
+        }
+    ],
     "wof:id":1092044021,
-    "wof:lastmodified":1473983524,
+    "wof:lastmodified":1496899103,
     "wof:name":"Alpenresidenz Adler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

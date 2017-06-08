@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3873643875,47.2601470947,11.3873643875,47.2601470947",
     "geom:latitude":47.260147,
     "geom:longitude":11.387364,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896300,
-    "wof:geomhash":"2a74c03587e0b6155e85edc95c0aa3f7",
+    "wof:geomhash":"193530695d8874041e18ecc38cf0a5c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091994441
         }
     ],
     "wof:id":1091994441,
-    "wof:lastmodified":1473984178,
+    "wof:lastmodified":1496899538,
     "wof:name":"Institut f Biostatistik d Universit\u00e4t Innsbruck",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.885723114,47.062171936,9.885723114,47.062171936",
     "geom:latitude":47.062172,
     "geom:longitude":9.885723,
@@ -23,17 +24,33 @@
     "sg:postcode":"6774",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838077,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SEKgxO3cvWPYSLOUTzMQM_47.062172_9.885723@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898994,
-    "wof:geomhash":"30a546d2729f7d153e61f74cc8ced848",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b512a8ede012262fe97e6050cf784137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838077,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092062299
+        }
+    ],
     "wof:id":1092062299,
-    "wof:lastmodified":1473983814,
+    "wof:lastmodified":1496901852,
     "wof:name":"Berggasthof Grabs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

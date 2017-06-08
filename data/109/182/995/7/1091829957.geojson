@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.59623909,47.2381515503,9.59623909,47.2381515503",
     "geom:latitude":47.238152,
     "geom:longitude":9.596239,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888791,
-    "wof:geomhash":"fe19414018a59069c44b1c1783270ff1",
+    "wof:geomhash":"8a83ef4a08a8c124ee77043a551a9d61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091829957
         }
     ],
     "wof:id":1091829957,
-    "wof:lastmodified":1473985329,
+    "wof:lastmodified":1496900894,
     "wof:name":"Sparkasse der Stadt Feldkirch",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

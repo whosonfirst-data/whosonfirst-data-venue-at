@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0719766617,47.8147964478,13.0719766617,47.8147964478",
     "geom:latitude":47.814796,
     "geom:longitude":13.071977,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913515,
-    "wof:geomhash":"558b0c74af633d4fb80311c248035a03",
+    "wof:geomhash":"17d639e85d5f9e26a6226a2f400b84c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092381689
         }
     ],
     "wof:id":1092381689,
-    "wof:lastmodified":1473983735,
+    "wof:lastmodified":1496923005,
     "wof:name":"Klavierhaus Glosz",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

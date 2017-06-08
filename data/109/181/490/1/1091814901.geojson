@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5137290955,48.4430999756,16.5137290955,48.4430999756",
     "geom:latitude":48.4431,
     "geom:longitude":16.513729,
@@ -32,17 +33,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836321,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RUDccT5wifIeoWYWfeWs4_48.443100_16.513729@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473888134,
-    "wof:geomhash":"d7aaa0bac8706685aefc6dae841a4235",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b37ad945b10012fd24f7e2deb1cb798b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836321,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091814901
+        }
+    ],
     "wof:id":1091814901,
-    "wof:lastmodified":1473984415,
+    "wof:lastmodified":1496890513,
     "wof:name":"Franz Holy Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

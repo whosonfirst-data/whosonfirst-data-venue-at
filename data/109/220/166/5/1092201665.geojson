@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1664800644,46.8508491516,14.1664800644,46.8508491516",
     "geom:latitude":46.850849,
     "geom:longitude":14.16648,
@@ -32,17 +33,33 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838245,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6i32xWeSkzmOOoMRisxPoV_46.850849_14.166480@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905554,
-    "wof:geomhash":"7a98dc25f927ac8ae724eaa05870ee2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"335104813b0575c25fc8176a78b9e903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838245,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092201665
+        }
+    ],
     "wof:id":1092201665,
-    "wof:lastmodified":1473983716,
+    "wof:lastmodified":1496906767,
     "wof:name":"AURO NATURFARBEN GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

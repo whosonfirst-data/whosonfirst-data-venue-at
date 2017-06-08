@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.192814827,46.5483703613,14.192814827,46.5483703613",
     "geom:latitude":46.54837,
     "geom:longitude":14.192815,
@@ -33,17 +34,33 @@
         "roof"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838177,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OF53Fk3z0Dh7SaHVPysSL_46.548370_14.192815@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915651,
-    "wof:geomhash":"8dca87f0e618a2762aca313d7769de25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21aa77530ba0289fd89fd4bfb6e60fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838177,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092424395
+        }
+    ],
     "wof:id":1092424395,
-    "wof:lastmodified":1473984170,
+    "wof:lastmodified":1496906414,
     "wof:name":"Robert Hedenik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

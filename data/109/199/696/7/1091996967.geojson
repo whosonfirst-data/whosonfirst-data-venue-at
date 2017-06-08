@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5250453949,48.0466957092,16.5250453949,48.0466957092",
     "geom:latitude":48.046696,
     "geom:longitude":16.525045,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"webaudit.biz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836651,
+        85632785,
+        101784509,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jvU8vlFXpWPWxOmUfvY2b_48.046696_16.525045@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896408,
-    "wof:geomhash":"9b518e623f8c627bd63ff04266be1c94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5f1cc65c5e2e94ba87dc38f8cb1264c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836651,
+            "locality_id":101784509,
+            "region_id":85681671,
+            "venue_id":1091996967
+        }
+    ],
     "wof:id":1091996967,
-    "wof:lastmodified":1473984734,
+    "wof:lastmodified":1496892201,
     "wof:name":"WEBAUDIT Gesellschaft f\u00fcr Internettechnologie GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

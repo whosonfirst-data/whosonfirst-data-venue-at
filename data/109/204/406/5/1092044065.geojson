@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2650957108,47.1283950806,10.2650957108,47.1283950806",
     "geom:latitude":47.128395,
     "geom:longitude":10.265096,
@@ -28,17 +29,34 @@
     "sg:postcode":"6580",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        101826319,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2unHxsf5xNy02okKWtzacd_47.128395_10.265096@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898285,
-    "wof:geomhash":"1264c62e38cd9c6747e21697559088f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc2c84ca5bb20519686fb3125a4113d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":101826319,
+            "region_id":85681661,
+            "venue_id":1092044065
+        }
+    ],
     "wof:id":1092044065,
-    "wof:lastmodified":1473983544,
+    "wof:lastmodified":1496896910,
     "wof:name":"Alte Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

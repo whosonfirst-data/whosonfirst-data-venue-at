@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6945447922,47.3731803894,9.6945447922,47.3731803894",
     "geom:latitude":47.37318,
     "geom:longitude":9.694545,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898621,
-        102049737
+        102191581,
+        1108837963,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903085,
-    "wof:geomhash":"d7a250c4bcc8b07de1955d5b188e7b5d",
+    "wof:geomhash":"147e138ec18cf7ea28737fc5e2323758",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":-1,
             "neighbourhood_id":85898621,
             "region_id":85681649,
             "venue_id":1092147421
         }
     ],
     "wof:id":1092147421,
-    "wof:lastmodified":1473984780,
+    "wof:lastmodified":1496901147,
     "wof:name":"Madegrafix",
     "wof:parent_id":85898621,
     "wof:placetype":"venue",

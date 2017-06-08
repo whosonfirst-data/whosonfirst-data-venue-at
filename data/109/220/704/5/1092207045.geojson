@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.242477417,48.2219467163,14.242477417,48.2219467163",
     "geom:latitude":48.221947,
     "geom:longitude":14.242477,
@@ -32,17 +33,34 @@
         "cylinder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        101754215,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jN8qwrQ9Lovs8AZGo1n20_48.221947_14.242477@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905830,
-    "wof:geomhash":"a0488d3645ecd39fef6965593eebf143",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ec9fa7208c4327711f6e12f09759134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":101754215,
+            "region_id":85681677,
+            "venue_id":1092207045
+        }
+    ],
     "wof:id":1092207045,
-    "wof:lastmodified":1473984783,
+    "wof:lastmodified":1496887407,
     "wof:name":"Thomas Lamm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

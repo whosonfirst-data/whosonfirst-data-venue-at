@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8704090118,48.0028648376,12.8704090118,48.0028648376",
     "geom:latitude":48.002865,
     "geom:longitude":12.870409,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"ahc-surface.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834789,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57T7i0r4ts91Wb2y1Q3fxX_48.002865_12.870409@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909279,
-    "wof:geomhash":"a197d32b797aaab28640d4966063b21c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa4b9eca2e6d0af04b1f392eac8ed847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834789,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092285805
+        }
+    ],
     "wof:id":1092285805,
-    "wof:lastmodified":1473984486,
+    "wof:lastmodified":1496882586,
     "wof:name":"AHC-Oberfl\u00e4chentechnik Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6944904327,46.5576286316,13.6944904327,46.5576286316",
     "geom:latitude":46.557629,
     "geom:longitude":13.69449,
@@ -23,17 +24,34 @@
     "sg:postcode":"9601",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838323,
+        85632785,
+        101790107,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZbZRq29yj9pnIcy8NuX2W_46.557629_13.694490@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901195,
-    "wof:geomhash":"8be0361a8b75e4b17efc8931e3b7269d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f3eaccda45673668dbe7ab05932e960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838323,
+            "locality_id":101790107,
+            "region_id":85681655,
+            "venue_id":1092107967
+        }
+    ],
     "wof:id":1092107967,
-    "wof:lastmodified":1473984821,
+    "wof:lastmodified":1496907321,
     "wof:name":"K\u00e4rntner Restm\u00fcllverwertungs GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

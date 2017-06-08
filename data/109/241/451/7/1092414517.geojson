@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.072684288,47.8152236938,13.072684288,47.8152236938",
     "geom:latitude":47.815224,
     "geom:longitude":13.072684,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915191,
-    "wof:geomhash":"40e2ca1fc15ea2bdeb7f045504d6075f",
+    "wof:geomhash":"e9b32df59e1946565a23529809e4d3c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092414517
         }
     ],
     "wof:id":1092414517,
-    "wof:lastmodified":1473984283,
+    "wof:lastmodified":1496894682,
     "wof:name":"Feuerwehr Salzburg-Stadt",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

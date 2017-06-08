@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2177915573,47.41929245,13.2177915573,47.41929245",
     "geom:latitude":47.419292,
     "geom:longitude":13.217792,
@@ -28,17 +29,34 @@
     "sg:postcode":"5500",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        101844515,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U2G8vLLg0PCoz6ChXsLB0_47.419292_13.217792@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894945,
-    "wof:geomhash":"827f83a1be67e71735709398f449e4e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c2ca05df3f3642e5b001585e752361a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":101844515,
+            "region_id":85681681,
+            "venue_id":1091962977
+        }
+    ],
     "wof:id":1091962977,
-    "wof:lastmodified":1473983763,
+    "wof:lastmodified":1496893807,
     "wof:name":"Das Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4674501419,47.5078697205,12.4674501419,47.5078697205",
     "geom:latitude":47.50787,
     "geom:longitude":12.46745,
@@ -32,17 +33,33 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xul6xNd18kjCyd6Uis8yd_47.507870_12.467450@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915936,
-    "wof:geomhash":"4f9c72aa7583e40c78c398093887e30c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b246903da257c6fda252fca5f0e34c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092430583
+        }
+    ],
     "wof:id":1092430583,
-    "wof:lastmodified":1473983371,
+    "wof:lastmodified":1496897341,
     "wof:name":"Roman Treffer RSM-Estriche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

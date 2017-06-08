@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1985607147,48.2933082581,14.1985607147,48.2933082581",
     "geom:latitude":48.293308,
     "geom:longitude":14.198561,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898455,
-        102049847
+        102191581,
+        1108836397,
+        85632785,
+        101754239,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906500,
-    "wof:geomhash":"b75d04fe52ea3a753a1c3f532115258c",
+    "wof:geomhash":"1e4879aa28053bdb36ed4c14fae8f778",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836397,
+            "locality_id":101754239,
             "neighbourhood_id":85898455,
             "region_id":85681677,
             "venue_id":1092222377
         }
     ],
     "wof:id":1092222377,
-    "wof:lastmodified":1473983893,
+    "wof:lastmodified":1496887456,
     "wof:name":"Taxi - Tom",
     "wof:parent_id":85898455,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4111366272,47.2809867859,11.4111366272,47.2809867859",
     "geom:latitude":47.280987,
     "geom:longitude":11.411137,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896974,
-    "wof:geomhash":"92de23f4b8232d034c7b1e0350405462",
+    "wof:geomhash":"d33d32335ab314601da5a2006b7fcaae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092010729
         }
     ],
     "wof:id":1092010729,
-    "wof:lastmodified":1473983311,
+    "wof:lastmodified":1496899462,
     "wof:name":"Mailtrans",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

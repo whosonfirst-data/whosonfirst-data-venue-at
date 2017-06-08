@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3535366058,47.2524604797,11.3535366058,47.2524604797",
     "geom:latitude":47.25246,
     "geom:longitude":11.353537,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892184,
-    "wof:geomhash":"077d09fefe11a53df47f61b5c0d2a77e",
+    "wof:geomhash":"6340fb03410a591bd7ed86b5be956480",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1091901457
         }
     ],
     "wof:id":1091901457,
-    "wof:lastmodified":1473983603,
+    "wof:lastmodified":1496899518,
     "wof:name":"Lenzi G\u00fcnter",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

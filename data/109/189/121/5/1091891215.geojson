@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8950843811,47.193447113,10.8950843811,47.193447113",
     "geom:latitude":47.193447,
     "geom:longitude":10.895084,
@@ -23,17 +24,33 @@
     "sg:postcode":"6433",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837435,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FRkPzehMdjOjHdkQgTekB_47.193447_10.895084@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891688,
-    "wof:geomhash":"16d506a1ddd361318c7926985a34aee4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17deb59529053d2d0da1a9fd7a3fa0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837435,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091891215
+        }
+    ],
     "wof:id":1091891215,
-    "wof:lastmodified":1473983614,
+    "wof:lastmodified":1496897834,
     "wof:name":"Piburger See",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

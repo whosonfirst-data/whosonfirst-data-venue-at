@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5975933075,47.7887496948,16.5975933075,47.7887496948",
     "geom:latitude":47.78875,
     "geom:longitude":16.597593,
@@ -23,17 +24,33 @@
     "sg:postcode":"7062",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838677,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VuYVX9f2tOTseSojEyexx_47.788750_16.597593@1306268290"
     },
     "wof:country":"AT",
     "wof:created":1473907132,
-    "wof:geomhash":"919b9b2ab9395531000f14179afe1849",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1429e8107254de79be9b996035319e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838677,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092237053
+        }
+    ],
     "wof:id":1092237053,
-    "wof:lastmodified":1473984815,
+    "wof:lastmodified":1496909092,
     "wof:name":"Tierschutzhaus Burgenland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

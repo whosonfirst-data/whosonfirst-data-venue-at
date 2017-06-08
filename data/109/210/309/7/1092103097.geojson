@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2055301666,47.0722198486,16.2055301666,47.0722198486",
     "geom:latitude":47.07222,
     "geom:longitude":16.20553,
@@ -32,17 +33,33 @@
         "granite"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838515,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cHm7i8QMiOKRZ0YWO8mRq_47.072220_16.205530@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900964,
-    "wof:geomhash":"27bec2a29f0a3f4d16d238791b9d2f95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4d1946a4de32e498e7034586f9b67db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838515,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092103097
+        }
+    ],
     "wof:id":1092103097,
-    "wof:lastmodified":1473983898,
+    "wof:lastmodified":1496908327,
     "wof:name":"Piuk und Zapf GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1516094208,48.2285614014,16.1516094208,48.2285614014",
     "geom:latitude":48.228561,
     "geom:longitude":16.151609,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836775,
+        85632785,
+        101754223,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_312ulYXBK3gNoXNORC2QuH_48.228561_16.151609@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908409,
-    "wof:geomhash":"1c1d2bd04c12ea3896ce837701b83c0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac92f11f8b90f35ad14bad9397d2b1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108836775,
+            "locality_id":101754223,
+            "region_id":85681671,
+            "venue_id":1092265573
+        }
+    ],
     "wof:id":1092265573,
-    "wof:lastmodified":1473984469,
+    "wof:lastmodified":1496892725,
     "wof:name":"Herbert Maier Elektroinstallationen Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

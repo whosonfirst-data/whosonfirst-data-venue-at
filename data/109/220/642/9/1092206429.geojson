@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1450634003,48.2330131531,16.1450634003,48.2330131531",
     "geom:latitude":48.233013,
     "geom:longitude":16.145063,
@@ -32,17 +33,34 @@
         "crushed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836775,
+        85632785,
+        101754223,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mbRFqggjdUT0BfCMIGUw9_48.233013_16.145063@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905804,
-    "wof:geomhash":"51c4be7a219ed92e2a6fcfa9b59627c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"977e3a8d369c5b2f2a4e735bbcb12ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108836775,
+            "locality_id":101754223,
+            "region_id":85681671,
+            "venue_id":1092206429
+        }
+    ],
     "wof:id":1092206429,
-    "wof:lastmodified":1473984727,
+    "wof:lastmodified":1496892715,
     "wof:name":"Leopold Ring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

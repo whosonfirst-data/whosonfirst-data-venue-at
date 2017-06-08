@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3775558472,48.1991004944,16.3775558472,48.1991004944",
     "geom:latitude":48.1991,
     "geom:longitude":16.377556,
@@ -24,13 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898645,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898741,
-        85898645
+        85681667,
+        85898741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473890998,
-    "wof:geomhash":"e6f284be1b5d9a8dc6c0302a9776d901",
+    "wof:geomhash":"efd3367050d88c1ea92880600612c4ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898741,
+            "neighbourhood_id":85898645,
             "region_id":85681667,
             "venue_id":1091876919
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898645,
+            "neighbourhood_id":85898741,
             "region_id":85681667,
             "venue_id":1091876919
         }
     ],
     "wof:id":1091876919,
-    "wof:lastmodified":1473984626,
+    "wof:lastmodified":1496902798,
     "wof:name":"Botschaft v \u00e4thiopien",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

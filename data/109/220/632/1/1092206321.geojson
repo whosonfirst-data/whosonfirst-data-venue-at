@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.125743866,48.288192749,16.125743866,48.288192749",
     "geom:latitude":48.288193,
     "geom:longitude":16.125744,
@@ -32,17 +33,33 @@
         "crushed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834867,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JNzilq72XR7hJw9gWeXq9_48.288193_16.125744@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905800,
-    "wof:geomhash":"d0f4705c8727ba838a5d771cd8ef3c7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4168a6192fd416c3434eee49844973b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108834867,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092206321
+        }
+    ],
     "wof:id":1092206321,
-    "wof:lastmodified":1473984735,
+    "wof:lastmodified":1496883117,
     "wof:name":"Eigner & Rothbauer Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

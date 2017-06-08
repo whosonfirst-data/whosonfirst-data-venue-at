@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2237825394,47.0295715332,15.2237825394,47.0295715332",
     "geom:latitude":47.029572,
     "geom:longitude":15.223783,
@@ -32,17 +33,33 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838843,
+        85632785,
+        102049717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bjjUlJMaUPyXnHZBHfH4H_47.029572_15.223783@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905248,
-    "wof:geomhash":"249e0191a3fb2aa511ff02a1a871ce1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a75298858050a6bea205aed5ddeae0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108838843,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092195193
+        }
+    ],
     "wof:id":1092195193,
-    "wof:lastmodified":1473984511,
+    "wof:lastmodified":1496909553,
     "wof:name":"Verkehrstechnische Absicherungssyteme Anton Buchhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6568450928,47.4663505554,16.6568450928,47.4663505554",
     "geom:latitude":47.466351,
     "geom:longitude":16.656845,
@@ -29,17 +30,33 @@
     "sg:province":"Burgenland",
     "sg:website":"allinred.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cSXXFRRUv57H29ccw88J3_47.466351_16.656845@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898277,
-    "wof:geomhash":"73fbf2849090936a0aa8a343c4eabdaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a8072d37f09211ca739416a417e06db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092043813
+        }
+    ],
     "wof:id":1092043813,
-    "wof:lastmodified":1473983489,
+    "wof:lastmodified":1496909137,
     "wof:name":"ALL IN RED Thermenhotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

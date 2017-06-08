@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9708852768,47.7732925415,12.9708852768,47.7732925415",
     "geom:latitude":47.773293,
     "geom:longitude":12.970885,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898517,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902475,
-    "wof:geomhash":"27b1bbd92a417325a088e39ccde21068",
+    "wof:geomhash":"a031ebf5ba1d1dbcf621f84873fffae1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85898517,
             "region_id":85681681,
             "venue_id":1092134269
         }
     ],
     "wof:id":1092134269,
-    "wof:lastmodified":1473984126,
+    "wof:lastmodified":1496895746,
     "wof:name":"WDW WebDesign Wanger Manfred",
     "wof:parent_id":85898517,
     "wof:placetype":"venue",

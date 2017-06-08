@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4851980209,46.7502746582,12.4851980209,46.7502746582",
     "geom:latitude":46.750275,
     "geom:longitude":12.485198,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837787,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Vm05V8hAWBMHCihoxOPJ7_46.750275_12.485198@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898897,
-    "wof:geomhash":"cd1120b082c0a25ab5b6dc42a4d7a957",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c04f08b5253e7e477d662ef0264f912b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837787,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092059947
+        }
+    ],
     "wof:id":1092059947,
-    "wof:lastmodified":1473985210,
+    "wof:lastmodified":1496899983,
     "wof:name":"Gebhard Troyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.004696846,48.1839179993,14.004696846,48.1839179993",
     "geom:latitude":48.183918,
     "geom:longitude":14.004697,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.kraxberger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FwHY5r2l4jdAsVbE3zZnK_48.183918_14.004697@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907709,
-    "wof:geomhash":"b1daed98bdd5d2e898938666e1e226e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85b0cc26919e27ff72711a33e636ebe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092249631
+        }
+    ],
     "wof:id":1092249631,
-    "wof:lastmodified":1473985241,
+    "wof:lastmodified":1496881894,
     "wof:name":"Kraxberger Veranstaltungstechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

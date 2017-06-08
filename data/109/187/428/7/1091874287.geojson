@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0740146637,47.8057632446,13.0740146637,47.8057632446",
     "geom:latitude":47.805763,
     "geom:longitude":13.074015,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890880,
-    "wof:geomhash":"03e186134979d55b248bb6280731e7d9",
+    "wof:geomhash":"2f772b26c796165efd3a26b0adf5d983",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1091874287
         }
     ],
     "wof:id":1091874287,
-    "wof:lastmodified":1473984007,
+    "wof:lastmodified":1496894742,
     "wof:name":"Angerer Fritz",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

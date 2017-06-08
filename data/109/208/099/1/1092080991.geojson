@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.114071846,47.3625564575,11.114071846,47.3625564575",
     "geom:latitude":47.362556,
     "geom:longitude":11.114072,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vCP6BiwYaABEk3xr33Y8Z_47.362556_11.114072@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899810,
-    "wof:geomhash":"cab55411f0846b540dd40c108ae399d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02a35ffa5807f883d843547fc47cd7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092080991
+        }
+    ],
     "wof:id":1092080991,
-    "wof:lastmodified":1473983504,
+    "wof:lastmodified":1496898451,
     "wof:name":"Restaurant H\u00e4mmermoos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

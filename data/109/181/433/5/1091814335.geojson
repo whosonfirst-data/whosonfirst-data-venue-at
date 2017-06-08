@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.607424736,47.2449188232,9.607424736,47.2449188232",
     "geom:latitude":47.244919,
     "geom:longitude":9.607425,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888107,
-    "wof:geomhash":"aac30f94f3dd33a45adc04082ef498fb",
+    "wof:geomhash":"738abe86228098cbfebf9f0dd731e079",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091814335
         }
     ],
     "wof:id":1091814335,
-    "wof:lastmodified":1473984269,
+    "wof:lastmodified":1496900931,
     "wof:name":"Henss Innenausbau GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

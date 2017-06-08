@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.268196106,48.1795959473,16.268196106,48.1795959473",
     "geom:latitude":48.179596,
     "geom:longitude":16.268196,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916837,
-    "wof:geomhash":"4c99232857c912ce97e1d243bed19d5e",
+    "wof:geomhash":"14d020a5e41c44da787d5fb96b337c39",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092449911
         }
     ],
     "wof:id":1092449911,
-    "wof:lastmodified":1473985292,
+    "wof:lastmodified":1496904426,
     "wof:name":"Mayer Gertrude",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

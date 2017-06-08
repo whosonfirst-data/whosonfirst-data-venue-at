@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3305244446,47.8572692871,16.3305244446,47.8572692871",
     "geom:latitude":47.857269,
     "geom:longitude":16.330524,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834823,
+        85632785,
+        101833125,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t8Ev7nTgaPpxZAlE1bATQ_47.857269_16.330524@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892666,
-    "wof:geomhash":"f01db7479ad899d0f4195dd098c04ca4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e1e313420eca610ca6f76af884d3cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834823,
+            "locality_id":101833125,
+            "region_id":85681671,
+            "venue_id":1091912597
+        }
+    ],
     "wof:id":1091912597,
-    "wof:lastmodified":1473983572,
+    "wof:lastmodified":1496882768,
     "wof:name":"Baumgartner E Datenverarbeitung GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

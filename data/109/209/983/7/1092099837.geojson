@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0825748444,48.0057640076,13.0825748444,48.0057640076",
     "geom:latitude":48.005764,
     "geom:longitude":13.082575,
@@ -23,17 +24,33 @@
     "sg:postcode":"5163",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834773,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1urBVOwH49riYg4O8NF14l_48.005764_13.082575@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900801,
-    "wof:geomhash":"bbe01f6f15463ed9b0305ebb2970ae9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed67b174a94ea7c59a9cf2970bbd97a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834773,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092099837
+        }
+    ],
     "wof:id":1092099837,
-    "wof:lastmodified":1473985127,
+    "wof:lastmodified":1496882559,
     "wof:name":"Gemeindeamt Perwang am Grabensee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

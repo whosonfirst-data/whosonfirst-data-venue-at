@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.986199379,48.1398239136,15.986199379,48.1398239136",
     "geom:latitude":48.139824,
     "geom:longitude":15.986199,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.wokafilm.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836637,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30j5nPxvUBTh8sRbv2keMm_48.139824_15.986199@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896478,
-    "wof:geomhash":"a1ff6f94f2f88fa3f933457ebb978ee1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c7417f55b1028e6f6b9463e3b9fa277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836637,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091998659
+        }
+    ],
     "wof:id":1091998659,
-    "wof:lastmodified":1473985006,
+    "wof:lastmodified":1496892124,
     "wof:name":"wokafilm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

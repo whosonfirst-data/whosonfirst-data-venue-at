@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8176317215,46.8185577393,13.8176317215,46.8185577393",
     "geom:latitude":46.818558,
     "geom:longitude":13.817632,
@@ -23,17 +24,33 @@
     "sg:postcode":"9546",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cSeCXOzYKAcRhRb1lGI9O_46.818558_13.817632@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473906866,
-    "wof:geomhash":"6349421a5a5d4764ec51555944521853",
-    "wof:hierarchy":[],
+    "wof:geomhash":"108962bc630bf6f1e6fe87eb3e7aa1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092231163
+        }
+    ],
     "wof:id":1092231163,
-    "wof:lastmodified":1473983479,
+    "wof:lastmodified":1496906787,
     "wof:name":"Tennisschule Schretter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

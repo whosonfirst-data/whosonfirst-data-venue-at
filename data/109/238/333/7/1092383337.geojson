@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2402420044,47.5690231323,14.2402420044,47.5690231323",
     "geom:latitude":47.569023,
     "geom:longitude":14.240242,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838933,
+        85632785,
+        101834331,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BHPSggCTNTsdlHo85EyAA_47.569023_14.240242@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913611,
-    "wof:geomhash":"a64b0a62e5e16f8e726df051284f49fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"588a2f7062539a4271ea5da0034dea0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838933,
+            "locality_id":101834331,
+            "region_id":85681687,
+            "venue_id":1092383337
+        }
+    ],
     "wof:id":1092383337,
-    "wof:lastmodified":1473984183,
+    "wof:lastmodified":1496910334,
     "wof:name":"Pizzeria Fillipo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

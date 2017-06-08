@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3547277451,47.1325263977,15.3547277451,47.1325263977",
     "geom:latitude":47.132526,
     "geom:longitude":15.354728,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906694,
-    "wof:geomhash":"1e5f49f8554011ae534c433b96544f5b",
+    "wof:geomhash":"7f37018b7a8030cc1cb9f3c7108b7d8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092226823
         }
     ],
     "wof:id":1092226823,
-    "wof:lastmodified":1473984954,
+    "wof:lastmodified":1496911856,
     "wof:name":"Payr Helmut Ing",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

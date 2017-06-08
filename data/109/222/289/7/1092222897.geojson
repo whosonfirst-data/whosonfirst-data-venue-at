@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1326751709,47.118473053,13.1326751709,47.118473053",
     "geom:latitude":47.118473,
     "geom:longitude":13.132675,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        101789115,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sHvqSA1UG1QADBT0S9Lvz_47.118473_13.132675@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906530,
-    "wof:geomhash":"0a75da1785fbf21a847e1605459ed4fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46ea561aa88f498aabbd8c45d8acb04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":101789115,
+            "region_id":85681681,
+            "venue_id":1092222897
+        }
+    ],
     "wof:id":1092222897,
-    "wof:lastmodified":1473984025,
+    "wof:lastmodified":1496893755,
     "wof:name":"Taxi Tinta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

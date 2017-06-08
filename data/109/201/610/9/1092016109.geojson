@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2823200226,48.2397842407,16.2823200226,48.2397842407",
     "geom:latitude":48.239784,
     "geom:longitude":16.28232,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898355,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897197,
-    "wof:geomhash":"566428eab91b1b1cbd494f2f63c38787",
+    "wof:geomhash":"6e05e1622ac62653c26361a4adfa93e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898355,
             "region_id":85681667,
             "venue_id":1092016109
         }
     ],
     "wof:id":1092016109,
-    "wof:lastmodified":1473984019,
+    "wof:lastmodified":1496903080,
     "wof:name":"Gloria Irrgeher GmbH",
     "wof:parent_id":85898355,
     "wof:placetype":"venue",

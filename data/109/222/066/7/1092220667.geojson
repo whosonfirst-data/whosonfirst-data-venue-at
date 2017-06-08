@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4285593033,48.0271720886,15.4285593033,48.0271720886",
     "geom:latitude":48.027172,
     "geom:longitude":15.428559,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835003,
+        85632785,
+        101785783,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B6NuzP1Hc3C6mGjKyDOg7_48.027172_15.428559@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906428,
-    "wof:geomhash":"672c9fc01e9aef5f49afebe0765b8de8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6548fdf1719ec2430385f4a2db14ce2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835003,
+            "locality_id":101785783,
+            "region_id":85681671,
+            "venue_id":1092220667
+        }
+    ],
     "wof:id":1092220667,
-    "wof:lastmodified":1473983483,
+    "wof:lastmodified":1496884170,
     "wof:name":"Grabner GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

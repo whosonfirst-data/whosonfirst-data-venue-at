@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8542566299,48.3285713196,13.8542566299,48.3285713196",
     "geom:latitude":48.328571,
     "geom:longitude":13.854257,
@@ -33,17 +34,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835233,
+        85632785,
+        101784579,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Nl7bhXLQ6kqIFye1CHuyb_48.328571_13.854257@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897055,
-    "wof:geomhash":"b43f9850e5d107ee9eb6961364e83174",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1482b1b01968134d175d34b729377ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835233,
+            "locality_id":101784579,
+            "region_id":85681677,
+            "venue_id":1092012791
+        }
+    ],
     "wof:id":1092012791,
-    "wof:lastmodified":1473983456,
+    "wof:lastmodified":1496885517,
     "wof:name":"Leopold Eizenberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

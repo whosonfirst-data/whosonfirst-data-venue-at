@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0905828476,47.3699874878,15.0905828476,47.3699874878",
     "geom:latitude":47.369987,
     "geom:longitude":15.090583,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898553,
-        102049769
+        102191581,
+        1108839009,
+        85632785,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900297,
-    "wof:geomhash":"5d7c054fa72d807e7cf51d57bc268383",
+    "wof:geomhash":"9a4847a5f1aff1b2959444bdd10623a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":-1,
             "neighbourhood_id":85898553,
             "region_id":85681687,
             "venue_id":1092091179
         }
     ],
     "wof:id":1092091179,
-    "wof:lastmodified":1473983481,
+    "wof:lastmodified":1496910823,
     "wof:name":"Alpenfleckviehzuchtverband regGenmbH",
     "wof:parent_id":85898553,
     "wof:placetype":"venue",

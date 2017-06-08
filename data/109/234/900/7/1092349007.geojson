@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5296173096,47.5667877197,16.5296173096,47.5667877197",
     "geom:latitude":47.566788,
     "geom:longitude":16.529617,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838747,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wBGNyLdln7fUld44pJ5a2_47.566788_16.529617@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912026,
-    "wof:geomhash":"9ba093b69e93cfda7c65f09fc023b2ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f281512c1d8cfa2e1e60d696828150b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838747,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092349007
+        }
+    ],
     "wof:id":1092349007,
-    "wof:lastmodified":1473985016,
+    "wof:lastmodified":1496909215,
     "wof:name":"Lisztmuseum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

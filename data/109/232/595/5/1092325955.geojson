@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.464422226,48.2670402527,16.464422226,48.2670402527",
     "geom:latitude":48.26704,
     "geom:longitude":16.464422,
@@ -34,10 +35,13 @@
     "sg:website":"troxtechnik.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911053,
-    "wof:geomhash":"9c86b80ed5a61ef12fcd41a753612445",
+    "wof:geomhash":"63f342956c5af47edf284bf8df4a2f86",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092325955
         }
     ],
     "wof:id":1092325955,
-    "wof:lastmodified":1473984806,
+    "wof:lastmodified":1496928249,
     "wof:name":"TROX AUSTRIA GmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

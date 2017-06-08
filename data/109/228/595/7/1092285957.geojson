@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3023805618,46.61302948,14.3023805618,46.61302948",
     "geom:latitude":46.613029,
     "geom:longitude":14.302381,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +51,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909284,
-    "wof:geomhash":"f67a6ab51cac30780b33146435fab2d6",
+    "wof:geomhash":"af3efddb524514ab6c0ab1bc7689a03e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092285957
         }
     ],
     "wof:id":1092285957,
-    "wof:lastmodified":1473984529,
+    "wof:lastmodified":1496905958,
     "wof:name":"Karl Kuschnig Grosshandel- Planung - Service f\u00c3\u00bcr Antennen, Elektroakustik, Sprechanlagen und Video\u00c3",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0241117477,47.9873962402,15.0241117477,47.9873962402",
     "geom:latitude":47.987396,
     "geom:longitude":15.024112,
@@ -31,17 +32,34 @@
         "profile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836211,
+        85632785,
+        101785685,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mh9jvMpMKYnJp9Bpjywvu_47.987396_15.024112@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914232,
-    "wof:geomhash":"232b43c3acb011d509a46fa3ca2d9465",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59d08ab77c13500a5ef6080a37fb3f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836211,
+            "locality_id":101785685,
+            "region_id":85681671,
+            "venue_id":1092395639
+        }
+    ],
     "wof:id":1092395639,
-    "wof:lastmodified":1473984329,
+    "wof:lastmodified":1496890022,
     "wof:name":"Welser Profile AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

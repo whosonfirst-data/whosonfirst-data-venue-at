@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8180675507,46.8816986084,15.8180675507,46.8816986084",
     "geom:latitude":46.881699,
     "geom:longitude":15.818068,
@@ -32,17 +33,33 @@
         "underground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839255,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BhLwBbTvsbN15n9BdN9nR_46.881699_15.818068@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905704,
-    "wof:geomhash":"1d55efa556c2ec93e0acca0cc07d47ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b9c810312674646183940d1eb656eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839255,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092204039
+        }
+    ],
     "wof:id":1092204039,
-    "wof:lastmodified":1473984245,
+    "wof:lastmodified":1496912204,
     "wof:name":"Erich Koch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

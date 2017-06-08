@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6129426956,47.4687232971,12.6129426956,47.4687232971",
     "geom:latitude":47.468723,
     "geom:longitude":12.612943,
@@ -23,17 +24,33 @@
     "sg:postcode":"6395",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837339,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e5TX5tozfSTMZS5m03w2w_47.468723_12.612943@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909632,
-    "wof:geomhash":"dc61dd15ff1812cb0d0e0c6385c13fe9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a9626a5d526a5692d65b6925c80f5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837339,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092294433
+        }
+    ],
     "wof:id":1092294433,
-    "wof:lastmodified":1473984407,
+    "wof:lastmodified":1496896975,
     "wof:name":"Ferienwohnungen Schreder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

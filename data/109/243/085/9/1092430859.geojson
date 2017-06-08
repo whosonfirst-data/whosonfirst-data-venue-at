@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6332502365,48.6269111633,15.6332502365,48.6269111633",
     "geom:latitude":48.626911,
     "geom:longitude":15.63325,
@@ -32,17 +33,33 @@
         "meal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834937,
+        85632785,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zhTwyt3UOkdNaEQLPZ980_48.626911_15.633250@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915947,
-    "wof:geomhash":"5d2d1c31a6dc5eb83ddc9f4c75414783",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d21ec2eb934c466bd83639751ef42cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108834937,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092430859
+        }
+    ],
     "wof:id":1092430859,
-    "wof:lastmodified":1473983447,
+    "wof:lastmodified":1496883615,
     "wof:name":"Mantler-M\u00fchle Rosenburg KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

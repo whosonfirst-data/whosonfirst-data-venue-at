@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8113775253,47.9901809692,13.8113775253,47.9901809692",
     "geom:latitude":47.990181,
     "geom:longitude":13.811378,
@@ -31,17 +32,34 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835143,
+        85632785,
+        101785623,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6N3QMavLGTbJVpT42Evvmy_47.990181_13.811378@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891188,
-    "wof:geomhash":"39bb74ec019a6a01cacb016bdcc9a707",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c713615fe30467ca415b2760e73ce32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835143,
+            "locality_id":101785623,
+            "region_id":85681677,
+            "venue_id":1091881201
+        }
+    ],
     "wof:id":1091881201,
-    "wof:lastmodified":1473983650,
+    "wof:lastmodified":1496885068,
     "wof:name":"LAHNERBAU Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

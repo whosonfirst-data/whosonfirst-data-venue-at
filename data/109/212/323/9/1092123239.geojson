@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4512710571,48.2795982361,16.4512710571,48.2795982361",
     "geom:latitude":48.279598,
     "geom:longitude":16.451271,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901925,
-    "wof:geomhash":"74895625ad9a3651bf6bee84d339a5c3",
+    "wof:geomhash":"bfbfce507480c59323b1de020111a85b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092123239
         }
     ],
     "wof:id":1092123239,
-    "wof:lastmodified":1473984110,
+    "wof:lastmodified":1496902424,
     "wof:name":"Kroner Johann",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

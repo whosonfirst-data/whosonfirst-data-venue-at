@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2025642395,47.2725219727,11.2025642395,47.2725219727",
     "geom:latitude":47.272522,
     "geom:longitude":11.202564,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837677,
+        85632785,
+        101844491,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65KqAvbp8MzvtrdrUZLGJq_47.272522_11.202564@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906509,
-    "wof:geomhash":"25a93cabef5fa2bec509d7d2d6f93f0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d8b5c6b0157f1c3c727289d402a6d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837677,
+            "locality_id":101844491,
+            "region_id":85681661,
+            "venue_id":1092222587
+        }
+    ],
     "wof:id":1092222587,
-    "wof:lastmodified":1473983930,
+    "wof:lastmodified":1496899084,
     "wof:name":"Taxi Gebhart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

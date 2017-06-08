@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8085803986,47.1002845764,11.8085803986,47.1002845764",
     "geom:latitude":47.100285,
     "geom:longitude":11.80858,
@@ -23,17 +24,33 @@
     "sg:postcode":"6295",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pmL1PQ8m5Lg5cYm7bAafK_47.100285_11.808580@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899014,
-    "wof:geomhash":"1db762d86ed7708ce5fbc982676900e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a70f7067c39d19925f32b2950d6e55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092062837
+        }
+    ],
     "wof:id":1092062837,
-    "wof:lastmodified":1473983860,
+    "wof:lastmodified":1496900431,
     "wof:name":"Breitlahner Berggasthaus - Zillertaler Alpen - P\u00e4chter Kr\u00f6ll Friedrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

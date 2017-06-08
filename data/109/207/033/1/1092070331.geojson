@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0625219345,47.8625831604,13.0625219345,47.8625831604",
     "geom:latitude":47.862583,
     "geom:longitude":13.062522,
@@ -23,17 +24,34 @@
     "sg:postcode":"5161",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837127,
+        85632785,
+        101786771,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wT1IVh2JesIZBcWLop0MW_47.862583_13.062522@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899321,
-    "wof:geomhash":"427639f508bfb43edf72446d75d140e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc1013fb98043038dcff64165f431a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837127,
+            "locality_id":101786771,
+            "region_id":85681681,
+            "venue_id":1092070331
+        }
+    ],
     "wof:id":1092070331,
-    "wof:lastmodified":1473983419,
+    "wof:lastmodified":1496895268,
     "wof:name":"Gasthaus z Nachbarschaft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

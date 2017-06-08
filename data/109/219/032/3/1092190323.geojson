@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3165407181,48.2061805725,13.3165407181,48.2061805725",
     "geom:latitude":48.206181,
     "geom:longitude":13.316541,
@@ -31,17 +32,33 @@
         "aerator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834709,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08774bWlNdAGGRv67swldS_48.206181_13.316541@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905039,
-    "wof:geomhash":"4a31f61eae98557ec478166da9bbe8a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c5d056de20508f6edd51ab291b2d108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834709,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190323
+        }
+    ],
     "wof:id":1092190323,
-    "wof:lastmodified":1473983407,
+    "wof:lastmodified":1496882210,
     "wof:name":"Ing. Werner Wotsch Lufttechnische Anlagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

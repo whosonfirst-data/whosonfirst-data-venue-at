@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3542976379,46.6081008911,14.3542976379,46.6081008911",
     "geom:latitude":46.608101,
     "geom:longitude":14.354298,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893540,
-    "wof:geomhash":"125ce2b355a0c24ce75af2d5f4e603b7",
+    "wof:geomhash":"fc600c6be741b557aaf4453bf6024f84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1091930739
         }
     ],
     "wof:id":1091930739,
-    "wof:lastmodified":1473983539,
+    "wof:lastmodified":1496906635,
     "wof:name":"SC Ebenthal",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

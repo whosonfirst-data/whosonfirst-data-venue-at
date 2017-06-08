@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2808952332,47.2294158936,11.2808952332,47.2294158936",
     "geom:latitude":47.229416,
     "geom:longitude":11.280895,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907893,
-    "wof:geomhash":"1692f5a5c3ab19bed7762796a9b15bc1",
+    "wof:geomhash":"9bc1c9812ecd3233ba8479d153ea1653",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092254233
         }
     ],
     "wof:id":1092254233,
-    "wof:lastmodified":1473984316,
+    "wof:lastmodified":1496898037,
     "wof:name":"Bucher Josef",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

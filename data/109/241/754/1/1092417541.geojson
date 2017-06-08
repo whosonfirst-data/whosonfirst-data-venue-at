@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5828323364,47.591342926,16.5828323364,47.591342926",
     "geom:latitude":47.591343,
     "geom:longitude":16.582832,
@@ -23,17 +24,33 @@
     "sg:postcode":"7312",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838523,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XaoRTsWrWK2hyujSQFspP_47.591343_16.582832@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915349,
-    "wof:geomhash":"862a69dc5421f6da75843477bec5bc14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddd27c90fb72d29f9453d2d2470c0c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838523,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092417541
+        }
+    ],
     "wof:id":1092417541,
-    "wof:lastmodified":1473984856,
+    "wof:lastmodified":1496908357,
     "wof:name":"Freiwillige Feuerwehr Unterpetersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

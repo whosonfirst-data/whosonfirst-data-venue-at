@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8707151413,48.1183624268,14.8707151413,48.1183624268",
     "geom:latitude":48.118362,
     "geom:longitude":14.870715,
@@ -32,17 +33,34 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101784475,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DHiC7nGgjUbH45JH816W4_48.118362_14.870715@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905507,
-    "wof:geomhash":"376e903cbbf5892af9d13c4eb17a8459",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5376bbce1ce6a120564ecefa8247e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101784475,
+            "region_id":85681671,
+            "venue_id":1092200845
+        }
+    ],
     "wof:id":1092200845,
-    "wof:lastmodified":1473983437,
+    "wof:lastmodified":1496883333,
     "wof:name":"Karl Schneider GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

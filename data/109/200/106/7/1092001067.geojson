@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2665081024,48.2634811401,13.2665081024,48.2634811401",
     "geom:latitude":48.263481,
     "geom:longitude":13.266508,
@@ -31,17 +32,33 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835639,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47CwNmNvr74o3jx7eQ5b4G_48.263481_13.266508@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896569,
-    "wof:geomhash":"6f9e798d87752e0fc89ef1ca2e22c559",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65b9b953caee4423e217374b80dd7dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835639,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092001067
+        }
+    ],
     "wof:id":1092001067,
-    "wof:lastmodified":1473983594,
+    "wof:lastmodified":1496887769,
     "wof:name":"BERGLANDMILCH REG.GEN.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

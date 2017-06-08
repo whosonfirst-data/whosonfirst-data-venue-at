@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6629476547,47.4456863403,9.6629476547,47.4456863403",
     "geom:latitude":47.445686,
     "geom:longitude":9.662948,
@@ -31,17 +32,34 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1po6haJnB4cQGM4biyuQ0E_47.445686_9.662948@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895755,
-    "wof:geomhash":"0660ebda4143b089cca859589c0116e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72f022c89aacfd1a5683d8016c47dce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091981433
+        }
+    ],
     "wof:id":1091981433,
-    "wof:lastmodified":1473983330,
+    "wof:lastmodified":1496901363,
     "wof:name":"JECKEL GESMBH & CO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.273109436,48.1195907593,16.273109436,48.1195907593",
     "geom:latitude":48.119591,
     "geom:longitude":16.273109,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897323,
-    "wof:geomhash":"b24f5a4a00ebdf269f673d77cee85fd8",
+    "wof:geomhash":"1a468f3f0027b2aa20bb6c275287b852",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092019387
         }
     ],
     "wof:id":1092019387,
-    "wof:lastmodified":1473984722,
+    "wof:lastmodified":1496885841,
     "wof:name":"Evangelisches Pfarramt AB",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

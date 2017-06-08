@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.068271637,47.7885475159,13.068271637,47.7885475159",
     "geom:latitude":47.788548,
     "geom:longitude":13.068272,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904306,
-    "wof:geomhash":"666dc8d4ed2e6b14b7456cb4fc7b0079",
+    "wof:geomhash":"278db8b20b1d28e841b8557f613c3297",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092174361
         }
     ],
     "wof:id":1092174361,
-    "wof:lastmodified":1473984212,
+    "wof:lastmodified":1496894543,
     "wof:name":"Billa AG",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

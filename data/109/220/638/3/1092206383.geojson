@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3519935608,46.6692352295,14.3519935608,46.6692352295",
     "geom:latitude":46.669235,
     "geom:longitude":14.351994,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898263,
-        102049679
+        102191581,
+        1108838181,
+        85632785,
+        101844431,
+        102049681,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905803,
-    "wof:geomhash":"dcf9bc272a888cdbf507751958d52966",
+    "wof:geomhash":"8bba62f2abda1fee62c153f3454187ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049679,
+            "county_id":102049681,
+            "localadmin_id":1108838181,
+            "locality_id":101844431,
             "neighbourhood_id":85898263,
             "region_id":85681655,
             "venue_id":1092206383
         }
     ],
     "wof:id":1092206383,
-    "wof:lastmodified":1473984725,
+    "wof:lastmodified":1496905854,
     "wof:name":"Johann Sprachmann",
     "wof:parent_id":85898263,
     "wof:placetype":"venue",

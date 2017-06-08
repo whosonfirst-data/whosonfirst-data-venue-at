@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2192316055,48.4646453857,14.2192316055,48.4646453857",
     "geom:latitude":48.464645,
     "geom:longitude":14.219232,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"austrex.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836391,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gm74yUNZswt1DptvG5Gd5_48.464645_14.219232@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905755,
-    "wof:geomhash":"a1277b8e4cf76e7478009720b3c79261",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5681bdce6e47fcab18da8851cc654fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836391,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092205327
+        }
+    ],
     "wof:id":1092205327,
-    "wof:lastmodified":1473984563,
+    "wof:lastmodified":1496890872,
     "wof:name":"AUSTREX Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

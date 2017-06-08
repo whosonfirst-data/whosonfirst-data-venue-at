@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6421537399,47.3061256409,9.6421537399,47.3061256409",
     "geom:latitude":47.306126,
     "geom:longitude":9.642154,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"gewa-bau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837973,
+        85632785,
+        101827461,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14Grzou6OydI8sPMKLHg0s_47.306126_9.642154@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889631,
-    "wof:geomhash":"3bd35e0422e83a3af322f5c20b23081e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"141100a62597a47013830a1addb0fafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837973,
+            "locality_id":101827461,
+            "region_id":85681649,
+            "venue_id":1091848173
+        }
+    ],
     "wof:id":1091848173,
-    "wof:lastmodified":1473984886,
+    "wof:lastmodified":1496901192,
     "wof:name":"GEWA BAU GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

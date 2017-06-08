@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0687828064,47.0529899597,16.0687828064,47.0529899597",
     "geom:latitude":47.05299,
     "geom:longitude":16.068783,
@@ -23,17 +24,34 @@
     "sg:postcode":"8280",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839227,
+        85632785,
+        101789015,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28eAGGyRJyCxVt8el0CDkh_47.052990_16.068783@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889858,
-    "wof:geomhash":"9c834e1208e17bac137350f98460514a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0177b0e56556cb6aa57455d664c870d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839227,
+            "locality_id":101789015,
+            "region_id":85681687,
+            "venue_id":1091853195
+        }
+    ],
     "wof:id":1091853195,
-    "wof:lastmodified":1473983952,
+    "wof:lastmodified":1496912040,
     "wof:name":"Lebenshilfe Steiermark Sektion F\u00fcrstenfeld u Tageswerkst\u00e4tte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

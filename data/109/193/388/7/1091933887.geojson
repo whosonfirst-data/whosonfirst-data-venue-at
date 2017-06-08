@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4004564285,48.885471344,15.4004564285,48.885471344",
     "geom:latitude":48.885471,
     "geom:longitude":15.400456,
@@ -32,17 +33,33 @@
         "stamped"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836969,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hcmithSmsF6qozp1TgqK6_48.885471_15.400456@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893676,
-    "wof:geomhash":"f472a1b903d898f59788b1f091d0033d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1725caf3532979d9bb38d3d45a78cd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836969,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091933887
+        }
+    ],
     "wof:id":1091933887,
-    "wof:lastmodified":1473984202,
+    "wof:lastmodified":1496893580,
     "wof:name":"Andres und Dworsky GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

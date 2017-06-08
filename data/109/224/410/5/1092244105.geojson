@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4317131042,47.2384719849,11.4317131042,47.2384719849",
     "geom:latitude":47.238472,
     "geom:longitude":11.431713,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907460,
-    "wof:geomhash":"651c6e77428edec7d62447544f4be66b",
+    "wof:geomhash":"85d6b8c92f694bcd4b30ac8be6d90fad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092244105
         }
     ],
     "wof:id":1092244105,
-    "wof:lastmodified":1473984258,
+    "wof:lastmodified":1496898418,
     "wof:name":"Koch Johann Tischlerei OHG",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

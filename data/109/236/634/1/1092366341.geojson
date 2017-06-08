@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0237846375,47.2197723389,12.0237846375,47.2197723389",
     "geom:latitude":47.219772,
     "geom:longitude":12.023785,
@@ -23,17 +24,33 @@
     "sg:postcode":"6281",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837867,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60FXlQljB6QHD4oPlys7GH_47.219772_12.023785@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912825,
-    "wof:geomhash":"2664af7158a8a10ba6bea6818d90d27f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ca1d26690ec618c36d18b63a8628ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837867,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092366341
+        }
+    ],
     "wof:id":1092366341,
-    "wof:lastmodified":1473984821,
+    "wof:lastmodified":1496900327,
     "wof:name":"Haus L\u00e4rchenbrunn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

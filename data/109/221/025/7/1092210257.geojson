@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6410274506,47.2711715698,9.6410274506,47.2711715698",
     "geom:latitude":47.271172,
     "geom:longitude":9.641027,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905973,
-    "wof:geomhash":"fa4bc3d5faa18dc4a2714e8ec0ec81f7",
+    "wof:geomhash":"757a536425831c8af65efbb528c88488",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092210257
         }
     ],
     "wof:id":1092210257,
-    "wof:lastmodified":1473983367,
+    "wof:lastmodified":1496901634,
     "wof:name":"Martini Hildegard",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

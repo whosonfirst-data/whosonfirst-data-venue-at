@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4974708557,48.2483520508,16.4974708557,48.2483520508",
     "geom:latitude":48.248352,
     "geom:longitude":16.497471,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891921,
-    "wof:geomhash":"631dd77ac9ae7e238f0d71ee18935569",
+    "wof:geomhash":"69e4444623a98f434f062ecf8a5a3146",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1091896841
         }
     ],
     "wof:id":1091896841,
-    "wof:lastmodified":1473984891,
+    "wof:lastmodified":1496903552,
     "wof:name":"Aluminium-Konstruktionen HandelsgesmbH",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5562667847,48.1991004944,16.5562667847,48.1991004944",
     "geom:latitude":48.1991,
     "geom:longitude":16.556267,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905076,
-    "wof:geomhash":"28c698a5cccfdc42bef9b6067b1a47f4",
+    "wof:geomhash":"767f46a21078cb6ced58c571b7129bdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092191169
         }
     ],
     "wof:id":1092191169,
-    "wof:lastmodified":1473983581,
+    "wof:lastmodified":1496892129,
     "wof:name":"JOSEF & HELENE SCHNEIDER",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

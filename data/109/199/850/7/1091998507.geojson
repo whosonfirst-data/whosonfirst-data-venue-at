@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4502735138,48.2765693665,16.4502735138,48.2765693665",
     "geom:latitude":48.276569,
     "geom:longitude":16.450274,
@@ -25,10 +26,13 @@
     "sg:website":"http://www.profipage.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896472,
-    "wof:geomhash":"9242548184802773f49dd0b3ecd42a2e",
+    "wof:geomhash":"9a6fbcc1fefe0b10b70452fd4582a627",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091998507
         }
     ],
     "wof:id":1091998507,
-    "wof:lastmodified":1473984981,
+    "wof:lastmodified":1496904115,
     "wof:name":"ProfiPage - Gerald Marischka",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

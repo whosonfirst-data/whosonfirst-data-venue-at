@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.962143898,46.6141662598,13.962143898,46.6141662598",
     "geom:latitude":46.614166,
     "geom:longitude":13.962144,
@@ -33,17 +34,33 @@
         "roof"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838363,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TJCszk91MWppomsGUdFtZ_46.614166_13.962144@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895432,
-    "wof:geomhash":"7cd360aaf83a68a1949b8e859a03f6ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a4d4dbccfec4673fc6c7f8085b736c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838363,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091974513
+        }
+    ],
     "wof:id":1091974513,
-    "wof:lastmodified":1473984275,
+    "wof:lastmodified":1496907593,
     "wof:name":"Erhard Lepuschitz GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

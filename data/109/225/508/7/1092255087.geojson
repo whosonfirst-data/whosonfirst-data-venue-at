@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0716238022,48.001537323,13.0716238022,48.001537323",
     "geom:latitude":48.001537,
     "geom:longitude":13.071624,
@@ -23,17 +24,33 @@
     "sg:postcode":"5165",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837117,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x5ZgpG7B9nupKGnFOQlso_48.001537_13.071624@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907933,
-    "wof:geomhash":"e8c9e48eed595e80ec45322293c710df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b89a6f8a77e63f40d21a953c35b27392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837117,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092255087
+        }
+    ],
     "wof:id":1092255087,
-    "wof:lastmodified":1473984534,
+    "wof:lastmodified":1496895229,
     "wof:name":"Friedl GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

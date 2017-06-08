@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8192996979,47.2243003845,12.8192996979,47.2243003845",
     "geom:latitude":47.2243,
     "geom:longitude":12.8193,
@@ -28,17 +29,33 @@
     "sg:postcode":"5672",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837201,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kFCRDePjdOfW8zGaM52xm_47.224300_12.819300@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898432,
-    "wof:geomhash":"192d08188f329a13c0d6d09151bc070d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbd78535c44b3526c7603d9c81df7479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837201,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092047971
+        }
+    ],
     "wof:id":1092047971,
-    "wof:lastmodified":1473984196,
+    "wof:lastmodified":1496895917,
     "wof:name":"Hotel Post Fusch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

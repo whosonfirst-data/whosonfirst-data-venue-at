@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6965236664,48.4755134583,15.6965236664,48.4755134583",
     "geom:latitude":48.475513,
     "geom:longitude":15.696524,
@@ -34,17 +35,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835935,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AAiBSagVDCF7Z9Syc7Unp_48.475513_15.696524@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916013,
-    "wof:geomhash":"a4532125985affbb0e3c05e96f8f6c8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e147c34dbd2c3a1d3e267d5aa8f41dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835935,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092432219
+        }
+    ],
     "wof:id":1092432219,
-    "wof:lastmodified":1473983696,
+    "wof:lastmodified":1496888973,
     "wof:name":"KLINGER MASCHINEN GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

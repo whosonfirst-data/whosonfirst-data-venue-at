@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3602151871,46.6170578003,14.3602151871,46.6170578003",
     "geom:latitude":46.617058,
     "geom:longitude":14.360215,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907675,
-    "wof:geomhash":"81611f68feb98c66d6e450dd124be4c5",
+    "wof:geomhash":"7b0484838b2d9947dadff82570f0e32b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092248935
         }
     ],
     "wof:id":1092248935,
-    "wof:lastmodified":1473985068,
+    "wof:lastmodified":1496906643,
     "wof:name":"Wrie\u00dfnegger Ulrich",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

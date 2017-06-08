@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9856624603,47.9626617432,13.9856624603,47.9626617432",
     "geom:latitude":47.962662,
     "geom:longitude":13.985662,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_361VAesQwvSuxbOlX6en91_47.962662_13.985662@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889241,
-    "wof:geomhash":"be733e9a7db555009ef981dcd40ca15e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c143aaef19b211d3e543f53642a8328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091839265
+        }
+    ],
     "wof:id":1091839265,
-    "wof:lastmodified":1473985313,
+    "wof:lastmodified":1496885204,
     "wof:name":"Stefan Berner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

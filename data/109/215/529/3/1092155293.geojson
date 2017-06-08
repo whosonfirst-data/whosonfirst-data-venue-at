@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.956949234,48.3375434875,13.956949234,48.3375434875",
     "geom:latitude":48.337543,
     "geom:longitude":13.956949,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835059,
+        85632785,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4itFPUADyE0X79kc9j5aFq_48.337543_13.956949@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903456,
-    "wof:geomhash":"f4d1363c818d1d3221176b2b536977c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d148800b1acfd0609ed157b6e5cc3f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835059,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092155293
+        }
+    ],
     "wof:id":1092155293,
-    "wof:lastmodified":1473984371,
+    "wof:lastmodified":1496884367,
     "wof:name":"Gruber Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

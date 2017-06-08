@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7472057343,47.443977356,10.7472057343,47.443977356",
     "geom:latitude":47.443977,
     "geom:longitude":10.747206,
@@ -23,17 +24,33 @@
     "sg:postcode":"6611",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837735,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AAbNjDrYGlE29U3seY68y_47.443977_10.747206@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900197,
-    "wof:geomhash":"fbfe3af7ad43a6d2652bd6d9e66f1712",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad0aaf53e739b33dac164888210fa2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837735,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092089245
+        }
+    ],
     "wof:id":1092089245,
-    "wof:lastmodified":1473985193,
+    "wof:lastmodified":1496899829,
     "wof:name":"Gemeindeamt Heiterwang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

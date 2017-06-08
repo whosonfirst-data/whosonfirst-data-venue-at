@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.434630394,48.8924560547,15.434630394,48.8924560547",
     "geom:latitude":48.892456,
     "geom:longitude":15.43463,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836969,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18ZwaB6OG4XNURWhK7Y1UP_48.892456_15.434630@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897080,
-    "wof:geomhash":"63463ad883ce2acef7d29b6a5cfe260b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ea4e49c53b546dec515c8d2dc79764e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836969,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092013383
+        }
+    ],
     "wof:id":1092013383,
-    "wof:lastmodified":1473983553,
+    "wof:lastmodified":1496893578,
     "wof:name":"DEMMER & ZACH OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3032999039,47.4415397644,12.3032999039,47.4415397644",
     "geom:latitude":47.44154,
     "geom:longitude":12.3033,
@@ -23,17 +24,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70ROjk8sL0FmKF8DBoKqij_47.441540_12.303300@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892450,
-    "wof:geomhash":"330f23bdadc6b0fb529da7a805874f3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42cb4cf151e8a35e129ad1185cc8cf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091907433
+        }
+    ],
     "wof:id":1091907433,
-    "wof:lastmodified":1473984847,
+    "wof:lastmodified":1496899130,
     "wof:name":"Kobinger H\u00fctte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.083776474,48.0047340393,13.083776474,48.0047340393",
     "geom:latitude":48.004734,
     "geom:longitude":13.083776,
@@ -23,17 +24,33 @@
     "sg:postcode":"5163",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834773,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jJvi2AuBHLxerRl9PbgYz_48.004734_13.083776@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896052,
-    "wof:geomhash":"7bed857e40a81e092960f834204ac8d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa09e098e129d878b881f3e0cb64870f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834773,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091988757
+        }
+    ],
     "wof:id":1091988757,
-    "wof:lastmodified":1473984526,
+    "wof:lastmodified":1496882561,
     "wof:name":"Daringer Ernst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

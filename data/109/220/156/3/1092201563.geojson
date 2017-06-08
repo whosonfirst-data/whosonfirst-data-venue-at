@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1009922028,47.9336471558,13.1009922028,47.9336471558",
     "geom:latitude":47.933647,
     "geom:longitude":13.100992,
@@ -29,17 +30,33 @@
     "sg:province":"Salzburg",
     "sg:website":"kaesehof.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09Je2wEFVQUHGAzviAWOXS_47.933647_13.100992@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905541,
-    "wof:geomhash":"a4783ccf2e4cab87d0733535ccdca55f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5e17a4afe766e3d6f0cc4cf1640f4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092201563
+        }
+    ],
     "wof:id":1092201563,
-    "wof:lastmodified":1473983742,
+    "wof:lastmodified":1496895789,
     "wof:name":"Salzburger Landk\u00e4serei reg.Gen.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

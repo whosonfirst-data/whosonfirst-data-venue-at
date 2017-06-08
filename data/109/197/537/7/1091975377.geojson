@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.088180542,47.8742408752,16.088180542,47.8742408752",
     "geom:latitude":47.874241,
     "geom:longitude":16.088181,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.austrotherm.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834833,
+        85632785,
+        101785619,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oldb67Nje9tgJExwqWe7c_47.874241_16.088181@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895466,
-    "wof:geomhash":"68a9bdbd75bc70b8f05c8aee39c0e849",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2402def495517579c2f1daa9bd8b202f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834833,
+            "locality_id":101785619,
+            "region_id":85681671,
+            "venue_id":1091975377
+        }
+    ],
     "wof:id":1091975377,
-    "wof:lastmodified":1473984477,
+    "wof:lastmodified":1496882869,
     "wof:name":"Austrotherm GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

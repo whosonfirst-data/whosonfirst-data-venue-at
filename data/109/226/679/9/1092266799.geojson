@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5663509369,48.3009414673,16.5663509369,48.3009414673",
     "geom:latitude":48.300941,
     "geom:longitude":16.566351,
@@ -32,17 +33,34 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835837,
+        85632785,
+        101843349,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28oE099lLkyU9pHPG70AXv_48.300941_16.566351@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908465,
-    "wof:geomhash":"211fa17d309f97ad019f71e8ff5271dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b27438e0bc02fb55c6eed361df31683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835837,
+            "locality_id":101843349,
+            "region_id":85681671,
+            "venue_id":1092266799
+        }
+    ],
     "wof:id":1092266799,
-    "wof:lastmodified":1473984634,
+    "wof:lastmodified":1496888607,
     "wof:name":"Erich Kamensky Elektro- Gas- Wasserinstallationen Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

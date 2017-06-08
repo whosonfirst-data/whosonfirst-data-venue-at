@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6065940857,48.1051368713,15.6065940857,48.1051368713",
     "geom:latitude":48.105137,
     "geom:longitude":15.606594,
@@ -31,17 +32,34 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835833,
+        85632785,
+        101779757,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TtcTGeItsC3NviYfoz0I3_48.105137_15.606594@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905520,
-    "wof:geomhash":"f02f22dae7894fdc07573beee9b29fde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"949f82eb1c5f6bb925bce7fdb06660be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835833,
+            "locality_id":101779757,
+            "region_id":85681671,
+            "venue_id":1092201127
+        }
+    ],
     "wof:id":1092201127,
-    "wof:lastmodified":1473983567,
+    "wof:lastmodified":1496888594,
     "wof:name":"BILLENSTEINER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

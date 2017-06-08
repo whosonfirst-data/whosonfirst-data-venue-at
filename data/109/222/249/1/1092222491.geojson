@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7119998932,47.3515815735,11.7119998932,47.3515815735",
     "geom:latitude":47.351582,
     "geom:longitude":11.712,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GdeuFwNCMK1uBw54EvhkF_47.351582_11.712000@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906505,
-    "wof:geomhash":"38f793771717b44e1fe327960d3189d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29b65abe54dc2a29144f2fa9739375c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1092222491
+        }
+    ],
     "wof:id":1092222491,
-    "wof:lastmodified":1473983915,
+    "wof:lastmodified":1496900134,
     "wof:name":"Taxi Daniela",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

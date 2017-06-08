@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1670446396,47.342880249,10.1670446396,47.342880249",
     "geom:latitude":47.34288,
     "geom:longitude":10.167045,
@@ -33,17 +34,34 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101828569,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wxHXqfm1c01RswG9zX9oX_47.342880_10.167045@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892630,
-    "wof:geomhash":"a0c5e9581d9e559b9bafa0962ead1ae3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1afd56b951614c2dda009e718eae82c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101828569,
+            "region_id":85681649,
+            "venue_id":1091911901
+        }
+    ],
     "wof:id":1091911901,
-    "wof:lastmodified":1473983371,
+    "wof:lastmodified":1496901574,
     "wof:name":"Skischule Hirschegg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

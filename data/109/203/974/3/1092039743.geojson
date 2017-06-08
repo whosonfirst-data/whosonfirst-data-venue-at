@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8263711929,46.5884246826,13.8263711929,46.5884246826",
     "geom:latitude":46.588425,
     "geom:longitude":13.826371,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898116,
-    "wof:geomhash":"7fbec25cf0407c77d9aa6c7276c27753",
+    "wof:geomhash":"683a13cb9e1996a1fbd471acc4b5ca41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092039743
         }
     ],
     "wof:id":1092039743,
-    "wof:lastmodified":1473985016,
+    "wof:lastmodified":1496906156,
     "wof:name":"ThermenResort Warmbad-Villach Holding GmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

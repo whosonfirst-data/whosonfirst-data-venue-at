@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0447273254,47.8274078369,13.0447273254,47.8274078369",
     "geom:latitude":47.827408,
     "geom:longitude":13.044727,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909955,
-    "wof:geomhash":"194104b8911dbb2eb1edd3e78e15f9bf",
+    "wof:geomhash":"d00c08125ce990952da01d920d45477d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092301169
         }
     ],
     "wof:id":1092301169,
-    "wof:lastmodified":1473983551,
+    "wof:lastmodified":1496894815,
     "wof:name":"Fahrngruber Wolfgang Dipl-Ing",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

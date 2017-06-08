@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3365097046,48.1384162903,16.3365097046,48.1384162903",
     "geom:latitude":48.138416,
     "geom:longitude":16.33651,
@@ -34,10 +35,13 @@
     "sg:website":"meturgen.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901211,
-    "wof:geomhash":"4bddb71c4a0ee7c503943e792132e8bc",
+    "wof:geomhash":"28d9a800b960fb146ebfa4be4174b21e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092108305
         }
     ],
     "wof:id":1092108305,
-    "wof:lastmodified":1473984902,
+    "wof:lastmodified":1496903819,
     "wof:name":"meturgen\u00ae CMA-Edelstahlbeizprodukte",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

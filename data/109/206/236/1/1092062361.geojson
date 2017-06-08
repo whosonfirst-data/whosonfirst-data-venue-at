@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.721903801,47.369556427,9.721903801,47.369556427",
     "geom:latitude":47.369556,
     "geom:longitude":9.721904,
@@ -23,17 +24,33 @@
     "sg:postcode":"6845",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RWGRnQQq3r5MwcQPIoCad_47.369556_9.721904@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898997,
-    "wof:geomhash":"213175ed37f6369187a8b8201cdb14ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2a42f41a7b24c0c8c063ecb68b823a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092062361
+        }
+    ],
     "wof:id":1092062361,
-    "wof:lastmodified":1473983812,
+    "wof:lastmodified":1496901158,
     "wof:name":"Berggasthof Schuttannen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9692001343,47.2811546326,15.9692001343,47.2811546326",
     "geom:latitude":47.281155,
     "geom:longitude":15.9692,
@@ -29,17 +30,34 @@
     "sg:province":"Steiermark",
     "sg:website":"sonne-hotel.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839121,
+        85632785,
+        101787899,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l3JMx4c5SrXFWtriCL0SQ_47.281155_15.969200@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898455,
-    "wof:geomhash":"2640d15c4383481ecfccce3d7753cf55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95fd0198312ab4242e0de574378d1088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839121,
+            "locality_id":101787899,
+            "region_id":85681687,
+            "venue_id":1092048551
+        }
+    ],
     "wof:id":1092048551,
-    "wof:lastmodified":1473984303,
+    "wof:lastmodified":1496911420,
     "wof:name":"Hotel Sonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

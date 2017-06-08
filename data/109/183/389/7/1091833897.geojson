@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8960351944,47.4324951172,9.8960351944,47.4324951172",
     "geom:latitude":47.432495,
     "geom:longitude":9.896035,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837931,
+        85632785,
+        101827477,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jyh0zq8p4MxfDam4ko2qI_47.432495_9.896035@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888992,
-    "wof:geomhash":"411b23615ca0076bed1be594e4616bcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86239c119ff138ef4ae312ee8196eb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837931,
+            "locality_id":101827477,
+            "region_id":85681649,
+            "venue_id":1091833897
+        }
+    ],
     "wof:id":1091833897,
-    "wof:lastmodified":1473984070,
+    "wof:lastmodified":1496900874,
     "wof:name":"SPARKASSE DER GEMEINDE EGG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

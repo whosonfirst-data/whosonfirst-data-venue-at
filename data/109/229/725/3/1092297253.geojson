@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1919813156,47.327293396,13.1919813156,47.327293396",
     "geom:latitude":47.327293,
     "geom:longitude":13.191981,
@@ -23,17 +24,33 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AjCl6V5cTPXFaXgCbOYz1_47.327293_13.191981@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909760,
-    "wof:geomhash":"e38a977830bf5de0b6e3a46a375e0515",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b164694fbf92ed171c4365fb7c8a1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092297253
+        }
+    ],
     "wof:id":1092297253,
-    "wof:lastmodified":1473984984,
+    "wof:lastmodified":1496894042,
     "wof:name":"Penkhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

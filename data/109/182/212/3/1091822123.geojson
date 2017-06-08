@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1543798447,47.8704185486,15.1543798447,47.8704185486",
     "geom:latitude":47.870419,
     "geom:longitude":15.15438,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835303,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_239dhD9vWCiUAUEoxAxSEB_47.870419_15.154380@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888441,
-    "wof:geomhash":"a7de9da0018f4bdf533763f214f4bb74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bb9ae075a6b31b3d1f436a253af9510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835303,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091822123
+        }
+    ],
     "wof:id":1091822123,
-    "wof:lastmodified":1473983865,
+    "wof:lastmodified":1496885955,
     "wof:name":"Richard Teufel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

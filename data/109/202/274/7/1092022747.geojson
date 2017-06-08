@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4104614258,48.3020553589,16.4104614258,48.3020553589",
     "geom:latitude":48.302055,
     "geom:longitude":16.410461,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897451,
-    "wof:geomhash":"f3985e996170a3fdb4ebefd4efb00fa9",
+    "wof:geomhash":"a8e9bee26319cc628d16c91256ee223e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092022747
         }
     ],
     "wof:id":1092022747,
-    "wof:lastmodified":1473983844,
+    "wof:lastmodified":1496902179,
     "wof:name":"Pfarramt Zum hl Nikolaus",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

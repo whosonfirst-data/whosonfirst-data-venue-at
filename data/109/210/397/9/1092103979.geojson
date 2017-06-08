@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3802232742,47.2806587219,11.3802232742,47.2806587219",
     "geom:latitude":47.280659,
     "geom:longitude":11.380223,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901011,
-    "wof:geomhash":"1c3b2bd1519f01e83f4763d59ca37560",
+    "wof:geomhash":"b6bddd14ee0a2a5e71b9d07713643074",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092103979
         }
     ],
     "wof:id":1092103979,
-    "wof:lastmodified":1473984042,
+    "wof:lastmodified":1496899311,
     "wof:name":"LBV Liegenschafts-Beteiligungs- u VerwaltungsgesmbH",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

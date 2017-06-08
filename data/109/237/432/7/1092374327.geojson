@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4069242477,47.3166007996,12.4069242477,47.3166007996",
     "geom:latitude":47.316601,
     "geom:longitude":12.406924,
@@ -23,17 +24,33 @@
     "sg:postcode":"6373",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837347,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y6Cec3pmpEebmHMGF9dgF_47.316601_12.406924@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913209,
-    "wof:geomhash":"94c3d7b93e16d3d64d0faa1e2bd14628",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9c61c2a9f8b14e2c8cfb66d438a50b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837347,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092374327
+        }
+    ],
     "wof:id":1092374327,
-    "wof:lastmodified":1473984408,
+    "wof:lastmodified":1496897045,
     "wof:name":"Sonnalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

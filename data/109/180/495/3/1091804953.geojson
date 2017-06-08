@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5420951843,47.3388633728,10.5420951843,47.3388633728",
     "geom:latitude":47.338863,
     "geom:longitude":10.542095,
@@ -22,17 +23,33 @@
     "sg:postcode":"6644",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837749,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vBq2aEz0S2qpEfVfreErX_47.338863_10.542095@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473887651,
-    "wof:geomhash":"90b8586dede99fc20c7d67c525e8ba3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a58df48123712d2d54db7771b8d4f3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837749,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091804953
+        }
+    ],
     "wof:id":1091804953,
-    "wof:lastmodified":1473983447,
+    "wof:lastmodified":1496899843,
     "wof:name":"Raiffeisenbank Reutte regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

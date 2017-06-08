@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3582248688,47.7495384216,15.3582248688,47.7495384216",
     "geom:latitude":47.749538,
     "geom:longitude":15.358225,
@@ -23,17 +24,33 @@
     "sg:postcode":"8630",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839309,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TBJD0kIrvHhowRK8SMwOH_47.749538_15.358225@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900790,
-    "wof:geomhash":"11ad9f29074dc25ed2be386c32e8931c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"265c9cb93db77a9a00283b725b431997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839309,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092099543
+        }
+    ],
     "wof:id":1092099543,
-    "wof:lastmodified":1473985032,
+    "wof:lastmodified":1496912737,
     "wof:name":"Pierer Jausenstation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

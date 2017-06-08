@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4957780838,47.2777862549,11.4957780838,47.2777862549",
     "geom:latitude":47.277786,
     "geom:longitude":11.495778,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910942,
-    "wof:geomhash":"a36ffa184f3cc42adc61d9607b1faa12",
+    "wof:geomhash":"e7d04c2d16abb2bbafd076bc0a2a8147",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092323345
         }
     ],
     "wof:id":1092323345,
-    "wof:lastmodified":1473984237,
+    "wof:lastmodified":1496898723,
     "wof:name":"Stock Reinhard",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

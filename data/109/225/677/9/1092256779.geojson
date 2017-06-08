@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3752765656,47.2273025513,11.3752765656,47.2273025513",
     "geom:latitude":47.227303,
     "geom:longitude":11.375277,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908010,
-    "wof:geomhash":"1dcef0eb70535a058d77c20957007406",
+    "wof:geomhash":"5010d9a023840cf4664bc43307c95d62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092256779
         }
     ],
     "wof:id":1092256779,
-    "wof:lastmodified":1473984961,
+    "wof:lastmodified":1496898471,
     "wof:name":"Kofler Josef",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

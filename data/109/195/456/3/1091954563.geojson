@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4939308167,48.2621688843,14.4939308167,48.2621688843",
     "geom:latitude":48.262169,
     "geom:longitude":14.493931,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894572,
-    "wof:geomhash":"4df346f46c0590fd5bf52789e50899f5",
+    "wof:geomhash":"36532a02d84c28a60d7199f85fa5bf26",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091954563
         }
     ],
     "wof:id":1091954563,
-    "wof:lastmodified":1473984473,
+    "wof:lastmodified":1496887646,
     "wof:name":"Reha-Fit",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

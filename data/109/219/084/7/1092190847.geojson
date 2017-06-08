@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4134941101,47.7122535706,16.4134941101,47.7122535706",
     "geom:latitude":47.712254,
     "geom:longitude":16.413494,
@@ -32,17 +33,34 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838519,
+        85632785,
+        101833071,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rcKXAcU8uIvUwva7voYAP_47.712254_16.413494@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905064,
-    "wof:geomhash":"912c80e8b8493c80899aa442b9da76ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6c995e71653398da5f4377006fd003b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838519,
+            "locality_id":101833071,
+            "region_id":85681651,
+            "venue_id":1092190847
+        }
+    ],
     "wof:id":1092190847,
-    "wof:lastmodified":1473983472,
+    "wof:lastmodified":1496908338,
     "wof:name":"Roland Schreiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

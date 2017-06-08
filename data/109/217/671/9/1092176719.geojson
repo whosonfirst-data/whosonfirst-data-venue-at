@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4005308151,47.0278968811,15.4005308151,47.0278968811",
     "geom:latitude":47.027897,
     "geom:longitude":15.400531,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904428,
-    "wof:geomhash":"3055a3d6a3f3e6e80df721d7491b55d0",
+    "wof:geomhash":"6460ea3b1fb1429d0128d0f21c2a454c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1092176719
         }
     ],
     "wof:id":1092176719,
-    "wof:lastmodified":1473984727,
+    "wof:lastmodified":1496913102,
     "wof:name":"Hofer KG",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

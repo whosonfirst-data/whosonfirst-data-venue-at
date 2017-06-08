@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0868558884,47.7582702637,13.0868558884,47.7582702637",
     "geom:latitude":47.75827,
     "geom:longitude":13.086856,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900707,
-    "wof:geomhash":"b9d7c377024fdc01171105b67700ba22",
+    "wof:geomhash":"0911087654808fa5da49511742d4ddde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092098023
         }
     ],
     "wof:id":1092098023,
-    "wof:lastmodified":1473984791,
+    "wof:lastmodified":1496895281,
     "wof:name":"Siller Glaserei",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

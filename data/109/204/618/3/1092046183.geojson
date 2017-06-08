@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5980195999,47.3786964417,12.5980195999,47.3786964417",
     "geom:latitude":47.378696,
     "geom:longitude":12.59802,
@@ -28,17 +29,33 @@
     "sg:postcode":"5754",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iKsrsG5NEj1i8SJ6nOyGJ_47.378696_12.598020@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898362,
-    "wof:geomhash":"5e57cf8085adae9e31078a84c022fbe4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fb2d50441339b3f799c348abb28db88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092046183
+        }
+    ],
     "wof:id":1092046183,
-    "wof:lastmodified":1473983884,
+    "wof:lastmodified":1496896225,
     "wof:name":"Hotel Conrad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

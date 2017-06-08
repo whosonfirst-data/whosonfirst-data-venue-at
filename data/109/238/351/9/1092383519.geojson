@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6422271729,48.3170051575,16.6422271729,48.3170051575",
     "geom:latitude":48.317005,
     "geom:longitude":16.642227,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835281,
+        85632785,
+        101783429,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Kcdz7m3xQ4a2dKgEi7Msy_48.317005_16.642227@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913618,
-    "wof:geomhash":"5498de1a2904b591213146f810489dd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9362efecc15485b69d06caba6581b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835281,
+            "locality_id":101783429,
+            "region_id":85681671,
+            "venue_id":1092383519
+        }
+    ],
     "wof:id":1092383519,
-    "wof:lastmodified":1473984189,
+    "wof:lastmodified":1496885799,
     "wof:name":"Pizzeria LA MAMMA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

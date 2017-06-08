@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7424325943,47.4094848633,9.7424325943,47.4094848633",
     "geom:latitude":47.409485,
     "geom:longitude":9.742433,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906211,
-    "wof:geomhash":"955cf10fac7769eb784c61bca9cfc88b",
+    "wof:geomhash":"66fe34bb260f424d9116cfb8fcbe2476",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092215445
         }
     ],
     "wof:id":1092215445,
-    "wof:lastmodified":1473984441,
+    "wof:lastmodified":1496900763,
     "wof:name":"Esso Austria GmbH",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

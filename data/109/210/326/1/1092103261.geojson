@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9002170563,47.5406684875,14.9002170563,47.5406684875",
     "geom:latitude":47.540668,
     "geom:longitude":14.900217,
@@ -34,17 +35,34 @@
         "grave"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839019,
+        85632785,
+        101844543,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aEuIXImqupHb6wXMgE9nt_47.540668_14.900217@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900976,
-    "wof:geomhash":"86af22cebbe074a948a1004baa7c1a84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb8c87eb52b896a69b5c70da595460f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108839019,
+            "locality_id":101844543,
+            "region_id":85681687,
+            "venue_id":1092103261
+        }
+    ],
     "wof:id":1092103261,
-    "wof:lastmodified":1473983914,
+    "wof:lastmodified":1496910874,
     "wof:name":"Alfred Valland KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

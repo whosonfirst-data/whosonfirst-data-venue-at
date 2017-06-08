@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6744594574,47.8006134033,16.6744594574,47.8006134033",
     "geom:latitude":47.800613,
     "geom:longitude":16.674459,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.bnet.co.at/rust/seebad.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ssu6kPBlKNUudittN1WpC_47.800613_16.674459@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894822,
-    "wof:geomhash":"3f8660b9d2024e8bb4b8243c21c6b41c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"018c1a843294fb1058f8df22c39b71f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1091959973
+        }
+    ],
     "wof:id":1091959973,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496909074,
     "wof:name":"Ruster Seebad Betriebsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7427778244,47.4129104614,9.7427778244,47.4129104614",
     "geom:latitude":47.41291,
     "geom:longitude":9.742778,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906984,
-    "wof:geomhash":"700970cd95f3e2c6dab6358110f19359",
+    "wof:geomhash":"709f96bfc647ffe0ed8fda524d68b7bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092233623
         }
     ],
     "wof:id":1092233623,
-    "wof:lastmodified":1473984120,
+    "wof:lastmodified":1496900741,
     "wof:name":"Lingg & Co KG",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

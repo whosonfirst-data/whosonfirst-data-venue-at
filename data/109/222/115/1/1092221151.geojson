@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1341247559,47.3883514404,12.1341247559,47.3883514404",
     "geom:latitude":47.388351,
     "geom:longitude":12.134125,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jtr5tcH7V9OAk7c7Sdi2T_47.388351_12.134125@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906445,
-    "wof:geomhash":"b89da88a531013ae8794ca7ccabfa138",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b9f39981e0e3657de31cecb173dbec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092221151
+        }
+    ],
     "wof:id":1092221151,
-    "wof:lastmodified":1473983638,
+    "wof:lastmodified":1496897002,
     "wof:name":"Kirchmair Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

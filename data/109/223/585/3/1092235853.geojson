@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6657123566,48.2175674438,13.6657123566,48.2175674438",
     "geom:latitude":48.217567,
     "geom:longitude":13.665712,
@@ -28,17 +29,33 @@
     "sg:postcode":"4681",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835215,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43zDFbFvbevQLBvwWy8eM5_48.217567_13.665712@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473907083,
-    "wof:geomhash":"c583106c6a2534ee48ff096711bd98d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39c805b8adea1d0609347473884c2c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835215,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092235853
+        }
+    ],
     "wof:id":1092235853,
-    "wof:lastmodified":1473984505,
+    "wof:lastmodified":1496885484,
     "wof:name":"Theater-sichART/Kinderst\u00fccke/Walking Acts/Comedy f. alle Feste, Events u.a.m",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

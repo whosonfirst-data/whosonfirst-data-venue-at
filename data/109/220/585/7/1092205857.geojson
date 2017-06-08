@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9826040268,48.1657218933,13.9826040268,48.1657218933",
     "geom:latitude":48.165722,
     "geom:longitude":13.982604,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UIvDHpkzBlWHFktCAJJql_48.165722_13.982604@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905778,
-    "wof:geomhash":"f1ecbd662eb9d67f3a4dc04fd3c42591",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd2bddc09da0e2e7d387abf42db3933e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092205857
+        }
+    ],
     "wof:id":1092205857,
-    "wof:lastmodified":1473984674,
+    "wof:lastmodified":1496881838,
     "wof:name":"STAUDINGER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

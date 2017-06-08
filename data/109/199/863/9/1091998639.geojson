@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4917297363,47.274646759,12.4917297363,47.274646759",
     "geom:latitude":47.274647,
     "geom:longitude":12.49173,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.public-image.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837221,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18sBfsLhJyYTAYQyjiiqEe_47.274647_12.491730@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896477,
-    "wof:geomhash":"05801bcfd763b9edbcfb1778f05e5323",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f473307952f743719388bb4f63d66358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837221,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091998639
+        }
+    ],
     "wof:id":1091998639,
-    "wof:lastmodified":1473984989,
+    "wof:lastmodified":1496896094,
     "wof:name":"Public Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

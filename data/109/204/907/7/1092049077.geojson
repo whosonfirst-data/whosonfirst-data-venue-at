@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1345119476,47.1146392822,13.1345119476,47.1146392822",
     "geom:latitude":47.114639,
     "geom:longitude":13.134512,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"weismayr.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        101789115,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fiUii7vWy3HcRVX8NVrNE_47.114639_13.134512@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898474,
-    "wof:geomhash":"81ce58f85125e4535a1173fa96d7f734",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23efdf05c70a5cdd60eefe6e8a430ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":101789115,
+            "region_id":85681681,
+            "venue_id":1092049077
+        }
+    ],
     "wof:id":1092049077,
-    "wof:lastmodified":1473984326,
+    "wof:lastmodified":1496893768,
     "wof:name":"Hotel Weismayr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

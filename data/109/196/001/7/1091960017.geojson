@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8679637909,47.3124923706,10.8679637909,47.3124923706",
     "geom:latitude":47.312492,
     "geom:longitude":10.867964,
@@ -23,17 +24,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://members.telering.at/gasthof.wiesenruh/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837429,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A3nbgvUegBuqnKlKxTyfs_47.312492_10.867964@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894824,
-    "wof:geomhash":"87ce2230fb0572ee435aaae86bf5d43d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b33aacf723a0daa3429824a5fb28818e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837429,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091960017
+        }
+    ],
     "wof:id":1091960017,
-    "wof:lastmodified":1473983309,
+    "wof:lastmodified":1496897819,
     "wof:name":"Alpengasthof Wiesenruh, Nassereith / Tirol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

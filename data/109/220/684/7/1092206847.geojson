@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3992576599,47.9387207031,16.3992576599,47.9387207031",
     "geom:latitude":47.938721,
     "geom:longitude":16.399258,
@@ -32,17 +33,33 @@
         "fabric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835383,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W8UdnpLynmD7YJYTDmPFI_47.938721_16.399258@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905821,
-    "wof:geomhash":"169294e56d11b412d9bff7bebe720ee9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a7043c02c155d094d220ee3f76f8a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835383,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092206847
+        }
+    ],
     "wof:id":1092206847,
-    "wof:lastmodified":1473984748,
+    "wof:lastmodified":1496886417,
     "wof:name":"Mrazek Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

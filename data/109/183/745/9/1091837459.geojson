@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.849193573,47.4263954163,12.849193573,47.4263954163",
     "geom:latitude":47.426395,
     "geom:longitude":12.849194,
@@ -23,17 +24,34 @@
     "sg:postcode":"5760",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        101834285,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56jBQ87hEuoRLj7uW7t6Hr_47.426395_12.849194@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889152,
-    "wof:geomhash":"c5cd1b6aa507ebc058841d144c705702",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c9ba20a4312f89e72700c8a6a90c5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":101834285,
+            "region_id":85681681,
+            "venue_id":1091837459
+        }
+    ],
     "wof:id":1091837459,
-    "wof:lastmodified":1473984719,
+    "wof:lastmodified":1496896292,
     "wof:name":"Milwaukee Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

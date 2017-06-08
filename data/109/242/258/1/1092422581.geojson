@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.515332222,47.2805213928,11.515332222,47.2805213928",
     "geom:latitude":47.280521,
     "geom:longitude":11.515332,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915558,
-    "wof:geomhash":"48d7f14b3fc52845d28fa343b66bb334",
+    "wof:geomhash":"6beff652a80314204d798b211df2755d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092422581
         }
     ],
     "wof:id":1092422581,
-    "wof:lastmodified":1473983856,
+    "wof:lastmodified":1496898727,
     "wof:name":"GESA Angelger\u00e4te GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

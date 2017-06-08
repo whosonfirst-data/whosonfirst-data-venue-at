@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3902196884,47.3616104126,13.3902196884,47.3616104126",
     "geom:latitude":47.36161,
     "geom:longitude":13.39022,
@@ -23,17 +24,33 @@
     "sg:postcode":"5542",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837005,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KC0ND3nK9xh0VYCyiwNuy_47.361610_13.390220@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899299,
-    "wof:geomhash":"9b6cb5a6dfd2f03af9622dc1e2564ca1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe61ac81979d19b3711fff38092e63db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837005,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092069755
+        }
+    ],
     "wof:id":1092069755,
-    "wof:lastmodified":1473985112,
+    "wof:lastmodified":1496893918,
     "wof:name":"Gasthaus Wieseneck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

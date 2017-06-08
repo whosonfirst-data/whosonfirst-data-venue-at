@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.083234787,48.5727310181,16.083234787,48.5727310181",
     "geom:latitude":48.572731,
     "geom:longitude":16.083235,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"sbi.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lP191SEaBjnkBnY6Xy2wB_48.572731_16.083235@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473909867,
-    "wof:geomhash":"f9046e41ed65cc2cb6a77ede4e0b06b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c959c875132fc8af997ae3dc9a3ba559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092299767
+        }
+    ],
     "wof:id":1092299767,
-    "wof:lastmodified":1473985215,
+    "wof:lastmodified":1496886312,
     "wof:name":"SBI Produktion techn. Anlagen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

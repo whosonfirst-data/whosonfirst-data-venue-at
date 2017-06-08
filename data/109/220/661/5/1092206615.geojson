@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4293413162,47.0666313171,14.4293413162,47.0666313171",
     "geom:latitude":47.066631,
     "geom:longitude":14.429341,
@@ -32,17 +33,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838811,
+        85632785,
+        101789063,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PWYLOkknEA4W544rhhXyk_47.066631_14.429341@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905811,
-    "wof:geomhash":"271cd3f853c92ef004b3d19427b4c7b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e805f4cdc9e810a91d619921b2ae09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838811,
+            "locality_id":101789063,
+            "region_id":85681687,
+            "venue_id":1092206615
+        }
+    ],
     "wof:id":1092206615,
-    "wof:lastmodified":1473984743,
+    "wof:lastmodified":1496909404,
     "wof:name":"Ehgartner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

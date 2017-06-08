@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0446195602,48.0679512024,13.0446195602,48.0679512024",
     "geom:latitude":48.067951,
     "geom:longitude":13.04462,
@@ -32,17 +33,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834721,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WE1LkllF9CHj4XMwH4Kj5_48.067951_13.044620@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905099,
-    "wof:geomhash":"ccd66db0e6521bf6d2fb98f538ee2b7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8af1aafdf648122c86338af0458ce78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834721,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092191783
+        }
+    ],
     "wof:id":1092191783,
-    "wof:lastmodified":1473983786,
+    "wof:lastmodified":1496882334,
     "wof:name":"Andreas Maislinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

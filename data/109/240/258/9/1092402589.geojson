@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7951002121,47.295841217,12.7951002121,47.295841217",
     "geom:latitude":47.295841,
     "geom:longitude":12.7951,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dw2cXmK9laY9ddPk2rDGT_47.295841_12.795100@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914521,
-    "wof:geomhash":"74880cdacee9b2a4c4a28ef195dbc550",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8c13f3862d2502cd04216f8120b90cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092402589
+        }
+    ],
     "wof:id":1092402589,
-    "wof:lastmodified":1473983860,
+    "wof:lastmodified":1496896504,
     "wof:name":"Design A Storz GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

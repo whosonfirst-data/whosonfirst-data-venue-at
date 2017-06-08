@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5036077499,47.1156539917,15.5036077499,47.1156539917",
     "geom:latitude":47.115654,
     "geom:longitude":15.503608,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906101,
-    "wof:geomhash":"88a5cec4fe03b7f0bd8196f6041269be",
+    "wof:geomhash":"ce5774c0dc2b82fbccc74ed5781045c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092213353
         }
     ],
     "wof:id":1092213353,
-    "wof:lastmodified":1473984119,
+    "wof:lastmodified":1496934320,
     "wof:name":"A1 Tankstelle Wolfgang Passler",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

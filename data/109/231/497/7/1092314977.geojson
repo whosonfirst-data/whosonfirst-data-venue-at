@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0512876511,47.8679351807,13.0512876511,47.8679351807",
     "geom:latitude":47.867935,
     "geom:longitude":13.051288,
@@ -23,17 +24,33 @@
     "sg:postcode":"5161",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837127,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ONj8UpYwJvIt0wIBIXlDV_47.867935_13.051288@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910584,
-    "wof:geomhash":"a01f4ebde27f682881c76d2ed8f6fee8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"343469caa02665a6fc911580bd0ef1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837127,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092314977
+        }
+    ],
     "wof:id":1092314977,
-    "wof:lastmodified":1473984589,
+    "wof:lastmodified":1496895277,
     "wof:name":"Klausner Gregor KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

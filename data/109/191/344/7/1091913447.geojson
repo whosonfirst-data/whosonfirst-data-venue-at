@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2003879547,47.3432731628,13.2003879547,47.3432731628",
     "geom:latitude":47.343273,
     "geom:longitude":13.200388,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        101787869,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i8Cr9qGymfGxfVG7aC4D0_47.343273_13.200388@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892720,
-    "wof:geomhash":"f36abd01ae8ca99af9356bf260dc0a3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5603d91e9cf84598224f9bcf08f73d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":101787869,
+            "region_id":85681681,
+            "venue_id":1091913447
+        }
+    ],
     "wof:id":1091913447,
-    "wof:lastmodified":1473983731,
+    "wof:lastmodified":1496894084,
     "wof:name":"Eurofunk Kappacher GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

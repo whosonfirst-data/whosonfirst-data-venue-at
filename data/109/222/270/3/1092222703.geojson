@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6141691208,47.2577095032,9.6141691208,47.2577095032",
     "geom:latitude":47.25771,
     "geom:longitude":9.614169,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906519,
-    "wof:geomhash":"cd654f318952efc3c738356db892f352",
+    "wof:geomhash":"126fe7842f0bd8474e93c194c5ec26b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092222703
         }
     ],
     "wof:id":1092222703,
-    "wof:lastmodified":1473983999,
+    "wof:lastmodified":1496900950,
     "wof:name":"Taxi Lukas",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

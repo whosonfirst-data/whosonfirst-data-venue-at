@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6260480881,47.1141242981,15.6260480881,47.1141242981",
     "geom:latitude":47.114124,
     "geom:longitude":15.626048,
@@ -22,17 +23,33 @@
     "sg:postcode":"8063",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839209,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IdncXcSQPrHjuS0l5LyJS_47.114124_15.626048@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893657,
-    "wof:geomhash":"63d092ee55add5bc572878735ffa8de7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf549c17df668c0bf62d72d02910e498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839209,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091933387
+        }
+    ],
     "wof:id":1091933387,
-    "wof:lastmodified":1473984089,
+    "wof:lastmodified":1496911954,
     "wof:name":"Alpine Mayreder Bau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

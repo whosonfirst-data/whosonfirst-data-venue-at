@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3602895737,48.4108390808,15.3602895737,48.4108390808",
     "geom:latitude":48.410839,
     "geom:longitude":15.36029,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836987,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i0Bk2VKgBcebDoVjqhadw_48.410839_15.360290@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898894,
-    "wof:geomhash":"06b0759c38396e0a462b083e1ad2eec7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5a2298c0ee0e0b5b61d3b69ae0cd135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836987,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092059877
+        }
+    ],
     "wof:id":1092059877,
-    "wof:lastmodified":1473985207,
+    "wof:lastmodified":1496893653,
     "wof:name":"Franz Landst\u00e4tter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

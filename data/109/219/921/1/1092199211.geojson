@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9534072876,48.0751075745,16.9534072876,48.0751075745",
     "geom:latitude":48.075108,
     "geom:longitude":16.953407,
@@ -33,17 +34,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835885,
+        85632785,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EWrXr7Kt1YDyJ8nTd0Vud_48.075108_16.953407@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905412,
-    "wof:geomhash":"75475aed5d7cb89de4b47ee41f86b61c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7964a38e2be25716fc02ab827a58a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108835885,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092199211
+        }
+    ],
     "wof:id":1092199211,
-    "wof:lastmodified":1473985296,
+    "wof:lastmodified":1496888747,
     "wof:name":"Sieber Sanit\u00e4r- u. Heizungstechnik GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

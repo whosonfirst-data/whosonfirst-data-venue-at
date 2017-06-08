@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4309387207,47.5571136475,16.4309387207,47.5571136475",
     "geom:latitude":47.557114,
     "geom:longitude":16.430939,
@@ -23,17 +24,33 @@
     "sg:postcode":"7341",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838561,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bslYRT6DOk0dYvANtVMuS_47.557114_16.430939@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896991,
-    "wof:geomhash":"7f81b3cce8d4eb51ccdf4ba25b140e76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2247eee955b62cbe7450ddce82c6bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838561,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092011179
+        }
+    ],
     "wof:id":1092011179,
-    "wof:lastmodified":1473983315,
+    "wof:lastmodified":1496908450,
     "wof:name":"Kuhstall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

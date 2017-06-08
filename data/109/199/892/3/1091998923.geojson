@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4758558273,48.0333518982,14.4758558273,48.0333518982",
     "geom:latitude":48.033352,
     "geom:longitude":14.475856,
@@ -31,17 +32,33 @@
         "internet-provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836687,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11nGNLl0Qh5BVdvWov0kfe_48.033352_14.475856@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896488,
-    "wof:geomhash":"6cbf5c922826b6a2fdb11ef8dc00ef91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa0555a4e6f36ae49b963919e8792cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836687,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091998923
+        }
+    ],
     "wof:id":1091998923,
-    "wof:lastmodified":1473985012,
+    "wof:lastmodified":1496892424,
     "wof:name":"Friendly-net",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

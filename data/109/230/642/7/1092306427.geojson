@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5964040756,48.0157089233,15.5964040756,48.0157089233",
     "geom:latitude":48.015709,
     "geom:longitude":15.596404,
@@ -32,17 +33,34 @@
         "glazings"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834897,
+        85632785,
+        101785683,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09rjWmWvf1YGI9Sh1rNSh0_48.015709_15.596404@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910209,
-    "wof:geomhash":"de22bcc7f294f5c6296eba75e9fa852c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"538f6302131745039806411b2e5c885b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108834897,
+            "locality_id":101785683,
+            "region_id":85681671,
+            "venue_id":1092306427
+        }
+    ],
     "wof:id":1092306427,
-    "wof:lastmodified":1473984760,
+    "wof:lastmodified":1496892546,
     "wof:name":"Ebner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

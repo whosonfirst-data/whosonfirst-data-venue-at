@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2799568176,48.3098907471,14.2799568176,48.3098907471",
     "geom:latitude":48.309891,
     "geom:longitude":14.279957,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898453,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892830,
-    "wof:geomhash":"eb4bac335269d12e04a5f055e993d3e1",
+    "wof:geomhash":"1c69be2e6ebb2aa8b6c92d64f53a162b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898453,
             "region_id":85681677,
             "venue_id":1091915983
         }
     ],
     "wof:id":1091915983,
-    "wof:lastmodified":1473984132,
+    "wof:lastmodified":1496881437,
     "wof:name":"UNI SOFTWARE PLUS GMBH",
     "wof:parent_id":85898453,
     "wof:placetype":"venue",

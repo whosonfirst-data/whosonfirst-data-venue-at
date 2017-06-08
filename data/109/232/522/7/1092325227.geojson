@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1999645233,47.3590126038,13.1999645233,47.3590126038",
     "geom:latitude":47.359013,
     "geom:longitude":13.199965,
@@ -23,17 +24,33 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FZ7NhWauCVbmL1eR7tJJb_47.359013_13.199965@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473911025,
-    "wof:geomhash":"a628271fd76c7b0fce03a38c0a281f3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f24f2727339b99acace63105fb251d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092325227
+        }
+    ],
     "wof:id":1092325227,
-    "wof:lastmodified":1473984651,
+    "wof:lastmodified":1496894037,
     "wof:name":"Agip Austria GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

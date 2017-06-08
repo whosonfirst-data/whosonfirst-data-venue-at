@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.638051033,47.2762680054,9.638051033,47.2762680054",
     "geom:latitude":47.276268,
     "geom:longitude":9.638051,
@@ -25,10 +26,12 @@
     "sg:website":"www.fretz-men.ch",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897805,
-    "wof:geomhash":"c686ed561be2f0bae1900052406b4206",
+    "wof:geomhash":"092b0271ff5609975c6c93b90c7efb67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092031923
         }
     ],
     "wof:id":1092031923,
-    "wof:lastmodified":1473983682,
+    "wof:lastmodified":1496901632,
     "wof:name":"Latzer Handelsagentur KEG",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

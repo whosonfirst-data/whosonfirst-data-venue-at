@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7161808014,48.1179847717,16.7161808014,48.1179847717",
     "geom:latitude":48.117985,
     "geom:longitude":16.716181,
@@ -28,17 +29,33 @@
     "sg:postcode":"2402",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835831,
+        85632785,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3itMlKZOCtQq6M6rbcDwH1_48.117985_16.716181@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894978,
-    "wof:geomhash":"6656b09f58f0521232008e95c839783c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b797ff59e071a9e75e7762a848bb770b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108835831,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091963729
+        }
+    ],
     "wof:id":1091963729,
-    "wof:lastmodified":1473983895,
+    "wof:lastmodified":1496888572,
     "wof:name":"Haslauerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

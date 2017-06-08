@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6445121765,48.5864677429,16.6445121765,48.5864677429",
     "geom:latitude":48.586468,
     "geom:longitude":16.644512,
@@ -32,17 +33,34 @@
         "tub"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835475,
+        85632785,
+        101782239,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wJ759HVT2RVEPt8kI4721_48.586468_16.644512@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898275,
-    "wof:geomhash":"176f3a69ed892b11e4a15b730c85ead0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac2da49a02e37fccd92dd6b4cb5bda02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108835475,
+            "locality_id":101782239,
+            "region_id":85681671,
+            "venue_id":1092043743
+        }
+    ],
     "wof:id":1092043743,
-    "wof:lastmodified":1473983473,
+    "wof:lastmodified":1496886823,
     "wof:name":"Christoph Dorn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

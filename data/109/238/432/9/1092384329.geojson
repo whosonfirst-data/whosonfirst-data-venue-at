@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1420707703,47.7023353577,16.1420707703,47.7023353577",
     "geom:latitude":47.702335,
     "geom:longitude":16.142071,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835827,
+        85632785,
+        101833075,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aDA87EmNpfREoO251xLBV_47.702335_16.142071@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913651,
-    "wof:geomhash":"b688a3481f14efca998c4c0b863d73f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20adff42150998c4f62f22a5369e88b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835827,
+            "locality_id":101833075,
+            "region_id":85681671,
+            "venue_id":1092384329
+        }
+    ],
     "wof:id":1092384329,
-    "wof:lastmodified":1473984338,
+    "wof:lastmodified":1496888567,
     "wof:name":"Pizzeria- Gasthaus Zum Spitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4790229797,48.2123298645,16.4790229797,48.2123298645",
     "geom:latitude":48.21233,
     "geom:longitude":16.479023,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893568,
-    "wof:geomhash":"1f9936bec45b836929f9e248aa175ec4",
+    "wof:geomhash":"0cf035748ab4846c6d75e268544dfd73",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091931447
         }
     ],
     "wof:id":1091931447,
-    "wof:lastmodified":1473983649,
+    "wof:lastmodified":1496903506,
     "wof:name":"Sportverein SV Aspern",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3901472092,47.2569580078,11.3901472092,47.2569580078",
     "geom:latitude":47.256958,
     "geom:longitude":11.390147,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894576,
-    "wof:geomhash":"2b647c3c0609703e19815c352c2d7a3b",
+    "wof:geomhash":"3ed60180e8f21481579e38e941349584",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091954629
         }
     ],
     "wof:id":1091954629,
-    "wof:lastmodified":1473984476,
+    "wof:lastmodified":1496899370,
     "wof:name":"Achleitner Franz Fahrzeugbau u Reifenzentrum GmbH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

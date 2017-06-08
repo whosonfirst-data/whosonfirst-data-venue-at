@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8076267242,48.531665802,14.8076267242,48.531665802",
     "geom:latitude":48.531666,
     "geom:longitude":14.807627,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835083,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YaYt4tcEXkXeMU0ijNoPV_48.531666_14.807627@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906452,
-    "wof:geomhash":"ed09422f4285b73555cceefdcc086cc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c69b3606ade962b809ae23e9e0c1bd63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835083,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092221341
+        }
+    ],
     "wof:id":1092221341,
-    "wof:lastmodified":1473983676,
+    "wof:lastmodified":1496884502,
     "wof:name":"Leonhardsberger Christian GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

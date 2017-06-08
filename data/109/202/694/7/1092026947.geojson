@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6057186127,47.2733573914,11.6057186127,47.2733573914",
     "geom:latitude":47.273357,
     "geom:longitude":11.605719,
@@ -23,17 +24,33 @@
     "sg:postcode":"6112",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837639,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ub5EX1zQJM6lntktQsp89_47.273357_11.605719@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897595,
-    "wof:geomhash":"e7a7145c3301daa8d0bac470dc61cb8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89362ae02387e669d5ecf367d3616688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837639,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092026947
+        }
+    ],
     "wof:id":1092026947,
-    "wof:lastmodified":1473984736,
+    "wof:lastmodified":1496898895,
     "wof:name":"Truppen\u00fcbungsplatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

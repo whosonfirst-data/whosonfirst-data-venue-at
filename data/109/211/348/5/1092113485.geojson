@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5445995331,48.2139663696,16.5445995331,48.2139663696",
     "geom:latitude":48.213966,
     "geom:longitude":16.5446,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901454,
-    "wof:geomhash":"575bf8353da7e175c3aec2d016f63309",
+    "wof:geomhash":"649b1dd526ee1b5e8f104a8f586b1e80",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092113485
         }
     ],
     "wof:id":1092113485,
-    "wof:lastmodified":1473984050,
+    "wof:lastmodified":1496905027,
     "wof:name":"Martha's Tierwelt - Ihn. Martha Bauer",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.994052887,47.2249565125,12.994052887,47.2249565125",
     "geom:latitude":47.224957,
     "geom:longitude":12.994053,
@@ -23,17 +24,34 @@
     "sg:postcode":"5661",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837229,
+        85632785,
+        101789133,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p0aqKpHU6MhEjGAuzewp3_47.224957_12.994053@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899827,
-    "wof:geomhash":"76d8c0aab3e355ee91d43ef88daef289",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b49df74062acfc379d1f95bc3ae81d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837229,
+            "locality_id":101789133,
+            "region_id":85681681,
+            "venue_id":1092081387
+        }
+    ],
     "wof:id":1092081387,
-    "wof:lastmodified":1473983636,
+    "wof:lastmodified":1496896180,
     "wof:name":"Salzburger Hof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

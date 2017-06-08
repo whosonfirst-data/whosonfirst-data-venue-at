@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2662715912,48.1517410278,16.2662715912,48.1517410278",
     "geom:latitude":48.151741,
     "geom:longitude":16.266272,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916759,
-    "wof:geomhash":"86aa9a1fc8d504001d1c42b9bb36a6df",
+    "wof:geomhash":"ca8a628ff3ccda51c8b7f9d388772b5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092448345
         }
     ],
     "wof:id":1092448345,
-    "wof:lastmodified":1473985235,
+    "wof:lastmodified":1496903373,
     "wof:name":"H\u00f6bart Paulina",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

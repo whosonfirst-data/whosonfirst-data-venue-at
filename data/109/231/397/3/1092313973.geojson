@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6206016541,47.2802047729,9.6206016541,47.2802047729",
     "geom:latitude":47.280205,
     "geom:longitude":9.620602,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910539,
-    "wof:geomhash":"d6194cd894b4b152bd588eee6031ae45",
+    "wof:geomhash":"1792183cfb41d91bc9ea5a7d1f58ca22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092313973
         }
     ],
     "wof:id":1092313973,
-    "wof:lastmodified":1473984285,
+    "wof:lastmodified":1496901636,
     "wof:name":"Ellensohn Manfred GesmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

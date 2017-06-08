@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5716371536,46.8028373718,13.5716371536,46.8028373718",
     "geom:latitude":46.802837,
     "geom:longitude":13.571637,
@@ -28,17 +29,33 @@
     "sg:postcode":"9872",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838279,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qewjhyv0aa5lr1bzagMOl_46.802837_13.571637@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892934,
-    "wof:geomhash":"0697aad5752f57519581f4549964d861",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9697d81afe31c7afbd0d165b27f6636c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838279,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091918515
+        }
+    ],
     "wof:id":1091918515,
-    "wof:lastmodified":1473984645,
+    "wof:lastmodified":1496906943,
     "wof:name":"Fundgrube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

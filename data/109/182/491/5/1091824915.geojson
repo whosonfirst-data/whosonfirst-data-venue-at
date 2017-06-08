@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6750030518,47.8010025024,16.6750030518,47.8010025024",
     "geom:latitude":47.801003,
     "geom:longitude":16.675003,
@@ -23,17 +24,34 @@
     "sg:postcode":"7071",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34BJK0FtMhV7jDtbeyXo7I_47.801003_16.675003@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888562,
-    "wof:geomhash":"1878375c4980fe0827dbcbb9c4c14a58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"986a16a5aef005d7c5e5c22f0c7c92d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1091824915
+        }
+    ],
     "wof:id":1091824915,
-    "wof:lastmodified":1473984600,
+    "wof:lastmodified":1496909064,
     "wof:name":"Bank Burgenland AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

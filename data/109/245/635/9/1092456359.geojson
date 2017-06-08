@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.261829,47.86582,13.261829,47.86582",
     "geom:latitude":47.86582,
     "geom:longitude":13.261829,
@@ -41,17 +42,33 @@
     ],
     "sg:website":"http://www.emsisoft.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837187,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TSLeh9QsgYfL0i75F0u4m_47.865820_13.261829@1308163239"
     },
     "wof:country":"AT",
     "wof:created":1473917115,
-    "wof:geomhash":"bfe270d95f49947beb07a2c93ef03464",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3077a86cf0032814467b7197af8e936a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837187,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092456359
+        }
+    ],
     "wof:id":1092456359,
-    "wof:lastmodified":1473983942,
+    "wof:lastmodified":1496895722,
     "wof:name":"Emsi Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

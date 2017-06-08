@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1673898697,47.3689422607,11.1673898697,47.3689422607",
     "geom:latitude":47.368942,
     "geom:longitude":11.16739,
@@ -28,17 +29,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rUStow7TCLi7DqoMBUG3U_47.368942_11.167390@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898392,
-    "wof:geomhash":"864d578596a9e387b263c496f1b36d53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"474cfb8ae629df54df38ceb5b459d4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092047015
+        }
+    ],
     "wof:id":1092047015,
-    "wof:lastmodified":1473984035,
+    "wof:lastmodified":1496898446,
     "wof:name":"Hotel Hochland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

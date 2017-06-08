@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4707565308,48.2943687439,16.4707565308,48.2943687439",
     "geom:latitude":48.294369,
     "geom:longitude":16.470757,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900840,
-    "wof:geomhash":"5e1dce8444f3ba87fc203f4fd62dd824",
+    "wof:geomhash":"0bfc6096267b03463c73a722076f176a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092100781
         }
     ],
     "wof:id":1092100781,
-    "wof:lastmodified":1473983431,
+    "wof:lastmodified":1496890126,
     "wof:name":"Gemeinn\u00fctzige Wohnungs- u Siedlungsgen Neunkirchen regGenmbH",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

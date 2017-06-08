@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2710266113,47.1329841614,16.2710266113,47.1329841614",
     "geom:latitude":47.132984,
     "geom:longitude":16.271027,
@@ -23,17 +24,33 @@
     "sg:postcode":"7535",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838437,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NIwas6MJsmsHzUa2eN2XH_47.132984_16.271027@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910602,
-    "wof:geomhash":"cdc258d76dec5ac854007221a8e7bac3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66198f84dcae185c55dd1e4a7903d052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838437,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092315463
+        }
+    ],
     "wof:id":1092315463,
-    "wof:lastmodified":1473984685,
+    "wof:lastmodified":1496907899,
     "wof:name":"Matisovits GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

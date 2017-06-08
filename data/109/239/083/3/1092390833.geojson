@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4731903076,48.3004493713,16.4731903076,48.3004493713",
     "geom:latitude":48.300449,
     "geom:longitude":16.47319,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913997,
-    "wof:geomhash":"6ad6d7c16e0ac93679296b3b2033d542",
+    "wof:geomhash":"9e6bc2051c4bcbf84e4e7218a5658f83",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092390833
         }
     ],
     "wof:id":1092390833,
-    "wof:lastmodified":1473983409,
+    "wof:lastmodified":1496890130,
     "wof:name":"SEWA Chemie Josef Jeretin",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

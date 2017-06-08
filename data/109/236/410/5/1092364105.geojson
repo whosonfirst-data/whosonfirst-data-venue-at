@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.656542778,47.3546524048,10.656542778,47.3546524048",
     "geom:latitude":47.354652,
     "geom:longitude":10.656543,
@@ -23,17 +24,33 @@
     "sg:postcode":"6622",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837671,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vUPvzLa01fvwMHMFf0PGp_47.354652_10.656543@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912712,
-    "wof:geomhash":"93a6ddfd7ac630d869c8acab3032f9be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"224e5fc3b4ff9edff75a70b670763ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837671,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092364105
+        }
+    ],
     "wof:id":1092364105,
-    "wof:lastmodified":1473984293,
+    "wof:lastmodified":1496899062,
     "wof:name":"G\u00e4stehaus Alpenruh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

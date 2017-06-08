@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1967201233,48.3208084106,16.1967201233,48.3208084106",
     "geom:latitude":48.320808,
     "geom:longitude":16.19672,
@@ -32,17 +33,34 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835345,
+        85632785,
+        101754237,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zT823VfV57EFFTAXDHwMC_48.320808_16.196720@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889213,
-    "wof:geomhash":"038b1e86846aee17e30f1a691c278e3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcbdab4b23da2cb9036060c37c56f9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835345,
+            "locality_id":101754237,
+            "region_id":85681671,
+            "venue_id":1091838639
+        }
+    ],
     "wof:id":1091838639,
-    "wof:lastmodified":1473985103,
+    "wof:lastmodified":1496886176,
     "wof:name":"Ing. Georg Seifert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

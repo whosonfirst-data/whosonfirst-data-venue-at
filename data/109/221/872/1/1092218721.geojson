@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3484802246,47.1161079407,15.3484802246,47.1161079407",
     "geom:latitude":47.116108,
     "geom:longitude":15.34848,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906352,
-    "wof:geomhash":"7c9a9a5cae01e05d748ab42a05decf48",
+    "wof:geomhash":"9538c88cb0727010c5b4339de5a5f06c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092218721
         }
     ],
     "wof:id":1092218721,
-    "wof:lastmodified":1473985101,
+    "wof:lastmodified":1496911809,
     "wof:name":"Becker Anton",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3966503143,47.2553977966,11.3966503143,47.2553977966",
     "geom:latitude":47.255398,
     "geom:longitude":11.39665,
@@ -25,10 +26,13 @@
     "sg:website":"hotel-zillertal.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913272,
-    "wof:geomhash":"493e92beb071a82da0ea04d4fd3a9ed2",
+    "wof:geomhash":"9e7fe26205dbcc06bea877a76cee054d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092375803
         }
     ],
     "wof:id":1092375803,
-    "wof:lastmodified":1473984676,
+    "wof:lastmodified":1496899395,
     "wof:name":"Zillertal Pension",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

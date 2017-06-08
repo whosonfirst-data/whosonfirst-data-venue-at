@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.333070755,48.3438720703,16.333070755,48.3438720703",
     "geom:latitude":48.343872,
     "geom:longitude":16.333071,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.korneuburg.gv.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09IxFXR4ufJgHUCET0O7mS_48.343872_16.333071@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893647,
-    "wof:geomhash":"925370275b37cba99a8f1d0475114bc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"322bfdaf8ba94466dc6050df1e773cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1091933131
+        }
+    ],
     "wof:id":1091933131,
-    "wof:lastmodified":1473984102,
+    "wof:lastmodified":1496883697,
     "wof:name":"Stadtgemeinde Korneuburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

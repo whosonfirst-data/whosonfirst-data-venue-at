@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0362672806,47.7401008606,13.0362672806,47.7401008606",
     "geom:latitude":47.740101,
     "geom:longitude":13.036267,
@@ -25,10 +26,12 @@
     "sg:website":"http://members.aon.at/sallerhof",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894844,
-    "wof:geomhash":"1e9b08872d9f97b46cb9d3fb004291cf",
+    "wof:geomhash":"aa3df9129ddf75a715ab069820f13fae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1091960539
         }
     ],
     "wof:id":1091960539,
-    "wof:lastmodified":1473983395,
+    "wof:lastmodified":1496895374,
     "wof:name":"Pension-Hotel Sallerhof",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

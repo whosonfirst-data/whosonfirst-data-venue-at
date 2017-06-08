@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3979196548,47.2630958557,11.3979196548,47.2630958557",
     "geom:latitude":47.263096,
     "geom:longitude":11.39792,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911008,
-    "wof:geomhash":"fbe2425a87d6c209883bcd7681da07bb",
+    "wof:geomhash":"ff430c4204b169a27b4d8484a23115b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092324925
         }
     ],
     "wof:id":1092324925,
-    "wof:lastmodified":1473984618,
+    "wof:lastmodified":1496899505,
     "wof:name":"DENZELDRIVE Carsharing GmbH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

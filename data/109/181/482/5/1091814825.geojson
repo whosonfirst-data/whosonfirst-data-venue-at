@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3499526978,48.3726615906,14.3499526978,48.3726615906",
     "geom:latitude":48.372662,
     "geom:longitude":14.349953,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898433,
-        102049881
+        102191581,
+        1108836139,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888131,
-    "wof:geomhash":"133c394ccd6187f561b7c2503324d6da",
+    "wof:geomhash":"b8e9c9d47c0fd8fa85f31d989df423a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":-1,
             "neighbourhood_id":85898433,
             "region_id":85681677,
             "venue_id":1091814825
         }
     ],
     "wof:id":1091814825,
-    "wof:lastmodified":1473984383,
+    "wof:lastmodified":1496889719,
     "wof:name":"Experts Klikon Petra Klimasch",
     "wof:parent_id":85898433,
     "wof:placetype":"venue",

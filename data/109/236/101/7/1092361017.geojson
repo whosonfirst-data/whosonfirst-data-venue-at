@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.798833847,47.3059387207,12.798833847,47.3059387207",
     "geom:latitude":47.305939,
     "geom:longitude":12.798834,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53oDhhhURn1ChfE6CxiRCG_47.305939_12.798834@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912559,
-    "wof:geomhash":"6560c339cef39c80c86e262acdd2a56a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da559c96714a3ae3896be6e505f8c5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092361017
+        }
+    ],
     "wof:id":1092361017,
-    "wof:lastmodified":1473983520,
+    "wof:lastmodified":1496896492,
     "wof:name":"Alpina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

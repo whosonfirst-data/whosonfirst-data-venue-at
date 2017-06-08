@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6694173813,47.3004379272,11.6694173813,47.3004379272",
     "geom:latitude":47.300438,
     "geom:longitude":11.669417,
@@ -23,17 +24,33 @@
     "sg:postcode":"6133",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837715,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g21Q2XX5Zo0IeS0q2TtPY_47.300438_11.669417@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473906834,
-    "wof:geomhash":"88c48bad02f474e7a005bccd407d7720",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78f00b991b5919b8f833cbfd1142a1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837715,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092230337
+        }
+    ],
     "wof:id":1092230337,
-    "wof:lastmodified":1473983432,
+    "wof:lastmodified":1496899742,
     "wof:name":"Knapp Hans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

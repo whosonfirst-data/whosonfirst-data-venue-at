@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7403049469,48.2708816528,13.7403049469,48.2708816528",
     "geom:latitude":48.270882,
     "geom:longitude":13.740305,
@@ -31,17 +32,33 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835205,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BRNXInyz3t9cuCO4tZR4v_48.270882_13.740305@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913819,
-    "wof:geomhash":"776f7049d305162ec9d481b5efce4a5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8c327fd007858fb9bb8f9f62bf9995b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835205,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092387413
+        }
+    ],
     "wof:id":1092387413,
-    "wof:lastmodified":1473985040,
+    "wof:lastmodified":1496885447,
     "wof:name":"Kutec - Kunststofftechnik Werner Oberndorfinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

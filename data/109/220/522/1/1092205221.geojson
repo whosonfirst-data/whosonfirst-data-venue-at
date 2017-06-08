@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4220552444,46.9403190613,14.4220552444,46.9403190613",
     "geom:latitude":46.940319,
     "geom:longitude":14.422055,
@@ -32,17 +33,33 @@
         "fabric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838233,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ODLZ5PDM5wgqrNXU3ImN8_46.940319_14.422055@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905751,
-    "wof:geomhash":"bb6835adc67d283d1ee05e7fdd716592",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5eddf012a710f38bd256de006e5d0ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838233,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092205221
+        }
+    ],
     "wof:id":1092205221,
-    "wof:lastmodified":1473984553,
+    "wof:lastmodified":1496906666,
     "wof:name":"Friesacher Leinen Vertriebs GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

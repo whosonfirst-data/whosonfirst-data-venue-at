@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8786401749,47.9934883118,12.8786401749,47.9934883118",
     "geom:latitude":47.993488,
     "geom:longitude":12.87864,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837173,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LjgdTp81nIqiSbKaqK2eW_47.993488_12.878640@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892835,
-    "wof:geomhash":"fa08269ce3d8a7410ecf95c99b8668a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"819f49f20ddec7333d2d0debd52b31e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837173,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091916047
+        }
+    ],
     "wof:id":1091916047,
-    "wof:lastmodified":1473984171,
+    "wof:lastmodified":1496895620,
     "wof:name":"Warter EDV-Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

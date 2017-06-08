@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5165576935,47.2831306458,11.5165576935,47.2831306458",
     "geom:latitude":47.283131,
     "geom:longitude":11.516558,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900054,
-    "wof:geomhash":"59f8fa50c8fd3e47400115cd99c039cd",
+    "wof:geomhash":"303c5a9da17fdb112eae910c8351f3ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092086435
         }
     ],
     "wof:id":1092086435,
-    "wof:lastmodified":1473984682,
+    "wof:lastmodified":1496898743,
     "wof:name":"Dorfner Geb\u00e4udereinigung GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

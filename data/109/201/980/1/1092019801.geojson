@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8407926559,47.4403953552,12.8407926559,47.4403953552",
     "geom:latitude":47.440395,
     "geom:longitude":12.840793,
@@ -23,17 +24,33 @@
     "sg:postcode":"5760",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hEnxkqVIhHj6AjioM62KC_47.440395_12.840793@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897337,
-    "wof:geomhash":"6e58207ed854ab08e18dfaed9bd8334c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d44b7334e28d2aaf0d30ee7d6636ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092019801
+        }
+    ],
     "wof:id":1092019801,
-    "wof:lastmodified":1473984800,
+    "wof:lastmodified":1496896280,
     "wof:name":"Gendarmerie Saalfelden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3098430634,48.1691589355,16.3098430634,48.1691589355",
     "geom:latitude":48.169159,
     "geom:longitude":16.309843,
@@ -24,13 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898639,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898665,
-        85898639
+        85681667,
+        85898665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473901639,
-    "wof:geomhash":"8754f3fc59b1c4b8177f4ba8bcb75985",
+    "wof:geomhash":"4c534e09df1a878ca3c40d7dfdf8e18d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898665,
+            "neighbourhood_id":85898639,
             "region_id":85681667,
             "venue_id":1092117493
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898639,
+            "neighbourhood_id":85898665,
             "region_id":85681667,
             "venue_id":1092117493
         }
     ],
     "wof:id":1092117493,
-    "wof:lastmodified":1473984883,
+    "wof:lastmodified":1496902328,
     "wof:name":"Heu Doris Dr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5294723511,47.8810272217,13.5294723511,47.8810272217",
     "geom:latitude":47.881027,
     "geom:longitude":13.529472,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836457,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7myo3kqTWDEWoUyD1CpgJC_47.881027_13.529472@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913538,
-    "wof:geomhash":"df4bcdf6dcccb618cb040047f218938d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84dfae46f15c8f53497bf91d38a18d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836457,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092382249
+        }
+    ],
     "wof:id":1092382249,
-    "wof:lastmodified":1473983891,
+    "wof:lastmodified":1496891199,
     "wof:name":"Dahman KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4733419418,48.3075332642,15.4733419418,48.3075332642",
     "geom:latitude":48.307533,
     "geom:longitude":15.473342,
@@ -23,17 +24,33 @@
     "sg:postcode":"3122",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835417,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FUVNfYtacp7EgPYnGjSIH_48.307533_15.473342@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895339,
-    "wof:geomhash":"c2c454ab460387536faa0b8438d408c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40b6e5ec5e131a1fc906e8e7e6f735ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835417,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091972135
+        }
+    ],
     "wof:id":1091972135,
-    "wof:lastmodified":1473983779,
+    "wof:lastmodified":1496886538,
     "wof:name":"Arbeiter Samariter Bund \u00f6sterreichs Rettungsstelle Gansbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

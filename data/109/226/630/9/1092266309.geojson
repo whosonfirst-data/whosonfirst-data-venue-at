@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.217830658,48.0033493042,16.217830658,48.0033493042",
     "geom:latitude":48.003349,
     "geom:longitude":16.217831,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908441,
-    "wof:geomhash":"716efecb8c503ab2c7b5cd3c4b9fec82",
+    "wof:geomhash":"10dfbb0b40db465c2fe0d70a74d1d4dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092266309
         }
     ],
     "wof:id":1092266309,
-    "wof:lastmodified":1473984547,
+    "wof:lastmodified":1496886047,
     "wof:name":"WERNER POSTL",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

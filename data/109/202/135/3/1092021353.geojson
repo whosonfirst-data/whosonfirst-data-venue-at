@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7238798141,47.4867324829,10.7238798141,47.4867324829",
     "geom:latitude":47.486732,
     "geom:longitude":10.72388,
@@ -23,17 +24,34 @@
     "sg:postcode":"6600",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837807,
+        85632785,
+        101834259,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BRcPtpzJlxcjPloRiboBl_47.486732_10.723880@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897398,
-    "wof:geomhash":"1424f9cebbd30cd587a9bf2117e9844a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0306fc50ce45fa04108a77a31191f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837807,
+            "locality_id":101834259,
+            "region_id":85681661,
+            "venue_id":1092021353
+        }
+    ],
     "wof:id":1092021353,
-    "wof:lastmodified":1473983604,
+    "wof:lastmodified":1496899929,
     "wof:name":"Kirchenbeitragsstelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

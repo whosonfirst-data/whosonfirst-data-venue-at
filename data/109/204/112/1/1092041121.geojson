@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4000701904,47.5744781494,16.4000701904,47.5744781494",
     "geom:latitude":47.574478,
     "geom:longitude":16.40007,
@@ -23,17 +24,33 @@
     "sg:postcode":"7341",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838587,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BoL6t7xk2zO6E10CKswij_47.574478_16.400070@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473898169,
-    "wof:geomhash":"5efa17dc9b40e81d7324be5ba65ac087",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53cdfa0372f3987933df0f8961e315fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838587,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092041121
+        }
+    ],
     "wof:id":1092041121,
-    "wof:lastmodified":1473983324,
+    "wof:lastmodified":1496908577,
     "wof:name":"Friedl Ernst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

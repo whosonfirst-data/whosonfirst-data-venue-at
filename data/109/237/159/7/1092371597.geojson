@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1342000961,47.3592681885,11.1342000961,47.3592681885",
     "geom:latitude":47.359268,
     "geom:longitude":11.1342,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cus0r6dResnY5HqWmI2iX_47.359268_11.134200@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913090,
-    "wof:geomhash":"b3dca80392228d17e1aeeb5d6a82fc61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d715977fe2f2cb9f781e7c24e183545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092371597
+        }
+    ],
     "wof:id":1092371597,
-    "wof:lastmodified":1473983728,
+    "wof:lastmodified":1496898424,
     "wof:name":"Pension Ostbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

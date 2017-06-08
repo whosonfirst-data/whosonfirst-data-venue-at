@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7422266006,47.2385673523,10.7422266006,47.2385673523",
     "geom:latitude":47.238567,
     "geom:longitude":10.742227,
@@ -23,17 +24,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.handylogos.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04dnYmCOHC0VXgulbW5V5D_47.238567_10.742227@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916284,
-    "wof:geomhash":"7ffe4d8fb89b04da8041e1fb98390b6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c278f6a0b668cdee0b639e77ceb7f2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092438151
+        }
+    ],
     "wof:id":1092438151,
-    "wof:lastmodified":1473985018,
+    "wof:lastmodified":1496898370,
     "wof:name":"Net Res",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

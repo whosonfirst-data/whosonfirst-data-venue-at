@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7956581116,47.9642562866,16.7956581116,47.9642562866",
     "geom:latitude":47.964256,
     "geom:longitude":16.795658,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"www.dendo.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838767,
+        85632785,
+        101785749,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PmREE4ZS7hqHGd5lEmSeV_47.964256_16.795658@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914521,
-    "wof:geomhash":"8aeca760f99d97e9174f075c62fbed8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61626a4d0d56b67799d0f1a95c17b9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838767,
+            "locality_id":101785749,
+            "region_id":85681651,
+            "venue_id":1092402587
+        }
+    ],
     "wof:id":1092402587,
-    "wof:lastmodified":1473983845,
+    "wof:lastmodified":1496909263,
     "wof:name":"DENDO Austria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

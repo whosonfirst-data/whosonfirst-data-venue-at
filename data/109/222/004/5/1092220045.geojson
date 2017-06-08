@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4785375595,48.023109436,14.4785375595,48.023109436",
     "geom:latitude":48.023109,
     "geom:longitude":14.478538,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836687,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jGG54Dll61TTIAisXFDck_48.023109_14.478538@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906399,
-    "wof:geomhash":"38e1d11e844ef144810decbd9d15aacb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d672d7aa448831cde4b65260c7ca7c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836687,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092220045
+        }
+    ],
     "wof:id":1092220045,
-    "wof:lastmodified":1473983316,
+    "wof:lastmodified":1496892415,
     "wof:name":"Autobus Forster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

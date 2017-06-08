@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3345909119,47.7373161316,16.3345909119,47.7373161316",
     "geom:latitude":47.737316,
     "geom:longitude":16.334591,
@@ -23,17 +24,34 @@
     "sg:postcode":"7203",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838635,
+        85632785,
+        101786753,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LztVx9s25t3sywUHTQIk2_47.737316_16.334591@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906333,
-    "wof:geomhash":"c45437e6df9a616ced4a016590e9b984",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d45db1dcfeb82a9a014af137560e0c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838635,
+            "locality_id":101786753,
+            "region_id":85681651,
+            "venue_id":1092218231
+        }
+    ],
     "wof:id":1092218231,
-    "wof:lastmodified":1473984950,
+    "wof:lastmodified":1496908953,
     "wof:name":"Treffpunkt Kondi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

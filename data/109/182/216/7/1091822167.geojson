@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1447000504,48.4454536438,15.1447000504,48.4454536438",
     "geom:latitude":48.445454,
     "geom:longitude":15.1447,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836843,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cOi8Aqa7NaiXrXCgCciwb_48.445454_15.144700@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888443,
-    "wof:geomhash":"7e12c8e547501545a18e6f818d6ec63d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd3e356be659aa24814a7a29184f2d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836843,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091822167
+        }
+    ],
     "wof:id":1091822167,
-    "wof:lastmodified":1473983861,
+    "wof:lastmodified":1496893014,
     "wof:name":"Willibald Teuschl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

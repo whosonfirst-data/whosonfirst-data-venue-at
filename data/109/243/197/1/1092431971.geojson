@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4729785919,48.2646369934,16.4729785919,48.2646369934",
     "geom:latitude":48.264637,
     "geom:longitude":16.472979,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915997,
-    "wof:geomhash":"8afcb69fc69fc0e90cee63c6adadcede",
+    "wof:geomhash":"0561ba4a799aa7e7818d4c33f946432a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092431971
         }
     ],
     "wof:id":1092431971,
-    "wof:lastmodified":1473983641,
+    "wof:lastmodified":1496927707,
     "wof:name":"TKL TIEFK\u00dcHLLOGISTIK GESMBH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

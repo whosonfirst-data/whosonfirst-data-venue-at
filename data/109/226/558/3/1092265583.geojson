@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8232307434,47.28565979,12.8232307434,47.28565979",
     "geom:latitude":47.28566,
     "geom:longitude":12.823231,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iVJF6dN2BSRtELy6bCcFb_47.285660_12.823231@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908410,
-    "wof:geomhash":"d6b7cbcf1f197f7bfd278d0992c35886",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec737eaf779e277217b8d9008d0a4186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092265583
+        }
+    ],
     "wof:id":1092265583,
-    "wof:lastmodified":1473984469,
+    "wof:lastmodified":1496895889,
     "wof:name":"Horst Schinwald Elektro-Ger\u00e4te-Kundendienst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

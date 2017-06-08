@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8783464432,48.1224327087,14.8783464432,48.1224327087",
     "geom:latitude":48.122433,
     "geom:longitude":14.878346,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"trauner.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101784475,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cLeDJo91qgmLBtq06fI9R_48.122433_14.878346@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473893877,
-    "wof:geomhash":"22b2fde1d2b1ce78024c5c6eb300ed37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"899ba295f8a37cf3f9bd48144233be9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101784475,
+            "region_id":85681671,
+            "venue_id":1091938627
+        }
+    ],
     "wof:id":1091938627,
-    "wof:lastmodified":1473984970,
+    "wof:lastmodified":1496883344,
     "wof:name":"Trauner Mag Steuerberatungs GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

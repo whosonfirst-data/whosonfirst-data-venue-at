@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.39656353,47.2849578857,11.39656353,47.2849578857",
     "geom:latitude":47.284958,
     "geom:longitude":11.396564,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903936,
-    "wof:geomhash":"c4e478f05cdf51f648983680bed559c3",
+    "wof:geomhash":"f0c3ac74512296e4ea275d9df8e36980",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092166055
         }
     ],
     "wof:id":1092166055,
-    "wof:lastmodified":1473984534,
+    "wof:lastmodified":1496899264,
     "wof:name":"Blindow Friedrich Karl Dipl-Ing",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

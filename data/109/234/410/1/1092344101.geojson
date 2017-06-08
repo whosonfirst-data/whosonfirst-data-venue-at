@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2656898499,48.1140937805,16.2656898499,48.1140937805",
     "geom:latitude":48.114094,
     "geom:longitude":16.26569,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911813,
-    "wof:geomhash":"e0dba9083650adeb94d35255aff811fa",
+    "wof:geomhash":"a4816646115d6ce15876b28f29f9445b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092344101
         }
     ],
     "wof:id":1092344101,
-    "wof:lastmodified":1473984136,
+    "wof:lastmodified":1496885860,
     "wof:name":"M\u00e4rchenheuriger",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

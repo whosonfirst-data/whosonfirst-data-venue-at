@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1990318298,48.2052497864,16.1990318298,48.2052497864",
     "geom:latitude":48.20525,
     "geom:longitude":16.199032,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899562,
-    "wof:geomhash":"fb6b64571dedcd911712f81a8314db80",
+    "wof:geomhash":"80a28bac4ed3c16aa1189a55959526e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092076043
         }
     ],
     "wof:id":1092076043,
-    "wof:lastmodified":1473984395,
+    "wof:lastmodified":1496888173,
     "wof:name":"Gasthof-Pension Olida-Huang GesmbH",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

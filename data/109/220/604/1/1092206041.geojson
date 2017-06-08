@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9040956497,48.0922012329,13.9040956497,48.0922012329",
     "geom:latitude":48.092201,
     "geom:longitude":13.904096,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836547,
+        85632785,
+        101833207,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CmWbMO1n339OEAzRbbCK8_48.092201_13.904096@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905788,
-    "wof:geomhash":"28795e2dc7493deb95ad8e1ce28e3630",
-    "wof:hierarchy":[],
+    "wof:geomhash":"582c5f607de540bcef7652520630660b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836547,
+            "locality_id":101833207,
+            "region_id":85681677,
+            "venue_id":1092206041
+        }
+    ],
     "wof:id":1092206041,
-    "wof:lastmodified":1473984714,
+    "wof:lastmodified":1496891578,
     "wof:name":"SW UMWELTECHNIK GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

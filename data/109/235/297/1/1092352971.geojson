@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6143789291,47.2593727112,9.6143789291,47.2593727112",
     "geom:latitude":47.259373,
     "geom:longitude":9.614379,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912208,
-    "wof:geomhash":"5141b042ecd6441576a08486341eac7b",
+    "wof:geomhash":"b589b28332504bda1c83d456bc44d497",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092352971
         }
     ],
     "wof:id":1092352971,
-    "wof:lastmodified":1473983735,
+    "wof:lastmodified":1496900951,
     "wof:name":"Dolce Vita M\u00f6belhandelsgesmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

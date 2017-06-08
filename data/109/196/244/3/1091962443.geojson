@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3136529922,47.4327545166,12.3136529922,47.4327545166",
     "geom:latitude":47.432755,
     "geom:longitude":12.313653,
@@ -28,17 +29,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yu9eRtjhOKtOAlQFQkbsp_47.432755_12.313653@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894924,
-    "wof:geomhash":"25b438077304d30bc6f313ca0807d80b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0c25f9cf7100d6db4b5999da1e83e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091962443
+        }
+    ],
     "wof:id":1091962443,
-    "wof:lastmodified":1473983697,
+    "wof:lastmodified":1496899114,
     "wof:name":"Bergrestaurant Gaisbergst\u00fcberl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

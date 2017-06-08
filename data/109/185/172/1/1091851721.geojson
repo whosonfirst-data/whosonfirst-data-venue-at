@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4031047821,46.6756668091,15.4031047821,46.6756668091",
     "geom:latitude":46.675667,
     "geom:longitude":15.403105,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839077,
+        85632785,
+        102049699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CKQtVoILoQWZWTaPOaJZP_46.675667_15.403105@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889792,
-    "wof:geomhash":"d32ff6a06c7dc406047c9123f5cdaf52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea123760b53ddbabc93324bc35a7cd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839077,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091851721
+        }
+    ],
     "wof:id":1091851721,
-    "wof:lastmodified":1473983595,
+    "wof:lastmodified":1496911231,
     "wof:name":"Harald Mersnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

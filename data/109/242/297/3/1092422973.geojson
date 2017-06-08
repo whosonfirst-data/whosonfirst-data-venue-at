@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6222696304,47.3177909851,9.6222696304,47.3177909851",
     "geom:latitude":47.317791,
     "geom:longitude":9.62227,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"gfe-pool-sauna.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837977,
+        85632785,
+        101827455,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HBe4b0eGWBRzNDMEagamR_47.317791_9.622270@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915575,
-    "wof:geomhash":"4cecc4f310ca7b5587b40fbab3edd01e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8e619442f7db85d3db7b5b42b847490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837977,
+            "locality_id":101827455,
+            "region_id":85681649,
+            "venue_id":1092422973
+        }
+    ],
     "wof:id":1092422973,
-    "wof:lastmodified":1473983890,
+    "wof:lastmodified":1496901225,
     "wof:name":"GFE Gesundheits- und Freizeit-Erlebnisanlagen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

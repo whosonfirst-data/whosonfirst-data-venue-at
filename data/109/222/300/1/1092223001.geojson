@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1979627609,47.3504638672,13.1979627609,47.3504638672",
     "geom:latitude":47.350464,
     "geom:longitude":13.197963,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        101787869,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BlM6LyWPrBdNk0QFhLLmN_47.350464_13.197963@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906534,
-    "wof:geomhash":"655dfb05085fc82344dbb02011c4e1ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d2ca2fb4db87f0ce856220cf6ccdfca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":101787869,
+            "region_id":85681681,
+            "venue_id":1092223001
+        }
+    ],
     "wof:id":1092223001,
-    "wof:lastmodified":1473984028,
+    "wof:lastmodified":1496894063,
     "wof:name":"Taxi-Funk Helmut Wimmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6407680511,47.2691650391,9.6407680511,47.2691650391",
     "geom:latitude":47.269165,
     "geom:longitude":9.640768,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901081,
-    "wof:geomhash":"28676f126846817755ee0d8167990ac8",
+    "wof:geomhash":"d13c2ca297359eb943dad370e3b0b703",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092105479
         }
     ],
     "wof:id":1092105479,
-    "wof:lastmodified":1473984429,
+    "wof:lastmodified":1496901655,
     "wof:name":"G\u00e4rtnerei z Roten Haus",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

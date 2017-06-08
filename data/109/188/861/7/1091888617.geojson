@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5275344849,47.4284324646,16.5275344849,47.4284324646",
     "geom:latitude":47.428432,
     "geom:longitude":16.527534,
@@ -23,17 +24,33 @@
     "sg:postcode":"7444",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838487,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mDGHOl30rQELdx15Z5tIt_47.428432_16.527534@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891579,
-    "wof:geomhash":"38af2c7f2994901667ff01b6ee8cdeac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09243235dbfd700ad23b6889dddf014b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838487,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091888617
+        }
+    ],
     "wof:id":1091888617,
-    "wof:lastmodified":1473985005,
+    "wof:lastmodified":1496908158,
     "wof:name":"Schuh Alfred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

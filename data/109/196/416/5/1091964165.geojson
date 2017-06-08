@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4001789093,48.1389274597,16.4001789093,48.1389274597",
     "geom:latitude":48.138927,
     "geom:longitude":16.400179,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895003,
-    "wof:geomhash":"1f69dbc912d349e62ba27484b1bd91c4",
+    "wof:geomhash":"8b69479446a718a0e2e6520e13d34705",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1091964165
         }
     ],
     "wof:id":1091964165,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496902146,
     "wof:name":"Kitzweger Heurigen-Restaurant",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7927961349,47.3043022156,12.7927961349,47.3043022156",
     "geom:latitude":47.304302,
     "geom:longitude":12.792796,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14YIuUcHHcsW1sx0sMgbdS_47.304302_12.792796@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909523,
-    "wof:geomhash":"2e9cb95229ce29829d68c7acef864ddd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25fd5f190465f81578c3f915fbdb3b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092291863
+        }
+    ],
     "wof:id":1092291863,
-    "wof:lastmodified":1473983775,
+    "wof:lastmodified":1496896429,
     "wof:name":"Appartementhaus Sigl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

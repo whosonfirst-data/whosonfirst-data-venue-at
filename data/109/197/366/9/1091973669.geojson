@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2314271927,48.2309951782,14.2314271927,48.2309951782",
     "geom:latitude":48.230995,
     "geom:longitude":14.231427,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        101754215,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JLX46JBFiFrWtn6yXCkoZ_48.230995_14.231427@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895397,
-    "wof:geomhash":"36bbc3d65083ac2c7c40b2e7f937f81c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e25214505ac4622c974afe17cee7014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":101754215,
+            "region_id":85681677,
+            "venue_id":1091973669
+        }
+    ],
     "wof:id":1091973669,
-    "wof:lastmodified":1473984154,
+    "wof:lastmodified":1496887409,
     "wof:name":"GILHOFER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

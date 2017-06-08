@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6042804718,46.632610321,14.6042804718,46.632610321",
     "geom:latitude":46.63261,
     "geom:longitude":14.60428,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"abpack.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838387,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BqjoGLy6eAh7VrreutQfl_46.632610_14.604280@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905399,
-    "wof:geomhash":"55deabf4babd8188b3a057c0fdf3fab9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"791af78ffa0fe47052305ff2544c99a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838387,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092198857
+        }
+    ],
     "wof:id":1092198857,
-    "wof:lastmodified":1473985271,
+    "wof:lastmodified":1496907705,
     "wof:name":"ABPACK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

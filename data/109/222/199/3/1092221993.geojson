@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1415662766,48.1019172668,13.1415662766,48.1019172668",
     "geom:latitude":48.101917,
     "geom:longitude":13.141566,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834753,
+        85632785,
+        101833217,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u2QXKp382qA7qEJ1slDWq_48.101917_13.141566@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906481,
-    "wof:geomhash":"fff5d69e61b2ff07d4211fd089381f41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"138a16e7e42a9a21a1f6af82e99fbc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834753,
+            "locality_id":101833217,
+            "region_id":85681677,
+            "venue_id":1092221993
+        }
+    ],
     "wof:id":1092221993,
-    "wof:lastmodified":1473983798,
+    "wof:lastmodified":1496882468,
     "wof:name":"Sattlecker Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

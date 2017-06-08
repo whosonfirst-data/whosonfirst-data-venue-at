@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.62687397,47.2726669312,9.62687397,47.2726669312",
     "geom:latitude":47.272667,
     "geom:longitude":9.626874,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903407,
-    "wof:geomhash":"19e5bb51d43beefdf08b955547cd2298",
+    "wof:geomhash":"8a046854dae5d7a4c73d3622e17e34d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092154227
         }
     ],
     "wof:id":1092154227,
-    "wof:lastmodified":1473984117,
+    "wof:lastmodified":1496901657,
     "wof:name":"Harrer G\u00fcnter",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

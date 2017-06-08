@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4626159668,48.471622467,15.4626159668,48.471622467",
     "geom:latitude":48.471622,
     "geom:longitude":15.462616,
@@ -32,17 +33,33 @@
         "drive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834933,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EzfueEso5XeKtKCj6nGG3_48.471622_15.462616@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910200,
-    "wof:geomhash":"d4b8d3c3435c5fdd6b27ebb424e0627d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7cd659a8b4b6b35406993b470f743a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108834933,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092306221
+        }
+    ],
     "wof:id":1092306221,
-    "wof:lastmodified":1473984692,
+    "wof:lastmodified":1496883610,
     "wof:name":"Rudolf Penn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

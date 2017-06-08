@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0884637833,47.7864227295,13.0884637833,47.7864227295",
     "geom:latitude":47.786423,
     "geom:longitude":13.088464,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907312,
-    "wof:geomhash":"7ae5254730ce87578678675587e32d69",
+    "wof:geomhash":"dad00011a9352b23dd588192ea998900",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092240895
         }
     ],
     "wof:id":1092240895,
-    "wof:lastmodified":1473983537,
+    "wof:lastmodified":1496922899,
     "wof:name":"Beranek Friedrich OEG",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

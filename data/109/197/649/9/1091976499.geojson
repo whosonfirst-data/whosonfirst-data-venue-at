@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.446762085,48.2860870361,16.446762085,48.2860870361",
     "geom:latitude":48.286087,
     "geom:longitude":16.446762,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895516,
-    "wof:geomhash":"e4273e396e33325a14d41c69ecdefbc1",
+    "wof:geomhash":"7f9ac64738a148cb91b3f85f71cb80d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091976499
         }
     ],
     "wof:id":1091976499,
-    "wof:lastmodified":1473984751,
+    "wof:lastmodified":1496903603,
     "wof:name":"Heigl Immobilien Vera Heigl GmbH",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

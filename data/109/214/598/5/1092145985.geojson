@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3732204437,47.2502975464,11.3732204437,47.2502975464",
     "geom:latitude":47.250298,
     "geom:longitude":11.37322,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903019,
-    "wof:geomhash":"48301c152dfb635f0d56f42656877395",
+    "wof:geomhash":"09ef810cf56e015aa938c9cbb3a22e68",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092145985
         }
     ],
     "wof:id":1092145985,
-    "wof:lastmodified":1473984531,
+    "wof:lastmodified":1496899385,
     "wof:name":"Amorgrafik - Morg Andreas",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

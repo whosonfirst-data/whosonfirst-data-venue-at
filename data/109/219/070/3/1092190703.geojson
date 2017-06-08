@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7037992477,48.1456680298,13.7037992477,48.1456680298",
     "geom:latitude":48.145668,
     "geom:longitude":13.703799,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835177,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kQcGCW6wBL4Xrlb4LnaeY_48.145668_13.703799@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905059,
-    "wof:geomhash":"fbbbf8fc89f3234b65d184e044caa0a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d34bb55163e1b835a840492b410d4535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835177,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190703
+        }
+    ],
     "wof:id":1092190703,
-    "wof:lastmodified":1473983453,
+    "wof:lastmodified":1496885301,
     "wof:name":"Franz Distlbacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1203775406,47.8680000305,13.1203775406,47.8680000305",
     "geom:latitude":47.868,
     "geom:longitude":13.120378,
@@ -23,17 +24,34 @@
     "sg:postcode":"5301",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        101786773,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uYLzMZj3ZtgCe0lBxNI7c_47.868000_13.120378@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899454,
-    "wof:geomhash":"242e023ed22caa1aa8081d7da0a45e71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe756ba85747c5bff6e011cf7a08d61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":101786773,
+            "region_id":85681681,
+            "venue_id":1092073607
+        }
+    ],
     "wof:id":1092073607,
-    "wof:lastmodified":1473983948,
+    "wof:lastmodified":1496895334,
     "wof:name":"Gasthof Neuwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

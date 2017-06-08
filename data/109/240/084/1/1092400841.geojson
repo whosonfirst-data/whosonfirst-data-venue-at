@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.056640625,47.7700653076,13.056640625,47.7700653076",
     "geom:latitude":47.770065,
     "geom:longitude":13.056641,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914450,
-    "wof:geomhash":"da79a95fc578b326ae976207acfa11e4",
+    "wof:geomhash":"352a6057251592730392a3be7f1daf19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1092400841
         }
     ],
     "wof:id":1092400841,
-    "wof:lastmodified":1473983509,
+    "wof:lastmodified":1496894802,
     "wof:name":"Rathner Siegfried Mag theol",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

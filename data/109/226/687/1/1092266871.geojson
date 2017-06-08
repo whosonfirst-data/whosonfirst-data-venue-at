@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4621086121,48.2951049805,16.4621086121,48.2951049805",
     "geom:latitude":48.295105,
     "geom:longitude":16.462109,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908468,
-    "wof:geomhash":"5c7a2275d1c2cd1e72a9fae85a7bada4",
+    "wof:geomhash":"f6bd6c3777883daffc5ba0cb08e4b8f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092266871
         }
     ],
     "wof:id":1092266871,
-    "wof:lastmodified":1473984629,
+    "wof:lastmodified":1496890138,
     "wof:name":"Ing. Johann Stauber",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

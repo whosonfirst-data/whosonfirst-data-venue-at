@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7086877823,47.9778518677,13.7086877823,47.9778518677",
     "geom:latitude":47.977852,
     "geom:longitude":13.708688,
@@ -31,17 +32,33 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836487,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09Gd1PdtnjM6FJmtFH8wB3_47.977852_13.708688@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904995,
-    "wof:geomhash":"f006614c5e5fcc08dbfc775b3ba94e59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb2dd3af7e1f33a2ba140ddb1d2c99d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836487,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092189351
+        }
+    ],
     "wof:id":1092189351,
-    "wof:lastmodified":1473985147,
+    "wof:lastmodified":1496891259,
     "wof:name":"Werbe Creation Stadlbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2917814255,47.104511261,11.2917814255,47.104511261",
     "geom:latitude":47.104511,
     "geom:longitude":11.291781,
@@ -28,17 +29,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BSGrWh9bj8bYEHITrZW1k_47.104511_11.291781@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898441,
-    "wof:geomhash":"c50d3cafcd12df9a4caf1f209848aa81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ca7f75070ddf068a62f3771640d505f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048223
+        }
+    ],
     "wof:id":1092048223,
-    "wof:lastmodified":1473984234,
+    "wof:lastmodified":1496898559,
     "wof:name":"Hotel Rosengarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

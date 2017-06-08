@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5097436905,47.4926185608,12.5097436905,47.4926185608",
     "geom:latitude":47.492619,
     "geom:longitude":12.509744,
@@ -23,17 +24,33 @@
     "sg:postcode":"6391",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837361,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38BHQg2RrdZGzgqeyScJpQ_47.492619_12.509744@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909594,
-    "wof:geomhash":"38c87267264b20ad4ced41d477a6b1fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe0eb2ff487ab1a4f734ca0129581d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837361,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092293627
+        }
+    ],
     "wof:id":1092293627,
-    "wof:lastmodified":1473984242,
+    "wof:lastmodified":1496897268,
     "wof:name":"Ferienhof Innergrub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

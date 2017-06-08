@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2038640976,47.3475723267,13.2038640976,47.3475723267",
     "geom:latitude":47.347572,
     "geom:longitude":13.203864,
@@ -23,17 +24,34 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        101787869,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5StuXn7miumXQbml1yNiD0_47.347572_13.203864@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473897947,
-    "wof:geomhash":"547cb967e3a079335195f765a9a741de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b32be148b58dc17be790a52a2c2099ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":101787869,
+            "region_id":85681681,
+            "venue_id":1092035373
+        }
+    ],
     "wof:id":1092035373,
-    "wof:lastmodified":1473984342,
+    "wof:lastmodified":1496894056,
     "wof:name":"Hauptschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

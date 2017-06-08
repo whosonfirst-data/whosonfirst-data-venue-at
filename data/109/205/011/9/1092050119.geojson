@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0741119385,47.9748954773,13.0741119385,47.9748954773",
     "geom:latitude":47.974895,
     "geom:longitude":13.074112,
@@ -28,17 +29,33 @@
     "sg:postcode":"5164",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837181,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FS2EBmpX3S8cs9mH4YTab_47.974895_13.074112@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898513,
-    "wof:geomhash":"381c3807e9f570634e13792acb0b5452",
-    "wof:hierarchy":[],
+    "wof:geomhash":"451b3c60a0be9786d630950eae5bcabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837181,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092050119
+        }
+    ],
     "wof:id":1092050119,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496895659,
     "wof:name":"Hotel-Walkner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

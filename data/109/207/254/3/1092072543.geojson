@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1642093658,47.1834526062,16.1642093658,47.1834526062",
     "geom:latitude":47.183453,
     "geom:longitude":16.164209,
@@ -23,17 +24,34 @@
     "sg:postcode":"7533",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838447,
+        85632785,
+        101787843,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b9dlHbixsXOnS5UXL8Ngp_47.183453_16.164209@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899412,
-    "wof:geomhash":"556123fd550b463f423a696fe3b8dee7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db74fa5dbb4dddf00f3fafd35952343f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838447,
+            "locality_id":101787843,
+            "region_id":85681651,
+            "venue_id":1092072543
+        }
+    ],
     "wof:id":1092072543,
-    "wof:lastmodified":1473983803,
+    "wof:lastmodified":1496909053,
     "wof:name":"Gasthof Graf vorm Janisch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

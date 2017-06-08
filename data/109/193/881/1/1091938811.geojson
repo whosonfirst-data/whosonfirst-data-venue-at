@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8032770157,48.3231658936,15.8032770157,48.3231658936",
     "geom:latitude":48.323166,
     "geom:longitude":15.803277,
@@ -23,17 +24,33 @@
     "sg:postcode":"3454",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835861,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LygbwbwDc83bR1eUExv9F_48.323166_15.803277@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473893885,
-    "wof:geomhash":"71ddeaa5ce5850ff838e190c414479a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67245e341fe0bdd538d930696e754bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835861,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091938811
+        }
+    ],
     "wof:id":1091938811,
-    "wof:lastmodified":1473985050,
+    "wof:lastmodified":1496888691,
     "wof:name":"Weinberger & H\u00f6chtl Buchpr\u00fcfungs- u Steuerberatungsges OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

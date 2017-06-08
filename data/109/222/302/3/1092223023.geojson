@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.1067886353,48.0106239319,17.1067886353,48.0106239319",
     "geom:latitude":48.010624,
     "geom:longitude":17.106789,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838643,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w2XYW1AtMPAB9nLFL3UKK_48.010624_17.106789@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906535,
-    "wof:geomhash":"bdfa352de939f9511b012762c0404a84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76bd1cd2c83937cf41b24a1f129df65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838643,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092223023
+        }
+    ],
     "wof:id":1092223023,
-    "wof:lastmodified":1473984041,
+    "wof:lastmodified":1496908963,
     "wof:name":"Taxi-Laimer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

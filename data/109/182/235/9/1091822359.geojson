@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5318698883,46.9896011353,12.5318698883,46.9896011353",
     "geom:latitude":46.989601,
     "geom:longitude":12.53187,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837513,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j3BJ6jkoDjL5DawKPK1xs_46.989601_12.531870@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888450,
-    "wof:geomhash":"f08729a9ce6d0f2a033cc946856dec8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21a4312f783b45db90b6067cd4931d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837513,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091822359
+        }
+    ],
     "wof:id":1091822359,
-    "wof:lastmodified":1473983907,
+    "wof:lastmodified":1496898257,
     "wof:name":"Trost GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

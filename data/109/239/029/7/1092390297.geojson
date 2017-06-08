@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1249799728,47.86510849,13.1249799728,47.86510849",
     "geom:latitude":47.865108,
     "geom:longitude":13.12498,
@@ -23,17 +24,34 @@
     "sg:postcode":"5301",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        101786773,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3soB8tORVINVhS3Fo3oB4o_47.865108_13.124980@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913970,
-    "wof:geomhash":"5784602a01f7b007e5862a63bb402ce2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"184f9ff6a6d461a22bee4768835e113e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":101786773,
+            "region_id":85681681,
+            "venue_id":1092390297
+        }
+    ],
     "wof:id":1092390297,
-    "wof:lastmodified":1473983340,
+    "wof:lastmodified":1496895331,
     "wof:name":"Gendarmerieposten Eugendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

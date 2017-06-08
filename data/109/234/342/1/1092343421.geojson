@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3383407593,47.1337509155,11.3383407593,47.1337509155",
     "geom:latitude":47.133751,
     "geom:longitude":11.338341,
@@ -32,17 +33,34 @@
         "metalworking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837587,
+        85632785,
+        101834205,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B1mDxz8A6BN1dDtff9x8u_47.133751_11.338341@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911775,
-    "wof:geomhash":"61b738d9baa5f1972db6da05999babb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91b5c5fdd4e37a25f50c28ba30649d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837587,
+            "locality_id":101834205,
+            "region_id":85681661,
+            "venue_id":1092343421
+        }
+    ],
     "wof:id":1092343421,
-    "wof:lastmodified":1473983946,
+    "wof:lastmodified":1496898629,
     "wof:name":"METALL KOFLER GMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.304271698,46.8759498596,13.304271698,46.8759498596",
     "geom:latitude":46.87595,
     "geom:longitude":13.304272,
@@ -32,17 +33,33 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838319,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6goeDyzu3wPZL7ur8y3yog_46.875950_13.304272@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904860,
-    "wof:geomhash":"2dec4284807ab0c3a46723ca0c4d66d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96b724c5b290569b895242f815506048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838319,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092186229
+        }
+    ],
     "wof:id":1092186229,
-    "wof:lastmodified":1473984630,
+    "wof:lastmodified":1496907288,
     "wof:name":"Josef Bugelnig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

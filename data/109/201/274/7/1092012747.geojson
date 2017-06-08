@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.337972641,47.1138153076,15.337972641,47.1138153076",
     "geom:latitude":47.113815,
     "geom:longitude":15.337973,
@@ -35,10 +36,12 @@
     "sg:website":"internormpartner-paier.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897053,
-    "wof:geomhash":"3b5e2ddb6ccee7b02b3f42a8d44e8e78",
+    "wof:geomhash":"5519ed3b54e1d7120397ba15da470a06",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092012747
         }
     ],
     "wof:id":1092012747,
-    "wof:lastmodified":1473983468,
+    "wof:lastmodified":1496911815,
     "wof:name":"Josef Paier Ges.m.b.H.",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

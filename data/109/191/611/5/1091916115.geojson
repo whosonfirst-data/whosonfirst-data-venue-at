@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2574253082,48.1676750183,16.2574253082,48.1676750183",
     "geom:latitude":48.167675,
     "geom:longitude":16.257425,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892838,
-    "wof:geomhash":"8ab4587d8e875332295680d6ab87c2ff",
+    "wof:geomhash":"9c8ed92523cf9123ede00e711f1677b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091916115
         }
     ],
     "wof:id":1091916115,
-    "wof:lastmodified":1473984174,
+    "wof:lastmodified":1496902974,
     "wof:name":"Wollmann Gernot Mag",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

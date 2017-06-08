@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1185646057,48.567565918,16.1185646057,48.567565918",
     "geom:latitude":48.567566,
     "geom:longitude":16.118565,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46lEI4CHk5scs5AD35g1x7_48.567566_16.118565@1306268290"
     },
     "wof:country":"AT",
     "wof:created":1473907145,
-    "wof:geomhash":"de0bc37ea2ad049e403572e8ea178938",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b355f263cec37dce87d63f11e1e0b71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092237225
+        }
+    ],
     "wof:id":1092237225,
-    "wof:lastmodified":1473984862,
+    "wof:lastmodified":1496886313,
     "wof:name":"Scharinger Gerhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

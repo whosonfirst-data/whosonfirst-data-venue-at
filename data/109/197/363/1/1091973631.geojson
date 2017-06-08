@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3082332611,47.0843849182,16.3082332611,47.0843849182",
     "geom:latitude":47.084385,
     "geom:longitude":16.308233,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838415,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yEvvGHQ9NKZjK1gY35VTL_47.084385_16.308233@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895395,
-    "wof:geomhash":"243183af10c83e1478fe02699b467959",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32b40dd24471e4f08dd53e9444531c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838415,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091973631
+        }
+    ],
     "wof:id":1091973631,
-    "wof:lastmodified":1473984114,
+    "wof:lastmodified":1496907809,
     "wof:name":"FREY GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

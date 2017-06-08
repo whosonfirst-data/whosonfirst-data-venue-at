@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7714548111,47.5733642578,9.7714548111,47.5733642578",
     "geom:latitude":47.573364,
     "geom:longitude":9.771455,
@@ -23,17 +24,33 @@
     "sg:postcode":"6914",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837965,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VCbSejWQG9KOEkLVb86lY_47.573364_9.771455@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899200,
-    "wof:geomhash":"3134f0cfba6ad7b2e728e8538ace6151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4295bdca76eedffae8ce9d079fd666a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837965,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092067203
+        }
+    ],
     "wof:id":1092067203,
-    "wof:lastmodified":1473984745,
+    "wof:lastmodified":1496901173,
     "wof:name":"Gasthaus Krone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3893451691,47.2544631958,11.3893451691,47.2544631958",
     "geom:latitude":47.254463,
     "geom:longitude":11.389345,
@@ -25,10 +26,13 @@
     "sg:website":"http://www.stasto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887867,
-    "wof:geomhash":"de3c8dbb94e262ba5679640550429c40",
+    "wof:geomhash":"8399b169073f94c8ab047c15d4172a07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091808973
         }
     ],
     "wof:id":1091808973,
-    "wof:lastmodified":1473984453,
+    "wof:lastmodified":1496899378,
     "wof:name":"STASTO Ing. Stocker KG",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

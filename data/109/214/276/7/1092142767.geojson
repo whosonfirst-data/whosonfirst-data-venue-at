@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3648090363,47.2608757019,11.3648090363,47.2608757019",
     "geom:latitude":47.260876,
     "geom:longitude":11.364809,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902871,
-    "wof:geomhash":"bc8a2b291f5493c71bb6575e16b78581",
+    "wof:geomhash":"bddeac7cc80da6678b903206f6b19de7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092142767
         }
     ],
     "wof:id":1092142767,
-    "wof:lastmodified":1473983889,
+    "wof:lastmodified":1496899312,
     "wof:name":"Koch Corporate Design",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2444381714,48.1552352905,14.2444381714,48.1552352905",
     "geom:latitude":48.155235,
     "geom:longitude":14.244438,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835561,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1My0n98KWvVot41e4E0qjv_48.155235_14.244438@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473911968,
-    "wof:geomhash":"1ada0252afbfec4e0eb4aacf3bc62c8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db750a224e23cccd872f2e99fd620ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835561,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092347975
+        }
+    ],
     "wof:id":1092347975,
-    "wof:lastmodified":1473984897,
+    "wof:lastmodified":1496887362,
     "wof:name":"Huber Wolfgang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6050109863,46.5843658447,14.6050109863,46.5843658447",
     "geom:latitude":46.584366,
     "geom:longitude":14.605011,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838371,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ngGJv6g44iCViuPh7Wjqr_46.584366_14.605011@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905063,
-    "wof:geomhash":"63002239c5bf5ec31874a3b09b65df7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2831bf6753a2c4ab3a65c294f11ec4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838371,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092190807
+        }
+    ],
     "wof:id":1092190807,
-    "wof:lastmodified":1473983454,
+    "wof:lastmodified":1496907629,
     "wof:name":"Josef Lach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

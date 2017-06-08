@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8025484085,47.3884162903,12.8025484085,47.3884162903",
     "geom:latitude":47.388416,
     "geom:longitude":12.802548,
@@ -23,17 +24,33 @@
     "sg:postcode":"5751",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837217,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MZAV9aOv79cLNpW6BHPYo_47.388416_12.802548@1306268286"
     },
     "wof:country":"AT",
     "wof:created":1473906197,
-    "wof:geomhash":"04b3e73e8f1f666190563e848696bebe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c27e275a108ddc1b886b5fbbac89d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837217,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092215167
+        }
+    ],
     "wof:id":1092215167,
-    "wof:lastmodified":1473984423,
+    "wof:lastmodified":1496896029,
     "wof:name":"Dieselhammer Fritzenwanker KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

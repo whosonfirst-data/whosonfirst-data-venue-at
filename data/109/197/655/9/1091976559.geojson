@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4122524261,48.2922019958,16.4122524261,48.2922019958",
     "geom:latitude":48.292202,
     "geom:longitude":16.412252,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895519,
-    "wof:geomhash":"e8ac9e56fc3682aa94821702e68c03e0",
+    "wof:geomhash":"8b50967d91bf208de902c96550e31295",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1091976559
         }
     ],
     "wof:id":1091976559,
-    "wof:lastmodified":1473984794,
+    "wof:lastmodified":1496928163,
     "wof:name":"Hrabala Franz",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

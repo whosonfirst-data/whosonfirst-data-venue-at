@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0713710785,47.7646751404,13.0713710785,47.7646751404",
     "geom:latitude":47.764675,
     "geom:longitude":13.071371,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890246,
-    "wof:geomhash":"d5587e599ead038a16f44d565a708e30",
+    "wof:geomhash":"f9140d100174682fc766d25902168a0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091860923
         }
     ],
     "wof:id":1091860923,
-    "wof:lastmodified":1473983547,
+    "wof:lastmodified":1496894520,
     "wof:name":"Mayer & Co Beschl\u00e4ge GmbH",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1158971786,47.9891014099,13.1158971786,47.9891014099",
     "geom:latitude":47.989101,
     "geom:longitude":13.115897,
@@ -23,17 +24,33 @@
     "sg:postcode":"5163",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837159,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sHpEbaJMDjBh4xFQs9nTM_47.989101_13.115897@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903484,
-    "wof:geomhash":"e8fb6e6ca455c6643bc7e41a3970d41c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5ce64648a287ad397faf9c83ad8605f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837159,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092155961
+        }
+    ],
     "wof:id":1092155961,
-    "wof:lastmodified":1473984569,
+    "wof:lastmodified":1496895510,
     "wof:name":"Volkshochschule Mattsee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

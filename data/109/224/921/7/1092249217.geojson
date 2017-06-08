@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0587730408,47.8610649109,13.0587730408,47.8610649109",
     "geom:latitude":47.861065,
     "geom:longitude":13.058773,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907692,
-    "wof:geomhash":"6470cbf97e061970db99c0bd39e76742",
+    "wof:geomhash":"8b14b6688218ef4ab2450f05548e50d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092249217
         }
     ],
     "wof:id":1092249217,
-    "wof:lastmodified":1473985167,
+    "wof:lastmodified":1496895276,
     "wof:name":"Knaus Ernst A - Ihr Tischler",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

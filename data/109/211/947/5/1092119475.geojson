@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3503398895,48.3734817505,14.3503398895,48.3734817505",
     "geom:latitude":48.373482,
     "geom:longitude":14.35034,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898433,
-        102049881
+        102191581,
+        1108836139,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901736,
-    "wof:geomhash":"6c6f37d99ae13fce3cb78d49e75c1ab5",
+    "wof:geomhash":"a278fd5f872041d3c78e63abd6410c33",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":-1,
             "neighbourhood_id":85898433,
             "region_id":85681677,
             "venue_id":1092119475
         }
     ],
     "wof:id":1092119475,
-    "wof:lastmodified":1473985256,
+    "wof:lastmodified":1496889717,
     "wof:name":"Sch\u00f6bl Franz Dr",
     "wof:parent_id":85898433,
     "wof:placetype":"venue",

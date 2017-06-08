@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2694711685,46.6614646912,14.2694711685,46.6614646912",
     "geom:latitude":46.661465,
     "geom:longitude":14.269471,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901104,
-    "wof:geomhash":"0b06bca46ba0115d35fe1534041286eb",
+    "wof:geomhash":"10c3450bfefdb53ac8e83710322bbc33",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092105965
         }
     ],
     "wof:id":1092105965,
-    "wof:lastmodified":1473984511,
+    "wof:lastmodified":1496905603,
     "wof:name":"Macher Johann",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

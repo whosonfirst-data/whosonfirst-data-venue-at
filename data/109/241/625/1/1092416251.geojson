@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4065160751,47.2811012268,11.4065160751,47.2811012268",
     "geom:latitude":47.281101,
     "geom:longitude":11.406516,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915274,
-    "wof:geomhash":"2d5ecf973ebddadd7c56d9ff0f7aa73e",
+    "wof:geomhash":"b9471211b4f38e3a811e745bda40fce6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092416251
         }
     ],
     "wof:id":1092416251,
-    "wof:lastmodified":1473984663,
+    "wof:lastmodified":1496899320,
     "wof:name":"Freiwillige Feuerwehr M\u00fchlau",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

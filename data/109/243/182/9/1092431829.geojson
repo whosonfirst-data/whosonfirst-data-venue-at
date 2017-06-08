@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7556829453,48.3484458923,14.7556829453,48.3484458923",
     "geom:latitude":48.348446,
     "geom:longitude":14.755683,
@@ -32,17 +33,33 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835087,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xr4c33dqozvU6cZvLOtOw_48.348446_14.755683@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915990,
-    "wof:geomhash":"da2775b371b63734eae4021b85bee98f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a7df808feaf0ba04fb8d2ced1b320f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835087,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092431829
+        }
+    ],
     "wof:id":1092431829,
-    "wof:lastmodified":1473983654,
+    "wof:lastmodified":1496884518,
     "wof:name":"LEOPOLD LEHNER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

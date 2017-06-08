@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6581611633,48.2700233459,14.6581611633,48.2700233459",
     "geom:latitude":48.270023,
     "geom:longitude":14.658161,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835623,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42Hg8bAPNAMQqgJH86vAfU_48.270023_14.658161@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906416,
-    "wof:geomhash":"d6177d17d0affbc1b7f6e5e03cea99b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78a857f2db6bfb878dde130aeca755c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835623,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092220469
+        }
+    ],
     "wof:id":1092220469,
-    "wof:lastmodified":1473983449,
+    "wof:lastmodified":1496887722,
     "wof:name":"Fichtinger Touristik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

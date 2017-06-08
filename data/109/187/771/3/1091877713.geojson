@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0699996948,47.773651123,13.0699996948,47.773651123",
     "geom:latitude":47.773651,
     "geom:longitude":13.07,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891033,
-    "wof:geomhash":"aa58d3e4e8d99cdf5e0c7568deb87248",
+    "wof:geomhash":"bbb413a1541b13b0298f3d2b913b0a82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091877713
         }
     ],
     "wof:id":1091877713,
-    "wof:lastmodified":1473984772,
+    "wof:lastmodified":1496922945,
     "wof:name":"Boutique Makole",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

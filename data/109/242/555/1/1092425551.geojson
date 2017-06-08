@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3740158081,47.2341308594,11.3740158081,47.2341308594",
     "geom:latitude":47.234131,
     "geom:longitude":11.374016,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915716,
-    "wof:geomhash":"911c9b8d69f25eeb807d8d1b5f1d2e7e",
+    "wof:geomhash":"a7ed6b1cdd09bdd589c54f1e3c924607",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092425551
         }
     ],
     "wof:id":1092425551,
-    "wof:lastmodified":1473984323,
+    "wof:lastmodified":1496898477,
     "wof:name":"Fritz Walter",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

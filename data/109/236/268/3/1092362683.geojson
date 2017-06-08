@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6048679352,47.4724464417,12.6048679352,47.4724464417",
     "geom:latitude":47.472446,
     "geom:longitude":12.604868,
@@ -23,17 +24,33 @@
     "sg:postcode":"6395",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837339,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Cbe9jIUZs4PAW2AFT7Nc3_47.472446_12.604868@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912637,
-    "wof:geomhash":"d9566e0917c5c7cb9adf0f9f9476cd35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66dfa4a631c87cc48837a87aa76e9a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837339,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092362683
+        }
+    ],
     "wof:id":1092362683,
-    "wof:lastmodified":1473983946,
+    "wof:lastmodified":1496896976,
     "wof:name":"Ferienhof Obertenn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

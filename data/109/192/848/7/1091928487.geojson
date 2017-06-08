@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2748146057,47.259967804,11.2748146057,47.259967804",
     "geom:latitude":47.259968,
     "geom:longitude":11.274815,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893440,
-    "wof:geomhash":"6c4dff713a2139731ed18e7bf8f70d42",
+    "wof:geomhash":"3bccd0a0a85e1bcca61248066eb2610d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091928487
         }
     ],
     "wof:id":1091928487,
-    "wof:lastmodified":1473984886,
+    "wof:lastmodified":1496898648,
     "wof:name":"Team Sport GesmbH & Co KG",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

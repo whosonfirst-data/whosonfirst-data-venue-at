@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8291902542,47.2139434814,14.8291902542,47.2139434814",
     "geom:latitude":47.213943,
     "geom:longitude":14.82919,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"www.zelte-trauner.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839403,
+        85632785,
+        101834225,
+        102049739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cCSqcOvq1QOWUyA8YZBxW_47.213943_14.829190@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901369,
-    "wof:geomhash":"34fe27276261749acf3b14e0adf36c55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ea5b62dd2740a748204dbaf23e82e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049739,
+            "localadmin_id":1108839403,
+            "locality_id":101834225,
+            "region_id":85681687,
+            "venue_id":1092111643
+        }
+    ],
     "wof:id":1092111643,
-    "wof:lastmodified":1473983723,
+    "wof:lastmodified":1496914024,
     "wof:name":"Trauner Zelthallenverleih-Vergn\u00fcgungsbetriebe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2592487335,48.1330528259,16.2592487335,48.1330528259",
     "geom:latitude":48.133053,
     "geom:longitude":16.259249,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898064,
-    "wof:geomhash":"afab87cec6930c8dbbdfae294acc96cc",
+    "wof:geomhash":"b244f588ce2d31b0aa8b0424f5a9671e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092038327
         }
     ],
     "wof:id":1092038327,
-    "wof:lastmodified":1473984832,
+    "wof:lastmodified":1496902295,
     "wof:name":"Weinbau Distl - Rodaun",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

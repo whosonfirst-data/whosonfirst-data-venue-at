@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0786266327,47.9314804077,13.0786266327,47.9314804077",
     "geom:latitude":47.93148,
     "geom:longitude":13.078627,
@@ -23,17 +24,33 @@
     "sg:postcode":"5162",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837169,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LmgxbLy9gixPbARjck2Te_47.931480_13.078627@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890533,
-    "wof:geomhash":"d2ae80031984bf9a341e1207522e39d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc964fc5df1e8016d6f4fc38f99cc45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837169,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091867095
+        }
+    ],
     "wof:id":1091867095,
-    "wof:lastmodified":1473984939,
+    "wof:lastmodified":1496895606,
     "wof:name":"Sulpicius",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

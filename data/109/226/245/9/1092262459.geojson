@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5475358963,48.238117218,13.5475358963,48.238117218",
     "geom:latitude":48.238117,
     "geom:longitude":13.547536,
@@ -32,17 +33,33 @@
         "expert"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835673,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vnfQroLMI3a66d8ZvQFc4_48.238117_13.547536@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908277,
-    "wof:geomhash":"317979fd3b8e0c6dad93898d39995ca0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7b2ccbf735d6038ba0f06de1947a458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835673,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092262459
+        }
+    ],
     "wof:id":1092262459,
-    "wof:lastmodified":1473983963,
+    "wof:lastmodified":1496887844,
     "wof:name":"Wilfried-August Manhartsgruber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

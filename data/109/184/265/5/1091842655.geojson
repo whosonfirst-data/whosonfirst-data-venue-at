@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4636764526,47.1068954468,15.4636764526,47.1068954468",
     "geom:latitude":47.106895,
     "geom:longitude":15.463676,
@@ -25,10 +26,12 @@
     "sg:website":"constantflow.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898591,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889379,
-    "wof:geomhash":"364c42609fb7af71e60a9f32f114168a",
+    "wof:geomhash":"1e955cf6936d29580ace63c09b9feaef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898591,
             "region_id":85681687,
             "venue_id":1091842655
         }
     ],
     "wof:id":1091842655,
-    "wof:lastmodified":1473983794,
+    "wof:lastmodified":1496913315,
     "wof:name":"CFP Austria",
     "wof:parent_id":85898591,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4155693054,47.7848014832,16.4155693054,47.7848014832",
     "geom:latitude":47.784801,
     "geom:longitude":16.415569,
@@ -23,17 +24,33 @@
     "sg:postcode":"7031",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838665,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M3TbS5gyt04fITil02nNe_47.784801_16.415569@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888585,
-    "wof:geomhash":"cd546c84a2a5b150c9862a6abe9cf54a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55d9647139064b048bff6a2c6558fe6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838665,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091825393
+        }
+    ],
     "wof:id":1091825393,
-    "wof:lastmodified":1473984725,
+    "wof:lastmodified":1496909041,
     "wof:name":"Commerzialbank Mattersburg i Burgenland AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

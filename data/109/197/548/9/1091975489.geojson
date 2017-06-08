@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3370742798,48.2750434875,16.3370742798,48.2750434875",
     "geom:latitude":48.275043,
     "geom:longitude":16.337074,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898317,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895470,
-    "wof:geomhash":"14c89e2e9b1bfec5811259bdf614d69e",
+    "wof:geomhash":"ae2072ddf98af6d23a00dac4caf8176f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898317,
             "region_id":85681667,
             "venue_id":1091975489
         }
     ],
     "wof:id":1091975489,
-    "wof:lastmodified":1473984522,
+    "wof:lastmodified":1496903300,
     "wof:name":"Die Waldmann - Immobilien",
     "wof:parent_id":85898317,
     "wof:placetype":"venue",

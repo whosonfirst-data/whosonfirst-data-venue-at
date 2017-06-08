@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9633178711,48.148979187,15.9633178711,48.148979187",
     "geom:latitude":48.148979,
     "geom:longitude":15.963318,
@@ -31,17 +32,33 @@
         "chair-legs"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836931,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h2FIQdXLfqsqG350QakKd_48.148979_15.963318@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905534,
-    "wof:geomhash":"35739abb271a4035a6b087dff2530ca9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f75351a5d388dede6dcec9b81e99c9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836931,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092201411
+        }
+    ],
     "wof:id":1092201411,
-    "wof:lastmodified":1473983701,
+    "wof:lastmodified":1496893406,
     "wof:name":"Josef Gutscher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

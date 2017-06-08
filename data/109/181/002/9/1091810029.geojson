@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3577651978,48.2521705627,14.3577651978,48.2521705627",
     "geom:latitude":48.252171,
     "geom:longitude":14.357765,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887915,
-    "wof:geomhash":"054dfcd2968ca25c87a36218775e30cc",
+    "wof:geomhash":"2908a9605e25e66ea1da8a8a39231613",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1091810029
         }
     ],
     "wof:id":1091810029,
-    "wof:lastmodified":1473983313,
+    "wof:lastmodified":1496881425,
     "wof:name":"Ludwig Renner",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

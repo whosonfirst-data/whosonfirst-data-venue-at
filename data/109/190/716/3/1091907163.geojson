@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7375955582,47.2385482788,10.7375955582,47.2385482788",
     "geom:latitude":47.238548,
     "geom:longitude":10.737596,
@@ -23,17 +24,34 @@
     "sg:postcode":"6460",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08VWcOX3YRsozw0P5OzvXP_47.238548_10.737596@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892439,
-    "wof:geomhash":"cadb255e77b18889c0042b37a3c342b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9bb4f90b0feb215314cf2482bd840b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1091907163
+        }
+    ],
     "wof:id":1091907163,
-    "wof:lastmodified":1473984783,
+    "wof:lastmodified":1496898386,
     "wof:name":"Schuldnerberatung Tirol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

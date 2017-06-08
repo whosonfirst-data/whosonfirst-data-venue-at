@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2344646454,48.3864097595,16.2344646454,48.3864097595",
     "geom:latitude":48.38641,
     "geom:longitude":16.234465,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"atrium-stockerau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834843,
+        85632785,
+        101833277,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WvKJSMec3ZG9BfyirFtrK_48.386410_16.234465@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905187,
-    "wof:geomhash":"e32dd9bab1c27bcc1e0ba8d5f224442c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab03f0b7ec6e4ae97185939c1c888760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834843,
+            "locality_id":101833277,
+            "region_id":85681671,
+            "venue_id":1092193683
+        }
+    ],
     "wof:id":1092193683,
-    "wof:lastmodified":1473984169,
+    "wof:lastmodified":1496882953,
     "wof:name":"Atrium - Institut f\u00fcr Klangtherapie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

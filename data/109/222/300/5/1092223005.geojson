@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1248540878,48.1619949341,14.1248540878,48.1619949341",
     "geom:latitude":48.161995,
     "geom:longitude":14.124854,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836589,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WaImTuGBYTqV2Vz1lsL9r_48.161995_14.124854@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906534,
-    "wof:geomhash":"3e64746b8df41ec65a7d4ad5e1c404fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"358b2298aa06875fb4d3787e612c7486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836589,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092223005
+        }
+    ],
     "wof:id":1092223005,
-    "wof:lastmodified":1473984041,
+    "wof:lastmodified":1496891814,
     "wof:name":"Taxi-Hans Inh Peter Mattes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

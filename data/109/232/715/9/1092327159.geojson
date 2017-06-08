@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0429773331,47.8248291016,13.0429773331,47.8248291016",
     "geom:latitude":47.824829,
     "geom:longitude":13.042977,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911102,
-    "wof:geomhash":"a98e670f052bb34731f962876a8e9ec7",
+    "wof:geomhash":"221c06576414b3cfdf9dd5e22b2b3df9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092327159
         }
     ],
     "wof:id":1092327159,
-    "wof:lastmodified":1473985054,
+    "wof:lastmodified":1496894701,
     "wof:name":"Eder Johann",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

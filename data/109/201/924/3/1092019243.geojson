@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6403102875,47.4646606445,16.6403102875,47.4646606445",
     "geom:latitude":47.464661,
     "geom:longitude":16.64031,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40rsxBCjP4luwrYsY87XkN_47.464661_16.640310@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897318,
-    "wof:geomhash":"1c44b5e0a0631f6c0c61c2afb110d6a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57053e180173e13c8d19984d2495a7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092019243
+        }
+    ],
     "wof:id":1092019243,
-    "wof:lastmodified":1473984691,
+    "wof:lastmodified":1496909133,
     "wof:name":"Evangelische Pfarrgemeinde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

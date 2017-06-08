@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9191551208,47.2708358765,10.9191551208,47.2708358765",
     "geom:latitude":47.270836,
     "geom:longitude":10.919155,
@@ -29,17 +30,33 @@
     "sg:province":"Tirol",
     "sg:website":"crazy-eddy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837445,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Uq5zRpLEjcbOaehai8DCo_47.270836_10.919155@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473887847,
-    "wof:geomhash":"b92b9445534d409520c95bab06403c2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f99d2fe3b492a21c873fbdca92f0d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837445,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091808563
+        }
+    ],
     "wof:id":1091808563,
-    "wof:lastmodified":1473984329,
+    "wof:lastmodified":1496897903,
     "wof:name":"Crazy Eddy Gastro GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

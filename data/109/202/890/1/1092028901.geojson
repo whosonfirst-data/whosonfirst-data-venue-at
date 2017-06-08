@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4404325485,48.2164421082,14.4404325485,48.2164421082",
     "geom:latitude":48.216442,
     "geom:longitude":14.440433,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897684,
-    "wof:geomhash":"eff5799ee3c92ffd9f5ef472b1ffe238",
+    "wof:geomhash":"10378d56fbcf48f197d5d25b2effa38c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092028901
         }
     ],
     "wof:id":1092028901,
-    "wof:lastmodified":1473985137,
+    "wof:lastmodified":1496887084,
     "wof:name":"Seyrlehner GmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

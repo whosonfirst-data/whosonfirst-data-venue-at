@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2334690094,48.3947486877,14.2334690094,48.3947486877",
     "geom:latitude":48.394749,
     "geom:longitude":14.233469,
@@ -23,17 +24,33 @@
     "sg:postcode":"4201",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836143,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1crldVB4f9gl2XucuqlOBT_48.394749_14.233469@1306268274"
     },
     "wof:country":"AT",
     "wof:created":1473902269,
-    "wof:geomhash":"219a73b8764ac78da43f0c51e7bb036c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bae0b42b771882d61e200ac2314a74be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836143,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092129991
+        }
+    ],
     "wof:id":1092129991,
-    "wof:lastmodified":1473985315,
+    "wof:lastmodified":1496889750,
     "wof:name":"Mettler-Toledo GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

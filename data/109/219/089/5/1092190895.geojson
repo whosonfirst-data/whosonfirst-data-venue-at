@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5371789932,47.8174819946,15.5371789932,47.8174819946",
     "geom:latitude":47.817482,
     "geom:longitude":15.537179,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836245,
+        85632785,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AogPIzKaLGHwqAh4sd0XZ_47.817482_15.537179@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905066,
-    "wof:geomhash":"0dd01811883d4f9491935e2fc4c133fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1cbc66350b4a248fe2b2952c1dc9c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108836245,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092190895
+        }
+    ],
     "wof:id":1092190895,
-    "wof:lastmodified":1473983475,
+    "wof:lastmodified":1496890173,
     "wof:name":"Ernst Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

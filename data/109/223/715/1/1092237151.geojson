@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6288118362,47.2768325806,9.6288118362,47.2768325806",
     "geom:latitude":47.276833,
     "geom:longitude":9.628812,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907141,
-    "wof:geomhash":"3f19c860ca7c88454dc6afe19a7af944",
+    "wof:geomhash":"66a56050ef40e0b5b9bb8cfd91bcbe8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092237151
         }
     ],
     "wof:id":1092237151,
-    "wof:lastmodified":1473984844,
+    "wof:lastmodified":1496901664,
     "wof:name":"B\u00f6sch Kurt - Pferdehandel",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

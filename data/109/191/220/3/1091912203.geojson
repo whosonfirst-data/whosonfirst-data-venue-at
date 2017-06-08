@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2633876801,48.1479644775,16.2633876801,48.1479644775",
     "geom:latitude":48.147964,
     "geom:longitude":16.263388,
@@ -25,10 +26,13 @@
     "sg:website":"mesensky.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892641,
-    "wof:geomhash":"7a37fa8b2878b49aa29147c7cccea165",
+    "wof:geomhash":"a41f3bc8b64f16420453f9f834e79042",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1091912203
         }
     ],
     "wof:id":1091912203,
-    "wof:lastmodified":1473983490,
+    "wof:lastmodified":1496904063,
     "wof:name":"Ing. Peter Mesensky Ges.m.b.H.",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

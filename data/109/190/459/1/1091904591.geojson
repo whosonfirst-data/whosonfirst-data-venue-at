@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3672122955,48.2593154907,16.3672122955,48.2593154907",
     "geom:latitude":48.259315,
     "geom:longitude":16.367212,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892332,
-    "wof:geomhash":"ff0f056940a24387533cf047bd6ac696",
+    "wof:geomhash":"76162206f60e9296bda0f5c3e2c625bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1091904591
         }
     ],
     "wof:id":1091904591,
-    "wof:lastmodified":1473984230,
+    "wof:lastmodified":1496928529,
     "wof:name":"Loibl Andreas",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

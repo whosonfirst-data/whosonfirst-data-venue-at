@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3254032135,47.3658294678,15.3254032135,47.3658294678",
     "geom:latitude":47.365829,
     "geom:longitude":15.325403,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839317,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_482AYUnLs30lm16hbXkw6R_47.365829_15.325403@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906451,
-    "wof:geomhash":"2fba4832e06e61048221bbb6f444cb81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"672e3c98bc504cb6bc8fc0c9d1f01840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839317,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092221309
+        }
+    ],
     "wof:id":1092221309,
-    "wof:lastmodified":1473983675,
+    "wof:lastmodified":1496912772,
     "wof:name":"Lechner Andreas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

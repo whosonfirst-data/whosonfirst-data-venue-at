@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8747768402,47.2946281433,11.8747768402,47.2946281433",
     "geom:latitude":47.294628,
     "geom:longitude":11.874777,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"empl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837655,
+        85632785,
+        101834273,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zJJMp2BTcubqXnU9MBnoD_47.294628_11.874777@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905358,
-    "wof:geomhash":"abd908e062c09bed1d0cd1d3d58d9060",
-    "wof:hierarchy":[],
+    "wof:geomhash":"374cbbfee97627af74674798f3b80f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837655,
+            "locality_id":101834273,
+            "region_id":85681661,
+            "venue_id":1092197819
+        }
+    ],
     "wof:id":1092197819,
-    "wof:lastmodified":1473985095,
+    "wof:lastmodified":1496900391,
     "wof:name":"Empl Fahrzeugwerk Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

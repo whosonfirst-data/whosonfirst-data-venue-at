@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1012821198,47.4239044189,12.1012821198,47.4239044189",
     "geom:latitude":47.423904,
     "geom:longitude":12.101282,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VIe35xZ4TIWyKX7hOADJ2_47.423904_12.101282@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909591,
-    "wof:geomhash":"f6b51cab755e842f2e3227703a5bc64e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c7b06c7a38c7318ae0b8c853d358372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092293533
+        }
+    ],
     "wof:id":1092293533,
-    "wof:lastmodified":1473984206,
+    "wof:lastmodified":1496897014,
     "wof:name":"Ferienhof Fuchsbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

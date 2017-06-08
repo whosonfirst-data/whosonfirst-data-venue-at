@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2596359253,47.1686592102,16.2596359253,47.1686592102",
     "geom:latitude":47.168659,
     "geom:longitude":16.259636,
@@ -23,17 +24,34 @@
     "sg:postcode":"7535",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838531,
+        85632785,
+        101787841,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eQyczjCfUwdqZRCyODWvm_47.168659_16.259636@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888746,
-    "wof:geomhash":"321e0fe467df5ee1184a95ae94a3747b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c23a1e471a862516bd9a0bea2fa33b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838531,
+            "locality_id":101787841,
+            "region_id":85681651,
+            "venue_id":1091828809
+        }
+    ],
     "wof:id":1091828809,
-    "wof:lastmodified":1473985310,
+    "wof:lastmodified":1496908383,
     "wof:name":"Raiffeisenbezirksbank G\u00fcssing regGenmbH - Bankstelle Neuberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

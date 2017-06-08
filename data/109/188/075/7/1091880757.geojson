@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0490036011,48.0687332153,15.0490036011,48.0687332153",
     "geom:latitude":48.068733,
     "geom:longitude":15.049004,
@@ -31,17 +32,34 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835725,
+        85632785,
+        101912439,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ddXiizPZqbITrqm1Q7afi_48.068733_15.049004@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891170,
-    "wof:geomhash":"b3cb24a5765e268bdc3501df5d0a24af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a453cd2df1c0f4cfa82a4107ca2b65b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835725,
+            "locality_id":101912439,
+            "region_id":85681671,
+            "venue_id":1091880757
+        }
+    ],
     "wof:id":1091880757,
-    "wof:lastmodified":1473983522,
+    "wof:lastmodified":1496888063,
     "wof:name":"Christian F\u00fcrst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

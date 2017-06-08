@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0317058563,47.167755127,16.0317058563,47.167755127",
     "geom:latitude":47.167755,
     "geom:longitude":16.031706,
@@ -28,17 +29,33 @@
     "sg:postcode":"8271",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839083,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HmBgWnghNldWCVfBGmZbB_47.167755_16.031706@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898364,
-    "wof:geomhash":"61642c3fffb8dbb281f551c4a446388b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fb3caabafd5b68068ca0cd8e8778d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839083,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092046227
+        }
+    ],
     "wof:id":1092046227,
-    "wof:lastmodified":1473983882,
+    "wof:lastmodified":1496911263,
     "wof:name":"Hotel Der Steirerhof & SPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3660354614,48.2512741089,14.3660354614,48.2512741089",
     "geom:latitude":48.251274,
     "geom:longitude":14.366035,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911604,
-    "wof:geomhash":"e6e2a55aeaef7bec31217bef5959e41d",
+    "wof:geomhash":"2f5517b73dab8c42182a240b6acf29d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1092339349
         }
     ],
     "wof:id":1092339349,
-    "wof:lastmodified":1473985316,
+    "wof:lastmodified":1496914323,
     "wof:name":"Lichtinsel - Fam Steinbichl",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

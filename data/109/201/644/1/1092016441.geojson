@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8503837585,47.4087677002,9.8503837585,47.4087677002",
     "geom:latitude":47.408768,
     "geom:longitude":9.850384,
@@ -23,17 +24,33 @@
     "sg:postcode":"6867",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838051,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y1IWK7PNyjhx25I87cqJk_47.408768_9.850384@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897209,
-    "wof:geomhash":"70b2f206a9a872ab0b7da5eab123698e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66feddda9d02c44140c8eadd4b08c4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838051,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092016441
+        }
+    ],
     "wof:id":1092016441,
-    "wof:lastmodified":1473984116,
+    "wof:lastmodified":1496901766,
     "wof:name":"Mevo Metzler GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

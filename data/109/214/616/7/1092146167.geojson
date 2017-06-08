@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7928876877,47.2986526489,12.7928876877,47.2986526489",
     "geom:latitude":47.298653,
     "geom:longitude":12.792888,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TykTh1fgzlHbA1276Nliq_47.298653_12.792888@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473903026,
-    "wof:geomhash":"09deebc0244cb3bbde7e5c23ca630bb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"148e1d1c577ea242ab3803b52fad2568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092146167
+        }
+    ],
     "wof:id":1092146167,
-    "wof:lastmodified":1473984579,
+    "wof:lastmodified":1496896476,
     "wof:name":"Austria Classica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

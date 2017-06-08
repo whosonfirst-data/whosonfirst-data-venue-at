@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0664787292,46.8813209534,16.0664787292,46.8813209534",
     "geom:latitude":46.881321,
     "geom:longitude":16.066479,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"fleischerei-brunner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838537,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QB2vBhMW5OpqbrYKuOeKq_46.881321_16.066479@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911532,
-    "wof:geomhash":"aea8f6b232692f9688fa73ae1efdb9cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aae8faa8891c8db298a5a94859ed94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838537,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092337717
+        }
+    ],
     "wof:id":1092337717,
-    "wof:lastmodified":1473985238,
+    "wof:lastmodified":1496908396,
     "wof:name":"Fleischerei Alois Brunner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

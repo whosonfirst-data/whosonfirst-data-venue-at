@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2755441666,47.2291526794,11.2755441666,47.2291526794",
     "geom:latitude":47.229153,
     "geom:longitude":11.275544,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912750,
-    "wof:geomhash":"f04703b9252e287591c8f7fbdea6c729",
+    "wof:geomhash":"923b0322e959da9aa23c2575e21f5101",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092364835
         }
     ],
     "wof:id":1092364835,
-    "wof:lastmodified":1473984509,
+    "wof:lastmodified":1496898031,
     "wof:name":"G\u00e4stehaus Stratton Fam Gruber",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

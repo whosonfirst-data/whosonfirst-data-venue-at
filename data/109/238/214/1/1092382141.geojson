@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3951892853,47.2616653442,11.3951892853,47.2616653442",
     "geom:latitude":47.261665,
     "geom:longitude":11.395189,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913533,
-    "wof:geomhash":"a3e58c6c463c5d30a8bff1511105f3f8",
+    "wof:geomhash":"eff88ccd231ea7ac71324cf8ebf379c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092382141
         }
     ],
     "wof:id":1092382141,
-    "wof:lastmodified":1473983835,
+    "wof:lastmodified":1496899365,
     "wof:name":"Cafe Pizzeria XXL",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

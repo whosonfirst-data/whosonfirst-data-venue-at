@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1682720184,47.599609375,13.1682720184,47.599609375",
     "geom:latitude":47.599609,
     "geom:longitude":13.168272,
@@ -23,17 +24,33 @@
     "sg:postcode":"5440",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837087,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70ldmh1RJS3y3oIntGtAnP_47.599609_13.168272@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913970,
-    "wof:geomhash":"634077a05f0f172d5ec5b8609cd6d78e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42142697082a463aa1bf3e900bd89374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837087,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092390301
+        }
+    ],
     "wof:id":1092390301,
-    "wof:lastmodified":1473983328,
+    "wof:lastmodified":1496894917,
     "wof:name":"Gendarmerieposten Golling an der Salzach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

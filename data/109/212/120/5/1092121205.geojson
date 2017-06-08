@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0634069443,47.7512702942,13.0634069443,47.7512702942",
     "geom:latitude":47.75127,
     "geom:longitude":13.063407,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901818,
-    "wof:geomhash":"2a02ede41ca3c489a758af4d113e3fff",
+    "wof:geomhash":"882c8c04add6b68654b3c9d6caf7af52",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1092121205
         }
     ],
     "wof:id":1092121205,
-    "wof:lastmodified":1473983678,
+    "wof:lastmodified":1496895172,
     "wof:name":"Wutscher-Sch\u00fcffl Roswitha Dr",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

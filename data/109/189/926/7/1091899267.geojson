@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5467176437,46.9730453491,10.5467176437,46.9730453491",
     "geom:latitude":46.973045,
     "geom:longitude":10.546718,
@@ -23,17 +24,34 @@
     "sg:postcode":"6542",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837315,
+        85632785,
+        101788991,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NW8wYwjYdcOoIdHLemV3Z_46.973045_10.546718@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473892059,
-    "wof:geomhash":"bd0bee763450305459be8f58a4fb57cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c5cab4dffe02432353233bd09036add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837315,
+            "locality_id":101788991,
+            "region_id":85681661,
+            "venue_id":1091899267
+        }
+    ],
     "wof:id":1091899267,
-    "wof:lastmodified":1473985169,
+    "wof:lastmodified":1496896839,
     "wof:name":"Metallbau Brunner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

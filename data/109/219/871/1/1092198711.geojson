@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.819475174,47.1515960693,11.819475174,47.1515960693",
     "geom:latitude":47.151596,
     "geom:longitude":11.819475,
@@ -31,17 +32,34 @@
         "carpeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837857,
+        85632785,
+        101789125,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vU5HxdWg1k9VIYXXnStGA_47.151596_11.819475@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905393,
-    "wof:geomhash":"f9296acb4c6ada5e7802c22d6172922e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ebf22416f486c6e3d0dc98736aca6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837857,
+            "locality_id":101789125,
+            "region_id":85681661,
+            "venue_id":1092198711
+        }
+    ],
     "wof:id":1092198711,
-    "wof:lastmodified":1473985267,
+    "wof:lastmodified":1496900285,
     "wof:name":"Peter Kern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

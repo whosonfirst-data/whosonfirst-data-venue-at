@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9801740646,48.1432037354,13.9801740646,48.1432037354",
     "geom:latitude":48.143204,
     "geom:longitude":13.980174,
@@ -32,17 +33,34 @@
         "occasional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U81b8ez49vRA4guNC7gSR_48.143204_13.980174@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473888373,
-    "wof:geomhash":"007c694db599d50c1b2d43f85eb1bd09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7f30c727a453f63871c67deb213af23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1091820435
+        }
+    ],
     "wof:id":1091820435,
-    "wof:lastmodified":1473983487,
+    "wof:lastmodified":1496882071,
     "wof:name":"Alfred Brunmair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

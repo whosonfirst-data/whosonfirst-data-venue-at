@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4010906219,48.457321167,16.4010906219,48.457321167",
     "geom:latitude":48.457321,
     "geom:longitude":16.401091,
@@ -32,17 +33,33 @@
         "recyclers"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836913,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BG0AGVR2PRodjufPQqw8K_48.457321_16.401091@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910227,
-    "wof:geomhash":"fc81c0da30ef6a1e1cf9b06bd93ca559",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb642808ecc59953f3b609641940f238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836913,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092306743
+        }
+    ],
     "wof:id":1092306743,
-    "wof:lastmodified":1473984855,
+    "wof:lastmodified":1496893360,
     "wof:name":"Josef Althuber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

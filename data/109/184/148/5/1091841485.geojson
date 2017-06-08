@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5101127625,47.4456138611,16.5101127625,47.4456138611",
     "geom:latitude":47.445614,
     "geom:longitude":16.510113,
@@ -23,17 +24,33 @@
     "sg:postcode":"7451",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838479,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DQ0dZUqv9BJ8O3PHWThky_47.445614_16.510113@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889330,
-    "wof:geomhash":"ff81b951878fd610bffc3c522f3f2058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d50d1960d673db20f9ac02e1ebfac5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838479,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091841485
+        }
+    ],
     "wof:id":1091841485,
-    "wof:lastmodified":1473983597,
+    "wof:lastmodified":1496908105,
     "wof:name":"Krutzler Albert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

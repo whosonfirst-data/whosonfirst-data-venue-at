@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2678050995,48.1874656677,16.2678050995,48.1874656677",
     "geom:latitude":48.187466,
     "geom:longitude":16.267805,
@@ -25,10 +26,13 @@
     "sg:website":"deublin.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895437,
-    "wof:geomhash":"027d86945f3344053d56e1b334c593dd",
+    "wof:geomhash":"0fa47a3c95573af62d3364531dae8bd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091974639
         }
     ],
     "wof:id":1091974639,
-    "wof:lastmodified":1473984324,
+    "wof:lastmodified":1496928555,
     "wof:name":"Deublin Austria GmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

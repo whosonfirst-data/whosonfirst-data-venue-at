@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7234659195,47.2416038513,10.7234659195,47.2416038513",
     "geom:latitude":47.241604,
     "geom:longitude":10.723466,
@@ -28,17 +29,33 @@
     "sg:postcode":"6460",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TB0FhYPMFoHdCjmELLpXr_47.241604_10.723466@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894968,
-    "wof:geomhash":"ce11744ea6a12370daa6f79e361eead9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec364e8047557e810eb3d72b4ad057fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091963467
+        }
+    ],
     "wof:id":1091963467,
-    "wof:lastmodified":1473983845,
+    "wof:lastmodified":1496898388,
     "wof:name":"Gasthof-Restaurant Sonneck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

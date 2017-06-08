@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2194671631,48.0045928955,16.2194671631,48.0045928955",
     "geom:latitude":48.004593,
     "geom:longitude":16.219467,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898063,
-    "wof:geomhash":"f80f16b4a209818839e92e1869473033",
+    "wof:geomhash":"67aa324b2aec02dbd8158ffb3cbd4055",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092038317
         }
     ],
     "wof:id":1092038317,
-    "wof:lastmodified":1473984832,
+    "wof:lastmodified":1496886051,
     "wof:name":"Weilburgschenke Heurigen-Restaurant",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

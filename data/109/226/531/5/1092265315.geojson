@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2051000595,46.9809417725,14.2051000595,46.9809417725",
     "geom:latitude":46.980942,
     "geom:longitude":14.2051,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838231,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UdwkZVNL2QdeLz6fn7NK4_46.980942_14.205100@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908396,
-    "wof:geomhash":"0ff12634de7658719ccb5f9ba12d2bd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f92bc68dcd235588047cbab7732fe18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838231,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265315
+        }
+    ],
     "wof:id":1092265315,
-    "wof:lastmodified":1473984461,
+    "wof:lastmodified":1496906661,
     "wof:name":"Elektro Gruber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7580242157,47.4512863159,12.7580242157,47.4512863159",
     "geom:latitude":47.451286,
     "geom:longitude":12.758024,
@@ -23,17 +24,33 @@
     "sg:postcode":"5771",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837211,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AYWuvhOHtSYSLBy3wNBDQ_47.451286_12.758024@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912627,
-    "wof:geomhash":"72d837d0f5981192a7451f9c3f65a672",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d65cd1c78444b7d1d4c1951874fbd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837211,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092362435
+        }
+    ],
     "wof:id":1092362435,
-    "wof:lastmodified":1473983889,
+    "wof:lastmodified":1496895987,
     "wof:name":"Feriengut Stoffenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

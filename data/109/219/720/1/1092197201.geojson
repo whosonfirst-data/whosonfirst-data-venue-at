@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2454071045,47.8838386536,16.2454071045,47.8838386536",
     "geom:latitude":47.883839,
     "geom:longitude":16.245407,
@@ -31,17 +32,34 @@
         "candle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836983,
+        85632785,
+        101833113,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lmXFPHA9wRHe5cwoX1ZTr_47.883839_16.245407@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905334,
-    "wof:geomhash":"76bc01aa17334e0d23ceda8ad6d9ce81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fc642004dda18247418ac6c1418a1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108836983,
+            "locality_id":101833113,
+            "region_id":85681671,
+            "venue_id":1092197201
+        }
+    ],
     "wof:id":1092197201,
-    "wof:lastmodified":1473984912,
+    "wof:lastmodified":1496893645,
     "wof:name":"Wolferl Glas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

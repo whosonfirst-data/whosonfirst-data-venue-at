@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2072076797,47.3684234619,13.2072076797,47.3684234619",
     "geom:latitude":47.368423,
     "geom:longitude":13.207208,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"alcan.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        101787869,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P9DsN4AseHhgb6OiVD4DQ_47.368423_13.207208@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905271,
-    "wof:geomhash":"9d8dcb7073169ddee39f52fe12059eec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2cf0226c27689feb5dd0aadf5b9f78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":101787869,
+            "region_id":85681681,
+            "venue_id":1092195721
+        }
+    ],
     "wof:id":1092195721,
-    "wof:lastmodified":1473984561,
+    "wof:lastmodified":1496894085,
     "wof:name":"Alcan Austria GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

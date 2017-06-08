@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5858011246,47.1560173035,10.5858011246,47.1560173035",
     "geom:latitude":47.156017,
     "geom:longitude":10.585801,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837325,
+        85632785,
+        101788997,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XpchTSipZTrBd0MD5Rb11_47.156017_10.585801@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889449,
-    "wof:geomhash":"f7bb159ead22ca19bbcef7c291ff7f51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c3eff9728da406c5a79206798b03fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837325,
+            "locality_id":101788997,
+            "region_id":85681661,
+            "venue_id":1091844329
+        }
+    ],
     "wof:id":1091844329,
-    "wof:lastmodified":1473984145,
+    "wof:lastmodified":1496898048,
     "wof:name":"Ampack-HandelsGmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

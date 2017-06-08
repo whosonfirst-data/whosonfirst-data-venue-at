@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8340587616,46.596622467,13.8340587616,46.596622467",
     "geom:latitude":46.596622,
     "geom:longitude":13.834059,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914739,
-    "wof:geomhash":"8b8da46407eaf5b63d02fd8e4e69e6b0",
+    "wof:geomhash":"189c8150b6367dc7ea722209261a6e51",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092407527
         }
     ],
     "wof:id":1092407527,
-    "wof:lastmodified":1473984731,
+    "wof:lastmodified":1496906150,
     "wof:name":"Farbenzentrum Raimund Haberl GmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

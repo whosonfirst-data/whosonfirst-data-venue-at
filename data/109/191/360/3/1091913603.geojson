@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2257995605,47.7987251282,16.2257995605,47.7987251282",
     "geom:latitude":47.798725,
     "geom:longitude":16.2258,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CTLXqjKVxFqs2c1AlmWcB_47.798725_16.225800@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892729,
-    "wof:geomhash":"bb361c88fb5c6e2481b4ddd435843afa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df922b3822ff455a7437d90c52ef5921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1091913603
+        }
+    ],
     "wof:id":1091913603,
-    "wof:lastmodified":1473983742,
+    "wof:lastmodified":1496883955,
     "wof:name":"Frey Computersysteme GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

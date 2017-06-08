@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7448329926,47.2480010986,10.7448329926,47.2480010986",
     "geom:latitude":47.248001,
     "geom:longitude":10.744833,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"spenglerei-auer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p6dX6nfOJv1ad7tiLX5OI_47.248001_10.744833@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893105,
-    "wof:geomhash":"ce665dc49d82ecebfe4546bae495ee1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d9b15d8ec9557ebe714df1a23507ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1091922901
+        }
+    ],
     "wof:id":1091922901,
-    "wof:lastmodified":1473983920,
+    "wof:lastmodified":1496898381,
     "wof:name":"Auer Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

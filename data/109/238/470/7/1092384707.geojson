@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9084453583,47.898525238,16.9084453583,47.898525238",
     "geom:latitude":47.898525,
     "geom:longitude":16.908445,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838647,
+        85632785,
+        101785739,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CVUnvkAJa85b7G99mRmWo_47.898525_16.908445@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913666,
-    "wof:geomhash":"9067b1e5a10b8b3a39f266e7b15f9c16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b06de1ed27e24b2c01d9f5941c2b4869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838647,
+            "locality_id":101785739,
+            "region_id":85681651,
+            "venue_id":1092384707
+        }
+    ],
     "wof:id":1092384707,
-    "wof:lastmodified":1473984467,
+    "wof:lastmodified":1496908978,
     "wof:name":"Weinhandl Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

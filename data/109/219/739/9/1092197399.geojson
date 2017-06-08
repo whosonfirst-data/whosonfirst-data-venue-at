@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5121803284,47.7122459412,16.5121803284,47.7122459412",
     "geom:latitude":47.712246,
     "geom:longitude":16.51218,
@@ -32,17 +33,34 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838553,
+        85632785,
+        101786743,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CxTt4hDrLe99lcOR0niIq_47.712246_16.512180@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905342,
-    "wof:geomhash":"1580c9f544db9cab198652375a1c94ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c20e1be1cc41f2932a9e134c021ee46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838553,
+            "locality_id":101786743,
+            "region_id":85681651,
+            "venue_id":1092197399
+        }
+    ],
     "wof:id":1092197399,
-    "wof:lastmodified":1473984998,
+    "wof:lastmodified":1496908426,
     "wof:name":"Josef Grafl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

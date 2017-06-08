@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1777820587,48.2086181641,16.1777820587,48.2086181641",
     "geom:latitude":48.208618,
     "geom:longitude":16.177782,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904372,
-    "wof:geomhash":"32c61cc03dfb830c070baef4f1b69823",
+    "wof:geomhash":"d3e4aa9bd1259991cf46a8c0781b1fe4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092175717
         }
     ],
     "wof:id":1092175717,
-    "wof:lastmodified":1473984486,
+    "wof:lastmodified":1496888168,
     "wof:name":"EUROSPAR",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

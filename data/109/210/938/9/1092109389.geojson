@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0916795731,47.3700447083,15.0916795731,47.3700447083",
     "geom:latitude":47.370045,
     "geom:longitude":15.09168,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898553,
-        102049769
+        102191581,
+        1108839009,
+        85632785,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901259,
-    "wof:geomhash":"e9e6eaa5016f58d63ba5fa4cfbd724c6",
+    "wof:geomhash":"8dd7a6b987b7a7490f06c06402fb895a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":-1,
             "neighbourhood_id":85898553,
             "region_id":85681687,
             "venue_id":1092109389
         }
     ],
     "wof:id":1092109389,
-    "wof:lastmodified":1473985153,
+    "wof:lastmodified":1496910810,
     "wof:name":"Hirsch Zahntechnik",
     "wof:parent_id":85898553,
     "wof:placetype":"venue",

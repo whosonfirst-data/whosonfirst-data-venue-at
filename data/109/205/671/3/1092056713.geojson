@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.228767395,46.9530906677,16.228767395,46.9530906677",
     "geom:latitude":46.953091,
     "geom:longitude":16.228767,
@@ -32,17 +33,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838719,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33oXQlerrCxsZiYZAKvf9w_46.953091_16.228767@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898770,
-    "wof:geomhash":"574883991da26e26edcd5cc40adad1f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0f5342db04887c4f3eebbcb30534dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838719,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092056713
+        }
+    ],
     "wof:id":1092056713,
-    "wof:lastmodified":1473984559,
+    "wof:lastmodified":1496909181,
     "wof:name":"Karl Gerencser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

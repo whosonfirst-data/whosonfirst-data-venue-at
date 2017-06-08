@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.396941185,47.2594642639,11.396941185,47.2594642639",
     "geom:latitude":47.259464,
     "geom:longitude":11.396941,
@@ -34,10 +35,13 @@
     "sg:website":"snowboardklinik.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913811,
-    "wof:geomhash":"5d003cdc79b82933fa2009d05c3deb93",
+    "wof:geomhash":"3ffdc1ffd9c251f470cb1b9bae43fc87",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092387353
         }
     ],
     "wof:id":1092387353,
-    "wof:lastmodified":1473985051,
+    "wof:lastmodified":1496899328,
     "wof:name":"SNOWboard KLINIK Ges.m.b.H.",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6106138229,47.2441291809,9.6106138229,47.2441291809",
     "geom:latitude":47.244129,
     "geom:longitude":9.610614,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893504,
-    "wof:geomhash":"a1adf0f920ab3d101ffdabfcccdd8097",
+    "wof:geomhash":"f234ea74c79ec1ccf19e6757d49f989d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091929835
         }
     ],
     "wof:id":1091929835,
-    "wof:lastmodified":1473985207,
+    "wof:lastmodified":1496900907,
     "wof:name":"Eisenbahner Sportverein",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6064147949,47.2442855835,9.6064147949,47.2442855835",
     "geom:latitude":47.244286,
     "geom:longitude":9.606415,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901433,
-    "wof:geomhash":"f8269f0a98ada139990b8bb0fa6a321c",
+    "wof:geomhash":"450b8cce674a0ac01109ef441c9f1804",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092113047
         }
     ],
     "wof:id":1092113047,
-    "wof:lastmodified":1473983985,
+    "wof:lastmodified":1496900968,
     "wof:name":"Hauptzollamt Feldkirch",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

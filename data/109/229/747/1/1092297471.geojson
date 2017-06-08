@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2213897705,46.6245689392,14.2213897705,46.6245689392",
     "geom:latitude":46.624569,
     "geom:longitude":14.22139,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909770,
-    "wof:geomhash":"83701876cb571920af5b2a13550b8a62",
+    "wof:geomhash":"cb10dd28067d23a013adc4667c32d908",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092297471
         }
     ],
     "wof:id":1092297471,
-    "wof:lastmodified":1473985047,
+    "wof:lastmodified":1496906399,
     "wof:name":"Ran'o-Appartements",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5424289703,47.8296012878,16.5424289703,47.8296012878",
     "geom:latitude":47.829601,
     "geom:longitude":16.542429,
@@ -23,17 +24,33 @@
     "sg:postcode":"7000",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jG3HV4p20PYuZptoDUuBV_47.829601_16.542429@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907859,
-    "wof:geomhash":"3766de1ef774ae8fe3cbfb49e0c089de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01b4ec5bd21be2057e440b16def991ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092253351
+        }
+    ],
     "wof:id":1092253351,
-    "wof:lastmodified":1473984146,
+    "wof:lastmodified":1496908832,
     "wof:name":"Lieferbeton GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

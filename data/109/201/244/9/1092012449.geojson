@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2420387268,48.9170875549,15.2420387268,48.9170875549",
     "geom:latitude":48.917088,
     "geom:longitude":15.242039,
@@ -35,17 +36,33 @@
         "gate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835021,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17BJ7jl80GZybp8ZOesnvB_48.917088_15.242039@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897042,
-    "wof:geomhash":"1de50c0dfae60a206f1b83b3971dba15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b2da166464eb3f319f0720efa218d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835021,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092012449
+        }
+    ],
     "wof:id":1092012449,
-    "wof:lastmodified":1473983376,
+    "wof:lastmodified":1496884213,
     "wof:name":"Herbert Hager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

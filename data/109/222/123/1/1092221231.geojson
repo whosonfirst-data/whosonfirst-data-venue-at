@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5020084381,47.282623291,11.5020084381,47.282623291",
     "geom:latitude":47.282623,
     "geom:longitude":11.502008,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906448,
-    "wof:geomhash":"ab3e6166e59884b5e458c58baa1be088",
+    "wof:geomhash":"db20cc3c8bc7619f4f8ab91f237d472f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092221231
         }
     ],
     "wof:id":1092221231,
-    "wof:lastmodified":1473983649,
+    "wof:lastmodified":1496898716,
     "wof:name":"Kratzer-Funk-Taxi",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

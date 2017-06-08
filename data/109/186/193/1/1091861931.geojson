@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1740150452,48.2069168091,16.1740150452,48.2069168091",
     "geom:latitude":48.206917,
     "geom:longitude":16.174015,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890296,
-    "wof:geomhash":"66aa0a31e1cd2b8fc006959e771ac634",
+    "wof:geomhash":"29e100be255e31e7d5f607ab1aaf9032",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091861931
         }
     ],
     "wof:id":1091861931,
-    "wof:lastmodified":1473983800,
+    "wof:lastmodified":1496888150,
     "wof:name":"Dewanger GmbH & Co KG",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

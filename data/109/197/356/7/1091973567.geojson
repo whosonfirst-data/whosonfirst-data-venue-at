@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5960445404,47.2558670044,9.5960445404,47.2558670044",
     "geom:latitude":47.255867,
     "geom:longitude":9.596045,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895393,
-    "wof:geomhash":"8a3f9b234b35434c57e28317d9ff9b96",
+    "wof:geomhash":"c5ceccad91548c4dcbc3a70ed4494c54",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091973567
         }
     ],
     "wof:id":1091973567,
-    "wof:lastmodified":1473984087,
+    "wof:lastmodified":1496900900,
     "wof:name":"DELACHER LOGISTIKS AG & CO. KG",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

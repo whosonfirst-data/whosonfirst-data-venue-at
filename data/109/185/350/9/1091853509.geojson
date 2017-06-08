@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6140651703,47.2540817261,9.6140651703,47.2540817261",
     "geom:latitude":47.254082,
     "geom:longitude":9.614065,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889871,
-    "wof:geomhash":"0fe908562ffe1233403404c918375ba3",
+    "wof:geomhash":"fb13cd7f247412126265eb154414c5d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091853509
         }
     ],
     "wof:id":1091853509,
-    "wof:lastmodified":1473983983,
+    "wof:lastmodified":1496900958,
     "wof:name":"Therapeutische Wohngemeinschaft",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

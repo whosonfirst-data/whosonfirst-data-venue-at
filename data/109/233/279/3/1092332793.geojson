@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3201570511,46.6032485962,14.3201570511,46.6032485962",
     "geom:latitude":46.603249,
     "geom:longitude":14.320157,
@@ -25,10 +26,13 @@
     "sg:website":"marmor-fandl.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911334,
-    "wof:geomhash":"15e59619dd4a696fde057c7dc7872ea6",
+    "wof:geomhash":"eeab2d73f295984c10c2a25e0d1b8e0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092332793
         }
     ],
     "wof:id":1092332793,
-    "wof:lastmodified":1473984004,
+    "wof:lastmodified":1496905875,
     "wof:name":"Fandl GmbH",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

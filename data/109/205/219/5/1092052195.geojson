@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5203046799,47.4333534241,13.5203046799,47.4333534241",
     "geom:latitude":47.433353,
     "geom:longitude":13.520305,
@@ -28,17 +29,33 @@
     "sg:postcode":"5532",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837003,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4syBQqrzkur8emzHPU374S_47.433353_13.520305@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898593,
-    "wof:geomhash":"684d3dad578661a960c8ca8050174f9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47c64e7821ff4b3903e09ab4334e7547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837003,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092052195
+        }
+    ],
     "wof:id":1092052195,
-    "wof:lastmodified":1473983742,
+    "wof:lastmodified":1496893897,
     "wof:name":"Sportcafe Filzmooserhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

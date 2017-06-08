@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7187738419,47.1882781982,9.7187738419,47.1882781982",
     "geom:latitude":47.188278,
     "geom:longitude":9.718774,
@@ -31,17 +32,34 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838015,
+        85632785,
+        101841961,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZhzTntvpV9UhJEgVj1nd3_47.188278_9.718774@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911706,
-    "wof:geomhash":"deeaae6794f636197bb7e23106c4e44b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ddd2dac33499e31742a642c4314f815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838015,
+            "locality_id":101841961,
+            "region_id":85681649,
+            "venue_id":1092341831
+        }
+    ],
     "wof:id":1092341831,
-    "wof:lastmodified":1473983636,
+    "wof:lastmodified":1496900653,
     "wof:name":"VERZINKEREI ZIMMERMANN GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

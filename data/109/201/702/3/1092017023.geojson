@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.48828125,48.2086105347,13.48828125,48.2086105347",
     "geom:latitude":48.208611,
     "geom:longitude":13.488281,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"schuelerhilfe-ried.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z3sOkp1r4J1gFUJfdZGC9_48.208611_13.488281@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897230,
-    "wof:geomhash":"4acbf33bca1a5972145b979a64df9b0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da0e655ca929a38908eb5a280c4da704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1092017023
+        }
+    ],
     "wof:id":1092017023,
-    "wof:lastmodified":1473984246,
+    "wof:lastmodified":1496887900,
     "wof:name":"Humer Christiane - Sch\u00fclerhilfe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

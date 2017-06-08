@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1099405289,48.197227478,14.1099405289,48.197227478",
     "geom:latitude":48.197227,
     "geom:longitude":14.109941,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.schwimmbad-schanza.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836561,
+        85632785,
+        101754169,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LaPBlKPqW034fPdNoZrJG_48.197227_14.109941@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473894033,
-    "wof:geomhash":"016bfda7844b26947348fb91434bc15b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b0ba498b1635f7b5fb8631256e5d416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836561,
+            "locality_id":101754169,
+            "region_id":85681677,
+            "venue_id":1091942063
+        }
+    ],
     "wof:id":1091942063,
-    "wof:lastmodified":1473983760,
+    "wof:lastmodified":1496891688,
     "wof:name":"Helmut Schanza Schwimmbadtechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

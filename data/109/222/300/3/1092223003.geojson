@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3344068527,48.2245368958,15.3344068527,48.2245368958",
     "geom:latitude":48.224537,
     "geom:longitude":15.334407,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835431,
+        85632785,
+        101784565,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fcqRP8bwCi8wYVfM5TfDB_48.224537_15.334407@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906534,
-    "wof:geomhash":"6c397d85b3951630151886f25556217c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f32022f96f3b12d5b4a0abff5afab04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835431,
+            "locality_id":101784565,
+            "region_id":85681671,
+            "venue_id":1092223003
+        }
+    ],
     "wof:id":1092223003,
-    "wof:lastmodified":1473984041,
+    "wof:lastmodified":1496886608,
     "wof:name":"Taxi-Funk-T\u00fcrke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4008750916,48.200504303,15.4008750916,48.200504303",
     "geom:latitude":48.200504,
     "geom:longitude":15.400875,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.schallaburg.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835017,
+        85632785,
+        101784561,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VbXAhQWfEh0QNNhEgkeNN_48.200504_15.400875@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916285,
-    "wof:geomhash":"beee28c64d66c5a7799c280f4ea28632",
-    "wof:hierarchy":[],
+    "wof:geomhash":"969a279331f7f56750fe16ba696ca398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835017,
+            "locality_id":101784561,
+            "region_id":85681671,
+            "venue_id":1092438169
+        }
+    ],
     "wof:id":1092438169,
-    "wof:lastmodified":1473984994,
+    "wof:lastmodified":1496884207,
     "wof:name":"Schlo\u00dfrestaurant Schallaburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

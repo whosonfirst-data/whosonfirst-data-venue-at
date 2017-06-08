@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7750778198,46.8123092651,13.7750778198,46.8123092651",
     "geom:latitude":46.812309,
     "geom:longitude":13.775078,
@@ -28,17 +29,33 @@
     "sg:postcode":"9546",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WacHnzoEjEUHNh6svhl5W_46.812309_13.775078@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898454,
-    "wof:geomhash":"2249d5d8210c282009f3dc861b0715e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c77f5eeed1c370710cd09bb848155bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092048523
+        }
+    ],
     "wof:id":1092048523,
-    "wof:lastmodified":1473984275,
+    "wof:lastmodified":1496906804,
     "wof:name":"Hotel Sonnalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

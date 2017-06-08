@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0535516739,48.2594108582,13.0535516739,48.2594108582",
     "geom:latitude":48.259411,
     "geom:longitude":13.053552,
@@ -34,17 +35,34 @@
         "measurement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        101913421,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31aoccvwBlLZiyTjY6bT7Y_48.259411_13.053552@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911530,
-    "wof:geomhash":"d713ad827d63df2fb4b8404941320836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f2b6f8918cfe6a54fefd152857fbc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":101913421,
+            "region_id":85681677,
+            "venue_id":1092337681
+        }
+    ],
     "wof:id":1092337681,
-    "wof:lastmodified":1473985213,
+    "wof:lastmodified":1496882292,
     "wof:name":"SCHENCK GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

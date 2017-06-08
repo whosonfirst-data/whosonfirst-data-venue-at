@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4619274139,48.2667694092,16.4619274139,48.2667694092",
     "geom:latitude":48.266769,
     "geom:longitude":16.461927,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891164,
-    "wof:geomhash":"6d9df42a199f3861c241a98a47424364",
+    "wof:geomhash":"ae250563ed5dd5667eac98ffd41b45b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091880591
         }
     ],
     "wof:id":1091880591,
-    "wof:lastmodified":1473983466,
+    "wof:lastmodified":1496903601,
     "wof:name":"FRANZ FELBER & CO GES.MBH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9621992111,47.2928123474,12.9621992111,47.2928123474",
     "geom:latitude":47.292812,
     "geom:longitude":12.962199,
@@ -23,17 +24,33 @@
     "sg:postcode":"5660",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837241,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EChdKMtKQykAyhiNAQa9H_47.292812_12.962199@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905191,
-    "wof:geomhash":"9adf7128bbc2cdbe2daec28019115693",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9127b622a475dd35ef7f649997f254cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837241,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092193771
+        }
+    ],
     "wof:id":1092193771,
-    "wof:lastmodified":1473984232,
+    "wof:lastmodified":1496896370,
     "wof:name":"Energiezentrum Lichtstrahl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

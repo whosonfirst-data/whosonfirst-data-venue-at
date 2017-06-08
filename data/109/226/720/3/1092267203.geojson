@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2643232346,46.7141265869,15.2643232346,46.7141265869",
     "geom:latitude":46.714127,
     "geom:longitude":15.264323,
@@ -31,17 +32,34 @@
         "electricity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839291,
+        85632785,
+        101790127,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YuTGHdAUKLUWdhhdSbeaw_46.714127_15.264323@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908481,
-    "wof:geomhash":"85935269bd09ab31e8e84c5dc8b60048",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c55417ecba63805a0bdb75070b813591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839291,
+            "locality_id":101790127,
+            "region_id":85681687,
+            "venue_id":1092267203
+        }
+    ],
     "wof:id":1092267203,
-    "wof:lastmodified":1473984705,
+    "wof:lastmodified":1496912410,
     "wof:name":"E-Werk Sigl GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

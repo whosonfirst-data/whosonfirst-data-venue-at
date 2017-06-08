@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.150891304,47.8431358337,13.150891304,47.8431358337",
     "geom:latitude":47.843136,
     "geom:longitude":13.150891,
@@ -23,17 +24,33 @@
     "sg:postcode":"5301",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36kbcNlAFuytDhBoNzQyAh_47.843136_13.150891@1306268290"
     },
     "wof:country":"AT",
     "wof:created":1473907315,
-    "wof:geomhash":"123d2637ef200128acd378a8da567410",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a150362afb2eade774f538af20f0572c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092240959
+        }
+    ],
     "wof:id":1092240959,
-    "wof:lastmodified":1473983558,
+    "wof:lastmodified":1496895299,
     "wof:name":"Bernhofer Georg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

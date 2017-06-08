@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6761894226,47.3749732971,9.6761894226,47.3749732971",
     "geom:latitude":47.374973,
     "geom:longitude":9.676189,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"www.eisvogel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0y7KNksroHqPW30alQbeKX_47.374973_9.676189@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473888155,
-    "wof:geomhash":"ceca7807fa796594f8c8f9eef45640f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e9a579dc49e464194fc9e806c5caacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1091815445
+        }
+    ],
     "wof:id":1091815445,
-    "wof:lastmodified":1473984554,
+    "wof:lastmodified":1496901132,
     "wof:name":"Eisvogel K\u00e4lte Klima Entfeuchtung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

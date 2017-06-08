@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3721551895,46.6338539124,14.3721551895,46.6338539124",
     "geom:latitude":46.633854,
     "geom:longitude":14.372155,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902315,
-    "wof:geomhash":"3075235cc631e18d39badf93e1617349",
+    "wof:geomhash":"761b34fd9fdfae5a962c552ba8d5b742",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092131057
         }
     ],
     "wof:id":1092131057,
-    "wof:lastmodified":1473983586,
+    "wof:lastmodified":1496905582,
     "wof:name":"Hausmann A GesmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0252637863,47.5042762756,12.0252637863,47.5042762756",
     "geom:latitude":47.504276,
     "geom:longitude":12.025264,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837273,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tvMDmM8LJ5OJLimmkchU5_47.504276_12.025264@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906407,
-    "wof:geomhash":"9e64eb5dcdd6df745f2b2416c83a6970",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed7d14d0d4b15b627248127cbab69195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837273,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092220229
+        }
+    ],
     "wof:id":1092220229,
-    "wof:lastmodified":1473983358,
+    "wof:lastmodified":1496896592,
     "wof:name":"Christian's Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

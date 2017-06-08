@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1310367584,48.0569381714,16.1310367584,48.0569381714",
     "geom:latitude":48.056938,
     "geom:longitude":16.131037,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.stift-zahn.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836631,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1srgvgGS0y9H5j4MGLQWug_48.056938_16.131037@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896935,
-    "wof:geomhash":"326ee53a7f293e34d425713d7af655ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f15b876f5deb5ae358906c70aa162b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836631,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092009775
+        }
+    ],
     "wof:id":1092009775,
-    "wof:lastmodified":1473985103,
+    "wof:lastmodified":1496892102,
     "wof:name":"STIFT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

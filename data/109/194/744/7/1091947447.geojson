@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6285476685,47.2735862732,9.6285476685,47.2735862732",
     "geom:latitude":47.273586,
     "geom:longitude":9.628548,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894269,
-    "wof:geomhash":"b53732aecf584d2dd41e627c2960445b",
+    "wof:geomhash":"803ecf3c9f173a4197794097c54ac4b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091947447
         }
     ],
     "wof:id":1091947447,
-    "wof:lastmodified":1473984906,
+    "wof:lastmodified":1496901638,
     "wof:name":"Konzett Rainer",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

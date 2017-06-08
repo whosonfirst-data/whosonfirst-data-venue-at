@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1266298294,47.8902893066,13.1266298294,47.8902893066",
     "geom:latitude":47.890289,
     "geom:longitude":13.12663,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        101833109,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0akRGYvHFgI5MgiKlKTnYJ_47.890289_13.126630@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898895,
-    "wof:geomhash":"86bb359133b8edc4f1232e82ed5abf68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d64d4eca14f5064ff4e325e3dae2ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":101833109,
+            "region_id":85681681,
+            "venue_id":1092059911
+        }
+    ],
     "wof:id":1092059911,
-    "wof:lastmodified":1473985220,
+    "wof:lastmodified":1496895834,
     "wof:name":"Friedrich Asen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

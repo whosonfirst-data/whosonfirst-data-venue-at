@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3577880859,47.175037384,16.3577880859,47.175037384",
     "geom:latitude":47.175037,
     "geom:longitude":16.357788,
@@ -23,17 +24,33 @@
     "sg:postcode":"7512",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838759,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dWGr60wNCsT2ojUDe8xLD_47.175037_16.357788@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913966,
-    "wof:geomhash":"9b395c333891a66004796bce91b922f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"213b6c79e90653ec225c38194aae0f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838759,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092390199
+        }
+    ],
     "wof:id":1092390199,
-    "wof:lastmodified":1473983336,
+    "wof:lastmodified":1496909242,
     "wof:name":"Gendarmerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

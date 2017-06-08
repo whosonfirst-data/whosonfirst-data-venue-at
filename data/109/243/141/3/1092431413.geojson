@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.515504837,47.5053787231,10.515504837,47.5053787231",
     "geom:latitude":47.505379,
     "geom:longitude":10.515505,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"flugschule-tannheimertal.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837777,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F9IC2hc4P55pOo3BhuilT_47.505379_10.515505@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915974,
-    "wof:geomhash":"bc3768ebbb7b60b2468ba378ae2f619f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30dbe0caebac64da266cb3ceba499300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837777,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092431413
+        }
+    ],
     "wof:id":1092431413,
-    "wof:lastmodified":1473983497,
+    "wof:lastmodified":1496899960,
     "wof:name":"Flugschule Tannheimertal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

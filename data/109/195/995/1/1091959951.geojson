@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1334447861,47.1097793579,13.1334447861,47.1097793579",
     "geom:latitude":47.109779,
     "geom:longitude":13.133445,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"hotelkrone.gastein.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        101789115,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H6vaLags9QHOghJlwNKVu_47.109779_13.133445@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894822,
-    "wof:geomhash":"9381e0e31c9e57ae1a458449dfab5fe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59a62d1c365564eb2d566d568297f893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":101789115,
+            "region_id":85681681,
+            "venue_id":1091959951
+        }
+    ],
     "wof:id":1091959951,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496893780,
     "wof:name":"Hotel Krone Badgastein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

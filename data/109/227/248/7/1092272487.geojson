@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7241411209,47.4948348999,10.7241411209,47.4948348999",
     "geom:latitude":47.494835,
     "geom:longitude":10.724141,
@@ -23,17 +24,34 @@
     "sg:postcode":"6600",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837807,
+        85632785,
+        101834259,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PgHu9fvs19xjkwlXYrUP2_47.494835_10.724141@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908703,
-    "wof:geomhash":"41cb1dab57c2696497d62f20501b2721",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d7349482d0e066aac7c085f96f2258c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837807,
+            "locality_id":101834259,
+            "region_id":85681661,
+            "venue_id":1092272487
+        }
+    ],
     "wof:id":1092272487,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496899905,
     "wof:name":"ewr Elektroinstallation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

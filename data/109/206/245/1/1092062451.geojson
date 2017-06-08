@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7488279343,47.256652832,9.7488279343,47.256652832",
     "geom:latitude":47.256653,
     "geom:longitude":9.748828,
@@ -23,17 +24,33 @@
     "sg:postcode":"6830",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837985,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26qRUn5ySALAeo4Lr5Z0iz_47.256653_9.748828@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899000,
-    "wof:geomhash":"201fc0c82a1c981b1e72c6166a9afcec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f581c7358e0f1e15378892fa9ad8e09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837985,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092062451
+        }
+    ],
     "wof:id":1092062451,
-    "wof:lastmodified":1473983836,
+    "wof:lastmodified":1496901252,
     "wof:name":"Berghof Laterns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

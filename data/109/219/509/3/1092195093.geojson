@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7453098297,47.0449333191,15.7453098297,47.0449333191",
     "geom:latitude":47.044933,
     "geom:longitude":15.74531,
@@ -32,17 +33,33 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838909,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NbXmlhSEc7X3oshJOWtJS_47.044933_15.745310@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905244,
-    "wof:geomhash":"0622c5af2a5f9bff774b96f0fa0fce92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64e4781fcdf5945040a3cb21856ae750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838909,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092195093
+        }
+    ],
     "wof:id":1092195093,
-    "wof:lastmodified":1473984524,
+    "wof:lastmodified":1496910067,
     "wof:name":"Leonhard Reichstamm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

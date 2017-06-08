@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9415540695,48.5988273621,15.9415540695,48.5988273621",
     "geom:latitude":48.598827,
     "geom:longitude":15.941554,
@@ -23,17 +24,33 @@
     "sg:postcode":"3714",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836629,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tY3qFfDsznQVzg3Ezyzyw_48.598827_15.941554@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888866,
-    "wof:geomhash":"112f981fb31668af0700ac5a24ecd9ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"503c816d238ee8fd55184fd2904d55ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108836629,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091831563
+        }
+    ],
     "wof:id":1091831563,
-    "wof:lastmodified":1473983609,
+    "wof:lastmodified":1496892094,
     "wof:name":"Weinviertler Sparkasse AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

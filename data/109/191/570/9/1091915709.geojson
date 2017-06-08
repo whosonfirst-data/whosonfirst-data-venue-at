@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2678070068,48.1903533936,16.2678070068,48.1903533936",
     "geom:latitude":48.190353,
     "geom:longitude":16.267807,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892817,
-    "wof:geomhash":"05f2acf3e9ac5a40e8f1c448366f29da",
+    "wof:geomhash":"5224a3af16810136bbef96b15715176c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091915709
         }
     ],
     "wof:id":1091915709,
-    "wof:lastmodified":1473984048,
+    "wof:lastmodified":1496902974,
     "wof:name":"Steffek EDV-Softwareentwicklung",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

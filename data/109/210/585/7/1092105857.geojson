@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4894256592,48.2531738281,16.4894256592,48.2531738281",
     "geom:latitude":48.253174,
     "geom:longitude":16.489426,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901099,
-    "wof:geomhash":"12388dd447ff5d4a08e4b42a85cc237f",
+    "wof:geomhash":"277c840211641811cb8ebab0d4e6b3c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092105857
         }
     ],
     "wof:id":1092105857,
-    "wof:lastmodified":1473984492,
+    "wof:lastmodified":1496902528,
     "wof:name":"K\u00f6lbl Georg",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

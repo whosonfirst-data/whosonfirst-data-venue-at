@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3845767975,47.9091529846,16.3845767975,47.9091529846",
     "geom:latitude":47.909153,
     "geom:longitude":16.384577,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835735,
+        85632785,
+        101785699,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3I8brCWu0N7LmEHE9xUsMY_47.909153_16.384577@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473888130,
-    "wof:geomhash":"27e6fe49f50bc726201706c6446a1578",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aae6a59cb3f329ffc2cf7e299fc8c46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835735,
+            "locality_id":101785699,
+            "region_id":85681671,
+            "venue_id":1091814793
+        }
+    ],
     "wof:id":1091814793,
-    "wof:lastmodified":1473984405,
+    "wof:lastmodified":1496888140,
     "wof:name":"Manfred Novak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

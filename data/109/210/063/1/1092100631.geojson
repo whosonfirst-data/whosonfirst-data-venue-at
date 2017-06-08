@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7063951492,47.3745613098,9.7063951492,47.3745613098",
     "geom:latitude":47.374561,
     "geom:longitude":9.706395,
@@ -32,17 +33,34 @@
         "purpose"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837925,
+        85632785,
+        101827471,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6t5NuOo9gagHFAkMPIqOGJ_47.374561_9.706395@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900835,
-    "wof:geomhash":"88d8a9fc12d85798de595950bdb88540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e4ee55fff3080b03f1b44f0d7b088cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":101827471,
+            "region_id":85681649,
+            "venue_id":1092100631
+        }
+    ],
     "wof:id":1092100631,
-    "wof:lastmodified":1473983388,
+    "wof:lastmodified":1496901128,
     "wof:name":"CDS Internationale Transport GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

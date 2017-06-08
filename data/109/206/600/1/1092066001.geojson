@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0815191269,47.9820976257,13.0815191269,47.9820976257",
     "geom:latitude":47.982098,
     "geom:longitude":13.081519,
@@ -23,17 +24,33 @@
     "sg:postcode":"5164",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837181,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cpLpaKFj18mrBUN3VgQKu_47.982098_13.081519@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899142,
-    "wof:geomhash":"dfbf4678072ac964dd4e6e580584c296",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7707090bef0a134e32aa2db8e0fe9efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837181,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092066001
+        }
+    ],
     "wof:id":1092066001,
-    "wof:lastmodified":1473984437,
+    "wof:lastmodified":1496895655,
     "wof:name":"Gasthaus Grabensee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

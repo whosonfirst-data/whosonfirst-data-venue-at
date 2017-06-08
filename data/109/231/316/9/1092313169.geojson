@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0791053772,47.9796791077,14.0791053772,47.9796791077",
     "geom:latitude":47.979679,
     "geom:longitude":14.079105,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"seat-egger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835513,
+        85632785,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kCIlSzN7jMDdLk8dmrkN8_47.979679_14.079105@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910508,
-    "wof:geomhash":"635f9aa7cc56f052594d52e93e92e6f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"585cb3f06c5953a5d205312467a33d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835513,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092313169
+        }
+    ],
     "wof:id":1092313169,
-    "wof:lastmodified":1473984147,
+    "wof:lastmodified":1496886940,
     "wof:name":"Autohaus SEAT Egger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

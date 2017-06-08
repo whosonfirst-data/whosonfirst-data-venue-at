@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2310342789,47.2461929321,12.2310342789,47.2461929321",
     "geom:latitude":47.246193,
     "geom:longitude":12.231034,
@@ -28,17 +29,33 @@
     "sg:postcode":"5742",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837223,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aKt3kOQpRifNMnD8nA5ja_47.246193_12.231034@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898402,
-    "wof:geomhash":"1088ffd514980afdf5d6578de15d32ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d976becbe0373609d012d3b8541ae3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837223,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092047143
+        }
+    ],
     "wof:id":1092047143,
-    "wof:lastmodified":1473984046,
+    "wof:lastmodified":1496896117,
     "wof:name":"Hotel Jagdschlo\u00df Graf Recke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

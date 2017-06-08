@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2574748993,46.9887123108,16.2574748993,46.9887123108",
     "geom:latitude":46.988712,
     "geom:longitude":16.257475,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838739,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LKRJHiQqhhvCcqUxb9LAQ_46.988712_16.257475@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897051,
-    "wof:geomhash":"dd80906b90a3b3a4d58ff0d443182923",
-    "wof:hierarchy":[],
+    "wof:geomhash":"204b362f9c655b69625c3c8abd38f70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838739,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092012675
+        }
+    ],
     "wof:id":1092012675,
-    "wof:lastmodified":1473983422,
+    "wof:lastmodified":1496909198,
     "wof:name":"Herbert Aufner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

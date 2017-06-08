@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1498346329,48.1047477722,13.1498346329,48.1047477722",
     "geom:latitude":48.104748,
     "geom:longitude":13.149835,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834753,
+        85632785,
+        101833217,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33ioopjTdQAQJF4padI4aI_48.104748_13.149835@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908406,
-    "wof:geomhash":"79ff86ce5afc9663ba12da4056b35c43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd9f8252f3c8d35a5149cc6f158e59e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834753,
+            "locality_id":101833217,
+            "region_id":85681677,
+            "venue_id":1092265519
+        }
+    ],
     "wof:id":1092265519,
-    "wof:lastmodified":1473984468,
+    "wof:lastmodified":1496882485,
     "wof:name":"Fritz Haas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

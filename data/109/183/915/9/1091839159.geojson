@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9085187912,46.6230583191,13.9085187912,46.6230583191",
     "geom:latitude":46.623058,
     "geom:longitude":13.908519,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        101748057,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Sbw30nkBK7dJfWCSHXuzz_46.623058_13.908519@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889234,
-    "wof:geomhash":"91e4038246d2d3d378d54ce1d2880f2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d46fccd77c8650cc991698f2b33a4eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":101748057,
+            "region_id":85681655,
+            "venue_id":1091839159
+        }
+    ],
     "wof:id":1091839159,
-    "wof:lastmodified":1473985251,
+    "wof:lastmodified":1496906116,
     "wof:name":"Karl Gautsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

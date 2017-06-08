@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.338637352,46.6143989563,14.338637352,46.6143989563",
     "geom:latitude":46.614399,
     "geom:longitude":14.338637,
@@ -35,10 +36,13 @@
     "sg:website":"bccomponents.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908488,
-    "wof:geomhash":"3225e039a2dced593d74a2ce1fb8a47a",
+    "wof:geomhash":"9a776d753a4f5093ac4bc34dfa0505cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092267377
         }
     ],
     "wof:id":1092267377,
-    "wof:lastmodified":1473984760,
+    "wof:lastmodified":1496905607,
     "wof:name":"BCcomponents Austria GmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

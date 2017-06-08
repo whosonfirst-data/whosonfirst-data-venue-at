@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7211780548,47.153427124,11.7211780548,47.153427124",
     "geom:latitude":47.153427,
     "geom:longitude":11.721178,
@@ -23,17 +24,33 @@
     "sg:postcode":"6293",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837707,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BYMvgQhW6K9BI8hzOseNr_47.153427_11.721178@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913169,
-    "wof:geomhash":"c482a0d88c66d50a5bb6b139432663fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"034deaa32d18159068f075efb5244a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837707,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092373441
+        }
+    ],
     "wof:id":1092373441,
-    "wof:lastmodified":1473984209,
+    "wof:lastmodified":1496899671,
     "wof:name":"Reuttenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

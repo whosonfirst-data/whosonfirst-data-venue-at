@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2355985641,46.7133674622,15.2355985641,46.7133674622",
     "geom:latitude":46.713367,
     "geom:longitude":15.235599,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"members.aon.at/krasser.elektro",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839271,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32vWY3WKC6GwTzViI9qlWH_46.713367_15.235599@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908864,
-    "wof:geomhash":"ebffbe7341cfa37fb47441fa7d85150d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d190f7eadaede70e5a7823b921825d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839271,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092276201
+        }
+    ],
     "wof:id":1092276201,
-    "wof:lastmodified":1473984936,
+    "wof:lastmodified":1496912410,
     "wof:name":"Elektrotechnik Rudolf Krasser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

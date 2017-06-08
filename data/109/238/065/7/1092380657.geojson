@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0758495331,47.8232917786,13.0758495331,47.8232917786",
     "geom:latitude":47.823292,
     "geom:longitude":13.07585,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913476,
-    "wof:geomhash":"25bc7b59f372e5390e26cad6d4740836",
+    "wof:geomhash":"e6e560f7c379079dc466adc3cb99add6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092380657
         }
     ],
     "wof:id":1092380657,
-    "wof:lastmodified":1473983425,
+    "wof:lastmodified":1496894702,
     "wof:name":"Physiotherapiepraxis Josef Obradovits & Bruno Porenta OEG",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

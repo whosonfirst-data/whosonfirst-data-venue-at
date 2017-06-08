@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9193725586,48.229598999,13.9193725586,48.229598999",
     "geom:latitude":48.229599,
     "geom:longitude":13.919373,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835169,
+        85632785,
+        101833237,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kpKscAf2PT8KIhMr0tIHm_48.229599_13.919373@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913624,
-    "wof:geomhash":"29169ed70e991e6e584f5121c40b491d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b37e1ea4820047b79699b23c5caca8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835169,
+            "locality_id":101833237,
+            "region_id":85681677,
+            "venue_id":1092383673
+        }
+    ],
     "wof:id":1092383673,
-    "wof:lastmodified":1473984186,
+    "wof:lastmodified":1496885250,
     "wof:name":"Pizzeria Maximilian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

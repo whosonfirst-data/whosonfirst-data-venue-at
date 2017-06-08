@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7400770187,47.0868225098,15.7400770187,47.0868225098",
     "geom:latitude":47.086823,
     "geom:longitude":15.740077,
@@ -23,17 +24,33 @@
     "sg:postcode":"8200",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839369,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fvFmaINIwuc2eZOMI4e1k_47.086823_15.740077@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901194,
-    "wof:geomhash":"1e71f869fc00e2eecc7c1e96759584ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a4ffe99d0f38e0a647e20e035fc06be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839369,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092107927
+        }
+    ],
     "wof:id":1092107927,
-    "wof:lastmodified":1473984801,
+    "wof:lastmodified":1496913817,
     "wof:name":"Gemeindeamt Hofst\u00e4tten a d Raab - Altstoffsammelzentrum u Wirtschaftshof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

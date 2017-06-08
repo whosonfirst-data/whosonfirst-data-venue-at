@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2615299225,48.195022583,16.2615299225,48.195022583",
     "geom:latitude":48.195023,
     "geom:longitude":16.26153,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896074,
-    "wof:geomhash":"517e5193cd5a297f12cd06ecd5d39f8c",
+    "wof:geomhash":"7d315629e3adcc5acb3716083dbc72c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091989291
         }
     ],
     "wof:id":1091989291,
-    "wof:lastmodified":1473984592,
+    "wof:lastmodified":1496904860,
     "wof:name":"Frenslich Rudolf",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

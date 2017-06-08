@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7147836685,46.5485076904,13.7147836685,46.5485076904",
     "geom:latitude":46.548508,
     "geom:longitude":13.714784,
@@ -33,17 +34,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838323,
+        85632785,
+        101790107,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RMO5pvspSsGko3BMwN7uG_46.548508_13.714784@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897064,
-    "wof:geomhash":"3c6fb579bfb0d9e7b9f95a06b97ca63a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f283641874c1753bba99492f4803369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838323,
+            "locality_id":101790107,
+            "region_id":85681655,
+            "venue_id":1092012945
+        }
+    ],
     "wof:id":1092012945,
-    "wof:lastmodified":1473983510,
+    "wof:lastmodified":1496907303,
     "wof:name":"Wirnsberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2664604187,48.1516647339,16.2664604187,48.1516647339",
     "geom:latitude":48.151665,
     "geom:longitude":16.26646,
@@ -25,10 +26,13 @@
     "sg:website":"designimgriff.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890244,
-    "wof:geomhash":"c9c183505abb1b0ae57e0e96e149dbb6",
+    "wof:geomhash":"ad0009f69b287b914795c225690d0678",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1091860877
         }
     ],
     "wof:id":1091860877,
-    "wof:lastmodified":1473983538,
+    "wof:lastmodified":1496903046,
     "wof:name":"Design im Griff",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

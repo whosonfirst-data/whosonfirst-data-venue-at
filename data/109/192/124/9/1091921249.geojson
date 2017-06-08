@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4308586121,47.960609436,16.4308586121,47.960609436",
     "geom:latitude":47.960609,
     "geom:longitude":16.430859,
@@ -34,17 +35,34 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835383,
+        85632785,
+        101785703,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77LZJX1x1AAxZFZoV7dsLa_47.960609_16.430859@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893039,
-    "wof:geomhash":"8f6ab110ebc15dff23a03972adeb82cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e409a700ca6291eca65019b4712bfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835383,
+            "locality_id":101785703,
+            "region_id":85681671,
+            "venue_id":1091921249
+        }
+    ],
     "wof:id":1091921249,
-    "wof:lastmodified":1473983551,
+    "wof:lastmodified":1496886421,
     "wof:name":"Karl Kammerer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

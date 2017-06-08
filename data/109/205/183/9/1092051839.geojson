@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9259338379,47.2999954224,10.9259338379,47.2999954224",
     "geom:latitude":47.299995,
     "geom:longitude":10.925934,
@@ -28,17 +29,33 @@
     "sg:postcode":"6416",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837433,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JcRy1jcUvqBJmp3rL3P2o_47.299995_10.925934@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898580,
-    "wof:geomhash":"cba13dc913ce454d76383687c16f2a03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cb15a8ea80d57a01dd048820bc12da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837433,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092051839
+        }
+    ],
     "wof:id":1092051839,
-    "wof:lastmodified":1473983681,
+    "wof:lastmodified":1496897826,
     "wof:name":"Tyrolhotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8458023071,48.6071472168,13.8458023071,48.6071472168",
     "geom:latitude":48.607147,
     "geom:longitude":13.845802,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835965,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rqiIn8oR3XF4QjjLaaW7B_48.607147_13.845802@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889477,
-    "wof:geomhash":"7b79ded9ab53fa013cce4e6b726cea39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a2b3d5670c65667ed35bc514da59b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835965,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091845075
+        }
+    ],
     "wof:id":1091845075,
-    "wof:lastmodified":1473984248,
+    "wof:lastmodified":1496889103,
     "wof:name":"Neundlinger Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

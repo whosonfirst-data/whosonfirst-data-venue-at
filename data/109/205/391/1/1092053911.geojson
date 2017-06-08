@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5944051743,47.237197876,9.5944051743,47.237197876",
     "geom:latitude":47.237198,
     "geom:longitude":9.594405,
@@ -35,10 +36,13 @@
     "sg:website":"froewis.co.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898659,
-    "wof:geomhash":"86e700ea49dc9025393dcc88394e57c1",
+    "wof:geomhash":"0b83fe5f78795ab40109cd030ef50ff8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092053911
         }
     ],
     "wof:id":1092053911,
-    "wof:lastmodified":1473984083,
+    "wof:lastmodified":1496900937,
     "wof:name":"Fr\u00f6wis KEG",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

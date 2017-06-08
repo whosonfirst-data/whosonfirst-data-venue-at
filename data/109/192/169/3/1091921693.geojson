@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3942117691,47.2534294128,11.3942117691,47.2534294128",
     "geom:latitude":47.253429,
     "geom:longitude":11.394212,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893058,
-    "wof:geomhash":"e776a6cb6378999db945ca4c766a15ba",
+    "wof:geomhash":"a0757a1959d1adac8dc70d5c7734316e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091921693
         }
     ],
     "wof:id":1091921693,
-    "wof:lastmodified":1473983644,
+    "wof:lastmodified":1496899369,
     "wof:name":"Gebr\u00fcder Weiss GmbH - Transport u Logistik",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

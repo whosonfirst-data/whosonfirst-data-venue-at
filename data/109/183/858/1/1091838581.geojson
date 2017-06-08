@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7533979416,48.1529960632,15.7533979416,48.1529960632",
     "geom:latitude":48.152996,
     "geom:longitude":15.753398,
@@ -32,17 +33,33 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834975,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JoqSCaiPEtUqrbxCaFRLP_48.152996_15.753398@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889211,
-    "wof:geomhash":"9203b0ebcf9844b8b6f146da55455579",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d1ae44be07d668c1712b2dbcfeb7acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834975,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091838581
+        }
+    ],
     "wof:id":1091838581,
-    "wof:lastmodified":1473985098,
+    "wof:lastmodified":1496883827,
     "wof:name":"Edwin Hochgerner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

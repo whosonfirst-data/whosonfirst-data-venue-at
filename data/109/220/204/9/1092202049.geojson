@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0499725342,48.159828186,14.0499725342,48.159828186",
     "geom:latitude":48.159828,
     "geom:longitude":14.049973,
@@ -32,17 +33,34 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bij2H0CWg7Dj45kzA9f64_48.159828_14.049973@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905578,
-    "wof:geomhash":"18f04eb8569d024e3d6c8f5e072ba815",
-    "wof:hierarchy":[],
+    "wof:geomhash":"914887a6bcdc4bf22724a543e400ddbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092202049
+        }
+    ],
     "wof:id":1092202049,
-    "wof:lastmodified":1473983838,
+    "wof:lastmodified":1496882023,
     "wof:name":"FULLER HB AUSTRIA GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

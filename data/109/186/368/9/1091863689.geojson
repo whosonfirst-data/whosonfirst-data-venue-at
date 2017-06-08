@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8049173355,46.9542999268,14.8049173355,46.9542999268",
     "geom:latitude":46.9543,
     "geom:longitude":14.804917,
@@ -23,17 +24,34 @@
     "sg:postcode":"9462",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838393,
+        85632785,
+        101788971,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wWVJc3ompXSY3hQojNszI_46.954300_14.804917@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890375,
-    "wof:geomhash":"459717092d740dc3e226d94a73a67f8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd053c3b4e43ae6c37929801a3d007b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838393,
+            "locality_id":101788971,
+            "region_id":85681655,
+            "venue_id":1091863689
+        }
+    ],
     "wof:id":1091863689,
-    "wof:lastmodified":1473984225,
+    "wof:lastmodified":1496907772,
     "wof:name":"KBB/MEISSL Oberfl\u00e4chentechnik Produktions GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

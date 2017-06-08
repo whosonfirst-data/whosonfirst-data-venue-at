@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8765201569,48.3853187561,13.8765201569,48.3853187561",
     "geom:latitude":48.385319,
     "geom:longitude":13.87652,
@@ -33,17 +34,33 @@
         "enterprise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835219,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07YRbonZVfTtmecYnpNeVq_48.385319_13.876520@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473908966,
-    "wof:geomhash":"e8adcb61d4c3d55263db8fb6cc7b3101",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d943f9e4b5e841da600cf27e4c27c2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835219,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092278595
+        }
+    ],
     "wof:id":1092278595,
-    "wof:lastmodified":1473985282,
+    "wof:lastmodified":1496885494,
     "wof:name":"Ing. Klaus Sandberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

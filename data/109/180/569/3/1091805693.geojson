@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0743284225,47.8241691589,13.0743284225,47.8241691589",
     "geom:latitude":47.824169,
     "geom:longitude":13.074328,
@@ -25,10 +26,12 @@
     "sg:website":"www.kierner.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887686,
-    "wof:geomhash":"d7cf0887c0947bee58112ebd149b170b",
+    "wof:geomhash":"ff87313e6c5e4422481481dd4d3684ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1091805693
         }
     ],
     "wof:id":1091805693,
-    "wof:lastmodified":1473983555,
+    "wof:lastmodified":1496894632,
     "wof:name":"Kierner GesmbH",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

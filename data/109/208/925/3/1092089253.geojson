@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3672943115,48.1096572876,16.3672943115,48.1096572876",
     "geom:latitude":48.109657,
     "geom:longitude":16.367294,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900197,
-    "wof:geomhash":"8a476d1ae101a538ca85ddd1c90d6495",
+    "wof:geomhash":"fd55e31a6dabd6115ee51bb3836b7504",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092089253
         }
     ],
     "wof:id":1092089253,
-    "wof:lastmodified":1473985193,
+    "wof:lastmodified":1496888734,
     "wof:name":"Gemeindeamt Hennersdorf",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

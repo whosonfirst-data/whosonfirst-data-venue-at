@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2893781662,47.7922096252,13.2893781662,47.7922096252",
     "geom:latitude":47.79221,
     "geom:longitude":13.289378,
@@ -28,17 +29,33 @@
     "sg:postcode":"5330",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61TK6vBHzeupTpfo316d2s_47.792210_13.289378@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896416,
-    "wof:geomhash":"b76f3823f13445d9e9c3ecee3f017c05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf7556057e2c459575ed80063c28a8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091997195
+        }
+    ],
     "wof:id":1091997195,
-    "wof:lastmodified":1473984807,
+    "wof:lastmodified":1496895361,
     "wof:name":"communicationLevel Digitale Internetagentur Salzburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

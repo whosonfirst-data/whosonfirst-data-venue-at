@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3434791565,48.3411140442,16.3434791565,48.3411140442",
     "geom:latitude":48.341114,
     "geom:longitude":16.343479,
@@ -31,17 +32,34 @@
         "electricity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EEaHhCwsAbdqRzx4Q7eD6_48.341114_16.343479@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908485,
-    "wof:geomhash":"7bb7779780189c402a957aff64c58b5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e957f630d332cb9462d75a2910434c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1092267311
+        }
+    ],
     "wof:id":1092267311,
-    "wof:lastmodified":1473984740,
+    "wof:lastmodified":1496893445,
     "wof:name":"VERBUND AUSTRIAN HYDRO POWER AG KRAFTWERK KORNEUBURG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

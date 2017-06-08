@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7125492096,47.4879608154,10.7125492096,47.4879608154",
     "geom:latitude":47.487961,
     "geom:longitude":10.712549,
@@ -32,17 +33,34 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837751,
+        85632785,
+        101834257,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17ERNtprD3ZmaH0GzdhC60_47.487961_10.712549@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914575,
-    "wof:geomhash":"921e163ad65149f5ec4acdcad7b3fd75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d60512f26012e2c6672a78f2ec943a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837751,
+            "locality_id":101834257,
+            "region_id":85681661,
+            "venue_id":1092403941
+        }
+    ],
     "wof:id":1092403941,
-    "wof:lastmodified":1473984080,
+    "wof:lastmodified":1496899898,
     "wof:name":"Textilwerke Reutte GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

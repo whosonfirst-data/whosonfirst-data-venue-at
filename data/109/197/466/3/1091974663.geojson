@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.398651123,48.1379051208,16.398651123,48.1379051208",
     "geom:latitude":48.137905,
     "geom:longitude":16.398651,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895438,
-    "wof:geomhash":"130cfb44bb36d25585e410ee94635af4",
+    "wof:geomhash":"b5b8c3878dd6e6425d0ec479b00aa30a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1091974663
         }
     ],
     "wof:id":1091974663,
-    "wof:lastmodified":1473984309,
+    "wof:lastmodified":1496904143,
     "wof:name":"POLYMAG-KUNSTSTOFFVERPACKUNG MANOSCHEK GES.MBH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

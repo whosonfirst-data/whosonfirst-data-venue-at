@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7527627945,47.5206489563,12.7527627945,47.5206489563",
     "geom:latitude":47.520649,
     "geom:longitude":12.752763,
@@ -23,17 +24,33 @@
     "sg:postcode":"5093",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837253,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DN5grgko5pFSXELp4C8FJ_47.520649_12.752763@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892449,
-    "wof:geomhash":"ef77ba01801d54eb3c471c21c2cca2a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aaa2bd701e04497cf02e72cd97bd697c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837253,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091907393
+        }
+    ],
     "wof:id":1091907393,
-    "wof:lastmodified":1473984817,
+    "wof:lastmodified":1496896413,
     "wof:name":"Ingolst\u00e4dter Haus - Berchtesgadner Alpen - P\u00e4chter Gruber Sylvia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

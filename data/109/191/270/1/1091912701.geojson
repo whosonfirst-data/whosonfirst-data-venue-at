@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4088077545,47.8099708557,16.4088077545,47.8099708557",
     "geom:latitude":47.809971,
     "geom:longitude":16.408808,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838589,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fewaX5VfH7tGJJ5FrB4tq_47.809971_16.408808@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892671,
-    "wof:geomhash":"ad31c6c6d54c4c98adaf164ed16d2c56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70511c150469dac6a1c8c491b7737765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838589,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091912701
+        }
+    ],
     "wof:id":1091912701,
-    "wof:lastmodified":1473983628,
+    "wof:lastmodified":1496908584,
     "wof:name":"Brodkorb Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

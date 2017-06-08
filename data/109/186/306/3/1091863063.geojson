@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4604206085,47.7864341736,16.4604206085,47.7864341736",
     "geom:latitude":47.786434,
     "geom:longitude":16.460421,
@@ -23,17 +24,33 @@
     "sg:postcode":"7024",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838711,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HPlWAx8Not0gbvsPbMbxx_47.786434_16.460421@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890345,
-    "wof:geomhash":"71af1a45a80b4872997fb8ee140e3b7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a0378f631956cdceeca0f84c0b706c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838711,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091863063
+        }
+    ],
     "wof:id":1091863063,
-    "wof:lastmodified":1473984059,
+    "wof:lastmodified":1496909155,
     "wof:name":"Betonwerk Hirm GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

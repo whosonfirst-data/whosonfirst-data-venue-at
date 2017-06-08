@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6088695526,48.6641807556,16.6088695526,48.6641807556",
     "geom:latitude":48.664181,
     "geom:longitude":16.60887,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835357,
+        85632785,
+        101782241,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17rgMeQetlbvXgVK47OVFA_48.664181_16.608870@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908444,
-    "wof:geomhash":"488c4ae39bcfce1d715959da60a2d347",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28ddc22a012cce1ad2a20da2a07b1e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108835357,
+            "locality_id":101782241,
+            "region_id":85681671,
+            "venue_id":1092266353
+        }
+    ],
     "wof:id":1092266353,
-    "wof:lastmodified":1473984555,
+    "wof:lastmodified":1496886221,
     "wof:name":"GEBAUER & GRILLER KABELWERKE GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

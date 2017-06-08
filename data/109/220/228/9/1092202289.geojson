@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6443777084,47.3508224487,9.6443777084,47.3508224487",
     "geom:latitude":47.350822,
     "geom:longitude":9.644378,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"aquafluidsystems.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zkc3o2CczR3EjTsXJe2c7_47.350822_9.644378@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905589,
-    "wof:geomhash":"0d13e0896243c5716b91ce11e801167f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52d70576d8f609ecb5e486a1c8e9b2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1092202289
+        }
+    ],
     "wof:id":1092202289,
-    "wof:lastmodified":1473983875,
+    "wof:lastmodified":1496900476,
     "wof:name":"Aqua Fluid Systems GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

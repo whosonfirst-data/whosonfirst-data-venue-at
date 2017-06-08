@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1673736572,47.3442192078,10.1673736572,47.3442192078",
     "geom:latitude":47.344219,
     "geom:longitude":10.167374,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101828569,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G8eXW96IZHtq91YWwRXjt_47.344219_10.167374@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913543,
-    "wof:geomhash":"b40136904821696f381712bb7ad486bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8eae2d5b953b8bfe61cdbfc29bdd8b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101828569,
+            "region_id":85681649,
+            "venue_id":1092382309
+        }
+    ],
     "wof:id":1092382309,
-    "wof:lastmodified":1473983902,
+    "wof:lastmodified":1496901535,
     "wof:name":"Galerie Cafe-Restaurant Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

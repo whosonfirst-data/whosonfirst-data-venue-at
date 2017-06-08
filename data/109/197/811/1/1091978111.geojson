@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0672922134,47.7725105286,13.0672922134,47.7725105286",
     "geom:latitude":47.772511,
     "geom:longitude":13.067292,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895586,
-    "wof:geomhash":"d64543c90b407d026ff86bbc99de1f99",
+    "wof:geomhash":"bacd81f2a2597f5a575f682f2fbc297c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091978111
         }
     ],
     "wof:id":1091978111,
-    "wof:lastmodified":1473984980,
+    "wof:lastmodified":1496922919,
     "wof:name":"Roidmayr Immobilientreuhand",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

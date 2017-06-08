@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2056159973,47.2994384766,16.2056159973,47.2994384766",
     "geom:latitude":47.299438,
     "geom:longitude":16.205616,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838461,
+        85632785,
+        101787889,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jwLE08gy99knU3sK5mWhu_47.299438_16.205616@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898624,
-    "wof:geomhash":"dfc35ee97b495c8b5ee2c5067f2d84aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70d45c4335710a190a02875e49fa16ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838461,
+            "locality_id":101787889,
+            "region_id":85681651,
+            "venue_id":1092052933
+        }
+    ],
     "wof:id":1092052933,
-    "wof:lastmodified":1473983857,
+    "wof:lastmodified":1496908031,
     "wof:name":"SCHLOFFER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

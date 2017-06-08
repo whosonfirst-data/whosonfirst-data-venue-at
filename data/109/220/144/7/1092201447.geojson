@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4988994598,48.2515296936,16.4988994598,48.2515296936",
     "geom:latitude":48.25153,
     "geom:longitude":16.498899,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905535,
-    "wof:geomhash":"2eadc57257610b5579d312384ca891b0",
+    "wof:geomhash":"6c569aa5dfbe055e0b523467242423ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092201447
         }
     ],
     "wof:id":1092201447,
-    "wof:lastmodified":1473983703,
+    "wof:lastmodified":1496905031,
     "wof:name":"Gerhard Sonnleithner",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

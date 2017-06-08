@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3808727264,47.1701622009,11.3808727264,47.1701622009",
     "geom:latitude":47.170162,
     "geom:longitude":11.380873,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.netwing.at/business/serles/index.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837545,
+        85632785,
+        101844499,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CZFh6ZYjpc7bdXCJMq6Oq_47.170162_11.380873@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915505,
-    "wof:geomhash":"c9663bfb8865f7225edb9165348a695b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7611076f8e24c1bbca8a207b9bec29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837545,
+            "locality_id":101844499,
+            "region_id":85681661,
+            "venue_id":1092421263
+        }
+    ],
     "wof:id":1092421263,
-    "wof:lastmodified":1473983579,
+    "wof:lastmodified":1496898464,
     "wof:name":"Hotel Serles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

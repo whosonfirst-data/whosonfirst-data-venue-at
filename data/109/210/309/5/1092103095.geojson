@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4465389252,46.8662757874,15.4465389252,46.8662757874",
     "geom:latitude":46.866276,
     "geom:longitude":15.446539,
@@ -32,17 +33,33 @@
         "granite"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839055,
+        85632785,
+        102049699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58KTUIuzBv08Mz1YYM32nE_46.866276_15.446539@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900964,
-    "wof:geomhash":"bc93169745c8aaafb2faabc5107db0a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eeb9686ea896242f8d57e0bfde8e44c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839055,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092103095
+        }
+    ],
     "wof:id":1092103095,
-    "wof:lastmodified":1473983898,
+    "wof:lastmodified":1496911140,
     "wof:name":"Petrovic Fliesen-Plattenverlegung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

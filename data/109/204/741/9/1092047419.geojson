@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5648193359,46.987651825,10.5648193359,46.987651825",
     "geom:latitude":46.987652,
     "geom:longitude":10.564819,
@@ -28,17 +29,33 @@
     "sg:postcode":"6542",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837315,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pMbYI87UJmyRr6utgkPl2_46.987652_10.564819@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898413,
-    "wof:geomhash":"2d6a38dff75cfe3ab0b6f6004923f10b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a72bb6730115214277ed32971fcc48b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837315,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092047419
+        }
+    ],
     "wof:id":1092047419,
-    "wof:lastmodified":1473984105,
+    "wof:lastmodified":1496896839,
     "wof:name":"Hotel Lafairserhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

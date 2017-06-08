@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.476890564,47.5624694824,16.476890564,47.5624694824",
     "geom:latitude":47.562469,
     "geom:longitude":16.476891,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838649,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BaIJ95NsmyRLnGngJ36Ng_47.562469_16.476891@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908168,
-    "wof:geomhash":"a925a3e87c1425d32c05d60667b3c633",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a23bd2077f66101fa6e639251afcc012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838649,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092260237
+        }
+    ],
     "wof:id":1092260237,
-    "wof:lastmodified":1473983352,
+    "wof:lastmodified":1496909002,
     "wof:name":"TRUCK Transport u Handel GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

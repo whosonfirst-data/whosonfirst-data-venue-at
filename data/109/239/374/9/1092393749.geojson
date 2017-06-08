@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8239812851,47.4545402527,15.8239812851,47.4545402527",
     "geom:latitude":47.45454,
     "geom:longitude":15.823981,
@@ -23,17 +24,33 @@
     "sg:postcode":"8253",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839113,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SzMvNNziI4liDiMBI17MI_47.454540_15.823981@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914147,
-    "wof:geomhash":"fba36d62e7c5f825668572db6dad7550",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc25f0102f449c168cfb7d8b386a4355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839113,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092393749
+        }
+    ],
     "wof:id":1092393749,
-    "wof:lastmodified":1473983898,
+    "wof:lastmodified":1496911381,
     "wof:name":"Postamt 8253 Waldbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

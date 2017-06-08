@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.789270401,48.2344703674,13.789270401,48.2344703674",
     "geom:latitude":48.23447,
     "geom:longitude":13.78927,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835221,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jWx24bV5AvsEaNEFnLkrS_48.234470_13.789270@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914517,
-    "wof:geomhash":"433bfb42e6de049cb7e6217459959c1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f69f50e8540283cc12cd7ff536444f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835221,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092402489
+        }
+    ],
     "wof:id":1092402489,
-    "wof:lastmodified":1473983837,
+    "wof:lastmodified":1496885497,
     "wof:name":"Beziehungsmanagement Austria KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

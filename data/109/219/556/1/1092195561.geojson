@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3975667953,48.0507926941,14.3975667953,48.0507926941",
     "geom:latitude":48.050793,
     "geom:longitude":14.397567,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"riegler-metall.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74mErZ1SVD8iI6sbDJuHWg_48.050793_14.397567@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905263,
-    "wof:geomhash":"288d4f2a429fc734d3247630e662fa90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16cea37c1e6ead9fc01a094a865e5bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1092195561
+        }
+    ],
     "wof:id":1092195561,
-    "wof:lastmodified":1473984531,
+    "wof:lastmodified":1496881724,
     "wof:name":"Riegler Metallbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

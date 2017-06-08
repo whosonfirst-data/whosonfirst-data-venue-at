@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6386470795,47.2715377808,9.6386470795,47.2715377808",
     "geom:latitude":47.271538,
     "geom:longitude":9.638647,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889109,
-    "wof:geomhash":"4cba6b3eb7510d87b38f3746bbcdd72f",
+    "wof:geomhash":"4b7b6b456da8cdf88277baa4eeb1dac4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091836671
         }
     ],
     "wof:id":1091836671,
-    "wof:lastmodified":1473984614,
+    "wof:lastmodified":1496901631,
     "wof:name":"Bar-Bistro-Gw\u00f6lb H\u00f6rnlingen",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

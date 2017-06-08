@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3963098526,47.2568397522,11.3963098526,47.2568397522",
     "geom:latitude":47.25684,
     "geom:longitude":11.39631,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895078,
-    "wof:geomhash":"014d1842e047b3de356b84efc11c7754",
+    "wof:geomhash":"962126ba25c67f962a8beb2ae42d4b4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091966097
         }
     ],
     "wof:id":1091966097,
-    "wof:lastmodified":1473984282,
+    "wof:lastmodified":1496926007,
     "wof:name":"Restaurant Nudelkuchl/Skybar im Cineplex",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

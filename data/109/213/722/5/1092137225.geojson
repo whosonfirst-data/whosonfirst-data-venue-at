@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4229736328,48.2972488403,16.4229736328,48.2972488403",
     "geom:latitude":48.297249,
     "geom:longitude":16.422974,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902606,
-    "wof:geomhash":"d007437a1e1ae4bcb0300fa8333fabd0",
+    "wof:geomhash":"dcc14610321be36c393d97f5b4bdea83",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092137225
         }
     ],
     "wof:id":1092137225,
-    "wof:lastmodified":1473984788,
+    "wof:lastmodified":1496927790,
     "wof:name":"Richter Erich und Maria GesmbH",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

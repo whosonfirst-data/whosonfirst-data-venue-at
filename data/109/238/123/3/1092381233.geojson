@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3758935928,47.2589454651,11.3758935928,47.2589454651",
     "geom:latitude":47.258945,
     "geom:longitude":11.375894,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913499,
-    "wof:geomhash":"ca7044950fbfa95a0e906ab266c81f93",
+    "wof:geomhash":"3899af22d65e9e04cab515012676f950",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092381233
         }
     ],
     "wof:id":1092381233,
-    "wof:lastmodified":1473983622,
+    "wof:lastmodified":1496899554,
     "wof:name":"Sportmed Physiotherapie Claudia Gheri",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.128194809,47.6533088684,16.128194809,47.6533088684",
     "geom:latitude":47.653309,
     "geom:longitude":16.128195,
@@ -22,17 +23,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.x11x.de/gratschberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835279,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bRtOCz5BA3I9ks6pVJird_47.653309_16.128195@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473887841,
-    "wof:geomhash":"5bd38a785d85d50deed089fa5c332532",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56f79af494b53c4beede142f200c65e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835279,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091808395
+        }
+    ],
     "wof:id":1091808395,
-    "wof:lastmodified":1473984208,
+    "wof:lastmodified":1496885793,
     "wof:name":"Ferien auf dem Bauernhof \u00b4Gratschberg Hof\u00b4 Rauris - W\u00f6rth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

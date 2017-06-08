@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9614667892,48.1976623535,13.9614667892,48.1976623535",
     "geom:latitude":48.197662,
     "geom:longitude":13.961467,
@@ -32,17 +33,33 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836557,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QJY9TnTlSXF7DR8iEZCYS_48.197662_13.961467@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905241,
-    "wof:geomhash":"7ab5470f5be165f7426d696b91fda04d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"168fb18a57f1eb89d0830701d34fdf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836557,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092195003
+        }
+    ],
     "wof:id":1092195003,
-    "wof:lastmodified":1473984516,
+    "wof:lastmodified":1496891618,
     "wof:name":"Erich Pucher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

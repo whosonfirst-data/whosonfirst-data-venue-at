@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6282243729,47.2722587585,9.6282243729,47.2722587585",
     "geom:latitude":47.272259,
     "geom:longitude":9.628224,
@@ -33,10 +34,12 @@
     "sg:website":"www.yogahus.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901159,
-    "wof:geomhash":"4cc77599d415af9eee5ef5d386099029",
+    "wof:geomhash":"7c7a90fc47386cf7a74c1cf3edff891c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092107109
         }
     ],
     "wof:id":1092107109,
-    "wof:lastmodified":1473984695,
+    "wof:lastmodified":1496901634,
     "wof:name":"YOGA HUS",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

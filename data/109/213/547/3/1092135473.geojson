@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0816059113,47.8627738953,13.0816059113,47.8627738953",
     "geom:latitude":47.862774,
     "geom:longitude":13.081606,
@@ -25,10 +26,12 @@
     "sg:website":"weinservice.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902527,
-    "wof:geomhash":"12e32f44e02161171efe6da8b6024cc5",
+    "wof:geomhash":"5032c6a434f66925555f9b4888cdffc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092135473
         }
     ],
     "wof:id":1092135473,
-    "wof:lastmodified":1473984339,
+    "wof:lastmodified":1496895383,
     "wof:name":"Weinservice Oberreiter",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

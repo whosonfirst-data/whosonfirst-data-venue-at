@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5885648727,47.1243247986,15.5885648727,47.1243247986",
     "geom:latitude":47.124325,
     "geom:longitude":15.588565,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"neubauer-aquapoint.at; neubauer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839209,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kX0R20YWOFagYouN2Ej2b_47.124325_15.588565@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896175,
-    "wof:geomhash":"282aca828ae35a7e8c5f21d61a8713d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3de21b9c7d031c1ab532699d3c4d5fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839209,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091991401
+        }
+    ],
     "wof:id":1091991401,
-    "wof:lastmodified":1473983526,
+    "wof:lastmodified":1496911965,
     "wof:name":"Neubauer Ihr Installateur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

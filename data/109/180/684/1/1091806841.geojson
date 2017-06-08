@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8661670685,47.2039108276,11.8661670685,47.2039108276",
     "geom:latitude":47.203911,
     "geom:longitude":11.866167,
@@ -22,17 +23,34 @@
     "sg:postcode":"6283",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837825,
+        85632785,
+        101844523,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AM45Kbt1PoqPjPckRDWl2_47.203911_11.866167@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473887754,
-    "wof:geomhash":"9982685d992513dae4b1beefd1566fcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9844eb145ca5d063e72731a85f6d39cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837825,
+            "locality_id":101844523,
+            "region_id":85681661,
+            "venue_id":1091806841
+        }
+    ],
     "wof:id":1091806841,
-    "wof:lastmodified":1473983851,
+    "wof:lastmodified":1496900190,
     "wof:name":"Greizer H\u00fctte - Zillertaler Alpen - P\u00e4chter Schneeberger Herbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

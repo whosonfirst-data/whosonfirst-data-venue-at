@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3609018326,46.6046600342,14.3609018326,46.6046600342",
     "geom:latitude":46.60466,
     "geom:longitude":14.360902,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898915,
-    "wof:geomhash":"57a29e091636e4f03ba08aa3620228e9",
+    "wof:geomhash":"4a22530128ee16f9a685ca7084d3c24b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092060375
         }
     ],
     "wof:id":1092060375,
-    "wof:lastmodified":1473983450,
+    "wof:lastmodified":1496906632,
     "wof:name":"Klaus Kienzl",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

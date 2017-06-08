@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6266822815,48.6636276245,16.6266822815,48.6636276245",
     "geom:latitude":48.663628,
     "geom:longitude":16.626682,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835357,
+        85632785,
+        101782241,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xXZyL1HI6pzHTIvgRe3Ha_48.663628_16.626682@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892798,
-    "wof:geomhash":"6ee624412668e94fb1f77f9fc976176b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8675b598eede5f644fc124624b083e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108835357,
+            "locality_id":101782241,
+            "region_id":85681671,
+            "venue_id":1091915205
+        }
+    ],
     "wof:id":1091915205,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496886232,
     "wof:name":"RDS EDV-Dienstleistungs GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2157583237,46.623260498,14.2157583237,46.623260498",
     "geom:latitude":46.62326,
     "geom:longitude":14.215758,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912952,
-    "wof:geomhash":"97d7cad5b066f3db98946d8216d4c1b0",
+    "wof:geomhash":"1f894ebe7f2128bd278a3257d9181f37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092368821
         }
     ],
     "wof:id":1092368821,
-    "wof:lastmodified":1473985210,
+    "wof:lastmodified":1496906390,
     "wof:name":"Leitner Walter",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

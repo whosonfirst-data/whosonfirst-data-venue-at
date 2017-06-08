@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3656387329,48.2618331909,16.3656387329,48.2618331909",
     "geom:latitude":48.261833,
     "geom:longitude":16.365639,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912025,
-    "wof:geomhash":"093041145aa86658bc41616afc5c3891",
+    "wof:geomhash":"4b47f7b90c9bc027e97f00eff811a46e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092348993
         }
     ],
     "wof:id":1092348993,
-    "wof:lastmodified":1473985009,
+    "wof:lastmodified":1496903158,
     "wof:name":"Lehar-Schikaneder-Schl\u00f6ssl",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5613622665,48.1538581848,13.5613622665,48.1538581848",
     "geom:latitude":48.153858,
     "geom:longitude":13.561362,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"epr.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835633,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HpaCKqTy4mNpDNfTUjBKv_48.153858_13.561362@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908404,
-    "wof:geomhash":"c36e4405ebf458b04b3308d20f72e27b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0a86503698f6d19290019f4506ffa1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835633,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092265451
+        }
+    ],
     "wof:id":1092265451,
-    "wof:lastmodified":1473984482,
+    "wof:lastmodified":1496887756,
     "wof:name":"EPR Elektro Pumberger Rudolf KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

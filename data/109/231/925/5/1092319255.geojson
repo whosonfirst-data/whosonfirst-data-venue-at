@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0577764511,47.7707595825,13.0577764511,47.7707595825",
     "geom:latitude":47.77076,
     "geom:longitude":13.057776,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910765,
-    "wof:geomhash":"056741819150e20ecb6b081496896543",
+    "wof:geomhash":"dd28a1041734a098b638322773b594e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1092319255
         }
     ],
     "wof:id":1092319255,
-    "wof:lastmodified":1473985327,
+    "wof:lastmodified":1496894802,
     "wof:name":"Lamprecht Karl",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

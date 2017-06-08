@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9224071503,48.0033569336,13.9224071503,48.0033569336",
     "geom:latitude":48.003357,
     "geom:longitude":13.922407,
@@ -32,17 +33,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        101785621,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uOGewEBF9aJfwa5eGayxw_48.003357_13.922407@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908428,
-    "wof:geomhash":"d0c45312738bc1df4b743b24ba0d6318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb5e34ffda34d8b0095ea9263a912318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":101785621,
+            "region_id":85681677,
+            "venue_id":1092266053
+        }
+    ],
     "wof:id":1092266053,
-    "wof:lastmodified":1473984508,
+    "wof:lastmodified":1496885231,
     "wof:name":"Johann Erl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

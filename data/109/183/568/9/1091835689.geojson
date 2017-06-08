@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4626998901,47.385269165,13.4626998901,47.385269165",
     "geom:latitude":47.385269,
     "geom:longitude":13.4627,
@@ -23,17 +24,34 @@
     "sg:postcode":"5550",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837025,
+        85632785,
+        101844511,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lG3EYQEryVMiOnAKgPRmp_47.385269_13.462700@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889065,
-    "wof:geomhash":"5932013481962cef694e003a61d3c75c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26832907e1bebe6fa4aa22849469b26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837025,
+            "locality_id":101844511,
+            "region_id":85681681,
+            "venue_id":1091835689
+        }
+    ],
     "wof:id":1091835689,
-    "wof:lastmodified":1473984416,
+    "wof:lastmodified":1496893991,
     "wof:name":"Bankomat d Salzburger Sparkasse Bank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6406440735,47.3538780212,9.6406440735,47.3538780212",
     "geom:latitude":47.353878,
     "geom:longitude":9.640644,
@@ -23,17 +24,34 @@
     "sg:postcode":"6844",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PzUqSl8EtyqxZx00g8UIk_47.353878_9.640644@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889527,
-    "wof:geomhash":"c16d702f782fb974b2be9e5f664006e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbdade3a0b63cabcb718fbff6b805bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1091846287
+        }
+    ],
     "wof:id":1091846287,
-    "wof:lastmodified":1473984415,
+    "wof:lastmodified":1496900477,
     "wof:name":"Knauder GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

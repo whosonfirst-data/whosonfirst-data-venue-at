@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0192432404,47.8730125427,13.0192432404,47.8730125427",
     "geom:latitude":47.873013,
     "geom:longitude":13.019243,
@@ -23,17 +24,33 @@
     "sg:postcode":"5102",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837113,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bXATfic2N1iw2QZEpXkKv_47.873013_13.019243@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909153,
-    "wof:geomhash":"f465c62485746f6a29b91dd10dd0422a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfe1c07ef1a3f231a66a35de28a971c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837113,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092282801
+        }
+    ],
     "wof:id":1092282801,
-    "wof:lastmodified":1473983819,
+    "wof:lastmodified":1496895190,
     "wof:name":"GHG Gschwandtner HandelsgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

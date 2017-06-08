@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6384000778,47.2677497864,9.6384000778,47.2677497864",
     "geom:latitude":47.26775,
     "geom:longitude":9.6384,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906829,
-    "wof:geomhash":"7e253aee092c6348c0edc48cc3e89263",
+    "wof:geomhash":"e76741e18454842e557a06698534fac2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092230219
         }
     ],
     "wof:id":1092230219,
-    "wof:lastmodified":1473983410,
+    "wof:lastmodified":1496901642,
     "wof:name":"Arnastar Tennis GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

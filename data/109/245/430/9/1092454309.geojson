@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4070711136,48.142906189,13.4070711136,48.142906189",
     "geom:latitude":48.142906,
     "geom:longitude":13.407071,
@@ -32,17 +33,33 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835653,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56iRI7PNx5PbRXj3sblm6x_48.142906_13.407071@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917023,
-    "wof:geomhash":"d49ece390b9da9aa53868a411fba0f16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a9ffe39d258a22104c89604c05a7875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835653,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092454309
+        }
+    ],
     "wof:id":1092454309,
-    "wof:lastmodified":1473983465,
+    "wof:lastmodified":1496887796,
     "wof:name":"Georg Litzlbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

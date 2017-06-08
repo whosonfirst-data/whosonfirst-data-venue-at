@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5033416748,48.2155723572,16.5033416748,48.2155723572",
     "geom:latitude":48.215572,
     "geom:longitude":16.503342,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901069,
-    "wof:geomhash":"fd4a016d7c0a5030d993e0ce38d590ce",
+    "wof:geomhash":"c23bbc3213aff9507d20dbf097e5de57",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092105177
         }
     ],
     "wof:id":1092105177,
-    "wof:lastmodified":1473984320,
+    "wof:lastmodified":1496928443,
     "wof:name":"Gartenbau Martin Kalch",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

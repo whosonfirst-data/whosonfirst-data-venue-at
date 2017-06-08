@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2002429962,47.3538169861,13.2002429962,47.3538169861",
     "geom:latitude":47.353817,
     "geom:longitude":13.200243,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"schartner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        101787869,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JAMxEldHAZVeUedOonQrC_47.353817_13.200243@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908797,
-    "wof:geomhash":"3840b75ce0602457789298f14e639989",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d970a93a3cfe3809f033fdfa62712e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":101787869,
+            "region_id":85681681,
+            "venue_id":1092274765
+        }
+    ],
     "wof:id":1092274765,
-    "wof:lastmodified":1473984513,
+    "wof:lastmodified":1496894072,
     "wof:name":"Schartner Elektro GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

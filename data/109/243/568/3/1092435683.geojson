@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3656845093,48.2605285645,16.3656845093,48.2605285645",
     "geom:latitude":48.260529,
     "geom:longitude":16.365685,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916167,
-    "wof:geomhash":"9bca60fd6fec3bf86074e2f1ffd2b2e8",
+    "wof:geomhash":"127f608ce398cbb0ddb3673d3bc924f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092435683
         }
     ],
     "wof:id":1092435683,
-    "wof:lastmodified":1473984595,
+    "wof:lastmodified":1496902090,
     "wof:name":"Robert's Lab",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

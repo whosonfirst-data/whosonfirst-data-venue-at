@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3812322617,47.2596664429,11.3812322617,47.2596664429",
     "geom:latitude":47.259666,
     "geom:longitude":11.381232,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896331,
-    "wof:geomhash":"d7aee7f1b866408730fdfb70302e9875",
+    "wof:geomhash":"4d9583c6ccd566ce3a313bfb9e6b6649",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1091995201
         }
     ],
     "wof:id":1091995201,
-    "wof:lastmodified":1473984310,
+    "wof:lastmodified":1496899455,
     "wof:name":"Institut f \u00f6ffentliches Recht - Finazrecht u Politik",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

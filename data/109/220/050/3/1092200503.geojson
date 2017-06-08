@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4842443466,47.292137146,11.4842443466,47.292137146",
     "geom:latitude":47.292137,
     "geom:longitude":11.484244,
@@ -34,17 +35,33 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837623,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yVTveuRlEFsVqwT2PlJkD_47.292137_11.484244@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905482,
-    "wof:geomhash":"2e982387f2d3d7422bf7e7326225088e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"076cba0171f50945d713912ae8efbf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837623,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092200503
+        }
+    ],
     "wof:id":1092200503,
-    "wof:lastmodified":1473983429,
+    "wof:lastmodified":1496898858,
     "wof:name":"Stefan Sch\u00f6llenberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

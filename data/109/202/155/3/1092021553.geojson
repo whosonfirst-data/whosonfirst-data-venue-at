@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6411066055,46.7863693237,12.6411066055,46.7863693237",
     "geom:latitude":46.786369,
     "geom:longitude":12.641107,
@@ -23,17 +24,33 @@
     "sg:postcode":"9911",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837489,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SXPlRsnDnB5lwd2zzJWfH_46.786369_12.641107@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897406,
-    "wof:geomhash":"95d3fd5459fe5ade4efb06a323589181",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce3f5393bb2f77d8951dc6002079f0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837489,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092021553
+        }
+    ],
     "wof:id":1092021553,
-    "wof:lastmodified":1473983618,
+    "wof:lastmodified":1496898087,
     "wof:name":"Kuenzer Hof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

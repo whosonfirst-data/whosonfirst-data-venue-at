@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0666561127,47.4933013916,12.0666561127,47.4933013916",
     "geom:latitude":47.493301,
     "geom:longitude":12.066656,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.augusta.co.at/business/augusta/index.htmlJochen Auer",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837405,
+        85632785,
+        101787953,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mLRLMylIZWREvzPxzcKBo_47.493301_12.066656@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915502,
-    "wof:geomhash":"5d0b374e46eb7e4ab6f5daef18258367",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ab28e245c759c2d7e77cd6e656865eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837405,
+            "locality_id":101787953,
+            "region_id":85681661,
+            "venue_id":1092421201
+        }
+    ],
     "wof:id":1092421201,
-    "wof:lastmodified":1473983561,
+    "wof:lastmodified":1496896646,
     "wof:name":"Augusta Vermoegensberatungs GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

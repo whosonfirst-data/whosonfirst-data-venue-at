@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8886737823,46.626625061,13.8886737823,46.626625061",
     "geom:latitude":46.626625,
     "geom:longitude":13.888674,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        101748057,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gKz8oZWrP8pyM3N5Glesf_46.626625_13.888674@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892734,
-    "wof:geomhash":"251d0ed0d2ec569d65b0c391951f3703",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dce177062bdea2742c10dfc46814848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":101748057,
+            "region_id":85681655,
+            "venue_id":1091913743
+        }
+    ],
     "wof:id":1091913743,
-    "wof:lastmodified":1473983767,
+    "wof:lastmodified":1496906167,
     "wof:name":"Gritschacher Stefan - Software-Entwicklung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

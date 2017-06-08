@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7686004639,46.7134399414,15.7686004639,46.7134399414",
     "geom:latitude":46.71344,
     "geom:longitude":15.7686,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839343,
+        85632785,
+        102049687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t8ypIU4T17VJ23vmDW9oZ_46.713440_15.768600@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895392,
-    "wof:geomhash":"c022ade5e0b56524b51e909f3146498b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54a9c75173edc4a6160bdddd23dc29b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049687,
+            "localadmin_id":1108839343,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091973533
+        }
+    ],
     "wof:id":1091973533,
-    "wof:lastmodified":1473984089,
+    "wof:lastmodified":1496913696,
     "wof:name":"ALOIS GREINER GESMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6259593964,47.5992050171,16.6259593964,47.5992050171",
     "geom:latitude":47.599205,
     "geom:longitude":16.625959,
@@ -32,17 +33,34 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838443,
+        85632785,
+        101786719,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mOCtNDLEyJ5fPtwblpv7G_47.599205_16.625959@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891167,
-    "wof:geomhash":"45c2fc65e8538f3312953a1a404cfc98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"227ed9eeda651ab5aa3e80bc04762ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838443,
+            "locality_id":101786719,
+            "region_id":85681651,
+            "venue_id":1091880679
+        }
+    ],
     "wof:id":1091880679,
-    "wof:lastmodified":1473983497,
+    "wof:lastmodified":1496907923,
     "wof:name":"PRUNNER BROT GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

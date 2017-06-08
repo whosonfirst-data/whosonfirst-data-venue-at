@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3370742798,47.5582237244,15.3370742798,47.5582237244",
     "geom:latitude":47.558224,
     "geom:longitude":15.337074,
@@ -23,17 +24,33 @@
     "sg:postcode":"8625",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839305,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s4AdBae85jtRldZNwykhl_47.558224_15.337074@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892973,
-    "wof:geomhash":"b8685d7306f8d4de546b0ff4018e6d4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"613bde5e7b11a8088570c2173c122e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839305,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091919575
+        }
+    ],
     "wof:id":1091919575,
-    "wof:lastmodified":1473984815,
+    "wof:lastmodified":1496912697,
     "wof:name":"Hilfswerk Steiermark GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

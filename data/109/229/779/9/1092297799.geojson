@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3018751144,47.6420021057,12.3018751144,47.6420021057",
     "geom:latitude":47.642002,
     "geom:longitude":12.301875,
@@ -23,17 +24,33 @@
     "sg:postcode":"6344",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837275,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S97umT4QhPXsRBq3CrRIX_47.642002_12.301875@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909784,
-    "wof:geomhash":"449134ba78048268ccf1a503e9a6b925",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cc234e2d9dc47671c40e56296fd0b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837275,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092297799
+        }
+    ],
     "wof:id":1092297799,
-    "wof:lastmodified":1473985110,
+    "wof:lastmodified":1496896603,
     "wof:name":"Schnapflhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

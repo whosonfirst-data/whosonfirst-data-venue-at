@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7876501083,47.9244308472,13.7876501083,47.9244308472",
     "geom:latitude":47.924431,
     "geom:longitude":13.78765,
@@ -29,17 +30,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.ewisc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835131,
+        85632785,
+        101833135,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xPfWtsYgiTXjJF3k5NfM9_47.924431_13.787650@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896424,
-    "wof:geomhash":"c6955653fb86ff8674fd68063cabae21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a9e79ac5be27347c94a8d52e3f9199c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835131,
+            "locality_id":101833135,
+            "region_id":85681677,
+            "venue_id":1091997381
+        }
+    ],
     "wof:id":1091997381,
-    "wof:lastmodified":1473984834,
+    "wof:lastmodified":1496884896,
     "wof:name":"European WebSite ISP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

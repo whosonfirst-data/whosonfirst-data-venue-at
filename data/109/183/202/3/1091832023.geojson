@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4882717133,48.2096443176,13.4882717133,48.2096443176",
     "geom:latitude":48.209644,
     "geom:longitude":13.488272,
@@ -23,17 +24,34 @@
     "sg:postcode":"4910",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FdqPnq0H96JAG2AxwKAiF_48.209644_13.488272@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888888,
-    "wof:geomhash":"9d2e4258239925b32725b4cf1c9d541c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb12ed012dfbe07736c46be8bdcf0cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1091832023
+        }
+    ],
     "wof:id":1091832023,
-    "wof:lastmodified":1473983692,
+    "wof:lastmodified":1496887879,
     "wof:name":"Bankomat d Oberbank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

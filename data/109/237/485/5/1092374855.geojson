@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3600215912,47.1695594788,11.3600215912,47.1695594788",
     "geom:latitude":47.169559,
     "geom:longitude":11.360022,
@@ -23,17 +24,33 @@
     "sg:postcode":"6165",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837619,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JUV5lPezuLN2v3SNVGsyT_47.169559_11.360022@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913230,
-    "wof:geomhash":"1e6aa28ce0b234ed2e84b49e5bf0e720",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cdcf5a3ee9c5f85ffaf3cf663c74468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837619,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092374855
+        }
+    ],
     "wof:id":1092374855,
-    "wof:lastmodified":1473984501,
+    "wof:lastmodified":1496898773,
     "wof:name":"Thalerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

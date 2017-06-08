@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.188832283,47.4767303467,13.188832283,47.4767303467",
     "geom:latitude":47.47673,
     "geom:longitude":13.188832,
@@ -28,17 +29,34 @@
     "sg:postcode":"5450",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837041,
+        85632785,
+        101844509,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00L4yREDORkuxKY78pukVK_47.476730_13.188832@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895161,
-    "wof:geomhash":"f3ef4fa975930332ebc9015dab72a2fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5aabb98b422ff2eeab483214ae0e32dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837041,
+            "locality_id":101844509,
+            "region_id":85681681,
+            "venue_id":1091968277
+        }
+    ],
     "wof:id":1091968277,
-    "wof:lastmodified":1473984626,
+    "wof:lastmodified":1496894181,
     "wof:name":"Zur Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

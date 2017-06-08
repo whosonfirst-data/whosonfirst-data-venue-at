@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6464357376,47.271697998,9.6464357376,47.271697998",
     "geom:latitude":47.271698,
     "geom:longitude":9.646436,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902374,
-    "wof:geomhash":"d67cdd5e761dd05ddedf67602aabbc31",
+    "wof:geomhash":"36391166a1a63af772b9ea5edfd7a7d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092132347
         }
     ],
     "wof:id":1092132347,
-    "wof:lastmodified":1473983830,
+    "wof:lastmodified":1496901633,
     "wof:name":"Weltladen",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6390638351,47.2714271545,9.6390638351,47.2714271545",
     "geom:latitude":47.271427,
     "geom:longitude":9.639064,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913403,
-    "wof:geomhash":"d1c23312864b1612c0693cbbfb6b3035",
+    "wof:geomhash":"06bc5186d6766adf64a5ccd87c6d71c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092378913
         }
     ],
     "wof:id":1092378913,
-    "wof:lastmodified":1473985284,
+    "wof:lastmodified":1496901653,
     "wof:name":"Antina van der Veen",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

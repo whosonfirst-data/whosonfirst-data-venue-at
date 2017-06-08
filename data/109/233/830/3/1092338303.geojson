@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6652288437,47.4301795959,9.6652288437,47.4301795959",
     "geom:latitude":47.43018,
     "geom:longitude":9.665229,
@@ -33,17 +34,34 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MS3pjXaAKxg1tvi7uUm4U_47.430180_9.665229@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911558,
-    "wof:geomhash":"7fc5010206f73fb620ad6672db2dae31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a396a762a44c98c51e4ea3cf06210be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1092338303
+        }
+    ],
     "wof:id":1092338303,
-    "wof:lastmodified":1473985246,
+    "wof:lastmodified":1496901409,
     "wof:name":"SCHWARZ MASCHINENBAU GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

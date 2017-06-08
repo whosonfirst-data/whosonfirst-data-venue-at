@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5043001175,47.0178718567,11.5043001175,47.0178718567",
     "geom:latitude":47.017872,
     "geom:longitude":11.5043,
@@ -23,17 +24,33 @@
     "sg:postcode":"6156",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837595,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cHlLa8iH4mdQKyFEfh3PW_47.017872_11.504300@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888398,
-    "wof:geomhash":"30aabd394e714b06c06a41b9054e7bd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f741dc09894f588f8cb03364fe9b4538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837595,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091821087
+        }
+    ],
     "wof:id":1091821087,
-    "wof:lastmodified":1473983620,
+    "wof:lastmodified":1496898637,
     "wof:name":"Bahnhof Brenner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

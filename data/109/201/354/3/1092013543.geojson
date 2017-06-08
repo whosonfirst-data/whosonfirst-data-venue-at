@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9588451385,46.8613243103,12.9588451385,46.8613243103",
     "geom:latitude":46.861324,
     "geom:longitude":12.958845,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838291,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35m4SM6i0StvvOGs45Aoen_46.861324_12.958845@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897087,
-    "wof:geomhash":"e2b4b2bfe7659a853e51ef5f5180438e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8371991f2190126191cc505bda40b570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838291,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092013543
+        }
+    ],
     "wof:id":1092013543,
-    "wof:lastmodified":1473983575,
+    "wof:lastmodified":1496907036,
     "wof:name":"Manfred Kerschbaumer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

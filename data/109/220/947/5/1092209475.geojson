@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7545795441,47.4089851379,9.7545795441,47.4089851379",
     "geom:latitude":47.408985,
     "geom:longitude":9.75458,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905939,
-    "wof:geomhash":"b535df992e3ff31ee7981f66530e9793",
+    "wof:geomhash":"c9689c6cf583d61aa212267f13306cd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092209475
         }
     ],
     "wof:id":1092209475,
-    "wof:lastmodified":1473985249,
+    "wof:lastmodified":1496900856,
     "wof:name":"Kiosk Oberdorf",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

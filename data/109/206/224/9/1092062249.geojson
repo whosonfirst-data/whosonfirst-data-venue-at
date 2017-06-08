@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.591758728,47.3766746521,12.591758728,47.3766746521",
     "geom:latitude":47.376675,
     "geom:longitude":12.591759,
@@ -23,17 +24,33 @@
     "sg:postcode":"5754",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Gd41Lr1eJpjK1Y26kJ5FL_47.376675_12.591759@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898992,
-    "wof:geomhash":"327a278c8eb85b13099bb1c83348daae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e4a3e90ab25e2dc933a0dea4ef5d59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092062249
+        }
+    ],
     "wof:id":1092062249,
-    "wof:lastmodified":1473983787,
+    "wof:lastmodified":1496896250,
     "wof:name":"Berggasthaus Winkler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

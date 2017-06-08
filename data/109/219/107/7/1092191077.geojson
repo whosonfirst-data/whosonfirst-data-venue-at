@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7417516708,48.1419410706,13.7417516708,48.1419410706",
     "geom:latitude":48.141941,
     "geom:longitude":13.741752,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835177,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z7F0bR6mQtStZWhZodtiG_48.141941_13.741752@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905072,
-    "wof:geomhash":"da9b697edb34cd20b954b5442a945a32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c61faa7ff817282df8a3ef55c6223380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835177,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092191077
+        }
+    ],
     "wof:id":1092191077,
-    "wof:lastmodified":1473983542,
+    "wof:lastmodified":1496885302,
     "wof:name":"GRUBER MASCHINEN GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

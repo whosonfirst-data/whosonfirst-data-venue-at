@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2692584991,48.1232643127,16.2692584991,48.1232643127",
     "geom:latitude":48.123264,
     "geom:longitude":16.269258,
@@ -25,10 +26,13 @@
     "sg:website":"www.hummelberger.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888197,
-    "wof:geomhash":"48c4e1a18a7f43a7044fa7392bb4cd44",
+    "wof:geomhash":"5def1f63718f7ba4ec788ad13bc97910",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091816491
         }
     ],
     "wof:id":1091816491,
-    "wof:lastmodified":1473984799,
+    "wof:lastmodified":1496885836,
     "wof:name":"Hummelberger Hans GesmbH Nfg KG",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

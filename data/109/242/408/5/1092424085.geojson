@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1972293854,47.6475524902,12.1972293854,47.6475524902",
     "geom:latitude":47.647552,
     "geom:longitude":12.197229,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"gronbach.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837411,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sMiBJemBbG5ZX2WYCQBKp_47.647552_12.197229@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915638,
-    "wof:geomhash":"e054145c1f8eca06e2a84d8db00e83da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b27f5926bc7deaade45403ea916128bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837411,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092424085
+        }
+    ],
     "wof:id":1092424085,
-    "wof:lastmodified":1473984126,
+    "wof:lastmodified":1496897766,
     "wof:name":"Wilhelm Gronbach GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

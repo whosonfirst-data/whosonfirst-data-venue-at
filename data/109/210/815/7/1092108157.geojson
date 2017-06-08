@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9506063461,47.5456695557,13.9506063461,47.5456695557",
     "geom:latitude":47.54567,
     "geom:longitude":13.950606,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"ave.at; entsorger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838931,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WRt9p12k2ANzeqZfJk7GS_47.545670_13.950606@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901205,
-    "wof:geomhash":"dc6204a38906b2bc9c98f0a66fcc77f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fbfee3332437bc078f5c09de18f0dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838931,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092108157
+        }
+    ],
     "wof:id":1092108157,
-    "wof:lastmodified":1473984874,
+    "wof:lastmodified":1496910308,
     "wof:name":"AVE Entsorgung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

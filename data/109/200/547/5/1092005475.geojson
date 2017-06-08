@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1595916748,47.6884231567,13.1595916748,47.6884231567",
     "geom:latitude":47.688423,
     "geom:longitude":13.159592,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"notfallplanung.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837083,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AL1lBM9fnvtlpXVrKOgRQ_47.688423_13.159592@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896758,
-    "wof:geomhash":"ee552f3b3a9f5a9e19a0dcaa3e2e2cb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01780fe94d2141c05a3e9908a1e24cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837083,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092005475
+        }
+    ],
     "wof:id":1092005475,
-    "wof:lastmodified":1473984423,
+    "wof:lastmodified":1496894886,
     "wof:name":"notfallplanung.at GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

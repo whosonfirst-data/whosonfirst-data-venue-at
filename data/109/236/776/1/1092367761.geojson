@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4451465607,47.386051178,13.4451465607,47.386051178",
     "geom:latitude":47.386051,
     "geom:longitude":13.445147,
@@ -23,17 +24,33 @@
     "sg:postcode":"5550",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837025,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ILE47Qz1Z0Nnxm6lgRAy3_47.386051_13.445147@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912890,
-    "wof:geomhash":"016a6296dc7ac8063e5c91613ddb5d39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c97f7c144909099189196e356c9d66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837025,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092367761
+        }
+    ],
     "wof:id":1092367761,
-    "wof:lastmodified":1473985091,
+    "wof:lastmodified":1496894004,
     "wof:name":"Jugendg\u00e4stehaus Wenghof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5140256882,48.3875007629,13.5140256882,48.3875007629",
     "geom:latitude":48.387501,
     "geom:longitude":13.514026,
@@ -23,17 +24,33 @@
     "sg:postcode":"4775",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836079,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XqKh4DSb8aZjF0paLhmLU_48.387501_13.514026@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889569,
-    "wof:geomhash":"ed812eb03a3f06b6734d1dd8def9fe41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abc5042edca5cc82d2d09900ba790c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836079,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091847115
+        }
+    ],
     "wof:id":1091847115,
-    "wof:lastmodified":1473984679,
+    "wof:lastmodified":1496889410,
     "wof:name":"Alpine Mayreder Bau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

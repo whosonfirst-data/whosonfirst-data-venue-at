@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8838663101,47.4305381775,9.8838663101,47.4305381775",
     "geom:latitude":47.430538,
     "geom:longitude":9.883866,
@@ -23,17 +24,33 @@
     "sg:postcode":"6863",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837931,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zEs3zCMHMhmhWejrI09OK_47.430538_9.883866@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890303,
-    "wof:geomhash":"95ecb46adba4b53bfed40664eb5698cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2c2c9d4cf5f3ae55552919d2bef9b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837931,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091862049
+        }
+    ],
     "wof:id":1091862049,
-    "wof:lastmodified":1473983856,
+    "wof:lastmodified":1496900885,
     "wof:name":"Helbock Bestattung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

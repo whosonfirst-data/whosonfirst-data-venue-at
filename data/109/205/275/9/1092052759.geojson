@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7744274139,48.0220832825,16.7744274139,48.0220832825",
     "geom:latitude":48.022083,
     "geom:longitude":16.774427,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836287,
+        85632785,
+        101831933,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CZPR94q3fhN0zubp0avta_48.022083_16.774427@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898617,
-    "wof:geomhash":"d4bfb1cfd6bb62d6cb0f5042c90d2747",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76ed7086509c9aa38fd739dca8c99514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836287,
+            "locality_id":101831933,
+            "region_id":85681671,
+            "venue_id":1092052759
+        }
+    ],
     "wof:id":1092052759,
-    "wof:lastmodified":1473983852,
+    "wof:lastmodified":1496890415,
     "wof:name":"ING. JOSEF HALTER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

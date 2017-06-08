@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7459201813,48.2550735474,16.7459201813,48.2550735474",
     "geom:latitude":48.255074,
     "geom:longitude":16.74592,
@@ -23,17 +24,34 @@
     "sg:postcode":"2284",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836953,
+        85632785,
+        101783431,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UBBYoDYqk6FznBDE95ddx_48.255074_16.745920@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888892,
-    "wof:geomhash":"3ec41cddd803e8c2d94959d6bc79a034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67fd306ca2469360373b300f4d4b1841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836953,
+            "locality_id":101783431,
+            "region_id":85681671,
+            "venue_id":1091832113
+        }
+    ],
     "wof:id":1091832113,
-    "wof:lastmodified":1473983716,
+    "wof:lastmodified":1496893521,
     "wof:name":"Bankomat d Raiffeisen-Regionalbank G\u00e4nserndorf regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

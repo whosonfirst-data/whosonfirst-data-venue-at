@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.216137886,46.6221084595,14.216137886,46.6221084595",
     "geom:latitude":46.622108,
     "geom:longitude":14.216138,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914600,
-    "wof:geomhash":"bff658b4d59675f4aa9f1885d84532b3",
+    "wof:geomhash":"ac85fc9369b9844296a5682ba1f353d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092404423
         }
     ],
     "wof:id":1092404423,
-    "wof:lastmodified":1473984132,
+    "wof:lastmodified":1496906401,
     "wof:name":"Fahrradverleih-Parkbad",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

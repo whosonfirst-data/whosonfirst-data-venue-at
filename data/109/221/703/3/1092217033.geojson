@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2598009109,47.3854141235,11.2598009109,47.3854141235",
     "geom:latitude":47.385414,
     "geom:longitude":11.259801,
@@ -23,17 +24,33 @@
     "sg:postcode":"6108",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837579,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NXP9IplsXAenQIkZiaEDb_47.385414_11.259801@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906279,
-    "wof:geomhash":"218684e3e61617698b1af40f12a7acc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fd1f91e84d0776094c85f038e07e98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837579,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092217033
+        }
+    ],
     "wof:id":1092217033,
-    "wof:lastmodified":1473984821,
+    "wof:lastmodified":1496898576,
     "wof:name":"SB-Tankstelle - Walter Reinpold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

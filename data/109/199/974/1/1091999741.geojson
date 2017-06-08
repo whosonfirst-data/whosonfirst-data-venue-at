@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4453353882,48.2169189453,14.4453353882,48.2169189453",
     "geom:latitude":48.216919,
     "geom:longitude":14.445335,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896521,
-    "wof:geomhash":"0ff1cde39b961467cedd716c5042a1b1",
+    "wof:geomhash":"b82fa0bad3d718e1580e8b87c5f8a5ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091999741
         }
     ],
     "wof:id":1091999741,
-    "wof:lastmodified":1473985146,
+    "wof:lastmodified":1496887088,
     "wof:name":"B\u00fcsscher & Hoffmann GesmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

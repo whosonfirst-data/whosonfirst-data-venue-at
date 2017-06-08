@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8362789154,47.9576950073,16.8362789154,47.9576950073",
     "geom:latitude":47.957695,
     "geom:longitude":16.836279,
@@ -31,17 +32,34 @@
         "carpeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        101785751,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sJvnHzUq1c74aSZznCGrS_47.957695_16.836279@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905387,
-    "wof:geomhash":"2a72bf0cdf17ba4037ec0d02bd7e0e9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d29d78dddbac8149df0573763bb948b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":101785751,
+            "region_id":85681651,
+            "venue_id":1092198539
+        }
+    ],
     "wof:id":1092198539,
-    "wof:lastmodified":1473985260,
+    "wof:lastmodified":1496908199,
     "wof:name":"Berghofer OHG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

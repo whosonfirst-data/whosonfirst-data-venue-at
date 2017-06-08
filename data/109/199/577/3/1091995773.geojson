@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6227169037,47.1114082336,15.6227169037,47.1114082336",
     "geom:latitude":47.111408,
     "geom:longitude":15.622717,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"haberl.biz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839209,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VosUW5vrxS6aUzmLJTDhL_47.111408_15.622717@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896362,
-    "wof:geomhash":"1527362572a0acce4b9656d820271347",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8f2145957a7dc272c852c9b286cf769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839209,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091995773
+        }
+    ],
     "wof:id":1091995773,
-    "wof:lastmodified":1473984437,
+    "wof:lastmodified":1496911967,
     "wof:name":"Andreas Haberl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

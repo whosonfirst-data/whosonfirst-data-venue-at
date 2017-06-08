@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5155000687,47.2947425842,11.5155000687,47.2947425842",
     "geom:latitude":47.294743,
     "geom:longitude":11.5155,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.tirol.com/divers-paradise/naui_austria.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tfHl6ZNXFh4VjqPjG8iaM_47.294743_11.515500@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916301,
-    "wof:geomhash":"0a28b321c204b1bd8e708306f2ddebf9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0f72ca6f213c9befea52678b300c28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
+            "region_id":85681661,
+            "venue_id":1092438521
+        }
+    ],
     "wof:id":1092438521,
-    "wof:lastmodified":1473985141,
+    "wof:lastmodified":1496898004,
     "wof:name":"NAUI Austria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

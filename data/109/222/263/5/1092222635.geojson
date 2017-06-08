@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5880460739,48.268497467,14.5880460739,48.268497467",
     "geom:latitude":48.268497,
     "geom:longitude":14.588046,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835619,
+        85632785,
+        101784587,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XeW3Mv3isBOFgVMBQUPyM_48.268497_14.588046@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906511,
-    "wof:geomhash":"748e3c185d328dc7140767b3875cdc6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c3c5215e6f6433e736383e5b9467735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835619,
+            "locality_id":101784587,
+            "region_id":85681677,
+            "venue_id":1092222635
+        }
+    ],
     "wof:id":1092222635,
-    "wof:lastmodified":1473983942,
+    "wof:lastmodified":1496887687,
     "wof:name":"Taxi Horner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

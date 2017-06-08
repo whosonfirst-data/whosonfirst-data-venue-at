@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3396511078,47.4677200317,15.3396511078,47.4677200317",
     "geom:latitude":47.46772,
     "geom:longitude":15.339651,
@@ -32,17 +33,34 @@
         "automation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839319,
+        85632785,
+        101834345,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ik4iFd3OueJLFVtPud202_47.467720_15.339651@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910759,
-    "wof:geomhash":"8aaedac861ff3ca86f2ac7beb6c187a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d81ecdbd7660c7bf39380f91b5c0045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839319,
+            "locality_id":101834345,
+            "region_id":85681687,
+            "venue_id":1092319105
+        }
+    ],
     "wof:id":1092319105,
-    "wof:lastmodified":1473985306,
+    "wof:lastmodified":1496912798,
     "wof:name":"EHS Steuerungstechnik Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

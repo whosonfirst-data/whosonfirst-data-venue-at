@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9993219376,48.2324943542,13.9993219376,48.2324943542",
     "geom:latitude":48.232494,
     "geom:longitude":13.999322,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836543,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48ZqJGnfSezTDV2VZDEbu0_48.232494_13.999322@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905784,
-    "wof:geomhash":"6a67632f60a10e5d8636dfc21c9f7273",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdb27a8d1941360312b895dd1ff251a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836543,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092205965
+        }
+    ],
     "wof:id":1092205965,
-    "wof:lastmodified":1473984704,
+    "wof:lastmodified":1496891542,
     "wof:name":"JANDL TRANSPORT GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

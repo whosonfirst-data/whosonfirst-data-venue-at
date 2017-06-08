@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3921279907,47.2623023987,11.3921279907,47.2623023987",
     "geom:latitude":47.262302,
     "geom:longitude":11.392128,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895060,
-    "wof:geomhash":"254618bf16183c8361e3a9ef8b25b4ca",
+    "wof:geomhash":"bb6c8d8161e36aa6ec2bf9c47250ecc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091965623
         }
     ],
     "wof:id":1091965623,
-    "wof:lastmodified":1473984202,
+    "wof:lastmodified":1496925982,
     "wof:name":"Restaurant Four Seasons",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

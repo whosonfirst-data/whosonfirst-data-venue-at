@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4803247452,48.2160644531,14.4803247452,48.2160644531",
     "geom:latitude":48.216064,
     "geom:longitude":14.480325,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893764,
-    "wof:geomhash":"4cd4b62da47c6da19fd2e52ea5916517",
+    "wof:geomhash":"0a6034ddb9ab0055ccce7f223a56ab6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091936009
         }
     ],
     "wof:id":1091936009,
-    "wof:lastmodified":1473984525,
+    "wof:lastmodified":1496887068,
     "wof:name":"Dvorzak Manfred Mag",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

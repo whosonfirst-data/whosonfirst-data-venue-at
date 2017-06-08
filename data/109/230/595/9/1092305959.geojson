@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6506252289,47.442527771,15.6506252289,47.442527771",
     "geom:latitude":47.442528,
     "geom:longitude":15.650625,
@@ -31,17 +32,33 @@
         "metalwork"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838857,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EMkUl3BNlmzeyW0hxxNnR_47.442528_15.650625@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910185,
-    "wof:geomhash":"ba9e65ea1df638758265387669386ad3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2998044d98f6625c2c79d9ca6661a79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838857,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092305959
+        }
+    ],
     "wof:id":1092305959,
-    "wof:lastmodified":1473984676,
+    "wof:lastmodified":1496909649,
     "wof:name":"Alfred Brunader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

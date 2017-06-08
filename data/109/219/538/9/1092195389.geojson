@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2277393341,47.8645935059,16.2277393341,47.8645935059",
     "geom:latitude":47.864594,
     "geom:longitude":16.227739,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"t-connect.com/steiner",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836767,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47j3sTkbTxVej8nkTK5Puj_47.864594_16.227739@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905255,
-    "wof:geomhash":"5615cf5e28b1283776174e55d069918a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1cda62b5de2569bf4491d404208f12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108836767,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092195389
+        }
+    ],
     "wof:id":1092195389,
-    "wof:lastmodified":1473984540,
+    "wof:lastmodified":1496892665,
     "wof:name":"Rudolf Steiner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

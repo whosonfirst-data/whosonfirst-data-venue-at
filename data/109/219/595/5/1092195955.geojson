@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4442014694,46.6054344177,13.4442014694,46.6054344177",
     "geom:latitude":46.605434,
     "geom:longitude":13.444201,
@@ -31,17 +32,33 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838149,
+        85632785,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o81bkkUQNAIIqu79rL3Lb_46.605434_13.444201@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905282,
-    "wof:geomhash":"d53babc181c44f212c518527b96d0abd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b920f31b151a0a8a7c0d6884b37606c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838149,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092195955
+        }
+    ],
     "wof:id":1092195955,
-    "wof:lastmodified":1473984642,
+    "wof:lastmodified":1496906236,
     "wof:name":"Elektro-Truntschnig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3127031326,47.6529655457,12.3127031326,47.6529655457",
     "geom:latitude":47.652966,
     "geom:longitude":12.312703,
@@ -23,17 +24,33 @@
     "sg:postcode":"6344",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837275,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3b9O8P4tVWSwYPsYzMfN5t_47.652966_12.312703@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915352,
-    "wof:geomhash":"d7dfff43c5aa84d993356e0447475447",
-    "wof:hierarchy":[],
+    "wof:geomhash":"271b777b03a8db721213d8ae08d9f19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837275,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092417623
+        }
+    ],
     "wof:id":1092417623,
-    "wof:lastmodified":1473984896,
+    "wof:lastmodified":1496896618,
     "wof:name":"Freiwillige Feuerwehr Walchsee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

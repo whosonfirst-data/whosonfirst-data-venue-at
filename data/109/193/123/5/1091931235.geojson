@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1721248627,47.7911834717,13.1721248627,47.7911834717",
     "geom:latitude":47.791183,
     "geom:longitude":13.172125,
@@ -23,17 +24,33 @@
     "sg:postcode":"5323",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837123,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BLRNBi3DtH1wrEKtsEfyH_47.791183_13.172125@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893559,
-    "wof:geomhash":"6c6a39f9d84571a747500290b97e269f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f126461e6f7922056ed7718fcc3db6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837123,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091931235
+        }
+    ],
     "wof:id":1091931235,
-    "wof:lastmodified":1473983633,
+    "wof:lastmodified":1496895263,
     "wof:name":"Sportverein Ebenau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

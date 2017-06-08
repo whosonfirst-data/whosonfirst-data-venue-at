@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1679363251,47.5978546143,13.1679363251,47.5978546143",
     "geom:latitude":47.597855,
     "geom:longitude":13.167936,
@@ -28,17 +29,33 @@
     "sg:postcode":"5440",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837087,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57jYaWHVc0Q7qzdhdyJxgE_47.597855_13.167936@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898385,
-    "wof:geomhash":"6dce79f2e71d6390d9a36c7164e7bef2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6824cd37968ce80c364cae36bab14a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837087,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092046829
+        }
+    ],
     "wof:id":1092046829,
-    "wof:lastmodified":1473983962,
+    "wof:lastmodified":1496894923,
     "wof:name":"Hotel Golingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

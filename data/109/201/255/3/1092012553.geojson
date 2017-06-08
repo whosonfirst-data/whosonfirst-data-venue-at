@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4800739288,47.5754623413,12.4800739288,47.5754623413",
     "geom:latitude":47.575462,
     "geom:longitude":12.480074,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uwlpvH3HUrWelsUDkXMJD_47.575462_12.480074@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897046,
-    "wof:geomhash":"441dd974a6c7047f7e7464b4763df4f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"145d21e8753f99dbca45226aef8fbc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092012553
+        }
+    ],
     "wof:id":1092012553,
-    "wof:lastmodified":1473983383,
+    "wof:lastmodified":1496897062,
     "wof:name":"Anton Inwinkl KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

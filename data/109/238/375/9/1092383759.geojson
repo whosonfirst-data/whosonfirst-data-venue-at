@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8386106491,46.8418617249,14.8386106491,46.8418617249",
     "geom:latitude":46.841862,
     "geom:longitude":14.838611,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        101790087,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sWcJ2DumXt8RkYjnx7C13_46.841862_14.838611@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913629,
-    "wof:geomhash":"50d22c762b75dd4791b03557179bebf9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53fe3b76054edc3327835ddebd0d0644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":101790087,
+            "region_id":85681655,
+            "venue_id":1092383759
+        }
+    ],
     "wof:id":1092383759,
-    "wof:lastmodified":1473984200,
+    "wof:lastmodified":1496905218,
     "wof:name":"Pizzeria Paolo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

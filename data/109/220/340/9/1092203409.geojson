@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1160287857,48.862701416,15.1160287857,48.862701416",
     "geom:latitude":48.862701,
     "geom:longitude":15.116029,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"moebelhandl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108834865,
+        85633105,
+        101780875,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g5jRqZO1NRNgWX3ZGcNzd_48.862701_15.116029@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905668,
-    "wof:geomhash":"b9c7610600e07c5ab3ffe3d4e7d0687f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2151bbc0996469fb548fbbbde6b4668c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108834865,
+            "locality_id":101780875,
+            "region_id":85682415,
+            "venue_id":1092203409
+        }
+    ],
     "wof:id":1092203409,
-    "wof:lastmodified":1473984073,
+    "wof:lastmodified":1496883099,
     "wof:name":"M\u00f6bel Handl Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9338617325,48.0125160217,12.9338617325,48.0125160217",
     "geom:latitude":48.012516,
     "geom:longitude":12.933862,
@@ -23,17 +24,33 @@
     "sg:postcode":"5113",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837173,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hqVD25toJk8DoQ4BZ8v8u_48.012516_12.933862@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897737,
-    "wof:geomhash":"10604303d9ef34366a80cd877cf725b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86cd4a2cf1dcbffe6cb919c1cfa6ba0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837173,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092030347
+        }
+    ],
     "wof:id":1092030347,
-    "wof:lastmodified":1473983384,
+    "wof:lastmodified":1496895618,
     "wof:name":"Bartusch Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

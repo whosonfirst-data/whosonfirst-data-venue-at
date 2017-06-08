@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8088912964,46.7401046753,13.8088912964,46.7401046753",
     "geom:latitude":46.740105,
     "geom:longitude":13.808891,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"gartenkunst-kriegl.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838321,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mCA1QxSeHzuscW4jFLfgh_46.740105_13.808891@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898825,
-    "wof:geomhash":"d3fe5922e4fd1a619424cf6e60a8c3a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ccab07ac347907b1dbd617067deea38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838321,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092057979
+        }
+    ],
     "wof:id":1092057979,
-    "wof:lastmodified":1473984684,
+    "wof:lastmodified":1496907295,
     "wof:name":"Gartenkunst Kriegl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

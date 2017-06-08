@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.708562851,47.9954376221,13.708562851,47.9954376221",
     "geom:latitude":47.995438,
     "geom:longitude":13.708563,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836425,
+        85632785,
+        101833167,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_393yO07WfRWDyG1VE0S6cp_47.995438_13.708563@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889230,
-    "wof:geomhash":"9e9b4c4115c6b4ab96460b041f95bb12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1c30905fd434e88c269c5e934518230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836425,
+            "locality_id":101833167,
+            "region_id":85681677,
+            "venue_id":1091839065
+        }
+    ],
     "wof:id":1091839065,
-    "wof:lastmodified":1473985261,
+    "wof:lastmodified":1496891262,
     "wof:name":"Grentner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

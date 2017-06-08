@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6560411453,47.2840118408,9.6560411453,47.2840118408",
     "geom:latitude":47.284012,
     "geom:longitude":9.656041,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838069,
+        85632785,
+        101827463,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nwTJ4yfi8alpRulJrOTPl_47.284012_9.656041@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906544,
-    "wof:geomhash":"3d8beff7c7c695d1ed2ef86da2959a08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a10570b68229927f34b9bcddb9ae6835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838069,
+            "locality_id":101827463,
+            "region_id":85681649,
+            "venue_id":1092223265
+        }
+    ],
     "wof:id":1092223265,
-    "wof:lastmodified":1473984059,
+    "wof:lastmodified":1496901817,
     "wof:name":"Weber-Reisen GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

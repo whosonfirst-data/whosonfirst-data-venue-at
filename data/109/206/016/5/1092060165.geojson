@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7653503418,48.5440063477,16.7653503418,48.5440063477",
     "geom:latitude":48.544006,
     "geom:longitude":16.76535,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836973,
+        85632785,
+        101782227,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SrAWABy9knEuIZQhw6Nb3_48.544006_16.765350@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898906,
-    "wof:geomhash":"0714fc6ae498683745318b24145f9e7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dea3df4b359bf9bd94f415c972773e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836973,
+            "locality_id":101782227,
+            "region_id":85681671,
+            "venue_id":1092060165
+        }
+    ],
     "wof:id":1092060165,
-    "wof:lastmodified":1473983365,
+    "wof:lastmodified":1496893606,
     "wof:name":"Ing. Josef u. Herbert Geyder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

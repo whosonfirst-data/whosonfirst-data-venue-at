@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7695646286,48.3453407288,13.7695646286,48.3453407288",
     "geom:latitude":48.345341,
     "geom:longitude":13.769565,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835207,
+        85632785,
+        101784577,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3S70lAYA3n37qoartqjfS4_48.345341_13.769565@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473887662,
-    "wof:geomhash":"c48b8b71b48525bffb3cc6a256151bea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49e4afb5444d119a09e95da9de689446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835207,
+            "locality_id":101784577,
+            "region_id":85681677,
+            "venue_id":1091805187
+        }
+    ],
     "wof:id":1091805187,
-    "wof:lastmodified":1473983466,
+    "wof:lastmodified":1496885461,
     "wof:name":"Hermann Reiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

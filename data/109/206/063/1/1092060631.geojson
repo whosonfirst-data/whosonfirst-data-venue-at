@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1113595963,47.2100753784,13.1113595963,47.2100753784",
     "geom:latitude":47.210075,
     "geom:longitude":13.11136,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FbMR9wjOr5hC1FHxpCMxx_47.210075_13.111360@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898926,
-    "wof:geomhash":"4d4005944080ceff771ffad346b2181a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"483aca767034afb6ecbc3d5600039538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092060631
+        }
+    ],
     "wof:id":1092060631,
-    "wof:lastmodified":1473983523,
+    "wof:lastmodified":1496893693,
     "wof:name":"Santherm Brandner & H\u00f6llwarth GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

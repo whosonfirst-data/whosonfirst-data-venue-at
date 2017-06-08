@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6664075851,47.2986793518,11.6664075851,47.2986793518",
     "geom:latitude":47.298679,
     "geom:longitude":11.666408,
@@ -23,17 +24,33 @@
     "sg:postcode":"6133",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837715,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48pw8SWTNq2W39WtzEAYFq_47.298679_11.666408@1306268320"
     },
     "wof:country":"AT",
     "wof:created":1473916932,
-    "wof:geomhash":"676cc745f56f5ef2521203bbce16a4fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6bacafce4d44237820479d1d36ce58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837715,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092452159
+        }
+    ],
     "wof:id":1092452159,
-    "wof:lastmodified":1473983314,
+    "wof:lastmodified":1496899741,
     "wof:name":"Schwab Ernst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

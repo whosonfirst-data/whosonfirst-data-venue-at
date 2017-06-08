@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0839509964,48.0068702698,13.0839509964,48.0068702698",
     "geom:latitude":48.00687,
     "geom:longitude":13.083951,
@@ -23,17 +24,33 @@
     "sg:postcode":"5163",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834773,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XElEGgNnJqPnpzispYUcq_48.006870_13.083951@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903804,
-    "wof:geomhash":"10f3f42e1e489b32b9f20bf5dab4e648",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50963d3d2bea2ef4848ea0137aa4274a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834773,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092162773
+        }
+    ],
     "wof:id":1092162773,
-    "wof:lastmodified":1473983885,
+    "wof:lastmodified":1496882561,
     "wof:name":"Volksschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

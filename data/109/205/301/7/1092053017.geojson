@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4146203995,47.1449317932,14.4146203995,47.1449317932",
     "geom:latitude":47.144932,
     "geom:longitude":14.41462,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838797,
+        85632785,
+        101789067,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rBok2K2wctQOAnyQLNo7Y_47.144932_14.414620@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898626,
-    "wof:geomhash":"8f5954c6f0e6a0c7c9dae0d9fcc171f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df21ac3d6f967c3788483b8617f4a206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838797,
+            "locality_id":101789067,
+            "region_id":85681687,
+            "venue_id":1092053017
+        }
+    ],
     "wof:id":1092053017,
-    "wof:lastmodified":1473983877,
+    "wof:lastmodified":1496909361,
     "wof:name":"WAGNER GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

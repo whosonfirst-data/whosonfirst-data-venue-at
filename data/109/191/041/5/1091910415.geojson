@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4191389084,48.0385284424,14.4191389084,48.0385284424",
     "geom:latitude":48.038528,
     "geom:longitude":14.419139,
@@ -35,17 +36,34 @@
     ],
     "sg:website":"http://www.ris.at/homes/juwelier.furtner/flieger.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41SUPhFmfVf7xEcq5XZIH9_48.038528_14.419139@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892565,
-    "wof:geomhash":"2b2bfa768a440a50f6e12edbba2b137c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22097f29b1d460b90a9d261ee24a23b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1091910415
+        }
+    ],
     "wof:id":1091910415,
-    "wof:lastmodified":1473983314,
+    "wof:lastmodified":1496881623,
     "wof:name":"Furtner Juwelier - Linz/Steyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

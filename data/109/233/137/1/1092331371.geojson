@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7792243958,48.0237083435,16.7792243958,48.0237083435",
     "geom:latitude":48.023708,
     "geom:longitude":16.779224,
@@ -28,17 +29,34 @@
     "sg:postcode":"2460",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836287,
+        85632785,
+        101831933,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fbnljiYrO6nxvYfqjJMbA_48.023708_16.779224@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911269,
-    "wof:geomhash":"8f976c7edb583025e8d92aaa50e21bb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5cd7c1d371d6fef9a99dfb4fbb63086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836287,
+            "locality_id":101831933,
+            "region_id":85681671,
+            "venue_id":1092331371
+        }
+    ],
     "wof:id":1092331371,
-    "wof:lastmodified":1473983669,
+    "wof:lastmodified":1496890370,
     "wof:name":"TMS Planungs GmbH - Tankstellenmanagement u service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

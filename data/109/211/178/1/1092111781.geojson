@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7377939224,47.2181434631,10.7377939224,47.2181434631",
     "geom:latitude":47.218143,
     "geom:longitude":10.737794,
@@ -23,17 +24,34 @@
     "sg:postcode":"6460",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GQDtsi1Zy5nBY2onnukUh_47.218143_10.737794@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901374,
-    "wof:geomhash":"918bb36d3c38d08667c34ddbbc316f82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebdd87b5db11e865f9dd875c32436e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092111781
+        }
+    ],
     "wof:id":1092111781,
-    "wof:lastmodified":1473983746,
+    "wof:lastmodified":1496898347,
     "wof:name":"AT Thurner Bau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

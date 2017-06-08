@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1297960281,47.1355705261,13.1297960281,47.1355705261",
     "geom:latitude":47.135571,
     "geom:longitude":13.129796,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"gasteiner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e1XVhjTga1MRe7ByGd1DR_47.135571_13.129796@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911830,
-    "wof:geomhash":"1c8e146bbba6ad770f7f485baefa9841",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc8aab4708aa9ba140350bd32f221620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092344507
+        }
+    ],
     "wof:id":1092344507,
-    "wof:lastmodified":1473984277,
+    "wof:lastmodified":1496893771,
     "wof:name":"Gasteiner Mineralwasser Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

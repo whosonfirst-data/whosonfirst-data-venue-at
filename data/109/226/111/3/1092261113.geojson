@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2773571014,48.0454597473,16.2773571014,48.0454597473",
     "geom:latitude":48.04546,
     "geom:longitude":16.277357,
@@ -27,17 +28,34 @@
     "sg:postcode":"2353",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836199,
+        85632785,
+        101833231,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SfMJQKspCJh14MSFikn1u_48.045460_16.277357@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908208,
-    "wof:geomhash":"21c310ffa7ebef151031bf36cb62e272",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60c741f9909122517df22c169566ea2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836199,
+            "locality_id":101833231,
+            "region_id":85681671,
+            "venue_id":1092261113
+        }
+    ],
     "wof:id":1092261113,
-    "wof:lastmodified":1473983558,
+    "wof:lastmodified":1496889966,
     "wof:name":"Der Heurige am Brunnen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

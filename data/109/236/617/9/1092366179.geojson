@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4172897339,47.2294998169,11.4172897339,47.2294998169",
     "geom:latitude":47.2295,
     "geom:longitude":11.41729,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912815,
-    "wof:geomhash":"4751bc67a1fb51ff299475f4fb5deeb9",
+    "wof:geomhash":"ea839e71748c4d1f8f80e2d8a3fa2166",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092366179
         }
     ],
     "wof:id":1092366179,
-    "wof:lastmodified":1473984790,
+    "wof:lastmodified":1496899395,
     "wof:name":"Haus Jordan",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

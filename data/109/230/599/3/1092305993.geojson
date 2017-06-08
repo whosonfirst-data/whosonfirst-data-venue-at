@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4470758438,47.73878479,13.4470758438,47.73878479",
     "geom:latitude":47.738785,
     "geom:longitude":13.447076,
@@ -31,17 +32,33 @@
         "metalwork"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835157,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kPXGo3QHpQgZSvMJZovvp_47.738785_13.447076@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910191,
-    "wof:geomhash":"112913e4e6fa1393151f418f3d620010",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bb7e35f0aa6eb21d27d9e958ce966bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835157,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092305993
+        }
+    ],
     "wof:id":1092305993,
-    "wof:lastmodified":1473984648,
+    "wof:lastmodified":1496885150,
     "wof:name":"Franz Ramsauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0749607086,47.8018951416,13.0749607086,47.8018951416",
     "geom:latitude":47.801895,
     "geom:longitude":13.074961,
@@ -29,10 +30,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898390,
-    "wof:geomhash":"44219edc7ddba395b7250288e8e78935",
+    "wof:geomhash":"f6cb286b46fa8a2d6c66bbbbe7d757c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092046955
         }
     ],
     "wof:id":1092046955,
-    "wof:lastmodified":1473984028,
+    "wof:lastmodified":1496894557,
     "wof:name":"Hotel Heffterhof Salzburg - Impulszentrum l\u00e4ndlicher Raum",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

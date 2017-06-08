@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7883939743,46.8641319275,12.7883939743,46.8641319275",
     "geom:latitude":46.864132,
     "geom:longitude":12.788394,
@@ -23,17 +24,33 @@
     "sg:postcode":"9900",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837789,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WQSql7z8AGi9ycbIpd5oD_46.864132_12.788394@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890112,
-    "wof:geomhash":"d7d2488cf1efbcc4dbf5643e676a1648",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdf64591363f7b025d4d5c1c107bacf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837789,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091858323
+        }
+    ],
     "wof:id":1091858323,
-    "wof:lastmodified":1473984882,
+    "wof:lastmodified":1496899983,
     "wof:name":"Lienzer Bergbahnen AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

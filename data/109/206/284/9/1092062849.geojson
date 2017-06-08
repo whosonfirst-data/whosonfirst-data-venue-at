@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2501125336,47.4503822327,12.2501125336,47.4503822327",
     "geom:latitude":47.450382,
     "geom:longitude":12.250113,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ovOJ5zalYtOPRhuWsJdl9_47.450382_12.250113@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899015,
-    "wof:geomhash":"34870cb1f47b00b949f62097a20aec96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4c2fd5073b33916c1d3512c770f7ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092062849
+        }
+    ],
     "wof:id":1092062849,
-    "wof:lastmodified":1473983867,
+    "wof:lastmodified":1496897249,
     "wof:name":"Brixnerwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

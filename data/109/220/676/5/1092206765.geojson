@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8127937317,48.2075767517,13.8127937317,48.2075767517",
     "geom:latitude":48.207577,
     "geom:longitude":13.812794,
@@ -32,17 +33,34 @@
         "curtain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        101784571,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GbzJKLdnTmvgh7IWnUEIN_48.207577_13.812794@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905818,
-    "wof:geomhash":"a8e058c5c16eb35e378ef807f13a9281",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ee32c4d0325697d45cef89b2ba9e465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":101784571,
+            "region_id":85681677,
+            "venue_id":1092206765
+        }
+    ],
     "wof:id":1092206765,
-    "wof:lastmodified":1473984761,
+    "wof:lastmodified":1496885287,
     "wof:name":"Josef Breitwieser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

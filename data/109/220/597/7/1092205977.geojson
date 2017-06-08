@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9644193649,48.8019371033,14.9644193649,48.8019371033",
     "geom:latitude":48.801937,
     "geom:longitude":14.964419,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108835467,
+        85633105,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HYEk1ON5byWNIpGzYhLyP_48.801937_14.964419@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905785,
-    "wof:geomhash":"5e2ee0f2101b2dc3b70b83276a231a9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78673e39533452c0a8129f1dba23cb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108835467,
+            "locality_id":-1,
+            "region_id":85682415,
+            "venue_id":1092205977
+        }
+    ],
     "wof:id":1092205977,
-    "wof:lastmodified":1473984685,
+    "wof:lastmodified":1496886768,
     "wof:name":"KARL WURZ GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

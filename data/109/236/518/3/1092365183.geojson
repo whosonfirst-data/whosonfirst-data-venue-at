@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5540504456,47.5895690918,12.5540504456,47.5895690918",
     "geom:latitude":47.589569,
     "geom:longitude":12.55405,
@@ -23,17 +24,33 @@
     "sg:postcode":"6384",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837693,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y7KpVLASBLaT2e44OYZX3_47.589569_12.554050@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912763,
-    "wof:geomhash":"588405946664ec32db8841afe6a567e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"529654f41763fd3c6494df3011913bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837693,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092365183
+        }
+    ],
     "wof:id":1092365183,
-    "wof:lastmodified":1473984547,
+    "wof:lastmodified":1496899609,
     "wof:name":"Hasenberghof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9334926605,48.1897125244,15.9334926605,48.1897125244",
     "geom:latitude":48.189713,
     "geom:longitude":15.933493,
@@ -29,17 +30,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"ilp.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836809,
+        85632785,
+        101833259,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qL8Nz07JSXRqjUqLfZ54K_48.189713_15.933493@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896416,
-    "wof:geomhash":"3cd93b073b20c2fec422eecf26331257",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e09e91849f32790579b6056dc41733b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836809,
+            "locality_id":101833259,
+            "region_id":85681671,
+            "venue_id":1091997199
+        }
+    ],
     "wof:id":1091997199,
-    "wof:lastmodified":1473984794,
+    "wof:lastmodified":1496883873,
     "wof:name":"Computerservice ILP - Internet Layout Predota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

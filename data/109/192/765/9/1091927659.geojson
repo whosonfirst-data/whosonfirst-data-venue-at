@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1745538712,47.7922706604,13.1745538712,47.7922706604",
     "geom:latitude":47.792271,
     "geom:longitude":13.174554,
@@ -23,17 +24,33 @@
     "sg:postcode":"5323",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837123,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WJlUVDReLz0hknwOMXVCe_47.792271_13.174554@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893393,
-    "wof:geomhash":"c7997626a5e3383bea67aa17fc8ed068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"255e6e5e1f0026d074ae964db0ac0b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837123,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091927659
+        }
+    ],
     "wof:id":1091927659,
-    "wof:lastmodified":1473984681,
+    "wof:lastmodified":1496895263,
     "wof:name":"Ramsauer Hubert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

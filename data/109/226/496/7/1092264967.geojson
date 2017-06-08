@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6502876282,47.2823371887,9.6502876282,47.2823371887",
     "geom:latitude":47.282337,
     "geom:longitude":9.650288,
@@ -32,17 +33,34 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838069,
+        85632785,
+        101827463,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lbkNTtKc0oo1Xj9eAC0Lv_47.282337_9.650288@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908382,
-    "wof:geomhash":"3f75c823e035fc43cbfa4eca16ab55e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"728696c6f0a4d368b53273ba8d65eebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838069,
+            "locality_id":101827463,
+            "region_id":85681649,
+            "venue_id":1092264967
+        }
+    ],
     "wof:id":1092264967,
-    "wof:lastmodified":1473984404,
+    "wof:lastmodified":1496901811,
     "wof:name":"VOLTOHM OHG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

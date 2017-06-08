@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7568407059,47.1532249451,10.7568407059,47.1532249451",
     "geom:latitude":47.153225,
     "geom:longitude":10.756841,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"www.schneesport.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837609,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5orGaQ9OqKReXwFbQ70IDR_47.153225_10.756841@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892608,
-    "wof:geomhash":"c31e8cfbfb49a66cbf64489ac832c781",
-    "wof:hierarchy":[],
+    "wof:geomhash":"135c380704fdf433a9637e5228e6a6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837609,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091911553
+        }
+    ],
     "wof:id":1091911553,
-    "wof:lastmodified":1473983331,
+    "wof:lastmodified":1496898690,
     "wof:name":"Schischule Hochzeiger-Pitztal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

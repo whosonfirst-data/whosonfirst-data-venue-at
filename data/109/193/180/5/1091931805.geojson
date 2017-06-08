@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7983427048,47.4045028687,11.7983427048,47.4045028687",
     "geom:latitude":47.404503,
     "geom:longitude":11.798343,
@@ -23,17 +24,34 @@
     "sg:postcode":"6200",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837717,
+        85632785,
+        101912331,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T0ugp0z7G6jOqMiAPSSKo_47.404503_11.798343@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893582,
-    "wof:geomhash":"006bed4564291fb88b46bf906afbb7a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df0f8fb66f168c9dff47c82ef45b2f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837717,
+            "locality_id":101912331,
+            "region_id":85681661,
+            "venue_id":1091931805
+        }
+    ],
     "wof:id":1091931805,
-    "wof:lastmodified":1473983734,
+    "wof:lastmodified":1496899742,
     "wof:name":"Tennisclub Wiesing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

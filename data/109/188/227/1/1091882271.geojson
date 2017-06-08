@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3872070312,47.7681694031,13.3872070312,47.7681694031",
     "geom:latitude":47.768169,
     "geom:longitude":13.387207,
@@ -31,17 +32,33 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837175,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u1Q9DVS8NAsrAfsBN6iqU_47.768169_13.387207@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891229,
-    "wof:geomhash":"6f87f915111ed9bb0386bbc93cfb567e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"932e1e36346bf513c024e7f97d4a9c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837175,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091882271
+        }
+    ],
     "wof:id":1091882271,
-    "wof:lastmodified":1473983806,
+    "wof:lastmodified":1496895642,
     "wof:name":"GASTHOF F\u00dcRBERG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

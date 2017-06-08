@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1087627411,47.9439086914,16.1087627411,47.9439086914",
     "geom:latitude":47.943909,
     "geom:longitude":16.108763,
@@ -31,17 +32,34 @@
         "mattress"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835315,
+        85632785,
+        101833183,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vZSPwAOUWJ7ouoLpKD5fu_47.943909_16.108763@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911509,
-    "wof:geomhash":"4f037d55562dcdce453ca285c48bf876",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a162141def0dfb4cd7f7dd510e80d326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835315,
+            "locality_id":101833183,
+            "region_id":85681671,
+            "venue_id":1092337363
+        }
+    ],
     "wof:id":1092337363,
-    "wof:lastmodified":1473985077,
+    "wof:lastmodified":1496885999,
     "wof:name":"Herbert Seewald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

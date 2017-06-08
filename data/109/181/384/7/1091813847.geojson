@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0904541016,47.8346672058,13.0904541016,47.8346672058",
     "geom:latitude":47.834667,
     "geom:longitude":13.090454,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888080,
-    "wof:geomhash":"6752ac98a0e40f32e7a26f5b60f7e3a3",
+    "wof:geomhash":"43840dfede15e13d914a807ff3cc4111",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1091813847
         }
     ],
     "wof:id":1091813847,
-    "wof:lastmodified":1473984215,
+    "wof:lastmodified":1496895379,
     "wof:name":"Franz Soriat",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

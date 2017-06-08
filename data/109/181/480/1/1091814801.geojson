@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7639484406,46.8308563232,12.7639484406,46.8308563232",
     "geom:latitude":46.830856,
     "geom:longitude":12.763948,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837511,
+        85632785,
+        101834187,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WWA4d2Sm3vkosY2DBzTk2_46.830856_12.763948@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473888130,
-    "wof:geomhash":"00cc6f9394c3b9a50ddffab8156532d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"107798ab42b6e0f6ce366a7952b8e6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837511,
+            "locality_id":101834187,
+            "region_id":85681661,
+            "venue_id":1091814801
+        }
+    ],
     "wof:id":1091814801,
-    "wof:lastmodified":1473984405,
+    "wof:lastmodified":1496898225,
     "wof:name":"Peter Paul Mair Elektro-Stoffaneller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1522264481,47.9983482361,14.1522264481,47.9983482361",
     "geom:latitude":47.998348,
     "geom:longitude":14.152226,
@@ -33,17 +34,33 @@
         "cnc"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835513,
+        85632785,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QbLi7YJNCFHbiVi0bkGjd_47.998348_14.152226@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905766,
-    "wof:geomhash":"f3081963e26a531cd5daa241000f2092",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15f42e19ffe36d6603213b1fe0d4d94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835513,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092205591
+        }
+    ],
     "wof:id":1092205591,
-    "wof:lastmodified":1473984568,
+    "wof:lastmodified":1496886941,
     "wof:name":"Pesendorfer CNC-Fertigungstechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

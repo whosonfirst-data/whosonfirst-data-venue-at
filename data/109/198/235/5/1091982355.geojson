@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6667032242,47.4282341003,9.6667032242,47.4282341003",
     "geom:latitude":47.428234,
     "geom:longitude":9.666703,
@@ -32,17 +33,34 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Rz362bYNPTiocyfseWzxj_47.428234_9.666703@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895789,
-    "wof:geomhash":"f72abea714770156f74b7b53a1039486",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a02d85b3e902e7875f46ce8e708bae52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091982355
+        }
+    ],
     "wof:id":1091982355,
-    "wof:lastmodified":1473983480,
+    "wof:lastmodified":1496901471,
     "wof:name":"IT-SOLUTIONS Grabher GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

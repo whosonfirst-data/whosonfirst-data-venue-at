@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6675395966,47.3271484375,11.6675395966,47.3271484375",
     "geom:latitude":47.327148,
     "geom:longitude":11.66754,
@@ -23,17 +24,33 @@
     "sg:postcode":"6123",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837659,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MZw9bWF4J0y4oZEZXUWtu_47.327148_11.667540@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905263,
-    "wof:geomhash":"cab085d928cbed3523f44f36bc97ce53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aae80b6d57b76b3bdb681806e3db439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837659,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092195577
+        }
+    ],
     "wof:id":1092195577,
-    "wof:lastmodified":1473984533,
+    "wof:lastmodified":1496899030,
     "wof:name":"Glas Ober",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

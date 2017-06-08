@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3329200745,47.1150817871,15.3329200745,47.1150817871",
     "geom:latitude":47.115082,
     "geom:longitude":15.33292,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911782,
-    "wof:geomhash":"9c30028cb4afd3cf51500b1ef643c9af",
+    "wof:geomhash":"97127c02dd16e3a22b3ad6ad17e32ea2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092343537
         }
     ],
     "wof:id":1092343537,
-    "wof:lastmodified":1473983962,
+    "wof:lastmodified":1496911827,
     "wof:name":"Haingartner Train Equipment KEG",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

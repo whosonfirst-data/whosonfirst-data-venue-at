@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0470409393,48.08228302,14.0470409393,48.08228302",
     "geom:latitude":48.082283,
     "geom:longitude":14.047041,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836573,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RMnO6SxOO8uRS4khHSle4_48.082283_14.047041@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889463,
-    "wof:geomhash":"7ef426cc221cdd0f9182de70dad9ee7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"327a5b08aacb068e89b39b34d2277c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836573,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091844699
+        }
+    ],
     "wof:id":1091844699,
-    "wof:lastmodified":1473984182,
+    "wof:lastmodified":1496891745,
     "wof:name":"Hacker GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

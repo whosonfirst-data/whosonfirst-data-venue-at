@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2586231232,48.1308631897,16.2586231232,48.1308631897",
     "geom:latitude":48.130863,
     "geom:longitude":16.258623,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889842,
-    "wof:geomhash":"aa2b8fec6ba60d6f8d0b1eb8bdefd0fe",
+    "wof:geomhash":"27bbeb6640927e53054077420fe8fba7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091852787
         }
     ],
     "wof:id":1091852787,
-    "wof:lastmodified":1473983850,
+    "wof:lastmodified":1496927885,
     "wof:name":"Jugend am Werk",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

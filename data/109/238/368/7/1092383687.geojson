@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0812988281,47.0457420349,16.0812988281,47.0457420349",
     "geom:latitude":47.045742,
     "geom:longitude":16.081299,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839227,
+        85632785,
+        101789015,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SpCjOssdpdt85V8455vqE_47.045742_16.081299@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913625,
-    "wof:geomhash":"656112e0256baf5d000094a636c66dca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ad63430463abb717aca65cbf10a65fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839227,
+            "locality_id":101789015,
+            "region_id":85681687,
+            "venue_id":1092383687
+        }
+    ],
     "wof:id":1092383687,
-    "wof:lastmodified":1473984187,
+    "wof:lastmodified":1496912036,
     "wof:name":"Pizzeria Milano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

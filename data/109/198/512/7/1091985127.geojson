@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4412517548,47.2474136353,11.4412517548,47.2474136353",
     "geom:latitude":47.247414,
     "geom:longitude":11.441252,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895900,
-    "wof:geomhash":"accec4181193359a3c4cad08c8f620b9",
+    "wof:geomhash":"376d11b708dee3affda1de56bb9be5c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091985127
         }
     ],
     "wof:id":1091985127,
-    "wof:lastmodified":1473984024,
+    "wof:lastmodified":1496898023,
     "wof:name":"Steger Karl Ing",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

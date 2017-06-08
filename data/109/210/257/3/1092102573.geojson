@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3846054077,48.0801925659,16.3846054077,48.0801925659",
     "geom:latitude":48.080193,
     "geom:longitude":16.384605,
@@ -36,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900938,
-    "wof:geomhash":"1feb6196cfe1895560884d0f3c57bb96",
+    "wof:geomhash":"f37475ab27e9ac17eb163eb046d906de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092102573
         }
     ],
     "wof:id":1092102573,
-    "wof:lastmodified":1473983731,
+    "wof:lastmodified":1496893376,
     "wof:name":"KUHN LADETECHNIK GMBH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

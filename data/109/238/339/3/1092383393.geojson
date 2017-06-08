@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2585039139,47.9998626709,14.2585039139,47.9998626709",
     "geom:latitude":47.999863,
     "geom:longitude":14.258504,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836129,
+        85632785,
+        101785677,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XkLXFhq8lakpDNUgcFMHW_47.999863_14.258504@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913613,
-    "wof:geomhash":"ab7a4824a8e31945acd2b7321187cd71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54de3cfab3a2e143c59af2cd75f1f590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836129,
+            "locality_id":101785677,
+            "region_id":85681677,
+            "venue_id":1092383393
+        }
+    ],
     "wof:id":1092383393,
-    "wof:lastmodified":1473984176,
+    "wof:lastmodified":1496889667,
     "wof:name":"Pizzeria Giuseppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

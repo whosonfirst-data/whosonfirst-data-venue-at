@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8861312866,47.401058197,10.8861312866,47.401058197",
     "geom:latitude":47.401058,
     "geom:longitude":10.886131,
@@ -23,17 +24,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0phTqmcPPefEeopa7VE33F_47.401058_10.886131@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913128,
-    "wof:geomhash":"24b43732319678938569a7378d69a6b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b8da2c3219a365dfdbbcb9486eeddc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092372455
+        }
+    ],
     "wof:id":1092372455,
-    "wof:lastmodified":1473984015,
+    "wof:lastmodified":1496899869,
     "wof:name":"Pension Tirolerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

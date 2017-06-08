@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7436313629,47.4143066406,9.7436313629,47.4143066406",
     "geom:latitude":47.414307,
     "geom:longitude":9.743631,
@@ -29,10 +30,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895148,
-    "wof:geomhash":"2a5aae737a73761c41e449fd4dad5dc6",
+    "wof:geomhash":"391e7fc653efe01f1fe3a0dda596bbf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091967929
         }
     ],
     "wof:id":1091967929,
-    "wof:lastmodified":1473984565,
+    "wof:lastmodified":1496900839,
     "wof:name":"Vorarlberger Hof",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

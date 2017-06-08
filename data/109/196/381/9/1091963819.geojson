@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6066427231,47.2598686218,9.6066427231,47.2598686218",
     "geom:latitude":47.259869,
     "geom:longitude":9.606643,
@@ -29,10 +30,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894981,
-    "wof:geomhash":"2bd81678857cb4d231b4352a439071a5",
+    "wof:geomhash":"4ea647aa685a8fa8d369797136001cf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091963819
         }
     ],
     "wof:id":1091963819,
-    "wof:lastmodified":1473983910,
+    "wof:lastmodified":1496900932,
     "wof:name":"Hirschauer",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

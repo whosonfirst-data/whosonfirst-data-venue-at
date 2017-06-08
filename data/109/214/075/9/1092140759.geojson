@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2307786942,47.8972206116,14.2307786942,47.8972206116",
     "geom:latitude":47.897221,
     "geom:longitude":14.230779,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"leonarc.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835245,
+        85632785,
+        101786813,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sVNXVjdH6VjRMMLF2ClC9_47.897221_14.230779@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902780,
-    "wof:geomhash":"e3e7766c3e0bb78650b4002958ff807c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fdaf70d5d2a1c4d70c25ba5d5645fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835245,
+            "locality_id":101786813,
+            "region_id":85681677,
+            "venue_id":1092140759
+        }
+    ],
     "wof:id":1092140759,
-    "wof:lastmodified":1473983493,
+    "wof:lastmodified":1496885557,
     "wof:name":"Leonarc Ges.m.b.H. Erzeugung von Elektroden f\u00fcr Lichtbogenschweissung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

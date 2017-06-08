@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3561220169,47.2644729614,11.3561220169,47.2644729614",
     "geom:latitude":47.264473,
     "geom:longitude":11.356122,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903261,
-    "wof:geomhash":"688e41b5b9ded9871fb65b40ceb34622",
+    "wof:geomhash":"e55669cbeb912ab708593551981f212f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092151155
         }
     ],
     "wof:id":1092151155,
-    "wof:lastmodified":1473983531,
+    "wof:lastmodified":1496899210,
     "wof:name":"Junge Menschen denken reden & gestalten mit",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

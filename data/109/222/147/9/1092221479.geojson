@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3587179184,47.2537384033,11.3587179184,47.2537384033",
     "geom:latitude":47.253738,
     "geom:longitude":11.358718,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906457,
-    "wof:geomhash":"e7ad80e2fd285d3b8306823a4615a983",
+    "wof:geomhash":"aee6f98640a7d11b34678b710aea9c66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092221479
         }
     ],
     "wof:id":1092221479,
-    "wof:lastmodified":1473983694,
+    "wof:lastmodified":1496899271,
     "wof:name":"Meindl Reinhold",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

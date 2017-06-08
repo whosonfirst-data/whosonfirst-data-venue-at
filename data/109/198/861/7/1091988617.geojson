@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2516374588,47.4501075745,12.2516374588,47.4501075745",
     "geom:latitude":47.450108,
     "geom:longitude":12.251637,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_784Rv3fxDLW8OrrMUzDH4G_47.450108_12.251637@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896046,
-    "wof:geomhash":"1646a4a51ac41c73cd0690d6087cf013",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33ccb5c1d46ec65824421f898ff92f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091988617
+        }
+    ],
     "wof:id":1091988617,
-    "wof:lastmodified":1473984504,
+    "wof:lastmodified":1496897242,
     "wof:name":"Bucher & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

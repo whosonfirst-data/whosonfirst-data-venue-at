@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7633857727,48.3722267151,13.7633857727,48.3722267151",
     "geom:latitude":48.372227,
     "geom:longitude":13.763386,
@@ -31,17 +32,33 @@
         "firewood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835207,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Bb4b6EPWSEP2f9flMgnYf_48.372227_13.763386@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915540,
-    "wof:geomhash":"96ff02e064d45b81ec806a8a347e52de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a36a0d88d8da013c0ca1034a74a0ddb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835207,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092422149
+        }
+    ],
     "wof:id":1092422149,
-    "wof:lastmodified":1473983725,
+    "wof:lastmodified":1496885460,
     "wof:name":"Franz Lauber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

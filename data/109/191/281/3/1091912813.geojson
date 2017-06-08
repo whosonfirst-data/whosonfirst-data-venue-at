@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7635679245,48.0491142273,13.7635679245,48.0491142273",
     "geom:latitude":48.049114,
     "geom:longitude":13.763568,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836503,
+        85632785,
+        101785665,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PdXtOEBClxIBEIT301Z2b_48.049114_13.763568@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892676,
-    "wof:geomhash":"785685b368a8a5441efd2190475c0f4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f585f55495fc12d48a155015d010686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836503,
+            "locality_id":101785665,
+            "region_id":85681677,
+            "venue_id":1091912813
+        }
+    ],
     "wof:id":1091912813,
-    "wof:lastmodified":1473983626,
+    "wof:lastmodified":1496891349,
     "wof:name":"CIS-Software O Schobesberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

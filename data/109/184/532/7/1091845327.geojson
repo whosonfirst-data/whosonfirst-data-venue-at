@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9410829544,48.1250686646,13.9410829544,48.1250686646",
     "geom:latitude":48.125069,
     "geom:longitude":13.941083,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836553,
+        85632785,
+        101754165,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oBAy5iG4MAPiGVVaLiM9q_48.125069_13.941083@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889488,
-    "wof:geomhash":"6c64d4c112b87fc287be9fefc53fd6d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cf77f35cfe08f86969f0382e77c6c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836553,
+            "locality_id":101754165,
+            "region_id":85681677,
+            "venue_id":1091845327
+        }
+    ],
     "wof:id":1091845327,
-    "wof:lastmodified":1473984302,
+    "wof:lastmodified":1496891586,
     "wof:name":"Schneider Bautechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

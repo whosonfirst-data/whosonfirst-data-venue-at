@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5058612823,46.8802375793,14.5058612823,46.8802375793",
     "geom:latitude":46.880238,
     "geom:longitude":14.505861,
@@ -32,17 +33,33 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838217,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D6RuPyenrbP2DnJPUDKmC_46.880238_14.505861@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905339,
-    "wof:geomhash":"7f9ce64b10be313621b58f738f96483a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"040593d8831adf0c01204ea25c48ac3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838217,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092197339
+        }
+    ],
     "wof:id":1092197339,
-    "wof:lastmodified":1473984935,
+    "wof:lastmodified":1496906610,
     "wof:name":"Herbert Kuss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

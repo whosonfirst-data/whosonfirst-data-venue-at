@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6668243408,47.8048439026,16.6668243408,47.8048439026",
     "geom:latitude":47.804844,
     "geom:longitude":16.666824,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.bnet.co.at/rust/alex.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NmTm3yRIW3jlLcrC7lqoH_47.804844_16.666824@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894843,
-    "wof:geomhash":"16b1d50a99c388925c001125b7b537e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"374d249b2f3e4c0fdb6e01239d6c8e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1091960509
+        }
+    ],
     "wof:id":1091960509,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496909076,
     "wof:name":"Pension Alexander",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

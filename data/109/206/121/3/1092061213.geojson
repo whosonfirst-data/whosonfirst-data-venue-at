@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4248123169,47.5118370056,12.4248123169,47.5118370056",
     "geom:latitude":47.511837,
     "geom:longitude":12.424812,
@@ -23,17 +24,33 @@
     "sg:postcode":"6380",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NLwNsb9TWmLmbNMsePflB_47.511837_12.424812@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898948,
-    "wof:geomhash":"dc7741ff538c347f15f7e7ece1c019ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ed5cec8cafce63f38ee886d30ff8769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092061213
+        }
+    ],
     "wof:id":1092061213,
-    "wof:lastmodified":1473983597,
+    "wof:lastmodified":1496897370,
     "wof:name":"Almhof-Sommerer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

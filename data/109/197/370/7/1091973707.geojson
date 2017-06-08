@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0100107193,47.4229164124,15.0100107193,47.4229164124",
     "geom:latitude":47.422916,
     "geom:longitude":15.010011,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838989,
+        85632785,
+        101787947,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GXEu1Z94s5Dwj1woPTtB5_47.422916_15.010011@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895398,
-    "wof:geomhash":"4a0c3ae0a4ed62e999b918d7b758f6af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"289e7d8b7668663fae34740f1d419771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838989,
+            "locality_id":101787947,
+            "region_id":85681687,
+            "venue_id":1091973707
+        }
+    ],
     "wof:id":1091973707,
-    "wof:lastmodified":1473984125,
+    "wof:lastmodified":1496910679,
     "wof:name":"HERBERT BRANDL GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

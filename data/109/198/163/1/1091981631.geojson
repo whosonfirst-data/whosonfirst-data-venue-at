@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2989883423,48.0476875305,14.2989883423,48.0476875305",
     "geom:latitude":48.047688,
     "geom:longitude":14.298988,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.rabensteiner.com/rabitool/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836125,
+        85632785,
+        101833175,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IbgVlDYwWal5ZQNPyKjZ6_48.047688_14.298988@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895763,
-    "wof:geomhash":"b70d3aeed301ec11f3e28f3474ff78db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c499ed0780db6e8cef34f1c8cf0120a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836125,
+            "locality_id":101833175,
+            "region_id":85681677,
+            "venue_id":1091981631
+        }
+    ],
     "wof:id":1091981631,
-    "wof:lastmodified":1473983418,
+    "wof:lastmodified":1496889633,
     "wof:name":"RABENSTEINER - AUSTRIA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

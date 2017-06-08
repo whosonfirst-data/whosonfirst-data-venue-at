@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4896411896,48.2751083374,16.4896411896,48.2751083374",
     "geom:latitude":48.275108,
     "geom:longitude":16.489641,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898401,
-        102049891
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890929,
-    "wof:geomhash":"ea6780f674ed70cd2b6b5e83e79a7273",
+    "wof:geomhash":"ac466c63c3d75bdd80fb995ed6f25465",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049891,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898401,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091875579
         }
     ],
     "wof:id":1091875579,
-    "wof:lastmodified":1473984385,
+    "wof:lastmodified":1496903296,
     "wof:name":"THAILER Druck GmbH",
     "wof:parent_id":85898401,
     "wof:placetype":"venue",

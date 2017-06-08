@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3673753738,47.2646064758,11.3673753738,47.2646064758",
     "geom:latitude":47.264606,
     "geom:longitude":11.367375,
@@ -25,11 +26,14 @@
     "sg:website":"ontariolight.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
+        85904347,
+        102191581,
+        1108837687,
         85632785,
-        85904367,
+        101748061,
         102049723,
-        85904347
+        85681661,
+        85904367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,27 +41,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473890015,
-    "wof:geomhash":"b1942ca8d945213e18d2edd226968041",
+    "wof:geomhash":"d096037e39a66ec056a90fcef5977c6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85904367,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1091856369
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85904347,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1091856369
         }
     ],
     "wof:id":1091856369,
-    "wof:lastmodified":1473984453,
+    "wof:lastmodified":1496899339,
     "wof:name":"Ontario Light Handels GmbH",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

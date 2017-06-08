@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3224945068,48.044883728,16.3224945068,48.044883728",
     "geom:latitude":48.044884,
     "geom:longitude":16.322495,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836951,
+        85632785,
+        101754173,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f2Tx4bAddiLlRC9MLkGmD_48.044884_16.322495@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898615,
-    "wof:geomhash":"1fe9a5f68badde613aea01607420549c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91b6531906969f89096d22c57ffe6201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836951,
+            "locality_id":101754173,
+            "region_id":85681671,
+            "venue_id":1092052681
+        }
+    ],
     "wof:id":1092052681,
-    "wof:lastmodified":1473983865,
+    "wof:lastmodified":1496893499,
     "wof:name":"GRIMME HANDELSGESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

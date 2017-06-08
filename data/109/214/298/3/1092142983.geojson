@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4800329208,48.2175750732,14.4800329208,48.2175750732",
     "geom:latitude":48.217575,
     "geom:longitude":14.480033,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902880,
-    "wof:geomhash":"28eda5192f0cb1f24fed112c4359fdd9",
+    "wof:geomhash":"5b2672059fa1b0e16346c1e443e452e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092142983
         }
     ],
     "wof:id":1092142983,
-    "wof:lastmodified":1473983944,
+    "wof:lastmodified":1496887072,
     "wof:name":"M/E/D Holzinger",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

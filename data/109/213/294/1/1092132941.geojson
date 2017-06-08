@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4188776016,47.2608604431,11.4188776016,47.2608604431",
     "geom:latitude":47.26086,
     "geom:longitude":11.418878,
@@ -25,14 +26,14 @@
     "sg:website":"belfor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
+        85898609,
         102191581,
+        1108837687,
         85632785,
         101748061,
         102049723,
-        85898609,
-        85898595,
-        102049735
+        85681661,
+        85898595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,29 +41,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473902400,
-    "wof:geomhash":"c99f548c42f8adc267fad89951d287ba",
+    "wof:geomhash":"cbda3b5db72adb6199316c63b359efd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
             "locality_id":101748061,
             "neighbourhood_id":85898609,
             "region_id":85681661,
             "venue_id":1092132941
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092132941
         }
     ],
     "wof:id":1092132941,
-    "wof:lastmodified":1473983955,
+    "wof:lastmodified":1496899287,
     "wof:name":"BELFOR Austria GmbH",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

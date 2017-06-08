@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0778999329,46.6623001099,13.0778999329,46.6623001099",
     "geom:latitude":46.6623,
     "geom:longitude":13.0779,
@@ -37,17 +38,33 @@
     ],
     "sg:website":"breitegger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838147,
+        85632785,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YFhPtaJ03TbR9tq0KKP4s_46.662300_13.077900@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473888370,
-    "wof:geomhash":"0bf90f5de23cd545148241ac1619e688",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7f72a26dbab85c6da1c70b1da9e72e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838147,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091820385
+        }
+    ],
     "wof:id":1091820385,
-    "wof:lastmodified":1473983453,
+    "wof:lastmodified":1496906209,
     "wof:name":"Johann Breitegger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

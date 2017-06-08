@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8591890335,48.0820617676,13.8591890335,48.0820617676",
     "geom:latitude":48.082062,
     "geom:longitude":13.859189,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899525,
-    "wof:geomhash":"4e81aaf261e261c9e4bb782437133064",
+    "wof:geomhash":"0982e3350939b28accd1005d69825cd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1092075349
         }
     ],
     "wof:id":1092075349,
-    "wof:lastmodified":1473984260,
+    "wof:lastmodified":1496891756,
     "wof:name":"Gasthof z Schwan",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

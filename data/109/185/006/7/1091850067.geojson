@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2836284637,47.2263832092,11.2836284637,47.2263832092",
     "geom:latitude":47.226383,
     "geom:longitude":11.283628,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889722,
-    "wof:geomhash":"7ec8d8fab24e976ff1b78f78c2065d8c",
+    "wof:geomhash":"c2900853b78370054952251a1dc47fd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091850067
         }
     ],
     "wof:id":1091850067,
-    "wof:lastmodified":1473983322,
+    "wof:lastmodified":1496898036,
     "wof:name":"Schaffenrath GesmbH",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

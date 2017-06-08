@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4663581848,47.1308174133,16.4663581848,47.1308174133",
     "geom:latitude":47.130817,
     "geom:longitude":16.466358,
@@ -23,17 +24,33 @@
     "sg:postcode":"7521",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838741,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yLOuFyUDI8ZaWybdpcZXo_47.130817_16.466358@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894137,
-    "wof:geomhash":"6d3617dfbc5713bee573951fa5ad555d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73523094806b17aa1ed6729fb47c8fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838741,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091944571
+        }
+    ],
     "wof:id":1091944571,
-    "wof:lastmodified":1473984144,
+    "wof:lastmodified":1496909207,
     "wof:name":"Motorcenter Bildein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

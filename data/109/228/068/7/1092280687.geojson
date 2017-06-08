@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3272161484,48.018951416,14.3272161484,48.018951416",
     "geom:latitude":48.018951,
     "geom:longitude":14.327216,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"transporte-mayer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836125,
+        85632785,
+        101833175,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qW86gBjRfoQvyplaYr8Qu_48.018951_14.327216@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909064,
-    "wof:geomhash":"f3783322f682313631fac14f534a1620",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23f819113192028f03cb0b026be86c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836125,
+            "locality_id":101833175,
+            "region_id":85681677,
+            "venue_id":1092280687
+        }
+    ],
     "wof:id":1092280687,
-    "wof:lastmodified":1473983406,
+    "wof:lastmodified":1496889454,
     "wof:name":"Mayer Transporte GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

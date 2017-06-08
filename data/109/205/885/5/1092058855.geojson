@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4651088715,48.2689094543,16.4651088715,48.2689094543",
     "geom:latitude":48.268909,
     "geom:longitude":16.465109,
@@ -25,10 +26,13 @@
     "sg:website":"sbg-spurny.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898858,
-    "wof:geomhash":"1251557c69e5e576588f119e1974bf5b",
+    "wof:geomhash":"38e2044f3075b490a891b70a927059e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092058855
         }
     ],
     "wof:id":1092058855,
-    "wof:lastmodified":1473984890,
+    "wof:lastmodified":1496903040,
     "wof:name":"SBG Spurny GmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

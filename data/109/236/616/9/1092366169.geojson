@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5976638794,47.3775405884,12.5976638794,47.3775405884",
     "geom:latitude":47.377541,
     "geom:longitude":12.597664,
@@ -23,17 +24,33 @@
     "sg:postcode":"5754",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57OEBT5hF38vU0xWtuQkWU_47.377541_12.597664@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912814,
-    "wof:geomhash":"e50ab8bcde391ef69d4a47d3d44c7184",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78d86a7ea82b975345c87bac37827f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092366169
+        }
+    ],
     "wof:id":1092366169,
-    "wof:lastmodified":1473984803,
+    "wof:lastmodified":1496896190,
     "wof:name":"Haus Jakober",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6724328995,47.5323944092,10.6724328995,47.5323944092",
     "geom:latitude":47.532394,
     "geom:longitude":10.672433,
@@ -22,17 +23,33 @@
     "sg:postcode":"6600",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837757,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h6Wd1eqoAkomuxnG0bRCw_47.532394_10.672433@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473887758,
-    "wof:geomhash":"80e9fabe7880930e43fa3ee2e5b5d9a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ab603542e1c023bbb90ab8f75029cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837757,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091806921
+        }
+    ],
     "wof:id":1091806921,
-    "wof:lastmodified":1473983876,
+    "wof:lastmodified":1496899871,
     "wof:name":"Otto-Mayr-H\u00fctte - Allg\u00e4uer Alpen - P\u00e4chter Kerle Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6723413467,47.3135261536,9.6723413467,47.3135261536",
     "geom:latitude":47.313526,
     "geom:longitude":9.672341,
@@ -23,17 +24,33 @@
     "sg:postcode":"6833",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837943,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AW42tym73a8KYjMFh4WZw_47.313526_9.672341@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893225,
-    "wof:geomhash":"3723d62a62aae43c0dcf0e3f22308482",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1768e384852a5525b6b511d3fe7c20e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837943,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091925353
+        }
+    ],
     "wof:id":1091925353,
-    "wof:lastmodified":1473984270,
+    "wof:lastmodified":1496901013,
     "wof:name":"Abfindungsbrennerei Mittelbergerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

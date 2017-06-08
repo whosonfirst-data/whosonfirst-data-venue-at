@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3349437714,48.2263259888,15.3349437714,48.2263259888",
     "geom:latitude":48.226326,
     "geom:longitude":15.334944,
@@ -23,17 +24,34 @@
     "sg:postcode":"3390",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835431,
+        85632785,
+        101784565,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hzCnke5ujeycoWrTfPuEF_48.226326_15.334944@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888952,
-    "wof:geomhash":"1c46bcf9a33dfd8b68e738fb83b07c7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebcb6d7bd97b542fa95c0e023d736481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835431,
+            "locality_id":101784565,
+            "region_id":85681671,
+            "venue_id":1091832945
+        }
+    ],
     "wof:id":1091832945,
-    "wof:lastmodified":1473983874,
+    "wof:lastmodified":1496886609,
     "wof:name":"Bankomat d Sparkasse Melk, Mank-Kilb, Bank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

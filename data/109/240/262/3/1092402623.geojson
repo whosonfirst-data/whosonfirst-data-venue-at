@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8579015732,48.0906066895,13.8579015732,48.0906066895",
     "geom:latitude":48.090607,
     "geom:longitude":13.857902,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914523,
-    "wof:geomhash":"9f2f77f6f6423ccfc95418921d36504d",
+    "wof:geomhash":"07f8f5091c2ad9cf6757f49138027d79",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1092402623
         }
     ],
     "wof:id":1092402623,
-    "wof:lastmodified":1473983846,
+    "wof:lastmodified":1496891633,
     "wof:name":"e Vision Media Consulting GmbH",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

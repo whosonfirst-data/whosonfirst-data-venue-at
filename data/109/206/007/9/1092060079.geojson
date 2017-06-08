@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1604003906,47.8258705139,16.1604003906,47.8258705139",
     "geom:latitude":47.825871,
     "geom:longitude":16.1604,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835771,
+        85632785,
+        101785615,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XCV0xLnjYspXtXKlkTXwc_47.825871_16.160400@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898902,
-    "wof:geomhash":"8ee149bbbd2f9da3719bf38f24db935f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c6268da057c3f5e332e8271526fdb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835771,
+            "locality_id":101785615,
+            "region_id":85681671,
+            "venue_id":1092060079
+        }
+    ],
     "wof:id":1092060079,
-    "wof:lastmodified":1473983337,
+    "wof:lastmodified":1496888285,
     "wof:name":"Herbert Schr\u00f6ck GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.70216465,48.1844711304,13.70216465,48.1844711304",
     "geom:latitude":48.184471,
     "geom:longitude":13.702165,
@@ -31,17 +32,33 @@
         "beech"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835239,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4j3BmzlyoMuSPRRcw2HDOh_48.184471_13.702165@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889808,
-    "wof:geomhash":"ab40c1d13799685e2687b1198717c7be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8fb7d896fc82c3fec2da655f8be0b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835239,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091852097
+        }
+    ],
     "wof:id":1091852097,
-    "wof:lastmodified":1473983705,
+    "wof:lastmodified":1496885544,
     "wof:name":"Robert Platzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

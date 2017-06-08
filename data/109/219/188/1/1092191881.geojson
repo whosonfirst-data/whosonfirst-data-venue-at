@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1210765839,47.9858665466,14.1210765839,47.9858665466",
     "geom:latitude":47.985867,
     "geom:longitude":14.121077,
@@ -32,17 +33,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835513,
+        85632785,
+        101785655,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OWiHVh3WUjcAnhFcyuQs5_47.985867_14.121077@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905102,
-    "wof:geomhash":"e16c8cb81e61cd62dcc269fdbc0daebd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b10b1eeed3f46a07f5f1fbed7c244d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835513,
+            "locality_id":101785655,
+            "region_id":85681677,
+            "venue_id":1092191881
+        }
+    ],
     "wof:id":1092191881,
-    "wof:lastmodified":1473983802,
+    "wof:lastmodified":1496886934,
     "wof:name":"Franz Staudinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

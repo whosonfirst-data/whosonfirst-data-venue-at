@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8495941162,47.9352760315,16.8495941162,47.9352760315",
     "geom:latitude":47.935276,
     "geom:longitude":16.849594,
@@ -23,17 +24,34 @@
     "sg:postcode":"7100",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        101785751,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o2PMwNfkDvBG2Lvhh7tUS_47.935276_16.849594@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909124,
-    "wof:geomhash":"4c9ffff0365f13787ce3084abb5228b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f9185ca6b52ebffbe52621ab4c6b83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":101785751,
+            "region_id":85681651,
+            "venue_id":1092282015
+        }
+    ],
     "wof:id":1092282015,
-    "wof:lastmodified":1473983612,
+    "wof:lastmodified":1496908223,
     "wof:name":"Well - Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

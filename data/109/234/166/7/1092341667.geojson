@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8943567276,48.0352554321,15.8943567276,48.0352554321",
     "geom:latitude":48.035255,
     "geom:longitude":15.894357,
@@ -31,17 +32,33 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835339,
+        85632785,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mkkcB3atUoc50vwHzIJhr_48.035255_15.894357@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911700,
-    "wof:geomhash":"bef9c345bac45b6760758eb53e7455b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33a85b237d1517f5b29b933c90ff71cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108835339,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092341667
+        }
+    ],
     "wof:id":1092341667,
-    "wof:lastmodified":1473983609,
+    "wof:lastmodified":1496886164,
     "wof:name":"IPA Produktions- & Vertriebs Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6765298843,47.0538902283,10.6765298843,47.0538902283",
     "geom:latitude":47.05389,
     "geom:longitude":10.67653,
@@ -32,17 +33,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837283,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HkdkLtsEK70ud3XLFDNwF_47.053890_10.676530@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473887780,
-    "wof:geomhash":"933a00e0ae1a3029b0f3393f0713cf04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86f3ac5dc01a662e240c12b428acedff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837283,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091807245
+        }
+    ],
     "wof:id":1091807245,
-    "wof:lastmodified":1473983898,
+    "wof:lastmodified":1496896647,
     "wof:name":"Schischule Top",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0974082947,47.8477592468,13.0974082947,47.8477592468",
     "geom:latitude":47.847759,
     "geom:longitude":13.097408,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896046,
-    "wof:geomhash":"e444c360ecd364a96ae9bcbbd2ee1485",
+    "wof:geomhash":"5204d66ef84f9f672a1fe30a74df840f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1091988593
         }
     ],
     "wof:id":1091988593,
-    "wof:lastmodified":1473984505,
+    "wof:lastmodified":1496895388,
     "wof:name":"Brugger Wilhelm",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

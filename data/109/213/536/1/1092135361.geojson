@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4724292755,48.2627868652,16.4724292755,48.2627868652",
     "geom:latitude":48.262787,
     "geom:longitude":16.472429,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902522,
-    "wof:geomhash":"774a1a96f66902f8bdd0814e306d3d3b",
+    "wof:geomhash":"2597ff1e2088b5c4574127e5ce7716dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092135361
         }
     ],
     "wof:id":1092135361,
-    "wof:lastmodified":1473984348,
+    "wof:lastmodified":1496902619,
     "wof:name":"Wein & Co HandelsgesmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

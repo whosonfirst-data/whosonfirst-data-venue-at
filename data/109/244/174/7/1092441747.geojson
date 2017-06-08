@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4030284882,48.1420516968,16.4030284882,48.1420516968",
     "geom:latitude":48.142052,
     "geom:longitude":16.403028,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916447,
-    "wof:geomhash":"09ba2d57bb0f011757827745dee1c63b",
+    "wof:geomhash":"661fbb89ad7bdc90d71d73211d5ed4d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092441747
         }
     ],
     "wof:id":1092441747,
-    "wof:lastmodified":1473983692,
+    "wof:lastmodified":1496902107,
     "wof:name":"Bramo Friseur Oberlaa",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

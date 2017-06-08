@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8905773163,47.4607391357,11.8905773163,47.4607391357",
     "geom:latitude":47.460739,
     "geom:longitude":11.890577,
@@ -28,17 +29,33 @@
     "sg:postcode":"6233",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837399,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CloDfgUu4TQQkQWskOkw7_47.460739_11.890577@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898448,
-    "wof:geomhash":"5370130830774a640ebc7a17e863302e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6bd948da28f7bbb9a95d8acf13dfa69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837399,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048371
+        }
+    ],
     "wof:id":1092048371,
-    "wof:lastmodified":1473984224,
+    "wof:lastmodified":1496897566,
     "wof:name":"Hotel Schlo\u00dfhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

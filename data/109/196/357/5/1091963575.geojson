@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4270954132,47.2437286377,11.4270954132,47.2437286377",
     "geom:latitude":47.243729,
     "geom:longitude":11.427095,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894972,
-    "wof:geomhash":"efee54e6028ec88c9fc9f694e8d464d3",
+    "wof:geomhash":"5900a0b76bee69d322566cd5ba055ee9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1091963575
         }
     ],
     "wof:id":1091963575,
-    "wof:lastmodified":1473983876,
+    "wof:lastmodified":1496898417,
     "wof:name":"Golfrestaurant Walter Steirer",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

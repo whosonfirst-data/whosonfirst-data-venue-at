@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9183092117,46.5882835388,13.9183092117,46.5882835388",
     "geom:latitude":46.588284,
     "geom:longitude":13.918309,
@@ -23,17 +24,33 @@
     "sg:postcode":"9580",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01tsnbDOgKM57OfFwpvP3x_46.588284_13.918309@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913911,
-    "wof:geomhash":"6c6cea0fa4d537742ae222f6df0d4495",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b0772208add8509172e2dc7297f6914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092389221
+        }
+    ],
     "wof:id":1092389221,
-    "wof:lastmodified":1473985303,
+    "wof:lastmodified":1496906045,
     "wof:name":"Bundespolizeidirektion Villach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2111520767,47.2575035095,11.2111520767,47.2575035095",
     "geom:latitude":47.257504,
     "geom:longitude":11.211152,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837661,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sCEnfEiOU01qaaZ8WLowY_47.257504_11.211152@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473887738,
-    "wof:geomhash":"789418f1a37a393d0d166eb7b0098ea8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae5c9eae463d3b514772c2ed3de1b074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837661,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091806563
+        }
+    ],
     "wof:id":1091806563,
-    "wof:lastmodified":1473983752,
+    "wof:lastmodified":1496899042,
     "wof:name":"Derfeser Betonwerk Ranggen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

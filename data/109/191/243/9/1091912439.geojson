@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6347007751,48.1326217651,15.6347007751,48.1326217651",
     "geom:latitude":48.132622,
     "geom:longitude":15.634701,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836803,
+        85632785,
+        102049849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5arY6a8hnokazamcTgVRwc_48.132622_15.634701@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892655,
-    "wof:geomhash":"dc00008482395bb49e79d3a1609314a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ddf661578dfd77309515a34b7b98b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049849,
+            "localadmin_id":1108836803,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091912439
+        }
+    ],
     "wof:id":1091912439,
-    "wof:lastmodified":1473983512,
+    "wof:lastmodified":1496892811,
     "wof:name":"APSoft Softwareschmiede",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

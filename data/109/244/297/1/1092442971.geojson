@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6893758774,47.2733726501,15.6893758774,47.2733726501",
     "geom:latitude":47.273373,
     "geom:longitude":15.689376,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"friseur-erich.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838851,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30c5pNnw6dSXTnZlkNkBFV_47.273373_15.689376@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916506,
-    "wof:geomhash":"374e3eb93c767bea024461178ad8e2f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bb5d290eb6b542996a45266377e7d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838851,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092442971
+        }
+    ],
     "wof:id":1092442971,
-    "wof:lastmodified":1473983971,
+    "wof:lastmodified":1496909606,
     "wof:name":"Erlebnisfriseur Erich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

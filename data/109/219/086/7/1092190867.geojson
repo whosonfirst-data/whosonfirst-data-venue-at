@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9618492126,48.156791687,12.9618492126,48.156791687",
     "geom:latitude":48.156792,
     "geom:longitude":12.961849,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834733,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JaV4IwFMZDEslxiMdmklV_48.156792_12.961849@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905065,
-    "wof:geomhash":"55249b0df38bb3aa398bbfd1e7d2001b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9eb04fcbc4af9b614b8b5cd1d7740f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834733,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190867
+        }
+    ],
     "wof:id":1092190867,
-    "wof:lastmodified":1473983488,
+    "wof:lastmodified":1496882365,
     "wof:name":"Valentin Eisenf\u00fchrer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

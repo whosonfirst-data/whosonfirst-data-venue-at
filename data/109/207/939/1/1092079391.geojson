@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4030208588,47.7389602661,16.4030208588,47.7389602661",
     "geom:latitude":47.73896,
     "geom:longitude":16.403021,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"schenke.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838419,
+        85632785,
+        101833073,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aX1cU9MupXaE4InEi1vD2_47.738960_16.403021@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899731,
-    "wof:geomhash":"aaf77437e8850fe0d2042182199a5cf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9aae7458ce5f88a70404ad3ace498fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838419,
+            "locality_id":101833073,
+            "region_id":85681651,
+            "venue_id":1092079391
+        }
+    ],
     "wof:id":1092079391,
-    "wof:lastmodified":1473985041,
+    "wof:lastmodified":1496907815,
     "wof:name":"Martini Schenke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

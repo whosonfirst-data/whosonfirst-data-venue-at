@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0334882736,48.2554092407,13.0334882736,48.2554092407",
     "geom:latitude":48.255409,
     "geom:longitude":13.033488,
@@ -23,17 +24,34 @@
     "sg:postcode":"5280",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        101913421,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dzwhLx3o2k8mIBh7Nviq9_48.255409_13.033488@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896911,
-    "wof:geomhash":"caddcf1333bd85fa821d4cd1ae69cde2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9c00a71730d99f7019435addca3b858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":101913421,
+            "region_id":85681677,
+            "venue_id":1092009115
+        }
+    ],
     "wof:id":1092009115,
-    "wof:lastmodified":1473985004,
+    "wof:lastmodified":1496882294,
     "wof:name":"Dialysestation am allg \u00f6ffentl Krankenhaus St Josef d Schulschwestern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

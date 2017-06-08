@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6939096451,47.0783538818,13.6939096451,47.0783538818",
     "geom:latitude":47.078354,
     "geom:longitude":13.69391,
@@ -23,17 +24,33 @@
     "sg:postcode":"5581",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837061,
+        85632785,
+        102049721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YK1Hi3j2SvFO7mb6IMcK8_47.078354_13.693910@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899484,
-    "wof:geomhash":"d603f18f61c52bd37bd553eb583784f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4dea9c06a8a3b009643455d9bc409bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837061,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092074305
+        }
+    ],
     "wof:id":1092074305,
-    "wof:lastmodified":1473984128,
+    "wof:lastmodified":1496894249,
     "wof:name":"Gasthof Schwaiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

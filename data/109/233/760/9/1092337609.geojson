@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3081054688,48.0558662415,16.3081054688,48.0558662415",
     "geom:latitude":48.055866,
     "geom:longitude":16.308105,
@@ -34,17 +35,33 @@
         "measurement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836951,
+        85632785,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2naUmrCuzxq8gbSyr5yIHy_48.055866_16.308105@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911526,
-    "wof:geomhash":"99ed64c4e7f4128e381aad6dff8bfc28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c186e6dcc9f12956e3e4027fccbdd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836951,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092337609
+        }
+    ],
     "wof:id":1092337609,
-    "wof:lastmodified":1473985191,
+    "wof:lastmodified":1496893470,
     "wof:name":"DANFOSS GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

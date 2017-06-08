@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6653614044,46.7902870178,12.6653614044,46.7902870178",
     "geom:latitude":46.790287,
     "geom:longitude":12.665361,
@@ -23,17 +24,33 @@
     "sg:postcode":"9911",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837489,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48T01yOJXkWBLGWvbrSkUy_46.790287_12.665361@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903580,
-    "wof:geomhash":"cdec5cbf49eabab86c780a2fa1ed6cfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5b6ad946a24110f655754a4862cba6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837489,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092157881
+        }
+    ],
     "wof:id":1092157881,
-    "wof:lastmodified":1473984927,
+    "wof:lastmodified":1496898085,
     "wof:name":"Volksschule Penzendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

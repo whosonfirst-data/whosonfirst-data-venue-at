@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3060874939,47.6994285583,16.3060874939,47.6994285583",
     "geom:latitude":47.699429,
     "geom:longitude":16.306087,
@@ -23,17 +24,33 @@
     "sg:postcode":"7212",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838663,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WkBo17KsCjuObly87ytNf_47.699429_16.306087@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899354,
-    "wof:geomhash":"0e06350480e84943902762ae23aaef1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0650995382ce43feb41a617d41ea615e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838663,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092071165
+        }
+    ],
     "wof:id":1092071165,
-    "wof:lastmodified":1473983581,
+    "wof:lastmodified":1496909037,
     "wof:name":"Gasthaus Zur Rosaliakapelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

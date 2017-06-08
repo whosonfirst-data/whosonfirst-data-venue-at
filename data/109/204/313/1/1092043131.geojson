@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6382513046,47.2719268799,9.6382513046,47.2719268799",
     "geom:latitude":47.271927,
     "geom:longitude":9.638251,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898247,
-    "wof:geomhash":"a50506e82b712b3ba873802c174563de",
+    "wof:geomhash":"ec070df8646528db24fbb881e59e56fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092043131
         }
     ],
     "wof:id":1092043131,
-    "wof:lastmodified":1473983329,
+    "wof:lastmodified":1496901646,
     "wof:name":"Gehring Herbert",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

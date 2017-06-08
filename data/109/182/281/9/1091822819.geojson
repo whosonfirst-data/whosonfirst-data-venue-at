@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5659627914,47.5489273071,15.5659627914,47.5489273071",
     "geom:latitude":47.548927,
     "geom:longitude":15.565963,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"kbe-wintergarten.at; kbe-wintergarten.at/synthesis.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838877,
+        85632785,
+        101787989,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iGuZX5VfwpOwBEWFxQhpw_47.548927_15.565963@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888471,
-    "wof:geomhash":"f0375c9ad869a1fb902794600ffcf56f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62ac66ba3aa0fcf71ae4467f8aec6a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838877,
+            "locality_id":101787989,
+            "region_id":85681687,
+            "venue_id":1091822819
+        }
+    ],
     "wof:id":1091822819,
-    "wof:lastmodified":1473984012,
+    "wof:lastmodified":1496909810,
     "wof:name":"KBE Bauelemente HandelsgesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

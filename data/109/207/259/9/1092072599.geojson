@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3369750977,47.1425476074,11.3369750977,47.1425476074",
     "geom:latitude":47.142548,
     "geom:longitude":11.336975,
@@ -23,17 +24,33 @@
     "sg:postcode":"6166",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837587,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zOrUGThmC9NuVA0t4d8zG_47.142548_11.336975@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899414,
-    "wof:geomhash":"c0ff57a5bd5f9a39c5f2501d6ccf3f5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a738ab5d509f1071f08ef3334ec2783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837587,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092072599
+        }
+    ],
     "wof:id":1092072599,
-    "wof:lastmodified":1473983806,
+    "wof:lastmodified":1496898619,
     "wof:name":"Gasthof Gr\u00f6benhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

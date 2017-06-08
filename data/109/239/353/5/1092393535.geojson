@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6714305878,47.8008384705,16.6714305878,47.8008384705",
     "geom:latitude":47.800838,
     "geom:longitude":16.671431,
@@ -23,17 +24,34 @@
     "sg:postcode":"7071",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rEjrlONmbwzNtGLqZ7nke_47.800838_16.671431@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914138,
-    "wof:geomhash":"da8cecc6d42dc29f1abbefda9112a5c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9635455f901e6ad1c356399538430b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1092393535
+        }
+    ],
     "wof:id":1092393535,
-    "wof:lastmodified":1473983844,
+    "wof:lastmodified":1496909065,
     "wof:name":"Postamt 7071 Rust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

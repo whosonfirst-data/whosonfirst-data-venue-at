@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7814750671,48.0463294983,14.7814750671,48.0463294983",
     "geom:latitude":48.046329,
     "geom:longitude":14.781475,
@@ -33,17 +34,33 @@
         "-verarbeitung"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834841,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FonrXwdPd8fluG2kfjocx_48.046329_14.781475@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473913997,
-    "wof:geomhash":"8aa88dd2ca47800a8d2169f38cbca70e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c50248cc574e98e98b0f673e001ca009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834841,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092390829
+        }
+    ],
     "wof:id":1092390829,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496882880,
     "wof:name":"Pils Herbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

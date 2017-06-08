@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8093805313,48.5317764282,14.8093805313,48.5317764282",
     "geom:latitude":48.531776,
     "geom:longitude":14.809381,
@@ -31,17 +32,33 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835083,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mWa8TIxWS0TLQN5egb8PP_48.531776_14.809381@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891171,
-    "wof:geomhash":"d2a008315745fa0af774b662d980ed90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9b6d264d3f8e79ff601a35a66b54c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835083,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091880779
+        }
+    ],
     "wof:id":1091880779,
-    "wof:lastmodified":1473983543,
+    "wof:lastmodified":1496884504,
     "wof:name":"Franz Egger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4245491028,47.4043807983,16.4245491028,47.4043807983",
     "geom:latitude":47.404381,
     "geom:longitude":16.424549,
@@ -23,17 +24,33 @@
     "sg:postcode":"7442",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838623,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CPl8R8pJpWSFyc4p3uNVb_47.404381_16.424549@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897366,
-    "wof:geomhash":"8c3c58af364614756528b43b861323c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4093fe484ec67fe01ad4e7dce90c6ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838623,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092020591
+        }
+    ],
     "wof:id":1092020591,
-    "wof:lastmodified":1473983457,
+    "wof:lastmodified":1496908889,
     "wof:name":"Grenz\u00fcberwachungsposten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

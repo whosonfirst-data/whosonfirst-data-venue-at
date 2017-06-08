@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2681980133,48.1909255981,16.2681980133,48.1909255981",
     "geom:latitude":48.190926,
     "geom:longitude":16.268198,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904015,
-    "wof:geomhash":"7eb986bc215f8b15cc2625396c7d11bf",
+    "wof:geomhash":"a9004773d1c2ff425e980b84c158bf6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092167795
         }
     ],
     "wof:id":1092167795,
-    "wof:lastmodified":1473984956,
+    "wof:lastmodified":1496929102,
     "wof:name":"Jilg Herbert Beratung & Training GesmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

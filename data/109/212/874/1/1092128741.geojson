@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5982675552,47.2370300293,9.5982675552,47.2370300293",
     "geom:latitude":47.23703,
     "geom:longitude":9.598268,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902208,
-    "wof:geomhash":"a9bb5d1497d336175a0cd9b921f21d41",
+    "wof:geomhash":"0c86e3025e5b691aba7faeb74c2f29bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092128741
         }
     ],
     "wof:id":1092128741,
-    "wof:lastmodified":1473985136,
+    "wof:lastmodified":1496900910,
     "wof:name":"Adris Orientteppiche",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

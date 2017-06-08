@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9467754364,48.1365432739,16.9467754364,48.1365432739",
     "geom:latitude":48.136543,
     "geom:longitude":16.946775,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"pkn.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835779,
+        85632785,
+        101784521,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1toaaWaWrMvhQuR3QGqrYk_48.136543_16.946775@1306268273"
     },
     "wof:country":"AT",
     "wof:created":1473902049,
-    "wof:geomhash":"3847349e11785c6e5ffea0ca5ad15f11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd36b714c1be2a314e9da6f11832bb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108835779,
+            "locality_id":101784521,
+            "region_id":85681671,
+            "venue_id":1092126053
+        }
+    ],
     "wof:id":1092126053,
-    "wof:lastmodified":1473984533,
+    "wof:lastmodified":1496888311,
     "wof:name":"PKN Wenak Geb\u00e4udereinigungs GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

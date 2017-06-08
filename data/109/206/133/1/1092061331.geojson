@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3500928879,47.1464042664,11.3500928879,47.1464042664",
     "geom:latitude":47.146404,
     "geom:longitude":11.350093,
@@ -23,17 +24,34 @@
     "sg:postcode":"6166",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837587,
+        85632785,
+        101873991,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WLE5Kx9fnz2g8Rntistmm_47.146404_11.350093@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898953,
-    "wof:geomhash":"cd8de387058d5a01da68cc823eda1065",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc6b9f24461e93d92d13ed8056420f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837587,
+            "locality_id":101873991,
+            "region_id":85681661,
+            "venue_id":1092061331
+        }
+    ],
     "wof:id":1092061331,
-    "wof:lastmodified":1473983659,
+    "wof:lastmodified":1496898613,
     "wof:name":"Alpengasthaus Wildeben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

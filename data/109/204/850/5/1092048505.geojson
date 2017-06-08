@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4854803085,47.2516975403,14.4854803085,47.2516975403",
     "geom:latitude":47.251698,
     "geom:longitude":14.48548,
@@ -28,17 +29,33 @@
     "sg:postcode":"8762",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838953,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eMn0qxtRiMbyS2skf0wtd_47.251698_14.485480@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898453,
-    "wof:geomhash":"0dd23586c8bf87790f416ac6c1d6e404",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e8d339fe055b9da51ad71552cee526c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108838953,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092048505
+        }
+    ],
     "wof:id":1092048505,
-    "wof:lastmodified":1473984246,
+    "wof:lastmodified":1496910474,
     "wof:name":"Hotel Silberhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

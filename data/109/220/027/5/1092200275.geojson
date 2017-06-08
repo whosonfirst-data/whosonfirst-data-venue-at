@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.900100708,48.6024856567,16.900100708,48.6024856567",
     "geom:latitude":48.602486,
     "geom:longitude":16.900101,
@@ -32,17 +33,34 @@
         "covering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835753,
+        85632785,
+        101782223,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34gQ53sgGjkfp2kXJqx80D_48.602486_16.900101@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905468,
-    "wof:geomhash":"9350d58ccc5ae501e6d655f2fa4e0853",
-    "wof:hierarchy":[],
+    "wof:geomhash":"724ce07a5f40fa09bc8892390403f5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835753,
+            "locality_id":101782223,
+            "region_id":85681671,
+            "venue_id":1092200275
+        }
+    ],
     "wof:id":1092200275,
-    "wof:lastmodified":1473983381,
+    "wof:lastmodified":1496888211,
     "wof:name":"Wolfgang Wittmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

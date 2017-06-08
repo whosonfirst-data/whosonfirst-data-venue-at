@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4944038391,47.5799293518,15.4944038391,47.5799293518",
     "geom:latitude":47.579929,
     "geom:longitude":15.494404,
@@ -23,17 +24,33 @@
     "sg:postcode":"8663",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838861,
+        85632785,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wcDzBxBdQDOpKE6ZA6qiF_47.579929_15.494404@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908660,
-    "wof:geomhash":"723a95f39f5e870694787b550e6ac9fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a728fd685ce97e9ab0a799b5e1a04dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838861,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092271463
+        }
+    ],
     "wof:id":1092271463,
-    "wof:lastmodified":1473983717,
+    "wof:lastmodified":1496909678,
     "wof:name":"Elektro Krug GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

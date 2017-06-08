@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.490899086,47.0926895142,15.490899086,47.0926895142",
     "geom:latitude":47.09269,
     "geom:longitude":15.490899,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907888,
-    "wof:geomhash":"fc1da1cf7c2bcb7e56ea1279a420b906",
+    "wof:geomhash":"0317e9153efa24e01875f33bc34cfe1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092254099
         }
     ],
     "wof:id":1092254099,
-    "wof:lastmodified":1473984290,
+    "wof:lastmodified":1496913088,
     "wof:name":"Bondar Transporte GmbH",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

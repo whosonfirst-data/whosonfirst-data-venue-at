@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0463886261,48.9446525574,15.0463886261,48.9446525574",
     "geom:latitude":48.944653,
     "geom:longitude":15.046389,
@@ -31,17 +32,34 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108836269,
+        85633105,
+        101780877,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qd9Gb4Rlse0HOWR5x44Vj_48.944653_15.046389@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891173,
-    "wof:geomhash":"01d6562e1e0d6b1a343cebff68929e08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a704cc494e287398cf20fc42612a0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108836269,
+            "locality_id":101780877,
+            "region_id":85682415,
+            "venue_id":1091880833
+        }
+    ],
     "wof:id":1091880833,
-    "wof:lastmodified":1473983545,
+    "wof:lastmodified":1496890277,
     "wof:name":"Richard Eigl GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

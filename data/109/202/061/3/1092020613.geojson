@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3847827911,48.7231826782,16.3847827911,48.7231826782",
     "geom:latitude":48.723183,
     "geom:longitude":16.384783,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"gsonek.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836617,
+        85632785,
+        101782245,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JjLcKndk5DjZSTdLFsxZK_48.723183_16.384783@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897366,
-    "wof:geomhash":"3143d3aa80b425546118efbc847dfa6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8311b31f34c30f8339997fc5382fb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836617,
+            "locality_id":101782245,
+            "region_id":85681671,
+            "venue_id":1092020613
+        }
+    ],
     "wof:id":1092020613,
-    "wof:lastmodified":1473983452,
+    "wof:lastmodified":1496891954,
     "wof:name":"GSONEK Lebensmittel GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.354388237,47.2662162781,11.354388237,47.2662162781",
     "geom:latitude":47.266216,
     "geom:longitude":11.354388,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908134,
-    "wof:geomhash":"443b5204c99415ccc7c18b62fb159097",
+    "wof:geomhash":"148c07d7f4dbee21e0702fa17a56e6c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092259559
         }
     ],
     "wof:id":1092259559,
-    "wof:lastmodified":1473985216,
+    "wof:lastmodified":1496899212,
     "wof:name":"Soller G\u00fcnther",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

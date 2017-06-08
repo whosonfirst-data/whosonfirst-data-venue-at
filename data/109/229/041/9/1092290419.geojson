@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4874696732,47.1044883728,15.4874696732,47.1044883728",
     "geom:latitude":47.104488,
     "geom:longitude":15.48747,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909458,
-    "wof:geomhash":"298d00ff88a3e177dffd3ebc5dc5c8fa",
+    "wof:geomhash":"22a5473a37fdc7fb920e713898facb62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092290419
         }
     ],
     "wof:id":1092290419,
-    "wof:lastmodified":1473983467,
+    "wof:lastmodified":1496913526,
     "wof:name":"St Hubertus Apotheke Mag N Kostner KG",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6432571411,47.2692871094,9.6432571411,47.2692871094",
     "geom:latitude":47.269287,
     "geom:longitude":9.643257,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913291,
-    "wof:geomhash":"e018e47cd105fcc315c9290ef8582be8",
+    "wof:geomhash":"a69abada5ce6d43191a45ccb3ebc22f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092376281
         }
     ],
     "wof:id":1092376281,
-    "wof:lastmodified":1473984738,
+    "wof:lastmodified":1496901644,
     "wof:name":"Mayer Unternehmensberatung f Personalmanagement",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

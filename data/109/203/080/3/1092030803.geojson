@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9125099182,47.9605484009,12.9125099182,47.9605484009",
     "geom:latitude":47.960548,
     "geom:longitude":12.91251,
@@ -23,17 +24,33 @@
     "sg:postcode":"5113",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837173,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XHe1TM1vsU3wic2cVqOlI_47.960548_12.912510@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897754,
-    "wof:geomhash":"ffcd23701a669922eda723f21dae5d5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"822ffa93edec3535c5e8236ae2597499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837173,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092030803
+        }
+    ],
     "wof:id":1092030803,
-    "wof:lastmodified":1473983474,
+    "wof:lastmodified":1496895616,
     "wof:name":"Erlacher Friedrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

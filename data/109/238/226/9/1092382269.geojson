@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8818416595,46.5944786072,13.8818416595,46.5944786072",
     "geom:latitude":46.594479,
     "geom:longitude":13.881842,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        101748057,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eDBjusrQWZRqMthzzzuqm_46.594479_13.881842@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913539,
-    "wof:geomhash":"0e9fcd0b7730806817832be6ecd60370",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92e76b31696bb7dd9af25f05db04b079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":101748057,
+            "region_id":85681655,
+            "venue_id":1092382269
+        }
+    ],
     "wof:id":1092382269,
-    "wof:lastmodified":1473983872,
+    "wof:lastmodified":1496906138,
     "wof:name":"Dobner Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7958574295,46.8134498596,13.7958574295,46.8134498596",
     "geom:latitude":46.81345,
     "geom:longitude":13.795857,
@@ -28,17 +29,33 @@
     "sg:postcode":"9546",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50E863fDIkfSqqcmOombtZ_46.813450_13.795857@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898312,
-    "wof:geomhash":"92a206f1d9ab613fd374173b70b949f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4b5973d10d17625c26b45dc9c7530b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092044823
+        }
+    ],
     "wof:id":1092044823,
-    "wof:lastmodified":1473983706,
+    "wof:lastmodified":1496906822,
     "wof:name":"Die Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

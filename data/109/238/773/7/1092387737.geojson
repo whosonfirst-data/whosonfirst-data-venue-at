@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3511886597,48.2078514099,16.3511886597,48.2078514099",
     "geom:latitude":48.207851,
     "geom:longitude":16.351189,
@@ -24,13 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898679,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898687,
-        85898679
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,21 +39,13 @@
     },
     "wof:country":"AT",
     "wof:created":1473913840,
-    "wof:geomhash":"4f14c5e962c8d19854fa37077ac06a24",
+    "wof:geomhash":"2459137d61b79feab2c723826b977ff2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
-            "locality_id":101748073,
-            "neighbourhood_id":85898687,
-            "region_id":85681667,
-            "venue_id":1092387737
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85632785,
-            "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
             "neighbourhood_id":85898679,
             "region_id":85681667,
@@ -60,9 +53,9 @@
         }
     ],
     "wof:id":1092387737,
-    "wof:lastmodified":1473985156,
+    "wof:lastmodified":1496904486,
     "wof:name":"Houska Renate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85898679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

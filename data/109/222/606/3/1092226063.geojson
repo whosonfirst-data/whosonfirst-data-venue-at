@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0783281326,47.8062095642,13.0783281326,47.8062095642",
     "geom:latitude":47.80621,
     "geom:longitude":13.078328,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906659,
-    "wof:geomhash":"3cbfb9fd96975af294f7d7fd49eb472b",
+    "wof:geomhash":"3970b78a66d9f3c066f079f55a6e33a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092226063
         }
     ],
     "wof:id":1092226063,
-    "wof:lastmodified":1473984799,
+    "wof:lastmodified":1496894560,
     "wof:name":"Flucher Christof Dipl-Ing",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

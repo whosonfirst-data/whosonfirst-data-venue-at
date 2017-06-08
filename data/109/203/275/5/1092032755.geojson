@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4824924469,48.2917327881,16.4824924469,48.2917327881",
     "geom:latitude":48.291733,
     "geom:longitude":16.482492,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897837,
-    "wof:geomhash":"91e21d656a80afe5686a0bea087a3333",
+    "wof:geomhash":"9128a6d16b4bcf38ed0792fed97ef17d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092032755
         }
     ],
     "wof:id":1092032755,
-    "wof:lastmodified":1473983876,
+    "wof:lastmodified":1496903620,
     "wof:name":"Rittinger G\u00fcnter",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

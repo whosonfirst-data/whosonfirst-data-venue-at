@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9100599289,47.2476654053,9.9100599289,47.2476654053",
     "geom:latitude":47.247665,
     "geom:longitude":9.91006,
@@ -32,17 +33,33 @@
         "adventure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837939,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65j0XtoswFgewjbnx7cJFX_47.247665_9.910060@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904973,
-    "wof:geomhash":"6fa21b99992d5da130a149f337abd650",
-    "wof:hierarchy":[],
+    "wof:geomhash":"772188b8525af4d6f5bbbaf4be89639c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837939,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092188825
+        }
+    ],
     "wof:id":1092188825,
-    "wof:lastmodified":1473985073,
+    "wof:lastmodified":1496900982,
     "wof:name":"Schi-H\u00fctte Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

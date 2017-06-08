@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2773895264,48.2140197754,14.2773895264,48.2140197754",
     "geom:latitude":48.21402,
     "geom:longitude":14.27739,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898417,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905524,
-    "wof:geomhash":"2f9f5fcd3eafe5f2cf462f229270d92e",
+    "wof:geomhash":"69b6924bcfd78e9f0138192399c52a23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898417,
             "region_id":85681677,
             "venue_id":1092201205
         }
     ],
     "wof:id":1092201205,
-    "wof:lastmodified":1473983637,
+    "wof:lastmodified":1496886980,
     "wof:name":"Scharm\u00fchle Alfred Huber Ansfelden",
     "wof:parent_id":85898417,
     "wof:placetype":"venue",

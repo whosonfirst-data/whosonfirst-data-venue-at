@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4256868362,48.1508216858,14.4256868362,48.1508216858",
     "geom:latitude":48.150822,
     "geom:longitude":14.425687,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"sl-elektro.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835529,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FUjbckJK35GTfuTmuvk89_48.150822_14.425687@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908431,
-    "wof:geomhash":"c9301f0123f2c68f27c1e52940f74a16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c57c14b748bd562deb0d3204d3ab5ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835529,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092266103
+        }
+    ],
     "wof:id":1092266103,
-    "wof:lastmodified":1473984518,
+    "wof:lastmodified":1496887101,
     "wof:name":"S & L Elektro GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

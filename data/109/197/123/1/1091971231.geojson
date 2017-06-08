@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2874164581,48.301071167,14.2874164581,48.301071167",
     "geom:latitude":48.301071,
     "geom:longitude":14.287416,
@@ -24,13 +25,14 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
+        85898459,
         102191581,
+        1108834701,
         85632785,
         101748071,
         102049853,
-        85898449,
-        85898459
+        85681677,
+        85898449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473895292,
-    "wof:geomhash":"4879ca3753cedac1bfda74a4cab4b3e8",
+    "wof:geomhash":"6d2bc9c27dd706844a64da476b2f2006",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
             "locality_id":101748071,
-            "neighbourhood_id":85898449,
+            "neighbourhood_id":85898459,
             "region_id":85681677,
             "venue_id":1091971231
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
             "locality_id":101748071,
-            "neighbourhood_id":85898459,
+            "neighbourhood_id":85898449,
             "region_id":85681677,
             "venue_id":1091971231
         }
     ],
     "wof:id":1091971231,
-    "wof:lastmodified":1473983607,
+    "wof:lastmodified":1496914385,
     "wof:name":"Trattoria da Giuseppe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6837520599,47.2933158875,9.6837520599,47.2933158875",
     "geom:latitude":47.293316,
     "geom:longitude":9.683752,
@@ -23,17 +24,33 @@
     "sg:postcode":"6832",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838093,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hTB8P2TXtz3HGEabaJ2AL_47.293316_9.683752@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908920,
-    "wof:geomhash":"b30d397c7b5376774a2110c4d3206004",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63f1b244ee704facfefcbbcf07d576f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838093,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092277531
+        }
+    ],
     "wof:id":1092277531,
-    "wof:lastmodified":1473985122,
+    "wof:lastmodified":1496901916,
     "wof:name":"BHT Biomasseheiztechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

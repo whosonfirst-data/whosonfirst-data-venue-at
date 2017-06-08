@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4683132172,48.1810913086,16.4683132172,48.1810913086",
     "geom:latitude":48.181091,
     "geom:longitude":16.468313,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898297,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893045,
-    "wof:geomhash":"99399b08c5fc7dbe9d50088d3e163330",
+    "wof:geomhash":"a70f4f7091ed7a77d17c79c509a5bb74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898297,
             "region_id":85681667,
             "venue_id":1091921389
         }
     ],
     "wof:id":1091921389,
-    "wof:lastmodified":1473983575,
+    "wof:lastmodified":1496927956,
     "wof:name":"Bischof GesmbH",
     "wof:parent_id":85898297,
     "wof:placetype":"venue",

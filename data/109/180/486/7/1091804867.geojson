@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8468780518,48.6087417603,13.8468780518,48.6087417603",
     "geom:latitude":48.608742,
     "geom:longitude":13.846878,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835965,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ECteYL1eMIR7S8t2QRD33_48.608742_13.846878@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473887646,
-    "wof:geomhash":"d699ce86a715db138286e2f1af430eb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c3f2484acdaa3605762d6a22b08ea4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835965,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091804867
+        }
+    ],
     "wof:id":1091804867,
-    "wof:lastmodified":1473983442,
+    "wof:lastmodified":1496889105,
     "wof:name":"Markus Krenn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

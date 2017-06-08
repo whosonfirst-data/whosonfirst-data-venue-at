@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4855985641,48.2076797485,13.4855985641,48.2076797485",
     "geom:latitude":48.20768,
     "geom:longitude":13.485599,
@@ -34,17 +35,34 @@
         "arch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tv3TSM8o6lj7meqXHB9gv_48.207680_13.485599@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473909870,
-    "wof:geomhash":"20b34504f9767f7be06586cb34752ac0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7b5cde71635b28a4845d89c111ee437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1092299867
+        }
+    ],
     "wof:id":1092299867,
-    "wof:lastmodified":1473985243,
+    "wof:lastmodified":1496887908,
     "wof:name":"Wolfgang Freyer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

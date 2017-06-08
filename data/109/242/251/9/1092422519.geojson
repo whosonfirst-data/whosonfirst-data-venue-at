@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5097408295,48.2146224976,16.5097408295,48.2146224976",
     "geom:latitude":48.214622,
     "geom:longitude":16.509741,
@@ -25,10 +26,13 @@
     "sg:website":"anglerwelt.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915556,
-    "wof:geomhash":"f130c3ba6cbed772b9993096dfb7a760",
+    "wof:geomhash":"f18ead9629f2a27842a4ddca375093eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092422519
         }
     ],
     "wof:id":1092422519,
-    "wof:lastmodified":1473983845,
+    "wof:lastmodified":1496903466,
     "wof:name":"ANGLERWELT",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

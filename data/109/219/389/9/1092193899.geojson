@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2581787109,48.1325874329,16.2581787109,48.1325874329",
     "geom:latitude":48.132587,
     "geom:longitude":16.258179,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905195,
-    "wof:geomhash":"95f2e98121214f9a5e51edbd6ecd9c5f",
+    "wof:geomhash":"f98a51e7e2b38a44c04e37384fa9dd9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092193899
         }
     ],
     "wof:id":1092193899,
-    "wof:lastmodified":1473984209,
+    "wof:lastmodified":1496904228,
     "wof:name":"Kostner Bernd Dr",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0816049576,47.7910842896,13.0816049576,47.7910842896",
     "geom:latitude":47.791084,
     "geom:longitude":13.081605,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892653,
-    "wof:geomhash":"800feebd85f3c9be28f7532c849926f4",
+    "wof:geomhash":"3e5d35cf05c98af5b671f49bb08a8d53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1091912383
         }
     ],
     "wof:id":1091912383,
-    "wof:lastmodified":1473983500,
+    "wof:lastmodified":1496894548,
     "wof:name":"Alladin Software Development & Consult GmbH",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

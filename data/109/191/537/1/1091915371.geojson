@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3335161209,46.9733390808,15.3335161209,46.9733390808",
     "geom:latitude":46.973339,
     "geom:longitude":15.333516,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839175,
+        85632785,
+        101789105,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pZHPuElmLPhmYMDg9UzhX_46.973339_15.333516@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892804,
-    "wof:geomhash":"8037d9ae307bd7a10b829d76101894fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a714c9fbb61c1f591519cfe32349334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839175,
+            "locality_id":101789105,
+            "region_id":85681687,
+            "venue_id":1091915371
+        }
+    ],
     "wof:id":1091915371,
-    "wof:lastmodified":1473983975,
+    "wof:lastmodified":1496911702,
     "wof:name":"Schuster Gerhard Dipl-Ing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

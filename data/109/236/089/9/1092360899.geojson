@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1783657074,47.2733879089,11.1783657074,47.2733879089",
     "geom:latitude":47.273388,
     "geom:longitude":11.178366,
@@ -23,17 +24,33 @@
     "sg:postcode":"6401",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837677,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fv8VjuerrCzymNrcyLcto_47.273388_11.178366@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912553,
-    "wof:geomhash":"cf4ce1d1f200f9e4360f3de7cf973dc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15d43e542b8512a7b010007b07fe0d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837677,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092360899
+        }
+    ],
     "wof:id":1092360899,
-    "wof:lastmodified":1473983485,
+    "wof:lastmodified":1496899081,
     "wof:name":"Adelshof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

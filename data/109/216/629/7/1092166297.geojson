@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4961891174,48.2318840027,16.4961891174,48.2318840027",
     "geom:latitude":48.231884,
     "geom:longitude":16.496189,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903946,
-    "wof:geomhash":"44a4b799ce1f86648bd58806dd810c32",
+    "wof:geomhash":"7ac6ee2a03ea190d8381a2d2d2c80833",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092166297
         }
     ],
     "wof:id":1092166297,
-    "wof:lastmodified":1473984601,
+    "wof:lastmodified":1496905029,
     "wof:name":"CMS Consulting Agency - Mag Claudia Melchert-Strohmaier",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.414847374,47.2855300903,11.414847374,47.2855300903",
     "geom:latitude":47.28553,
     "geom:longitude":11.414847,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911351,
-    "wof:geomhash":"574629c5b0bcc127818907e7aa43e4b7",
+    "wof:geomhash":"5da2c5cf2328d656ad34c4dd61c061d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092333243
         }
     ],
     "wof:id":1092333243,
-    "wof:lastmodified":1473984073,
+    "wof:lastmodified":1496899404,
     "wof:name":"Lang Rudolf",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

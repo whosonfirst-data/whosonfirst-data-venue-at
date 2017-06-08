@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5031375885,47.2056350708,14.5031375885,47.2056350708",
     "geom:latitude":47.205635,
     "geom:longitude":14.503138,
@@ -31,17 +32,33 @@
         "beech"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839409,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AvacDQRfX6Vp54fEAE4pv_47.205635_14.503138@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889806,
-    "wof:geomhash":"c0a256990462c8530019b02296421ec0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0c200c18655096c55a0fb8acb6549b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839409,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091852051
+        }
+    ],
     "wof:id":1091852051,
-    "wof:lastmodified":1473983715,
+    "wof:lastmodified":1496914103,
     "wof:name":"Ewald Unger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

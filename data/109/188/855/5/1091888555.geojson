@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5979528427,47.2375831604,9.5979528427,47.2375831604",
     "geom:latitude":47.237583,
     "geom:longitude":9.597953,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891576,
-    "wof:geomhash":"e9bf7b695f65f2e9da75e90c4a06810a",
+    "wof:geomhash":"377ec4e38f6441e015390c1e045bc691",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091888555
         }
     ],
     "wof:id":1091888555,
-    "wof:lastmodified":1473985004,
+    "wof:lastmodified":1496900896,
     "wof:name":"Schnell Jakob GesmbH & Co",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

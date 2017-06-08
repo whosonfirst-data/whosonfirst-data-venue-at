@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5241279602,46.5960235596,13.5241279602,46.5960235596",
     "geom:latitude":46.596024,
     "geom:longitude":13.524128,
@@ -23,17 +24,33 @@
     "sg:postcode":"9614",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838157,
+        85632785,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_470OdnonFPcxWKO1WECwLm_46.596024_13.524128@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891646,
-    "wof:geomhash":"f492b93665862826ad55568bd5a36d1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb87cad9b439ddcb7eea0fd066b8504a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838157,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091890135
+        }
+    ],
     "wof:id":1091890135,
-    "wof:lastmodified":1473983335,
+    "wof:lastmodified":1496906284,
     "wof:name":"Badeanstalt Vorderberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

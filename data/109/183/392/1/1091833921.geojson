@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1344680786,48.1902809143,13.1344680786,48.1902809143",
     "geom:latitude":48.190281,
     "geom:longitude":13.134468,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834755,
+        85632785,
+        101784471,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VWpkcT8fItQsQ4VYmnzAg_48.190281_13.134468@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888993,
-    "wof:geomhash":"71ddfcc342706eb1ca9a4010fb7dbafb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb46c03237709f345054eaef430d64eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834755,
+            "locality_id":101784471,
+            "region_id":85681677,
+            "venue_id":1091833921
+        }
+    ],
     "wof:id":1091833921,
-    "wof:lastmodified":1473984083,
+    "wof:lastmodified":1496882495,
     "wof:name":"SPARKASSE OBER\u00d6STERREICH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

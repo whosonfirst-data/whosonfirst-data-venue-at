@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1771211624,48.0845718384,14.1771211624,48.0845718384",
     "geom:latitude":48.084572,
     "geom:longitude":14.177121,
@@ -32,17 +33,33 @@
         "technology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835535,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i16mcDsHxmHWX5OlmNYh0_48.084572_14.177121@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895801,
-    "wof:geomhash":"985a38b85b606aeb95bae8e6e89ac237",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26f4305e8c9a201af54e70c20aa46aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835535,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091982671
+        }
+    ],
     "wof:id":1091982671,
-    "wof:lastmodified":1473983581,
+    "wof:lastmodified":1496887112,
     "wof:name":"POLLEX DR. LEXEN GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

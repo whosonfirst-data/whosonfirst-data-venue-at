@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1022472382,47.8466796875,13.1022472382,47.8466796875",
     "geom:latitude":47.84668,
     "geom:longitude":13.102247,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908671,
-    "wof:geomhash":"5634130ac1c97a34bb66788b35b21223",
+    "wof:geomhash":"d788a95cf9c0926455dfa028c5c1c51b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092271745
         }
     ],
     "wof:id":1092271745,
-    "wof:lastmodified":1473983806,
+    "wof:lastmodified":1496895378,
     "wof:name":"Elektro Schmei\u00dfer",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

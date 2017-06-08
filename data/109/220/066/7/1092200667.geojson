@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.587392807,47.9975662231,13.587392807,47.9975662231",
     "geom:latitude":47.997566,
     "geom:longitude":13.587393,
@@ -33,17 +34,33 @@
         "boiler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836515,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_464IaxfVoq9vCL2KfLQOiw_47.997566_13.587393@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905498,
-    "wof:geomhash":"a4cac559e85a455742c7ba0c01fe700b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05ddff35e9eab8db5ae5ea15b26a8b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836515,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092200667
+        }
+    ],
     "wof:id":1092200667,
-    "wof:lastmodified":1473983423,
+    "wof:lastmodified":1496891463,
     "wof:name":"Hermann Pillichshammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

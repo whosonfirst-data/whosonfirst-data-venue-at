@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5092811584,47.4939002991,16.5092811584,47.4939002991",
     "geom:latitude":47.4939,
     "geom:longitude":16.509281,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838597,
+        85632785,
+        101834323,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rzVIoQCClPIHs0FIuCTSM_47.493900_16.509281@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898896,
-    "wof:geomhash":"fdd3018e53595a36c04eee68f218331e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3cb38bc8cacd828fbf539bcae6c9e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838597,
+            "locality_id":101834323,
+            "region_id":85681651,
+            "venue_id":1092059917
+        }
+    ],
     "wof:id":1092059917,
-    "wof:lastmodified":1473985220,
+    "wof:lastmodified":1496908617,
     "wof:name":"Friedrich Trachta GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

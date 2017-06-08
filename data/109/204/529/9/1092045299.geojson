@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1020011902,47.1707267761,13.1020011902,47.1707267761",
     "geom:latitude":47.170727,
     "geom:longitude":13.102001,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"www.grandparkhotel.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        101789117,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QPBEcYCVvjZ3B49Zsq93U_47.170727_13.102001@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898330,
-    "wof:geomhash":"dd1432e644dd275b214ba5c64ef302ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70818e3e0a028f6f2107040e3b77c661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":101789117,
+            "region_id":85681681,
+            "venue_id":1092045299
+        }
+    ],
     "wof:id":1092045299,
-    "wof:lastmodified":1473983756,
+    "wof:lastmodified":1496893734,
     "wof:name":"Grand Park Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

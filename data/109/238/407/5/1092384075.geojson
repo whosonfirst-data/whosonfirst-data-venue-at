@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0007591248,46.6058540344,14.0007591248,46.6058540344",
     "geom:latitude":46.605854,
     "geom:longitude":14.000759,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838359,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09SPCqzinJWxG1Ln0CupRN_46.605854_14.000759@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913642,
-    "wof:geomhash":"fa9ac1170af0938845a9e60a95ad759b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"615d96a12940f9be023bfab5b73671a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838359,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092384075
+        }
+    ],
     "wof:id":1092384075,
-    "wof:lastmodified":1473984281,
+    "wof:lastmodified":1496907524,
     "wof:name":"Pizzeria Sterba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

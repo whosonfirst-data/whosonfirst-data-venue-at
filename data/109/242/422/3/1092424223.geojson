@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3596000671,46.6047897339,14.3596000671,46.6047897339",
     "geom:latitude":46.60479,
     "geom:longitude":14.3596,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915643,
-    "wof:geomhash":"1abc5b8b6bfefa7acdd12c5a15e12f50",
+    "wof:geomhash":"c9e0c62f3e25b6106848d939d74eb1ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092424223
         }
     ],
     "wof:id":1092424223,
-    "wof:lastmodified":1473984139,
+    "wof:lastmodified":1496906644,
     "wof:name":"Klaus Schwarz",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

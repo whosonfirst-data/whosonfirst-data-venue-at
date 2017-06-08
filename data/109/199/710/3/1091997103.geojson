@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2561903,47.4496917725,12.2561903,47.4496917725",
     "geom:latitude":47.449692,
     "geom:longitude":12.25619,
@@ -28,17 +29,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tuoMTkMKdDfXsuchFJhI8_47.449692_12.256190@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896413,
-    "wof:geomhash":"c0c91bf42105314c7b96af4a17f59622",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da526c132b7bb1a2f4a936055fabea0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091997103
+        }
+    ],
     "wof:id":1091997103,
-    "wof:lastmodified":1473984760,
+    "wof:lastmodified":1496897260,
     "wof:name":"BitCon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

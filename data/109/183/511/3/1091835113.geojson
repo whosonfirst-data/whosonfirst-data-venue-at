@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0243825912,48.3068504333,14.0243825912,48.3068504333",
     "geom:latitude":48.30685,
     "geom:longitude":14.024383,
@@ -23,17 +24,34 @@
     "sg:postcode":"4070",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834815,
+        85632785,
+        101784583,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FMk2ksAbNH1SP34L8kRa9_48.306850_14.024383@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889042,
-    "wof:geomhash":"52af488ff566a800c719c927ae3a1d23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5caafea7a443a4f8abba9874e637ec86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834815,
+            "locality_id":101784583,
+            "region_id":85681677,
+            "venue_id":1091835113
+        }
+    ],
     "wof:id":1091835113,
-    "wof:lastmodified":1473984353,
+    "wof:lastmodified":1496882683,
     "wof:name":"Bankomat d Raiffeisenbank Eferding-Alkoven-Wilhering regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

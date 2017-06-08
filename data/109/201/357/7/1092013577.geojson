@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5116653442,48.2156295776,16.5116653442,48.2156295776",
     "geom:latitude":48.21563,
     "geom:longitude":16.511665,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897088,
-    "wof:geomhash":"b2888fac07951a662006735e5915f51a",
+    "wof:geomhash":"1456865148940ea6752ff81ad93bca19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092013577
         }
     ],
     "wof:id":1092013577,
-    "wof:lastmodified":1473983579,
+    "wof:lastmodified":1496904522,
     "wof:name":"Romed Appler",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3159008026,47.3528175354,13.3159008026,47.3528175354",
     "geom:latitude":47.352818,
     "geom:longitude":13.315901,
@@ -23,17 +24,33 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vJLyBot2kaheVS0w4o3Fs_47.352818_13.315901@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912573,
-    "wof:geomhash":"e954cea8ae535a0f9ce8b64dbe787f40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9623b42147c6769a806b61960df0eb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092361345
+        }
+    ],
     "wof:id":1092361345,
-    "wof:lastmodified":1473983598,
+    "wof:lastmodified":1496894178,
     "wof:name":"Bauernhof Gindlmoa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2476463318,48.4158477783,16.2476463318,48.4158477783",
     "geom:latitude":48.415848,
     "geom:longitude":16.247646,
@@ -23,17 +24,33 @@
     "sg:postcode":"2003",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836971,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mlmMVslEtzfNEk0LLsSnZ_48.415848_16.247646@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473903921,
-    "wof:geomhash":"dc70b6b1545febe10f76db81dba5fac7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"564bb60ec2882f5b1e15112f42e9171d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836971,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092165665
+        }
+    ],
     "wof:id":1092165665,
-    "wof:lastmodified":1473984448,
+    "wof:lastmodified":1496893587,
     "wof:name":"ahpCONSULT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

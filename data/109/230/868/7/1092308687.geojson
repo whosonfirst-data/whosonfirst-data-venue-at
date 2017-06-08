@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.57721138,48.4548110962,15.57721138,48.4548110962",
     "geom:latitude":48.454811,
     "geom:longitude":15.577211,
@@ -32,17 +33,33 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835443,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZcxelEoxhTnET6wDqIiSX_48.454811_15.577211@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910303,
-    "wof:geomhash":"72b6c6b33f865af252b7182826fbb5bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10180b3b3f5ac7458b2f6aa022df8998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835443,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092308687
+        }
+    ],
     "wof:id":1092308687,
-    "wof:lastmodified":1473985230,
+    "wof:lastmodified":1496886654,
     "wof:name":"Weingut Nigl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

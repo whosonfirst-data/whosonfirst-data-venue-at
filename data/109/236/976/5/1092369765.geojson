@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2499275208,48.1371765137,16.2499275208,48.1371765137",
     "geom:latitude":48.137177,
     "geom:longitude":16.249928,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913008,
-    "wof:geomhash":"8f7b524bfb5b189ff9bf5f295573b56a",
+    "wof:geomhash":"45909cff951f73522ac967e6e75cc9d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092369765
         }
     ],
     "wof:id":1092369765,
-    "wof:lastmodified":1473985298,
+    "wof:lastmodified":1496903429,
     "wof:name":"Pension Altmann",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

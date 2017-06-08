@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3712787628,46.6267051697,13.3712787628,46.6267051697",
     "geom:latitude":46.626705,
     "geom:longitude":13.371279,
@@ -23,17 +24,34 @@
     "sg:postcode":"9620",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838149,
+        85632785,
+        101790089,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JEgBOrqhllGug1WZhQiB4_46.626705_13.371279@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888576,
-    "wof:geomhash":"647e175ccf58a093b0d0ce1722ca350b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ff6b7b3a3df3b75b8d51e3d126b09b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838149,
+            "locality_id":101790089,
+            "region_id":85681655,
+            "venue_id":1091825243
+        }
+    ],
     "wof:id":1091825243,
-    "wof:lastmodified":1473984689,
+    "wof:lastmodified":1496906234,
     "wof:name":"BKS-Bank f K\u00e4rnten u Steiermark AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

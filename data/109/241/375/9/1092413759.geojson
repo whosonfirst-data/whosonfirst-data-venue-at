@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5254869461,48.3650894165,13.5254869461,48.3650894165",
     "geom:latitude":48.365089,
     "geom:longitude":13.525487,
@@ -36,17 +37,33 @@
     ],
     "sg:website":"baumschule-schneider.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836035,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40U48OUOSKRkGW7i45dddi_48.365089_13.525487@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473915160,
-    "wof:geomhash":"fb24cb165a4d8dfe751fab7a7e414ff9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f76d130047c049e8ae54ecbd305ea75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836035,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092413759
+        }
+    ],
     "wof:id":1092413759,
-    "wof:lastmodified":1473984091,
+    "wof:lastmodified":1496889273,
     "wof:name":"Schneider Pflanzenservice GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

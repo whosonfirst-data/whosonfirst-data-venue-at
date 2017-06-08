@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6779460907,47.2192230225,9.6779460907,47.2192230225",
     "geom:latitude":47.219223,
     "geom:longitude":9.677946,
@@ -23,17 +24,33 @@
     "sg:postcode":"6822",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838033,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gPWhpZj8Enh8iBnfJJBJe_47.219223_9.677946@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908918,
-    "wof:geomhash":"e625be17159ea647730dd75ab337dcec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e09b97f9b7a257483f34062c74d61d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838033,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092277491
+        }
+    ],
     "wof:id":1092277491,
-    "wof:lastmodified":1473985122,
+    "wof:lastmodified":1496901683,
     "wof:name":"Bischof Hanspeter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

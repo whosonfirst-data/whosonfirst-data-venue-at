@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5447597504,47.344039917,10.5447597504,47.344039917",
     "geom:latitude":47.34404,
     "geom:longitude":10.54476,
@@ -33,17 +34,33 @@
         "cooker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837749,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70pDLWAQ6z15eN9uZca3ha_47.344040_10.544760@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908385,
-    "wof:geomhash":"dff6b7ea02d86f439b1a12df3fc5380f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5765c2e2d2963e94e6d17ee03f85b46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837749,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092265035
+        }
+    ],
     "wof:id":1092265035,
-    "wof:lastmodified":1473984431,
+    "wof:lastmodified":1496899843,
     "wof:name":"Elektro Oswald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3702440262,47.4999465942,12.3702440262,47.4999465942",
     "geom:latitude":47.499947,
     "geom:longitude":12.370244,
@@ -23,17 +24,33 @@
     "sg:postcode":"6372",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837367,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ALj82HSdASLDXAQJUdobz_47.499947_12.370244@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899107,
-    "wof:geomhash":"e86f1f929eb33f881284b2b21d271bd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ce09681fe02ea58b3313351fad71aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837367,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092065107
+        }
+    ],
     "wof:id":1092065107,
-    "wof:lastmodified":1473984302,
+    "wof:lastmodified":1496897326,
     "wof:name":"Gasthaus Bichlhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

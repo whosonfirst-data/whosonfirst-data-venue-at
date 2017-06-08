@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7092409134,47.3464355469,11.7092409134,47.3464355469",
     "geom:latitude":47.346436,
     "geom:longitude":11.709241,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DN9UuryElPZP7UGwEcCQZ_47.346436_11.709241@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913550,
-    "wof:geomhash":"c4e6ed031800d5189138ea8177325db5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef00437906218db4c226cbf23834a2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1092382441
+        }
+    ],
     "wof:id":1092382441,
-    "wof:lastmodified":1473983941,
+    "wof:lastmodified":1496900102,
     "wof:name":"Lina's Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

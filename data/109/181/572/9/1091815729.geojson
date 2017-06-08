@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4013595581,47.0317993164,15.4013595581,47.0317993164",
     "geom:latitude":47.031799,
     "geom:longitude":15.40136,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888166,
-    "wof:geomhash":"a7bbe2ee134b8e5eacac0a58ea04ad19",
+    "wof:geomhash":"c6b8c19f15fce028a64c0c0ffc6d57c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1091815729
         }
     ],
     "wof:id":1091815729,
-    "wof:lastmodified":1473984629,
+    "wof:lastmodified":1496913558,
     "wof:name":"Paar Anton GmbH",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

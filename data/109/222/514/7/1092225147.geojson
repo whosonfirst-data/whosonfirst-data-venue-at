@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8363990784,47.2852745056,12.8363990784,47.2852745056",
     "geom:latitude":47.285275,
     "geom:longitude":12.836399,
@@ -23,17 +24,33 @@
     "sg:postcode":"5671",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cMgjA86ioTwEuZ1FjC57A_47.285275_12.836399@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906619,
-    "wof:geomhash":"65c47a881d988c5bd97e842f2abaee1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09d7fcc80f68ba01f1a4d06a74e1ee14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092225147
+        }
+    ],
     "wof:id":1092225147,
-    "wof:lastmodified":1473984578,
+    "wof:lastmodified":1496895888,
     "wof:name":"STG Gappmeier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

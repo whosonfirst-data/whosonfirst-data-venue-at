@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5339241028,47.8472557068,16.5339241028,47.8472557068",
     "geom:latitude":47.847256,
     "geom:longitude":16.533924,
@@ -23,17 +24,34 @@
     "sg:postcode":"7000",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AP0ILI9SK4xT4LIhfN2bi_47.847256_16.533924@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893485,
-    "wof:geomhash":"2f0a8166ccf55f736ae52ad1e5c275fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25e3f69cb2dd8e549a197b6c6e86afa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1091929359
+        }
+    ],
     "wof:id":1091929359,
-    "wof:lastmodified":1473985064,
+    "wof:lastmodified":1496908741,
     "wof:name":"Allgemeiner Sportverband \u00d6sterreichs - ASV\u00d6",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

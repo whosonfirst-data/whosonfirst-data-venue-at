@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4826774597,48.2062339783,16.4826774597,48.2062339783",
     "geom:latitude":48.206234,
     "geom:longitude":16.482677,
@@ -25,10 +26,13 @@
     "sg:website":"www.fire-ex.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898297,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915165,
-    "wof:geomhash":"8cbdf9b65768298105f6d36899e04e36",
+    "wof:geomhash":"2b5e2db82e810ee5ac9684199a97f4fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898297,
             "region_id":85681667,
             "venue_id":1092413893
         }
     ],
     "wof:id":1092413893,
-    "wof:lastmodified":1473984123,
+    "wof:lastmodified":1496928041,
     "wof:name":"Fire-Ex Brandschutz",
     "wof:parent_id":85898297,
     "wof:placetype":"venue",

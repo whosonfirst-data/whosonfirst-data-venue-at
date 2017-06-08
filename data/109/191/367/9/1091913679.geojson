@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5727081299,48.308807373,16.5727081299,48.308807373",
     "geom:latitude":48.308807,
     "geom:longitude":16.572708,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835837,
+        85632785,
+        101843349,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15sMVJUrSmwnOkO3kccHeR_48.308807_16.572708@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892732,
-    "wof:geomhash":"1c2ed81374c9ff44555b9d16935818fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15683c34a5bf97ff567ded6722059885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835837,
+            "locality_id":101843349,
+            "region_id":85681671,
+            "venue_id":1091913679
+        }
+    ],
     "wof:id":1091913679,
-    "wof:lastmodified":1473983781,
+    "wof:lastmodified":1496888614,
     "wof:name":"GCS - Software & Consulting Castellitz KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

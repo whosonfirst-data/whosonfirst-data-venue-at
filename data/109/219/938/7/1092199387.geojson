@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3141403198,47.1217269897,15.3141403198,47.1217269897",
     "geom:latitude":47.121727,
     "geom:longitude":15.31414,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"cato-events.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839197,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67GK2FYzf5SyHQSJrG7m6M_47.121727_15.314140@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905425,
-    "wof:geomhash":"4f227e452a9c016168bd46f9a6b2863e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"444aa1e9dfb9f281388ed8e1ae09d16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839197,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092199387
+        }
+    ],
     "wof:id":1092199387,
-    "wof:lastmodified":1473985291,
+    "wof:lastmodified":1496911835,
     "wof:name":"CATO Verwaltungs- und Vermietungs GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

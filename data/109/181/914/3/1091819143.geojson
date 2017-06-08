@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7188301086,47.4049568176,10.7188301086,47.4049568176",
     "geom:latitude":47.404957,
     "geom:longitude":10.71883,
@@ -22,17 +23,33 @@
     "sg:postcode":"6622",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837803,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09OT1iM5mJeOxpAOxYuYAC_47.404957_10.718830@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888312,
-    "wof:geomhash":"fdfd1b76403e14bd750a0689d247030a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44dee26584ecb920b87a7e88f496b2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837803,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091819143
+        }
+    ],
     "wof:id":1091819143,
-    "wof:lastmodified":1473985163,
+    "wof:lastmodified":1496900013,
     "wof:name":"Freiwillige Feuerwehr Rinnen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

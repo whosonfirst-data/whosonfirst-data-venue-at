@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2767410278,48.1342506409,15.2767410278,48.1342506409",
     "geom:latitude":48.134251,
     "geom:longitude":15.276741,
@@ -33,17 +34,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834999,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J8Nqs9a4xYxoCnrgyoeUt_48.134251_15.276741@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905469,
-    "wof:geomhash":"5d6cf47171df6999347545b0049b04f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b5b911a353d2955705ac08d0e3c26c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108834999,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092200295
+        }
+    ],
     "wof:id":1092200295,
-    "wof:lastmodified":1473983376,
+    "wof:lastmodified":1496884159,
     "wof:name":"Gugler Installationsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

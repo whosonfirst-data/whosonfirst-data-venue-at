@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4000005722,47.2387428284,11.4000005722,47.2387428284",
     "geom:latitude":47.238743,
     "geom:longitude":11.400001,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890866,
-    "wof:geomhash":"e4e0b4c7648bc99f0e57b0b879755f77",
+    "wof:geomhash":"1dd78c0c16e9d12eb939c33563f49fbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091874057
         }
     ],
     "wof:id":1091874057,
-    "wof:lastmodified":1473983979,
+    "wof:lastmodified":1496899338,
     "wof:name":"Tauber Blumen",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

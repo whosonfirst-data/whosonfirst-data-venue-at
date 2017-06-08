@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5375843048,46.6332550049,14.5375843048,46.6332550049",
     "geom:latitude":46.633255,
     "geom:longitude":14.537584,
@@ -34,17 +35,33 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838391,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U35eF5LFSgSK2EbivJ8hH_46.633255_14.537584@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905482,
-    "wof:geomhash":"c377933450e2d92572840aa909655f56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"938fe3032472c9e038713e209d7cd74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838391,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092200519
+        }
+    ],
     "wof:id":1092200519,
-    "wof:lastmodified":1473983412,
+    "wof:lastmodified":1496907750,
     "wof:name":"Tischlerei Holz-Creativ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

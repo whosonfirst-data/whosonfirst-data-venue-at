@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4056873322,48.8823204041,15.4056873322,48.8823204041",
     "geom:latitude":48.88232,
     "geom:longitude":15.405687,
@@ -32,17 +33,33 @@
         "precision"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836969,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QxdmScEkq0V1RgUHBpScK_48.882320_15.405687@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914177,
-    "wof:geomhash":"cfdc219f9520b79075b6be78b64b9cd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a89b9a905bc2068d3a65bdc98a3c89db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836969,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092394453
+        }
+    ],
     "wof:id":1092394453,
-    "wof:lastmodified":1473984024,
+    "wof:lastmodified":1496893579,
     "wof:name":"POLLMANN AUSTRIA OHG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

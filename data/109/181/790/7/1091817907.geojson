@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1798238754,47.7156944275,13.1798238754,47.7156944275",
     "geom:latitude":47.715694,
     "geom:longitude":13.179824,
@@ -22,17 +23,33 @@
     "sg:postcode":"5421",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837093,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HliYf386IzvrksuHj2pFI_47.715694_13.179824@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888265,
-    "wof:geomhash":"0672c4553adf51a064e48850ff408854",
-    "wof:hierarchy":[],
+    "wof:geomhash":"745c8dc1f7390cc4eabcc86b170794c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837093,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091817907
+        }
+    ],
     "wof:id":1091817907,
-    "wof:lastmodified":1473985018,
+    "wof:lastmodified":1496895065,
     "wof:name":"Feuerwehr Krispl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

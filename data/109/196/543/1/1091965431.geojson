@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5979700089,47.2374801636,9.5979700089,47.2374801636",
     "geom:latitude":47.23748,
     "geom:longitude":9.59797,
@@ -29,10 +30,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895053,
-    "wof:geomhash":"0849ad812ef34a48f624b52c8aa32cdc",
+    "wof:geomhash":"1f73c598d0e8f248af457e36bdbfc754",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091965431
         }
     ],
     "wof:id":1091965431,
-    "wof:lastmodified":1473984212,
+    "wof:lastmodified":1496900898,
     "wof:name":"Restaurant Casablanca",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

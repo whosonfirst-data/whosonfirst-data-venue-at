@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5568389893,46.7720298767,12.5568389893,46.7720298767",
     "geom:latitude":46.77203,
     "geom:longitude":12.556839,
@@ -23,17 +24,33 @@
     "sg:postcode":"9912",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837487,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x6MvaMsZOcbQCREijQNiD_46.772030_12.556839@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912045,
-    "wof:geomhash":"7b3a773fb1ebb23e776705a7a1ef19df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa2f1ed6f2e499a9797b0c44eb9d36d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837487,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092349471
+        }
+    ],
     "wof:id":1092349471,
-    "wof:lastmodified":1473985070,
+    "wof:lastmodified":1496898081,
     "wof:name":"Museum Pfleggerichtshaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0323352814,48.1506385803,14.0323352814,48.1506385803",
     "geom:latitude":48.150639,
     "geom:longitude":14.032335,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836587,
+        85632785,
+        101754167,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YRFDXeDZcI12heF8bdQ1G_48.150639_14.032335@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892807,
-    "wof:geomhash":"d6e0bbb9610e22340aae5080ed0cdf2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9cd81674230b3156aa169e6ff7245fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836587,
+            "locality_id":101754167,
+            "region_id":85681677,
+            "venue_id":1091915443
+        }
+    ],
     "wof:id":1091915443,
-    "wof:lastmodified":1473983977,
+    "wof:lastmodified":1496891801,
     "wof:name":"SEQUAX software solution GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

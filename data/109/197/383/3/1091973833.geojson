@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5914039612,47.2698440552,9.5914039612,47.2698440552",
     "geom:latitude":47.269844,
     "geom:longitude":9.591404,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895406,
-    "wof:geomhash":"c1435eebb8bf6bbc615d56176a3be44d",
+    "wof:geomhash":"7803c99d502634e71d137a57a48b9142",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091973833
         }
     ],
     "wof:id":1091973833,
-    "wof:lastmodified":1473984160,
+    "wof:lastmodified":1496900919,
     "wof:name":"OTTO BISCHOF TRANSPORT GMBH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

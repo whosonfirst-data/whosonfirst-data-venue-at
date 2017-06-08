@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0545148849,48.2594299316,13.0545148849,48.2594299316",
     "geom:latitude":48.25943,
     "geom:longitude":13.054515,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        101913421,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02u7UZpoXA3WGB9asT6lOU_48.259430_13.054515@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906520,
-    "wof:geomhash":"670e3b0a93d5258805474041ff45ceac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0a487daea2f1bff0488ccf1bc9f11e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":101913421,
+            "region_id":85681677,
+            "venue_id":1092222727
+        }
+    ],
     "wof:id":1092222727,
-    "wof:lastmodified":1473984025,
+    "wof:lastmodified":1496882284,
     "wof:name":"Taxi Moser GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

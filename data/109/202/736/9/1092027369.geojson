@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5975017548,47.2369003296,9.5975017548,47.2369003296",
     "geom:latitude":47.2369,
     "geom:longitude":9.597502,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897617,
-    "wof:geomhash":"a8441d5f26c8c3fe4eb93f2ea29d254a",
+    "wof:geomhash":"88b9108fb1d229d89cb512dce93bae85",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092027369
         }
     ],
     "wof:id":1092027369,
-    "wof:lastmodified":1473984865,
+    "wof:lastmodified":1496900924,
     "wof:name":"G\u00f6tze Wolfgang Mag",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

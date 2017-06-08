@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3133716583,48.3699913025,14.3133716583,48.3699913025",
     "geom:latitude":48.369991,
     "geom:longitude":14.313372,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898433,
-        102049881
+        102191581,
+        1108836139,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910330,
-    "wof:geomhash":"cf0395ba9c3fdb6a93f13c8d282a5d8f",
+    "wof:geomhash":"439c487d2ea614e256526fc845775b26",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":-1,
             "neighbourhood_id":85898433,
             "region_id":85681677,
             "venue_id":1092309243
         }
     ],
     "wof:id":1092309243,
-    "wof:lastmodified":1473985268,
+    "wof:lastmodified":1496889719,
     "wof:name":"Irndorfer Michaela",
     "wof:parent_id":85898433,
     "wof:placetype":"venue",

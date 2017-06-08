@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9352226257,48.0116767883,12.9352226257,48.0116767883",
     "geom:latitude":48.011677,
     "geom:longitude":12.935223,
@@ -23,17 +24,33 @@
     "sg:postcode":"5113",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837173,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1daHx27VbsrL94oHQNE9Oi_48.011677_12.935223@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899264,
-    "wof:geomhash":"c15367617d10d933a0fe410b87973868",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f14288233fed1844a6f7d1221ab5b67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837173,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092068869
+        }
+    ],
     "wof:id":1092068869,
-    "wof:lastmodified":1473984998,
+    "wof:lastmodified":1496895616,
     "wof:name":"Gasthaus Seethal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

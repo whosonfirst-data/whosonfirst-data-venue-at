@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3736839294,46.8367462158,13.3736839294,46.8367462158",
     "geom:latitude":46.836746,
     "geom:longitude":13.373684,
@@ -32,17 +33,34 @@
         "stainless"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838317,
+        85632785,
+        101834179,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MXdVdVUqZRHKM2B7qAvqq_46.836746_13.373684@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893676,
-    "wof:geomhash":"cf49571dd222a4827763f00a30346928",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca61f876e3105d17bbeb323d1d055174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838317,
+            "locality_id":101834179,
+            "region_id":85681655,
+            "venue_id":1091933885
+        }
+    ],
     "wof:id":1091933885,
-    "wof:lastmodified":1473984185,
+    "wof:lastmodified":1496907283,
     "wof:name":"Metalltechnik Rud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2477645874,46.9316825867,15.2477645874,46.9316825867",
     "geom:latitude":46.931683,
     "geom:longitude":15.247765,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"muhri-holz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839279,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z5M41vUYQsyjr4bWZsWef_46.931683_15.247765@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905379,
-    "wof:geomhash":"e02a27320978ca3f15ec147a42238f1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4531d9fd6f8bed340d95e3545d639fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839279,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092198365
+        }
+    ],
     "wof:id":1092198365,
-    "wof:lastmodified":1473985169,
+    "wof:lastmodified":1496912481,
     "wof:name":"Walter Muhri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.888302803,47.4017906189,10.888302803,47.4017906189",
     "geom:latitude":47.401791,
     "geom:longitude":10.888303,
@@ -23,17 +24,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zjppqOIotJcfNrUgIaOXM_47.401791_10.888303@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912931,
-    "wof:geomhash":"e80aeb418a5f4b0c0612e322beebb2d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e81e834f7a96a981b064b19e60fafd63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092368481
+        }
+    ],
     "wof:id":1092368481,
-    "wof:lastmodified":1473985192,
+    "wof:lastmodified":1496899871,
     "wof:name":"Landhaus Gerber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

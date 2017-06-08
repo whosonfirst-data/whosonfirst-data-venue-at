@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5716619492,46.8051338196,13.5716619492,46.8051338196",
     "geom:latitude":46.805134,
     "geom:longitude":13.571662,
@@ -23,17 +24,33 @@
     "sg:postcode":"9872",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838279,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AyEKkIukSFAi1sdKaiqqn_46.805134_13.571662@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914171,
-    "wof:geomhash":"256984dd328dae06e6b52049ffb88eca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71c26609fde970263570c6adf8e9fe86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838279,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092394325
+        }
+    ],
     "wof:id":1092394325,
-    "wof:lastmodified":1473984021,
+    "wof:lastmodified":1496906957,
     "wof:name":"Postamt 9872 Millstatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

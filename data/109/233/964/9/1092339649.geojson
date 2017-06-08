@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5900278091,47.2432861328,9.5900278091,47.2432861328",
     "geom:latitude":47.243286,
     "geom:longitude":9.590028,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911614,
-    "wof:geomhash":"51f1be626b39effeff99f046549a7484",
+    "wof:geomhash":"84f51c6903733cc59b37e22e0963f378",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092339649
         }
     ],
     "wof:id":1092339649,
-    "wof:lastmodified":1473985332,
+    "wof:lastmodified":1496900949,
     "wof:name":"Hydromed-Ger\u00e4te / Sanit\u00e4tshaus Werner OEG",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

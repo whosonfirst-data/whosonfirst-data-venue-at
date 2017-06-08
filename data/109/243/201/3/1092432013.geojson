@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2134590149,48.1945762634,13.2134590149,48.1945762634",
     "geom:latitude":48.194576,
     "geom:longitude":13.213459,
@@ -32,17 +33,33 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834805,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MfJ6hQLIQB9s1U8etyakk_48.194576_13.213459@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915999,
-    "wof:geomhash":"6a5676cede6013196b130b57dcf1ff40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18fa50ee1890fc5a76ba74a6f6eb899f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834805,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092432013
+        }
+    ],
     "wof:id":1092432013,
-    "wof:lastmodified":1473983646,
+    "wof:lastmodified":1496882621,
     "wof:name":"DACHS KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5127563477,48.2420539856,14.5127563477,48.2420539856",
     "geom:latitude":48.242054,
     "geom:longitude":14.512756,
@@ -29,10 +30,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895056,
-    "wof:geomhash":"7a3b53315915772e170f366ac868a541",
+    "wof:geomhash":"c30eb89302b7481c7e851b19654d601f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091965505
         }
     ],
     "wof:id":1091965505,
-    "wof:lastmodified":1473984200,
+    "wof:lastmodified":1496887545,
     "wof:name":"Restaurant Donauhof",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

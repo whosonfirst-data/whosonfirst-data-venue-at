@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.381565094,47.8618507385,16.381565094,47.8618507385",
     "geom:latitude":47.861851,
     "geom:longitude":16.381565,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838577,
+        85632785,
+        101785631,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AoSlOEcYcItEvJNJZYsc7_47.861851_16.381565@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891846,
-    "wof:geomhash":"1f8340301529956e28240182e266d623",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d042a9a24a3061ac2eb6044d54c509b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838577,
+            "locality_id":101785631,
+            "region_id":85681651,
+            "venue_id":1091895125
+        }
+    ],
     "wof:id":1091895125,
-    "wof:lastmodified":1473984470,
+    "wof:lastmodified":1496908542,
     "wof:name":"Auer Hans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

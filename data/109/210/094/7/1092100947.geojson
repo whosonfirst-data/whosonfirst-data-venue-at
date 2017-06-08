@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4156799316,48.1050109863,16.4156799316,48.1050109863",
     "geom:latitude":48.105011,
     "geom:longitude":16.41568,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900848,
-    "wof:geomhash":"abc65bdf23d0bd1d44db42917753c972",
+    "wof:geomhash":"1fcbdb98500779cdddfacb96fa1e0e65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092100947
         }
     ],
     "wof:id":1092100947,
-    "wof:lastmodified":1473983461,
+    "wof:lastmodified":1496886822,
     "wof:name":"ThyssenKrupp Serv Austria GmbH - Ger\u00fcstbau",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

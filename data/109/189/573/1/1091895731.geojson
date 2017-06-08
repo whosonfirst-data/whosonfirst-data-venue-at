@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9494228363,47.4987983704,9.9494228363,47.4987983704",
     "geom:latitude":47.498798,
     "geom:longitude":9.949423,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838027,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IxOo0zH5aKqdj0kjAszJe_47.498798_9.949423@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891871,
-    "wof:geomhash":"b6ea24ed572d4cd4d75be3ad78662476",
-    "wof:hierarchy":[],
+    "wof:geomhash":"747abcc3111e4af84b46860b6dc65ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838027,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091895731
+        }
+    ],
     "wof:id":1091895731,
-    "wof:lastmodified":1473984665,
+    "wof:lastmodified":1496901674,
     "wof:name":"Steurer Kieswerk GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7465543747,47.1491737366,10.7465543747,47.1491737366",
     "geom:latitude":47.149174,
     "geom:longitude":10.746554,
@@ -28,17 +29,33 @@
     "sg:postcode":"6474",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837609,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04hMrWdzpFv3O4K2nhquto_47.149174_10.746554@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895059,
-    "wof:geomhash":"900628126b91da86203ba73837e63707",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9363d759dd14d19ba0963e815187e1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837609,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091965607
+        }
+    ],
     "wof:id":1091965607,
-    "wof:lastmodified":1473984218,
+    "wof:lastmodified":1496898693,
     "wof:name":"Restaurant Fischteich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

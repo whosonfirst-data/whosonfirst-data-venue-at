@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5178079605,48.1619720459,14.5178079605,48.1619720459",
     "geom:latitude":48.161972,
     "geom:longitude":14.517808,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"steyr-motors.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835825,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rGZfqyvPFNSpHimxEfNe3_48.161972_14.517808@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897119,
-    "wof:geomhash":"59cd300a06bc3c30999c6ccfc3a565f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b693c90b3bd65719450db7424b37b097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835825,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092014081
+        }
+    ],
     "wof:id":1092014081,
-    "wof:lastmodified":1473983655,
+    "wof:lastmodified":1496888517,
     "wof:name":"Engineering Center Steyr Motors GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

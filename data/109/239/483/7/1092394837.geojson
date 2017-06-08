@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0647621155,47.3588943481,15.0647621155,47.3588943481",
     "geom:latitude":47.358894,
     "geom:longitude":15.064762,
@@ -36,10 +37,13 @@
     "sg:website":"ats.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898543,
-        102049769
+        102191581,
+        1108839009,
+        85632785,
+        101834299,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +51,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914193,
-    "wof:geomhash":"391eeee60e73696b1adee980f31f7d30",
+    "wof:geomhash":"c57f5507712e3c12fa60a91386edc96d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":101834299,
             "neighbourhood_id":85898543,
             "region_id":85681687,
             "venue_id":1092394837
         }
     ],
     "wof:id":1092394837,
-    "wof:lastmodified":1473984102,
+    "wof:lastmodified":1496910839,
     "wof:name":"AT&S Austria Technologie & Systemtechnik AG",
     "wof:parent_id":85898543,
     "wof:placetype":"venue",

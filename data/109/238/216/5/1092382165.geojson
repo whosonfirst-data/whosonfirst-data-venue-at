@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.367816925,47.7658424377,13.367816925,47.7658424377",
     "geom:latitude":47.765842,
     "geom:longitude":13.367817,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837175,
+        85632785,
+        101786783,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x7A5TQMj9rm74kIgIx6je_47.765842_13.367817@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913534,
-    "wof:geomhash":"da7ab40300744cb3319e0d37ee51ae59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c095e9994c1f6e18045f441cba1141c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837175,
+            "locality_id":101786783,
+            "region_id":85681681,
+            "venue_id":1092382165
+        }
+    ],
     "wof:id":1092382165,
-    "wof:lastmodified":1473983853,
+    "wof:lastmodified":1496895626,
     "wof:name":"Cafe-Restaurant Pizzeria Papageno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

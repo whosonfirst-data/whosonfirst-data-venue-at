@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8035030365,47.7625389099,16.8035030365,47.7625389099",
     "geom:latitude":47.762539,
     "geom:longitude":16.803503,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838513,
+        85632785,
+        101786825,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zgKkHi9FSBdnbU7AkTKnm_47.762539_16.803503@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898907,
-    "wof:geomhash":"88012958595ae379625bf9cb9054bde1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a80436e42191ec798e27bd18fe6fea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838513,
+            "locality_id":101786825,
+            "region_id":85681651,
+            "venue_id":1092060203
+        }
+    ],
     "wof:id":1092060203,
-    "wof:lastmodified":1473983354,
+    "wof:lastmodified":1496908307,
     "wof:name":"Ing. W. Gangl GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

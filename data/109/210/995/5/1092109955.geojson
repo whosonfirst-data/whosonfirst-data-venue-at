@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3492393494,47.1576499939,16.3492393494,47.1576499939",
     "geom:latitude":47.15765,
     "geom:longitude":16.349239,
@@ -23,17 +24,33 @@
     "sg:postcode":"7512",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838759,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ktR4Z0zvhhp2jWshOSUwf_47.157650_16.349239@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901289,
-    "wof:geomhash":"e71810d469fcea4a4920aa75839d5412",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcc0ccc2e1d5e93f76808b0f0052012c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838759,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092109955
+        }
+    ],
     "wof:id":1092109955,
-    "wof:lastmodified":1473985251,
+    "wof:lastmodified":1496909243,
     "wof:name":"Zahnlabor Markus Polzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

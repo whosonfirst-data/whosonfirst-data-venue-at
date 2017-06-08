@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2432041168,47.2512741089,16.2432041168,47.2512741089",
     "geom:latitude":47.251274,
     "geom:longitude":16.243204,
@@ -23,17 +24,33 @@
     "sg:postcode":"7501",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838497,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X9p4Nlr5U7YZ40vXR9Rfh_47.251274_16.243204@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899246,
-    "wof:geomhash":"8c0be5380d27ae22c7eabc3001caf807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed0157dfe69410bf7ab176da57010e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838497,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092068409
+        }
+    ],
     "wof:id":1092068409,
-    "wof:lastmodified":1473984933,
+    "wof:lastmodified":1496908251,
     "wof:name":"Gasthaus Rio Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

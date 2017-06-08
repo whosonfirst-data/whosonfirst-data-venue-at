@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.699177742,47.374332428,9.699177742,47.374332428",
     "geom:latitude":47.374332,
     "geom:longitude":9.699178,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898621,
-        102049737
+        102191581,
+        1108837963,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906789,
-    "wof:geomhash":"4c00a471dedf4c3b6ef49f125b8c6dc2",
+    "wof:geomhash":"071217c201a90ee1ccafe86ff8c3664a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":-1,
             "neighbourhood_id":85898621,
             "region_id":85681649,
             "venue_id":1092229259
         }
     ],
     "wof:id":1092229259,
-    "wof:lastmodified":1473985326,
+    "wof:lastmodified":1496901144,
     "wof:name":"Lusser Karl",
     "wof:parent_id":85898621,
     "wof:placetype":"venue",

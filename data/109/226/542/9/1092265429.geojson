@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6187047958,46.6037597656,14.6187047958,46.6037597656",
     "geom:latitude":46.60376,
     "geom:longitude":14.618705,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838371,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cd6iK4QcL9HpiIrNV2XTH_46.603760_14.618705@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908402,
-    "wof:geomhash":"ccc76576191c27e84f62f6ebab4b888e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fde31f1fb45e40302933e3eab2d27e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838371,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265429
+        }
+    ],
     "wof:id":1092265429,
-    "wof:lastmodified":1473984481,
+    "wof:lastmodified":1496907626,
     "wof:name":"Elektroinstallationsunternehmen Zunder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

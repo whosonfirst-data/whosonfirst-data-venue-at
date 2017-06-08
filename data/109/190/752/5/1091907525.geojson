@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2631502151,47.388168335,11.2631502151,47.388168335",
     "geom:latitude":47.388168,
     "geom:longitude":11.26315,
@@ -23,17 +24,34 @@
     "sg:postcode":"6108",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837579,
+        85632785,
+        101787851,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UAjFTnpi5mV1OOhrgni7V_47.388168_11.263150@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892454,
-    "wof:geomhash":"4163b262bc42b2a69ba29aa3ae101b3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a0cecc6ead75f7c3fab5cc1951e9e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837579,
+            "locality_id":101787851,
+            "region_id":85681661,
+            "venue_id":1091907525
+        }
+    ],
     "wof:id":1091907525,
-    "wof:lastmodified":1473984848,
+    "wof:lastmodified":1496898574,
     "wof:name":"Pleisenh\u00fctte - Karwendel - P\u00e4chter Gaugg Sigfried",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5144309998,47.5338363647,15.5144309998,47.5338363647",
     "geom:latitude":47.533836,
     "geom:longitude":15.514431,
@@ -23,17 +24,34 @@
     "sg:postcode":"8662",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838861,
+        85632785,
+        101834335,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60FuzFG35jlTC11o877kxg_47.533836_15.514431@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896171,
-    "wof:geomhash":"bc1c835b375975625747f9fe1b701804",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91d51bebbedc8f0f47aeebb46352ee3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838861,
+            "locality_id":101834335,
+            "region_id":85681687,
+            "venue_id":1091991305
+        }
+    ],
     "wof:id":1091991305,
-    "wof:lastmodified":1473983499,
+    "wof:lastmodified":1496909665,
     "wof:name":"Mock A Haustechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

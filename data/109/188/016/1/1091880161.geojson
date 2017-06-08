@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7048397064,47.3472518921,11.7048397064,47.3472518921",
     "geom:latitude":47.347252,
     "geom:longitude":11.70484,
@@ -31,17 +32,34 @@
         "brass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GWjblgYy40kvUcM1UPih3_47.347252_11.704840@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891145,
-    "wof:geomhash":"f798b6ff999b298020038bf75c725b06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4094fbb5379f0732a7951006cf44840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1091880161
+        }
+    ],
     "wof:id":1091880161,
-    "wof:lastmodified":1473983335,
+    "wof:lastmodified":1496900089,
     "wof:name":"Franz Hackl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6482648849,47.282043457,12.6482648849,47.282043457",
     "geom:latitude":47.282043,
     "geom:longitude":12.648265,
@@ -32,17 +33,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837225,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HTk2yIdIAEqDbtghkbiFB_47.282043_12.648265@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905102,
-    "wof:geomhash":"600e20c9005a7e4d8bd2b5a0e6449ba1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32b78de5abb3647e1c6bb7cdd9e4fc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837225,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092191865
+        }
+    ],
     "wof:id":1092191865,
-    "wof:lastmodified":1473983806,
+    "wof:lastmodified":1496896142,
     "wof:name":"ETB Elektrotechnik Brennsteiner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

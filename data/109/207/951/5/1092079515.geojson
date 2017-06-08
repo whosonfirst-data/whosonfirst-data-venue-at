@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.475189209,47.1200256348,15.475189209,47.1200256348",
     "geom:latitude":47.120026,
     "geom:longitude":15.475189,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898591,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899736,
-    "wof:geomhash":"0dfb35acc90b1046537825e27d00d8a5",
+    "wof:geomhash":"66ab9330c1108e919c0d1536c09a4297",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898591,
             "region_id":85681687,
             "venue_id":1092079515
         }
     ],
     "wof:id":1092079515,
-    "wof:lastmodified":1473985110,
+    "wof:lastmodified":1496934509,
     "wof:name":"Meinhart Johann",
     "wof:parent_id":85898591,
     "wof:placetype":"venue",

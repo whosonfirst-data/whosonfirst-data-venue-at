@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.059047699,47.8606872559,13.059047699,47.8606872559",
     "geom:latitude":47.860687,
     "geom:longitude":13.059048,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911572,
-    "wof:geomhash":"0b24669b71b2121bcee0cf357c982568",
+    "wof:geomhash":"d4d14b89889446eadc651d6c51d780db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092338633
         }
     ],
     "wof:id":1092338633,
-    "wof:lastmodified":1473985298,
+    "wof:lastmodified":1496895277,
     "wof:name":"Walter Meisl Drechslerei",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

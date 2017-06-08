@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.0832958221,48.024471283,17.0832958221,48.024471283",
     "geom:latitude":48.024471,
     "geom:longitude":17.083296,
@@ -23,17 +24,33 @@
     "sg:postcode":"2423",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838643,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_276mFmqWeIYG6qW92IU4cL_48.024471_17.083296@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908626,
-    "wof:geomhash":"6315e8eb96d9abfda47ed230077a983e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71df8d7825c66d948442de05f183a977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838643,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092270653
+        }
+    ],
     "wof:id":1092270653,
-    "wof:lastmodified":1473983506,
+    "wof:lastmodified":1496908963,
     "wof:name":"Brunner Elektrotechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

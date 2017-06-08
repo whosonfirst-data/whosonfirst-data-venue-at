@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6046304703,47.2673797607,9.6046304703,47.2673797607",
     "geom:latitude":47.26738,
     "geom:longitude":9.60463,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895350,
-    "wof:geomhash":"0dad09c85ec4d5f88a2b6931176618ea",
+    "wof:geomhash":"65b3da872f83c9ccd757b6eac34d3662",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091972447
         }
     ],
     "wof:id":1091972447,
-    "wof:lastmodified":1473983867,
+    "wof:lastmodified":1496900953,
     "wof:name":"Rotes Kreuz Vorarlberg",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

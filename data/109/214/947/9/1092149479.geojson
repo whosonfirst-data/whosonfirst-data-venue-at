@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3326511383,48.3442153931,16.3326511383,48.3442153931",
     "geom:latitude":48.344215,
     "geom:longitude":16.332651,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.brillenberater.at, www.schmied.optiker.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X61jY4gQ9zD5bQzDBNK2S_48.344215_16.332651@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473903186,
-    "wof:geomhash":"aaaa981d9238de0133036e1c6371861c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c603ca350a3dd3fb854f29d0dd68de2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1092149479
+        }
+    ],
     "wof:id":1092149479,
-    "wof:lastmodified":1473985137,
+    "wof:lastmodified":1496883688,
     "wof:name":"Schmied Optiker GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

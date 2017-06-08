@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4918842316,48.2307701111,16.4918842316,48.2307701111",
     "geom:latitude":48.23077,
     "geom:longitude":16.491884,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906684,
-    "wof:geomhash":"77fae33271bd9677c3b4032573d607fd",
+    "wof:geomhash":"df473b8e5be1c70eabd2a1b4c32ed21c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092226549
         }
     ],
     "wof:id":1092226549,
-    "wof:lastmodified":1473984896,
+    "wof:lastmodified":1496902504,
     "wof:name":"Kreminger Georg Ing",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

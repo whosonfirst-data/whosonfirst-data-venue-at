@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1754016876,48.2078475952,16.1754016876,48.2078475952",
     "geom:latitude":48.207848,
     "geom:longitude":16.175402,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897130,
-    "wof:geomhash":"1d51688e73f602b820440ae0a67f16ac",
+    "wof:geomhash":"de222f7870e4a69b0114817301ca7b74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092014393
         }
     ],
     "wof:id":1092014393,
-    "wof:lastmodified":1473983769,
+    "wof:lastmodified":1496888172,
     "wof:name":"dm drogerie markt GmbH",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

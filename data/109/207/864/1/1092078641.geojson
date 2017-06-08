@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3478851318,47.4432601929,16.3478851318,47.4432601929",
     "geom:latitude":47.44326,
     "geom:longitude":16.347885,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"spinas.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838471,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SwZbhK2SHDuIHUuRtTXqq_47.443260_16.347885@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899699,
-    "wof:geomhash":"394560f8cf4147d4ac8d132795932898",
-    "wof:hierarchy":[],
+    "wof:geomhash":"094a7ee2bda312273a8555fec584b7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838471,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092078641
+        }
+    ],
     "wof:id":1092078641,
-    "wof:lastmodified":1473984912,
+    "wof:lastmodified":1496908098,
     "wof:name":"Landgasthof Melchart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

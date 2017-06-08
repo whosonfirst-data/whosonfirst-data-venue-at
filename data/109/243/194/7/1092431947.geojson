@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4028682709,48.2256965637,14.4028682709,48.2256965637",
     "geom:latitude":48.225697,
     "geom:longitude":14.402868,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915996,
-    "wof:geomhash":"b3c44e384f43ce248ef8e93e7fd14b87",
+    "wof:geomhash":"465d88d220870470b31c76d6db11525d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1092431947
         }
     ],
     "wof:id":1092431947,
-    "wof:lastmodified":1473983670,
+    "wof:lastmodified":1496887052,
     "wof:name":"DAILY SERVICE TIEFK\u00dcHL-LOGISTIK GMBH & CO. KG",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

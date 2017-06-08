@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2683620453,48.1910820007,16.2683620453,48.1910820007",
     "geom:latitude":48.191082,
     "geom:longitude":16.268362,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892888,
-    "wof:geomhash":"b61bd608183355a6fadb0106272cb935",
+    "wof:geomhash":"7721e9f3ba525854a9c145e962cfda65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091917303
         }
     ],
     "wof:id":1091917303,
-    "wof:lastmodified":1473984399,
+    "wof:lastmodified":1496903805,
     "wof:name":"Schopf Sonnenschutzsysteme",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

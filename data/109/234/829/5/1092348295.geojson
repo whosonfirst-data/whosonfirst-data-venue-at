@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6503753662,48.2895240784,15.6503753662,48.2895240784",
     "geom:latitude":48.289524,
     "geom:longitude":15.650375,
@@ -34,17 +35,33 @@
         "roof"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836955,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5knzx5BQHQA5pCCefAWCLa_48.289524_15.650375@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473911982,
-    "wof:geomhash":"e930bf0c4d3ac444ae50760b3ee40da3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9c6b904c770aae8b94504d09b8cd8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836955,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092348295
+        }
+    ],
     "wof:id":1092348295,
-    "wof:lastmodified":1473984928,
+    "wof:lastmodified":1496893533,
     "wof:name":"Franz Burger jun.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

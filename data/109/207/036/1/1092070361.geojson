@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4679641724,46.6678504944,15.4679641724,46.6678504944",
     "geom:latitude":46.66785,
     "geom:longitude":15.467964,
@@ -23,17 +24,33 @@
     "sg:postcode":"8463",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839043,
+        85632785,
+        102049699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uEX0vuxuLe1ovbbCcjdjc_46.667850_15.467964@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899322,
-    "wof:geomhash":"aea7c7080242af09408c26b8ad6fd058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"161f4a0583018e54d4411fca5b4deaef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839043,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092070361
+        }
+    ],
     "wof:id":1092070361,
-    "wof:lastmodified":1473983419,
+    "wof:lastmodified":1496911004,
     "wof:name":"Gasthaus z Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

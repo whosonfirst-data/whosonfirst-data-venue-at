@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2604236603,48.1334075928,16.2604236603,48.1334075928",
     "geom:latitude":48.133408,
     "geom:longitude":16.260424,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888054,
-    "wof:geomhash":"343c397d6e24ffe65937e986ff0b9f93",
+    "wof:geomhash":"4b7d4037a0c07afd0c89cf529b3ba418",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091813239
         }
     ],
     "wof:id":1091813239,
-    "wof:lastmodified":1473983999,
+    "wof:lastmodified":1496928733,
     "wof:name":"Gerhard Kazalek",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

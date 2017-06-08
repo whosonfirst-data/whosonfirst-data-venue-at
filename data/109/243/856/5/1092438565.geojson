@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8377456665,47.1600875854,11.8377456665,47.1600875854",
     "geom:latitude":47.160088,
     "geom:longitude":11.837746,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.zillertaler-flugschule.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837857,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mtkopcVuqHRvKpbMwzmml_47.160088_11.837746@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916303,
-    "wof:geomhash":"c61ff3be5f664f4d95da1d3cc425be34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e9d0cf43f46e968ff0acb9ca12e1873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837857,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092438565
+        }
+    ],
     "wof:id":1092438565,
-    "wof:lastmodified":1473985153,
+    "wof:lastmodified":1496900275,
     "wof:name":"Zillertaler Flugschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

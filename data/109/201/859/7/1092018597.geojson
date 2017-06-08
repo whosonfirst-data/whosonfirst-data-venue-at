@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1733179092,47.5885772705,12.1733179092,47.5885772705",
     "geom:latitude":47.588577,
     "geom:longitude":12.173318,
@@ -23,17 +24,34 @@
     "sg:postcode":"6330",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cVewsxjV6VrjhpGCWv4hd_47.588577_12.173318@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897295,
-    "wof:geomhash":"b6062850d1cff0d51debbe82d1948b2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59f32cf7ff2276ccd9325a67247a2855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1092018597
+        }
+    ],
     "wof:id":1092018597,
-    "wof:lastmodified":1473984548,
+    "wof:lastmodified":1496897642,
     "wof:name":"BEV-Vermessungsamt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

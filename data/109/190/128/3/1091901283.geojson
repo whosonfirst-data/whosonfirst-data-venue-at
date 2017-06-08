@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.206360817,47.2551994324,11.206360817,47.2551994324",
     "geom:latitude":47.255199,
     "geom:longitude":11.206361,
@@ -23,17 +24,33 @@
     "sg:postcode":"6175",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837661,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MwYpjhifaKmVoX9DIdMOC_47.255199_11.206361@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892177,
-    "wof:geomhash":"109401f54e0500d88d9c7aed303d467c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6003eda323f71b58e7abb65470deb84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837661,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091901283
+        }
+    ],
     "wof:id":1091901283,
-    "wof:lastmodified":1473983562,
+    "wof:lastmodified":1496899040,
     "wof:name":"Kirchmair Hermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

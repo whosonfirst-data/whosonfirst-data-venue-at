@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4986534119,48.1955757141,13.4986534119,48.1955757141",
     "geom:latitude":48.195576,
     "geom:longitude":13.498653,
@@ -33,17 +34,34 @@
         "lock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fajMiy8uyM6gUmOUdA4ld_48.195576_13.498653@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473910807,
-    "wof:geomhash":"15445f7b9b0653007b0046a0d8f8718d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef218c3b0a142cce528011b9215bb83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1092320081
+        }
+    ],
     "wof:id":1092320081,
-    "wof:lastmodified":1473983350,
+    "wof:lastmodified":1496887899,
     "wof:name":"Fischerleitner GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

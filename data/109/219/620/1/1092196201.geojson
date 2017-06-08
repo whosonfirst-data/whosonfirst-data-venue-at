@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.708193779,47.1868247986,9.708193779,47.1868247986",
     "geom:latitude":47.186825,
     "geom:longitude":9.708194,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"eccon.biz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838015,
+        85632785,
+        101841961,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NfkX3sMo7CpdfC4RJdg9m_47.186825_9.708194@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905292,
-    "wof:geomhash":"08c2da17dc84f034071eb1de6a1b9174",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8efdb55d2ad9bace793a641637fc9cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838015,
+            "locality_id":101841961,
+            "region_id":85681649,
+            "venue_id":1092196201
+        }
+    ],
     "wof:id":1092196201,
-    "wof:lastmodified":1473984712,
+    "wof:lastmodified":1496901588,
     "wof:name":"ECCON Engineering Computer Consulting GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

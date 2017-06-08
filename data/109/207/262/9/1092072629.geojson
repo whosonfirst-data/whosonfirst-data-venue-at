@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4370098114,47.1639900208,11.4370098114,47.1639900208",
     "geom:latitude":47.16399,
     "geom:longitude":11.43701,
@@ -23,17 +24,33 @@
     "sg:postcode":"6143",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837549,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZDREVl92dPEq4QE168jsR_47.163990_11.437010@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899415,
-    "wof:geomhash":"095d6fc5186dae4324f7890e2cbf2a1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"018ba5e9a6070f52c304c2fba62ce4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837549,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092072629
+        }
+    ],
     "wof:id":1092072629,
-    "wof:lastmodified":1473983810,
+    "wof:lastmodified":1496898468,
     "wof:name":"Gasthof Gschleirs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6137218475,47.2510070801,9.6137218475,47.2510070801",
     "geom:latitude":47.251007,
     "geom:longitude":9.613722,
@@ -35,10 +36,12 @@
     "sg:website":"atex-feuerschutz.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905343,
-    "wof:geomhash":"97abdf7701581ed268e149fb65ad7ef5",
+    "wof:geomhash":"705931749fd2b0956a562f8040bdcf57",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092197449
         }
     ],
     "wof:id":1092197449,
-    "wof:lastmodified":1473985000,
+    "wof:lastmodified":1496900965,
     "wof:name":"ATEX Ger\u00e4tebau Ges.m.b.H.",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

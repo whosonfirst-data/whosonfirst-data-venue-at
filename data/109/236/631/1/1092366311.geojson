@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2871932983,47.7910003662,13.2871932983,47.7910003662",
     "geom:latitude":47.791,
     "geom:longitude":13.287193,
@@ -23,17 +24,33 @@
     "sg:postcode":"5330",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vw0ByYpNzprZxKidnqrrB_47.791000_13.287193@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912822,
-    "wof:geomhash":"9fd4f168c512dc3ed4495744dd079816",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b05f3eb0674666d9dd0319d9a380099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092366311
+        }
+    ],
     "wof:id":1092366311,
-    "wof:lastmodified":1473984821,
+    "wof:lastmodified":1496895369,
     "wof:name":"Haus Lisa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

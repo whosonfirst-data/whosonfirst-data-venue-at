@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4934463501,48.214012146,13.4934463501,48.214012146",
     "geom:latitude":48.214012,
     "geom:longitude":13.493446,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37WwKQjxx0ej8331Q7cKEG_48.214012_13.493446@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892800,
-    "wof:geomhash":"f40cf9cb6a3096b28b7318be350471a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89910bc310fe6f74dba2a4407c9ee624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1091915255
+        }
+    ],
     "wof:id":1091915255,
-    "wof:lastmodified":1473983983,
+    "wof:lastmodified":1496887853,
     "wof:name":"RZL Software GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

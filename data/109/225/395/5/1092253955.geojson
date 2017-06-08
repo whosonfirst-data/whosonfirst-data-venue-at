@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.015370369,47.3161811829,10.015370369,47.3161811829",
     "geom:latitude":47.316181,
     "geom:longitude":10.01537,
@@ -23,17 +24,34 @@
     "sg:postcode":"6886",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837891,
+        85632785,
+        101841969,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21DG8GK08YjkGhlIPjAHLt_47.316181_10.015370@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907882,
-    "wof:geomhash":"3b9d8ebb10791c2a8a804434099fd5e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"810c5e650ccd62b86b5026efac2db6b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837891,
+            "locality_id":101841969,
+            "region_id":85681649,
+            "venue_id":1092253955
+        }
+    ],
     "wof:id":1092253955,
-    "wof:lastmodified":1473984247,
+    "wof:lastmodified":1496901709,
     "wof:name":"Beer Gotthard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7017660141,48.1845169067,13.7017660141,48.1845169067",
     "geom:latitude":48.184517,
     "geom:longitude":13.701766,
@@ -33,17 +34,33 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835239,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PbwULWSXVVfrPf5cEuji8_48.184517_13.701766@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473888156,
-    "wof:geomhash":"7dc31a22315563ec1985314d5324cecd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"270b2ba599909c4a145b60682763c4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835239,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091815465
+        }
+    ],
     "wof:id":1091815465,
-    "wof:lastmodified":1473984542,
+    "wof:lastmodified":1496885542,
     "wof:name":"VTA ENGINEERING & UMWELTTECHNIK GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

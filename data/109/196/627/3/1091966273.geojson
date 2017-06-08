@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4791488647,48.2121391296,16.4791488647,48.2121391296",
     "geom:latitude":48.212139,
     "geom:longitude":16.479149,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895085,
-    "wof:geomhash":"d740fa45384e9b471c07f11ff5ded792",
+    "wof:geomhash":"eaadd86601d9e59f3fb216a2939b2dbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091966273
         }
     ],
     "wof:id":1091966273,
-    "wof:lastmodified":1473984274,
+    "wof:lastmodified":1496902034,
     "wof:name":"Restaurant Roter Hiasl",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

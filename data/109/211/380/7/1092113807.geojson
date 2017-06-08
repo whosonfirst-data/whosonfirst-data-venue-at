@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6006250381,47.2587966919,9.6006250381,47.2587966919",
     "geom:latitude":47.258797,
     "geom:longitude":9.600625,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901475,
-    "wof:geomhash":"80a37ca32c497d57caf95bb3c5f98cec",
+    "wof:geomhash":"7fa9ca844e485afbdb91deab1d79b9aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092113807
         }
     ],
     "wof:id":1092113807,
-    "wof:lastmodified":1473984088,
+    "wof:lastmodified":1496900905,
     "wof:name":"Zoofachhandel Hund- und Katzenparadies",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

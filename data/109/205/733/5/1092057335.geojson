@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0946292877,47.8587799072,13.0946292877,47.8587799072",
     "geom:latitude":47.85878,
     "geom:longitude":13.094629,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898801,
-    "wof:geomhash":"ee77e7b0d579dc2711d4e7859faee279",
+    "wof:geomhash":"c54c9201dfd60aa1236088bf7cb0f5fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092057335
         }
     ],
     "wof:id":1092057335,
-    "wof:lastmodified":1473984588,
+    "wof:lastmodified":1496895379,
     "wof:name":"Elektro Handl",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

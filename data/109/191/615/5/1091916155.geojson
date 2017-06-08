@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2426700592,48.086315155,16.2426700592,48.086315155",
     "geom:latitude":48.086315,
     "geom:longitude":16.24267,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892839,
-    "wof:geomhash":"8f24a8fb4a09c64ed393a630319614a8",
+    "wof:geomhash":"ce6e0575d47048967e2c628429b608ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091916155
         }
     ],
     "wof:id":1091916155,
-    "wof:lastmodified":1473984183,
+    "wof:lastmodified":1496892000,
     "wof:name":"Zganjer & Partner OEG",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

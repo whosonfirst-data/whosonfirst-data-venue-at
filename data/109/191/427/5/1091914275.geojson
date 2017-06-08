@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4898414612,48.2171096802,16.4898414612,48.2171096802",
     "geom:latitude":48.21711,
     "geom:longitude":16.489841,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892759,
-    "wof:geomhash":"5cbb5d483a1cd45d3852fa48817db47e",
+    "wof:geomhash":"2673a876e70c1701ce7c0033f35ec4ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091914275
         }
     ],
     "wof:id":1091914275,
-    "wof:lastmodified":1473983853,
+    "wof:lastmodified":1496904068,
     "wof:name":"Karafiat KEG",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

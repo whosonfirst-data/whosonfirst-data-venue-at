@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2060546875,46.9743385315,10.2060546875,46.9743385315",
     "geom:latitude":46.974339,
     "geom:longitude":10.206055,
@@ -23,17 +24,33 @@
     "sg:postcode":"6563",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837293,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vitYuj5yWld9JlcAz2G4W_46.974339_10.206055@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909509,
-    "wof:geomhash":"d3c4f543541b6e74c6a7a860f5006093",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba3ef9777705e92af3dffa2479d03f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837293,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092291537
+        }
+    ],
     "wof:id":1092291537,
-    "wof:lastmodified":1473983698,
+    "wof:lastmodified":1496896729,
     "wof:name":"Appartement Petra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

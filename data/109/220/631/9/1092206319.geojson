@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7428321838,48.2616081238,16.7428321838,48.2616081238",
     "geom:latitude":48.261608,
     "geom:longitude":16.742832,
@@ -32,17 +33,34 @@
         "crushed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836953,
+        85632785,
+        101783431,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04drDFmfK7bnC9eFnZQBmf_48.261608_16.742832@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905800,
-    "wof:geomhash":"0158d0a7a261803c514224c5b569e830",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e026c239fbb5ad13b4f9ffbc98815a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836953,
+            "locality_id":101783431,
+            "region_id":85681671,
+            "venue_id":1092206319
+        }
+    ],
     "wof:id":1092206319,
-    "wof:lastmodified":1473984726,
+    "wof:lastmodified":1496893525,
     "wof:name":"Edmund Wiesmahr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

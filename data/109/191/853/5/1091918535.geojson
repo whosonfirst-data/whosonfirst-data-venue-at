@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1085100174,47.8237304688,13.1085100174,47.8237304688",
     "geom:latitude":47.82373,
     "geom:longitude":13.10851,
@@ -29,10 +30,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892935,
-    "wof:geomhash":"3358b1ec4cf121f9d0fa875ff50d4837",
+    "wof:geomhash":"545489bc9baa9db18b8bcf9ac3b920b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1091918535
         }
     ],
     "wof:id":1091918535,
-    "wof:lastmodified":1473984649,
+    "wof:lastmodified":1496895455,
     "wof:name":"Girst Dieter",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

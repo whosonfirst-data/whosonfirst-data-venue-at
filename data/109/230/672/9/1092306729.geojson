@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0242509842,48.3654403687,14.0242509842,48.3654403687",
     "geom:latitude":48.36544,
     "geom:longitude":14.024251,
@@ -35,17 +36,34 @@
     ],
     "sg:website":"ammann.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834813,
+        85632785,
+        101784581,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iZzEavBDEJtXEvuuqeLG1_48.365440_14.024251@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910226,
-    "wof:geomhash":"427ea1fd646fd2729f0afc60f7f207e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef03de375db0ecf84934205d685c8d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834813,
+            "locality_id":101784581,
+            "region_id":85681677,
+            "venue_id":1092306729
+        }
+    ],
     "wof:id":1092306729,
-    "wof:lastmodified":1473984864,
+    "wof:lastmodified":1496882659,
     "wof:name":"AMMANN Austria GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

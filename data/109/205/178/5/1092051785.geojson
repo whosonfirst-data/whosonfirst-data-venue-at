@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.110584259,47.1677703857,13.110584259,47.1677703857",
     "geom:latitude":47.16777,
     "geom:longitude":13.110584,
@@ -28,17 +29,34 @@
     "sg:postcode":"5630",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        101789117,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L3ncDs7RvZGd0udfdr9S1_47.167770_13.110584@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898578,
-    "wof:geomhash":"458225994f44e098ca9d5065de58075d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc5378bc13be295bc82cbf53ca4d21b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":101789117,
+            "region_id":85681681,
+            "venue_id":1092051785
+        }
+    ],
     "wof:id":1092051785,
-    "wof:lastmodified":1473983646,
+    "wof:lastmodified":1496893730,
     "wof:name":"Thermenhotel Sendlhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

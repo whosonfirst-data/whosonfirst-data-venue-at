@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1234035492,46.6234703064,14.1234035492,46.6234703064",
     "geom:latitude":46.62347,
     "geom:longitude":14.123404,
@@ -31,17 +32,33 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838183,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KJi6BggdApd72baVVwpfZ_46.623470_14.123404@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891229,
-    "wof:geomhash":"c13c3fabc61ced6c37fcec7dedd77390",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6f729737c4a7e45e86f58361d2a7618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838183,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091882275
+        }
+    ],
     "wof:id":1091882275,
-    "wof:lastmodified":1473983810,
+    "wof:lastmodified":1496906440,
     "wof:name":"GESUNDHEITSZENTRUM GOLFHOTEL AM W\u00d6RTHERSEE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

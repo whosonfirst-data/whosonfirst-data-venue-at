@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5402145386,47.8487586975,16.5402145386,47.8487586975",
     "geom:latitude":47.848759,
     "geom:longitude":16.540215,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833097,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UGAbH1S9Q68tkNSxJJzLy_47.848759_16.540215@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473911968,
-    "wof:geomhash":"5079a0b5555a9626b9a35e09300b64ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f1df8c2d1789921f82e97391b227a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833097,
+            "region_id":85681651,
+            "venue_id":1092347959
+        }
+    ],
     "wof:id":1092347959,
-    "wof:lastmodified":1473984908,
+    "wof:lastmodified":1496908762,
     "wof:name":"Hofer Motorradvertrieb GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

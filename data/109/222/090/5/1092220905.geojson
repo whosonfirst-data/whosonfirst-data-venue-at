@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5041122437,46.787311554,13.5041122437,46.787311554",
     "geom:latitude":46.787312,
     "geom:longitude":13.504112,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838301,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OCeyo461ge4JNL62VXDYB_46.787312_13.504112@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906436,
-    "wof:geomhash":"aec142cab155f7d758e0e48acc1af3d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f87ffcba7a2a0bb293dd24c95593185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092220905
+        }
+    ],
     "wof:id":1092220905,
-    "wof:lastmodified":1473983509,
+    "wof:lastmodified":1496907222,
     "wof:name":"Hoffmann G\u00fcnter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9218740463,47.9825820923,12.9218740463,47.9825820923",
     "geom:latitude":47.982582,
     "geom:longitude":12.921874,
@@ -23,17 +24,34 @@
     "sg:postcode":"5111",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837119,
+        85632785,
+        101833103,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x1vXLXgkEwreQJYUuJ5o2_47.982582_12.921874@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889059,
-    "wof:geomhash":"9e59332dd00492d9b1325aa61d50cbcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a14bc7ace5ed68b5f6cd2167fe243936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837119,
+            "locality_id":101833103,
+            "region_id":85681681,
+            "venue_id":1091835533
+        }
+    ],
     "wof:id":1091835533,
-    "wof:lastmodified":1473984377,
+    "wof:lastmodified":1496895237,
     "wof:name":"Bankomat d Raiffeisenkasse Lamprechtshausen-B\u00fcrmoos regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

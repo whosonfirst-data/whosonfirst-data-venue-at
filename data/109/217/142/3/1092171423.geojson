@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3514242172,48.3511428833,14.3514242172,48.3511428833",
     "geom:latitude":48.351143,
     "geom:longitude":14.351424,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898427,
-        102049853
+        102191581,
+        1108836411,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904184,
-    "wof:geomhash":"19274f006f3b3f7882dbf3e4ebec912c",
+    "wof:geomhash":"6a8162daae50fcaea166333cacace605",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049853,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":-1,
             "neighbourhood_id":85898427,
             "region_id":85681677,
             "venue_id":1092171423
         }
     ],
     "wof:id":1092171423,
-    "wof:lastmodified":1473983624,
+    "wof:lastmodified":1496889720,
     "wof:name":"Bauernfeind Eveline",
     "wof:parent_id":85898427,
     "wof:placetype":"venue",

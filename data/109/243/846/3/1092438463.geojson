@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4878101349,47.8057785034,13.4878101349,47.8057785034",
     "geom:latitude":47.805779,
     "geom:longitude":13.48781,
@@ -23,17 +24,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.arge-tauchen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836519,
+        85632785,
+        101910875,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KQUp4JqQTIUFm5xEaYx9J_47.805779_13.487810@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916297,
-    "wof:geomhash":"084bdfa2cc6b44fdb3eb2599e135806c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"982e463fb9fac4231147a6c35184347b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836519,
+            "locality_id":101910875,
+            "region_id":85681677,
+            "venue_id":1092438463
+        }
+    ],
     "wof:id":1092438463,
-    "wof:lastmodified":1473985140,
+    "wof:lastmodified":1496891471,
     "wof:name":"ARGE TAUCHEN \u00d6STERREICH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5499897003,48.2032394409,16.5499897003,48.2032394409",
     "geom:latitude":48.203239,
     "geom:longitude":16.54999,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898935,
-    "wof:geomhash":"e9d49569722c916b90959287c5e40f83",
+    "wof:geomhash":"ee102eadcb0f1bfc9268570c2dd536e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092060825
         }
     ],
     "wof:id":1092060825,
-    "wof:lastmodified":1473983550,
+    "wof:lastmodified":1496892131,
     "wof:name":"Wolfgang Weber",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0515079498,48.3314323425,16.0515079498,48.3314323425",
     "geom:latitude":48.331432,
     "geom:longitude":16.051508,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        101833267,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M9FeMFU7fmh51V7vfFYC9_48.331432_16.051508@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892704,
-    "wof:geomhash":"3aa19ef3511828e0fdcd0cb5db3738c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac3628045064dccfaba8e31332cd4e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":101833267,
+            "region_id":85681671,
+            "venue_id":1091913253
+        }
+    ],
     "wof:id":1091913253,
-    "wof:lastmodified":1473983700,
+    "wof:lastmodified":1496893129,
     "wof:name":"e-net engineering network GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

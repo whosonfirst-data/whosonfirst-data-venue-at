@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4015331268,47.0392303467,15.4015331268,47.0392303467",
     "geom:latitude":47.03923,
     "geom:longitude":15.401533,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900886,
-    "wof:geomhash":"360a4257deb293c6ee63c18a5d877d5c",
+    "wof:geomhash":"2423a7bf41698c2c2c74aaa978eea462",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1092101595
         }
     ],
     "wof:id":1092101595,
-    "wof:lastmodified":1473983610,
+    "wof:lastmodified":1496913059,
     "wof:name":"H\u00f6rri Ges.m.b.H.",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

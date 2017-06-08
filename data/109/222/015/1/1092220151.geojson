@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8675498962,48.0913124084,13.8675498962,48.0913124084",
     "geom:latitude":48.091312,
     "geom:longitude":13.86755,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906403,
-    "wof:geomhash":"46900710f0291850a90241b6de2299be",
+    "wof:geomhash":"85c844d1b93591ba3e66f5a6be5f112d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1092220151
         }
     ],
     "wof:id":1092220151,
-    "wof:lastmodified":1473983379,
+    "wof:lastmodified":1496891631,
     "wof:name":"Bruckbacher GmbH",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

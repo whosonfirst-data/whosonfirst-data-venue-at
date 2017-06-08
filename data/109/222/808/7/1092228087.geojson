@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8766899109,48.1236305237,14.8766899109,48.1236305237",
     "geom:latitude":48.123631,
     "geom:longitude":14.87669,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.hackner.cc",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101784475,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6COAOOUBtQs6aTzFEf1TIQ_48.123631_14.876690@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906746,
-    "wof:geomhash":"796d4b0d8687f161020c4e8f9f88d2dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0c84d5516b4fcbd07781b512cc65722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101784475,
+            "region_id":85681671,
+            "venue_id":1092228087
+        }
+    ],
     "wof:id":1092228087,
-    "wof:lastmodified":1473985199,
+    "wof:lastmodified":1496883324,
     "wof:name":"Heinzelm\u00e4nnchen - Heinz Hackner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

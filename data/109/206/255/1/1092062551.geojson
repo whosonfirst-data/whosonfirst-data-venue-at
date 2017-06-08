@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4146137238,48.1345367432,16.4146137238,48.1345367432",
     "geom:latitude":48.134537,
     "geom:longitude":16.414614,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899004,
-    "wof:geomhash":"e8459af7516bc5a6584f692d3deb32a6",
+    "wof:geomhash":"5d56daeb5481242095d15ed22d300708",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092062551
         }
     ],
     "wof:id":1092062551,
-    "wof:lastmodified":1473983862,
+    "wof:lastmodified":1496928425,
     "wof:name":"Biergasthaus Br\u00fcckenwirt",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4165802002,47.8371315002,16.4165802002,47.8371315002",
     "geom:latitude":47.837132,
     "geom:longitude":16.41658,
@@ -28,17 +29,33 @@
     "sg:postcode":"7035",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838501,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DgIjWrfE924ktBqtVHdtT_47.837132_16.416580@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896448,
-    "wof:geomhash":"ce11bcb2283487c6f12c041596b9713a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5723d51a38ffe13b72562253dc537498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838501,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091997993
+        }
+    ],
     "wof:id":1091997993,
-    "wof:lastmodified":1473984904,
+    "wof:lastmodified":1496908258,
     "wof:name":"POINT 2 Zethofer - Mezgolits OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

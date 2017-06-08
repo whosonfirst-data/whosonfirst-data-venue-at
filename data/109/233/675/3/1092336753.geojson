@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4209136963,48.3038024902,16.4209136963,48.3038024902",
     "geom:latitude":48.303802,
     "geom:longitude":16.420914,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911483,
-    "wof:geomhash":"544a72764d9b30db6f2cf169727c9223",
+    "wof:geomhash":"bfe543e7effb968e09baa9ec800f4de0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092336753
         }
     ],
     "wof:id":1092336753,
-    "wof:lastmodified":1473984923,
+    "wof:lastmodified":1496903490,
     "wof:name":"Strasser Johanna - Shiatzu",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.319732666,46.603187561,14.319732666,46.603187561",
     "geom:latitude":46.603188,
     "geom:longitude":14.319733,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910739,
-    "wof:geomhash":"4f9f28dc8326d1608679db02a08cd7dc",
+    "wof:geomhash":"bc5f3e7dcc0278d8fb33c25163ee535d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092318605
         }
     ],
     "wof:id":1092318605,
-    "wof:lastmodified":1473985304,
+    "wof:lastmodified":1496905741,
     "wof:name":"Rabensteiner Franz",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

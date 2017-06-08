@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.936413765,47.3066101074,14.936413765,47.3066101074",
     "geom:latitude":47.30661,
     "geom:longitude":14.936414,
@@ -23,17 +24,34 @@
     "sg:postcode":"8714",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839011,
+        85632785,
+        101844545,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DND95M61TfIx3x0YCPvZs_47.306610_14.936414@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899027,
-    "wof:geomhash":"6e181127efb76adab6c0fc613960df05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ca801e79cb6f42fb4a181605b7d7b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108839011,
+            "locality_id":101844545,
+            "region_id":85681687,
+            "venue_id":1092063043
+        }
+    ],
     "wof:id":1092063043,
-    "wof:lastmodified":1473983918,
+    "wof:lastmodified":1496910841,
     "wof:name":"Bus-Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

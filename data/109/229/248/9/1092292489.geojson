@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9233503342,47.4177360535,9.9233503342,47.4177360535",
     "geom:latitude":47.417736,
     "geom:longitude":9.92335,
@@ -23,17 +24,33 @@
     "sg:postcode":"6866",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837889,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hCtBQWqm0HOTdLopd1dhA_47.417736_9.923350@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909546,
-    "wof:geomhash":"e6dbe3dce00e0bcf0537f0cc47804d4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5f8e424aee9b2303e67a5f4ba4e421c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837889,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092292489
+        }
+    ],
     "wof:id":1092292489,
-    "wof:lastmodified":1473983937,
+    "wof:lastmodified":1496900516,
     "wof:name":"Berghof Kohler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

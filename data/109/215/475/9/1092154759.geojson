@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6072416306,47.2451705933,9.6072416306,47.2451705933",
     "geom:latitude":47.245171,
     "geom:longitude":9.607242,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903435,
-    "wof:geomhash":"b233b4af29cb0f808af1b31ddd7ebf94",
+    "wof:geomhash":"e7354befd2a3ef6e4a4dee3284c4b714",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092154759
         }
     ],
     "wof:id":1092154759,
-    "wof:lastmodified":1473984199,
+    "wof:lastmodified":1496900948,
     "wof:name":"Z\u00fcrich Versicherungs-AG",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

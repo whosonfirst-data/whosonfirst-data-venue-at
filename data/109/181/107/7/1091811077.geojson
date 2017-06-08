@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2102985382,48.3852043152,16.2102985382,48.3852043152",
     "geom:latitude":48.385204,
     "geom:longitude":16.210299,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"hsa.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834843,
+        85632785,
+        101833277,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6583ZmChlBDreP9D7wtcqW_48.385204_16.210299@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473887961,
-    "wof:geomhash":"c42c7a27897d26cd025bd85145bf1e5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d3b6f1e2c197c80cdc182ca69158dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834843,
+            "locality_id":101833277,
+            "region_id":85681671,
+            "venue_id":1091811077
+        }
+    ],
     "wof:id":1091811077,
-    "wof:lastmodified":1473983554,
+    "wof:lastmodified":1496882959,
     "wof:name":"HSA Scharrenbroich Ges.m.b.H. Heizung, Sanit\u00e4r u. Alternativenergie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

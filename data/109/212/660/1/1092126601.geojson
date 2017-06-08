@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4069709778,47.0400161743,15.4069709778,47.0400161743",
     "geom:latitude":47.040016,
     "geom:longitude":15.406971,
@@ -25,10 +26,12 @@
     "sg:website":"wallgroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902070,
-    "wof:geomhash":"f8948b76d62b9b2c8bf987856d5111dd",
+    "wof:geomhash":"dcbca6bebd5638eb79c3ad30f975c03b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1092126601
         }
     ],
     "wof:id":1092126601,
-    "wof:lastmodified":1473984636,
+    "wof:lastmodified":1496913061,
     "wof:name":"Rotoform Druckformen GesmbH",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

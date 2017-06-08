@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4242105484,47.5268440247,12.4242105484,47.5268440247",
     "geom:latitude":47.526844,
     "geom:longitude":12.424211,
@@ -33,17 +34,34 @@
         "mirror"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XTXzZBn7rr7woCZYzdmBd_47.526844_12.424211@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900885,
-    "wof:geomhash":"ba1d9d8f1232367de7f84c359225b1db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d18f9102fa2f53e7b4ce999d09b6bf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1092101575
+        }
+    ],
     "wof:id":1092101575,
-    "wof:lastmodified":1473983603,
+    "wof:lastmodified":1496897348,
     "wof:name":"Bruno Schenk GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

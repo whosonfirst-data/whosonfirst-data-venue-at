@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4257612228,47.3820610046,12.4257612228,47.3820610046",
     "geom:latitude":47.382061,
     "geom:longitude":12.425761,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837347,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kqad6CJPvVCClYgqjFrIk_47.382061_12.425761@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906416,
-    "wof:geomhash":"29eb250ec2b2613c5e9597c02c9c6e58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8ec8f75c8e36b737c27155e20d44430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837347,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092220471
+        }
+    ],
     "wof:id":1092220471,
-    "wof:lastmodified":1473983436,
+    "wof:lastmodified":1496897044,
     "wof:name":"Filzer Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

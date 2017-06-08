@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8700771332,48.0811080933,13.8700771332,48.0811080933",
     "geom:latitude":48.081108,
     "geom:longitude":13.870077,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911562,
-    "wof:geomhash":"dc0705654e2b197bb0abf4d79bb64249",
+    "wof:geomhash":"18af9eb4bef18ac40901756c7f809056",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1092338419
         }
     ],
     "wof:id":1092338419,
-    "wof:lastmodified":1473985280,
+    "wof:lastmodified":1496891757,
     "wof:name":"WOLFGANG ZWIRCHMAIER GMBH",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

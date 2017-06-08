@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0831766129,47.8324241638,13.0831766129,47.8324241638",
     "geom:latitude":47.832424,
     "geom:longitude":13.083177,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908938,
-    "wof:geomhash":"a9a8bdad858b869c94adfa67ff2dfc4c",
+    "wof:geomhash":"9cd7f6f02c85760c7939bba56bacc051",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092277941
         }
     ],
     "wof:id":1092277941,
-    "wof:lastmodified":1473985180,
+    "wof:lastmodified":1496895385,
     "wof:name":"GEISLINGER GMBH",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7228050232,48.0351142883,13.7228050232,48.0351142883",
     "geom:latitude":48.035114,
     "geom:longitude":13.722805,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"pins.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836481,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_300BvTK6XBgU26KbiisqLe_48.035114_13.722805@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905690,
-    "wof:geomhash":"7248d0bcb635cc9be742307ba615d816",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c07bc97077a8c56a36af4ccd0cd5dac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836481,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092203713
+        }
+    ],
     "wof:id":1092203713,
-    "wof:lastmodified":1473984150,
+    "wof:lastmodified":1496891237,
     "wof:name":"Ing. Michael Putz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

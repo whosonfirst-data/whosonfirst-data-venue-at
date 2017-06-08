@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4772968292,48.212852478,14.4772968292,48.212852478",
     "geom:latitude":48.212852,
     "geom:longitude":14.477297,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900345,
-    "wof:geomhash":"398160afbdb507d8039f7c73e40414de",
+    "wof:geomhash":"40c0f2604b4b84401be22a0ee646f3af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092092097
         }
     ],
     "wof:id":1092092097,
-    "wof:lastmodified":1473983649,
+    "wof:lastmodified":1496887094,
     "wof:name":"Ferge Alfred Dipl-Ing",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

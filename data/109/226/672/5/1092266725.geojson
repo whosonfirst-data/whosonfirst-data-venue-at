@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0355997086,48.2509040833,13.0355997086,48.2509040833",
     "geom:latitude":48.250904,
     "geom:longitude":13.0356,
@@ -32,17 +33,34 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        101913421,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VQZkpCRti8M2mnAHagRgq_48.250904_13.035600@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908462,
-    "wof:geomhash":"12fda112f2bf90450676fcd86417ea6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0a3cf150c4808bfc73c9d6bc800268f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":101913421,
+            "region_id":85681677,
+            "venue_id":1092266725
+        }
+    ],
     "wof:id":1092266725,
-    "wof:lastmodified":1473984621,
+    "wof:lastmodified":1496882254,
     "wof:name":"Elektro Blum Inh. Martin Blum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

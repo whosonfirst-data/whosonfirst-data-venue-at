@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.310297966,46.6095733643,14.310297966,46.6095733643",
     "geom:latitude":46.609573,
     "geom:longitude":14.310298,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907069,
-    "wof:geomhash":"5dc50fd2bdfface4c2b48fa0c6a1d63e",
+    "wof:geomhash":"256ec295fb10c50cb57c77f088aea110",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092235447
         }
     ],
     "wof:id":1092235447,
-    "wof:lastmodified":1473984448,
+    "wof:lastmodified":1496905601,
     "wof:name":"K\u00e4rntner Handpuppenspiele Inh Willi Noll",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2605457306,48.1621894836,16.2605457306,48.1621894836",
     "geom:latitude":48.162189,
     "geom:longitude":16.260546,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897222,
-    "wof:geomhash":"b72ea8460bd37423b4249f10aa9e75a2",
+    "wof:geomhash":"29b55670c6fcce412eb1160cf4c03500",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092016781
         }
     ],
     "wof:id":1092016781,
-    "wof:lastmodified":1473984177,
+    "wof:lastmodified":1496904223,
     "wof:name":"Agrarservice Dipl-Ing Dr Andreas Sch\u00e4fer & Ursula Sch\u00e4fer OEG",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

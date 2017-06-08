@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3858690262,47.0144882202,15.3858690262,47.0144882202",
     "geom:latitude":47.014488,
     "geom:longitude":15.385869,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893862,
-    "wof:geomhash":"021295b184d43afd7ebf34faf9ac920f",
+    "wof:geomhash":"7c20dfca12b32f3fdc7aa26df9993a82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1091938233
         }
     ],
     "wof:id":1091938233,
-    "wof:lastmodified":1473984932,
+    "wof:lastmodified":1496911606,
     "wof:name":"Schr\u00f6ttner Petra Mag",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

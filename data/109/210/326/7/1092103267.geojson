@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2751502991,48.1544799805,16.2751502991,48.1544799805",
     "geom:latitude":48.15448,
     "geom:longitude":16.27515,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900976,
-    "wof:geomhash":"59d1a36ce0cfc58b8e2a55bceffc5767",
+    "wof:geomhash":"fc300d454af884a3f08f825237dca5a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092103267
         }
     ],
     "wof:id":1092103267,
-    "wof:lastmodified":1473983901,
+    "wof:lastmodified":1496928916,
     "wof:name":"Eduard Flaschka & Co",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

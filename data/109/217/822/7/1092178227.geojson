@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7538747787,47.4117012024,9.7538747787,47.4117012024",
     "geom:latitude":47.411701,
     "geom:longitude":9.753875,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904494,
-    "wof:geomhash":"5af85d9ea0e0d690afc38b3a2345495b",
+    "wof:geomhash":"2819e8bae69db532a71f249503527a3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092178227
         }
     ],
     "wof:id":1092178227,
-    "wof:lastmodified":1473985031,
+    "wof:lastmodified":1496900726,
     "wof:name":"Moosbrugger Ilse",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

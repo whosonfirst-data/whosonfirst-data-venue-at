@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.343873024,48.3348121643,14.343873024,48.3348121643",
     "geom:latitude":48.334812,
     "geom:longitude":14.343873,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898427,
-        102049853
+        102191581,
+        1108836411,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889494,
-    "wof:geomhash":"1d7b450a9ed0b3c4e24c962f3b64b192",
+    "wof:geomhash":"101325fd17727fefd26409beb9b845a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049853,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":-1,
             "neighbourhood_id":85898427,
             "region_id":85681677,
             "venue_id":1091845463
         }
     ],
     "wof:id":1091845463,
-    "wof:lastmodified":1473984298,
+    "wof:lastmodified":1496889770,
     "wof:name":"Vitalhaus",
     "wof:parent_id":85898427,
     "wof:placetype":"venue",

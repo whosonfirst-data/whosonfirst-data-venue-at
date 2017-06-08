@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9870214462,47.8578147888,15.9870214462,47.8578147888",
     "geom:latitude":47.857815,
     "geom:longitude":15.987021,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836193,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F8rQdCFvZxhy0SAvvNvtt_47.857815_15.987021@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888438,
-    "wof:geomhash":"a37cae9eaa6b7bf37b72cfab329204cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f9d9a63fd3c612d5384545ba55fb759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108836193,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091822037
+        }
+    ],
     "wof:id":1091822037,
-    "wof:lastmodified":1473983841,
+    "wof:lastmodified":1496889943,
     "wof:name":"Johann Klauser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

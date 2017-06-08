@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4087667465,47.2306289673,11.4087667465,47.2306289673",
     "geom:latitude":47.230629,
     "geom:longitude":11.408767,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898357,
-    "wof:geomhash":"43473a902639c3e4f6f3ba1a594227dc",
+    "wof:geomhash":"f75fb1027f623621a26328cc297aa39f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092046043
         }
     ],
     "wof:id":1092046043,
-    "wof:lastmodified":1473983867,
+    "wof:lastmodified":1496899572,
     "wof:name":"Hotel Bonalpina",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.47996521,48.2904548645,16.47996521,48.2904548645",
     "geom:latitude":48.290455,
     "geom:longitude":16.479965,
@@ -34,10 +35,13 @@
     "sg:website":"balloonrecords.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888214,
-    "wof:geomhash":"bce23c693e336219c6cf0867ba59fa84",
+    "wof:geomhash":"3dde2d89282a27f1cd2a0da517507f53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091816889
         }
     ],
     "wof:id":1091816889,
-    "wof:lastmodified":1473984880,
+    "wof:lastmodified":1496890122,
     "wof:name":"BALLOON Records GmbH",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

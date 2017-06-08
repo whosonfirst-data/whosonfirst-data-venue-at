@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3330450058,47.2674598694,11.3330450058,47.2674598694",
     "geom:latitude":47.26746,
     "geom:longitude":11.333045,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896828,
-    "wof:geomhash":"428eeef7bd6e69410d354643a9822d87",
+    "wof:geomhash":"f23497998bd0b1c19d6eef1b81911771",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092007033
         }
     ],
     "wof:id":1092007033,
-    "wof:lastmodified":1473984653,
+    "wof:lastmodified":1496899456,
     "wof:name":"Welzl Monika",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

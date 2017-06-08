@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.47889328,48.2147483826,14.47889328,48.2147483826",
     "geom:latitude":48.214748,
     "geom:longitude":14.478893,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915516,
-    "wof:geomhash":"f3f26cbaef52382da20f08c3ef6940ac",
+    "wof:geomhash":"11e2e60520f8d21e6fe894f6d7115a0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092421551
         }
     ],
     "wof:id":1092421551,
-    "wof:lastmodified":1473983606,
+    "wof:lastmodified":1496887071,
     "wof:name":"BR\u00dcDER RIEGLER",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1540880203,47.3724098206,11.1540880203,47.3724098206",
     "geom:latitude":47.37241,
     "geom:longitude":11.154088,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KwAC3hoyJxk1vEzEWj0bA_47.372410_11.154088@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913101,
-    "wof:geomhash":"7279e224112a7abb2c09869dd11a850c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec3c94528be69db28f0948c8474cce15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092371871
+        }
+    ],
     "wof:id":1092371871,
-    "wof:lastmodified":1473983847,
+    "wof:lastmodified":1496898441,
     "wof:name":"Pension Rustical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

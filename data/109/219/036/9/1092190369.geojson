@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2959728241,47.8156471252,15.2959728241,47.8156471252",
     "geom:latitude":47.815647,
     "geom:longitude":15.295973,
@@ -37,17 +38,33 @@
     ],
     "sg:website":"margreiter.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835789,
+        85632785,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BLpex8YsJU4ABGD5DVSa7_47.815647_15.295973@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905041,
-    "wof:geomhash":"57736cd5ed9b1f7cfd563d4e5d4ba694",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c00adbd097761915964d56f7c3da27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108835789,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092190369
+        }
+    ],
     "wof:id":1092190369,
-    "wof:lastmodified":1473983397,
+    "wof:lastmodified":1496888352,
     "wof:name":"Werner Margreiter Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

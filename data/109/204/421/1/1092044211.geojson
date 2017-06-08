@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.094080925,47.1695289612,13.094080925,47.1695289612",
     "geom:latitude":47.169529,
     "geom:longitude":13.094081,
@@ -29,17 +30,33 @@
     "sg:province":"Salzburg",
     "sg:website":"www.pyrkerhoehe.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tP1MLoJDjvc8mNAodjTo5_47.169529_13.094081@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898290,
-    "wof:geomhash":"24c0c2511f15289f2c3fe0f879185eb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1c1dbe72e3cf8017c83119782cefc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092044211
+        }
+    ],
     "wof:id":1092044211,
-    "wof:lastmodified":1473983596,
+    "wof:lastmodified":1496893722,
     "wof:name":"Apparthotel Pyrkerh\u00f6he",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

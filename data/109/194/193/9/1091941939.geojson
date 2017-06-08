@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0243911743,47.6970901489,16.0243911743,47.6970901489",
     "geom:latitude":47.69709,
     "geom:longitude":16.024391,
@@ -31,17 +32,33 @@
         "supervision"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836643,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TKVVyepl88N2GH7mJi6gn_47.697090_16.024391@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473894028,
-    "wof:geomhash":"9065f57108fdf0c749d280a94796174c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9370d196e461f3352dd86026ec2aac4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108836643,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091941939
+        }
+    ],
     "wof:id":1091941939,
-    "wof:lastmodified":1473983736,
+    "wof:lastmodified":1496892159,
     "wof:name":"Meixner Margarete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

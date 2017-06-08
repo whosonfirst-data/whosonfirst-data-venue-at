@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1293907166,48.0979919434,16.1293907166,48.0979919434",
     "geom:latitude":48.097992,
     "geom:longitude":16.129391,
@@ -32,17 +33,33 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836663,
+        85632785,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VWYiyD3OoNhizeXVUFSjg_48.097992_16.129391@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911240,
-    "wof:geomhash":"e30a3fd66587d747e4d8f0ed3c21f429",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d3c075ddefd793c1dcacc38b1f9f367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836663,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092330659
+        }
+    ],
     "wof:id":1092330659,
-    "wof:lastmodified":1473983496,
+    "wof:lastmodified":1496892227,
     "wof:name":"Ing. Peter Tiess Projektmanagement GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

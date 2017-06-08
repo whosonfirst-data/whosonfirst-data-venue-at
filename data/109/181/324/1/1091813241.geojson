@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4959201813,48.2260894775,13.4959201813,48.2260894775",
     "geom:latitude":48.226089,
     "geom:longitude":13.49592,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"krautgartner-druck.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835695,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V6Sn6YsKJGQrFEmN9uNJE_48.226089_13.495920@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473888054,
-    "wof:geomhash":"ecd05c81af7fab24fe8dc7d1698514f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"996ba8684c921af55bc6b2693b7686bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835695,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091813241
+        }
+    ],
     "wof:id":1091813241,
-    "wof:lastmodified":1473983998,
+    "wof:lastmodified":1496888004,
     "wof:name":"Krautgartner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

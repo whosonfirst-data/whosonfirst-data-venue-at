@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3460197449,47.2688674927,11.3460197449,47.2688674927",
     "geom:latitude":47.268867,
     "geom:longitude":11.34602,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911308,
-    "wof:geomhash":"ed6c12775c352723cb81a8eae3d56526",
+    "wof:geomhash":"ed3a6c186055f271e6256c08333fe857",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092332183
         }
     ],
     "wof:id":1092332183,
-    "wof:lastmodified":1473983907,
+    "wof:lastmodified":1496899357,
     "wof:name":"Silly Sabine",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

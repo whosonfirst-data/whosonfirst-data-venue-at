@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4666996002,48.2930107117,16.4666996002,48.2930107117",
     "geom:latitude":48.293011,
     "geom:longitude":16.4667,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891599,
-    "wof:geomhash":"dd382c73dfe12e7260b3757247397f55",
+    "wof:geomhash":"d836b7c474e33d3ec83610241e70b41f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091889115
         }
     ],
     "wof:id":1091889115,
-    "wof:lastmodified":1473985101,
+    "wof:lastmodified":1496890139,
     "wof:name":"Str\u00f6ck GesmbH",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

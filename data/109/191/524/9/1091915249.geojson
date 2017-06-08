@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.085814476,48.8351364136,15.085814476,48.8351364136",
     "geom:latitude":48.835136,
     "geom:longitude":15.085814,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108835309,
+        85633105,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2StWMiHbGOmHTLEU4toLnQ_48.835136_15.085814@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892800,
-    "wof:geomhash":"5601eb2bc97c9308b5203d7d3b43f74d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c78c6f3f9fdf1df1e261cecc5d0cb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108835309,
+            "locality_id":-1,
+            "region_id":85682415,
+            "venue_id":1091915249
+        }
+    ],
     "wof:id":1091915249,
-    "wof:lastmodified":1473984002,
+    "wof:lastmodified":1496885978,
     "wof:name":"RZA Rechenzentrum Amaliendorf GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

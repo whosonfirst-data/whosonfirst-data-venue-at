@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0717506409,47.7757263184,13.0717506409,47.7757263184",
     "geom:latitude":47.775726,
     "geom:longitude":13.071751,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890792,
-    "wof:geomhash":"2546747a4bad4239548af3291fdb4604",
+    "wof:geomhash":"da91f89db9a0529807fb3c65b6031fee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091872601
         }
     ],
     "wof:id":1091872601,
-    "wof:lastmodified":1473983788,
+    "wof:lastmodified":1496894539,
     "wof:name":"Egger Helga",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

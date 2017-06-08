@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.975522995,47.3277893066,9.975522995,47.3277893066",
     "geom:latitude":47.327789,
     "geom:longitude":9.975523,
@@ -32,17 +33,34 @@
         "banister"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837891,
+        85632785,
+        101841969,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MmyZf48ECo0ECmt18F7nM_47.327789_9.975523@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888516,
-    "wof:geomhash":"d83f2470e760cba9605d7bb8e0d457aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a52774f226e1b908025ecfefd350de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837891,
+            "locality_id":101841969,
+            "region_id":85681649,
+            "venue_id":1091823783
+        }
+    ],
     "wof:id":1091823783,
-    "wof:lastmodified":1473984266,
+    "wof:lastmodified":1496900527,
     "wof:name":"Werner Moosbrugger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3922100067,47.0001716614,15.3922100067,47.0001716614",
     "geom:latitude":47.000172,
     "geom:longitude":15.39221,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839157,
+        85632785,
+        101754131,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TCi8JgALxsHQRgQvilGFp_47.000172_15.392210@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892804,
-    "wof:geomhash":"a714530a13af90b625602a1e989e05f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69c890a11ec252af5746622585403edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839157,
+            "locality_id":101754131,
+            "region_id":85681687,
+            "venue_id":1091915351
+        }
+    ],
     "wof:id":1091915351,
-    "wof:lastmodified":1473984005,
+    "wof:lastmodified":1496911620,
     "wof:name":"Schober & Hartl OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

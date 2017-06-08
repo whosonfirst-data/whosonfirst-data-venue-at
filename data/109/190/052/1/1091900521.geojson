@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0374441147,47.8272018433,13.0374441147,47.8272018433",
     "geom:latitude":47.827202,
     "geom:longitude":13.037444,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892139,
-    "wof:geomhash":"d159ad641fd77963d8f2ca24bdf47443",
+    "wof:geomhash":"4e0e15112236ce04b55a17a12aa60a82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1091900521
         }
     ],
     "wof:id":1091900521,
-    "wof:lastmodified":1473983399,
+    "wof:lastmodified":1496894716,
     "wof:name":"Schl\u00fcsselnotdienst",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

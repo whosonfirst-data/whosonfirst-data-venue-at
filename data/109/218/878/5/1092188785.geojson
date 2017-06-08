@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4270887375,47.5219230652,12.4270887375,47.5219230652",
     "geom:latitude":47.521923,
     "geom:longitude":12.427089,
@@ -32,17 +33,34 @@
         "adventure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r0j7LTvwp5G8eO7BXND1O_47.521923_12.427089@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904972,
-    "wof:geomhash":"9f0dad756ce7d979c41050177808a98f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e2dbd363980321158814292fe87fad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1092188785
+        }
+    ],
     "wof:id":1092188785,
-    "wof:lastmodified":1473985035,
+    "wof:lastmodified":1496897405,
     "wof:name":"Mountain High Adventure Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1748304367,48.295753479,14.1748304367,48.295753479",
     "geom:latitude":48.295753,
     "geom:longitude":14.17483,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835565,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rUQ33YBqoGVc55uiw8IxQ_48.295753_14.174830@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892819,
-    "wof:geomhash":"2896d4a048e84b5b98af61c3164d34a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb23dd9bc74dc5777425930ecd583f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835565,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091915725
+        }
+    ],
     "wof:id":1091915725,
-    "wof:lastmodified":1473984056,
+    "wof:lastmodified":1496887460,
     "wof:name":"Stephan Thoma Ing EDV-Dienstleistungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

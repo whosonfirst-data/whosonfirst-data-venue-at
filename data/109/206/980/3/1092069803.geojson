@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5197172165,47.4674987793,12.5197172165,47.4674987793",
     "geom:latitude":47.467499,
     "geom:longitude":12.519717,
@@ -23,17 +24,33 @@
     "sg:postcode":"6391",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837361,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KfU0lubIhMxLz8X4XbGzN_47.467499_12.519717@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899301,
-    "wof:geomhash":"b513cd76864885dead9a86180fdc39e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f947628dbece87af907fc52d43705da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837361,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092069803
+        }
+    ],
     "wof:id":1092069803,
-    "wof:lastmodified":1473985113,
+    "wof:lastmodified":1496897273,
     "wof:name":"Gasthaus Winkelmoos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

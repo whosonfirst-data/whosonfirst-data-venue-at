@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.219455719,47.4007797241,15.219455719,47.4007797241",
     "geom:latitude":47.40078,
     "geom:longitude":15.219456,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"ipb-baier.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839323,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CnGbi9DEo0PCpWx5L6xti_47.400780_15.219456@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893039,
-    "wof:geomhash":"0ffe29bfb785450f4945f34cf08a33f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b833488c12c6d47f8a59b717a8f437d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839323,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091921235
+        }
+    ],
     "wof:id":1091921235,
-    "wof:lastmodified":1473983549,
+    "wof:lastmodified":1496912969,
     "wof:name":"IPB Industrie Partner Baier GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

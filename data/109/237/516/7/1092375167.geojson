@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2609701157,47.1265258789,10.2609701157,47.1265258789",
     "geom:latitude":47.126526,
     "geom:longitude":10.26097,
@@ -23,17 +24,34 @@
     "sg:postcode":"6580",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        101826319,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GvlNAthifXfCLPdkG0q84_47.126526_10.260970@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913242,
-    "wof:geomhash":"5fda058f2f1a2a659f106f59063f014e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cc1ee64a62701c65d2f1fe91ab3dfc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":101826319,
+            "region_id":85681661,
+            "venue_id":1092375167
+        }
+    ],
     "wof:id":1092375167,
-    "wof:lastmodified":1473984507,
+    "wof:lastmodified":1496896915,
     "wof:name":"Villa Arlberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

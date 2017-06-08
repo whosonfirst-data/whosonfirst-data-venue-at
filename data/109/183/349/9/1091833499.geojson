@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4876060486,48.2087097168,13.4876060486,48.2087097168",
     "geom:latitude":48.20871,
     "geom:longitude":13.487606,
@@ -23,17 +24,34 @@
     "sg:postcode":"4910",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mmkneDqWNO0UvGYdXH0Fa_48.208710_13.487606@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888974,
-    "wof:geomhash":"26d6fb068d3c7b1c901c3881a4665793",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0ca66723f56e45cc49c23d010e62926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1091833499
+        }
+    ],
     "wof:id":1091833499,
-    "wof:lastmodified":1473983993,
+    "wof:lastmodified":1496887878,
     "wof:name":"HYPO Ober\u00f6sterreich, O\u00f6 Landesbank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

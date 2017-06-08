@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5561008453,48.1137504578,16.5561008453,48.1137504578",
     "geom:latitude":48.11375,
     "geom:longitude":16.556101,
@@ -24,9 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85632785,
         102556267,
-        85681671
+        85681671,
+        102191581,
+        1108836277,
+        85632785,
+        102049843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,17 +38,22 @@
     },
     "wof:country":"AT",
     "wof:created":1473902363,
-    "wof:geomhash":"8cb15e567957217960459929b0aa0ccc",
+    "wof:geomhash":"11cdea4c90bb3cf766543050a02280b4",
     "wof:hierarchy":[
         {
             "campus_id":102556267,
+            "continent_id":102191581,
             "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836277,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85681671,
             "venue_id":1092132093
         }
     ],
     "wof:id":1092132093,
-    "wof:lastmodified":1473983776,
+    "wof:lastmodified":1496890322,
     "wof:name":"TVW Travel Value Wien Betriebs GmbH & Co KG",
     "wof:parent_id":102556267,
     "wof:placetype":"venue",

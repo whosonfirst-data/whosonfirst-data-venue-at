@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3363857269,48.3424415588,16.3363857269,48.3424415588",
     "geom:latitude":48.342442,
     "geom:longitude":16.336386,
@@ -31,17 +32,34 @@
         "geometer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23WXpO0vaCnMpw0c720jC2_48.342442_16.336386@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900340,
-    "wof:geomhash":"72f768587498bb86f4e71d0f83b15985",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b0f03a3e376b54680b0b3a5d990ecfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1092092003
+        }
+    ],
     "wof:id":1092092003,
-    "wof:lastmodified":1473983611,
+    "wof:lastmodified":1496883724,
     "wof:name":"Arge Vermessung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

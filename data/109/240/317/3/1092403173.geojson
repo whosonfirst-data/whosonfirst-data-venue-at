@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.4347553253,47.1331558228,10.4347553253,47.1331558228",
     "geom:latitude":47.133156,
     "geom:longitude":10.434755,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837337,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S7wDI8kdgcPpm26SH4vRT_47.133156_10.434755@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914545,
-    "wof:geomhash":"8f4d59095b2eb6fddc9ef5f11ba8214b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b8f065c30646fe73d1805ad6abde420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837337,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092403173
+        }
+    ],
     "wof:id":1092403173,
-    "wof:lastmodified":1473983964,
+    "wof:lastmodified":1496896971,
     "wof:name":"Schranz Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

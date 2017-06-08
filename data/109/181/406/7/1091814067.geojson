@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0323400497,46.875579834,11.0323400497,46.875579834",
     "geom:latitude":46.87558,
     "geom:longitude":11.03234,
@@ -31,17 +32,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837447,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GJSZMM2CZd3xqb5RFQo2S_46.875580_11.032340@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473888096,
-    "wof:geomhash":"00829f57c5234be5ae967d8813a1aea9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6d4ec1d73244ede099fb347dcfe698e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837447,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091814067
+        }
+    ],
     "wof:id":1091814067,
-    "wof:lastmodified":1473984245,
+    "wof:lastmodified":1496897918,
     "wof:name":"Taxi Lenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

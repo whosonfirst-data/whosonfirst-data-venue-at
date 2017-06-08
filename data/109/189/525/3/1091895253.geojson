@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9688673019,48.7944068909,14.9688673019,48.7944068909",
     "geom:latitude":48.794407,
     "geom:longitude":14.968867,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108835467,
+        85633105,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bZPCysNDPS065U3rJpSxL_48.794407_14.968867@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891851,
-    "wof:geomhash":"6c8592aa2d90d8e89aa3c9050b2ca186",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed840035152292eb419323b7fee8f772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108835467,
+            "locality_id":-1,
+            "region_id":85682415,
+            "venue_id":1091895253
+        }
+    ],
     "wof:id":1091895253,
-    "wof:lastmodified":1473984490,
+    "wof:lastmodified":1496886797,
     "wof:name":"Grubauer Adolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

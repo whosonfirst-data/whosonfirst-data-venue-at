@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4586343765,47.2598228455,11.4586343765,47.2598228455",
     "geom:latitude":47.259823,
     "geom:longitude":11.458634,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906420,
-    "wof:geomhash":"4538cb549cd4ec61a5e6930dc55a8758",
+    "wof:geomhash":"d4b991709dd58fb0fd56a973749a8d96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092220579
         }
     ],
     "wof:id":1092220579,
-    "wof:lastmodified":1473983466,
+    "wof:lastmodified":1496898026,
     "wof:name":"Funkzentrale 202070",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

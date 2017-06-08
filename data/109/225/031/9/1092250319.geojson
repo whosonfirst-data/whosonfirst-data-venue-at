@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1169471741,47.3629226685,16.1169471741,47.3629226685",
     "geom:latitude":47.362923,
     "geom:longitude":16.116947,
@@ -23,17 +24,33 @@
     "sg:postcode":"7423",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838567,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XVAS6m09G1cC58lBN81UV_47.362923_16.116947@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907736,
-    "wof:geomhash":"db1d335a2c90aacd1cc46dd431121714",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70fbe26b6ae3f2094b7001ae141af108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838567,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092250319
+        }
+    ],
     "wof:id":1092250319,
-    "wof:lastmodified":1473983406,
+    "wof:lastmodified":1496908469,
     "wof:name":"The Mushroom Music Production GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

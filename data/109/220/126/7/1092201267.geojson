@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3639183044,47.2606964111,11.3639183044,47.2606964111",
     "geom:latitude":47.260696,
     "geom:longitude":11.363918,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905528,
-    "wof:geomhash":"7b10caf042dc10beab903e06f5cbed54",
+    "wof:geomhash":"5efb22d039173815e8eeb42184d1bae4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092201267
         }
     ],
     "wof:id":1092201267,
-    "wof:lastmodified":1473983665,
+    "wof:lastmodified":1496899431,
     "wof:name":"Elisabeth Brunner",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

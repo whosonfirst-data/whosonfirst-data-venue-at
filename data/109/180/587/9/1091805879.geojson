@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1759414673,48.2081031799,16.1759414673,48.2081031799",
     "geom:latitude":48.208103,
     "geom:longitude":16.175941,
@@ -34,10 +35,13 @@
     "sg:website":"optik-pichl.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887696,
-    "wof:geomhash":"80e71f418dc1d87df7c94c5aac4299e6",
+    "wof:geomhash":"47135a64566bc8406b40a521c797f67e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091805879
         }
     ],
     "wof:id":1091805879,
-    "wof:lastmodified":1473983609,
+    "wof:lastmodified":1496888165,
     "wof:name":"Gerhard Pichl",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6153469086,48.1193580627,16.6153469086,48.1193580627",
     "geom:latitude":48.119358,
     "geom:longitude":16.615347,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836773,
+        85632785,
+        101784517,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WgZgH4kiui8LwDdXROXKz_48.119358_16.615347@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913618,
-    "wof:geomhash":"32eac0c820bf2486fc38bed05798ff46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a93d8b9dbe451c7cc630d79e85b0050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836773,
+            "locality_id":101784517,
+            "region_id":85681671,
+            "venue_id":1092383501
+        }
+    ],
     "wof:id":1092383501,
-    "wof:lastmodified":1473984198,
+    "wof:lastmodified":1496892709,
     "wof:name":"Pizzeria La Grande",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7900037766,47.2984390259,12.7900037766,47.2984390259",
     "geom:latitude":47.298439,
     "geom:longitude":12.790004,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Kxv3r8nLHZYCrq0pyWmqW_47.298439_12.790004@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894245,
-    "wof:geomhash":"29edb45081c27001c73f5c9945e37116",
-    "wof:hierarchy":[],
+    "wof:geomhash":"462f0041480f421c2401871baeca1f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091946959
+        }
+    ],
     "wof:id":1091946959,
-    "wof:lastmodified":1473984784,
+    "wof:lastmodified":1496896489,
     "wof:name":"Rems Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

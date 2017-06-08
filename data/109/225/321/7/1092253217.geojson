@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9716691971,48.763458252,14.9716691971,48.763458252",
     "geom:latitude":48.763458,
     "geom:longitude":14.971669,
@@ -31,17 +32,30 @@
         "transport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101831941,
+        85633105,
+        85682415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15ju9JHsW5VdOqYJw13pX4_48.763458_14.971669@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907855,
-    "wof:geomhash":"6e63c70aba15ea4590f5636e47027aba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c95a39ffd8800cd2d3f8f27b8bd5245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101831941,
+            "region_id":85682415,
+            "venue_id":1092253217
+        }
+    ],
     "wof:id":1092253217,
-    "wof:lastmodified":1473984066,
+    "wof:lastmodified":1496886772,
     "wof:name":"Internationale Transporte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

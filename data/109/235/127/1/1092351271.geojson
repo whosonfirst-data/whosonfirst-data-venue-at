@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5219268799,47.8453674316,16.5219268799,47.8453674316",
     "geom:latitude":47.845367,
     "geom:longitude":16.521927,
@@ -23,17 +24,34 @@
     "sg:postcode":"7000",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PhSYnSjuJwsmWEqpP8oFa_47.845367_16.521927@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912134,
-    "wof:geomhash":"0ae80800ab6bbbb8e324b1682c0e7a65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"225220a149c44d61bde28e5be806dce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092351271
+        }
+    ],
     "wof:id":1092351271,
-    "wof:lastmodified":1473983360,
+    "wof:lastmodified":1496908777,
     "wof:name":"Musictreff Eisenstadt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

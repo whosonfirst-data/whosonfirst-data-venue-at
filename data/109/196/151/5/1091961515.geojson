@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8552331924,47.3364143372,11.8552331924,47.3364143372",
     "geom:latitude":47.336414,
     "geom:longitude":11.855233,
@@ -23,17 +24,33 @@
     "sg:postcode":"6263",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837859,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bE1RNgNqKmJjIFNOu71Yv_47.336414_11.855233@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894881,
-    "wof:geomhash":"b7acdbc72c8a22607fa23303a0f714d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e07c8f2af7b2721cce90bea466f614b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837859,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091961515
+        }
+    ],
     "wof:id":1091961515,
-    "wof:lastmodified":1473983515,
+    "wof:lastmodified":1496900306,
     "wof:name":"Reitstall Edhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

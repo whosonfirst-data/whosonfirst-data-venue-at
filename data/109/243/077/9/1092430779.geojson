@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7229261398,47.3661155701,11.7229261398,47.3661155701",
     "geom:latitude":47.366116,
     "geom:longitude":11.722926,
@@ -32,17 +33,34 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837649,
+        85632785,
+        101834267,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NSBiT40owpTbVt6sHaZ8e_47.366116_11.722926@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915944,
-    "wof:geomhash":"3388e5af30de61be4fc55920a340228e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8246f1d91898c7bb08209389762fe233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837649,
+            "locality_id":101834267,
+            "region_id":85681661,
+            "venue_id":1092430779
+        }
+    ],
     "wof:id":1092430779,
-    "wof:lastmodified":1473983440,
+    "wof:lastmodified":1496898992,
     "wof:name":"Gregor Gorfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

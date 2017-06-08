@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3057546616,47.7910652161,13.3057546616,47.7910652161",
     "geom:latitude":47.791065,
     "geom:longitude":13.305755,
@@ -23,17 +24,33 @@
     "sg:postcode":"5330",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hZygiGoWCi2wT9HlA2947_47.791065_13.305755@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892852,
-    "wof:geomhash":"f9a5eceb2e04510c28f34040026b540a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3ae7e4850a32cae2fb8eebf1295765d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091916491
+        }
+    ],
     "wof:id":1091916491,
-    "wof:lastmodified":1473984199,
+    "wof:lastmodified":1496895357,
     "wof:name":"Sommerrodelbahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7700395584,47.3680801392,11.7700395584,47.3680801392",
     "geom:latitude":47.36808,
     "geom:longitude":11.77004,
@@ -32,17 +33,33 @@
         "planning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837865,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P1Ng8MFx95JsC2nWuT2Um_47.368080_11.770040@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913675,
-    "wof:geomhash":"0a774eb7f4f0f62ec8e5f1412feb34c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79fb1e035f07194421494db65333cb31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837865,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092384937
+        }
+    ],
     "wof:id":1092384937,
-    "wof:lastmodified":1473984515,
+    "wof:lastmodified":1496900312,
     "wof:name":"Gallzeiner Luft-, Staub- und Abgastechnik Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

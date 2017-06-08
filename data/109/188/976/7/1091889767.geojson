@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4883708954,47.4739227295,16.4883708954,47.4739227295",
     "geom:latitude":47.473923,
     "geom:longitude":16.488371,
@@ -23,17 +24,33 @@
     "sg:postcode":"7453",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838449,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mmbpYUhUxoOK2ras4iMMJ_47.473923_16.488371@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891630,
-    "wof:geomhash":"9383aeecc1ffe976aecfe070466c3737",
-    "wof:hierarchy":[],
+    "wof:geomhash":"712265a25fed9e50672f69c949708b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838449,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091889767
+        }
+    ],
     "wof:id":1091889767,
-    "wof:lastmodified":1473985216,
+    "wof:lastmodified":1496907969,
     "wof:name":"Wild Harald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

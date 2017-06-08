@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7940301895,46.8398933411,12.7940301895,46.8398933411",
     "geom:latitude":46.839893,
     "geom:longitude":12.79403,
@@ -28,17 +29,33 @@
     "sg:postcode":"9900",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837497,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oNltG0FiTiYeh7E3oLNqy_46.839893_12.794030@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898561,
-    "wof:geomhash":"c91cd28226e846caad4b06930fc55f0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"160d2a375aaf39322122fd862b56fbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837497,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092051343
+        }
+    ],
     "wof:id":1092051343,
-    "wof:lastmodified":1473983562,
+    "wof:lastmodified":1496898102,
     "wof:name":"Sporerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

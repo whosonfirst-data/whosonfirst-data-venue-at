@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6455535889,47.2720603943,9.6455535889,47.2720603943",
     "geom:latitude":47.27206,
     "geom:longitude":9.645554,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889082,
-    "wof:geomhash":"c69677c784801e666eefc40ff96b84de",
+    "wof:geomhash":"a2a18c9b413fb8360c251df1a469ab1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091836007
         }
     ],
     "wof:id":1091836007,
-    "wof:lastmodified":1473984461,
+    "wof:lastmodified":1496901667,
     "wof:name":"Bankomat d Vorarlberger Volksbank reg GenmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

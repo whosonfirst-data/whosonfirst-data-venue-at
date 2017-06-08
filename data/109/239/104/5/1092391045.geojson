@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9672966003,47.2932014465,12.9672966003,47.2932014465",
     "geom:latitude":47.293201,
     "geom:longitude":12.967297,
@@ -23,17 +24,33 @@
     "sg:postcode":"5660",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837241,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Dg1wqQBHLkjZyH46lvEvs_47.293201_12.967297@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914006,
-    "wof:geomhash":"9580af13bf3971a24f6226ff95ff2bb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d8780edd260a48b4c920d985ae5e577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837241,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092391045
+        }
+    ],
     "wof:id":1092391045,
-    "wof:lastmodified":1473983464,
+    "wof:lastmodified":1496896373,
     "wof:name":"Polytechnische Schule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1763553619,48.3288993835,16.1763553619,48.3288993835",
     "geom:latitude":48.328899,
     "geom:longitude":16.176355,
@@ -23,17 +24,34 @@
     "sg:postcode":"3424",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835027,
+        85632785,
+        101754235,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MeNRQeUcLlStx72bldDQn_48.328899_16.176355@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888766,
-    "wof:geomhash":"da5a3955345652c0a2675306640daa47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50f1008c3e4087810c419b60125cf0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835027,
+            "locality_id":101754235,
+            "region_id":85681671,
+            "venue_id":1091829337
+        }
+    ],
     "wof:id":1091829337,
-    "wof:lastmodified":1473985315,
+    "wof:lastmodified":1496884230,
     "wof:name":"Raiffeisenkasse Zeiselmauer regGenmbH - Raiffeisenring Tullnerfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

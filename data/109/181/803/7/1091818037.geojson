@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9455270767,47.3522415161,9.9455270767,47.3522415161",
     "geom:latitude":47.352242,
     "geom:longitude":9.945527,
@@ -22,17 +23,33 @@
     "sg:postcode":"6882",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838037,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GPfvq4iBwvtJYMrXOssDM_47.352242_9.945527@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888270,
-    "wof:geomhash":"5f88433186153b24feb1c713575d6e8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bea2e21348d38dfff21576dae7036bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838037,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091818037
+        }
+    ],
     "wof:id":1091818037,
-    "wof:lastmodified":1473985033,
+    "wof:lastmodified":1496901701,
     "wof:name":"Feuerwehr Schnepfau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

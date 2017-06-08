@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8990411758,47.4289855957,11.8990411758,47.4289855957",
     "geom:latitude":47.428986,
     "geom:longitude":11.899041,
@@ -37,17 +38,33 @@
         "insulation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837391,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HC3OS0c0gLBvJlsfKp0Cm_47.428986_11.899041@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917008,
-    "wof:geomhash":"259d1286da0e37fab5a1374f44a2c389",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce0254fbd454354745a6a1c2c04cf343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837391,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092453937
+        }
+    ],
     "wof:id":1092453937,
-    "wof:lastmodified":1473983415,
+    "wof:lastmodified":1496897514,
     "wof:name":"MM Fassaden und Isolierungen Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6141996384,47.03855896,10.6141996384,47.03855896",
     "geom:latitude":47.038559,
     "geom:longitude":10.6142,
@@ -23,17 +24,34 @@
     "sg:postcode":"6534",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837331,
+        85632785,
+        101785591,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OrWTFG9RrqTVCFgIIwpKL_47.038559_10.614200@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913929,
-    "wof:geomhash":"3034bf7b23db2ff76709fc0b59d8fe7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c12e1de918a2355791a4846c06b958b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837331,
+            "locality_id":101785591,
+            "region_id":85681661,
+            "venue_id":1092389511
+        }
+    ],
     "wof:id":1092389511,
-    "wof:lastmodified":1473985331,
+    "wof:lastmodified":1496896967,
     "wof:name":"Gendarmerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

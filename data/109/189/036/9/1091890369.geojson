@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8824186325,48.3868789673,13.8824186325,48.3868789673",
     "geom:latitude":48.386879,
     "geom:longitude":13.882419,
@@ -23,17 +24,33 @@
     "sg:postcode":"4084",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835219,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eauKNJdNF13h5f76HjlLG_48.386879_13.882419@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891656,
-    "wof:geomhash":"f00b12ab8d0020faeaa284fd47e87fe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45b99d48d721ff91e70279ec92769cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835219,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091890369
+        }
+    ],
     "wof:id":1091890369,
-    "wof:lastmodified":1473983377,
+    "wof:lastmodified":1496885491,
     "wof:name":"Freibad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

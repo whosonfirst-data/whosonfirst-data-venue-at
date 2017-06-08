@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.331155777,47.3249740601,13.331155777,47.3249740601",
     "geom:latitude":47.324974,
     "geom:longitude":13.331156,
@@ -23,17 +24,33 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oXng1aOUmVuDi04KK6hHF_47.324974_13.331156@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899438,
-    "wof:geomhash":"0117fc52c3d1fb89de22e4dc743ae210",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae8eefb2e9d030c4994d3c0a220bf7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092073163
+        }
+    ],
     "wof:id":1092073163,
-    "wof:lastmodified":1473983849,
+    "wof:lastmodified":1496894148,
     "wof:name":"Gasthof Kogelalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

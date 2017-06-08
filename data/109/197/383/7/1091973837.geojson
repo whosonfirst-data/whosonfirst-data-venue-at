@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4284763336,47.5638046265,16.4284763336,47.5638046265",
     "geom:latitude":47.563805,
     "geom:longitude":16.428476,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838561,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4APZwZ2atX8gPP2m1jM3ne_47.563805_16.428476@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895406,
-    "wof:geomhash":"2f839e81520aa4af44018d61963e1641",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f02c8cd824409e9f397df6744b9b39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838561,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091973837
+        }
+    ],
     "wof:id":1091973837,
-    "wof:lastmodified":1473984160,
+    "wof:lastmodified":1496908447,
     "wof:name":"PALLISCH TRANSPORT GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

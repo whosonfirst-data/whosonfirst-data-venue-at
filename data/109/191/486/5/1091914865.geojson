@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.302740097,48.0505218506,16.302740097,48.0505218506",
     "geom:latitude":48.050522,
     "geom:longitude":16.30274,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836951,
+        85632785,
+        101754173,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QMvAe6uMqrPVDRswaoH1U_48.050522_16.302740@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892786,
-    "wof:geomhash":"9ec638b5748069b17bcd2fbc3237229a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a17b3b4ff765cdc6c059a5589c33cfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836951,
+            "locality_id":101754173,
+            "region_id":85681671,
+            "venue_id":1091914865
+        }
+    ],
     "wof:id":1091914865,
-    "wof:lastmodified":1473983942,
+    "wof:lastmodified":1496889962,
     "wof:name":"OMNICOM EDV-Software-Entwicklungs GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

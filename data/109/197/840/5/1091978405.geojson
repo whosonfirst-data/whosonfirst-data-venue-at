@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3908843994,47.4464797974,12.3908843994,47.4464797974",
     "geom:latitude":47.44648,
     "geom:longitude":12.390884,
@@ -23,17 +24,34 @@
     "sg:postcode":"6370",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        101787927,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CLoBL4h8Jm5srO3LpR5QC_47.446480_12.390884@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895602,
-    "wof:geomhash":"1537e00472c3f2cbcaf80208f21b1a4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c128afe5c09c85015311806c13f1f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":101787927,
+            "region_id":85681661,
+            "venue_id":1091978405
+        }
+    ],
     "wof:id":1091978405,
-    "wof:lastmodified":1473985031,
+    "wof:lastmodified":1496897178,
     "wof:name":"Sparkassen Real-Service Tirol Realit\u00e4tenvermittlungs GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

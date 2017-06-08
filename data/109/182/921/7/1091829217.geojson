@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4966049194,47.5685195923,16.4966049194,47.5685195923",
     "geom:latitude":47.56852,
     "geom:longitude":16.496605,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838649,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yvTxmkIzlaG6jywgiBLOQ_47.568520_16.496605@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888762,
-    "wof:geomhash":"f7a41cd153399150800e35fbeeac517d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"605257a22db4ced51e36b6d71808f02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838649,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091829217
+        }
+    ],
     "wof:id":1091829217,
-    "wof:lastmodified":1473985319,
+    "wof:lastmodified":1496909001,
     "wof:name":"Raiffeisenkasse Ritzing-Raiding regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

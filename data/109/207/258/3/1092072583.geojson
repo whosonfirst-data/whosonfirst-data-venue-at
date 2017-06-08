@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1234169006,48.8660049438,15.1234169006,48.8660049438",
     "geom:latitude":48.866005,
     "geom:longitude":15.123417,
@@ -23,17 +24,34 @@
     "sg:postcode":"3860",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108834865,
+        85633105,
+        101780875,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23Zkwk1FehaBCJmucA8mG7_48.866005_15.123417@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899413,
-    "wof:geomhash":"45b655d3b20f270e1ac235d6924d1b52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79e4eb680be8f39c2fa5ba0159984efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108834865,
+            "locality_id":101780875,
+            "region_id":85682415,
+            "venue_id":1092072583
+        }
+    ],
     "wof:id":1092072583,
-    "wof:lastmodified":1473983805,
+    "wof:lastmodified":1496883089,
     "wof:name":"Gasthof Gro\u00dfmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

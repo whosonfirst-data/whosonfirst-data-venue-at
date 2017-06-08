@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9121360779,48.1158599854,14.9121360779,48.1158599854",
     "geom:latitude":48.11586,
     "geom:longitude":14.912136,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.doka.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101784475,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IrzBtCPhM3uZ9Rhbz6QPK_48.115860_14.912136@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473888343,
-    "wof:geomhash":"639e01b9e027a892fae150880f8239ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45bae13f0470e4309637b7490a7d84ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101784475,
+            "region_id":85681671,
+            "venue_id":1091819951
+        }
+    ],
     "wof:id":1091819951,
-    "wof:lastmodified":1473985280,
+    "wof:lastmodified":1496883295,
     "wof:name":"\u00d6sterreichische DOKA Schalungstechnik Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6313028336,47.3003616333,11.6313028336,47.3003616333",
     "geom:latitude":47.300362,
     "geom:longitude":11.631303,
@@ -22,17 +23,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.weer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837669,
+        85632785,
+        101913371,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lTjy0wZcA4EgSe1VXNYk8_47.300362_11.631303@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473887840,
-    "wof:geomhash":"eb423c710a3d81df296e30dc8cd9cbb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a35ba33ee6b6798eda8baa5dd1dbbcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837669,
+            "locality_id":101913371,
+            "region_id":85681661,
+            "venue_id":1091808379
+        }
+    ],
     "wof:id":1091808379,
-    "wof:lastmodified":1473984203,
+    "wof:lastmodified":1496899058,
     "wof:name":"Tourismusverband Weer-Kolsass-Kolsassberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

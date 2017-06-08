@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1409196854,47.5437316895,12.1409196854,47.5437316895",
     "geom:latitude":47.543732,
     "geom:longitude":12.14092,
@@ -23,17 +24,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.bms-muskelstimulation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837265,
+        85632785,
+        101787965,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cTigYpL4BEqrG1PBWVmSU_47.543732_12.140920@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911606,
-    "wof:geomhash":"862af82815a764a18de67fe27e93c23e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea710c6eb12171863c39b506860b6d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837265,
+            "locality_id":101787965,
+            "region_id":85681661,
+            "venue_id":1092339407
+        }
+    ],
     "wof:id":1092339407,
-    "wof:lastmodified":1473985321,
+    "wof:lastmodified":1496896557,
     "wof:name":"EHRNHART Ges.m.b.H. -Biomechanische Muskel Stimulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

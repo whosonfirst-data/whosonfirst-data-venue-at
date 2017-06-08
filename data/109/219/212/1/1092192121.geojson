@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3167819977,47.4407234192,12.3167819977,47.4407234192",
     "geom:latitude":47.440723,
     "geom:longitude":12.316782,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"euroscanline.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        101834287,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qxp1dieYvGsHPfTtFbqHD_47.440723_12.316782@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905112,
-    "wof:geomhash":"70ea30527823cfd69431cac9063993ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b61afec2ad61a6710f53b2e83810fd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":101834287,
+            "region_id":85681661,
+            "venue_id":1092192121
+        }
+    ],
     "wof:id":1092192121,
-    "wof:lastmodified":1473983854,
+    "wof:lastmodified":1496899109,
     "wof:name":"EuroScanline - Hans Krau\u00df",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

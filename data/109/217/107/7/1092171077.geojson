@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4841098785,46.946975708,15.4841098785,46.946975708",
     "geom:latitude":46.946976,
     "geom:longitude":15.48411,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"mls.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839183,
+        85632785,
+        101834237,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13WIRxz2g8yDgplkvub5Qq_46.946976_15.484110@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904169,
-    "wof:geomhash":"9d138e9c0f3accad811fbbb5a10e25fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aaf80df962fe76834e031266ba947b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839183,
+            "locality_id":101834237,
+            "region_id":85681687,
+            "venue_id":1092171077
+        }
+    ],
     "wof:id":1092171077,
-    "wof:lastmodified":1473983561,
+    "wof:lastmodified":1496911765,
     "wof:name":"MLS Personalleasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2446727753,47.4498329163,12.2446727753,47.4498329163",
     "geom:latitude":47.449833,
     "geom:longitude":12.244673,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GzaFT7QtNIlT1hTVeMlt8_47.449833_12.244673@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889128,
-    "wof:geomhash":"0a03571c67672c7dc8eea8e532157d38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1278893664e6d4d96e9328ca0c61af3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091837049
+        }
+    ],
     "wof:id":1091837049,
-    "wof:lastmodified":1473984627,
+    "wof:lastmodified":1496897248,
     "wof:name":"Cheers-Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

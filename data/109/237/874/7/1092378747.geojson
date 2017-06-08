@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2360773087,47.5697517395,14.2360773087,47.5697517395",
     "geom:latitude":47.569752,
     "geom:longitude":14.236077,
@@ -23,17 +24,34 @@
     "sg:postcode":"8940",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838933,
+        85632785,
+        101834331,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x7uLsieaI9NyX3paiRDnu_47.569752_14.236077@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913397,
-    "wof:geomhash":"564eaeba0a5a96c97d7661afa60522a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf107275b2e6e3128ff5bf9ef4ff6af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838933,
+            "locality_id":101834331,
+            "region_id":85681687,
+            "venue_id":1092378747
+        }
+    ],
     "wof:id":1092378747,
-    "wof:lastmodified":1473985294,
+    "wof:lastmodified":1496910313,
     "wof:name":"Physikalisches Ambulatorium d Steierm\u00e4rkische Gebietskrankenkasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1226816177,47.3584365845,11.1226816177,47.3584365845",
     "geom:latitude":47.358437,
     "geom:longitude":11.122682,
@@ -28,17 +29,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aYKYm0CZbdo7rFKA0f0cp_47.358437_11.122682@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898417,
-    "wof:geomhash":"5db2c0e5e7492a8dd5c8261891f98804",
-    "wof:hierarchy":[],
+    "wof:geomhash":"756153219b3acbd0a3a920fe2694325c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092047519
+        }
+    ],
     "wof:id":1092047519,
-    "wof:lastmodified":1473984084,
+    "wof:lastmodified":1496898451,
     "wof:name":"Hotel Loipe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

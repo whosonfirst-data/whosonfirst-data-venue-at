@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8082408905,46.694065094,12.8082408905,46.694065094",
     "geom:latitude":46.694065,
     "geom:longitude":12.808241,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838161,
+        85632785,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nbbouG64pKxusPx4lYidW_46.694065_12.808241@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888461,
-    "wof:geomhash":"ee23d17ad01ecec1f37b2250cf87ca7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77a441d1587130ce02e9cdd3bdeb9e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838161,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091822559
+        }
+    ],
     "wof:id":1091822559,
-    "wof:lastmodified":1473983939,
+    "wof:lastmodified":1496906293,
     "wof:name":"Herwig Unter\u00fcberbacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

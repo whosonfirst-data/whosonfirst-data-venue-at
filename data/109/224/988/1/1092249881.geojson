@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2282009125,48.2293815613,14.2282009125,48.2293815613",
     "geom:latitude":48.229382,
     "geom:longitude":14.228201,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"echopark.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        101754215,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rHqwXR2nritUyrl6OMVAL_48.229382_14.228201@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907718,
-    "wof:geomhash":"10246a1f5f5eb10d7135a67fd3211d0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf96b33fd3c8c3f2b55fe58b34711a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":101754215,
+            "region_id":85681677,
+            "venue_id":1092249881
+        }
+    ],
     "wof:id":1092249881,
-    "wof:lastmodified":1473985281,
+    "wof:lastmodified":1496887388,
     "wof:name":"Echo Park Studio - Reinhard Reschner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

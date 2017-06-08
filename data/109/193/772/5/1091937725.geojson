@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2740783691,48.1590843201,16.2740783691,48.1590843201",
     "geom:latitude":48.159084,
     "geom:longitude":16.274078,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893842,
-    "wof:geomhash":"8a32c5c426d76b0f9ad9a149cae251a8",
+    "wof:geomhash":"52bfdd1c1d6bb3879c225e00822d1112",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1091937725
         }
     ],
     "wof:id":1091937725,
-    "wof:lastmodified":1473984825,
+    "wof:lastmodified":1496902648,
     "wof:name":"Peiker Elfriede",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5514945984,48.2008018494,16.5514945984,48.2008018494",
     "geom:latitude":48.200802,
     "geom:longitude":16.551495,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913565,
-    "wof:geomhash":"a95c8e2e5d008fc653064979b27338bc",
+    "wof:geomhash":"2e7959032b83e8644419dc69a23844db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092382619
         }
     ],
     "wof:id":1092382619,
-    "wof:lastmodified":1473984016,
+    "wof:lastmodified":1496892136,
     "wof:name":"Pizza G'w\u00f6lb",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

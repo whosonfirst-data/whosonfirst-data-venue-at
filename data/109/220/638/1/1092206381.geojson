@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4809703827,47.923740387,15.4809703827,47.923740387",
     "geom:latitude":47.92374,
     "geom:longitude":15.48097,
@@ -32,17 +33,33 @@
         "crushed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835855,
+        85632785,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gCFo6jt2IznOVb71Jlv2j_47.923740_15.480970@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905802,
-    "wof:geomhash":"cb5b4a729cdecd08767aecc823b3f1d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bc61a7f0f862412e52a37700d3a61d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108835855,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092206381
+        }
+    ],
     "wof:id":1092206381,
-    "wof:lastmodified":1473984736,
+    "wof:lastmodified":1496888668,
     "wof:name":"Johann Sieber Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

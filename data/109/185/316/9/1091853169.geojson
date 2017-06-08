@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9904747009,47.7777290344,12.9904747009,47.7777290344",
     "geom:latitude":47.777729,
     "geom:longitude":12.990475,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898517,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889857,
-    "wof:geomhash":"c568e159ca6930ab630396f7a980b934",
+    "wof:geomhash":"84111335bf3b14d2ce3e9e7039e35fc0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85898517,
             "region_id":85681681,
             "venue_id":1091853169
         }
     ],
     "wof:id":1091853169,
-    "wof:lastmodified":1473983966,
+    "wof:lastmodified":1496895764,
     "wof:name":"Lebenshilfe Salzburg",
     "wof:parent_id":85898517,
     "wof:placetype":"venue",

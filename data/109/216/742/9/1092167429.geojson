@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2948646545,46.5577774048,14.2948646545,46.5577774048",
     "geom:latitude":46.557777,
     "geom:longitude":14.294865,
@@ -23,17 +24,33 @@
     "sg:postcode":"9161",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838179,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36ijAaEnQ7jG6etm1ZZJY0_46.557777_14.294865@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473903991,
-    "wof:geomhash":"d7ee8fab088e3ac2ef9f85aa6a4b051a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7d125aab03291b45b183b31cdce8d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838179,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092167429
+        }
+    ],
     "wof:id":1092167429,
-    "wof:lastmodified":1473984895,
+    "wof:lastmodified":1496906416,
     "wof:name":"HMP Beratungs GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

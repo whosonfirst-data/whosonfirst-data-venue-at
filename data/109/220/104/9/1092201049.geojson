@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1719207764,46.970287323,16.1719207764,46.970287323",
     "geom:latitude":46.970287,
     "geom:longitude":16.171921,
@@ -32,17 +33,33 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838611,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77XTaNVSlMjly8hGYwIbLt_46.970287_16.171921@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905517,
-    "wof:geomhash":"e438a5a4ed40730fb39e3b422008514b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61ebdd694354261b8de3673ef6a2440d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838611,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092201049
+        }
+    ],
     "wof:id":1092201049,
-    "wof:lastmodified":1473983506,
+    "wof:lastmodified":1496908707,
     "wof:name":"Keramikstube Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

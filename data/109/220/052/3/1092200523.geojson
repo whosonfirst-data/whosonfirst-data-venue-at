@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0726156235,46.8566474915,14.0726156235,46.8566474915",
     "geom:latitude":46.856647,
     "geom:longitude":14.072616,
@@ -34,17 +35,33 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838207,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_659m4eoTIZJoD8WecJ9AkA_46.856647_14.072616@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905482,
-    "wof:geomhash":"2142c49763f3fac639b71bb2ec72575c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f92c9acdd8a47f3f1952f12e5bcb692e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838207,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092200523
+        }
+    ],
     "wof:id":1092200523,
-    "wof:lastmodified":1473983412,
+    "wof:lastmodified":1496906557,
     "wof:name":"Wilhelm Huber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

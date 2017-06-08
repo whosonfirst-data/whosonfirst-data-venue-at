@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2560863495,48.3767051697,16.2560863495,48.3767051697",
     "geom:latitude":48.376705,
     "geom:longitude":16.256086,
@@ -32,17 +33,34 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835821,
+        85632785,
+        101834151,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zKdye3Q7W0LqbbTLJdGGo_48.376705_16.256086@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917007,
-    "wof:geomhash":"d91f4a6345756f625df986c9477c6f47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1bf6e180f3a249eb72d5f1ccdf5a8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108835821,
+            "locality_id":101834151,
+            "region_id":85681671,
+            "venue_id":1092453905
+        }
+    ],
     "wof:id":1092453905,
-    "wof:lastmodified":1473983389,
+    "wof:lastmodified":1496888507,
     "wof:name":"Brauplan Transport Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

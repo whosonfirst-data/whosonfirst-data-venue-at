@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0463237762,47.5093421936,12.0463237762,47.5093421936",
     "geom:latitude":47.509342,
     "geom:longitude":12.046324,
@@ -23,17 +24,33 @@
     "sg:postcode":"6300",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837273,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77aG1knoqdcQ9CntXqASun_47.509342_12.046324@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896516,
-    "wof:geomhash":"9c5c82e4479ec6782592997d68049d0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df87c1f71fb4260964625a6eb10758f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837273,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091999609
+        }
+    ],
     "wof:id":1091999609,
-    "wof:lastmodified":1473985130,
+    "wof:lastmodified":1496896590,
     "wof:name":"Sulzenbacher Ernst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

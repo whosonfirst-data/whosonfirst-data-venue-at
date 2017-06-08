@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8349304199,47.3011283875,10.8349304199,47.3011283875",
     "geom:latitude":47.301128,
     "geom:longitude":10.83493,
@@ -28,17 +29,33 @@
     "sg:postcode":"6465",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837429,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07POPMDBOw35g425ngOLOm_47.301128_10.834930@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894968,
-    "wof:geomhash":"57c6a7a8bcd8dc51ec44f926f8ed27fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d37b05271e809718e463a959d2caab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837429,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091963453
+        }
+    ],
     "wof:id":1091963453,
-    "wof:lastmodified":1473983844,
+    "wof:lastmodified":1496897817,
     "wof:name":"Gasthof See Eck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

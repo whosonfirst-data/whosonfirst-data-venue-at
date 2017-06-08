@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.1057548523,48.0111808777,17.1057548523,48.0111808777",
     "geom:latitude":48.011181,
     "geom:longitude":17.105755,
@@ -23,17 +24,33 @@
     "sg:postcode":"2423",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838643,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ws8FEfNsLh4TZ2iV3BgsR_48.011181_17.105755@1306268286"
     },
     "wof:country":"AT",
     "wof:created":1473905983,
-    "wof:geomhash":"b872eca7b56b6b5a64303e8ddbf65160",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45f254b8fefe49c6610204bed0ea01fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838643,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092210509
+        }
+    ],
     "wof:id":1092210509,
-    "wof:lastmodified":1473983371,
+    "wof:lastmodified":1496908963,
     "wof:name":"Nemeth Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2172718048,48.0081329346,16.2172718048,48.0081329346",
     "geom:latitude":48.008133,
     "geom:longitude":16.217272,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911371,
-    "wof:geomhash":"084d9d2cf7da4fbc489f3fb96561b561",
+    "wof:geomhash":"fe34b465d19fe902b0b70e803e5e4d3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092333805
         }
     ],
     "wof:id":1092333805,
-    "wof:lastmodified":1473984287,
+    "wof:lastmodified":1496886061,
     "wof:name":"Brunnbauer Bernhard",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

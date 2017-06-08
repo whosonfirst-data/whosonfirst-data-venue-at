@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6837863922,47.2936401367,12.6837863922,47.2936401367",
     "geom:latitude":47.29364,
     "geom:longitude":12.683786,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"www.zellamsee.at/buchner",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pkuc0tQJd5Ex4C9Cyuc3l_47.293640_12.683786@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905097,
-    "wof:geomhash":"1023dba2b8b5be278b1a56538caf9576",
-    "wof:hierarchy":[],
+    "wof:geomhash":"873b0652dbe39f121de0fa26bd301591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092191713
+        }
+    ],
     "wof:id":1092191713,
-    "wof:lastmodified":1473983762,
+    "wof:lastmodified":1496896159,
     "wof:name":"Erich Buchner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

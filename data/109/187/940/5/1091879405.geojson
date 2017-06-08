@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6558494568,48.6642608643,15.6558494568,48.6642608643",
     "geom:latitude":48.664261,
     "geom:longitude":15.655849,
@@ -23,17 +24,34 @@
     "sg:postcode":"3580",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835915,
+        85632785,
+        101782263,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6B6wbbCsRnbsEUWRTxdbti_48.664261_15.655849@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891110,
-    "wof:geomhash":"227dc4143567b9f88ddebc67782566ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"289f80f0cc7418587bf8044c77427c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835915,
+            "locality_id":101782263,
+            "region_id":85681671,
+            "venue_id":1091879405
+        }
+    ],
     "wof:id":1091879405,
-    "wof:lastmodified":1473985231,
+    "wof:lastmodified":1496888858,
     "wof:name":"Street One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

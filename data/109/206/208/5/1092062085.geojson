@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3124914169,48.3673706055,14.3124914169,48.3673706055",
     "geom:latitude":48.367371,
     "geom:longitude":14.312491,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898433,
-        102049881
+        102191581,
+        1108836139,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898986,
-    "wof:geomhash":"97c7e29177d16f4c40a73083da3f298a",
+    "wof:geomhash":"67d68ce3424aecb73f6b3382a87e7af6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":-1,
             "neighbourhood_id":85898433,
             "region_id":85681677,
             "venue_id":1092062085
         }
     ],
     "wof:id":1092062085,
-    "wof:lastmodified":1473983766,
+    "wof:lastmodified":1496889717,
     "wof:name":"Bauer Johann",
     "wof:parent_id":85898433,
     "wof:placetype":"venue",

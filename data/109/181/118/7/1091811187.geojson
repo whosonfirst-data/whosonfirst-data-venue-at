@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.9906835556,47.4225273132,11.9906835556,47.4225273132",
     "geom:latitude":47.422527,
     "geom:longitude":11.990684,
@@ -22,17 +23,33 @@
     "sg:postcode":"6311",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837277,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LbeqFpGN2zCpRnhMCTaOq_47.422527_11.990684@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473887965,
-    "wof:geomhash":"b14fdcd6568b29939190dc3c01eb53c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a15ae3435fefa479c1b7c3140383068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837277,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091811187
+        }
+    ],
     "wof:id":1091811187,
-    "wof:lastmodified":1473983558,
+    "wof:lastmodified":1496896631,
     "wof:name":"Gasthaus Sollererwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

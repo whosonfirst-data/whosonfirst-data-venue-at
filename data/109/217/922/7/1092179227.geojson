@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3793668747,47.2580871582,11.3793668747,47.2580871582",
     "geom:latitude":47.258087,
     "geom:longitude":11.379367,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904534,
-    "wof:geomhash":"13ca2160106093eda26933c334f48d49",
+    "wof:geomhash":"ef76cb9de3f7472e634885f59f8ce570",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092179227
         }
     ],
     "wof:id":1092179227,
-    "wof:lastmodified":1473985267,
+    "wof:lastmodified":1496899355,
     "wof:name":"Ruetz & Fagschlunger OHG",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

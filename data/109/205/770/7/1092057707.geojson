@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4267730713,47.5763587952,16.4267730713,47.5763587952",
     "geom:latitude":47.576359,
     "geom:longitude":16.426773,
@@ -23,17 +24,33 @@
     "sg:postcode":"7331",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838541,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75qktU3Q9BSfjhFMgBr063_47.576359_16.426773@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898815,
-    "wof:geomhash":"00775af40b102611382d3d672414bf70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57e365062cc3814f40b6b45af5073d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838541,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092057707
+        }
+    ],
     "wof:id":1092057707,
-    "wof:lastmodified":1473984620,
+    "wof:lastmodified":1496908401,
     "wof:name":"Blumenhaus Robert Fuchs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

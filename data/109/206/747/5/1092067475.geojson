@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4106721878,47.6437072754,12.4106721878,47.6437072754",
     "geom:latitude":47.643707,
     "geom:longitude":12.410672,
@@ -23,17 +24,33 @@
     "sg:postcode":"6345",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837379,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NHwtShKeX8DoyGxe5wPNX_47.643707_12.410672@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899210,
-    "wof:geomhash":"80131cd5d2ade6ee8ba89590a570d025",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ffa0d10675831653a9271dd04cfabf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837379,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092067475
+        }
+    ],
     "wof:id":1092067475,
-    "wof:lastmodified":1473984793,
+    "wof:lastmodified":1496897421,
     "wof:name":"Gasthaus Lucknerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8155755997,46.6307296753,13.8155755997,46.6307296753",
     "geom:latitude":46.63073,
     "geom:longitude":13.815576,
@@ -29,10 +30,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911267,
-    "wof:geomhash":"874e81084904a29041a8b6ab898ecbdf",
+    "wof:geomhash":"f6cd972b48496ea33ff1a23f917b744b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1092331317
         }
     ],
     "wof:id":1092331317,
-    "wof:lastmodified":1473983643,
+    "wof:lastmodified":1496906020,
     "wof:name":"Sorger Reinhard",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

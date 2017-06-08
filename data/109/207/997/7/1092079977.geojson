@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7121810913,48.0063781738,13.7121810913,48.0063781738",
     "geom:latitude":48.006378,
     "geom:longitude":13.712181,
@@ -23,17 +24,34 @@
     "sg:postcode":"4800",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836425,
+        85632785,
+        101833167,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QYhjVm0aGqeT2XIpn9M2i_48.006378_13.712181@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899756,
-    "wof:geomhash":"cdc3d1bf35f0b6d825b381d1c0d1d778",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50a2d7fc8bc9b1f546862c2e6344f00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836425,
+            "locality_id":101833167,
+            "region_id":85681677,
+            "venue_id":1092079977
+        }
+    ],
     "wof:id":1092079977,
-    "wof:lastmodified":1473985205,
+    "wof:lastmodified":1496891029,
     "wof:name":"Obermaier Gasthof u Fremdenzimmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

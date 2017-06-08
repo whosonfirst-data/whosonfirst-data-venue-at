@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0396614075,47.8093986511,16.0396614075,47.8093986511",
     "geom:latitude":47.809399,
     "geom:longitude":16.039661,
@@ -23,17 +24,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.look4.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836695,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yTO9jXpSzjhKI71pKfuB7_47.809399_16.039661@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916288,
-    "wof:geomhash":"f4c806185c83095e35d0d8efcaf8af9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7149df8f89e2519143f479655d597c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108836695,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092438253
+        }
+    ],
     "wof:id":1092438253,
-    "wof:lastmodified":1473985069,
+    "wof:lastmodified":1496892436,
     "wof:name":"look4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

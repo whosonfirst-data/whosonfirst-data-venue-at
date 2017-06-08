@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5412158966,48.1814651489,16.5412158966,48.1814651489",
     "geom:latitude":48.181465,
     "geom:longitude":16.541216,
@@ -23,17 +24,34 @@
     "sg:postcode":"1220",
     "sg:province":"Wien",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836641,
+        85632785,
+        101754251,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XWag3hAfR9ASrv8jlrVmo_48.181465_16.541216@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888768,
-    "wof:geomhash":"4120a857acc649bef66e73107b911266",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81b5e579f28f8e210fd86eb64567227d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836641,
+            "locality_id":101754251,
+            "region_id":85681671,
+            "venue_id":1091829377
+        }
+    ],
     "wof:id":1091829377,
-    "wof:lastmodified":1473985321,
+    "wof:lastmodified":1496902790,
     "wof:name":"Raiffeisenlandesbank N\u00d6-Wien AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

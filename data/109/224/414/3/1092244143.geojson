@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.421005249,48.099697113,16.421005249,48.099697113",
     "geom:latitude":48.099697,
     "geom:longitude":16.421005,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907462,
-    "wof:geomhash":"2b23040518fa78bd7626d2be7c8d5c8e",
+    "wof:geomhash":"3d319b2a0ac9922617b73d26d2aea9cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092244143
         }
     ],
     "wof:id":1092244143,
-    "wof:lastmodified":1473984288,
+    "wof:lastmodified":1496886820,
     "wof:name":"Kohlros GesmbH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

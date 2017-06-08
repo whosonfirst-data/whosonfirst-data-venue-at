@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8225746155,47.4822731018,9.8225746155,47.4822731018",
     "geom:latitude":47.482273,
     "geom:longitude":9.822575,
@@ -31,17 +32,33 @@
         "game"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837911,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ngHn9NTwzCqdbwOKZoiqV_47.482273_9.822575@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898761,
-    "wof:geomhash":"39af88b1c2901ae3471d76b2b9ca2195",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecd1aa626148976c25e64abd48c98184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837911,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092056443
+        }
+    ],
     "wof:id":1092056443,
-    "wof:lastmodified":1473984512,
+    "wof:lastmodified":1496900671,
     "wof:name":"DOPPELMAYER SEILBAHNEN GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

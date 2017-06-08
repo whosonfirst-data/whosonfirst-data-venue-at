@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3948898315,48.1392784119,16.3948898315,48.1392784119",
     "geom:latitude":48.139278,
     "geom:longitude":16.39489,
@@ -34,10 +35,13 @@
     "sg:website":"elektro-syrovy.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905101,
-    "wof:geomhash":"acd2887622edf512bf76b84d4a53aaa8",
+    "wof:geomhash":"82f19edb19a476e0c27230c9cc8ee6bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092191837
         }
     ],
     "wof:id":1092191837,
-    "wof:lastmodified":1473983795,
+    "wof:lastmodified":1496927823,
     "wof:name":"Elektro Syrovy GmbH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

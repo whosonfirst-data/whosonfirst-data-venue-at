@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2826318741,48.3129920959,14.2826318741,48.3129920959",
     "geom:latitude":48.312992,
     "geom:longitude":14.282632,
@@ -36,10 +37,13 @@
     "sg:website":"www.royer-installation.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898453,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +51,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896005,
-    "wof:geomhash":"70853a9625510ce19be5417a65540aa0",
+    "wof:geomhash":"4d086b4d0f35f667aef78fa9eaf0ed98",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898453,
             "region_id":85681677,
             "venue_id":1091987821
         }
     ],
     "wof:id":1091987821,
-    "wof:lastmodified":1473984352,
+    "wof:lastmodified":1496881486,
     "wof:name":"Royer GmbH",
     "wof:parent_id":85898453,
     "wof:placetype":"venue",

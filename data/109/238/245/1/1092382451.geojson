@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2280225754,46.8198165894,15.2280225754,46.8198165894",
     "geom:latitude":46.819817,
     "geom:longitude":15.228023,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        101788963,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yHyGu0NYEiIkgwcvxAe3b_46.819817_15.228023@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913550,
-    "wof:geomhash":"3597922dbbf6254586714099d362c563",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ad1cdfff87e57a31c89b856f688f62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":101788963,
+            "region_id":85681687,
+            "venue_id":1092382451
+        }
+    ],
     "wof:id":1092382451,
-    "wof:lastmodified":1473983942,
+    "wof:lastmodified":1496912629,
     "wof:name":"Lord Nelson Steakhouse-Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

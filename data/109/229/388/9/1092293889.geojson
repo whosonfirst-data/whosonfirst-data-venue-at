@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7859182358,47.5478668213,9.7859182358,47.5478668213",
     "geom:latitude":47.547867,
     "geom:longitude":9.785918,
@@ -24,17 +25,33 @@
     "sg:province":"Vorarlberg",
     "sg:website":"tiscover.at/Sohler",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837933,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05BU6OcLSuAjiFSdsKGQx8_47.547867_9.785918@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909610,
-    "wof:geomhash":"cb8a30173237d82959bea229e7040114",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6108ad23b8b33183c087e401fd07e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837933,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092293889
+        }
+    ],
     "wof:id":1092293889,
-    "wof:lastmodified":1473984278,
+    "wof:lastmodified":1496900889,
     "wof:name":"Ferienhof Sohler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

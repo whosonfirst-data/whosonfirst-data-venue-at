@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3711395264,46.6371154785,14.3711395264,46.6371154785",
     "geom:latitude":46.637115,
     "geom:longitude":14.37114,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902336,
-    "wof:geomhash":"e68a10c23d01baa02c142e9d6c653394",
+    "wof:geomhash":"bb3a36791f07fee040bafa0016204f3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092131489
         }
     ],
     "wof:id":1092131489,
-    "wof:lastmodified":1473983626,
+    "wof:lastmodified":1496905836,
     "wof:name":"METRO Cash & Carry \u00f6sterreich GmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

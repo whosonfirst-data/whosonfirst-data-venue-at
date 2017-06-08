@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2194385529,46.8684654236,15.2194385529,46.8684654236",
     "geom:latitude":46.868465,
     "geom:longitude":15.219439,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00epnpFx2DVniRNUFI7prr_46.868465_15.219439@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889229,
-    "wof:geomhash":"609973d0031ae72a72a5d033d7f81fcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88258b7f43aa65d07ab5183ce76b17c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091839043
+        }
+    ],
     "wof:id":1091839043,
-    "wof:lastmodified":1473985256,
+    "wof:lastmodified":1496912635,
     "wof:name":"Franz Seiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

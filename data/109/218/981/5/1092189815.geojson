@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3957462311,48.1084632874,16.3957462311,48.1084632874",
     "geom:latitude":48.108463,
     "geom:longitude":16.395746,
@@ -33,10 +34,12 @@
     "sg:website":"iwepa.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905016,
-    "wof:geomhash":"dd9ad2fb58133f6e0e8c98065b7e3d7a",
+    "wof:geomhash":"3cfe9351fa1127b7b8f8eafc49cab6aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092189815
         }
     ],
     "wof:id":1092189815,
-    "wof:lastmodified":1473985219,
+    "wof:lastmodified":1496883071,
     "wof:name":"IWEPA HandelsgesmbH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

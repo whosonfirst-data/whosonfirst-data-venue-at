@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4457406998,47.2503967285,11.4457406998,47.2503967285",
     "geom:latitude":47.250397,
     "geom:longitude":11.445741,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911454,
-    "wof:geomhash":"811eb3009a60745eb4a8c0596ad8cfd3",
+    "wof:geomhash":"daeb1fec53db2114bc43e55950957359",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092336049
         }
     ],
     "wof:id":1092336049,
-    "wof:lastmodified":1473984780,
+    "wof:lastmodified":1496898023,
     "wof:name":"Massagepraxis Aldrans Hoitsch Bernhard",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

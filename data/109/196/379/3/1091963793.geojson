@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5901565552,48.4627609253,16.5901565552,48.4627609253",
     "geom:latitude":48.462761,
     "geom:longitude":16.590157,
@@ -28,17 +29,34 @@
     "sg:postcode":"2222",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834913,
+        85632785,
+        101843347,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_587XT8XZiqVCEWtag7MiI1_48.462761_16.590157@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894980,
-    "wof:geomhash":"72bb290a2159160aa8b2894203340059",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fb9202668ab500be4690e3089342305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108834913,
+            "locality_id":101843347,
+            "region_id":85681671,
+            "venue_id":1091963793
+        }
+    ],
     "wof:id":1091963793,
-    "wof:lastmodified":1473983908,
+    "wof:lastmodified":1496883509,
     "wof:name":"Heurigenrestaurant Paminger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

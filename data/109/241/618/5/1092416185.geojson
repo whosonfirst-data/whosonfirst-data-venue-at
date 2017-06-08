@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9415197372,48.2898597717,15.9415197372,48.2898597717",
     "geom:latitude":48.28986,
     "geom:longitude":15.94152,
@@ -23,17 +24,34 @@
     "sg:postcode":"3451",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835035,
+        85632785,
+        101912341,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IIWgRMBz5dj7flwcUfFgS_48.289860_15.941520@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473915268,
-    "wof:geomhash":"7b9d769f8c2b0ba2e3ae3a5366e56ae8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91561ae3a4f6e7f4f2b5a76276b2feb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835035,
+            "locality_id":101912341,
+            "region_id":85681671,
+            "venue_id":1092416185
+        }
+    ],
     "wof:id":1092416185,
-    "wof:lastmodified":1473984629,
+    "wof:lastmodified":1496884301,
     "wof:name":"Freiwillige Feuerwehr Michelhausen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

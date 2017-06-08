@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0748195648,47.7285957336,13.0748195648,47.7285957336",
     "geom:latitude":47.728596,
     "geom:longitude":13.07482,
@@ -29,10 +30,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896430,
-    "wof:geomhash":"72cf0b5fa27d18d25873dade1246bd54",
+    "wof:geomhash":"28caaa090825ebc1a495e73372cbe4ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1091997541
         }
     ],
     "wof:id":1091997541,
-    "wof:lastmodified":1473984909,
+    "wof:lastmodified":1496895040,
     "wof:name":"IMAGE Kommunikationsdesign GmbH",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4671173096,48.2666931152,16.4671173096,48.2666931152",
     "geom:latitude":48.266693,
     "geom:longitude":16.467117,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891821,
-    "wof:geomhash":"54c66397cfce0dd6dce60137d4965164",
+    "wof:geomhash":"6bb174a8c50a9325084df79e3e9df5cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091894521
         }
     ],
     "wof:id":1091894521,
-    "wof:lastmodified":1473984319,
+    "wof:lastmodified":1496904378,
     "wof:name":"Schober Werner KmzlR",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

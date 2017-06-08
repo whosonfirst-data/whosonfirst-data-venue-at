@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4451036453,48.2454109192,13.4451036453,48.2454109192",
     "geom:latitude":48.245411,
     "geom:longitude":13.445104,
@@ -31,17 +32,33 @@
         "case"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835629,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59sIWYSeQqVldLDTgiBgZc_48.245411_13.445104@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905408,
-    "wof:geomhash":"4d8470f1fb973cfa4542f6b6b13fc8fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab7950e92e1fac74af47fb792632a4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835629,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092199105
+        }
+    ],
     "wof:id":1092199105,
-    "wof:lastmodified":1473985260,
+    "wof:lastmodified":1496887739,
     "wof:name":"Franz Prinz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0282535553,47.9726142883,16.0282535553,47.9726142883",
     "geom:latitude":47.972614,
     "geom:longitude":16.028254,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836187,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j60SIABtnBZx68mEjZTH7_47.972614_16.028254@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892726,
-    "wof:geomhash":"104e51b548ca02dd05d2ccb4071445ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"373c809eab986714cb229a9dbb7f3faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836187,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091913551
+        }
+    ],
     "wof:id":1091913551,
-    "wof:lastmodified":1473983718,
+    "wof:lastmodified":1496889932,
     "wof:name":"Fischer Karl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

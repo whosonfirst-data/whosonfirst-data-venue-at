@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4207935333,47.1438331604,14.4207935333,47.1438331604",
     "geom:latitude":47.143833,
     "geom:longitude":14.420794,
@@ -31,17 +32,34 @@
         "profile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838797,
+        85632785,
+        101789067,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oWWHFrVktoVfSUuHcn6iw_47.143833_14.420794@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914230,
-    "wof:geomhash":"bb3cbc8bb651ccdc3056bd82a3c9176d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"066187ad6c439efef6e92797639dd77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838797,
+            "locality_id":101789067,
+            "region_id":85681687,
+            "venue_id":1092395587
+        }
+    ],
     "wof:id":1092395587,
-    "wof:lastmodified":1473984312,
+    "wof:lastmodified":1496909363,
     "wof:name":"Hoesch Bausysteme GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

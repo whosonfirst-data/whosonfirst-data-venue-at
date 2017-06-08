@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6945438385,47.8020401001,16.6945438385,47.8020401001",
     "geom:latitude":47.80204,
     "geom:longitude":16.694544,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.bnet.co.at/rust/seewohn.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NoAipnYhy3waDy0A4ITmT_47.802040_16.694544@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894833,
-    "wof:geomhash":"095057d6ed1cb00f1e37afad5102c6b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d37752c846fd05817ad636bcac61de54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091960259
+        }
+    ],
     "wof:id":1091960259,
-    "wof:lastmodified":1473983360,
+    "wof:lastmodified":1496909075,
     "wof:name":"Ferienwohnungen im Seebad Rust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

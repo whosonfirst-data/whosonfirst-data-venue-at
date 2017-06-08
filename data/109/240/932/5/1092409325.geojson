@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0160293579,47.6949806213,16.0160293579,47.6949806213",
     "geom:latitude":47.694981,
     "geom:longitude":16.016029,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"lachsfuchs.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        101833089,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d0hv8hkEmexx2K0MTWkUl_47.694981_16.016029@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914835,
-    "wof:geomhash":"aaae6e4f4ef163f0dedd8c1afa10223f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"466f0b2c1f1ca3bbc2233818726bf0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":101833089,
+            "region_id":85681671,
+            "venue_id":1092409325
+        }
+    ],
     "wof:id":1092409325,
-    "wof:lastmodified":1473984999,
+    "wof:lastmodified":1496892168,
     "wof:name":"Fuchs Lachsr\u00e4ucherei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

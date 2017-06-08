@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0230932236,48.1561355591,14.0230932236,48.1561355591",
     "geom:latitude":48.156136,
     "geom:longitude":14.023093,
@@ -31,17 +32,34 @@
         "archive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30GGP5igdIf421aKi7o3XU_48.156136_14.023093@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910162,
-    "wof:geomhash":"0caa8f6530f2f8e52cc25395d7390e57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad7bb59f70fb64441ddc87dafaaae78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092305509
+        }
+    ],
     "wof:id":1092305509,
-    "wof:lastmodified":1473984625,
+    "wof:lastmodified":1496882156,
     "wof:name":"Stadtarchiv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

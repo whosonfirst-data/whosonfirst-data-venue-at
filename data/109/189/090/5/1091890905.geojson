@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0101127625,47.3105888367,10.0101127625,47.3105888367",
     "geom:latitude":47.310589,
     "geom:longitude":10.010113,
@@ -23,17 +24,33 @@
     "sg:postcode":"6886",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838041,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eMszDLoZsIrkAkhzeJ7a8_47.310589_10.010113@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891676,
-    "wof:geomhash":"51e42f515faccf8e61e03716221149da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"398fffebff683043ad69b99942e11452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838041,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091890905
+        }
+    ],
     "wof:id":1091890905,
-    "wof:lastmodified":1473983533,
+    "wof:lastmodified":1496901713,
     "wof:name":"Schwimmbad u Tennisanlage Schoppernau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

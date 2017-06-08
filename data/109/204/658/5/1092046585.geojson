@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8281068802,46.5936584473,13.8281068802,46.5936584473",
     "geom:latitude":46.593658,
     "geom:longitude":13.828107,
@@ -30,10 +31,12 @@
     "sg:website":"eichenhof.co.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898377,
-    "wof:geomhash":"51c1c4804b26527c1f04dfc7303f24bc",
+    "wof:geomhash":"dfbb460c8495cbae1e9f85e49c4c18cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092046585
         }
     ],
     "wof:id":1092046585,
-    "wof:lastmodified":1473983915,
+    "wof:lastmodified":1496906109,
     "wof:name":"Hotel Garni Eichenhof",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

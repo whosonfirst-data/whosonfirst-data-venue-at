@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4030389786,47.037273407,15.4030389786,47.037273407",
     "geom:latitude":47.037273,
     "geom:longitude":15.403039,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893147,
-    "wof:geomhash":"0b9c647ce8e55e5d25a28fd29122a125",
+    "wof:geomhash":"0c9c4cda9073cc51daf5377e1db922ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1091923997
         }
     ],
     "wof:id":1091923997,
-    "wof:lastmodified":1473984047,
+    "wof:lastmodified":1496913528,
     "wof:name":"Sundl Nikolaus",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

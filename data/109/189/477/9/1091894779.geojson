@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4801673889,48.2131500244,16.4801673889,48.2131500244",
     "geom:latitude":48.21315,
     "geom:longitude":16.480167,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891832,
-    "wof:geomhash":"fa58242b0bf24630e792e23ecfad589c",
+    "wof:geomhash":"79a8b658487f29751d84c5c7e2a60847",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091894779
         }
     ],
     "wof:id":1091894779,
-    "wof:lastmodified":1473984418,
+    "wof:lastmodified":1496903787,
     "wof:name":"Zirbs Helmut Ing",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3917045593,47.2570533752,11.3917045593,47.2570533752",
     "geom:latitude":47.257053,
     "geom:longitude":11.391705,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914364,
-    "wof:geomhash":"9ef8021a6f4eac372d4cd43374a2bec8",
+    "wof:geomhash":"1bdef5303369d8f1a9af25d1c8f1b5ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092398889
         }
     ],
     "wof:id":1092398889,
-    "wof:lastmodified":1473984911,
+    "wof:lastmodified":1496899508,
     "wof:name":"Hilweg Werner Dr phil",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

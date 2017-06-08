@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0909833908,47.7692489624,13.0909833908,47.7692489624",
     "geom:latitude":47.769249,
     "geom:longitude":13.090983,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901663,
-    "wof:geomhash":"2462f99178be518b7f28a19b4619b760",
+    "wof:geomhash":"4819abb60decd3838ef6bb4b4ea0bfb4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092117961
         }
     ],
     "wof:id":1092117961,
-    "wof:lastmodified":1473985072,
+    "wof:lastmodified":1496895279,
     "wof:name":"John Raimund Dr",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

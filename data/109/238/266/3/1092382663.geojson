@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6759500504,48.4717063904,15.6759500504,48.4717063904",
     "geom:latitude":48.471706,
     "geom:longitude":15.67595,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835935,
+        85632785,
+        101783391,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ElI7CbQ6iBC02iHMEnDnm_48.471706_15.675950@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913569,
-    "wof:geomhash":"f775607c8948439fda64eedd2d7cfda3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82e181d2d05c5aa2ec60807f7a59ffbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835935,
+            "locality_id":101783391,
+            "region_id":85681671,
+            "venue_id":1092382663
+        }
+    ],
     "wof:id":1092382663,
-    "wof:lastmodified":1473984004,
+    "wof:lastmodified":1496888967,
     "wof:name":"Pizza Pepone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6947832108,47.373008728,9.6947832108,47.373008728",
     "geom:latitude":47.373009,
     "geom:longitude":9.694783,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898621,
-        102049737
+        102191581,
+        1108837963,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910216,
-    "wof:geomhash":"21e266a19e39a1abf97a7a9bfe53ed01",
+    "wof:geomhash":"09bf4ea2625bcd669bb22e2e2b6baf5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":-1,
             "neighbourhood_id":85898621,
             "region_id":85681649,
             "venue_id":1092306597
         }
     ],
     "wof:id":1092306597,
-    "wof:lastmodified":1473984815,
+    "wof:lastmodified":1496901110,
     "wof:name":"Typo Grafik Dietmar Meier",
     "wof:parent_id":85898621,
     "wof:placetype":"venue",

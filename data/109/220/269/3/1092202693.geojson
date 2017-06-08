@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0967502594,48.0848693848,15.0967502594,48.0848693848",
     "geom:latitude":48.084869,
     "geom:longitude":15.09675,
@@ -23,17 +24,33 @@
     "sg:postcode":"3261",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836831,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u6CJ954kJw30bIpn8qkkn_48.084869_15.096750@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905609,
-    "wof:geomhash":"d81a8f0db2a758cc83578949b338bc61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f41211f3c60819c7d9a34dada8e0aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836831,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092202693
+        }
+    ],
     "wof:id":1092202693,
-    "wof:lastmodified":1473983936,
+    "wof:lastmodified":1496892991,
     "wof:name":"FG-Kalibration Grubhofer Friedrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9747886658,46.6848564148,13.9747886658,46.6848564148",
     "geom:latitude":46.684856,
     "geom:longitude":13.974789,
@@ -33,17 +34,34 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838139,
+        85632785,
+        101790109,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TEFmbHT2AKgsbalGr2BUu_46.684856_13.974789@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473887949,
-    "wof:geomhash":"446cd2885bc0e07aa462aad048d01e94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"603790842a9e5d5876d1d81b853dcb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838139,
+            "locality_id":101790109,
+            "region_id":85681655,
+            "venue_id":1091810783
+        }
+    ],
     "wof:id":1091810783,
-    "wof:lastmodified":1473983486,
+    "wof:lastmodified":1496905520,
     "wof:name":"Josef Egger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

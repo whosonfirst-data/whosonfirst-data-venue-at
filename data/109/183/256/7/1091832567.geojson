@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.555305481,47.813999176,16.555305481,47.813999176",
     "geom:latitude":47.813999,
     "geom:longitude":16.555305,
@@ -23,17 +24,34 @@
     "sg:postcode":"7061",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838551,
+        85632785,
+        101785645,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S3Xk4tO16gdG2fFjBbB7g_47.813999_16.555305@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888927,
-    "wof:geomhash":"30f2580a98b318ddecd52b9b900c638c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3b9a58c27647d1e1fb466273fa3fa78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838551,
+            "locality_id":101785645,
+            "region_id":85681651,
+            "venue_id":1091832567
+        }
+    ],
     "wof:id":1091832567,
-    "wof:lastmodified":1473983811,
+    "wof:lastmodified":1496908415,
     "wof:name":"Bankomat d Raiffeisenbank St.Margarethen-Trausdorf-Oslip regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

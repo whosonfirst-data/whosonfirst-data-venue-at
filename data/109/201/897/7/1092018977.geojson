@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3755970001,47.224319458,11.3755970001,47.224319458",
     "geom:latitude":47.224319,
     "geom:longitude":11.375597,
@@ -25,10 +26,13 @@
     "sg:website":"steuerberater-hilber.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897308,
-    "wof:geomhash":"e1284cf870bf4602b62a84c07ca807c3",
+    "wof:geomhash":"b28a7ede825141ee4f9faa4a33ebb352",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092018977
         }
     ],
     "wof:id":1092018977,
-    "wof:lastmodified":1473984645,
+    "wof:lastmodified":1496898473,
     "wof:name":"Dr. Hilber & Dr. Schuchter OEG",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

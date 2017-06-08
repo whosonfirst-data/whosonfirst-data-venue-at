@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7657012939,46.827747345,13.7657012939,46.827747345",
     "geom:latitude":46.827747,
     "geom:longitude":13.765701,
@@ -23,17 +24,33 @@
     "sg:postcode":"9546",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BhKCtvsAWDfxPnfNWjplh_46.827747_13.765701@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899447,
-    "wof:geomhash":"5c070d243f9b67b033836da7cc55aa27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f474d09d532a2113db3e139d557d98c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092073423
+        }
+    ],
     "wof:id":1092073423,
-    "wof:lastmodified":1473983956,
+    "wof:lastmodified":1496906823,
     "wof:name":"Gasthof L\u00e4rchenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

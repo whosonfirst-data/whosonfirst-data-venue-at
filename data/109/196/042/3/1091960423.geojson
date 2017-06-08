@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7987718582,47.3239173889,12.7987718582,47.3239173889",
     "geom:latitude":47.323917,
     "geom:longitude":12.798772,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.hotel-traube.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        101787923,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41YiV5oLIXor7rcUFCvlRm_47.323917_12.798772@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894840,
-    "wof:geomhash":"df631987e92bcde3332f10d6f554b841",
-    "wof:hierarchy":[],
+    "wof:geomhash":"317f8538bd40c7876f473c21c1e5e12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":101787923,
+            "region_id":85681681,
+            "venue_id":1091960423
+        }
+    ],
     "wof:id":1091960423,
-    "wof:lastmodified":1473983376,
+    "wof:lastmodified":1496896485,
     "wof:name":"Hotel Traube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

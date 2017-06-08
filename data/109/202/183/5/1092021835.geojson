@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0509376526,47.8507995605,13.0509376526,47.8507995605",
     "geom:latitude":47.8508,
     "geom:longitude":13.050938,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897417,
-    "wof:geomhash":"4aa705c62b245b4dacbb7ffd1f1fd7ec",
+    "wof:geomhash":"8c5bf55d137bbc83c51e1ada1d1887d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092021835
         }
     ],
     "wof:id":1092021835,
-    "wof:lastmodified":1473983668,
+    "wof:lastmodified":1496895205,
     "wof:name":"Missionshaus Maria Sorg",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

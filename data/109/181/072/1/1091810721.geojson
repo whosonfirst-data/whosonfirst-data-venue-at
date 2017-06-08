@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4745550156,47.2778053284,11.4745550156,47.2778053284",
     "geom:latitude":47.277805,
     "geom:longitude":11.474555,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887947,
-    "wof:geomhash":"53df96f68bd3f88f7e4783fc8408ebc8",
+    "wof:geomhash":"4ed1795ac3e8d3cd8cf76837946fa51d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091810721
         }
     ],
     "wof:id":1091810721,
-    "wof:lastmodified":1473983474,
+    "wof:lastmodified":1496898715,
     "wof:name":"Felder KG",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

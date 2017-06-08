@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.99888134,47.2277107239,12.99888134,47.2277107239",
     "geom:latitude":47.227711,
     "geom:longitude":12.998881,
@@ -23,17 +24,34 @@
     "sg:postcode":"5661",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837229,
+        85632785,
+        101789133,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yRC2DExO5duzNjC7cpDhh_47.227711_12.998881@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899432,
-    "wof:geomhash":"3602fbb70d57008fa1e1aa16c58db2be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a34ebf04873635ad3d2be9e2fca5ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837229,
+            "locality_id":101789133,
+            "region_id":85681681,
+            "venue_id":1092073029
+        }
+    ],
     "wof:id":1092073029,
-    "wof:lastmodified":1473983842,
+    "wof:lastmodified":1496896172,
     "wof:name":"Gasthof Karalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

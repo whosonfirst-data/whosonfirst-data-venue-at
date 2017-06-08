@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8350086212,47.9310569763,16.8350086212,47.9310569763",
     "geom:latitude":47.931057,
     "geom:longitude":16.835009,
@@ -23,17 +24,33 @@
     "sg:postcode":"7100",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZcDQnSynunFblwTRBqnav_47.931057_16.835009@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916374,
-    "wof:geomhash":"7c69d8d3bfd4bd862fe881ad8a68ae33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2f5057ba22f7c6d105a9521aff24842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092440145
+        }
+    ],
     "wof:id":1092440145,
-    "wof:lastmodified":1473983343,
+    "wof:lastmodified":1496908205,
     "wof:name":"Panner & Angerbauer GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.399014473,47.2558670044,11.399014473,47.2558670044",
     "geom:latitude":47.255867,
     "geom:longitude":11.399014,
@@ -34,10 +35,13 @@
     "sg:website":"sanders.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890931,
-    "wof:geomhash":"7a12cfd0ae0e6aef4f21f7b46ddbcf47",
+    "wof:geomhash":"765235d1550291e5a15ea11fda870242",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091875603
         }
     ],
     "wof:id":1091875603,
-    "wof:lastmodified":1473984370,
+    "wof:lastmodified":1496899316,
     "wof:name":"Buchbinderei Sanders",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

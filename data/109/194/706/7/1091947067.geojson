@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6038866043,47.2686042786,9.6038866043,47.2686042786",
     "geom:latitude":47.268604,
     "geom:longitude":9.603887,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894249,
-    "wof:geomhash":"3a3d5c95fc451b2dec40ce812d440f46",
+    "wof:geomhash":"9ad3368ab9f046f4a05eb1ee6b569866",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091947067
         }
     ],
     "wof:id":1091947067,
-    "wof:lastmodified":1473984816,
+    "wof:lastmodified":1496900973,
     "wof:name":"Sch\u00f6rgenhofer Kurt",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

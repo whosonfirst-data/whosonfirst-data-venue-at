@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6959085464,47.586681366,12.6959085464,47.586681366",
     "geom:latitude":47.586681,
     "geom:longitude":12.695909,
@@ -31,17 +32,34 @@
         "slab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837213,
+        85632785,
+        101787919,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bBYy649KhELOFRH3HgBfl_47.586681_12.695909@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915943,
-    "wof:geomhash":"cdec87b24da7c764f23cde4e27b3c820",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a189fbfce72451fbc75c6c8a14bc77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837213,
+            "locality_id":101787919,
+            "region_id":85681681,
+            "venue_id":1092430745
+        }
+    ],
     "wof:id":1092430745,
-    "wof:lastmodified":1473983437,
+    "wof:lastmodified":1496896019,
     "wof:name":"Schwaiger Fliesen GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

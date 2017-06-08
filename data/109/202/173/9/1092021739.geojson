@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3652486801,47.2394714355,11.3652486801,47.2394714355",
     "geom:latitude":47.239471,
     "geom:longitude":11.365249,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897414,
-    "wof:geomhash":"1fa136820e84a6117792a1594b26b5f3",
+    "wof:geomhash":"845d41311b756d8f7362626bd313606d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092021739
         }
     ],
     "wof:id":1092021739,
-    "wof:lastmodified":1473983649,
+    "wof:lastmodified":1496898476,
     "wof:name":"Markas Service GesmbH",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

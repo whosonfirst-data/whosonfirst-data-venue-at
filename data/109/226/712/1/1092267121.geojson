@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7982530594,48.2597846985,15.7982530594,48.2597846985",
     "geom:latitude":48.259785,
     "geom:longitude":15.798253,
@@ -31,17 +32,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835491,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N1LiEBi0YfQy6DmbI8YIH_48.259785_15.798253@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908478,
-    "wof:geomhash":"7b9323f51fd619537a9d79cd2d1eca2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d80b046b339eb0b1cb42732b952b1c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835491,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092267121
+        }
+    ],
     "wof:id":1092267121,
-    "wof:lastmodified":1473984712,
+    "wof:lastmodified":1496886862,
     "wof:name":"Josef Tauchner GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

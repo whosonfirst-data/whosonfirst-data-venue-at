@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9187965393,47.0805206299,9.9187965393,47.0805206299",
     "geom:latitude":47.080521,
     "geom:longitude":9.918797,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"montafon.at/museen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838047,
+        85632785,
+        101827443,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43itOckfMZHssdDiswK1RO_47.080521_9.918797@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912027,
-    "wof:geomhash":"e41cf9a7e3ad1fdea4f54ae3b9a5d90a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859becbd1edceca457c7021035246285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838047,
+            "locality_id":101827443,
+            "region_id":85681649,
+            "venue_id":1092349029
+        }
+    ],
     "wof:id":1092349029,
-    "wof:lastmodified":1473985030,
+    "wof:lastmodified":1496901723,
     "wof:name":"Montafoner Museen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3704805374,47.2285118103,11.3704805374,47.2285118103",
     "geom:latitude":47.228512,
     "geom:longitude":11.370481,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915764,
-    "wof:geomhash":"dd818e5daa6e2028243919b65326b6fb",
+    "wof:geomhash":"3b71b72b30bd1f971b2bf34d6712d1c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092426731
         }
     ],
     "wof:id":1092426731,
-    "wof:lastmodified":1473984540,
+    "wof:lastmodified":1496898471,
     "wof:name":"Mayr Josef",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

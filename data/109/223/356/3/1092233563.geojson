@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5252056122,47.8469161987,16.5252056122,47.8469161987",
     "geom:latitude":47.846916,
     "geom:longitude":16.525206,
@@ -23,17 +24,34 @@
     "sg:postcode":"7000",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wOP5AYRVnHgq3G6zXimMx_47.846916_16.525206@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473906981,
-    "wof:geomhash":"e09e631c5c5db201968acd4286b48d9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeb6ed861aff5a612245ff26456652e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092233563
+        }
+    ],
     "wof:id":1092233563,
-    "wof:lastmodified":1473984120,
+    "wof:lastmodified":1496908751,
     "wof:name":"Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

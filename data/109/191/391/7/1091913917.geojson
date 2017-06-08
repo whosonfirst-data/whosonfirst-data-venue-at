@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.320681572,48.0490188599,14.320681572,48.0490188599",
     "geom:latitude":48.049019,
     "geom:longitude":14.320682,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836125,
+        85632785,
+        101833175,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UoXEpfYnNVM2MbSnJbkii_48.049019_14.320682@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892741,
-    "wof:geomhash":"47668ec09d6ebe24077e1affe58b4711",
-    "wof:hierarchy":[],
+    "wof:geomhash":"276cb72844b96e8a83bc459e6e8d39a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836125,
+            "locality_id":101833175,
+            "region_id":85681677,
+            "venue_id":1091913917
+        }
+    ],
     "wof:id":1091913917,
-    "wof:lastmodified":1473983820,
+    "wof:lastmodified":1496889628,
     "wof:name":"HuS Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

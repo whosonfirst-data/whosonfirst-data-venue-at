@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5398387909,47.8558731079,16.5398387909,47.8558731079",
     "geom:latitude":47.855873,
     "geom:longitude":16.539839,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833097,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z6RSOd6tLPV7NNdJWZSyc_47.855873_16.539839@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906502,
-    "wof:geomhash":"5c7534ede30c328652b16d7abed13d7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8134c6ad2abe38d2d743185f211e68d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833097,
+            "region_id":85681651,
+            "venue_id":1092222429
+        }
+    ],
     "wof:id":1092222429,
-    "wof:lastmodified":1473983915,
+    "wof:lastmodified":1496908735,
     "wof:name":"Taxi Andy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

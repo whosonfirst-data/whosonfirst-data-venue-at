@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.896771431,46.948551178,15.896771431,46.948551178",
     "geom:latitude":46.948551,
     "geom:longitude":15.896771,
@@ -23,17 +24,34 @@
     "sg:postcode":"8330",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839259,
+        85632785,
+        101788987,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e5AxYSNNqYbagAsERrDLV_46.948551_15.896771@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888400,
-    "wof:geomhash":"85a80f9f929339166385fd920c03392b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e3a4374d206c21d16a48e3173de9fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839259,
+            "locality_id":101788987,
+            "region_id":85681687,
+            "venue_id":1091821139
+        }
+    ],
     "wof:id":1091821139,
-    "wof:lastmodified":1473983627,
+    "wof:lastmodified":1496912276,
     "wof:name":"Bahnhof Feldbach-Landesbahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

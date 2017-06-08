@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3336324692,47.5142402649,12.3336324692,47.5142402649",
     "geom:latitude":47.51424,
     "geom:longitude":12.333632,
@@ -23,17 +24,33 @@
     "sg:postcode":"6353",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837363,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hioPW2pOnvKvqqwBGIQQc_47.514240_12.333632@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913066,
-    "wof:geomhash":"dc3cecf07cae92742c330310cf64b7fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22c0096872e11417dd5f4d14208aaaf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837363,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092371105
+        }
+    ],
     "wof:id":1092371105,
-    "wof:lastmodified":1473983605,
+    "wof:lastmodified":1496897309,
     "wof:name":"Pension Kaufmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

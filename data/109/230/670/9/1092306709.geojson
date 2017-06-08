@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7050743103,48.5806159973,16.7050743103,48.5806159973",
     "geom:latitude":48.580616,
     "geom:longitude":16.705074,
@@ -31,17 +32,33 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836973,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GrAdYNi6PVNGVwDSZczkO_48.580616_16.705074@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910225,
-    "wof:geomhash":"7a1e610e4ff4d45573cd81fef0c79192",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bb311dddb7f660b210847da2afb51e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836973,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092306709
+        }
+    ],
     "wof:id":1092306709,
-    "wof:lastmodified":1473984853,
+    "wof:lastmodified":1496893611,
     "wof:name":"WMW Weinviertler Mischwerk Ges.m.b.H. & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

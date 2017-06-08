@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4182834625,47.449924469,16.4182834625,47.449924469",
     "geom:latitude":47.449924,
     "geom:longitude":16.418283,
@@ -23,17 +24,33 @@
     "sg:postcode":"7371",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838545,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vdJ3adYFvUbmyrQsYaN88_47.449924_16.418283@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899734,
-    "wof:geomhash":"63337e0c21430eba06d85a38cd9aec95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec9e2ba9bc6828e9d7b960448ddaaffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838545,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092079471
+        }
+    ],
     "wof:id":1092079471,
-    "wof:lastmodified":1473985075,
+    "wof:lastmodified":1496908409,
     "wof:name":"Mayer Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

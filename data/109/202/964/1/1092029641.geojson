@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5052604675,47.2794075012,11.5052604675,47.2794075012",
     "geom:latitude":47.279408,
     "geom:longitude":11.50526,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897713,
-    "wof:geomhash":"990745738a83e25c895c5539b94bac56",
+    "wof:geomhash":"f0d0b8b7d67e54ac2fc84e7869211189",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092029641
         }
     ],
     "wof:id":1092029641,
-    "wof:lastmodified":1473985194,
+    "wof:lastmodified":1496898738,
     "wof:name":"Salon Anna",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

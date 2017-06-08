@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.3702163696,47.0637741089,10.3702163696,47.0637741089",
     "geom:latitude":47.063774,
     "geom:longitude":10.370216,
@@ -23,17 +24,33 @@
     "sg:postcode":"6555",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837299,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uhD3Tvw9AWrpvx66FemXA_47.063774_10.370216@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909662,
-    "wof:geomhash":"36e1953c6c65f407a6609a9d91a23335",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ce4ec4255c5382eb0f605e790d8699d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837299,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092295209
+        }
+    ],
     "wof:id":1092295209,
-    "wof:lastmodified":1473984519,
+    "wof:lastmodified":1496896787,
     "wof:name":"Haus Bergkristall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7731389999,47.4032173157,9.7731389999,47.4032173157",
     "geom:latitude":47.403217,
     "geom:longitude":9.773139,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898219,
-    "wof:geomhash":"65b45f1b000b0245ef07fc7713831735",
+    "wof:geomhash":"88b5ae4612cabfbccb760c44a4e24b07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092042323
         }
     ],
     "wof:id":1092042323,
-    "wof:lastmodified":1473983318,
+    "wof:lastmodified":1496900826,
     "wof:name":"D\u00fcnser Bernhard",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

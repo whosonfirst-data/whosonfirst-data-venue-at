@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1870498657,46.9682388306,10.1870498657,46.9682388306",
     "geom:latitude":46.968239,
     "geom:longitude":10.18705,
@@ -22,17 +23,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.bergfried.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837293,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L9KJb9J8nB85dCv6AsJfP_46.968239_10.187050@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473887835,
-    "wof:geomhash":"1828c2a2e79b67cd1e6948704161e7a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ac4fc0770809714cc4313ee4d7ca25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837293,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091808267
+        }
+    ],
     "wof:id":1091808267,
-    "wof:lastmodified":1473984166,
+    "wof:lastmodified":1496896731,
     "wof:name":"Hotel Pension Bergfried",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

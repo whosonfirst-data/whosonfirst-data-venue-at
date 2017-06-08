@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5819921494,48.0977859497,14.5819921494,48.0977859497",
     "geom:latitude":48.097786,
     "geom:longitude":14.581992,
@@ -32,17 +33,33 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835427,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qhrWBPticU8It4XRwvdI2_48.097786_14.581992@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908382,
-    "wof:geomhash":"bcf596b80fe451545901a1d8f2972908",
-    "wof:hierarchy":[],
+    "wof:geomhash":"813b5e1a5eb770db859f485ff29cf802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835427,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092264945
+        }
+    ],
     "wof:id":1092264945,
-    "wof:lastmodified":1473984397,
+    "wof:lastmodified":1496886577,
     "wof:name":"KELLER, IHNE & TESCH GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

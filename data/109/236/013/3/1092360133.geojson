@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6510887146,47.3535575867,9.6510887146,47.3535575867",
     "geom:latitude":47.353558,
     "geom:longitude":9.651089,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"neues-institut.at; neuesinstitut.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21r4t8zeX4Jag7FWW5FXYO_47.353558_9.651089@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912522,
-    "wof:geomhash":"75c0d492cecb98275102982834d4f006",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61786dcd8369f7243ae9c08b8ecdc064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1092360133
+        }
+    ],
     "wof:id":1092360133,
-    "wof:lastmodified":1473983339,
+    "wof:lastmodified":1496900490,
     "wof:name":"Neues Institut seit 1987 - Giesinger Georg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

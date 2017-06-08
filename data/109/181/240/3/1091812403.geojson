@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2108659744,46.7163887024,14.2108659744,46.7163887024",
     "geom:latitude":46.716389,
     "geom:longitude":14.210866,
@@ -22,17 +23,33 @@
     "sg:postcode":"9555",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838125,
+        85632785,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34Rtikw3lmI3AZqkjZTzub_46.716389_14.210866@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473888018,
-    "wof:geomhash":"6878e350326bf9344d71f095259897cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"333c72cd9e46cf3f2005467d70a43e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838125,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091812403
+        }
+    ],
     "wof:id":1091812403,
-    "wof:lastmodified":1473983808,
+    "wof:lastmodified":1496905458,
     "wof:name":"Volksschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4302797318,48.3174781799,13.4302797318,48.3174781799",
     "geom:latitude":48.317478,
     "geom:longitude":13.43028,
@@ -33,17 +34,33 @@
         "roof"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835669,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A4U6rL8HCG7zJq1hpmD7J_48.317478_13.430280@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915646,
-    "wof:geomhash":"b88ef97e237366235fc6dca7dc751fee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39d610e082cfe32d7c8e0dc90d06b6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835669,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092424323
+        }
+    ],
     "wof:id":1092424323,
-    "wof:lastmodified":1473984163,
+    "wof:lastmodified":1496887832,
     "wof:name":"Bachmair KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

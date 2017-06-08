@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0810852051,47.7508773804,13.0810852051,47.7508773804",
     "geom:latitude":47.750877,
     "geom:longitude":13.081085,
@@ -25,10 +26,12 @@
     "sg:website":"stepakran.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891133,
-    "wof:geomhash":"e0c9eae936ce4f6dc12a0226300df60a",
+    "wof:geomhash":"e6c28c60e7d5d9b2104e5eeee2d256dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1091879833
         }
     ],
     "wof:id":1091879833,
-    "wof:lastmodified":1473985258,
+    "wof:lastmodified":1496895282,
     "wof:name":"STEPA Farmkran Ges.m.b.H.",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

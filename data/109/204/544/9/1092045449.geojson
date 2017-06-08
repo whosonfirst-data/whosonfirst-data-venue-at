@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5979070663,47.2355575562,9.5979070663,47.2355575562",
     "geom:latitude":47.235558,
     "geom:longitude":9.597907,
@@ -29,10 +30,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898334,
-    "wof:geomhash":"bddc09bb8eea723a47e3b1073f7609b7",
+    "wof:geomhash":"d4bfea124faeef0ae3a02b1efbd83185",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092045449
         }
     ],
     "wof:id":1092045449,
-    "wof:lastmodified":1473983808,
+    "wof:lastmodified":1496900936,
     "wof:name":"Holiday Inn Feldkirch",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

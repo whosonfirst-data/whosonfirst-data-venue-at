@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5173864365,47.3032073975,11.5173864365,47.3032073975",
     "geom:latitude":47.303207,
     "geom:longitude":11.517386,
@@ -33,17 +34,34 @@
         "cooker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oAyv1oyESAS7wfV97jpze_47.303207_11.517386@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908385,
-    "wof:geomhash":"1dbf03bc28ebc0ba06b03cf366b05217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9120c3e3645a5723088cccc3f19f9e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
+            "region_id":85681661,
+            "venue_id":1092265027
+        }
+    ],
     "wof:id":1092265027,
-    "wof:lastmodified":1473984422,
+    "wof:lastmodified":1496898016,
     "wof:name":"Elektro Larcher GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

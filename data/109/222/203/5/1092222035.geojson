@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3153133392,47.7733688354,15.3153133392,47.7733688354",
     "geom:latitude":47.773369,
     "geom:longitude":15.315313,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839309,
+        85632785,
+        101785601,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66lf0CW3LeMUYtlZ4JmoXv_47.773369_15.315313@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906483,
-    "wof:geomhash":"6491c26d7428c40d1fe78dcff5191cff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa13a632cc4f16d4b91e8bae02ecae48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839309,
+            "locality_id":101785601,
+            "region_id":85681687,
+            "venue_id":1092222035
+        }
+    ],
     "wof:id":1092222035,
-    "wof:lastmodified":1473983830,
+    "wof:lastmodified":1496912705,
     "wof:name":"Scheucher Alois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

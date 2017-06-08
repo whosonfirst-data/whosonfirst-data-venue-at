@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6076755524,48.0527610779,16.6076755524,48.0527610779",
     "geom:latitude":48.052761,
     "geom:longitude":16.607676,
@@ -32,17 +33,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835781,
+        85632785,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pyjpTqCNuqfBxVvNC6xDy_48.052761_16.607676@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891175,
-    "wof:geomhash":"517610972e234d5d628a339f498c258a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1d9109183e126ce86ed306c27298bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108835781,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091880893
+        }
+    ],
     "wof:id":1091880893,
-    "wof:lastmodified":1473983562,
+    "wof:lastmodified":1496888322,
     "wof:name":"Medplan Handelsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

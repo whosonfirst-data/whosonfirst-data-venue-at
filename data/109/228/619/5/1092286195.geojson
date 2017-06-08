@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5307731628,47.8282051086,16.5307731628,47.8282051086",
     "geom:latitude":47.828205,
     "geom:longitude":16.530773,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"email.farbunion.at/berghofer/index.xml",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uUkRcRMpD6bhEwsIN0FKJ_47.828205_16.530773@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909293,
-    "wof:geomhash":"f743a676b38089a1f5a7477c4493629f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a961b43f627a6f919da60ebfb515ac0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092286195
+        }
+    ],
     "wof:id":1092286195,
-    "wof:lastmodified":1473984533,
+    "wof:lastmodified":1496908745,
     "wof:name":"Josef Berghofer Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

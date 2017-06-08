@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0910959244,47.7746734619,13.0910959244,47.7746734619",
     "geom:latitude":47.774673,
     "geom:longitude":13.091096,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909125,
-    "wof:geomhash":"44d7ac3dd5c7592385fd179285938394",
+    "wof:geomhash":"98822fbc34e331988cd67669c5d56efc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092282033
         }
     ],
     "wof:id":1092282033,
-    "wof:lastmodified":1473983616,
+    "wof:lastmodified":1496895284,
     "wof:name":"W\u00f6rther J\u00f6rg PRIMETASTE OEG",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

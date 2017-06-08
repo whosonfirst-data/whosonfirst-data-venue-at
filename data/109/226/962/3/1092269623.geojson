@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3766708374,47.2591209412,11.3766708374,47.2591209412",
     "geom:latitude":47.259121,
     "geom:longitude":11.376671,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908580,
-    "wof:geomhash":"a8cdafa078da6b4197014bd1cc636548",
+    "wof:geomhash":"402affdaad0210fd8293944ddaa86b16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092269623
         }
     ],
     "wof:id":1092269623,
-    "wof:lastmodified":1473985150,
+    "wof:lastmodified":1496899202,
     "wof:name":"Reinstaller H GesmbH",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

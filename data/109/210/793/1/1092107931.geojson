@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5121555328,47.7616615295,16.5121555328,47.7616615295",
     "geom:latitude":47.761662,
     "geom:longitude":16.512156,
@@ -23,17 +24,33 @@
     "sg:postcode":"7011",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838609,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uWQPjzdCrEZyQacm2TjlJ_47.761662_16.512156@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901194,
-    "wof:geomhash":"8652dae2fac923103c712864ac7c1101",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d949ca059e1fb241f5a44a21d6676c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838609,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092107931
+        }
+    ],
     "wof:id":1092107931,
-    "wof:lastmodified":1473984829,
+    "wof:lastmodified":1496908686,
     "wof:name":"Hackl Oswald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

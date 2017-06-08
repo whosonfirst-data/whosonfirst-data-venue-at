@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9187002182,46.8012199402,13.9187002182,46.8012199402",
     "geom:latitude":46.80122,
     "geom:longitude":13.9187,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838127,
+        85632785,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30BKE74fnhGvdYazPDAGQX_46.801220_13.918700@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889793,
-    "wof:geomhash":"7a7a9bc0689a3892232e8767995130cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a936ddc5e036fe9983bf1a71b4d516e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838127,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091851773
+        }
+    ],
     "wof:id":1091851773,
-    "wof:lastmodified":1473983631,
+    "wof:lastmodified":1496905465,
     "wof:name":"Ingolf Brucker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

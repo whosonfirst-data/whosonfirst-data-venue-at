@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.874130249,46.7208633423,14.874130249,46.7208633423",
     "geom:latitude":46.720863,
     "geom:longitude":14.87413,
@@ -34,17 +35,33 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838109,
+        85632785,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fj0ZRfWpI35PzXhripTuJ_46.720863_14.874130@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905230,
-    "wof:geomhash":"ef79437c51ce57a3b95d7039dde85e93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d12cd609dc7f616be1cde92ffd07d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838109,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092194705
+        }
+    ],
     "wof:id":1092194705,
-    "wof:lastmodified":1473984431,
+    "wof:lastmodified":1496905133,
     "wof:name":"Ing. Martin Huber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2719373703,47.2542381287,11.2719373703,47.2542381287",
     "geom:latitude":47.254238,
     "geom:longitude":11.271937,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900205,
-    "wof:geomhash":"d2d083e45973299148412ce6257c26f1",
+    "wof:geomhash":"b5d4c01b55bff660a648a19a5c3c78de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092089425
         }
     ],
     "wof:id":1092089425,
-    "wof:lastmodified":1473985194,
+    "wof:lastmodified":1496898653,
     "wof:name":"Gemeindeamt Kematen in Tirol",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.329410553,47.8576164246,16.329410553,47.8576164246",
     "geom:latitude":47.857616,
     "geom:longitude":16.329411,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834823,
+        85632785,
+        101833125,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wHMqfFVmN9wA4M4JB5e6N_47.857616_16.329411@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892811,
-    "wof:geomhash":"adc1a435aad09f74610e04c6b507ff27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"253f261660a140d1d90c28ebc419c951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834823,
+            "locality_id":101833125,
+            "region_id":85681671,
+            "venue_id":1091915533
+        }
+    ],
     "wof:id":1091915533,
-    "wof:lastmodified":1473984009,
+    "wof:lastmodified":1496882770,
     "wof:name":"SMT Medical Technic Delta Airmed GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

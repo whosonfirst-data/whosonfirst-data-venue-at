@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.39564991,47.2605705261,11.39564991,47.2605705261",
     "geom:latitude":47.260571,
     "geom:longitude":11.39565,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903554,
-    "wof:geomhash":"178cf67671aabad48beb1b18a99b16e9",
+    "wof:geomhash":"c4601c433f97d159cdff723b177ae73b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092157259
         }
     ],
     "wof:id":1092157259,
-    "wof:lastmodified":1473984789,
+    "wof:lastmodified":1496926017,
     "wof:name":"Volksschule Altwilten",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

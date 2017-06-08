@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3893241882,47.8698005676,16.3893241882,47.8698005676",
     "geom:latitude":47.869801,
     "geom:longitude":16.389324,
@@ -23,17 +24,33 @@
     "sg:postcode":"2491",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838577,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QCxndIdnC36Mwcu7tJj3j_47.869801_16.389324@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893597,
-    "wof:geomhash":"7ebfde9e5be205c1848b61da6db9f4f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef48e378a4306be875ca8da48185b36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838577,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091932167
+        }
+    ],
     "wof:id":1091932167,
-    "wof:lastmodified":1473983858,
+    "wof:lastmodified":1496908544,
     "wof:name":"Union Yacht Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

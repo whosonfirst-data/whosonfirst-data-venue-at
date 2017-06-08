@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1930007935,48.3240394592,16.1930007935,48.3240394592",
     "geom:latitude":48.324039,
     "geom:longitude":16.193001,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"wft.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835345,
+        85632785,
+        101754237,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4idQO1uz6J2CG49NoF9nwG_48.324039_16.193001@1306268249"
     },
     "wof:country":"AT",
     "wof:created":1473894557,
-    "wof:geomhash":"9fdbde6ad781adf7ba391de39c00a771",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5f9339e715a7357dddb359762c51247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835345,
+            "locality_id":101754237,
+            "region_id":85681671,
+            "venue_id":1091954319
+        }
+    ],
     "wof:id":1091954319,
-    "wof:lastmodified":1473984388,
+    "wof:lastmodified":1496886187,
     "wof:name":"WFT Wein-Fruchtsaft-Technologie Handelsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

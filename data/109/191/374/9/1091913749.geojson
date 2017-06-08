@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.208065033,48.3883781433,16.208065033,48.3883781433",
     "geom:latitude":48.388378,
     "geom:longitude":16.208065,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834843,
+        85632785,
+        101833277,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gPbEcDEpeFUV8WLGPEnSw_48.388378_16.208065@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892734,
-    "wof:geomhash":"ca24cb2f9b81d4a03ec5df7da14ab988",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7255ee4386031af4a4626ab188989bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834843,
+            "locality_id":101833277,
+            "region_id":85681671,
+            "venue_id":1091913749
+        }
+    ],
     "wof:id":1091913749,
-    "wof:lastmodified":1473983768,
+    "wof:lastmodified":1496882910,
     "wof:name":"Gruber & Petters GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

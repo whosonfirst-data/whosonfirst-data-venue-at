@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1401176453,47.8313446045,13.1401176453,47.8313446045",
     "geom:latitude":47.831345,
     "geom:longitude":13.140118,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913117,
-    "wof:geomhash":"9daf97a524a8eddddba6172b0e439720",
+    "wof:geomhash":"7f0afcdca52896a5419c815fb35a442b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092372177
         }
     ],
     "wof:id":1092372177,
-    "wof:lastmodified":1473983910,
+    "wof:lastmodified":1496895320,
     "wof:name":"Pension Sonnenhof",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

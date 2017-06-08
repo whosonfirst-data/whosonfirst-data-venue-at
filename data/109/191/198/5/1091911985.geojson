@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7914447784,46.7301979065,13.7914447784,46.7301979065",
     "geom:latitude":46.730198,
     "geom:longitude":13.791445,
@@ -33,17 +34,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838321,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Dsw6QSwuA3nApUc73ZQ0q_46.730198_13.791445@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892633,
-    "wof:geomhash":"ad4b67b24f84f8f107ef1e6081ba6d67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c41e1fbc3672614bb3c087914fb635d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838321,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091911985
+        }
+    ],
     "wof:id":1091911985,
-    "wof:lastmodified":1473983377,
+    "wof:lastmodified":1496907298,
     "wof:name":"Skischule Verditz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

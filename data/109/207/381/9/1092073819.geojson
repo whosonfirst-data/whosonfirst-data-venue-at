@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8800096512,47.1973342896,10.8800096512,47.1973342896",
     "geom:latitude":47.197334,
     "geom:longitude":10.88001,
@@ -23,17 +24,33 @@
     "sg:postcode":"6433",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837435,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aB5v21mRL5vMzDr44svUi_47.197334_10.880010@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899463,
-    "wof:geomhash":"8d23fd1bb1c27e35dec51d3e8c153e59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed57b71b6db70941441c7d1d5c51432b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837435,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092073819
+        }
+    ],
     "wof:id":1092073819,
-    "wof:lastmodified":1473984032,
+    "wof:lastmodified":1496897835,
     "wof:name":"Gasthof Piburgersee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

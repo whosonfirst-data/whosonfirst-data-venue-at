@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9327096939,47.2488288879,9.9327096939,47.2488288879",
     "geom:latitude":47.248829,
     "geom:longitude":9.93271,
@@ -23,17 +24,33 @@
     "sg:postcode":"6733",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837939,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63ekU7XEEZJa60h0SwC04d_47.248829_9.932710@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899488,
-    "wof:geomhash":"4d500b421342f417658019c9ad907ae5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14e95cc4a1dd057223bca03d6f9c2ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837939,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092074395
+        }
+    ],
     "wof:id":1092074395,
-    "wof:lastmodified":1473984120,
+    "wof:lastmodified":1496900976,
     "wof:name":"Gasthof Seewald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

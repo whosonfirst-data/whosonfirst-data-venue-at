@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6123418808,47.2461433411,9.6123418808,47.2461433411",
     "geom:latitude":47.246143,
     "geom:longitude":9.612342,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889563,
-    "wof:geomhash":"779e3995497bef9615719e2fdd7d6d8c",
+    "wof:geomhash":"1b7933a483ac993e9ec22babf3a5ddd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091847007
         }
     ],
     "wof:id":1091847007,
-    "wof:lastmodified":1473984633,
+    "wof:lastmodified":1496900898,
     "wof:name":"A-BAU A.G. Baumeisterarbeiten und Baustoffe",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6187477112,47.3274803162,11.6187477112,47.3274803162",
     "geom:latitude":47.32748,
     "geom:longitude":11.618748,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"erhart-bohrungen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837659,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xwvPf6zuFO4BV4jik9BbW_47.327480_11.618748@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890921,
-    "wof:geomhash":"1372c365da2c64116386e09634fe0da1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67a57e0931ee8b2a0b332000391c12b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837659,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091875363
+        }
+    ],
     "wof:id":1091875363,
-    "wof:lastmodified":1473984275,
+    "wof:lastmodified":1496899037,
     "wof:name":"Erhart GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

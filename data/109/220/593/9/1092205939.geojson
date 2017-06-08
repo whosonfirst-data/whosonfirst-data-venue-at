@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8381166458,48.0329589844,12.8381166458,48.0329589844",
     "geom:latitude":48.032959,
     "geom:longitude":12.838117,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834769,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nwlWpolZf6qcxlgAAxDcb_48.032959_12.838117@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905783,
-    "wof:geomhash":"3a313a2c073b0860f068d5e3d0d43e4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d0d833487865f28ef0b863d6788ab43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834769,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092205939
+        }
+    ],
     "wof:id":1092205939,
-    "wof:lastmodified":1473984684,
+    "wof:lastmodified":1496882541,
     "wof:name":"GLASKLAR WARENVERTRIEBSGES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

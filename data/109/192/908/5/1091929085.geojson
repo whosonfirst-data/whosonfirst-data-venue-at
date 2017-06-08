@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2396774292,47.3230781555,16.2396774292,47.3230781555",
     "geom:latitude":47.323078,
     "geom:longitude":16.239677,
@@ -23,17 +24,33 @@
     "sg:postcode":"7431",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838563,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JxX4ljIbWcKyS4XrevVpO_47.323078_16.239677@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893474,
-    "wof:geomhash":"4d88d17679017849bfe648cdc3912326",
-    "wof:hierarchy":[],
+    "wof:geomhash":"792dc14f870f6c4c1c116e730f454cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838563,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091929085
+        }
+    ],
     "wof:id":1091929085,
-    "wof:lastmodified":1473985039,
+    "wof:lastmodified":1496908461,
     "wof:name":"DLGA - David Leadbetter Golf Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

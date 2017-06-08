@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.3402671814,47.1428756714,10.3402671814,47.1428756714",
     "geom:latitude":47.142876,
     "geom:longitude":10.340267,
@@ -23,17 +24,33 @@
     "sg:postcode":"6574",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837313,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i8KzNvXeKQNByeUwox9dC_47.142876_10.340267@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892497,
-    "wof:geomhash":"4d98aca09bc7474b873df392637275b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76ac628bfc23be657b8fbf6d341b2618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837313,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091908713
+        }
+    ],
     "wof:id":1091908713,
-    "wof:lastmodified":1473985149,
+    "wof:lastmodified":1496896826,
     "wof:name":"Wellnesspark Arlberg-Stanzertal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

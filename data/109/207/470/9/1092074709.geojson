@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6433143616,47.2690353394,9.6433143616,47.2690353394",
     "geom:latitude":47.269035,
     "geom:longitude":9.643314,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899501,
-    "wof:geomhash":"2cdb4095bdcc5153629b23fe787de769",
+    "wof:geomhash":"08a154311524ed2c7ba0d38c5e3344ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092074709
         }
     ],
     "wof:id":1092074709,
-    "wof:lastmodified":1473984188,
+    "wof:lastmodified":1496901649,
     "wof:name":"Gasthof Taube",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

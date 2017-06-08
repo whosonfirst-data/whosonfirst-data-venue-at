@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9335050583,48.5403709412,14.9335050583,48.5403709412",
     "geom:latitude":48.540371,
     "geom:longitude":14.933505,
@@ -31,17 +32,33 @@
         "carpeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835477,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SSUidDWyD6CFnlRUyjGde_48.540371_14.933505@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905387,
-    "wof:geomhash":"db2caf2a4ea1bf92b5d67668ca5a84f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1422b47fdca3d62b80f0e13b0d6794c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835477,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092198549
+        }
+    ],
     "wof:id":1092198549,
-    "wof:lastmodified":1473985262,
+    "wof:lastmodified":1496886832,
     "wof:name":"Christian Wallner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

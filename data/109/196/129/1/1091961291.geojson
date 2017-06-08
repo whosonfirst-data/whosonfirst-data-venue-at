@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1241798401,47.0515899658,16.1241798401,47.0515899658",
     "geom:latitude":47.05159,
     "geom:longitude":16.12418,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"reitanlage-rudersdorf.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838559,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e4jJLB17JqT6DgKvAVdQE_47.051590_16.124180@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894873,
-    "wof:geomhash":"d944f2ad61a5a354a26583fead0ec443",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d46d5bcad6ec459ef125b5a92f9e35a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838559,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091961291
+        }
+    ],
     "wof:id":1091961291,
-    "wof:lastmodified":1473983482,
+    "wof:lastmodified":1496908438,
     "wof:name":"Reitanlage Rudersdorf - Winter & Kummer OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

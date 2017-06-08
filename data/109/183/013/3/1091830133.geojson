@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6749105453,48.7973823547,15.6749105453,48.7973823547",
     "geom:latitude":48.797382,
     "geom:longitude":15.674911,
@@ -23,17 +24,33 @@
     "sg:postcode":"2093",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835299,
+        85632785,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oU3oNfeZQQT93A8VwokhG_48.797382_15.674911@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888797,
-    "wof:geomhash":"5e8add4ace2e48db438fb0063491000f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b2cc4aa58b2e3ec7e92f8a7401914d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835299,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091830133
+        }
+    ],
     "wof:id":1091830133,
-    "wof:lastmodified":1473983306,
+    "wof:lastmodified":1496885938,
     "wof:name":"Sparkasse Horn Ravelsbach-Kirchberg AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

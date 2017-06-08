@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.35587883,48.2580871582,14.35587883,48.2580871582",
     "geom:latitude":48.258087,
     "geom:longitude":14.355879,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892784,
-    "wof:geomhash":"75d3d1dc7dd974a23928b9b72e658c5b",
+    "wof:geomhash":"3e19fc9d7928d296b264e344fbaa5290",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1091914811
         }
     ],
     "wof:id":1091914811,
-    "wof:lastmodified":1473983921,
+    "wof:lastmodified":1496881451,
     "wof:name":"Next Generation Solutions",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

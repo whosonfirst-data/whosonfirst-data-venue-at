@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1365499496,48.1015815735,13.1365499496,48.1015815735",
     "geom:latitude":48.101582,
     "geom:longitude":13.13655,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.badhaus.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834753,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SB7ZytKSx0spC0b5dpc4H_48.101582_13.136550@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899103,
-    "wof:geomhash":"d9b56d357daa7d70c2df9d619106f0df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17151f11ae54ee59afeebe8c63d580fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834753,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092064999
+        }
+    ],
     "wof:id":1092064999,
-    "wof:lastmodified":1473984258,
+    "wof:lastmodified":1496882475,
     "wof:name":"Gasthaus Badhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

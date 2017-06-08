@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8765821457,47.2239723206,15.8765821457,47.2239723206",
     "geom:latitude":47.223972,
     "geom:longitude":15.876582,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839125,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mqAUVko1XXicBfcIowRpZ_47.223972_15.876582@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905788,
-    "wof:geomhash":"33410f3f7eb1a91cbc040c69bf64fa28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ce7bec5cb0698ba97475fe475d4c626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839125,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092206051
+        }
+    ],
     "wof:id":1092206051,
-    "wof:lastmodified":1473984687,
+    "wof:lastmodified":1496911492,
     "wof:name":"SWIETELSKY BAUGES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4463405609,47.2516174316,11.4463405609,47.2516174316",
     "geom:latitude":47.251617,
     "geom:longitude":11.446341,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899958,
-    "wof:geomhash":"8558446343ca5e9e19d6c7d5e9bd672f",
+    "wof:geomhash":"af4487de004bce43d97e9407408673cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092084339
         }
     ],
     "wof:id":1092084339,
-    "wof:lastmodified":1473984229,
+    "wof:lastmodified":1496898023,
     "wof:name":"Wirtshaus Stecher",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

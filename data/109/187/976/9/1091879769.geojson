@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0427150726,48.1987113953,15.0427150726,48.1987113953",
     "geom:latitude":48.198711,
     "geom:longitude":15.042715,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"gobec.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836871,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zrEkTyzxeyEeZVBi7iCqw_48.198711_15.042715@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891131,
-    "wof:geomhash":"af6c1df62c957363da630ed807ea9ef2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9455576b68cd7c5e89432648747e393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836871,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091879769
+        }
+    ],
     "wof:id":1091879769,
-    "wof:lastmodified":1473985242,
+    "wof:lastmodified":1496893205,
     "wof:name":"Stefan Gobec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

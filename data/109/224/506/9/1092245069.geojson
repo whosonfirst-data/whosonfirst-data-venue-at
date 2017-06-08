@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.670085907,47.2555999756,9.670085907,47.2555999756",
     "geom:latitude":47.2556,
     "geom:longitude":9.670086,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907502,
-    "wof:geomhash":"40086b2aaa9fb1da007d455e218025fb",
+    "wof:geomhash":"87b669600b3830e6f405415f228af46c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092245069
         }
     ],
     "wof:id":1092245069,
-    "wof:lastmodified":1473984397,
+    "wof:lastmodified":1496901854,
     "wof:name":"Mathis Bernhard",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

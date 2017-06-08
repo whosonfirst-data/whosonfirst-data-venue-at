@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0996809006,47.6897926331,13.0996809006,47.6897926331",
     "geom:latitude":47.689793,
     "geom:longitude":13.099681,
@@ -23,17 +24,34 @@
     "sg:postcode":"5400",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837091,
+        85632785,
+        101834319,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OF2OJKO5R84w8zNrQk0Ae_47.689793_13.099681@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913403,
-    "wof:geomhash":"4d3fd6c486103bd400670a1358fa48cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bb75cda66d41708a4cb0defbfa7502c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837091,
+            "locality_id":101834319,
+            "region_id":85681681,
+            "venue_id":1092378893
+        }
+    ],
     "wof:id":1092378893,
-    "wof:lastmodified":1473985284,
+    "wof:lastmodified":1496895028,
     "wof:name":"Am Almbach Physiotherapie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

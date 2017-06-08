@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9061203003,48.4302978516,13.9061203003,48.4302978516",
     "geom:latitude":48.430298,
     "geom:longitude":13.90612,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835043,
+        85632785,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44YdmZQntpcgmfZs2tVJH1_48.430298_13.906120@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892740,
-    "wof:geomhash":"dc797f16bc7e7b06d790cb68eb4938be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb8ba097aa6b315d0f19d6cd775147c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835043,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091913911
+        }
+    ],
     "wof:id":1091913911,
-    "wof:lastmodified":1473983807,
+    "wof:lastmodified":1496884317,
     "wof:name":"Huemer Lothar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1962375641,47.319229126,13.1962375641,47.319229126",
     "geom:latitude":47.319229,
     "geom:longitude":13.196238,
@@ -23,17 +24,33 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gKfjx47rXgvBCOwZgZNYV_47.319229_13.196238@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889061,
-    "wof:geomhash":"b2ec3ffe405f0067bea247be5e443d18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0db26975c06dce76b4585c775375397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091835565
+        }
+    ],
     "wof:id":1091835565,
-    "wof:lastmodified":1473984395,
+    "wof:lastmodified":1496894091,
     "wof:name":"Bankomat d Raiffeisenkasse St Johann im Pongau regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7242174149,48.6859664917,15.7242174149,48.6859664917",
     "geom:latitude":48.685966,
     "geom:longitude":15.724217,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"esterbauer.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836785,
+        85632785,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KzYN6nZdof0U9mN6aaR8R_48.685966_15.724217@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473898082,
-    "wof:geomhash":"a89533cbf557e1ed1caffd40d4c8024c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eec67502369a0f366cd1ee96ab35ac56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108836785,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092038831
+        }
+    ],
     "wof:id":1092038831,
-    "wof:lastmodified":1473984897,
+    "wof:lastmodified":1496892748,
     "wof:name":"Verlag Esterbauer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1008853912,47.4934768677,12.1008853912,47.4934768677",
     "geom:latitude":47.493477,
     "geom:longitude":12.100885,
@@ -31,17 +32,34 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837405,
+        85632785,
+        101787953,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OHJVI5pf2tfhGUmaSwdk6_47.493477_12.100885@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904167,
-    "wof:geomhash":"ac41b7e10b57771b1a1d1b3128f5c652",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4061e65a9b7a9e5c2343be107bfac3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837405,
+            "locality_id":101787953,
+            "region_id":85681661,
+            "venue_id":1092171023
+        }
+    ],
     "wof:id":1092171023,
-    "wof:lastmodified":1473983568,
+    "wof:lastmodified":1496899638,
     "wof:name":"Impuls Handels- & Leasing GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

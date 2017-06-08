@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2244644165,47.9448623657,13.2244644165,47.9448623657",
     "geom:latitude":47.944862,
     "geom:longitude":13.224464,
@@ -23,17 +24,34 @@
     "sg:postcode":"5202",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        101786779,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JmVexxRxpPoy6IbkpluKN_47.944862_13.224464@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888948,
-    "wof:geomhash":"c7cea26ec55bee8302493689f78a8174",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7886d4e9989d5586d214dc7455abec6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":101786779,
+            "region_id":85681681,
+            "venue_id":1091832845
+        }
+    ],
     "wof:id":1091832845,
-    "wof:lastmodified":1473983855,
+    "wof:lastmodified":1496895540,
     "wof:name":"Bankomat d Raifffeisenkasse K\u00f6stendorf-Neumarkt-Schleedorf regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

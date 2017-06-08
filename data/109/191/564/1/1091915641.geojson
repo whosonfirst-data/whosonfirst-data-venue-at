@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7136240005,47.3451271057,11.7136240005,47.3451271057",
     "geom:latitude":47.345127,
     "geom:longitude":11.713624,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ktRreQSCHRwcg6zPwX2Zb_47.345127_11.713624@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892815,
-    "wof:geomhash":"876f509cf7378298e80d4a9b45ccb966",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07f91cd21db5655ecdc62395d3c602bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1091915641
+        }
+    ],
     "wof:id":1091915641,
-    "wof:lastmodified":1473984039,
+    "wof:lastmodified":1496900161,
     "wof:name":"Softwarehouse Kaltenhauser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

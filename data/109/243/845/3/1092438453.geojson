@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1764583588,48.2072410583,16.1764583588,48.2072410583",
     "geom:latitude":48.207241,
     "geom:longitude":16.176458,
@@ -24,10 +25,13 @@
     "sg:website":"http://www.sportwetten.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916297,
-    "wof:geomhash":"15f97cfe5e9e5a810624bc2a61992c82",
+    "wof:geomhash":"7bf51e8fe06d44a015b35066b7b3959d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092438453
         }
     ],
     "wof:id":1092438453,
-    "wof:lastmodified":1473985139,
+    "wof:lastmodified":1496888171,
     "wof:name":"Sportwetten Wien West",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

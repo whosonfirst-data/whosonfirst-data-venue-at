@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3867263794,47.2584495544,11.3867263794,47.2584495544",
     "geom:latitude":47.25845,
     "geom:longitude":11.386726,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916407,
-    "wof:geomhash":"1e1d8a083d40dbd0bd306c2aca791828",
+    "wof:geomhash":"cd70be008a7a18a2abfcbec7b7476885",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092440913
         }
     ],
     "wof:id":1092440913,
-    "wof:lastmodified":1473983447,
+    "wof:lastmodified":1496899492,
     "wof:name":"Westfriedhof",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

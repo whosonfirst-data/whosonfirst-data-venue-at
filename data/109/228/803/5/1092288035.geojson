@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0417442322,48.1595001221,14.0417442322,48.1595001221",
     "geom:latitude":48.1595,
     "geom:longitude":14.041744,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rirIZ1phpL105cgTiCdFv_48.159500_14.041744@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909364,
-    "wof:geomhash":"83ad905217542ed077e611b7a32d4918",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b0a41e95077145a3da48a8e8b50e80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092288035
+        }
+    ],
     "wof:id":1092288035,
-    "wof:lastmodified":1473984995,
+    "wof:lastmodified":1496882010,
     "wof:name":"Bauunternehmung Rudolf Gerstl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

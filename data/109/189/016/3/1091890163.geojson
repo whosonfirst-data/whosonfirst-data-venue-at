@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.533041954,47.4711875916,12.533041954,47.4711875916",
     "geom:latitude":47.471188,
     "geom:longitude":12.533042,
@@ -23,17 +24,33 @@
     "sg:postcode":"6391",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837361,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zjBkucUNlTnGf56bn7cXj_47.471188_12.533042@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891647,
-    "wof:geomhash":"d31c31f0a2d33616774f9d4d1949fc9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ecd159f859856a2a635bb15293087e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837361,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091890163
+        }
+    ],
     "wof:id":1091890163,
-    "wof:lastmodified":1473983327,
+    "wof:lastmodified":1496897284,
     "wof:name":"Badezentrum Lauchsee Fieberbrunn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

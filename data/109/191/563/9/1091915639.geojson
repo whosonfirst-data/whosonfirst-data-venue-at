@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2546043396,47.1730957031,16.2546043396,47.1730957031",
     "geom:latitude":47.173096,
     "geom:longitude":16.254604,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838531,
+        85632785,
+        101787841,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zEblW0c6fmibslgAwIElc_47.173096_16.254604@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892815,
-    "wof:geomhash":"773616d29e5bb4c7f30fdd8c18295b53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2434dbb4b98ab5dc12458ecbf7193132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838531,
+            "locality_id":101787841,
+            "region_id":85681651,
+            "venue_id":1091915639
+        }
+    ],
     "wof:id":1091915639,
-    "wof:lastmodified":1473984013,
+    "wof:lastmodified":1496908382,
     "wof:name":"Softwareentwicklung Tonnhofer & Knor OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

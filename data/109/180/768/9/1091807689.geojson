@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3180627823,47.2523651123,15.3180627823,47.2523651123",
     "geom:latitude":47.252365,
     "geom:longitude":15.318063,
@@ -22,17 +23,33 @@
     "sg:postcode":"8130",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839203,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79fdO9Dexy9jlWFCRGlfPz_47.252365_15.318063@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473887809,
-    "wof:geomhash":"ae3bd44f388c84a879612b4bc3ae0468",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeb0d837b0cd5bc473f62d4f490325a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839203,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091807689
+        }
+    ],
     "wof:id":1091807689,
-    "wof:lastmodified":1473983968,
+    "wof:lastmodified":1496911880,
     "wof:name":"Sportverein Frohnleiten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

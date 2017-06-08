@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2494354248,48.1386413574,16.2494354248,48.1386413574",
     "geom:latitude":48.138641,
     "geom:longitude":16.249435,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907377,
-    "wof:geomhash":"cb7ef4a2bd9779b70a644540b2cc2961",
+    "wof:geomhash":"a9678518f8cd68ff6706571d7e4217e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092242305
         }
     ],
     "wof:id":1092242305,
-    "wof:lastmodified":1473983892,
+    "wof:lastmodified":1496902732,
     "wof:name":"Gass Andreas",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

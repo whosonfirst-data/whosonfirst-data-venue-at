@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8018360138,47.404876709,11.8018360138,47.404876709",
     "geom:latitude":47.404877,
     "geom:longitude":11.801836,
@@ -32,17 +33,34 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837717,
+        85632785,
+        101912331,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EqXfgPoI8HZIEO4VtXKNW_47.404877_11.801836@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905517,
-    "wof:geomhash":"3313b97de165da9e1739dfd0912b4a08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58924d0acac92d5d4b50944d737e35ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837717,
+            "locality_id":101912331,
+            "region_id":85681661,
+            "venue_id":1092201035
+        }
+    ],
     "wof:id":1092201035,
-    "wof:lastmodified":1473983505,
+    "wof:lastmodified":1496899745,
     "wof:name":"Johann Tusch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

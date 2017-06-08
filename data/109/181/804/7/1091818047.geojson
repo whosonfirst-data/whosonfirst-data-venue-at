@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.078578949,47.9681854248,13.078578949,47.9681854248",
     "geom:latitude":47.968185,
     "geom:longitude":13.078579,
@@ -22,17 +23,34 @@
     "sg:postcode":"5164",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837181,
+        85632785,
+        101785611,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UJB4SLlO56CFMvJteuZZm_47.968185_13.078579@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888271,
-    "wof:geomhash":"a9440122ce7b82db34334be8ac258832",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aaf6c7dd60b543a8ff7ab99155d0adf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837181,
+            "locality_id":101785611,
+            "region_id":85681681,
+            "venue_id":1091818047
+        }
+    ],
     "wof:id":1091818047,
-    "wof:lastmodified":1473985020,
+    "wof:lastmodified":1496895662,
     "wof:name":"Feuerwehr Seeham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

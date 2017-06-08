@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6741123199,47.3618392944,9.6741123199,47.3618392944",
     "geom:latitude":47.361839,
     "geom:longitude":9.674112,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ktTPRO0dfFqFRIvzMj8gH_47.361839_9.674112@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906545,
-    "wof:geomhash":"dc2cf009b4fb85756524d02d84b15c4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5cc35d02bb68cba504eb544473b72f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1092223307
+        }
+    ],
     "wof:id":1092223307,
-    "wof:lastmodified":1473984072,
+    "wof:lastmodified":1496901119,
     "wof:name":"West Taxi & Reisen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

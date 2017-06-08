@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0775756836,47.7884407043,13.0775756836,47.7884407043",
     "geom:latitude":47.788441,
     "geom:longitude":13.077576,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897303,
-    "wof:geomhash":"6c5cb071786adb493c901b7387828780",
+    "wof:geomhash":"b6f0105e9d15d504ba0050848ae64a0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092018827
         }
     ],
     "wof:id":1092018827,
-    "wof:lastmodified":1473984596,
+    "wof:lastmodified":1496922855,
     "wof:name":"Caritasverband d Erzdi\u00f6zese Salzburg - Caritas Bazar",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

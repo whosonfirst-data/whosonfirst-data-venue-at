@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4658594131,48.2181892395,14.4658594131,48.2181892395",
     "geom:latitude":48.218189,
     "geom:longitude":14.465859,
@@ -25,10 +26,12 @@
     "sg:website":"members.liwest.at/huber-enns",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900957,
-    "wof:geomhash":"dd72024a74b8d0d54fa5dc54ce70adf0",
+    "wof:geomhash":"39f7a8bf7605e29a842640ddbfbe57e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092102985
         }
     ],
     "wof:id":1092102985,
-    "wof:lastmodified":1473983886,
+    "wof:lastmodified":1496887078,
     "wof:name":"Hermann Huber GmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

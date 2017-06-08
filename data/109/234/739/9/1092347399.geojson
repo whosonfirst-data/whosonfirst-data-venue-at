@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.486579895,48.1419181824,13.486579895,48.1419181824",
     "geom:latitude":48.141918,
     "geom:longitude":13.48658,
@@ -29,17 +30,33 @@
         "motor-cars"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835675,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RBzTX3HydydqHjC8pKMYG_48.141918_13.486580@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911943,
-    "wof:geomhash":"334bc1037a2077570e345fe493773f4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccacb081c65953e121f1d5de4a2f29a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835675,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092347399
+        }
+    ],
     "wof:id":1092347399,
-    "wof:lastmodified":1473984769,
+    "wof:lastmodified":1496887846,
     "wof:name":"HANGLER FAHRZEUGBAU GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

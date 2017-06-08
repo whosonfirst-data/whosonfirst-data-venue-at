@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7985277176,47.2379302979,15.7985277176,47.2379302979",
     "geom:latitude":47.23793,
     "geom:longitude":15.798528,
@@ -31,17 +32,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839089,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SD9v7OYMTs5yNXvbbPDsT_47.237930_15.798528@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908474,
-    "wof:geomhash":"4dbc90b132f39df2d03cd3598227d90f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dace750c80b04f74db2a9810ddf0556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839089,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092267021
+        }
+    ],
     "wof:id":1092267021,
-    "wof:lastmodified":1473984663,
+    "wof:lastmodified":1496911298,
     "wof:name":"E-Werk Stubenberg reg.Gen.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

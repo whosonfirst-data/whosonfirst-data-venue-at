@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9679203033,46.870098114,12.9679203033,46.870098114",
     "geom:latitude":46.870098,
     "geom:longitude":12.96792,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838291,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JSsgN0PbodTUBk6W8t2LN_46.870098_12.967920@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911553,
-    "wof:geomhash":"22ced2033ba9ff8248dad856b3d23458",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1836a5f7cfc6eb4e90be2f2cb14f6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838291,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092338155
+        }
+    ],
     "wof:id":1092338155,
-    "wof:lastmodified":1473985258,
+    "wof:lastmodified":1496907035,
     "wof:name":"MASCHINEN STEINER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

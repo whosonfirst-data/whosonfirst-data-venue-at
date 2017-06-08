@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6167631149,48.4366378784,15.6167631149,48.4366378784",
     "geom:latitude":48.436638,
     "geom:longitude":15.616763,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"www.eichelmann.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836665,
+        85632785,
+        102049873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d2alaiaDtqomytbYy6iRg_48.436638_15.616763@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898886,
-    "wof:geomhash":"39dcf70de91f8bb88b65561c1b7416c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9572f5b248ef4f96deeaaf439911c2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049873,
+            "localadmin_id":1108836665,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092059659
+        }
+    ],
     "wof:id":1092059659,
-    "wof:lastmodified":1473985145,
+    "wof:lastmodified":1496892269,
     "wof:name":"Adolf Eichelmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

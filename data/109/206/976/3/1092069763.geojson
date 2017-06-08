@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6095399857,47.4872055054,12.6095399857,47.4872055054",
     "geom:latitude":47.487206,
     "geom:longitude":12.60954,
@@ -23,17 +24,33 @@
     "sg:postcode":"6395",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837339,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tY57PidWZsSVccrtpvyUT_47.487206_12.609540@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899300,
-    "wof:geomhash":"8afc64a5840612f9f4ca04363767272f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b36014ff49d2b45b1f8df8c0ad6433a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837339,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092069763
+        }
+    ],
     "wof:id":1092069763,
-    "wof:lastmodified":1473985113,
+    "wof:lastmodified":1496896976,
     "wof:name":"Gasthaus Wiesenseehof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

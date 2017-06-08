@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9971446991,47.8926010132,12.9971446991,47.8926010132",
     "geom:latitude":47.892601,
     "geom:longitude":12.997145,
@@ -28,17 +29,33 @@
     "sg:postcode":"5102",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837113,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_301otfolA3nXDRaGPD3d0N_47.892601_12.997145@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898400,
-    "wof:geomhash":"05e2614c025f032d3dacaf800e176d7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdaf59edf17d011442695c9cdc951b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837113,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092047105
+        }
+    ],
     "wof:id":1092047105,
-    "wof:lastmodified":1473984042,
+    "wof:lastmodified":1496895193,
     "wof:name":"Hotel im Wald Hammerschmiede",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

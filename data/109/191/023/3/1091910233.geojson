@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4597711563,48.2380447388,13.4597711563,48.2380447388",
     "geom:latitude":48.238045,
     "geom:longitude":13.459771,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.cool-shop.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835629,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RtS7uT3Afp0z5BHHvqJnJ_48.238045_13.459771@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892559,
-    "wof:geomhash":"2889868cfefd4b351dab5d9c3dfab1a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72cdce3140c93c9af028f818313b7b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835629,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091910233
+        }
+    ],
     "wof:id":1091910233,
-    "wof:lastmodified":1473983327,
+    "wof:lastmodified":1496887735,
     "wof:name":"Cool Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

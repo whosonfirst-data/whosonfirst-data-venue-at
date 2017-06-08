@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4241695404,48.154083252,16.4241695404,48.154083252",
     "geom:latitude":48.154083,
     "geom:longitude":16.42417,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906291,
-    "wof:geomhash":"05788d2a39eedc09eee029e2490d3f0a",
+    "wof:geomhash":"1df605d16f618e8ffc0dff7b34d15483",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092217205
         }
     ],
     "wof:id":1092217205,
-    "wof:lastmodified":1473984843,
+    "wof:lastmodified":1496902103,
     "wof:name":"Shell Austria GmbH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

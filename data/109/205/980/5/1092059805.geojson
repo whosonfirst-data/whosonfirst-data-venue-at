@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7159900665,47.368183136,11.7159900665,47.368183136",
     "geom:latitude":47.368183,
     "geom:longitude":11.71599,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837649,
+        85632785,
+        101834267,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f4jL7pw8YDqlFobEK6GTb_47.368183_11.715990@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898891,
-    "wof:geomhash":"1f7628e655cf66ea65c0cbde0338fe55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87d446e5ba7993af080c1a64fd5558d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837649,
+            "locality_id":101834267,
+            "region_id":85681661,
+            "venue_id":1092059805
+        }
+    ],
     "wof:id":1092059805,
-    "wof:lastmodified":1473985198,
+    "wof:lastmodified":1496898986,
     "wof:name":"Erich Keck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

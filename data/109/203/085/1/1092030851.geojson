@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5183067322,47.4943733215,12.5183067322,47.4943733215",
     "geom:latitude":47.494373,
     "geom:longitude":12.518307,
@@ -23,17 +24,33 @@
     "sg:postcode":"6391",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837361,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yCriLcM36NLxsm02VMgor_47.494373_12.518307@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897755,
-    "wof:geomhash":"6621dbe67a1d2b27746e436731a1af64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5b2d0e0ea48a9d928f52a980bd4672f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837361,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092030851
+        }
+    ],
     "wof:id":1092030851,
-    "wof:lastmodified":1473983474,
+    "wof:lastmodified":1496897272,
     "wof:name":"fact Stefan Oberleiter KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

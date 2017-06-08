@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2369756699,47.9486351013,13.2369756699,47.9486351013",
     "geom:latitude":47.948635,
     "geom:longitude":13.236976,
@@ -23,17 +24,34 @@
     "sg:postcode":"5202",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        101786779,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26zsjgxxKTIRtuhMov7Vyx_47.948635_13.236976@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917009,
-    "wof:geomhash":"f1e1fc92052f0ebcc825d7ebd7197b8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fc020131eb055cefe67457fb5c0ff05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":101786779,
+            "region_id":85681681,
+            "venue_id":1092453965
+        }
+    ],
     "wof:id":1092453965,
-    "wof:lastmodified":1473983443,
+    "wof:lastmodified":1496895517,
     "wof:name":"BUS Wesser GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

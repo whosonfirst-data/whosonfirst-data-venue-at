@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7406368256,47.6515350342,13.7406368256,47.6515350342",
     "geom:latitude":47.651535,
     "geom:longitude":13.740637,
@@ -23,17 +24,33 @@
     "sg:postcode":"8992",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838971,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0blcj5xy029TLWUNTmKPoW_47.651535_13.740637@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913243,
-    "wof:geomhash":"21cccbb1650f11df4d1badf7e825d2bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19e9473ba93a8fb722eba597558d5f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838971,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092375183
+        }
+    ],
     "wof:id":1092375183,
-    "wof:lastmodified":1473984519,
+    "wof:lastmodified":1496910593,
     "wof:name":"Villa Eltz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

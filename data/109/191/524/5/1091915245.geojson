@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0407123566,47.979057312,16.0407123566,47.979057312",
     "geom:latitude":47.979057,
     "geom:longitude":16.040712,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836187,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QjsNqwLhquVjYE9XsNbWm_47.979057_16.040712@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892800,
-    "wof:geomhash":"7d30c4d519dfe86c0a49443570ebdbc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03f85685635b7d1acee320ab4b7927b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836187,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091915245
+        }
+    ],
     "wof:id":1091915245,
-    "wof:lastmodified":1473983987,
+    "wof:lastmodified":1496889932,
     "wof:name":"RT - Computertechnik Ing Robert Totz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

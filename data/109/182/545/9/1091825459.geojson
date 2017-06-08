@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1902256012,47.3592758179,10.1902256012,47.3592758179",
     "geom:latitude":47.359276,
     "geom:longitude":10.190226,
@@ -23,17 +24,34 @@
     "sg:postcode":"6991",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101827491,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cITOGqXN9nKESiUtNApqU_47.359276_10.190226@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888588,
-    "wof:geomhash":"30cd166ec5e9a91a41d9e0b67632ef6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78e9b1e9809fd08de4f141a4e2a78306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101827491,
+            "region_id":85681649,
+            "venue_id":1091825459
+        }
+    ],
     "wof:id":1091825459,
-    "wof:lastmodified":1473984733,
+    "wof:lastmodified":1496901573,
     "wof:name":"Dornbirner Sparkasse Bank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

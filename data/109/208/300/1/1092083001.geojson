@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5172357559,47.0074081421,12.5172357559,47.0074081421",
     "geom:latitude":47.007408,
     "geom:longitude":12.517236,
@@ -23,17 +24,33 @@
     "sg:postcode":"9971",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837513,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZWGLZmMK9T6hCxqayztfS_47.007408_12.517236@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899895,
-    "wof:geomhash":"26a7a89f78f569cd4d5b4caf324a1258",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f8c8b7d828078903a910ab6f77c7c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837513,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092083001
+        }
+    ],
     "wof:id":1092083001,
-    "wof:lastmodified":1473984021,
+    "wof:lastmodified":1496898240,
     "wof:name":"Strumerhof Berggasthaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3034305573,48.4624252319,16.3034305573,48.4624252319",
     "geom:latitude":48.462425,
     "geom:longitude":16.303431,
@@ -22,17 +23,33 @@
     "sg:postcode":"2004",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836823,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sKcIWOB2dj5hmP8YvhEbx_48.462425_16.303431@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473888013,
-    "wof:geomhash":"615f24892037242cd20d532248a5d78e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d14d81a5f35f89d58c7c81ba4a29abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836823,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091812259
+        }
+    ],
     "wof:id":1091812259,
-    "wof:lastmodified":1473983790,
+    "wof:lastmodified":1496892965,
     "wof:name":"Schlo\u00df Niederfellabrunn Veranstalter f\u00fcr Kammermusikkonzerten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

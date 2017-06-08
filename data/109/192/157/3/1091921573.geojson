@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8192644119,46.5654945374,13.8192644119,46.5654945374",
     "geom:latitude":46.565495,
     "geom:longitude":13.819264,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893053,
-    "wof:geomhash":"889f51872a2470f99839f72e222ba1e7",
+    "wof:geomhash":"1277a16db5a639adfe7d8db99c48e432",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091921573
         }
     ],
     "wof:id":1091921573,
-    "wof:lastmodified":1473983635,
+    "wof:lastmodified":1496907390,
     "wof:name":"ETT East Trans Trade SpeditionsgmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

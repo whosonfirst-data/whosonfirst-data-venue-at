@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6786813736,48.5565567017,15.6786813736,48.5565567017",
     "geom:latitude":48.556557,
     "geom:longitude":15.678681,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834907,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cxYMafAO7hjdKrgvepEDZ_48.556557_15.678681@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906520,
-    "wof:geomhash":"62687a5e3a15871f73d4a69fb584cf62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7408697a56e48078834c1b15d4487dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108834907,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092222739
+        }
+    ],
     "wof:id":1092222739,
-    "wof:lastmodified":1473983994,
+    "wof:lastmodified":1496883494,
     "wof:name":"Taxi Niedzballa KEG - Patiententransporte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

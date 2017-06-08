@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6644077301,47.4491043091,9.6644077301,47.4491043091",
     "geom:latitude":47.449104,
     "geom:longitude":9.664408,
@@ -31,17 +32,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E79Ik8jEUi0qjKyr0PxVH_47.449104_9.664408@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890473,
-    "wof:geomhash":"e7cf7965a903689098b4ff63df603c4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ec06151334c10f05d1fa457baf3ba4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091865755
+        }
+    ],
     "wof:id":1091865755,
-    "wof:lastmodified":1473984715,
+    "wof:lastmodified":1496901415,
     "wof:name":"Reinis Bike-Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9276542664,47.1393241882,10.9276542664,47.1393241882",
     "geom:latitude":47.139324,
     "geom:longitude":10.927654,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.tirol.com/hotel-johanna",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837455,
+        85632785,
+        101789049,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l95OrUZfBaVu5QkS1RaYz_47.139324_10.927654@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894837,
-    "wof:geomhash":"c272fb4d2e0b25290be67f2eac3e9514",
-    "wof:hierarchy":[],
+    "wof:geomhash":"899ddbdb635e5a660d6bda35377b4033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837455,
+            "locality_id":101789049,
+            "region_id":85681661,
+            "venue_id":1091960367
+        }
+    ],
     "wof:id":1091960367,
-    "wof:lastmodified":1473983362,
+    "wof:lastmodified":1496897985,
     "wof:name":"Hotel Johanna Umhausen \u00d6tztal Tirol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

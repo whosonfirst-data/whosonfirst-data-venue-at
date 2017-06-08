@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7482528687,47.0727424622,9.7482528687,47.0727424622",
     "geom:latitude":47.072742,
     "geom:longitude":9.748253,
@@ -23,17 +24,33 @@
     "sg:postcode":"6708",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837909,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11ccS44HZhNXMMqhNkMr9L_47.072742_9.748253@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890113,
-    "wof:geomhash":"a7acc06a52af9c89af925798a53aab21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85ec61fe60bc3e61f97d6ab0664fc479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837909,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091858341
+        }
+    ],
     "wof:id":1091858341,
-    "wof:lastmodified":1473984868,
+    "wof:lastmodified":1496900662,
     "wof:name":"L\u00fcnerseebahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

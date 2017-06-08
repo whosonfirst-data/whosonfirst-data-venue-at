@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5760202408,48.4384689331,15.5760202408,48.4384689331",
     "geom:latitude":48.438469,
     "geom:longitude":15.57602,
@@ -31,17 +32,33 @@
     ],
     "sg:website":"penn.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835443,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UH8dDLJ1OkbRZSsDYoxcd_48.438469_15.576020@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890018,
-    "wof:geomhash":"16ea5e05b6ba740024d6b938fa9a2eba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbb773ce8be6745d2a8dcc3d6ce0121d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835443,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091856461
+        }
+    ],
     "wof:id":1091856461,
-    "wof:lastmodified":1473984478,
+    "wof:lastmodified":1496886648,
     "wof:name":"Penn Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

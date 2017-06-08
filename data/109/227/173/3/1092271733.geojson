@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4511566162,47.7633781433,16.4511566162,47.7633781433",
     "geom:latitude":47.763378,
     "geom:longitude":16.451157,
@@ -23,17 +24,33 @@
     "sg:postcode":"7023",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838585,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D43SEPpLwb2Yya3dwF18M_47.763378_16.451157@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908671,
-    "wof:geomhash":"47eb8a93d85c7ead2e4ee6740ea9a9d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf6549d652493f622bfd0928841918d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838585,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092271733
+        }
+    ],
     "wof:id":1092271733,
-    "wof:lastmodified":1473983834,
+    "wof:lastmodified":1496908571,
     "wof:name":"Elektro Schachinger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

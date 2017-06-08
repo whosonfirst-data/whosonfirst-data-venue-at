@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.444393158,47.9778594971,16.444393158,47.9778594971",
     "geom:latitude":47.977859,
     "geom:longitude":16.444393,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835383,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AQuP7XmgciwLl8gCUmDKE_47.977859_16.444393@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892656,
-    "wof:geomhash":"23f64231cb1c28183a291304e0c71b13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d41a5aa28aaec9428653731197be5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835383,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091912487
+        }
+    ],
     "wof:id":1091912487,
-    "wof:lastmodified":1473983539,
+    "wof:lastmodified":1496886433,
     "wof:name":"ASP Software GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

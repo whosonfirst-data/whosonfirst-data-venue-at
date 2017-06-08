@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5941095352,48.2923965454,15.5941095352,48.2923965454",
     "geom:latitude":48.292397,
     "geom:longitude":15.59411,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834925,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NU2h8L3yVTSurMAPqx54d_48.292397_15.594110@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895400,
-    "wof:geomhash":"42ee0e0947addca5a14b794df4547294",
-    "wof:hierarchy":[],
+    "wof:geomhash":"593cd4491746f8be3d25b5079e9512f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834925,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091973741
+        }
+    ],
     "wof:id":1091973741,
-    "wof:lastmodified":1473984162,
+    "wof:lastmodified":1496883584,
     "wof:name":"INTERTRANS PARSCH GESMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

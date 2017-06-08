@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1449184418,46.9398574829,16.1449184418,46.9398574829",
     "geom:latitude":46.939857,
     "geom:longitude":16.144918,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"kelemen.co.at; wt-kelemen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838611,
+        85632785,
+        101789003,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68Cv6OoGdW1wVDCNsw86JJ_46.939857_16.144918@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473893807,
-    "wof:geomhash":"b7e4449bf7cda025911fdec2c29b23ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fbff5f835a7f27037533724935d2b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838611,
+            "locality_id":101789003,
+            "region_id":85681651,
+            "venue_id":1091936975
+        }
+    ],
     "wof:id":1091936975,
-    "wof:lastmodified":1473984704,
+    "wof:lastmodified":1496908702,
     "wof:name":"Kelemen & Kelemen Treuhand KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

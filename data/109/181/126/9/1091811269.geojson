@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5235071182,46.780254364,15.5235071182,46.780254364",
     "geom:latitude":46.780254,
     "geom:longitude":15.523507,
@@ -22,17 +23,33 @@
     "sg:postcode":"8430",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839045,
+        85632785,
+        102049699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YipHCfDDqhKFKQWQLMYJy_46.780254_15.523507@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473887968,
-    "wof:geomhash":"df9e44eb6c747f0fdc832cab6e51c817",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c5c2ec30f29c18a4aa29256b39cfd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839045,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091811269
+        }
+    ],
     "wof:id":1091811269,
-    "wof:lastmodified":1473983578,
+    "wof:lastmodified":1496911064,
     "wof:name":"Sulmsee-Seegasthaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5896539688,47.157623291,10.5896539688,47.157623291",
     "geom:latitude":47.157623,
     "geom:longitude":10.589654,
@@ -23,17 +24,34 @@
     "sg:postcode":"6511",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837325,
+        85632785,
+        101788997,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DaIAyHhr8t7euHP9D6JLk_47.157623_10.589654@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899783,
-    "wof:geomhash":"fc013e7539165f198906dc88b4a4323e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b09ebd200c1e8319efc8673bd5fbf508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837325,
+            "locality_id":101788997,
+            "region_id":85681661,
+            "venue_id":1092080383
+        }
+    ],
     "wof:id":1092080383,
-    "wof:lastmodified":1473983385,
+    "wof:lastmodified":1496898056,
     "wof:name":"Postgasthof Gemse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

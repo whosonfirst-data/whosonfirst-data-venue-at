@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7953643799,47.759979248,16.7953643799,47.759979248",
     "geom:latitude":47.759979,
     "geom:longitude":16.795364,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838513,
+        85632785,
+        101786825,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52rkK8efY02sDBgFzwhzaS_47.759979_16.795364@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906533,
-    "wof:geomhash":"35dcf19bb7b6490979f307fa4c3d67f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f069622df03b475ffe36a9d3edb97fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838513,
+            "locality_id":101786825,
+            "region_id":85681651,
+            "venue_id":1092222987
+        }
+    ],
     "wof:id":1092222987,
-    "wof:lastmodified":1473984041,
+    "wof:lastmodified":1496908316,
     "wof:name":"Taxi-Alex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

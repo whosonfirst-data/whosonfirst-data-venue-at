@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5431032181,48.1841163635,14.5431032181,48.1841163635",
     "geom:latitude":48.184116,
     "geom:longitude":14.543103,
@@ -32,17 +33,33 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835825,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27WpPZFCBim65yMyzgkX7Z_48.184116_14.543103@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473909873,
-    "wof:geomhash":"af720e31051eab16d8fcda3ec41829be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dfce7beb31c000b6b4567401e3ba5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835825,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092299941
+        }
+    ],
     "wof:id":1092299941,
-    "wof:lastmodified":1473985274,
+    "wof:lastmodified":1496888541,
     "wof:name":"Luis Paterno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

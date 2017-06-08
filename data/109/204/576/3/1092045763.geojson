@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7671823502,47.2727890015,12.7671823502,47.2727890015",
     "geom:latitude":47.272789,
     "geom:longitude":12.767182,
@@ -28,17 +29,34 @@
     "sg:postcode":"5710",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        101789131,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QAx0U8blJNdrfKzzR9OS6_47.272789_12.767182@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898346,
-    "wof:geomhash":"e344f400fcea49c5af5d54135b8483eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eca7fc16423338fef9fb02062badda1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":101789131,
+            "region_id":85681681,
+            "venue_id":1092045763
+        }
+    ],
     "wof:id":1092045763,
-    "wof:lastmodified":1473983838,
+    "wof:lastmodified":1496895958,
     "wof:name":"Hotel Antonius",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8093309402,46.5670661926,13.8093309402,46.5670661926",
     "geom:latitude":46.567066,
     "geom:longitude":13.809331,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901440,
-    "wof:geomhash":"d3d6e37e6a06b6fa8fb5e68dd9fd5839",
+    "wof:geomhash":"315b7c6453716424ee48998df523b682",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092113183
         }
     ],
     "wof:id":1092113183,
-    "wof:lastmodified":1473984001,
+    "wof:lastmodified":1496907396,
     "wof:name":"Zollamt Villach",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7087059021,47.1894493103,9.7087059021,47.1894493103",
     "geom:latitude":47.189449,
     "geom:longitude":9.708706,
@@ -33,17 +34,34 @@
         "kaffeemaschinen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838015,
+        85632785,
+        101841961,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gw5ROzavT9dfPu2V9fCOY_47.189449_9.708706@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909143,
-    "wof:geomhash":"81d9f0d827073db58097c67dbf6bc093",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef31b4e324f7264d183c21f1ad208069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838015,
+            "locality_id":101841961,
+            "region_id":85681649,
+            "venue_id":1092282523
+        }
+    ],
     "wof:id":1092282523,
-    "wof:lastmodified":1473983762,
+    "wof:lastmodified":1496901589,
     "wof:name":"Meyer Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

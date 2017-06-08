@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0813655853,47.7533340454,13.0813655853,47.7533340454",
     "geom:latitude":47.753334,
     "geom:longitude":13.081366,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889639,
-    "wof:geomhash":"b09746c67164a84c6f4ec907dda2767c",
+    "wof:geomhash":"a4ed84b56b0d23199278b3bd71a81bd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1091848369
         }
     ],
     "wof:id":1091848369,
-    "wof:lastmodified":1473985015,
+    "wof:lastmodified":1496895283,
     "wof:name":"HAL Bau GesmbH",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

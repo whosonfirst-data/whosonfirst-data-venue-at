@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.126701355,47.1626243591,16.126701355,47.1626243591",
     "geom:latitude":47.162624,
     "geom:longitude":16.126701,
@@ -32,17 +33,33 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838641,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05eIasbjFVPmKqXYrRbVcb_47.162624_16.126701@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905414,
-    "wof:geomhash":"0c9cf04c25c4525282df8d26166ea6d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"050255fe83f32c35d8120109def8164c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838641,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092199249
+        }
+    ],
     "wof:id":1092199249,
-    "wof:lastmodified":1473985297,
+    "wof:lastmodified":1496908960,
     "wof:name":"Alfred Schwarz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

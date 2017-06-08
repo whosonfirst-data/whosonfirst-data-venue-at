@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4056749344,47.2304916382,11.4056749344,47.2304916382",
     "geom:latitude":47.230492,
     "geom:longitude":11.405675,
@@ -25,10 +26,13 @@
     "sg:website":"luckyghost.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898885,
-    "wof:geomhash":"4716d6cf50fc62539c546f79c6ae3c1a",
+    "wof:geomhash":"bfad4462e11a0598cde35cab2158d0ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092059637
         }
     ],
     "wof:id":1092059637,
-    "wof:lastmodified":1473985141,
+    "wof:lastmodified":1496899317,
     "wof:name":"Lucky Ghost Dienstleistungszentrale",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

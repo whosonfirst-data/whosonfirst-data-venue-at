@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2003650665,47.2914962769,16.2003650665,47.2914962769",
     "geom:latitude":47.291496,
     "geom:longitude":16.200365,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"www.osg.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838461,
+        85632785,
+        101787889,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ERa3n2YXCTHouTVA8RE5l_47.291496_16.200365@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900315,
-    "wof:geomhash":"8c4335c9a9f15ba1971410f8e1e7f211",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10b39accf2156daaef399bf9d5fd344d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838461,
+            "locality_id":101787889,
+            "region_id":85681651,
+            "venue_id":1092091497
+        }
+    ],
     "wof:id":1092091497,
-    "wof:lastmodified":1473983514,
+    "wof:lastmodified":1496908004,
     "wof:name":"OSG Oberwarter gemeinn Bau- Wohn- und Siedlungsgen regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

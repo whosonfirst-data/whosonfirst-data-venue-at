@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1416511536,48.4011917114,16.1416511536,48.4011917114",
     "geom:latitude":48.401192,
     "geom:longitude":16.141651,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"beck-tiernahrung.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836367,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QHJ1EUIbVpDXOsbL8FsXF_48.401192_16.141651@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905418,
-    "wof:geomhash":"90dac3f7b84dd9097efc1d4b9566c925",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8162904cc3bfb4dead1f01764f9ac4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836367,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092199339
+        }
+    ],
     "wof:id":1092199339,
-    "wof:lastmodified":1473985300,
+    "wof:lastmodified":1496890761,
     "wof:name":"Maria Beck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

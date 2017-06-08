@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4975099564,47.1101570129,15.4975099564,47.1101570129",
     "geom:latitude":47.110157,
     "geom:longitude":15.49751,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903989,
-    "wof:geomhash":"76d5b639c71a9d7ce517b1307c75fb72",
+    "wof:geomhash":"e5a78859dd68e869c9e59cf0330bc71c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092167389
         }
     ],
     "wof:id":1092167389,
-    "wof:lastmodified":1473984921,
+    "wof:lastmodified":1496913190,
     "wof:name":"Hierzer Helmuth Mag",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8083200455,48.2056083679,13.8083200455,48.2056083679",
     "geom:latitude":48.205608,
     "geom:longitude":13.80832,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        101784571,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ox6hDpcrS1JuMJvH7Mh60_48.205608_13.808320@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892710,
-    "wof:geomhash":"91ef3f2e0c34f81306e20798219457d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2fd703fddda5e0a72c9b09739cdb369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":101784571,
+            "region_id":85681677,
+            "venue_id":1091913343
+        }
+    ],
     "wof:id":1091913343,
-    "wof:lastmodified":1473983708,
+    "wof:lastmodified":1496885293,
     "wof:name":"EDV-Systeme Ecker Gerhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2543907166,46.928440094,15.2543907166,46.928440094",
     "geom:latitude":46.92844,
     "geom:longitude":15.254391,
@@ -23,17 +24,33 @@
     "sg:postcode":"8511",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839279,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Fya5niB8QR3Vhejm5M524_46.928440_15.254391@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889259,
-    "wof:geomhash":"77fd5ca890282e4c8412f0bbbed6ac8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"670e480b5d0628ea65ae26d36eb5501d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839279,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091839723
+        }
+    ],
     "wof:id":1091839723,
-    "wof:lastmodified":1473985308,
+    "wof:lastmodified":1496912483,
     "wof:name":"DPS Baumanagement GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

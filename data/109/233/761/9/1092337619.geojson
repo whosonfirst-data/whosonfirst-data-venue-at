@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1339454651,47.6126594543,16.1339454651,47.6126594543",
     "geom:latitude":47.612659,
     "geom:longitude":16.133945,
@@ -34,17 +35,33 @@
         "measurement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835293,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XTemW9yOS8zjSqESsef0Y_47.612659_16.133945@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911527,
-    "wof:geomhash":"dde9d4483c163510b29eea34f48091b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d967573b3b873aa27c5fcdcb553998e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835293,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092337619
+        }
+    ],
     "wof:id":1092337619,
-    "wof:lastmodified":1473985214,
+    "wof:lastmodified":1496885922,
     "wof:name":"EVN EDLITZ AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

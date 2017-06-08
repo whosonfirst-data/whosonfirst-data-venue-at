@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1203336716,47.1435279846,13.1203336716,47.1435279846",
     "geom:latitude":47.143528,
     "geom:longitude":13.120334,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"bertahof.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iZ7w5dLlZzYC5MhmwguVt_47.143528_13.120334@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905303,
-    "wof:geomhash":"c8991cc480bcd7974afbb01224e811c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83e0c51ef5a5f8267d9cc4c928943bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092196469
+        }
+    ],
     "wof:id":1092196469,
-    "wof:lastmodified":1473984750,
+    "wof:lastmodified":1496893719,
     "wof:name":"Bertahof Camping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

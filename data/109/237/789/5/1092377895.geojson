@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5959348679,48.5028381348,14.5959348679,48.5028381348",
     "geom:latitude":48.502838,
     "geom:longitude":14.595935,
@@ -32,17 +33,34 @@
         "providing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835099,
+        85632785,
+        101843335,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PjEw22Kn6kDXp3o7tKpix_48.502838_14.595935@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913361,
-    "wof:geomhash":"c809f109c2db2e69b6168f25bf0227ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45ba8e40ac5742236a72257f6be84a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835099,
+            "locality_id":101843335,
+            "region_id":85681677,
+            "venue_id":1092377895
+        }
+    ],
     "wof:id":1092377895,
-    "wof:lastmodified":1473985175,
+    "wof:lastmodified":1496884570,
     "wof:name":"Josef Hayder Industrieanlagen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

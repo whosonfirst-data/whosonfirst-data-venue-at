@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.609957695,47.9763374329,13.609957695,47.9763374329",
     "geom:latitude":47.976337,
     "geom:longitude":13.609958,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836447,
+        85632785,
+        101833163,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aGJUtLwiybPWfl2CS2FiN_47.976337_13.609958@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895396,
-    "wof:geomhash":"c751d2fb8f49a28a30f475a07041288c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"439a3dd174409e8ed340164f50fc87a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836447,
+            "locality_id":101833163,
+            "region_id":85681677,
+            "venue_id":1091973637
+        }
+    ],
     "wof:id":1091973637,
-    "wof:lastmodified":1473984128,
+    "wof:lastmodified":1496891104,
     "wof:name":"FRITZ NEUDORFER KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

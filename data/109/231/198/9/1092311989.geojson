@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6375226974,47.2797012329,9.6375226974,47.2797012329",
     "geom:latitude":47.279701,
     "geom:longitude":9.637523,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910460,
-    "wof:geomhash":"77d908bd6ce2edfd90d91b1ce618a138",
+    "wof:geomhash":"e5b2f639cc5fff391828bcf821ec741c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092311989
         }
     ],
     "wof:id":1092311989,
-    "wof:lastmodified":1473983831,
+    "wof:lastmodified":1496901655,
     "wof:name":"D\u00fcnser Helmut",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

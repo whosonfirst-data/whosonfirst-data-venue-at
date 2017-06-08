@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6543245316,47.4310646057,9.6543245316,47.4310646057",
     "geom:latitude":47.431065,
     "geom:longitude":9.654325,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3npIvlxq7DxXgC5AIb6Ss7_47.431065_9.654325@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892673,
-    "wof:geomhash":"819ea0eb646e2e16718c9f71469fbe37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ce3e1a4fa1e7cc0b72f7905cc9eed3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091912729
+        }
+    ],
     "wof:id":1091912729,
-    "wof:lastmodified":1473983598,
+    "wof:lastmodified":1496901367,
     "wof:name":"Butterweck KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

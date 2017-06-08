@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8806524277,46.5620727539,13.8806524277,46.5620727539",
     "geom:latitude":46.562073,
     "geom:longitude":13.880652,
@@ -31,17 +32,33 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838339,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T90DPJD8aVGUa1upVeELD_46.562073_13.880652@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891189,
-    "wof:geomhash":"9f7450cbd2d52ed9a07e6c8d0aa9e3c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed809ac9195a79fbe2e3d6f906ec0165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091881227
+        }
+    ],
     "wof:id":1091881227,
-    "wof:lastmodified":1473983651,
+    "wof:lastmodified":1496907379,
     "wof:name":"Sacherer Bauges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3804683685,47.2027893066,11.3804683685,47.2027893066",
     "geom:latitude":47.202789,
     "geom:longitude":11.380468,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913080,
-    "wof:geomhash":"5c92ca0c070d6ebb6c2fa83c07ce43c0",
+    "wof:geomhash":"2624eeb29254772b2dde414dc62a1987",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092371327
         }
     ],
     "wof:id":1092371327,
-    "wof:lastmodified":1473983655,
+    "wof:lastmodified":1496898473,
     "wof:name":"Pension Loipe",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

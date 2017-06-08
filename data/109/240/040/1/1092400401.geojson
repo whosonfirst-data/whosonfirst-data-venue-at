@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0792369843,47.9980010986,13.0792369843,47.9980010986",
     "geom:latitude":47.998001,
     "geom:longitude":13.079237,
@@ -23,17 +24,33 @@
     "sg:postcode":"5165",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837117,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5doh3ZgGVACr6bzhXKWPR9_47.998001_13.079237@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914432,
-    "wof:geomhash":"e301a90dbd318810cd6693da638f9cd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85bff9e1d5b72a8dec02c5ed35462528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837117,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092400401
+        }
+    ],
     "wof:id":1092400401,
-    "wof:lastmodified":1473983417,
+    "wof:lastmodified":1496895229,
     "wof:name":"Paulus Brigitte Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

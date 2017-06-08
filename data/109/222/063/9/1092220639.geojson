@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2720966339,48.1592216492,16.2720966339,48.1592216492",
     "geom:latitude":48.159222,
     "geom:longitude":16.272097,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906427,
-    "wof:geomhash":"91521df9d6d22f60ea3b2d198f8cdf47",
+    "wof:geomhash":"725d65ee490ec8d58690f4c06b01a966",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092220639
         }
     ],
     "wof:id":1092220639,
-    "wof:lastmodified":1473983469,
+    "wof:lastmodified":1496902998,
     "wof:name":"Gerzabek Christian",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

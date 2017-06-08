@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.38306427,47.2388572693,11.38306427,47.2388572693",
     "geom:latitude":47.238857,
     "geom:longitude":11.383064,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897815,
-    "wof:geomhash":"00631d50fc5f97764b1d3b5be902b87e",
+    "wof:geomhash":"3bea1269601d0ab3e484f8d9d3e35d5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092032187
         }
     ],
     "wof:id":1092032187,
-    "wof:lastmodified":1473983724,
+    "wof:lastmodified":1496898476,
     "wof:name":"Monschein Magdalena",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

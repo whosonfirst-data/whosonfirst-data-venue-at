@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.034497261,48.2573928833,13.034497261,48.2573928833",
     "geom:latitude":48.257393,
     "geom:longitude":13.034497,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        101913421,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NdFFH9O12qKe1sEnsz3NU_48.257393_13.034497@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913656,
-    "wof:geomhash":"071bbb5ac7485eedf96f3255af4626c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b09ad6627b2f3d88853530bf1a7e968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":101913421,
+            "region_id":85681677,
+            "venue_id":1092384467
+        }
+    ],
     "wof:id":1092384467,
-    "wof:lastmodified":1473984391,
+    "wof:lastmodified":1496882255,
     "wof:name":"Restaurant Pizzeria Italia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

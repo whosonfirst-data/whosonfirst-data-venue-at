@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3756027222,47.4623756409,12.3756027222,47.4623756409",
     "geom:latitude":47.462376,
     "geom:longitude":12.375603,
@@ -31,17 +32,33 @@
         "yoga"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78FdkeARfvkFz7ZbJz2htx_47.462376_12.375603@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901152,
-    "wof:geomhash":"df57176ee10655778559954d4b4c1e51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3a532e9731763e434846ffd73e32bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092107081
+        }
+    ],
     "wof:id":1092107081,
-    "wof:lastmodified":1473984708,
+    "wof:lastmodified":1496897181,
     "wof:name":"Sivananda Yoga Seminarhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

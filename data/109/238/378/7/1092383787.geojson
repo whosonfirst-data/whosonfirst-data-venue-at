@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6833152771,47.1845550537,14.6833152771,47.1845550537",
     "geom:latitude":47.184555,
     "geom:longitude":14.683315,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839395,
+        85632785,
+        101834249,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LBHDfQK2uu4It7lNxClrk_47.184555_14.683315@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913630,
-    "wof:geomhash":"bcdcbe7724e1cb4ffb2bb6c3d70d347f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65570e74334a10da483d05648d7eb7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839395,
+            "locality_id":101834249,
+            "region_id":85681687,
+            "venue_id":1092383787
+        }
+    ],
     "wof:id":1092383787,
-    "wof:lastmodified":1473984175,
+    "wof:lastmodified":1496913902,
     "wof:name":"Pizzeria Pepperoni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1971549988,48.2076377869,16.1971549988,48.2076377869",
     "geom:latitude":48.207638,
     "geom:longitude":16.197155,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889492,
-    "wof:geomhash":"bfeb284a619c3937c8baf3d6902292d8",
+    "wof:geomhash":"538964190247f7e0dff05150e248ecf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1091845411
         }
     ],
     "wof:id":1091845411,
-    "wof:lastmodified":1473984302,
+    "wof:lastmodified":1496888164,
     "wof:name":"Strobl Anton",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

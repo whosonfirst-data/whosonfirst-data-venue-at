@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3523187637,46.9695358276,14.3523187637,46.9695358276",
     "geom:latitude":46.969536,
     "geom:longitude":14.352319,
@@ -31,17 +32,33 @@
         "premise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838211,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zTtVYyBtLmNkVyzIROklx_46.969536_14.352319@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917021,
-    "wof:geomhash":"2dbfc36a343f7a9e08129360b70c9b29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7284c73acab8fc41a7dcfeb2a3d5b36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838211,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092454233
+        }
+    ],
     "wof:id":1092454233,
-    "wof:lastmodified":1473983456,
+    "wof:lastmodified":1496906569,
     "wof:name":"Waldemar-Thomas Eicher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

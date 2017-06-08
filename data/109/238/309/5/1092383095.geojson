@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2705688477,48.1236152649,16.2705688477,48.1236152649",
     "geom:latitude":48.123615,
     "geom:longitude":16.270569,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913595,
-    "wof:geomhash":"f7c4d8559cde48a6470969480f7238d6",
+    "wof:geomhash":"07599be02e9eb01d42fe9b2a209f6125",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092383095
         }
     ],
     "wof:id":1092383095,
-    "wof:lastmodified":1473984134,
+    "wof:lastmodified":1496885820,
     "wof:name":"Pizzeria Celentano",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

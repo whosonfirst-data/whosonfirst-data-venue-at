@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3542232513,48.9179153442,15.3542232513,48.9179153442",
     "geom:latitude":48.917915,
     "geom:longitude":15.354223,
@@ -31,17 +32,33 @@
         "customized"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836229,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YLVgMfTxS5UMc6jOKl332_48.917915_15.354223@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905824,
-    "wof:geomhash":"2dd9388500f18f1995ed6994f1a0c4ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc3bf7a95673bbc04e3fc191f4444f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836229,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092206919
+        }
+    ],
     "wof:id":1092206919,
-    "wof:lastmodified":1473984771,
+    "wof:lastmodified":1496890099,
     "wof:name":"Johann Pauckner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

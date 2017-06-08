@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2188920975,47.4343261719,12.2188920975,47.4343261719",
     "geom:latitude":47.434326,
     "geom:longitude":12.218892,
@@ -23,17 +24,33 @@
     "sg:postcode":"6363",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837381,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v4XX9XBrMDeYhHl81jeb4_47.434326_12.218892@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909659,
-    "wof:geomhash":"bee411c2f5dbcd75ffd2db313aa2a993",
-    "wof:hierarchy":[],
+    "wof:geomhash":"662c0a4ce2eb7b9b149d77b639663cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837381,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092295137
+        }
+    ],
     "wof:id":1092295137,
-    "wof:lastmodified":1473984503,
+    "wof:lastmodified":1496897444,
     "wof:name":"Haus Anna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

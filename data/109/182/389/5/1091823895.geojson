@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7035169601,47.5423622131,11.7035169601,47.5423622131",
     "geom:latitude":47.542362,
     "geom:longitude":11.703517,
@@ -32,17 +33,34 @@
         "banister"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837847,
+        85632785,
+        101844517,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f0iZdPKOVSZ3x2YZszS6s_47.542362_11.703517@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888521,
-    "wof:geomhash":"f04dc7072f85012386c14554c74ab4b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d62c3c453fb5963e7b17f3780e62f061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837847,
+            "locality_id":101844517,
+            "region_id":85681661,
+            "venue_id":1091823895
+        }
+    ],
     "wof:id":1091823895,
-    "wof:lastmodified":1473984279,
+    "wof:lastmodified":1496900215,
     "wof:name":"Walter Sarg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

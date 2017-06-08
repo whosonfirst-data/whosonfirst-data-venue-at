@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5049724579,47.9973335266,13.5049724579,47.9973335266",
     "geom:latitude":47.997334,
     "geom:longitude":13.504972,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836523,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2btRimMiQJlb6ueR3ipZwL_47.997334_13.504972@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911562,
-    "wof:geomhash":"04eb7d99fb0bc83541900c08541741f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"279c807b0a701d512a91dd5c927c45a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836523,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092338405
+        }
+    ],
     "wof:id":1092338405,
-    "wof:lastmodified":1473985275,
+    "wof:lastmodified":1496891486,
     "wof:name":"WIBA GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

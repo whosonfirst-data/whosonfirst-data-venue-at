@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3955154419,47.2614173889,11.3955154419,47.2614173889",
     "geom:latitude":47.261417,
     "geom:longitude":11.395515,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902740,
-    "wof:geomhash":"63d972aee3978c5fd02083e653819217",
+    "wof:geomhash":"01005874b1cf92b3c4a782186d80d12e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092140093
         }
     ],
     "wof:id":1092140093,
-    "wof:lastmodified":1473983332,
+    "wof:lastmodified":1496899481,
     "wof:name":"Natopia - Institut f Didaktik",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

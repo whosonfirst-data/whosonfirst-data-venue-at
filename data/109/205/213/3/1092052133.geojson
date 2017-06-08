@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0532093048,47.1147270203,16.0532093048,47.1147270203",
     "geom:latitude":47.114727,
     "geom:longitude":16.053209,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"thermenoase.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839233,
+        85632785,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qvs0PpjWHFqqMhWfXUxr5_47.114727_16.053209@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898590,
-    "wof:geomhash":"d00b800ebac441b1ce0831d6b452527f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8bffabbab93b47cf43284e63f1f0c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839233,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092052133
+        }
+    ],
     "wof:id":1092052133,
-    "wof:lastmodified":1473983733,
+    "wof:lastmodified":1496912102,
     "wof:name":"Cafe-Hotel Garni Thermenoase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

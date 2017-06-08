@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8421278,47.1566963196,11.8421278,47.1566963196",
     "geom:latitude":47.156696,
     "geom:longitude":11.842128,
@@ -28,17 +29,33 @@
     "sg:postcode":"6290",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Js7U47BLzqtlWgUoD2EF3_47.156696_11.842128@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896423,
-    "wof:geomhash":"b8063f97ea20e3cbfbde9491f8330972",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ef9cb44a0760ba225fa04281b5ee995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091997379
+        }
+    ],
     "wof:id":1091997379,
-    "wof:lastmodified":1473984844,
+    "wof:lastmodified":1496900428,
     "wof:name":"Euro Net Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2032661438,48.3240127563,14.2032661438,48.3240127563",
     "geom:latitude":48.324013,
     "geom:longitude":14.203266,
@@ -34,10 +35,13 @@
     "sg:website":"caterham.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85904371,
-        102049847
+        102191581,
+        1108836395,
+        85632785,
+        101784615,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905341,
-    "wof:geomhash":"2584f9e445d3cf2d5e5bd1ad7f603d35",
+    "wof:geomhash":"696d10e6fc638a8aaef3b85b4fba20f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836395,
+            "locality_id":101784615,
             "neighbourhood_id":85904371,
             "region_id":85681677,
             "venue_id":1092197383
         }
     ],
     "wof:id":1092197383,
-    "wof:lastmodified":1473984970,
+    "wof:lastmodified":1496890882,
     "wof:name":"Caterham Austria",
     "wof:parent_id":85904371,
     "wof:placetype":"venue",

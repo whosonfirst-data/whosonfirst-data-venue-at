@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5985441208,47.2372207642,9.5985441208,47.2372207642",
     "geom:latitude":47.237221,
     "geom:longitude":9.598544,
@@ -27,10 +28,13 @@
     "sg:postcode":"23",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +42,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889093,
-    "wof:geomhash":"6ecee7dbe3b2595e02e21115813082f1",
+    "wof:geomhash":"9c2d741d2ec0572d01c7a340c97f750f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091836263
         }
     ],
     "wof:id":1091836263,
-    "wof:lastmodified":1473984498,
+    "wof:lastmodified":1496900923,
     "wof:name":"Voralberger Landes- und, Hypothekenbank",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

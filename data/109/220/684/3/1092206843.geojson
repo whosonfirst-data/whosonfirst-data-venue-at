@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0279369354,48.1524009705,14.0279369354,48.1524009705",
     "geom:latitude":48.152401,
     "geom:longitude":14.027937,
@@ -32,17 +33,34 @@
         "fabric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836587,
+        85632785,
+        101754167,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OECz4jAjykGlnISw0BOpX_48.152401_14.027937@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905821,
-    "wof:geomhash":"360328ba8d77069d5d41cd818bfd9734",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33f6b2c26a26722f34150e48217fec40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836587,
+            "locality_id":101754167,
+            "region_id":85681677,
+            "venue_id":1092206843
+        }
+    ],
     "wof:id":1092206843,
-    "wof:lastmodified":1473984747,
+    "wof:lastmodified":1496891802,
     "wof:name":"Michael Rader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

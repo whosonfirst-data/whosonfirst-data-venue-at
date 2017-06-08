@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4461297989,47.2511863708,11.4461297989,47.2511863708",
     "geom:latitude":47.251186,
     "geom:longitude":11.44613,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901180,
-    "wof:geomhash":"151b902c616bd81665e469e5b8b600dd",
+    "wof:geomhash":"18882b16b11f359a0818c9fd9c4cfe7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092107585
         }
     ],
     "wof:id":1092107585,
-    "wof:lastmodified":1473984760,
+    "wof:lastmodified":1496898021,
     "wof:name":"Abfallbeseitigungsverband-S\u00fcd\u00f6st",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

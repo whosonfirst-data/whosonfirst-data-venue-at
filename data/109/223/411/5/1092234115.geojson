@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2105712891,47.28881073,16.2105712891,47.28881073",
     "geom:latitude":47.288811,
     "geom:longitude":16.210571,
@@ -23,17 +24,34 @@
     "sg:postcode":"7400",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838461,
+        85632785,
+        101787889,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oFafWZeP6L5myUJroy4Cy_47.288811_16.210571@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473907008,
-    "wof:geomhash":"1a3f809130297d7c3fe4c7d8fd0a8c4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b968b6dc10b02ae445cf4049c36312ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838461,
+            "locality_id":101787889,
+            "region_id":85681651,
+            "venue_id":1092234115
+        }
+    ],
     "wof:id":1092234115,
-    "wof:lastmodified":1473984241,
+    "wof:lastmodified":1496908019,
     "wof:name":"NKD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

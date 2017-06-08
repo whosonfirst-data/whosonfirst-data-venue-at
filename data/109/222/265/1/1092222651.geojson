@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5624008179,47.8176307678,16.5624008179,47.8176307678",
     "geom:latitude":47.817631,
     "geom:longitude":16.562401,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838551,
+        85632785,
+        101785645,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yK9OlBnweVwl2NmTcgQas_47.817631_16.562401@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906512,
-    "wof:geomhash":"50c70f9fef55e1569341952c39cc8dc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"321f0a49faa321d54c0d721ebfee3965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838551,
+            "locality_id":101785645,
+            "region_id":85681651,
+            "venue_id":1092222651
+        }
+    ],
     "wof:id":1092222651,
-    "wof:lastmodified":1473983956,
+    "wof:lastmodified":1496908417,
     "wof:name":"Taxi Johann Bauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

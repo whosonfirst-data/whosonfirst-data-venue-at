@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2073869705,48.0354881287,14.2073869705,48.0354881287",
     "geom:latitude":48.035488,
     "geom:longitude":14.207387,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836095,
+        85632785,
+        101785675,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0boqRjesFXJtmN4sj6YJsX_48.035488_14.207387@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913545,
-    "wof:geomhash":"07336208293ad5d5577e5e1538bbe52d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d031151e7c1190e9d991761328624fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836095,
+            "locality_id":101785675,
+            "region_id":85681677,
+            "venue_id":1092382365
+        }
+    ],
     "wof:id":1092382365,
-    "wof:lastmodified":1473983949,
+    "wof:lastmodified":1496889479,
     "wof:name":"Josef's Pizza & Kebab Treff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

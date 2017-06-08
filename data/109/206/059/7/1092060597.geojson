@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5166778564,47.286857605,12.5166778564,47.286857605",
     "geom:latitude":47.286858,
     "geom:longitude":12.516678,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837239,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T6tnB4c9VXOFAMTyTjBsp_47.286858_12.516678@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898924,
-    "wof:geomhash":"9ec8f898a4137364481d399f633c56c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"397e07c2f76823bd10f17554bc8cc120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837239,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092060597
+        }
+    ],
     "wof:id":1092060597,
-    "wof:lastmodified":1473983537,
+    "wof:lastmodified":1496896358,
     "wof:name":"Robert Buchner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

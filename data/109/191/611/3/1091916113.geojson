@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0739707947,48.173034668,14.0739707947,48.173034668",
     "geom:latitude":48.173035,
     "geom:longitude":14.073971,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WlXqjUwSdAG6P0ZpYEhhE_48.173035_14.073971@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892838,
-    "wof:geomhash":"3fcee4452bc0aa69391771fe0231b023",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3a6f91b547c630ac977195dcb31a0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091916113
+        }
+    ],
     "wof:id":1091916113,
-    "wof:lastmodified":1473984173,
+    "wof:lastmodified":1496881814,
     "wof:name":"WolfesBerger 4ahead OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

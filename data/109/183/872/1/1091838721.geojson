@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9087667465,48.6784515381,13.9087667465,48.6784515381",
     "geom:latitude":48.678452,
     "geom:longitude":13.908767,
@@ -32,17 +33,34 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836021,
+        85632785,
+        101843341,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q1R1wTAo62I2yVnbAMmYi_48.678452_13.908767@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889216,
-    "wof:geomhash":"7e597f6ec8bb0f4273d0785177d09e8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e22656b78a358a475f7e3bae500a161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836021,
+            "locality_id":101843341,
+            "region_id":85681677,
+            "venue_id":1091838721
+        }
+    ],
     "wof:id":1091838721,
-    "wof:lastmodified":1473985152,
+    "wof:lastmodified":1496889230,
     "wof:name":"Richard Leitner Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

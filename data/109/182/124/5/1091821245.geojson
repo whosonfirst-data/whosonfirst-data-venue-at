@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6813440323,47.3642997742,9.6813440323,47.3642997742",
     "geom:latitude":47.3643,
     "geom:longitude":9.681344,
@@ -23,17 +24,34 @@
     "sg:postcode":"6845",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YEBQnVW248uPX1Cx2gfVo_47.364300_9.681344@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888406,
-    "wof:geomhash":"5f3cca551dfeba5ecf0375eede5b2a3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17b9b565a6dbcd30a873e89dde495675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1091821245
+        }
+    ],
     "wof:id":1091821245,
-    "wof:lastmodified":1473983634,
+    "wof:lastmodified":1496901126,
     "wof:name":"Bahnhof Hohenems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

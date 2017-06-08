@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8434352875,48.6537437439,14.8434352875,48.6537437439",
     "geom:latitude":48.653744,
     "geom:longitude":14.843435,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108836825,
+        85633105,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NcsYZHUF1pjc6qTs61CVf_48.653744_14.843435@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888460,
-    "wof:geomhash":"6801815a35e368ec6ae34f6a5613b47d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b231203623c46e53442fe27fac097f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108836825,
+            "locality_id":-1,
+            "region_id":85682415,
+            "venue_id":1091822523
+        }
+    ],
     "wof:id":1091822523,
-    "wof:lastmodified":1473983927,
+    "wof:lastmodified":1496892971,
     "wof:name":"Fritz Schaubschl\u00e4ger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

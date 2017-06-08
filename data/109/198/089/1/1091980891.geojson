@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3150863647,47.765499115,15.3150863647,47.765499115",
     "geom:latitude":47.765499,
     "geom:longitude":15.315086,
@@ -31,17 +32,34 @@
         "import"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839309,
+        85632785,
+        101785601,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PJ7dqQw8755aYzJdtHsbv_47.765499_15.315086@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895730,
-    "wof:geomhash":"577c2a894bc3ff7989b3a2d72a89a4b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9223d124bac40d1c0bc4122da284eceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839309,
+            "locality_id":101785601,
+            "region_id":85681687,
+            "venue_id":1091980891
+        }
+    ],
     "wof:id":1091980891,
-    "wof:lastmodified":1473983329,
+    "wof:lastmodified":1496912722,
     "wof:name":"Merlin Handelsgesellschaft m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

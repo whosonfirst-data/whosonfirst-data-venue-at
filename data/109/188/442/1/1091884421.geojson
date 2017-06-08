@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8171377182,46.6298217773,13.8171377182,46.6298217773",
     "geom:latitude":46.629822,
     "geom:longitude":13.817138,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891333,
-    "wof:geomhash":"9162964acb5af9620a4bc9f3806b7c0a",
+    "wof:geomhash":"dd5e7f03febec8c15c5c7d868aa3cef2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1091884421
         }
     ],
     "wof:id":1091884421,
-    "wof:lastmodified":1473984222,
+    "wof:lastmodified":1496906016,
     "wof:name":"B\u00e4ckerei Pacher",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

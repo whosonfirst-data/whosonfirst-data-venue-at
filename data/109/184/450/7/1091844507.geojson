@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4991340637,47.277381897,11.4991340637,47.277381897",
     "geom:latitude":47.277382,
     "geom:longitude":11.499134,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889456,
-    "wof:geomhash":"52b7786aa7c69e34fbda1f44d890aa8d",
+    "wof:geomhash":"3ba1bb79e1594789534f5a74ed8d16d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091844507
         }
     ],
     "wof:id":1091844507,
-    "wof:lastmodified":1473984188,
+    "wof:lastmodified":1496898711,
     "wof:name":"Canal & Co",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

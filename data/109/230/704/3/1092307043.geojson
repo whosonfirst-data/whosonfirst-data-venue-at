@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5252513885,48.2396011353,14.5252513885,48.2396011353",
     "geom:latitude":48.239601,
     "geom:longitude":14.525251,
@@ -34,10 +35,12 @@
     "sg:website":"poschacher.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910240,
-    "wof:geomhash":"7de74021ab6b6bb0891ae4157f7cecac",
+    "wof:geomhash":"31f4166716524c3d4506c14b24c9a8f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092307043
         }
     ],
     "wof:id":1092307043,
-    "wof:lastmodified":1473984914,
+    "wof:lastmodified":1496887546,
     "wof:name":"Poschacher GmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

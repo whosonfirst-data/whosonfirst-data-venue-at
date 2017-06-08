@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3235588074,47.457649231,12.3235588074,47.457649231",
     "geom:latitude":47.457649,
     "geom:longitude":12.323559,
@@ -23,17 +24,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72Q82uu5qCPOci2HsuQDaB_47.457649_12.323559@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898951,
-    "wof:geomhash":"ce55b99e34a34f6baf0e403514388350",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68f1a1a830b11397d269d9fe4435df57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092061271
+        }
+    ],
     "wof:id":1092061271,
-    "wof:lastmodified":1473983603,
+    "wof:lastmodified":1496899117,
     "wof:name":"Alpengasthaus Filzerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

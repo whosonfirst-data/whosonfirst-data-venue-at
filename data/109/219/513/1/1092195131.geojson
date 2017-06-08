@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4880180359,46.7347259521,15.4880180359,46.7347259521",
     "geom:latitude":46.734726,
     "geom:longitude":15.488018,
@@ -32,17 +33,33 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839057,
+        85632785,
+        102049699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tFkTEBMH6stUiklczJeOa_46.734726_15.488018@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905245,
-    "wof:geomhash":"178b155539618210c7af829f694df3b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80847a3ace4a8ebcc3e5192f4549608e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839057,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092195131
+        }
+    ],
     "wof:id":1092195131,
-    "wof:lastmodified":1473984525,
+    "wof:lastmodified":1496911146,
     "wof:name":"Schwinger-Dach Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

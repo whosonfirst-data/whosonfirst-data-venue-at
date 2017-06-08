@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2714595795,48.1867332458,16.2714595795,48.1867332458",
     "geom:latitude":48.186733,
     "geom:longitude":16.27146,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903942,
-    "wof:geomhash":"f9f7e350b27d75aede552a0ccbc727df",
+    "wof:geomhash":"96181b15f5f1ece4323b272a7ab0e628",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092166203
         }
     ],
     "wof:id":1092166203,
-    "wof:lastmodified":1473984563,
+    "wof:lastmodified":1496905045,
     "wof:name":"C & P Unternehmensberatung GesmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

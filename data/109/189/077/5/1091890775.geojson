@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6947174072,47.8012924194,16.6947174072,47.8012924194",
     "geom:latitude":47.801292,
     "geom:longitude":16.694717,
@@ -23,17 +24,33 @@
     "sg:postcode":"7071",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21rJkYkBDHcqBUvAbgMXa3_47.801292_16.694717@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891671,
-    "wof:geomhash":"c7d7c2cf9186e35c30b8607aebc45235",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1c9fdd6241f0f120132e37ecedfa2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091890775
+        }
+    ],
     "wof:id":1091890775,
-    "wof:lastmodified":1473983547,
+    "wof:lastmodified":1496909074,
     "wof:name":"Ruster SeebadbetriebsgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

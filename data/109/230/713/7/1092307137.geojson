@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1465129852,47.3113555908,11.1465129852,47.3113555908",
     "geom:latitude":47.311356,
     "geom:longitude":11.146513,
@@ -35,17 +36,33 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SkKPLWDIlQ3izevZOF8xD_47.311356_11.146513@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910243,
-    "wof:geomhash":"a6ac54598c76ca86e0ddbb7e07df0001",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78bd654847d178b11b56496681801eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092307137
+        }
+    ],
     "wof:id":1092307137,
-    "wof:lastmodified":1473984952,
+    "wof:lastmodified":1496898791,
     "wof:name":"Karl Glas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

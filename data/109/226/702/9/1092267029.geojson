@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.020275116,47.6081848145,16.020275116,47.6081848145",
     "geom:latitude":47.608185,
     "geom:longitude":16.020275,
@@ -31,17 +32,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835897,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HdQrOiCzazEmV7JxqvOwP_47.608185_16.020275@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908475,
-    "wof:geomhash":"f19361b3f7f0371db37dd2f4fbb78001",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95289d512d55edd15b6017e81f260781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835897,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092267029
+        }
+    ],
     "wof:id":1092267029,
-    "wof:lastmodified":1473984680,
+    "wof:lastmodified":1496888792,
     "wof:name":"Elektrizit\u00e4tswerke Eisenhuber GMBH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

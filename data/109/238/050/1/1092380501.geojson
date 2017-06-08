@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.407869339,48.1410446167,16.407869339,48.1410446167",
     "geom:latitude":48.141045,
     "geom:longitude":16.407869,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913470,
-    "wof:geomhash":"480f1f1d98b89d7f6ed1c8a7b04d0626",
+    "wof:geomhash":"f13b0b70094f4e7d8049e7728ddc9e33",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092380501
         }
     ],
     "wof:id":1092380501,
-    "wof:lastmodified":1473983430,
+    "wof:lastmodified":1496904401,
     "wof:name":"PHYSIOMED - Praxis f physikalische Therapie",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

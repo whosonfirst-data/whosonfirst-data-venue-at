@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3985834122,47.2602882385,11.3985834122,47.2602882385",
     "geom:latitude":47.260288,
     "geom:longitude":11.398583,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910090,
-    "wof:geomhash":"0205f9c65c786ab6054507fb2701d9e9",
+    "wof:geomhash":"9fe5dcbc49b06bd0426f7a62ce40d147",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092304119
         }
     ],
     "wof:id":1092304119,
-    "wof:lastmodified":1473984247,
+    "wof:lastmodified":1496899203,
     "wof:name":"Schobesberger Christian Arch Dipl-Ing",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

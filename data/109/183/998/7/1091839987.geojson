@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8403396606,46.5945701599,13.8403396606,46.5945701599",
     "geom:latitude":46.59457,
     "geom:longitude":13.84034,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889270,
-    "wof:geomhash":"b07c5ed9619594bae12caac0ec79bea0",
+    "wof:geomhash":"701d1ab9a3c9b67e693b3533a7b91373",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091839987
         }
     ],
     "wof:id":1091839987,
-    "wof:lastmodified":1473985316,
+    "wof:lastmodified":1496906130,
     "wof:name":"Baumaschinentechnik GesmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

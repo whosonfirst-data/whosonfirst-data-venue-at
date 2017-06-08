@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.1055355072,47.9279174805,17.1055355072,47.9279174805",
     "geom:latitude":47.927917,
     "geom:longitude":17.105536,
@@ -23,17 +24,33 @@
     "sg:postcode":"2425",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838427,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VYYd2snOjMLqXbwNF02zW_47.927917_17.105536@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893083,
-    "wof:geomhash":"0fd751a5972313fd94b725e2f59506a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a380f2bb69475c89cd1736cfcdda330b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838427,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091922401
+        }
+    ],
     "wof:id":1091922401,
-    "wof:lastmodified":1473983802,
+    "wof:lastmodified":1496907877,
     "wof:name":"Schenker & Co AG - Grenzstelle Nickelsdorf (HU)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

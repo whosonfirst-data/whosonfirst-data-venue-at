@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2827205658,47.2346839905,11.2827205658,47.2346839905",
     "geom:latitude":47.234684,
     "geom:longitude":11.282721,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907401,
-    "wof:geomhash":"6af2a8eb3e93af9998706000a1d9f481",
+    "wof:geomhash":"41ff06e273b7a7f4d08c6142f685ddac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092242913
         }
     ],
     "wof:id":1092242913,
-    "wof:lastmodified":1473984036,
+    "wof:lastmodified":1496898030,
     "wof:name":"Happ Franz",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8743085861,47.4039154053,10.8743085861,47.4039154053",
     "geom:latitude":47.403915,
     "geom:longitude":10.874309,
@@ -23,17 +24,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hQ3mZHWUAKzhqDxCk0nJY_47.403915_10.874309@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912767,
-    "wof:geomhash":"cf6c9a141cc434beef49088d8b070aeb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb088879878ce7c446fb7d208bcfcce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092365297
+        }
+    ],
     "wof:id":1092365297,
-    "wof:lastmodified":1473984581,
+    "wof:lastmodified":1496899868,
     "wof:name":"Haus Alpenheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

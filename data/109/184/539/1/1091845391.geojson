@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3672275543,48.2594299316,16.3672275543,48.2594299316",
     "geom:latitude":48.25943,
     "geom:longitude":16.367228,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889492,
-    "wof:geomhash":"a43e3c830c68c1cd987d00a2dc0dd1eb",
+    "wof:geomhash":"bcfad8eafce691e7d47feaa7d50b93b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1091845391
         }
     ],
     "wof:id":1091845391,
-    "wof:lastmodified":1473984302,
+    "wof:lastmodified":1496903013,
     "wof:name":"Steinb\u00f6ck GnbR",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

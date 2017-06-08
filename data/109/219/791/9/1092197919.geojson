@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0825557709,47.7204246521,16.0825557709,47.7204246521",
     "geom:latitude":47.720425,
     "geom:longitude":16.082556,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"fwt.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835465,
+        85632785,
+        101786761,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SaD3DNQkdLwlKOPpn8JyJ_47.720425_16.082556@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905362,
-    "wof:geomhash":"8c5288d478dc9e1f804b3168b4043733",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4aaf4f9eb968d2326d6720410783befe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835465,
+            "locality_id":101786761,
+            "region_id":85681671,
+            "venue_id":1092197919
+        }
+    ],
     "wof:id":1092197919,
-    "wof:lastmodified":1473985096,
+    "wof:lastmodified":1496886729,
     "wof:name":"FWT Wickeltechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

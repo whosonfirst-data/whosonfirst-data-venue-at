@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8039398193,46.5649452209,13.8039398193,46.5649452209",
     "geom:latitude":46.564945,
     "geom:longitude":13.80394,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893439,
-    "wof:geomhash":"55d6d84995b34210ce3ba7e011fcae3f",
+    "wof:geomhash":"c674de02ed347b8a98185f60e1be6ce5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091928469
         }
     ],
     "wof:id":1091928469,
-    "wof:lastmodified":1473984854,
+    "wof:lastmodified":1496907377,
     "wof:name":"Strauss Walter",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

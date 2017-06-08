@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6534366608,48.3214111328,16.6534366608,48.3214111328",
     "geom:latitude":48.321411,
     "geom:longitude":16.653437,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"wittmann.cc",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835281,
+        85632785,
+        101783429,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RcElukDFgzA3gfzqiPEB2_48.321411_16.653437@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473907064,
-    "wof:geomhash":"98c9c6f2c81f01aec4a3563dde1d48f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fcf9cb2f723abfaf9868fb51af86453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835281,
+            "locality_id":101783429,
+            "region_id":85681671,
+            "venue_id":1092235315
+        }
+    ],
     "wof:id":1092235315,
-    "wof:lastmodified":1473984430,
+    "wof:lastmodified":1496885799,
     "wof:name":"Wittmann Erwin GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

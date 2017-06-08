@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0746498108,47.7907905579,13.0746498108,47.7907905579",
     "geom:latitude":47.790791,
     "geom:longitude":13.07465,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906019,
-    "wof:geomhash":"b0ce1ccade81b32ecd015ff2dd46dceb",
+    "wof:geomhash":"754c621eeffc56237636689e26ed0a23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092211477
         }
     ],
     "wof:id":1092211477,
-    "wof:lastmodified":1473983733,
+    "wof:lastmodified":1496894689,
     "wof:name":"Schiller Friedrich",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

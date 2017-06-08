@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3190956116,47.8571052551,16.3190956116,47.8571052551",
     "geom:latitude":47.857105,
     "geom:longitude":16.319096,
@@ -23,17 +24,34 @@
     "sg:postcode":"2492",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834823,
+        85632785,
+        101833125,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HMdQBjcjWg8QIIyml3IcB_47.857105_16.319096@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888774,
-    "wof:geomhash":"5fdf21d3f7b0ea8fb2c72487b8d2ad28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e42000f12e5f356b20339318273fe5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834823,
+            "locality_id":101833125,
+            "region_id":85681671,
+            "venue_id":1091829521
+        }
+    ],
     "wof:id":1091829521,
-    "wof:lastmodified":1473985328,
+    "wof:lastmodified":1496891943,
     "wof:name":"Raiffeisenregionalbank Wr Neustadt regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

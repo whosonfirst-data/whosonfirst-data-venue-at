@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0934438705,47.8609962463,13.0934438705,47.8609962463",
     "geom:latitude":47.860996,
     "geom:longitude":13.093444,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905116,
-    "wof:geomhash":"fe86a9fbf178892f80695eb79d451587",
+    "wof:geomhash":"3c84dcc078a47077ac41693568fe33db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092192209
         }
     ],
     "wof:id":1092192209,
-    "wof:lastmodified":1473983897,
+    "wof:lastmodified":1496895385,
     "wof:name":"Laimer Gerhard A - Alarm - CCTV - Charter",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

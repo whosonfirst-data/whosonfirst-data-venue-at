@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5880708694,47.3027648926,11.5880708694,47.3027648926",
     "geom:latitude":47.302765,
     "geom:longitude":11.588071,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"fischer-med.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837645,
+        85632785,
+        101844497,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Kad6npARvyTLYmezOIDax_47.302765_11.588071@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897880,
-    "wof:geomhash":"bec2c06c489ccbee9f638eb49fab46cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd85adee068bd7a87ad631ba5d2377ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837645,
+            "locality_id":101844497,
+            "region_id":85681661,
+            "venue_id":1092033835
+        }
+    ],
     "wof:id":1092033835,
-    "wof:lastmodified":1473984085,
+    "wof:lastmodified":1496898591,
     "wof:name":"Fischer Gerhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

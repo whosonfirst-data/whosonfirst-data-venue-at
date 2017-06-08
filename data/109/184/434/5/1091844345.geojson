@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2704219818,47.2625541687,11.2704219818,47.2625541687",
     "geom:latitude":47.262554,
     "geom:longitude":11.270422,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889449,
-    "wof:geomhash":"6e63c1a80e165fe983e11912417162dd",
+    "wof:geomhash":"35113d9c35835996562362266dfc15cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091844345
         }
     ],
     "wof:id":1091844345,
-    "wof:lastmodified":1473984133,
+    "wof:lastmodified":1496898651,
     "wof:name":"ASF Fr\u00e4stechnik GmbH & Co KG",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

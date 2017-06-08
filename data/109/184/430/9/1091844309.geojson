@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3692026138,47.973072052,14.3692026138,47.973072052",
     "geom:latitude":47.973072,
     "geom:longitude":14.369203,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836127,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AcUZpMsEeCGP25CNLjdBv_47.973072_14.369203@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889448,
-    "wof:geomhash":"a3173a236b2678a4295dc8df1c3f056f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7c4c84dc4def560f4a1ceeddb60d5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836127,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091844309
+        }
+    ],
     "wof:id":1091844309,
-    "wof:lastmodified":1473984130,
+    "wof:lastmodified":1496889641,
     "wof:name":"Alpine Mayreder BaugesmbH - Mischanlage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3964395523,47.4452400208,12.3964395523,47.4452400208",
     "geom:latitude":47.44524,
     "geom:longitude":12.39644,
@@ -33,17 +34,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        101787927,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qBHHsejbq1hrGEVgd5Bkx_47.445240_12.396440@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905816,
-    "wof:geomhash":"0b3985496d4bc8743810438efbc73aed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ecbfd386fe51eff36377e25d6af3ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":101787927,
+            "region_id":85681661,
+            "venue_id":1092206737
+        }
+    ],
     "wof:id":1092206737,
-    "wof:lastmodified":1473984753,
+    "wof:lastmodified":1496897134,
     "wof:name":"Peter Petschar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

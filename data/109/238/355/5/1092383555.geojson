@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4261302948,48.131072998,16.4261302948,48.131072998",
     "geom:latitude":48.131073,
     "geom:longitude":16.42613,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898405,
-        102049843
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913620,
-    "wof:geomhash":"b8020e697e10bcf988ac9a73d52571bd",
+    "wof:geomhash":"ccb867874d75a2af18d4302647d930d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898405,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092383555
         }
     ],
     "wof:id":1092383555,
-    "wof:lastmodified":1473984203,
+    "wof:lastmodified":1496904401,
     "wof:name":"Pizzeria La Sirena",
     "wof:parent_id":85898405,
     "wof:placetype":"venue",

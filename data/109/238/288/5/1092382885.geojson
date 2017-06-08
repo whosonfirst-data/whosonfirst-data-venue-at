@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4171905518,47.4097290039,16.4171905518,47.4097290039",
     "geom:latitude":47.409729,
     "geom:longitude":16.417191,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838623,
+        85632785,
+        101912421,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s0vTpemiB9rl85Mvz9zuj_47.409729_16.417191@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913580,
-    "wof:geomhash":"18154b5d34707daba7392bebae237836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0fcda73059082b325874138cf60372e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838623,
+            "locality_id":101912421,
+            "region_id":85681651,
+            "venue_id":1092382885
+        }
+    ],
     "wof:id":1092382885,
-    "wof:lastmodified":1473984095,
+    "wof:lastmodified":1496908889,
     "wof:name":"Pizzeria Amore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

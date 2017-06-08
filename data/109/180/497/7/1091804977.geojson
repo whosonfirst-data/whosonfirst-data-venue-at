@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8208379745,47.155380249,9.8208379745,47.155380249",
     "geom:latitude":47.15538,
     "geom:longitude":9.820838,
@@ -23,17 +24,34 @@
     "sg:postcode":"6700",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        101827451,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68It6oA8vQIQnU180h5LZX_47.155380_9.820838@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473887652,
-    "wof:geomhash":"5fa4eccefc2757a357613dc70b3522b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cddf4c9ec2f7e0c9f758ea107dd2273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":101827451,
+            "region_id":85681649,
+            "venue_id":1091804977
+        }
+    ],
     "wof:id":1091804977,
-    "wof:lastmodified":1473983448,
+    "wof:lastmodified":1496900589,
     "wof:name":"Sparkasse Bludenz Bank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

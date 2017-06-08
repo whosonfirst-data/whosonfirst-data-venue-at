@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0913524628,47.0456962585,16.0913524628,47.0456962585",
     "geom:latitude":47.045696,
     "geom:longitude":16.091352,
@@ -23,17 +24,33 @@
     "sg:postcode":"8280",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839227,
+        85632785,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Qa32UaVVWJsuxNweG512T_47.045696_16.091352@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893507,
-    "wof:geomhash":"0b99e945ba56cf1127f84777e93c69d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf3be3a5b373917d74f4572c7f50961e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839227,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091929925
+        }
+    ],
     "wof:id":1091929925,
-    "wof:lastmodified":1473985243,
+    "wof:lastmodified":1496912044,
     "wof:name":"Eissch\u00fctzenverein-M\u00fchlbreiten F\u00fcrstenfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3573760986,47.2647514343,11.3573760986,47.2647514343",
     "geom:latitude":47.264751,
     "geom:longitude":11.357376,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902269,
-    "wof:geomhash":"d6db7d1cc5173a437392a2ab639c6caa",
+    "wof:geomhash":"30ca3244f0c4b95eed55887b19ecbb65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092130009
         }
     ],
     "wof:id":1092130009,
-    "wof:lastmodified":1473983304,
+    "wof:lastmodified":1496926014,
     "wof:name":"Holzedl Peter",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5126285553,47.2830848694,11.5126285553,47.2830848694",
     "geom:latitude":47.283085,
     "geom:longitude":11.512629,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888077,
-    "wof:geomhash":"020bdc3ffff30a13c105e0a3853e62ef",
+    "wof:geomhash":"42aeb6d1e35a254512daf4e285397fb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091813775
         }
     ],
     "wof:id":1091813775,
-    "wof:lastmodified":1473984154,
+    "wof:lastmodified":1496898702,
     "wof:name":"Georg Saxer Ges.m.b.H. & Co KG",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

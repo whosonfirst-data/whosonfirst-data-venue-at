@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1386442184,47.1191215515,13.1386442184,47.1191215515",
     "geom:latitude":47.119122,
     "geom:longitude":13.138644,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"www.hotel-schider.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        101789115,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bNVZZStzsTknhtlgoWKqz_47.119122_13.138644@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898528,
-    "wof:geomhash":"1f62d944bd75b3bee630084e536fde36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bc6c2dc5c10dfbe3a27d76e87936f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":101789115,
+            "region_id":85681681,
+            "venue_id":1092050375
+        }
+    ],
     "wof:id":1092050375,
-    "wof:lastmodified":1473983380,
+    "wof:lastmodified":1496893780,
     "wof:name":"Kurhaus Schider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

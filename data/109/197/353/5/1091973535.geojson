@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4111604691,48.1970710754,15.4111604691,48.1970710754",
     "geom:latitude":48.197071,
     "geom:longitude":15.41116,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835017,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3755dFaKMRAS1dzaHxH8ML_48.197071_15.411160@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895392,
-    "wof:geomhash":"ee8083c8c3da38bc83363a839cdb1e83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b97ecc2bbae433a0bee3dd1becceeacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835017,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091973535
+        }
+    ],
     "wof:id":1091973535,
-    "wof:lastmodified":1473984089,
+    "wof:lastmodified":1496884209,
     "wof:name":"ALOIS MAIERHOFER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

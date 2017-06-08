@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.647403717,47.2812805176,12.647403717,47.2812805176",
     "geom:latitude":47.281281,
     "geom:longitude":12.647404,
@@ -23,17 +24,33 @@
     "sg:postcode":"5722",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837225,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LuZmvNfq0XPNjxYDgeORX_47.281281_12.647404@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899463,
-    "wof:geomhash":"3b5b77817175c3cf9479441e7063df22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a2b22505770b542ef95596400a45662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837225,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092073823
+        }
+    ],
     "wof:id":1092073823,
-    "wof:lastmodified":1473984027,
+    "wof:lastmodified":1496896133,
     "wof:name":"Gasthof Pichler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2942523956,48.4718551636,16.2942523956,48.4718551636",
     "geom:latitude":48.471855,
     "geom:longitude":16.294252,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836823,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4emaDhgS51GPYE3HintINF_48.471855_16.294252@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892656,
-    "wof:geomhash":"b7bbc9c04b92ad64e9d22fcae2a72c7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3f83e0af875700fc76f4fc5c1501d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836823,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091912495
+        }
+    ],
     "wof:id":1091912495,
-    "wof:lastmodified":1473983542,
+    "wof:lastmodified":1496892963,
     "wof:name":"Asteriou KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

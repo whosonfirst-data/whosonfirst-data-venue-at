@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6577043533,47.1734085083,15.6577043533,47.1734085083",
     "geom:latitude":47.173409,
     "geom:longitude":15.657704,
@@ -32,17 +33,33 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838911,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LYyFkrHsUNmBwvdMcQf25_47.173409_15.657704@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897888,
-    "wof:geomhash":"14155860e93cfd51598bfdc99f7d652f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a9b487acfb7cc5b591cae13ae7e4c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838911,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092034047
+        }
+    ],
     "wof:id":1092034047,
-    "wof:lastmodified":1473984121,
+    "wof:lastmodified":1496910078,
     "wof:name":"Ludwig Heinzl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

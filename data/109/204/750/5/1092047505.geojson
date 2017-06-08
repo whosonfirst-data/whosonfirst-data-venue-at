@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7369394302,47.2660636902,10.7369394302,47.2660636902",
     "geom:latitude":47.266064,
     "geom:longitude":10.736939,
@@ -28,17 +29,33 @@
     "sg:postcode":"6460",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GkdzjwzyBUlX7XRexo3CO_47.266064_10.736939@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898416,
-    "wof:geomhash":"1999c32bf824445e36c67874f92f9c99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"987ecf5d7f365e59d656b9a314dc80f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092047505
+        }
+    ],
     "wof:id":1092047505,
-    "wof:lastmodified":1473984092,
+    "wof:lastmodified":1496898409,
     "wof:name":"Hotel Linzerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

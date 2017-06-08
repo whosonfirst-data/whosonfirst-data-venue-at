@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3576202393,46.6093711853,14.3576202393,46.6093711853",
     "geom:latitude":46.609371,
     "geom:longitude":14.35762,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914160,
-    "wof:geomhash":"b08738133ba6e93483015b80f0d539d4",
+    "wof:geomhash":"fccd3ad735d0f87ea4d4b4e178dd6355",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092394061
         }
     ],
     "wof:id":1092394061,
-    "wof:lastmodified":1473983964,
+    "wof:lastmodified":1496906643,
     "wof:name":"Postamt 9065 Ebenthal in K\u00e4rnten",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3240642548,47.9714736938,16.3240642548,47.9714736938",
     "geom:latitude":47.971474,
     "geom:longitude":16.324064,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"tcg.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836353,
+        85632785,
+        101785697,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30UfyZrKR5UGSBdZB4fUeC_47.971474_16.324064@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906622,
-    "wof:geomhash":"c6d2211f37d0db9eae6c015fd51befb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0777057ebd55f552986b30190bc280d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836353,
+            "locality_id":101785697,
+            "region_id":85681671,
+            "venue_id":1092225235
+        }
+    ],
     "wof:id":1092225235,
-    "wof:lastmodified":1473984592,
+    "wof:lastmodified":1496890670,
     "wof:name":"TCG Technologie Consult GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

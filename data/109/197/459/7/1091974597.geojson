@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8826141357,48.1425247192,14.8826141357,48.1425247192",
     "geom:latitude":48.142525,
     "geom:longitude":14.882614,
@@ -31,17 +32,33 @@
         "roofing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0quYOdr3xf8PE0QTSvwBTi_48.142525_14.882614@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895435,
-    "wof:geomhash":"316f5299cc95d5c6c9b49679f143af77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2d661bb861a61be26738b0c7477e237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091974597
+        }
+    ],
     "wof:id":1091974597,
-    "wof:lastmodified":1473984319,
+    "wof:lastmodified":1496883318,
     "wof:name":"Karl Ebner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

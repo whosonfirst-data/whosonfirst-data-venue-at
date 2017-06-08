@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.906206131,46.8702163696,15.906206131,46.8702163696",
     "geom:latitude":46.870216,
     "geom:longitude":15.906206,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"bad-gleichenberg.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839269,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6baYz70RsO8nyCbV8ZOXwt_46.870216_15.906206@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907794,
-    "wof:geomhash":"b10540535c6e36b12eb55527534b20d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f453fb433f3c2390931ed12ad544eccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839269,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092251861
+        }
+    ],
     "wof:id":1092251861,
-    "wof:lastmodified":1473983804,
+    "wof:lastmodified":1496912386,
     "wof:name":"Tourismusverband",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

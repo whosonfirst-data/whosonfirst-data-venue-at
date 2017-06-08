@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6692352295,47.3943595886,9.6692352295,47.3943595886",
     "geom:latitude":47.39436,
     "geom:longitude":9.669235,
@@ -31,17 +32,33 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27DjAxHcJjv1uob7VKSUEq_47.394360_9.669235@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910224,
-    "wof:geomhash":"755491f3b3d2176694ef5847a26e8dc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b3681743c33edcb0398f7519809009f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092306691
+        }
+    ],
     "wof:id":1092306691,
-    "wof:lastmodified":1473984837,
+    "wof:lastmodified":1496901475,
     "wof:name":"MIGU-Asphalt-Bauges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

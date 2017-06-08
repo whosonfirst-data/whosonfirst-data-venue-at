@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2365608215,48.1379737854,16.2365608215,48.1379737854",
     "geom:latitude":48.137974,
     "geom:longitude":16.236561,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916216,
-    "wof:geomhash":"3b36b8bc686e84a00236109d58196e92",
+    "wof:geomhash":"c9ff2ed64d3f29e0f3d5f86754c0f122",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092436721
         }
     ],
     "wof:id":1092436721,
-    "wof:lastmodified":1473984790,
+    "wof:lastmodified":1496903373,
     "wof:name":"Fotostudio Zimmermann",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

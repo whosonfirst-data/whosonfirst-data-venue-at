@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0239200592,48.3656692505,16.0239200592,48.3656692505",
     "geom:latitude":48.365669,
     "geom:longitude":16.02392,
@@ -32,17 +33,33 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sy8doY8L8vSkakmMl7xVw_48.365669_16.023920@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888993,
-    "wof:geomhash":"b62890c18cd53579205be84afc85398b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ced653ffb49d28a59eef96a16c469a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091833935
+        }
+    ],
     "wof:id":1091833935,
-    "wof:lastmodified":1473984071,
+    "wof:lastmodified":1496893113,
     "wof:name":"TULLNERFELDER VOLKSBANK REG.GEN.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

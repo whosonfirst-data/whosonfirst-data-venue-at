@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4782447815,47.7303886414,13.4782447815,47.7303886414",
     "geom:latitude":47.730389,
     "geom:longitude":13.478245,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835157,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UDD0FK8ZmVEy8HxZ4j8Xk_47.730389_13.478245@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890942,
-    "wof:geomhash":"269d72c24235ecf787e3d092972a8b25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14d53b6c9e17c1eb676c43f097cd40bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835157,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091875879
+        }
+    ],
     "wof:id":1091875879,
-    "wof:lastmodified":1473984415,
+    "wof:lastmodified":1496885155,
     "wof:name":"Bootswerft Uwe Graf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.9186496735,47.2574005127,11.9186496735,47.2574005127",
     "geom:latitude":47.257401,
     "geom:longitude":11.91865,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837849,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ISAZy9xmwC76dm34oFxpz_47.257401_11.918650@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889789,
-    "wof:geomhash":"1325bbd727f01aa34bcc425f00fff5c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a09de2bead624f9a23ed704d920b618b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837849,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091851671
+        }
+    ],
     "wof:id":1091851671,
-    "wof:lastmodified":1473983620,
+    "wof:lastmodified":1496900222,
     "wof:name":"Friedl Kr\u00f6ll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

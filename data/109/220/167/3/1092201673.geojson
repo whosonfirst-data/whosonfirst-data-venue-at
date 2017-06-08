@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.046292305,48.1583747864,14.046292305,48.1583747864",
     "geom:latitude":48.158375,
     "geom:longitude":14.046292,
@@ -32,17 +33,34 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O9Dl0StDGebGOZwq0OI6H_48.158375_14.046292@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905554,
-    "wof:geomhash":"fa579158108492a175ca0d4ef0e0fca8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3651244b4c247bae936dcce3d82e8085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092201673
+        }
+    ],
     "wof:id":1092201673,
-    "wof:lastmodified":1473983717,
+    "wof:lastmodified":1496882135,
     "wof:name":"AVENARIUS-AGRO GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

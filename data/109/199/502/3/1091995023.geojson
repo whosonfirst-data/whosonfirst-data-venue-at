@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2633991241,48.1217651367,16.2633991241,48.1217651367",
     "geom:latitude":48.121765,
     "geom:longitude":16.263399,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896324,
-    "wof:geomhash":"dcdcb5e830f0c91f8aa051d400e801b4",
+    "wof:geomhash":"95444d8669f5c41ca0f55f9375f8729b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091995023
         }
     ],
     "wof:id":1091995023,
-    "wof:lastmodified":1473984306,
+    "wof:lastmodified":1496885842,
     "wof:name":"Institut f Sportmedizin, Rehabilitation und Trainingsberatung GmbH",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

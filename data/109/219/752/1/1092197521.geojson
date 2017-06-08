@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0574054718,47.7874908447,16.0574054718,47.7874908447",
     "geom:latitude":47.787491,
     "geom:longitude":16.057405,
@@ -32,17 +33,33 @@
         "lettering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836929,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gShmHluWbtlwlBA9ATVrv_47.787491_16.057405@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905346,
-    "wof:geomhash":"658371380363f46c44a81e2eab818fbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff6eb83c84b7c2ca0656014f8f5385c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108836929,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092197521
+        }
+    ],
     "wof:id":1092197521,
-    "wof:lastmodified":1473985063,
+    "wof:lastmodified":1496893391,
     "wof:name":"Johann Wieringer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

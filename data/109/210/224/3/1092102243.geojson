@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1942253113,47.8558654785,13.1942253113,47.8558654785",
     "geom:latitude":47.855865,
     "geom:longitude":13.194225,
@@ -23,17 +24,33 @@
     "sg:postcode":"5301",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TEuvLRG6dXtbNp2lAJrtE_47.855865_13.194225@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900924,
-    "wof:geomhash":"0199f235010b94a979fbd179c97c7413",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c63ebd6d62c2602a8cd01d21c0612c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092102243
+        }
+    ],
     "wof:id":1092102243,
-    "wof:lastmodified":1473983689,
+    "wof:lastmodified":1496895318,
     "wof:name":"Colfclub R\u00f6mergolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

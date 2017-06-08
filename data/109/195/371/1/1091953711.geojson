@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7450466156,47.4089164734,9.7450466156,47.4089164734",
     "geom:latitude":47.408916,
     "geom:longitude":9.745047,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894532,
-    "wof:geomhash":"e66f227038af480220744db48f9b2e90",
+    "wof:geomhash":"58d0a0a170f69ed0c61a6f05c54988c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091953711
         }
     ],
     "wof:id":1091953711,
-    "wof:lastmodified":1473984225,
+    "wof:lastmodified":1496900778,
     "wof:name":"\u00f6lz Wolfgang Dr",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

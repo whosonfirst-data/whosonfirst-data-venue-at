@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3292074203,47.2676315308,11.3292074203,47.2676315308",
     "geom:latitude":47.267632,
     "geom:longitude":11.329207,
@@ -33,10 +34,12 @@
     "sg:website":"rampl.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889094,
-    "wof:geomhash":"7dff89d1bc9ca4db194a9ff5d39c4ebf",
+    "wof:geomhash":"0119a7da336f87cdd551d33123b8e91f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091836285
         }
     ],
     "wof:id":1091836285,
-    "wof:lastmodified":1473984514,
+    "wof:lastmodified":1496899224,
     "wof:name":"Oswald Rampl KG",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

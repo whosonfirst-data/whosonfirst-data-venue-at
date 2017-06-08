@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2304773331,46.6280212402,14.2304773331,46.6280212402",
     "geom:latitude":46.628021,
     "geom:longitude":14.230477,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909325,
-    "wof:geomhash":"8290b656de32096162057dc17f98f728",
+    "wof:geomhash":"92f965af1d2e99f410770baf525cdcbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092287003
         }
     ],
     "wof:id":1092287003,
-    "wof:lastmodified":1473984777,
+    "wof:lastmodified":1496906390,
     "wof:name":"Egger Gerhard",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

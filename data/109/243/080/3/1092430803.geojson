@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2826986313,48.1419906616,15.2826986313,48.1419906616",
     "geom:latitude":48.141991,
     "geom:longitude":15.282699,
@@ -32,17 +33,33 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835729,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iaIJAEk5XyrRAQUl6iXiT_48.141991_15.282699@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915945,
-    "wof:geomhash":"609a0d323158d7bd7d1487b43dae888b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"697d04d9dc1aee9992046013624dfaf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835729,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092430803
+        }
+    ],
     "wof:id":1092430803,
-    "wof:lastmodified":1473983444,
+    "wof:lastmodified":1496888073,
     "wof:name":"Leopold Ramel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

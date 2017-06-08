@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4733371735,47.2736206055,11.4733371735,47.2736206055",
     "geom:latitude":47.273621,
     "geom:longitude":11.473337,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906274,
-    "wof:geomhash":"af38b419975e724d5f2d55512c0b5a33",
+    "wof:geomhash":"db068e73977cd3a65affaeb2d99dbad6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092216887
         }
     ],
     "wof:id":1092216887,
-    "wof:lastmodified":1473984773,
+    "wof:lastmodified":1496898700,
     "wof:name":"OMV Tankstelle - Werner Mussner GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

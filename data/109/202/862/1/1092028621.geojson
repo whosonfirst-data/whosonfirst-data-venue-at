@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3567066193,48.3264656067,16.3567066193,48.3264656067",
     "geom:latitude":48.326466,
     "geom:longitude":16.356707,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898395,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897671,
-    "wof:geomhash":"eea182bed96932e96a3774bb6a868297",
+    "wof:geomhash":"6d1704f55bee73a608908a4c2790147c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898395,
             "region_id":85681667,
             "venue_id":1092028621
         }
     ],
     "wof:id":1092028621,
-    "wof:lastmodified":1473985077,
+    "wof:lastmodified":1496893431,
     "wof:name":"Gschlenk Erich",
     "wof:parent_id":85898395,
     "wof:placetype":"venue",

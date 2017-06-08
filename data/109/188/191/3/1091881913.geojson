@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1580505371,47.7004776001,14.1580505371,47.7004776001",
     "geom:latitude":47.700478,
     "geom:longitude":14.158051,
@@ -31,17 +32,33 @@
         "advice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835247,
+        85632785,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aS6khpCGprqxwdFvWzxxS_47.700478_14.158051@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891215,
-    "wof:geomhash":"769d603df208fe6504397e220269ca3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"483fae2e269dee3a0b9528e944fbf411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835247,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091881913
+        }
+    ],
     "wof:id":1091881913,
-    "wof:lastmodified":1473983717,
+    "wof:lastmodified":1496885571,
     "wof:name":"PACHLEITNER S GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

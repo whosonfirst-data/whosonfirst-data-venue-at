@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3244075775,48.1218261719,14.3244075775,48.1218261719",
     "geom:latitude":48.121826,
     "geom:longitude":14.324408,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835561,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nE4qkXpEkhvnogDQLXKmm_48.121826_14.324408@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892839,
-    "wof:geomhash":"e672c974be271e7a06494781f7d6746b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07f6151026e0f2ceece35496bab5d9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835561,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091916137
+        }
+    ],
     "wof:id":1091916137,
-    "wof:lastmodified":1473984174,
+    "wof:lastmodified":1496887355,
     "wof:name":"X-it External IT-Solutions GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

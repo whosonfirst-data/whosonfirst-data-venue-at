@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3901433945,47.2568092346,11.3901433945,47.2568092346",
     "geom:latitude":47.256809,
     "geom:longitude":11.390143,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903905,
-    "wof:geomhash":"04adf975e42fab390df7529819b9a580",
+    "wof:geomhash":"b36fa0afb6d6075b829a226d459d1d76",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092165355
         }
     ],
     "wof:id":1092165355,
-    "wof:lastmodified":1473984296,
+    "wof:lastmodified":1496899261,
     "wof:name":"Reitmeir Anton",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

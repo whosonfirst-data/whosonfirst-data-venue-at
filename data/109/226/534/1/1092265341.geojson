@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4269361496,47.5223121643,13.4269361496,47.5223121643",
     "geom:latitude":47.522312,
     "geom:longitude":13.426936,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"elektro-krallinger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837085,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YZwwqjfh7trq8QKj1l5r9_47.522312_13.426936@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908397,
-    "wof:geomhash":"c516d58e8f4f719fe2c38906215c4422",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28d906cb00b59b48a29eedb78806dac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837085,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092265341
+        }
+    ],
     "wof:id":1092265341,
-    "wof:lastmodified":1473984437,
+    "wof:lastmodified":1496894901,
     "wof:name":"Elektro Krallinger Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

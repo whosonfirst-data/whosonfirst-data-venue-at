@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.291891098,47.105266571,11.291891098,47.105266571",
     "geom:latitude":47.105267,
     "geom:longitude":11.291891,
@@ -28,17 +29,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EUOzet8kQiLeK9EcbtvJ7_47.105267_11.291891@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898305,
-    "wof:geomhash":"781069b0450c8ff4a31343cbb9341541",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04f9d50c4bfe0de20ba56d63687daf5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092044665
+        }
+    ],
     "wof:id":1092044665,
-    "wof:lastmodified":1473983675,
+    "wof:lastmodified":1496898533,
     "wof:name":"Christoph Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

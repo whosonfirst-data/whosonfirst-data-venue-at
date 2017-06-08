@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2718362808,47.5255317688,12.2718362808,47.5255317688",
     "geom:latitude":47.525532,
     "geom:longitude":12.271836,
@@ -23,17 +24,33 @@
     "sg:postcode":"6352",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837681,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LbrdrHeHAGBPAe8jdWXwO_47.525532_12.271836@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913210,
-    "wof:geomhash":"d439bfc14864f37635d6dc7e0d0651d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf803a3dc00221d9e14dd3188b287d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837681,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092374357
+        }
+    ],
     "wof:id":1092374357,
-    "wof:lastmodified":1473984447,
+    "wof:lastmodified":1496899158,
     "wof:name":"Sonnhof Ratzenbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

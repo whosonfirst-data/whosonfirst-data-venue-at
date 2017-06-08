@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9694261551,47.4123420715,9.9694261551,47.4123420715",
     "geom:latitude":47.412342,
     "geom:longitude":9.969426,
@@ -28,17 +29,33 @@
     "sg:postcode":"6863",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837931,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70w4N2AqSRJ4o15hs5Urxv_47.412342_9.969426@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898551,
-    "wof:geomhash":"613309014198b48c24ccb512fcecd296",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25e81863c84e3c8a950119e61b43eed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837931,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092051087
+        }
+    ],
     "wof:id":1092051087,
-    "wof:lastmodified":1473983499,
+    "wof:lastmodified":1496900872,
     "wof:name":"Schetteregger Hof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

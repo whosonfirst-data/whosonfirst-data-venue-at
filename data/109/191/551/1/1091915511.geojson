@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2396736145,47.8366127014,16.2396736145,47.8366127014",
     "geom:latitude":47.836613,
     "geom:longitude":16.239674,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21BkvxqolTa01U7eUM9ibQ_47.836613_16.239674@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892811,
-    "wof:geomhash":"8d2dc450b2c906408cb45ab23e478dcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1d51063d5640a3d1932bcfe24dd4c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1091915511
+        }
+    ],
     "wof:id":1091915511,
-    "wof:lastmodified":1473984013,
+    "wof:lastmodified":1496884139,
     "wof:name":"SIS Informatik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

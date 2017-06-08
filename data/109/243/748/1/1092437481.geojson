@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0322294235,47.8813858032,13.0322294235,47.8813858032",
     "geom:latitude":47.881386,
     "geom:longitude":13.032229,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"schatzl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837113,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zxljCf6JbC50hC9tiORNG_47.881386_13.032229@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916249,
-    "wof:geomhash":"0d6db944ddd8ccbc42bfad38c7590164",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eab070c935fca6ce155ba5292a877303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837113,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092437481
+        }
+    ],
     "wof:id":1092437481,
-    "wof:lastmodified":1473984969,
+    "wof:lastmodified":1496895198,
     "wof:name":"Schatzl Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

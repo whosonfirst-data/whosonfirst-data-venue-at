@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0327653885,47.3976287842,15.0327653885,47.3976287842",
     "geom:latitude":47.397629,
     "geom:longitude":15.032765,
@@ -24,10 +25,13 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898561,
-        102049769
+        102191581,
+        1108838995,
+        85632785,
+        101834297,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888732,
-    "wof:geomhash":"cf6d69998e15935a06fe9312fbb2abe9",
+    "wof:geomhash":"a145ee53e56ea9f6da2ab54424389a37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108838995,
+            "locality_id":101834297,
             "neighbourhood_id":85898561,
             "region_id":85681687,
             "venue_id":1091828517
         }
     ],
     "wof:id":1091828517,
-    "wof:lastmodified":1473985287,
+    "wof:lastmodified":1496910738,
     "wof:name":"Raiffeisenbank Trofaiach-Leoben regGenmbH",
     "wof:parent_id":85898561,
     "wof:placetype":"venue",

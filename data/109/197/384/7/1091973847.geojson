@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1894006729,46.9381713867,13.1894006729,46.9381713867",
     "geom:latitude":46.938171,
     "geom:longitude":13.189401,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838287,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j33wCp8D4eHPABwFSW9S2_46.938171_13.189401@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895406,
-    "wof:geomhash":"ea68785ad40a43b9eb3a2b28fa9ed9d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"267e96a3e205c006ca9d60edef5930e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838287,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091973847
+        }
+    ],
     "wof:id":1091973847,
-    "wof:lastmodified":1473984161,
+    "wof:lastmodified":1496906986,
     "wof:name":"PLANTRANS TRANSPORT & LOGISTIK GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9665708542,48.6492652893,13.9665708542,48.6492652893",
     "geom:latitude":48.649265,
     "geom:longitude":13.966571,
@@ -29,17 +30,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"schaubschlaeger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835711,
+        85632785,
+        101782219,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PTfA7Tx19WTAZdqZJA5w5_48.649265_13.966571@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915938,
-    "wof:geomhash":"9b658baf703f151a40f32beb10f9f5c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6785cf35c82df20213e61a3b69302d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835711,
+            "locality_id":101782219,
+            "region_id":85681677,
+            "venue_id":1092430627
+        }
+    ],
     "wof:id":1092430627,
-    "wof:lastmodified":1473983400,
+    "wof:lastmodified":1496888034,
     "wof:name":"Kurt Schaubschl\u00e4ger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

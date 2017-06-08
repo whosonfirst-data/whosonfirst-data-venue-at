@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3430242538,47.1296844482,15.3430242538,47.1296844482",
     "geom:latitude":47.129684,
     "geom:longitude":15.343024,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893121,
-    "wof:geomhash":"d29344e4cc4d6d6a8f7c805f9e911049",
+    "wof:geomhash":"81ada6669cd270e16d3c607e9c9ff02d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1091923357
         }
     ],
     "wof:id":1091923357,
-    "wof:lastmodified":1473983964,
+    "wof:lastmodified":1496911863,
     "wof:name":"H\u00f6lzlsauer KEG",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4551725388,48.3109664917,13.4551725388,48.3109664917",
     "geom:latitude":48.310966,
     "geom:longitude":13.455173,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"www.zeilberger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835669,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vNaMf8SQaREyHjoSN0IJk_48.310966_13.455173@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910239,
-    "wof:geomhash":"4385a464f3b65c22ad909a25a8ba95f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bed537dbe9813ec386d776292440cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835669,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092307021
+        }
+    ],
     "wof:id":1092307021,
-    "wof:lastmodified":1473984938,
+    "wof:lastmodified":1496887830,
     "wof:name":"Zeilberger F\u00f6rdertechnik GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

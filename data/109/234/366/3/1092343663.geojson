@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7064399719,48.1479644775,16.7064399719,48.1479644775",
     "geom:latitude":48.147964,
     "geom:longitude":16.70644,
@@ -23,17 +24,34 @@
     "sg:postcode":"2304",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835453,
+        85632785,
+        101784623,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fjdTl5Kl6AmfgcWmJmPIu_48.147964_16.706440@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911787,
-    "wof:geomhash":"46097f2af11191f74c713973d4cf48db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"851244be1cb91bfd524cc430ea8cb93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835453,
+            "locality_id":101784623,
+            "region_id":85681671,
+            "venue_id":1092343663
+        }
+    ],
     "wof:id":1092343663,
-    "wof:lastmodified":1473983990,
+    "wof:lastmodified":1496886662,
     "wof:name":"Metallwarenerzeugung Erwin Fuchs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

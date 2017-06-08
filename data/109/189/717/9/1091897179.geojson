@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.460691452,48.1866378784,16.460691452,48.1866378784",
     "geom:latitude":48.186638,
     "geom:longitude":16.460691,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898297,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891935,
-    "wof:geomhash":"38f1b3b762ffdd7616e3f191f960e75c",
+    "wof:geomhash":"900bca6714a88479b74d761672543f08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898297,
             "region_id":85681667,
             "venue_id":1091897179
         }
     ],
     "wof:id":1091897179,
-    "wof:lastmodified":1473984904,
+    "wof:lastmodified":1496904846,
     "wof:name":"NAVROMSA AG",
     "wof:parent_id":85898297,
     "wof:placetype":"venue",

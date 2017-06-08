@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2163352966,46.6273078918,14.2163352966,46.6273078918",
     "geom:latitude":46.627308,
     "geom:longitude":14.216335,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895803,
-    "wof:geomhash":"202a92ca39f20011a508955caad6ffb5",
+    "wof:geomhash":"6e911f8b54f47416b68a23ae9a6395ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1091982697
         }
     ],
     "wof:id":1091982697,
-    "wof:lastmodified":1473983559,
+    "wof:lastmodified":1496906409,
     "wof:name":"UNIQUARE FINANCIAL SOLUTIONS GMBH",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

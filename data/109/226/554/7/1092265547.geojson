@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8088245392,47.217830658,14.8088245392,47.217830658",
     "geom:latitude":47.217831,
     "geom:longitude":14.808825,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839419,
+        85632785,
+        101834229,
+        102049739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HVcopoGjy2Dk4iXRuw78Q_47.217831_14.808825@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908407,
-    "wof:geomhash":"64f7d24663e35cb248fc9bc2f90eb9a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b6011407b502f04963aea08a1793928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049739,
+            "localadmin_id":1108839419,
+            "locality_id":101834229,
+            "region_id":85681687,
+            "venue_id":1092265547
+        }
+    ],
     "wof:id":1092265547,
-    "wof:lastmodified":1473984469,
+    "wof:lastmodified":1496914035,
     "wof:name":"Hans Ofner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

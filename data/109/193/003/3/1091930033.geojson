@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.750620842,47.2661895752,12.750620842,47.2661895752",
     "geom:latitude":47.26619,
     "geom:longitude":12.750621,
@@ -23,17 +24,34 @@
     "sg:postcode":"5710",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        101789131,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I51p0NqMrSzV2xvwCGd9J_47.266190_12.750621@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893511,
-    "wof:geomhash":"ccb34cdaa74ae7996ecc7e1ef4826e00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c683da2bdfbb1f33dfa9c0130bef0747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":101789131,
+            "region_id":85681681,
+            "venue_id":1091930033
+        }
+    ],
     "wof:id":1091930033,
-    "wof:lastmodified":1473983320,
+    "wof:lastmodified":1496895933,
     "wof:name":"FC Kaprun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

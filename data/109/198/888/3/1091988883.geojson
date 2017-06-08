@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4055261612,47.2812271118,11.4055261612,47.2812271118",
     "geom:latitude":47.281227,
     "geom:longitude":11.405526,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896057,
-    "wof:geomhash":"9577d8286eb730078f003a6e29022a69",
+    "wof:geomhash":"f0befae03da67726371bf7b322b21ec0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1091988883
         }
     ],
     "wof:id":1091988883,
-    "wof:lastmodified":1473984571,
+    "wof:lastmodified":1496899452,
     "wof:name":"Duschek GmbH",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

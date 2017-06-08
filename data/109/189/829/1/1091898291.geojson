@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5093898773,47.2822227478,11.5093898773,47.2822227478",
     "geom:latitude":47.282223,
     "geom:longitude":11.50939,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892001,
-    "wof:geomhash":"a94f322cd439242acef83c3dbf75cd4e",
+    "wof:geomhash":"255d0b5d9b031266dee7ca46b532b557",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091898291
         }
     ],
     "wof:id":1091898291,
-    "wof:lastmodified":1473985068,
+    "wof:lastmodified":1496898732,
     "wof:name":"Brentel Helmut",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

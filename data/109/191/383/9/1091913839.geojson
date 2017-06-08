@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6291732788,47.5473709106,10.6291732788,47.5473709106",
     "geom:latitude":47.547371,
     "geom:longitude":10.629173,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837779,
+        85632785,
+        101844507,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E81JCYls5OGNVZLdGUpko_47.547371_10.629173@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892738,
-    "wof:geomhash":"ded2196bbfc83a0ba0687207471f1f21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41c1e200d1bdf821b47f67f19ac81717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837779,
+            "locality_id":101844507,
+            "region_id":85681661,
+            "venue_id":1091913839
+        }
+    ],
     "wof:id":1091913839,
-    "wof:lastmodified":1473983807,
+    "wof:lastmodified":1496899970,
     "wof:name":"Hengg Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

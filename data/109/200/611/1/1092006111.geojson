@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7421379089,47.411491394,9.7421379089,47.411491394",
     "geom:latitude":47.411491,
     "geom:longitude":9.742138,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896792,
-    "wof:geomhash":"b8dbceda7a8f714c697f1f550be34bc1",
+    "wof:geomhash":"33d2e5c3c02e24c0b542bd9d080106ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092006111
         }
     ],
     "wof:id":1092006111,
-    "wof:lastmodified":1473984444,
+    "wof:lastmodified":1496900862,
     "wof:name":"Lick Maximilian",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

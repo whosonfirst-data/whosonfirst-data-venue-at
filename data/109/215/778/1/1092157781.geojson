@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7468633652,47.4621276855,9.7468633652,47.4621276855",
     "geom:latitude":47.462128,
     "geom:longitude":9.746863,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903576,
-    "wof:geomhash":"8dfb01159583d5f8ae0f1241a5104d75",
+    "wof:geomhash":"ecd39f4b5d2810096eff71db1e8f5e45",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092157781
         }
     ],
     "wof:id":1092157781,
-    "wof:lastmodified":1473984874,
+    "wof:lastmodified":1496901909,
     "wof:name":"Volksschule M\u00e4hdle",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

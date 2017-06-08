@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5905847549,47.3045272827,11.5905847549,47.3045272827",
     "geom:latitude":47.304527,
     "geom:longitude":11.590585,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837645,
+        85632785,
+        101844497,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k2tm2nCIwWVjQGRTpGIDm_47.304527_11.590585@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906530,
-    "wof:geomhash":"f11bbd1c8b81facc1fadc96a8621104f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcadbfc6547cb09322fe406abaf5c0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837645,
+            "locality_id":101844497,
+            "region_id":85681661,
+            "venue_id":1092222907
+        }
+    ],
     "wof:id":1092222907,
-    "wof:lastmodified":1473984040,
+    "wof:lastmodified":1496898588,
     "wof:name":"Taxi Troppmair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

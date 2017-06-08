@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4921588898,48.0664749146,13.4921588898,48.0664749146",
     "geom:latitude":48.066475,
     "geom:longitude":13.492159,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"tpi.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836437,
+        85632785,
+        101785661,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HfR8da18GLblqGsUcPXiL_48.066475_13.492159@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895804,
-    "wof:geomhash":"cece2ff6c104d789677a6e6fbe1af583",
-    "wof:hierarchy":[],
+    "wof:geomhash":"208c4b78a1a0c427abc948bb0045ef79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836437,
+            "locality_id":101785661,
+            "region_id":85681677,
+            "venue_id":1091982729
+        }
+    ],
     "wof:id":1091982729,
-    "wof:lastmodified":1473983610,
+    "wof:lastmodified":1496891050,
     "wof:name":"TPI GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

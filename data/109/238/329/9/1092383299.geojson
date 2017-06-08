@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5287446976,46.7512664795,14.5287446976,46.7512664795",
     "geom:latitude":46.751266,
     "geom:longitude":14.528745,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838203,
+        85632785,
+        101790137,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DQDtENLQTFI7ibPrMLL1D_46.751266_14.528745@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913606,
-    "wof:geomhash":"89b637fdb81d82548a9b13c9f46537c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2da9e2716fca825ace6eaa182e22b245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838203,
+            "locality_id":101790137,
+            "region_id":85681655,
+            "venue_id":1092383299
+        }
+    ],
     "wof:id":1092383299,
-    "wof:lastmodified":1473984166,
+    "wof:lastmodified":1496906550,
     "wof:name":"Pizzeria El Piggo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

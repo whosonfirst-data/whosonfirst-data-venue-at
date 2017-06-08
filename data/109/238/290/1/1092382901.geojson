@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2241811752,47.9436836243,13.2241811752,47.9436836243",
     "geom:latitude":47.943684,
     "geom:longitude":13.224181,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        101786779,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T6SpWv7oVgHHB5C85FDLL_47.943684_13.224181@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913580,
-    "wof:geomhash":"2d0d7d326c5fd6065875a1bdf5cd2ed8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b92839ba5acd9425aa5166e33923477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":101786779,
+            "region_id":85681681,
+            "venue_id":1092382901
+        }
+    ],
     "wof:id":1092382901,
-    "wof:lastmodified":1473984109,
+    "wof:lastmodified":1496895530,
     "wof:name":"Pizzeria Avanti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

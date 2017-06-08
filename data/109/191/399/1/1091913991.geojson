@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2251195908,48.1145744324,14.2251195908,48.1145744324",
     "geom:latitude":48.114574,
     "geom:longitude":14.22512,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835555,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uNrQoXFmEt7b2qFMfoZh0_48.114574_14.225120@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892744,
-    "wof:geomhash":"2b731b72a8dd0f393bb1eec8893c5922",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1dce4ed31a4d7eda6890d402d059438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835555,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091913991
+        }
+    ],
     "wof:id":1091913991,
-    "wof:lastmodified":1473983850,
+    "wof:lastmodified":1496887334,
     "wof:name":"IGS Systemmanagement GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0975027084,47.1711921692,13.0975027084,47.1711921692",
     "geom:latitude":47.171192,
     "geom:longitude":13.097503,
@@ -23,17 +24,34 @@
     "sg:postcode":"5630",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        101789117,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fIrHL5fbCu3wzVsub5CJQ_47.171192_13.097503@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890106,
-    "wof:geomhash":"ddf9a2b935bc400a4022c39a19ac7867",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fee0adad8f987701eb134686246797c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":101789117,
+            "region_id":85681681,
+            "venue_id":1091858167
+        }
+    ],
     "wof:id":1091858167,
-    "wof:lastmodified":1473984865,
+    "wof:lastmodified":1496893715,
     "wof:name":"Gasteiner Bergbahnen AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

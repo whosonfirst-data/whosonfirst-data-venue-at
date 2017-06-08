@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1234760284,47.3683929443,16.1234760284,47.3683929443",
     "geom:latitude":47.368393,
     "geom:longitude":16.123476,
@@ -23,17 +24,34 @@
     "sg:postcode":"7423",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838567,
+        85632785,
+        101834275,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ecEe4OSsHeO0g9KWvJNvv_47.368393_16.123476@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912442,
-    "wof:geomhash":"22c374a669b25435f2aa68936a4dffb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5bf5007d631dd0e3d588e14abbc1654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838567,
+            "locality_id":101834275,
+            "region_id":85681651,
+            "venue_id":1092358237
+        }
+    ],
     "wof:id":1092358237,
-    "wof:lastmodified":1473985043,
+    "wof:lastmodified":1496908504,
     "wof:name":"BIPA Parfumerien GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

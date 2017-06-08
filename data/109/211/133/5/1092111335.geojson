@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7386779785,47.2363853455,10.7386779785,47.2363853455",
     "geom:latitude":47.236385,
     "geom:longitude":10.738678,
@@ -23,17 +24,34 @@
     "sg:postcode":"6460",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zTSUanB5eR2jAgkvSaO5V_47.236385_10.738678@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901353,
-    "wof:geomhash":"7410b0b97114e8eb042a10677906fae3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16f7b88888bf6ce52fe05eaa7ef179f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092111335
+        }
+    ],
     "wof:id":1092111335,
-    "wof:lastmodified":1473983633,
+    "wof:lastmodified":1496898377,
     "wof:name":"Tiroler Tageszeitung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

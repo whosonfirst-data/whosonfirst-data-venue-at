@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1713628769,47.3977966309,13.1713628769,47.3977966309",
     "geom:latitude":47.397797,
     "geom:longitude":13.171363,
@@ -23,17 +24,33 @@
     "sg:postcode":"5500",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rWZ5wf2dHy0GMQu95773H_47.397797_13.171363@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899820,
-    "wof:geomhash":"d204137795d08da7d7dee97a171774a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"029c5c53b0eb8b0ce9c285dc50f25772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092081215
+        }
+    ],
     "wof:id":1092081215,
-    "wof:lastmodified":1473983587,
+    "wof:lastmodified":1496893789,
     "wof:name":"Rostatt Jausenstation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

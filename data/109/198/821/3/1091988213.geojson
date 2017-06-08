@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4851427078,47.2782402039,11.4851427078,47.2782402039",
     "geom:latitude":47.27824,
     "geom:longitude":11.485143,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896025,
-    "wof:geomhash":"7e582cb15be98a1753cd6454b93f67a5",
+    "wof:geomhash":"e70185887d58ba4f4bff03b07a59d89f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091988213
         }
     ],
     "wof:id":1091988213,
-    "wof:lastmodified":1473984410,
+    "wof:lastmodified":1496898711,
     "wof:name":"Anker Josef",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

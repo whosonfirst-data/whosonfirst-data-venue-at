@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7004508972,48.291103363,15.7004508972,48.291103363",
     "geom:latitude":48.291103,
     "geom:longitude":15.700451,
@@ -31,17 +32,33 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wet52HkXcMv8pSEym2KDh_48.291103_15.700451@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891881,
-    "wof:geomhash":"467c093f9553735e65f1e400d9590aec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfd512a79c499fc08d8da1cfbcbe0ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091895869
+        }
+    ],
     "wof:id":1091895869,
-    "wof:lastmodified":1473984658,
+    "wof:lastmodified":1496890047,
     "wof:name":"Peter's SANDWICHES",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

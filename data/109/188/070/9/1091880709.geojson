@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5966377258,47.2588615417,9.5966377258,47.2588615417",
     "geom:latitude":47.258862,
     "geom:longitude":9.596638,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891169,
-    "wof:geomhash":"7ce9a75d2b29269945f05a62ab9efeb3",
+    "wof:geomhash":"692e61c349b75f42751b5d30a0deb530",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091880709
         }
     ],
     "wof:id":1091880709,
-    "wof:lastmodified":1473983514,
+    "wof:lastmodified":1496900928,
     "wof:name":"SPARMARKT GISINGEN WARENHANDELS AG",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

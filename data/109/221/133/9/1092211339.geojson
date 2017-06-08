@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4101476669,47.2307434082,11.4101476669,47.2307434082",
     "geom:latitude":47.230743,
     "geom:longitude":11.410148,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906014,
-    "wof:geomhash":"c014af24ac7a5a5f381157992a3d4e05",
+    "wof:geomhash":"cb2f436785b1b19fbaa8963a6fb23c1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092211339
         }
     ],
     "wof:id":1092211339,
-    "wof:lastmodified":1473983688,
+    "wof:lastmodified":1496899396,
     "wof:name":"Sandbichler Hubert",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

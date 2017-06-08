@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3018550873,47.0945625305,14.3018550873,47.0945625305",
     "geom:latitude":47.094563,
     "geom:longitude":14.301855,
@@ -23,17 +24,33 @@
     "sg:postcode":"8813",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838793,
+        85632785,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CBF2j8csizdLJ5vyWncxW_47.094563_14.301855@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899182,
-    "wof:geomhash":"8825b690d542c723e200d2b88a621dc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d0281a28a430fc20e66afb37f7091fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838793,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092066985
+        }
+    ],
     "wof:id":1092066985,
-    "wof:lastmodified":1473984686,
+    "wof:lastmodified":1496909345,
     "wof:name":"Gasthaus Kirchmoar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

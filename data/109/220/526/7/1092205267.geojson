@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3118152618,48.0709877014,16.3118152618,48.0709877014",
     "geom:latitude":48.070988,
     "geom:longitude":16.311815,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"stromag.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834869,
+        85632785,
+        101754185,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06MgZ8NzwKzwXQzGWBoFqb_48.070988_16.311815@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905753,
-    "wof:geomhash":"a7a6395ed84e2fa5c2309833664265cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a68330094c275e4472a6dc0859a58e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108834869,
+            "locality_id":101754185,
+            "region_id":85681671,
+            "venue_id":1092205267
+        }
+    ],
     "wof:id":1092205267,
-    "wof:lastmodified":1473984546,
+    "wof:lastmodified":1496883164,
     "wof:name":"Stromag Antriebstechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6378984451,47.2705345154,9.6378984451,47.2705345154",
     "geom:latitude":47.270535,
     "geom:longitude":9.637898,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906057,
-    "wof:geomhash":"62d1b27204b57504fe2a8e7e0da2a718",
+    "wof:geomhash":"e12d31897e3d8333621a181d9f4f0db4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092212233
         }
     ],
     "wof:id":1092212233,
-    "wof:lastmodified":1473983882,
+    "wof:lastmodified":1496901635,
     "wof:name":"Tabak-Trafik am Bahnhof",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

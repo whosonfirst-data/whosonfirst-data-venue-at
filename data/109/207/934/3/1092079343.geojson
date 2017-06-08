@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3467292786,46.6806259155,14.3467292786,46.6806259155",
     "geom:latitude":46.680626,
     "geom:longitude":14.346729,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898263,
-        102049679
+        102191581,
+        1108838181,
+        85632785,
+        101844431,
+        102049681,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899729,
-    "wof:geomhash":"758fd3a7f51df1ba6aaad681c1711a50",
+    "wof:geomhash":"36ebd70f11006491483cbe8f600a12bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049679,
+            "county_id":102049681,
+            "localadmin_id":1108838181,
+            "locality_id":101844431,
             "neighbourhood_id":85898263,
             "region_id":85681655,
             "venue_id":1092079343
         }
     ],
     "wof:id":1092079343,
-    "wof:lastmodified":1473985022,
+    "wof:lastmodified":1496906428,
     "wof:name":"Maria-Saaler-St\u00fcberl",
     "wof:parent_id":85898263,
     "wof:placetype":"venue",

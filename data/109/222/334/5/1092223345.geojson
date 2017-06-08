@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9553775787,48.076259613,13.9553775787,48.076259613",
     "geom:latitude":48.07626,
     "geom:longitude":13.955378,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836581,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yP4fFhI8mWIItrsDO5pA9_48.076260_13.955378@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906547,
-    "wof:geomhash":"0907ec2628ad0ee4bc512981415349f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d58bd931d32f232c8f26e2f0fbca97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836581,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092223345
+        }
+    ],
     "wof:id":1092223345,
-    "wof:lastmodified":1473984068,
+    "wof:lastmodified":1496891767,
     "wof:name":"Wolf Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6071853638,47.2447662354,9.6071853638,47.2447662354",
     "geom:latitude":47.244766,
     "geom:longitude":9.607185,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893058,
-    "wof:geomhash":"5f59876bc86f4a5ef7e2d762d784f68e",
+    "wof:geomhash":"db448c1a539b15b5a5a6462d085e65c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091921719
         }
     ],
     "wof:id":1091921719,
-    "wof:lastmodified":1473983645,
+    "wof:lastmodified":1496900959,
     "wof:name":"Gebr\u00fcder Weiss GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

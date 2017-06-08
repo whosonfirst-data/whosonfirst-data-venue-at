@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3721084595,46.63331604,14.3721084595,46.63331604",
     "geom:latitude":46.633316,
     "geom:longitude":14.372108,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898710,
-    "wof:geomhash":"fe25cc740b050e4758fb69a84c3bfb4e",
+    "wof:geomhash":"ffd4334ec437f9fd4adfc2dc50a8bfbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092055303
         }
     ],
     "wof:id":1092055303,
-    "wof:lastmodified":1473984322,
+    "wof:lastmodified":1496905785,
     "wof:name":"Kalmar-HebeFahrzeuge HandelgesmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

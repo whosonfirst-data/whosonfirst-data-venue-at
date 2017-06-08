@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0304660797,47.183467865,14.0304660797,47.183467865",
     "geom:latitude":47.183468,
     "geom:longitude":14.030466,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838833,
+        85632785,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77bi3NzSbizAw12O9u85CA_47.183468_14.030466@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888432,
-    "wof:geomhash":"7bb3106432bda341b2ce03afa6103e3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e1f3c541819c30f679df35ed12c12ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838833,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091821877
+        }
+    ],
     "wof:id":1091821877,
-    "wof:lastmodified":1473983804,
+    "wof:lastmodified":1496909518,
     "wof:name":"Arnold Etz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

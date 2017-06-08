@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5092439651,47.2826576233,11.5092439651,47.2826576233",
     "geom:latitude":47.282658,
     "geom:longitude":11.509244,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913657,
-    "wof:geomhash":"d6dc32cc1065e424024a2877db6a59d7",
+    "wof:geomhash":"bffa889b511780d687903613b7cb60c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092384479
         }
     ],
     "wof:id":1092384479,
-    "wof:lastmodified":1473984421,
+    "wof:lastmodified":1496898706,
     "wof:name":"Restaurant-Pizza Geisterburg",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7976875305,47.9179115295,13.7976875305,47.9179115295",
     "geom:latitude":47.917912,
     "geom:longitude":13.797688,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835131,
+        85632785,
+        101833135,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UXNFsWYEY0xiQZkzhd2hE_47.917912_13.797688@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913645,
-    "wof:geomhash":"1b1f7d74caf60d2d298e136ab9fc9c1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"770f11bf6fc5b3d9dbb21b1a96f5fb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835131,
+            "locality_id":101833135,
+            "region_id":85681677,
+            "venue_id":1092384173
+        }
+    ],
     "wof:id":1092384173,
-    "wof:lastmodified":1473984311,
+    "wof:lastmodified":1496884923,
     "wof:name":"Pizzeria Valentino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

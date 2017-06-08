@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4859523773,47.0685691833,11.4859523773,47.0685691833",
     "geom:latitude":47.068569,
     "geom:longitude":11.485952,
@@ -23,17 +24,33 @@
     "sg:postcode":"6150",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837617,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06DTIvZWp8xb3AgveDXTTv_47.068569_11.485952@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889716,
-    "wof:geomhash":"966a2103fcff4c95ec2352727b193bff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c62777ff3cec7dda0929b1976efee32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837617,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091849887
+        }
+    ],
     "wof:id":1091849887,
-    "wof:lastmodified":1473985300,
+    "wof:lastmodified":1496898753,
     "wof:name":"RBS Raffl Bau Service GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

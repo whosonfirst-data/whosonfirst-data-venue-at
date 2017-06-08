@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2122859955,47.6531181335,12.2122859955,47.6531181335",
     "geom:latitude":47.653118,
     "geom:longitude":12.212286,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837411,
+        85632785,
+        101787955,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U9jGVlPjDX7lYkOLReQBi_47.653118_12.212286@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889487,
-    "wof:geomhash":"4146882aa85fac3cd647641ac0ac8373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91da761144ecd5e30be8a741595ff825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837411,
+            "locality_id":101787955,
+            "region_id":85681661,
+            "venue_id":1091845289
+        }
+    ],
     "wof:id":1091845289,
-    "wof:lastmodified":1473984267,
+    "wof:lastmodified":1496897759,
     "wof:name":"Saint-Gobain Weber Terranova GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7473144531,47.0454750061,15.7473144531,47.0454750061",
     "geom:latitude":47.045475,
     "geom:longitude":15.747314,
@@ -23,17 +24,33 @@
     "sg:postcode":"8321",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838909,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3b3MhKbRYjSqOtdx4Z5C4l_47.045475_15.747314@1306268280"
     },
     "wof:country":"AT",
     "wof:created":1473904317,
-    "wof:geomhash":"36631338c6e89c11255f44938274d84b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a66db28af3c8fd528a22a246fbc44d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838909,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092174625
+        }
+    ],
     "wof:id":1092174625,
-    "wof:lastmodified":1473984246,
+    "wof:lastmodified":1496910074,
     "wof:name":"Billa AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

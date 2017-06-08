@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0717039108,47.1565208435,13.0717039108,47.1565208435",
     "geom:latitude":47.156521,
     "geom:longitude":13.071704,
@@ -23,17 +24,33 @@
     "sg:postcode":"5630",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ACXYskzLDTfyO1P2PsWIC_47.156521_13.071704@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898955,
-    "wof:geomhash":"cc32f0b5088ecb7dbffb018894f6b494",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10dc9e0863e867edf38daff459b55c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092061385
+        }
+    ],
     "wof:id":1092061385,
-    "wof:lastmodified":1473983638,
+    "wof:lastmodified":1496893714,
     "wof:name":"Alpengasthof B\u00e4rsteinalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

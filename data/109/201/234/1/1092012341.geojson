@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2093257904,48.0066719055,16.2093257904,48.0066719055",
     "geom:latitude":48.006672,
     "geom:longitude":16.209326,
@@ -25,10 +26,12 @@
     "sg:website":"mejstrik.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897037,
-    "wof:geomhash":"11b6ff1a6d657754bff52e267120252a",
+    "wof:geomhash":"1ab46f2d884e40a7c97a41edb9b24b8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092012341
         }
     ],
     "wof:id":1092012341,
-    "wof:lastmodified":1473983374,
+    "wof:lastmodified":1496886050,
     "wof:name":"Mejstrik Marliese",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

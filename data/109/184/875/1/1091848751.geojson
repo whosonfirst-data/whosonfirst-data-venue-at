@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4346733093,47.5563087463,12.4346733093,47.5563087463",
     "geom:latitude":47.556309,
     "geom:longitude":12.434673,
@@ -23,17 +24,33 @@
     "sg:postcode":"6382",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fiFg0KqknkKaBSvCvGjMH_47.556309_12.434673@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889653,
-    "wof:geomhash":"9dfdcd00342449e5336247b76a64567c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"068e128b98c365fd953a8eba0c9cc35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091848751
+        }
+    ],
     "wof:id":1091848751,
-    "wof:lastmodified":1473985101,
+    "wof:lastmodified":1496897056,
     "wof:name":"Isopp Bauunternehmen u Arbeiterverleih",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

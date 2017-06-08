@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3189821243,46.9830741882,15.3189821243,46.9830741882",
     "geom:latitude":46.983074,
     "geom:longitude":15.318982,
@@ -23,17 +24,34 @@
     "sg:postcode":"8501",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839175,
+        85632785,
+        101789105,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38RHSy9zVhsqKYEKErG1XN_46.983074_15.318982@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916039,
-    "wof:geomhash":"78d01310c7cd3fd10699e45a182689f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2daf4f331b56a849180edbc69947c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839175,
+            "locality_id":101789105,
+            "region_id":85681687,
+            "venue_id":1092432779
+        }
+    ],
     "wof:id":1092432779,
-    "wof:lastmodified":1473983841,
+    "wof:lastmodified":1496911714,
     "wof:name":"Ludwig Boltzmann Forschungstelle f Biosensorik u Bioenerget Umweltforschung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

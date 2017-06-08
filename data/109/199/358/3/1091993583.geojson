@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0878019333,47.7543258667,13.0878019333,47.7543258667",
     "geom:latitude":47.754326,
     "geom:longitude":13.087802,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896257,
-    "wof:geomhash":"98356ede735df23ed952985a33d5a958",
+    "wof:geomhash":"ec2192779c76c32275d2bf005a0dceaa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1091993583
         }
     ],
     "wof:id":1091993583,
-    "wof:lastmodified":1473984059,
+    "wof:lastmodified":1496895291,
     "wof:name":"Zutz Franz",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

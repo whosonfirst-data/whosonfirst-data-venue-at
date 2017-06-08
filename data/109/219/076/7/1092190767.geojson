@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2656097412,48.0912971497,14.2656097412,48.0912971497",
     "geom:latitude":48.091297,
     "geom:longitude":14.26561,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836123,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79JmRZOHraS5SdyALbaUAb_48.091297_14.265610@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905061,
-    "wof:geomhash":"65678518b972db41bf5b220d2bf2f66e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2c78e4710cb95491ed53cf97096de82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836123,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190767
+        }
+    ],
     "wof:id":1092190767,
-    "wof:lastmodified":1473983462,
+    "wof:lastmodified":1496889592,
     "wof:name":"Ing. Karl Kammerhuber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

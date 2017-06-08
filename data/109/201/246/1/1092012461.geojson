@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0604038239,47.3628196716,16.0604038239,47.3628196716",
     "geom:latitude":47.36282,
     "geom:longitude":16.060404,
@@ -35,17 +36,33 @@
         "gate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838467,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pqUO3W6e8YCQogzWdE9Jw_47.362820_16.060404@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897042,
-    "wof:geomhash":"008227b48cf2b607a9d20f992fad717f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1236a1f805cd55a1869b3a0c60aa59ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838467,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092012461
+        }
+    ],
     "wof:id":1092012461,
-    "wof:lastmodified":1473983414,
+    "wof:lastmodified":1496908083,
     "wof:name":"Karl Embst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

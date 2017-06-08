@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7155647278,48.2732162476,15.7155647278,48.2732162476",
     "geom:latitude":48.273216,
     "geom:longitude":15.715565,
@@ -23,17 +24,33 @@
     "sg:postcode":"3130",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42DnwdTSFX3lAs7As1KrXB_48.273216_15.715565@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904113,
-    "wof:geomhash":"44e4af43249e30fa64b0bede87cd2b3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b286f669dace12bec6218d64be801944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092169735
+        }
+    ],
     "wof:id":1092169735,
-    "wof:lastmodified":1473985178,
+    "wof:lastmodified":1496890055,
     "wof:name":"Herzogenburger-Ziegenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

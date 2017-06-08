@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.132194519,47.8737220764,16.132194519,47.8737220764",
     "geom:latitude":47.873722,
     "geom:longitude":16.132195,
@@ -32,17 +33,34 @@
         "moving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834833,
+        85632785,
+        101785619,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tyt63A3Y7ENLuTziIaXuD_47.873722_16.132195@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908274,
-    "wof:geomhash":"2a7aed0d1ea05ee2db283b51be46f93b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c606ac9db4944f12fb73dc088edb303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834833,
+            "locality_id":101785619,
+            "region_id":85681671,
+            "venue_id":1092262373
+        }
+    ],
     "wof:id":1092262373,
-    "wof:lastmodified":1473983920,
+    "wof:lastmodified":1496883586,
     "wof:name":"Erich Moller Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

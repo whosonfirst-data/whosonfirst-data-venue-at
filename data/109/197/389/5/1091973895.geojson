@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1799564362,48.6356887817,15.1799564362,48.6356887817",
     "geom:latitude":48.635689,
     "geom:longitude":15.179956,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836883,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S1uUXesysodpdVqRQzPDg_48.635689_15.179956@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895408,
-    "wof:geomhash":"e6ea3277d913342e5d42b61c8baa5a9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2ea6c70a78473e8e076368994107733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836883,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091973895
+        }
+    ],
     "wof:id":1091973895,
-    "wof:lastmodified":1473984166,
+    "wof:lastmodified":1496893255,
     "wof:name":"STEINER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

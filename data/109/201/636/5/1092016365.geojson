@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3145904541,46.6035003662,14.3145904541,46.6035003662",
     "geom:latitude":46.6035,
     "geom:longitude":14.31459,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897207,
-    "wof:geomhash":"ef5266c0551eda541e16cd2dea73d8c1",
+    "wof:geomhash":"c17dd4b1a5c3534f76e26164275bcb98",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092016365
         }
     ],
     "wof:id":1092016365,
-    "wof:lastmodified":1473984065,
+    "wof:lastmodified":1496905868,
     "wof:name":"Jakob TURNER Innenausbau Raumakustik GmbH & Co KG",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

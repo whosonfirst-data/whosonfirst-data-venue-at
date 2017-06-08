@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3681316376,48.3473815918,16.3681316376,48.3473815918",
     "geom:latitude":48.347382,
     "geom:longitude":16.368132,
@@ -34,17 +35,33 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836939,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18C714wXzTUaQbs0dPDerl_48.347382_16.368132@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890019,
-    "wof:geomhash":"a2d45a3f0a30cf685451e34d8960e80a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6646c238a317c4ac1f46bb89a7adfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836939,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091856487
+        }
+    ],
     "wof:id":1091856487,
-    "wof:lastmodified":1473984468,
+    "wof:lastmodified":1496893431,
     "wof:name":"Bauservice-Fuhs Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

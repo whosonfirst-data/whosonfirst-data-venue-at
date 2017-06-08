@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3540840149,47.4930801392,16.3540840149,47.4930801392",
     "geom:latitude":47.49308,
     "geom:longitude":16.354084,
@@ -23,17 +24,33 @@
     "sg:postcode":"7371",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838639,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dkMMCcWkne1CvGJJkhQv7_47.493080_16.354084@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897466,
-    "wof:geomhash":"af6114619a0eacb929497b20e6bde996",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5246cf2a6742df0275bbe2b4a844a52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838639,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092023203
+        }
+    ],
     "wof:id":1092023203,
-    "wof:lastmodified":1473983924,
+    "wof:lastmodified":1496908955,
     "wof:name":"Pfarramt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

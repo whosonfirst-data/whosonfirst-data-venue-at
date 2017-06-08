@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0257549286,48.3054466248,14.0257549286,48.3054466248",
     "geom:latitude":48.305447,
     "geom:longitude":14.025755,
@@ -31,17 +32,34 @@
         "agriculture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834815,
+        85632785,
+        101784583,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lBkeUfM7e9pqfXNTxoUlb_48.305447_14.025755@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905079,
-    "wof:geomhash":"a5b61d0a749637072ca5030a213f550a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d2e4dab6453599b5d9a09f03dcaa357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834815,
+            "locality_id":101784583,
+            "region_id":85681677,
+            "venue_id":1092191255
+        }
+    ],
     "wof:id":1092191255,
-    "wof:lastmodified":1473983596,
+    "wof:lastmodified":1496882710,
     "wof:name":"GEI\u00dfLMAYR GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

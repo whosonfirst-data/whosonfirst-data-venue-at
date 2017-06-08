@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7499113083,47.4034614563,9.7499113083,47.4034614563",
     "geom:latitude":47.403461,
     "geom:longitude":9.749911,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907316,
-    "wof:geomhash":"818862149a99137e9c8362e01e9c6705",
+    "wof:geomhash":"6f124b404bc5492bc6e07374c92997d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092240975
         }
     ],
     "wof:id":1092240975,
-    "wof:lastmodified":1473983551,
+    "wof:lastmodified":1496900730,
     "wof:name":"Bickel Hanno",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

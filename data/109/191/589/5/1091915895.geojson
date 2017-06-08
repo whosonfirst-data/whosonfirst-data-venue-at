@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6447381973,47.1699066162,14.6447381973,47.1699066162",
     "geom:latitude":47.169907,
     "geom:longitude":14.644738,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839401,
+        85632785,
+        101834243,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40jWQIetGaCA5oYMH3ZQkS_47.169907_14.644738@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892825,
-    "wof:geomhash":"65ef6de6baae279398bee4df538630ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"280082a7ae77768dcfc90784ab727f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839401,
+            "locality_id":101834243,
+            "region_id":85681687,
+            "venue_id":1091915895
+        }
+    ],
     "wof:id":1091915895,
-    "wof:lastmodified":1473984124,
+    "wof:lastmodified":1496913990,
     "wof:name":"Technic Electronic-Computer-Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

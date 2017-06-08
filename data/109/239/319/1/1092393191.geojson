@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3457765579,47.2665557861,11.3457765579,47.2665557861",
     "geom:latitude":47.266556,
     "geom:longitude":11.345777,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914123,
-    "wof:geomhash":"69803186d914045cd60b23e3df33e9f1",
+    "wof:geomhash":"ac02c5ae673ff5bca46c758644f751bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092393191
         }
     ],
     "wof:id":1092393191,
-    "wof:lastmodified":1473983790,
+    "wof:lastmodified":1496899493,
     "wof:name":"Postamt 6027 Innsbruck",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

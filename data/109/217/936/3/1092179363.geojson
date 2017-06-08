@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0058097839,47.8163566589,13.0058097839,47.8163566589",
     "geom:latitude":47.816357,
     "geom:longitude":13.00581,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898521,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        101913413,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904546,
-    "wof:geomhash":"e48fd955ecf38c4571968b35ab97c05f",
+    "wof:geomhash":"d41c8b7471528e76b4632f8df2d45477",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101913413,
             "neighbourhood_id":85898521,
             "region_id":85681681,
             "venue_id":1092179363
         }
     ],
     "wof:id":1092179363,
-    "wof:lastmodified":1473985295,
+    "wof:lastmodified":1496894522,
     "wof:name":"SKB HandelsgmbH",
     "wof:parent_id":85898521,
     "wof:placetype":"venue",

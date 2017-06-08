@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1683273315,47.5987052917,13.1683273315,47.5987052917",
     "geom:latitude":47.598705,
     "geom:longitude":13.168327,
@@ -28,17 +29,33 @@
     "sg:postcode":"5440",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837087,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MT1q9K4kwqcuWqQvhtcuA_47.598705_13.168327@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898382,
-    "wof:geomhash":"3c919e9a40b1193edcd1f49dc4115127",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdc21e62b4d4d17f8c7d65053a22c697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837087,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092046731
+        }
+    ],
     "wof:id":1092046731,
-    "wof:lastmodified":1473983940,
+    "wof:lastmodified":1496894930,
     "wof:name":"Hotel Gasthof Goldener Ochs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

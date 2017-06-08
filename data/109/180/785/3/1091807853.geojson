@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1259298325,47.8936500549,13.1259298325,47.8936500549",
     "geom:latitude":47.89365,
     "geom:longitude":13.12593,
@@ -22,17 +23,34 @@
     "sg:province":"Salzburg",
     "sg:website":"http://members.aon.at/trt",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        101833109,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34w8UdHUQ4nN1e13Eto8gZ_47.893650_13.125930@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473887816,
-    "wof:geomhash":"719fa45b48158c2aa977a922e69d098e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2fa8854f8778e786cffa0be05715223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":101833109,
+            "region_id":85681681,
+            "venue_id":1091807853
+        }
+    ],
     "wof:id":1091807853,
-    "wof:lastmodified":1473984009,
+    "wof:lastmodified":1496895799,
     "wof:name":"TopReifenTeam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

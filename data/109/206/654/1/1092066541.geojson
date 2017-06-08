@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0457057953,47.502407074,12.0457057953,47.502407074",
     "geom:latitude":47.502407,
     "geom:longitude":12.045706,
@@ -23,17 +24,33 @@
     "sg:postcode":"6300",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837273,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zZHwmw8rrjAiif3CGcxP2_47.502407_12.045706@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899163,
-    "wof:geomhash":"6b3e02cb80b5802b0eb2e62722b05c26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f182fa9b5fe488c46968c4e107be4470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837273,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092066541
+        }
+    ],
     "wof:id":1092066541,
-    "wof:lastmodified":1473984573,
+    "wof:lastmodified":1496896593,
     "wof:name":"Gasthaus H\u00f6hlenstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

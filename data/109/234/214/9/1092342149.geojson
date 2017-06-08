@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6171283722,48.1602554321,15.6171283722,48.1602554321",
     "geom:latitude":48.160255,
     "geom:longitude":15.617128,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"members.pgv.at/metallbau.mikschowsky/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836803,
+        85632785,
+        101784541,
+        102049849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lPn2qAY9do8np8eJB9sGV_48.160255_15.617128@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911719,
-    "wof:geomhash":"b8624b301dc65d76f9637bf89078097c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a816ab7c4de5f31e2bfed9051c29df96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049849,
+            "localadmin_id":1108836803,
+            "locality_id":101784541,
+            "region_id":85681671,
+            "venue_id":1092342149
+        }
+    ],
     "wof:id":1092342149,
-    "wof:lastmodified":1473983636,
+    "wof:lastmodified":1496892840,
     "wof:name":"Metallbau Mikschowsky GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

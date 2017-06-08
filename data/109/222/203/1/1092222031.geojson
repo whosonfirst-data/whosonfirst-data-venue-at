@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1368522644,47.1076965332,13.1368522644,47.1076965332",
     "geom:latitude":47.107697,
     "geom:longitude":13.136852,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SmIgSBHqhwRsS6Z5xbAmT_47.107697_13.136852@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906483,
-    "wof:geomhash":"2bcb69d8bb76e99940494e3ecb89d227",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b22fe5b4e33980dc5f5bdc80a9f2f997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092222031
+        }
+    ],
     "wof:id":1092222031,
-    "wof:lastmodified":1473983816,
+    "wof:lastmodified":1496893770,
     "wof:name":"Schett Taxi OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

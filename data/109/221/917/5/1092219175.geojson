@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3448295593,47.2703361511,12.3448295593,47.2703361511",
     "geom:latitude":47.270336,
     "geom:longitude":12.34483,
@@ -23,17 +24,33 @@
     "sg:postcode":"5733",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837193,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_535wYrjllMs7PgkS2E1hEh_47.270336_12.344830@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906367,
-    "wof:geomhash":"7f2627f8aa51aff22c385724ec33dd86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"602779a89158f50c77329d47c53962c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837193,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092219175
+        }
+    ],
     "wof:id":1092219175,
-    "wof:lastmodified":1473985180,
+    "wof:lastmodified":1496895848,
     "wof:name":"Neumayr Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

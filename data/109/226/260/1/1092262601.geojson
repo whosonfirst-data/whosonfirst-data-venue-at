@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8532247543,47.4782752991,9.8532247543,47.4782752991",
     "geom:latitude":47.478275,
     "geom:longitude":9.853225,
@@ -23,17 +24,33 @@
     "sg:postcode":"6933",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837923,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WVZZDzgeiFhao4YB36vu5_47.478275_9.853225@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908283,
-    "wof:geomhash":"b42f6d90c149140c5d5851f15463f6d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dca59bf2356463de8cb96947b400cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837923,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092262601
+        }
+    ],
     "wof:id":1092262601,
-    "wof:lastmodified":1473983989,
+    "wof:lastmodified":1496900721,
     "wof:name":"Schatz Harald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

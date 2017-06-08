@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5614566803,48.2470817566,14.5614566803,48.2470817566",
     "geom:latitude":48.247082,
     "geom:longitude":14.561457,
@@ -31,17 +32,33 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835589,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_154nY5cRqBo6pxN8kWQy2i_48.247082_14.561457@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895748,
-    "wof:geomhash":"a1663b2be37b7650150696435567e5e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4f86118cca690205bfcdadd6e25a2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835589,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091981243
+        }
+    ],
     "wof:id":1091981243,
-    "wof:lastmodified":1473983304,
+    "wof:lastmodified":1496887542,
     "wof:name":"FRANZ REICHART GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

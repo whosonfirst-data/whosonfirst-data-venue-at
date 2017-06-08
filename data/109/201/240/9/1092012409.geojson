@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.856423378,46.6726417542,13.856423378,46.6726417542",
     "geom:latitude":46.672642,
     "geom:longitude":13.856423,
@@ -33,17 +34,33 @@
         "renewal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838357,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T1S9sFbQnvoltFn6jSxEv_46.672642_13.856423@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897040,
-    "wof:geomhash":"32f659fddc5c33c5b2e80e378b010b4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e8904ed71f7286a1d8c4a3b8669471f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838357,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092012409
+        }
+    ],
     "wof:id":1092012409,
-    "wof:lastmodified":1473983375,
+    "wof:lastmodified":1496907472,
     "wof:name":"Thomas M\u00fcnzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

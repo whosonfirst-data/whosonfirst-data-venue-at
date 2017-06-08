@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5359325409,47.3716163635,12.5359325409,47.3716163635",
     "geom:latitude":47.371616,
     "geom:longitude":12.535933,
@@ -28,17 +29,33 @@
     "sg:postcode":"5754",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14tlTG3rB2lt223Dn8T8il_47.371616_12.535933@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898605,
-    "wof:geomhash":"636303e58873b181ac179a657c1b6ae0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24aae62d1d7387fd2f12c42ca97a93ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092052385
+        }
+    ],
     "wof:id":1092052385,
-    "wof:lastmodified":1473983806,
+    "wof:lastmodified":1496896224,
     "wof:name":"Hotel Lengauerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

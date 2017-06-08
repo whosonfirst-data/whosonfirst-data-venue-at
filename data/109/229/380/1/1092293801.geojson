@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1352739334,47.3954772949,12.1352739334,47.3954772949",
     "geom:latitude":47.395477,
     "geom:longitude":12.135274,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fGOK5X7l5YpKSYYjWlM2A_47.395477_12.135274@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909606,
-    "wof:geomhash":"b7e8689d89261a2f7cf7fa9648ef919f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b272aa60817c2ab6a0a87f28f73a856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092293801
+        }
+    ],
     "wof:id":1092293801,
-    "wof:lastmodified":1473984263,
+    "wof:lastmodified":1496896994,
     "wof:name":"Ferienhof Rehaber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

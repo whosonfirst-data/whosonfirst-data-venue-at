@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8413705826,46.7966957092,12.8413705826,46.7966957092",
     "geom:latitude":46.796696,
     "geom:longitude":12.841371,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837507,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0laiMUeDOobrJetAlImIrQ_46.796696_12.841371@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473887740,
-    "wof:geomhash":"5dfa099e3c3ce367faec3a6f4a9c55e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b83fc9af611a10e73cbc5c4aae80204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837507,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091806593
+        }
+    ],
     "wof:id":1091806593,
-    "wof:lastmodified":1473983746,
+    "wof:lastmodified":1496898118,
     "wof:name":"Schotterwerk Schmidl GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

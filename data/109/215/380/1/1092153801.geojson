@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3886451721,48.2040252686,16.3886451721,48.2040252686",
     "geom:latitude":48.204025,
     "geom:longitude":16.388645,
@@ -24,13 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898697,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898765,
-        85898697
+        85681667,
+        85898765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473903384,
-    "wof:geomhash":"268b36e559abb7ca026d75aaf95f7ce9",
+    "wof:geomhash":"e6a925d9c59854a99fcaeab2e3f22c88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898765,
+            "neighbourhood_id":85898697,
             "region_id":85681667,
             "venue_id":1092153801
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898697,
+            "neighbourhood_id":85898765,
             "region_id":85681667,
             "venue_id":1092153801
         }
     ],
     "wof:id":1092153801,
-    "wof:lastmodified":1473984030,
+    "wof:lastmodified":1496902330,
     "wof:name":"Generali Versicherung AG",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

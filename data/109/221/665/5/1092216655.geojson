@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3308153152,47.1888465881,15.3308153152,47.1888465881",
     "geom:latitude":47.188847,
     "geom:longitude":15.330815,
@@ -23,17 +24,33 @@
     "sg:postcode":"8121",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839211,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2clagKmPadPOHI5W10XEPx_47.188847_15.330815@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906264,
-    "wof:geomhash":"b677905a46a0a6415ee4da9b2a8993fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c74f2bc8cac03ae93d917dfc821cff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839211,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092216655
+        }
+    ],
     "wof:id":1092216655,
-    "wof:lastmodified":1473984748,
+    "wof:lastmodified":1496911972,
     "wof:name":"OMV AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

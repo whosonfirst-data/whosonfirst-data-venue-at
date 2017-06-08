@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5165424347,48.2111663818,16.5165424347,48.2111663818",
     "geom:latitude":48.211166,
     "geom:longitude":16.516542,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908867,
-    "wof:geomhash":"599e2b812ae8d669d9b2d40a82b21dbc",
+    "wof:geomhash":"2005dc15e6b6ecadccd01630b691f073",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092276269
         }
     ],
     "wof:id":1092276269,
-    "wof:lastmodified":1473984972,
+    "wof:lastmodified":1496904476,
     "wof:name":"Jarosch & Haas GesmbH",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

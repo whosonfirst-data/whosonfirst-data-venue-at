@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0551786423,46.9620056152,13.0551786423,46.9620056152",
     "geom:latitude":46.962006,
     "geom:longitude":13.055179,
@@ -28,17 +29,33 @@
     "sg:postcode":"9831",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838261,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31aY01k0GWERw0vOZEhUPa_46.962006_13.055179@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898280,
-    "wof:geomhash":"bf443f71b123abd3d3b05cb20b6043a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b7bce3de55185abb5a14ce319c41394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838261,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092043901
+        }
+    ],
     "wof:id":1092043901,
-    "wof:lastmodified":1473983504,
+    "wof:lastmodified":1496906850,
     "wof:name":"Alpenhotel Badmeister",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

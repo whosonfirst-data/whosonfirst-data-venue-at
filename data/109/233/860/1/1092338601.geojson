@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0392436981,47.7149620056,16.0392436981,47.7149620056",
     "geom:latitude":47.714962,
     "geom:longitude":16.039244,
@@ -33,17 +34,34 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        101833087,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b1tP30Ml0d10QSXoylLpm_47.714962_16.039244@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911571,
-    "wof:geomhash":"f8dc6407a31a6e3ae8bb2b5366f10432",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eef691bf66ddf8d381419274eee4a21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":101833087,
+            "region_id":85681671,
+            "venue_id":1092338601
+        }
+    ],
     "wof:id":1092338601,
-    "wof:lastmodified":1473985298,
+    "wof:lastmodified":1496885865,
     "wof:name":"MAPLAN MASCHINENBAU GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

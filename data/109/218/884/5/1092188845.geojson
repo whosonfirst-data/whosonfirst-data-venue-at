@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9185934067,47.3004188538,10.9185934067,47.3004188538",
     "geom:latitude":47.300419,
     "geom:longitude":10.918593,
@@ -32,17 +33,33 @@
         "adventure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837433,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06niR3vF1jc0SXOugBNdwp_47.300419_10.918593@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904975,
-    "wof:geomhash":"26a1c165ccf6ce19f0a936655af108e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5f6cf549797297b6d5e35cb87bbedad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837433,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092188845
+        }
+    ],
     "wof:id":1092188845,
-    "wof:lastmodified":1473985048,
+    "wof:lastmodified":1496897832,
     "wof:name":"\u00dcberlebensschule Tirol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

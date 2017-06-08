@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9539413452,47.5202484131,14.9539413452,47.5202484131",
     "geom:latitude":47.520248,
     "geom:longitude":14.953941,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.praebichl.at.tf",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838987,
+        85632785,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yWmqoUcQQYhFwE3hob98W_47.520248_14.953941@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894822,
-    "wof:geomhash":"6c385ccfe324c8169f4873c120c5a671",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e1340521aa61c66a0c6230d3367bcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838987,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091959971
+        }
+    ],
     "wof:id":1091959971,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496910672,
     "wof:name":"Pr\u00e4bichl Bergbahnen -------- Vordernberg/ Steiermark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

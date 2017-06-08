@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3227157593,48.0479888916,15.3227157593,48.0479888916",
     "geom:latitude":48.047989,
     "geom:longitude":15.322716,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835871,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hRBJ5DPsIdIeX9wwYMwRx_48.047989_15.322716@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897050,
-    "wof:geomhash":"596996eee48ef00cf97f06e9bb89b06a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d1654123068f7d0f35e6a35755baa8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835871,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092012663
+        }
+    ],
     "wof:id":1092012663,
-    "wof:lastmodified":1473983417,
+    "wof:lastmodified":1496888727,
     "wof:name":"Hauss & Fr\u00fchwald OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

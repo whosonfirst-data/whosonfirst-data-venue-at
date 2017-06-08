@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2638950348,48.1635513306,16.2638950348,48.1635513306",
     "geom:latitude":48.163551,
     "geom:longitude":16.263895,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902360,
-    "wof:geomhash":"ea7d4b0222295c947eb518f3608b16ef",
+    "wof:geomhash":"025cb75e48b2dbdf17b609d62abbc387",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092132021
         }
     ],
     "wof:id":1092132021,
-    "wof:lastmodified":1473983768,
+    "wof:lastmodified":1496929100,
     "wof:name":"Tanzler Herbert",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7934331894,47.3084831238,12.7934331894,47.3084831238",
     "geom:latitude":47.308483,
     "geom:longitude":12.793433,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64ALHjCta5MZJe2zHPBOkS_47.308483_12.793433@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888423,
-    "wof:geomhash":"93026a4190e3bdf029458281e20e6787",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3163867d0f26c41d6e86ff1163996d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091821663
+        }
+    ],
     "wof:id":1091821663,
-    "wof:lastmodified":1473983775,
+    "wof:lastmodified":1496896420,
     "wof:name":"Pinzgaubahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

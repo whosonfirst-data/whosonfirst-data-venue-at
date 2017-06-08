@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3000459671,46.6091766357,14.3000459671,46.6091766357",
     "geom:latitude":46.609177,
     "geom:longitude":14.300046,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897708,
-    "wof:geomhash":"07f4de9dd7f060e0b099291e6520598f",
+    "wof:geomhash":"1acb91405ea4e1adceef2bd67870e17f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092029515
         }
     ],
     "wof:id":1092029515,
-    "wof:lastmodified":1473985174,
+    "wof:lastmodified":1496905725,
     "wof:name":"Kosmetik-Fachstudio Beauty-Treff",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

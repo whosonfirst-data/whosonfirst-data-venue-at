@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6415195465,48.254360199,15.6415195465,48.254360199",
     "geom:latitude":48.25436,
     "geom:longitude":15.64152,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"fraberger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834925,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rOlz3rdplS0fxItyoaVQY_48.254360_15.641520@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895433,
-    "wof:geomhash":"d85d4d19ffa1c84d276b71029ffe1034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"884e536b0bc8f9230f44a939f396d720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834925,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091974525
+        }
+    ],
     "wof:id":1091974525,
-    "wof:lastmodified":1473984305,
+    "wof:lastmodified":1496883582,
     "wof:name":"Fraberger Gesellschaft m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

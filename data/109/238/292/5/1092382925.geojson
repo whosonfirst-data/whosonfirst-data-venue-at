@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7090015411,46.7979393005,13.7090015411,46.7979393005",
     "geom:latitude":46.797939,
     "geom:longitude":13.709002,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838289,
+        85632785,
+        101790149,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JZGelIFduGPLqpCKSxs1d_46.797939_13.709002@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913584,
-    "wof:geomhash":"164eb0007d5f70ca2b43653d7e162ed8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f0f7710b37a9d59314a54aadc2c726f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838289,
+            "locality_id":101790149,
+            "region_id":85681655,
+            "venue_id":1092382925
+        }
+    ],
     "wof:id":1092382925,
-    "wof:lastmodified":1473984093,
+    "wof:lastmodified":1496907002,
     "wof:name":"Pizzeria Beim Hermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8836269379,48.1244277954,14.8836269379,48.1244277954",
     "geom:latitude":48.124428,
     "geom:longitude":14.883627,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"schilder-stadler.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101784475,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1muuPWVbIAikMGBTJ2owxS_48.124428_14.883627@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891947,
-    "wof:geomhash":"c527fa121dea25c509527bfb529c8202",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0f226d451623f45253bf18a8232b37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101784475,
+            "region_id":85681671,
+            "venue_id":1091897393
+        }
+    ],
     "wof:id":1091897393,
-    "wof:lastmodified":1473984933,
+    "wof:lastmodified":1496883345,
     "wof:name":"Stadler Siebdruck-Schilder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

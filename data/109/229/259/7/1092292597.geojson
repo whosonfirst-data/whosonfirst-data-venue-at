@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4248857498,46.925403595,12.4248857498,46.925403595",
     "geom:latitude":46.925404,
     "geom:longitude":12.424886,
@@ -23,17 +24,33 @@
     "sg:postcode":"9962",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837781,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EbvHAuNkffJh42Sdbl0r7_46.925404_12.424886@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909551,
-    "wof:geomhash":"249749a11049c6c894c6ef1252919b29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a31dc7c45920a50038eda44b7ae3203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837781,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092292597
+        }
+    ],
     "wof:id":1092292597,
-    "wof:lastmodified":1473983971,
+    "wof:lastmodified":1496899977,
     "wof:name":"Birkenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

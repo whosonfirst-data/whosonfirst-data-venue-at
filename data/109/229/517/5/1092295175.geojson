@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1905317307,46.9670715332,10.1905317307,46.9670715332",
     "geom:latitude":46.967072,
     "geom:longitude":10.190532,
@@ -23,17 +24,33 @@
     "sg:postcode":"6563",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837293,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NxT7FqLRfjbGvefIGRyp8_46.967072_10.190532@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909661,
-    "wof:geomhash":"f7be1391dc29e0a28352a49dfa3546ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f09de8cfa6a196861fc67d0cb9d67896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837293,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092295175
+        }
+    ],
     "wof:id":1092295175,
-    "wof:lastmodified":1473984505,
+    "wof:lastmodified":1496896731,
     "wof:name":"Haus Belvedere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

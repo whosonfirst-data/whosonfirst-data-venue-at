@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3450222015,47.5082626343,16.3450222015,47.5082626343",
     "geom:latitude":47.508263,
     "geom:longitude":16.345022,
@@ -23,17 +24,33 @@
     "sg:postcode":"7372",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838639,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GBmzUdc0AmFhKX3piDNoJ_47.508263_16.345022@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900758,
-    "wof:geomhash":"377b3ba9c0a3af5afd829ec4907f6641",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d2571f0eb13980ccc7e0668fee205cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838639,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092099059
+        }
+    ],
     "wof:id":1092099059,
-    "wof:lastmodified":1473984976,
+    "wof:lastmodified":1496908955,
     "wof:name":"Karlwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

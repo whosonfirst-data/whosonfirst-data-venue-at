@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7079849243,47.4171714783,13.7079849243,47.4171714783",
     "geom:latitude":47.417171,
     "geom:longitude":13.707985,
@@ -23,17 +24,33 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.knollhof.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838921,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75MldZ5I1fDICZMkz8Mk4s_47.417171_13.707985@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894827,
-    "wof:geomhash":"0e7f61a164c01d659c2f27c4520e62df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f69396c80285e2a70bd263f8c8c844e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838921,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091960079
+        }
+    ],
     "wof:id":1091960079,
-    "wof:lastmodified":1473983333,
+    "wof:lastmodified":1496910224,
     "wof:name":"Familienhotel Knollhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

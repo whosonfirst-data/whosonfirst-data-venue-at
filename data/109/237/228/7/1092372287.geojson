@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4521465302,47.1322975159,11.4521465302,47.1322975159",
     "geom:latitude":47.132298,
     "geom:longitude":11.452147,
@@ -23,17 +24,33 @@
     "sg:postcode":"6143",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837543,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71lRqjeDC8qyRRk1myJt90_47.132298_11.452147@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913121,
-    "wof:geomhash":"608910c3bc6c5a56484945bca3097156",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52855a5aa1f891261519df061f9eba9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837543,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092372287
+        }
+    ],
     "wof:id":1092372287,
-    "wof:lastmodified":1473983961,
+    "wof:lastmodified":1496898452,
     "wof:name":"Pension Steiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

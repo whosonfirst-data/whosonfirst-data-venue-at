@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3428201675,47.2654037476,11.3428201675,47.2654037476",
     "geom:latitude":47.265404,
     "geom:longitude":11.34282,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914504,
-    "wof:geomhash":"fa1eee9d5e2edf9fa6ec746de82716be",
+    "wof:geomhash":"701b7307a9b037841d1dd2d16af1b834",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092402163
         }
     ],
     "wof:id":1092402163,
-    "wof:lastmodified":1473983733,
+    "wof:lastmodified":1496899216,
     "wof:name":"Wurzer Mathilde Mag",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

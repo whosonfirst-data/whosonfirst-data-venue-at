@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0815315247,47.7889938354,13.0815315247,47.7889938354",
     "geom:latitude":47.788994,
     "geom:longitude":13.081532,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897401,
-    "wof:geomhash":"d49000445d85d075896dec2d60e7b1fb",
+    "wof:geomhash":"b6696a29d824470b1c2dc939c1eef9a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092021449
         }
     ],
     "wof:id":1092021449,
-    "wof:lastmodified":1473983632,
+    "wof:lastmodified":1496894537,
     "wof:name":"Kolleg St Josef - Priesterseminar",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

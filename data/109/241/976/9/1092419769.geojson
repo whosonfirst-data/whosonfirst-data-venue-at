@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4059314728,47.2779846191,11.4059314728,47.2779846191",
     "geom:latitude":47.277985,
     "geom:longitude":11.405931,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915434,
-    "wof:geomhash":"04435a0d03225dd5d3ded613bc3a242a",
+    "wof:geomhash":"11deb8dd65304d4676bec1a8cb269c10",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092419769
         }
     ],
     "wof:id":1092419769,
-    "wof:lastmodified":1473985203,
+    "wof:lastmodified":1496899561,
     "wof:name":"liveTV - Stelzhammer & Partner",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

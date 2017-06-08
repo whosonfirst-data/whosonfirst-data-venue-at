@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6947393417,46.5571250916,13.6947393417,46.5571250916",
     "geom:latitude":46.557125,
     "geom:longitude":13.694739,
@@ -32,17 +33,34 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838323,
+        85632785,
+        101790107,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59VEGuJPnC0eQx7pm4o9FJ_46.557125_13.694739@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905579,
-    "wof:geomhash":"0d599e297170a3bc4e7129e6c5b93458",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a0740113b8455e9fb2cd5b9931d5fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838323,
+            "locality_id":101790107,
+            "region_id":85681655,
+            "venue_id":1092202093
+        }
+    ],
     "wof:id":1092202093,
-    "wof:lastmodified":1473983838,
+    "wof:lastmodified":1496907320,
     "wof:name":"CHEMETALL GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

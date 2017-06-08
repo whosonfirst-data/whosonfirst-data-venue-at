@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4707050323,46.9692611694,13.4707050323,46.9692611694",
     "geom:latitude":46.969261,
     "geom:longitude":13.470705,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838275,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TUkYnqu42GeOkOKidtMLg_46.969261_13.470705@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897081,
-    "wof:geomhash":"f2195c51155612eded53e6d0cb4e87c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc53ac093986835a25609a4e00b81a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838275,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092013405
+        }
+    ],
     "wof:id":1092013405,
-    "wof:lastmodified":1473983569,
+    "wof:lastmodified":1496906927,
     "wof:name":"Franz Feistritzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.4585361481,47.5175323486,10.4585361481,47.5175323486",
     "geom:latitude":47.517532,
     "geom:longitude":10.458536,
@@ -28,17 +29,33 @@
     "sg:postcode":"6677",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837769,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IM9FbX7B395FjNX2yeD5q_47.517532_10.458536@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895052,
-    "wof:geomhash":"9ba425719745550dafb339648e5a87b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d675bb7343942039ce3ba9d2b5004ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837769,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091965417
+        }
+    ],
     "wof:id":1091965417,
-    "wof:lastmodified":1473984183,
+    "wof:lastmodified":1496899943,
     "wof:name":"Restaurant B\u00e4ren-Alm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

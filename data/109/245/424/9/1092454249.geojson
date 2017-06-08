@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0038995743,47.2913551331,13.0038995743,47.2913551331",
     "geom:latitude":47.291355,
     "geom:longitude":13.0039,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"gasthof-kraemerwirt.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837209,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55qBQIBN3fntVByQEBixuX_47.291355_13.003900@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917021,
-    "wof:geomhash":"af2112a8d09233b822c5fb7995988bd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"177a559155f26900193fd0296b684db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837209,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092454249
+        }
+    ],
     "wof:id":1092454249,
-    "wof:lastmodified":1473983444,
+    "wof:lastmodified":1496895981,
     "wof:name":"Kr\u00e4merwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

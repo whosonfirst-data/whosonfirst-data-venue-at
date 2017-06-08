@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6430273056,47.2708015442,9.6430273056,47.2708015442",
     "geom:latitude":47.270802,
     "geom:longitude":9.643027,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914415,
-    "wof:geomhash":"c03dbc68135622e88f6bb63957b167ad",
+    "wof:geomhash":"756d41d1e6d71ceeef2d319801576a16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092399963
         }
     ],
     "wof:id":1092399963,
-    "wof:lastmodified":1473985128,
+    "wof:lastmodified":1496901655,
     "wof:name":"Martin-Reiner Doris Dr",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

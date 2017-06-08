@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3291101456,47.2633895874,11.3291101456,47.2633895874",
     "geom:latitude":47.26339,
     "geom:longitude":11.32911,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897424,
-    "wof:geomhash":"04b30e6481b8d150153c561547a16982",
+    "wof:geomhash":"380aab979d00154423eadd7d589700e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092022019
         }
     ],
     "wof:id":1092022019,
-    "wof:lastmodified":1473983712,
+    "wof:lastmodified":1496899457,
     "wof:name":"Pfarramt Kranebitten",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1221218109,47.7196731567,16.1221218109,47.7196731567",
     "geom:latitude":47.719673,
     "geom:longitude":16.122122,
@@ -31,17 +32,33 @@
         "moped"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834921,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Lm1HPUFkQIOD5Ewy9WUZp_47.719673_16.122122@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911935,
-    "wof:geomhash":"463a292d09a0a5ecfb1cb85188ee6e8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cf2c0db896b3017ca79d50ceddb0281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108834921,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092347207
+        }
+    ],
     "wof:id":1092347207,
-    "wof:lastmodified":1473984752,
+    "wof:lastmodified":1496883559,
     "wof:name":"Zweirad Treffpunkt Jernei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

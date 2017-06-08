@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6423301697,47.2784118652,9.6423301697,47.2784118652",
     "geom:latitude":47.278412,
     "geom:longitude":9.64233,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897018,
-    "wof:geomhash":"66f354d788f3283e03d6ac32e55cc7d9",
+    "wof:geomhash":"5a34fb8c5291082142648f5382ef181b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092011851
         }
     ],
     "wof:id":1092011851,
-    "wof:lastmodified":1473983329,
+    "wof:lastmodified":1496901661,
     "wof:name":"Altendorfer Eva Dipl-Dolm",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7426042557,47.4116973877,9.7426042557,47.4116973877",
     "geom:latitude":47.411697,
     "geom:longitude":9.742604,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912022,
-    "wof:geomhash":"0972137a762942903eeffa8f58524468",
+    "wof:geomhash":"6b30416b5292a61bdf8943698d6274be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092348923
         }
     ],
     "wof:id":1092348923,
-    "wof:lastmodified":1473985014,
+    "wof:lastmodified":1496900795,
     "wof:name":"INATURA - Vorarlberger Naturschau - Naturhistorisches Museum",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

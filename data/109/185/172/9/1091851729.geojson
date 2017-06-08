@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9172449112,47.4065818787,10.9172449112,47.4065818787",
     "geom:latitude":47.406582,
     "geom:longitude":10.917245,
@@ -31,17 +32,34 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837813,
+        85632785,
+        101787859,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QNw0UvV15Rs9sk2TT1lX5_47.406582_10.917245@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889792,
-    "wof:geomhash":"bf4ae45bdc3692f38824abfe50217e47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"148b92215247cc9b1519a320126cd18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837813,
+            "locality_id":101787859,
+            "region_id":85681661,
+            "venue_id":1091851729
+        }
+    ],
     "wof:id":1091851729,
-    "wof:lastmodified":1473983602,
+    "wof:lastmodified":1496900049,
     "wof:name":"Herbert Kerber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

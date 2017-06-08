@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3732538223,47.2337608337,11.3732538223,47.2337608337",
     "geom:latitude":47.233761,
     "geom:longitude":11.373254,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914596,
-    "wof:geomhash":"8f7cf6b2b531a6bc64d83ec4d31fdfab",
+    "wof:geomhash":"18223ab7384cb292e50438502e05d719",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092404315
         }
     ],
     "wof:id":1092404315,
-    "wof:lastmodified":1473984099,
+    "wof:lastmodified":1496898477,
     "wof:name":"Friessenegg Manfred",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

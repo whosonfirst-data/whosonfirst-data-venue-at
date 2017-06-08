@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6133365631,47.4894485474,16.6133365631,47.4894485474",
     "geom:latitude":47.489449,
     "geom:longitude":16.613337,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838715,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6106s9wnyQe9gyw2KKJJMa_47.489449_16.613337@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908141,
-    "wof:geomhash":"798fdee0f775586ac4b8a1b3bfb07c8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a25be03be958669fc314fed06c169d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838715,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092259687
+        }
+    ],
     "wof:id":1092259687,
-    "wof:lastmodified":1473985224,
+    "wof:lastmodified":1496909168,
     "wof:name":"Steiger Wilhelm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

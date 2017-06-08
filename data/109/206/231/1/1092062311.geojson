@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2884578705,47.3172950745,13.2884578705,47.3172950745",
     "geom:latitude":47.317295,
     "geom:longitude":13.288458,
@@ -23,17 +24,33 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10L9kBr4dSGGvgYhe6ehrs_47.317295_13.288458@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898995,
-    "wof:geomhash":"3c3be4b1485c14ca88d80686dfbd8d3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"798bbe484416152b34e5b300e39e9e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092062311
+        }
+    ],
     "wof:id":1092062311,
-    "wof:lastmodified":1473983801,
+    "wof:lastmodified":1496894172,
     "wof:name":"Berggasthof H\u00f6llenstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

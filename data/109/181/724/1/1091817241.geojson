@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4248151779,48.0610122681,14.4248151779,48.0610122681",
     "geom:latitude":48.061012,
     "geom:longitude":14.424815,
@@ -33,17 +34,34 @@
         "planning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AsNbiV8ornTVh0daqApy9_48.061012_14.424815@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473888228,
-    "wof:geomhash":"9826f86ea03b82ec3dc7b1c74d471694",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34c961c4199dd2b2babdea24896427bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1091817241
+        }
+    ],
     "wof:id":1091817241,
-    "wof:lastmodified":1473984891,
+    "wof:lastmodified":1496881747,
     "wof:name":"Josef Braunreiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

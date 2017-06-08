@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7422208786,48.2717132568,13.7422208786,48.2717132568",
     "geom:latitude":48.271713,
     "geom:longitude":13.742221,
@@ -32,17 +33,33 @@
         "plaster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835205,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lEOMg1Qr5pKwR5v5WO0MD_48.271713_13.742221@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913809,
-    "wof:geomhash":"194a3dfda24a167067fcacabcccba4d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fd2697fa317937a85e242342d748577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835205,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092387315
+        }
+    ],
     "wof:id":1092387315,
-    "wof:lastmodified":1473985044,
+    "wof:lastmodified":1496885446,
     "wof:name":"Thallermayr Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0887126923,47.3715629578,15.0887126923,47.3715629578",
     "geom:latitude":47.371563,
     "geom:longitude":15.088713,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898553,
-        102049769
+        102191581,
+        1108839009,
+        85632785,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890397,
-    "wof:geomhash":"e2e5aae499553a0dc2859aeaa8b2d155",
+    "wof:geomhash":"d19230fcd2f0f55be09f83ea889dbf6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":-1,
             "neighbourhood_id":85898553,
             "region_id":85681687,
             "venue_id":1091864201
         }
     ],
     "wof:id":1091864201,
-    "wof:lastmodified":1473984433,
+    "wof:lastmodified":1496910797,
     "wof:name":"Lorenz Pflegebetten - Verkauf und Vermietung",
     "wof:parent_id":85898553,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7575588226,47.2709770203,12.7575588226,47.2709770203",
     "geom:latitude":47.270977,
     "geom:longitude":12.757559,
@@ -28,17 +29,34 @@
     "sg:postcode":"5710",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        101789131,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ouLBB4yCjg1jEdrjG0GDk_47.270977_12.757559@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898473,
-    "wof:geomhash":"18b3bd2ae8af8474abf8892f669cfda4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bb40d973f17d5baa6e6bd7f84c0c857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":101789131,
+            "region_id":85681681,
+            "venue_id":1092049033
+        }
+    ],
     "wof:id":1092049033,
-    "wof:lastmodified":1473984306,
+    "wof:lastmodified":1496895936,
     "wof:name":"Hotel Waidmannsheil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

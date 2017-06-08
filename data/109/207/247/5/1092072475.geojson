@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9626731873,47.2927436829,12.9626731873,47.2927436829",
     "geom:latitude":47.292744,
     "geom:longitude":12.962673,
@@ -23,17 +24,33 @@
     "sg:postcode":"5660",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837241,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zs9S8Lpaazm5WtjpGgVWt_47.292744_12.962673@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899409,
-    "wof:geomhash":"c096da047af5132661c05bfb581943d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d130fd487b2d7539e5596f9513a8316b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837241,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092072475
+        }
+    ],
     "wof:id":1092072475,
-    "wof:lastmodified":1473983787,
+    "wof:lastmodified":1496896374,
     "wof:name":"Gasthof Glanzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

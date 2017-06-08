@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4485626221,48.2880973816,16.4485626221,48.2880973816",
     "geom:latitude":48.288097,
     "geom:longitude":16.448563,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899331,
-    "wof:geomhash":"5ed4e18199d887c24513d2a0523e79e8",
+    "wof:geomhash":"f7bec65a69d1a8ff03b0c81974f4e5a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092070599
         }
     ],
     "wof:id":1092070599,
-    "wof:lastmodified":1473983442,
+    "wof:lastmodified":1496890140,
     "wof:name":"Gasthaus z Wiener Grenze",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

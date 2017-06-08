@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7442932129,47.4154701233,9.7442932129,47.4154701233",
     "geom:latitude":47.41547,
     "geom:longitude":9.744293,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916713,
-    "wof:geomhash":"3d5e3b7b95d4822b8242602bfb99e4ed",
+    "wof:geomhash":"74f640939ba472ad58e044e1285f9a23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092447223
         }
     ],
     "wof:id":1092447223,
-    "wof:lastmodified":1473985120,
+    "wof:lastmodified":1496900734,
     "wof:name":"Haarstudio La Vita",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2881851196,47.2319526672,11.2881851196,47.2319526672",
     "geom:latitude":47.231953,
     "geom:longitude":11.288185,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893432,
-    "wof:geomhash":"10cf84232269cce2e6a768149ab8efef",
+    "wof:geomhash":"15b71c93d2f34f5eef55981771f8cc09",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091928327
         }
     ],
     "wof:id":1091928327,
-    "wof:lastmodified":1473984833,
+    "wof:lastmodified":1496898033,
     "wof:name":"Sporthaus Olympia GesmbH & Co KG",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2944316864,47.3343963623,13.2944316864,47.3343963623",
     "geom:latitude":47.334396,
     "geom:longitude":13.294432,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        101912395,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uFUZpZDnHzpYEO8zewXCl_47.334396_13.294432@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906525,
-    "wof:geomhash":"f965ad54bf04a26562da1f4959941234",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92fa48e20b330dd3869735eeb2835c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":101912395,
+            "region_id":85681681,
+            "venue_id":1092222841
+        }
+    ],
     "wof:id":1092222841,
-    "wof:lastmodified":1473984002,
+    "wof:lastmodified":1496894174,
     "wof:name":"Taxi Scherer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

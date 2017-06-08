@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0785121918,47.8070983887,13.0785121918,47.8070983887",
     "geom:latitude":47.807098,
     "geom:longitude":13.078512,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914324,
-    "wof:geomhash":"a4a6020ab17257478981d153da1ebdb0",
+    "wof:geomhash":"5d36358ecd4b92a133632f96c45727a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092397929
         }
     ],
     "wof:id":1092397929,
-    "wof:lastmodified":1473984745,
+    "wof:lastmodified":1496894478,
     "wof:name":"Carl Hadwig",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

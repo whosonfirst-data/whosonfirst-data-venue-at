@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7633085251,48.4133872986,13.7633085251,48.4133872986",
     "geom:latitude":48.413387,
     "geom:longitude":13.763309,
@@ -31,17 +32,33 @@
         "beech"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835203,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hvGHAvWo1kVgAcjuiLAhp_48.413387_13.763309@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889807,
-    "wof:geomhash":"db755a894023e32e365afaf21dfe571e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16b771c0bacfd953fd95587966be9959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835203,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091852059
+        }
+    ],
     "wof:id":1091852059,
-    "wof:lastmodified":1473983716,
+    "wof:lastmodified":1496885442,
     "wof:name":"Gustav Berndorfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

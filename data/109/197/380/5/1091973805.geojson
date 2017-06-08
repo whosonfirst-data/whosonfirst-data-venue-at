@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.069311142,48.5640029907,16.069311142,48.5640029907",
     "geom:latitude":48.564003,
     "geom:longitude":16.069311,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        101782253,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70bbUYkOZ5u7DldFYOssdq_48.564003_16.069311@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895405,
-    "wof:geomhash":"ce60e0234b0d8d9e92440c1e66d95542",
-    "wof:hierarchy":[],
+    "wof:geomhash":"581d3d8b280313b994fe41543d1e94b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":101782253,
+            "region_id":85681671,
+            "venue_id":1091973805
+        }
+    ],
     "wof:id":1091973805,
-    "wof:lastmodified":1473984173,
+    "wof:lastmodified":1496886286,
     "wof:name":"MARIA DASTL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

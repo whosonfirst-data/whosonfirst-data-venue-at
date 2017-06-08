@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.222120285,47.3472328186,16.222120285,47.3472328186",
     "geom:latitude":47.347233,
     "geom:longitude":16.22212,
@@ -23,17 +24,33 @@
     "sg:postcode":"7431",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838563,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AARAOhrZtYkHDOUSHapEi_47.347233_16.222120@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916367,
-    "wof:geomhash":"8b063e2573d8d28eaa156b0a55cf6dc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44b7ff82cdb86c8ac6f55c02a1db207e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838563,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092439955
+        }
+    ],
     "wof:id":1092439955,
-    "wof:lastmodified":1473985307,
+    "wof:lastmodified":1496908465,
     "wof:name":"Freizeitzentrum Bad Tatzmannsdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

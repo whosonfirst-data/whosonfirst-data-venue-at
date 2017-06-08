@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7621669769,46.5607833862,14.7621669769,46.5607833862",
     "geom:latitude":46.560783,
     "geom:longitude":14.762167,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"elky.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838375,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nCEz50XEeCJnekIKhmT08_46.560783_14.762167@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911499,
-    "wof:geomhash":"785f5246c77e6fcc252249535ab3826a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daa229218df28e53abe2e43d7ce346a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838375,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092337181
+        }
+    ],
     "wof:id":1092337181,
-    "wof:lastmodified":1473985013,
+    "wof:lastmodified":1496907669,
     "wof:name":"Elky Matratzen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

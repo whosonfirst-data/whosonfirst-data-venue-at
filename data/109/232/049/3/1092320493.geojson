@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6347923279,47.3530006409,9.6347923279,47.3530006409",
     "geom:latitude":47.353001,
     "geom:longitude":9.634792,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"autohauspirker.com; volkmarpirker.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838003,
+        85632785,
+        101827465,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZWjkZXUg9SUHLvu7qeplf_47.353001_9.634792@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473910823,
-    "wof:geomhash":"f0c4441e3fa7ce0ccff39a02cf0a93ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"260322c43a6c2b59897fbc8a4826f774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838003,
+            "locality_id":101827465,
+            "region_id":85681649,
+            "venue_id":1092320493
+        }
+    ],
     "wof:id":1092320493,
-    "wof:lastmodified":1473983387,
+    "wof:lastmodified":1496900491,
     "wof:name":"Autohaus Pirker GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

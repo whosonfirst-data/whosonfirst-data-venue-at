@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2199478149,48.0029182434,16.2199478149,48.0029182434",
     "geom:latitude":48.002918,
     "geom:longitude":16.219948,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914429,
-    "wof:geomhash":"1bc5ce0345115c26f226ca97c4a91bd0",
+    "wof:geomhash":"6dbab7c3097f27bbdd4f4e4781c0a5ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092400309
         }
     ],
     "wof:id":1092400309,
-    "wof:lastmodified":1473983411,
+    "wof:lastmodified":1496886075,
     "wof:name":"Ohrenberger Karin",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

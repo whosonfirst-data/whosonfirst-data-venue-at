@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.924955368,48.5287322998,15.924955368,48.5287322998",
     "geom:latitude":48.528732,
     "geom:longitude":15.924955,
@@ -32,17 +33,34 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836771,
+        85632785,
+        101782257,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Jx518pJrkKtK73l7SA6z2_48.528732_15.924955@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908464,
-    "wof:geomhash":"2caa7ad82bebaca54cb7e5a8c0d61480",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7214dd245f2e84951b7ca91a1aa7e332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108836771,
+            "locality_id":101782257,
+            "region_id":85681671,
+            "venue_id":1092266765
+        }
+    ],
     "wof:id":1092266765,
-    "wof:lastmodified":1473984635,
+    "wof:lastmodified":1496892680,
     "wof:name":"Elektro Weiser Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

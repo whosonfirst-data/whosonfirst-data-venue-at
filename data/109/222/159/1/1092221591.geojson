@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4864282608,47.278301239,11.4864282608,47.278301239",
     "geom:latitude":47.278301,
     "geom:longitude":11.486428,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906462,
-    "wof:geomhash":"4d9a052d838decc494ed9464f816fc95",
+    "wof:geomhash":"49b331288ca76f3fceee9930469d20d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092221591
         }
     ],
     "wof:id":1092221591,
-    "wof:lastmodified":1473983746,
+    "wof:lastmodified":1496898710,
     "wof:name":"Nicolodi & Ehrensperger OEG",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

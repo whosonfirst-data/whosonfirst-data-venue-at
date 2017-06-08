@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4989337921,47.409198761,16.4989337921,47.409198761",
     "geom:latitude":47.409199,
     "geom:longitude":16.498934,
@@ -34,17 +35,33 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838487,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e9QV8LVNCsSGbYt9nfYFD_47.409199_16.498934@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916020,
-    "wof:geomhash":"76385ed5ffd66cea8b1c0b553f171f9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30567d27f19dcfa600cff88a1f2dab71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838487,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092432363
+        }
+    ],
     "wof:id":1092432363,
-    "wof:lastmodified":1473983709,
+    "wof:lastmodified":1496908160,
     "wof:name":"Anton Erhardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

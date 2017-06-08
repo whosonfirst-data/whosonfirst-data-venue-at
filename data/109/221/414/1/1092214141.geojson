@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.867275238,47.3109817505,11.867275238,47.3109817505",
     "geom:latitude":47.310982,
     "geom:longitude":11.867275,
@@ -23,17 +24,33 @@
     "sg:postcode":"6271",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837709,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NAqLd01qFfzMiI8oqOAXF_47.310982_11.867275@1306268286"
     },
     "wof:country":"AT",
     "wof:created":1473906132,
-    "wof:geomhash":"ae18fc1e3298eaa94bacb47c292123bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7760456605ecb1a14595a9e1e60f2f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837709,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092214141
+        }
+    ],
     "wof:id":1092214141,
-    "wof:lastmodified":1473984250,
+    "wof:lastmodified":1496899699,
     "wof:name":"bft-Tankstelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

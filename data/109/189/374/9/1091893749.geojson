@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3854694366,48.2975082397,16.3854694366,48.2975082397",
     "geom:latitude":48.297508,
     "geom:longitude":16.385469,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898395,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891792,
-    "wof:geomhash":"7a51f8f6998193a07760f787376efab1",
+    "wof:geomhash":"3a7877a93dc8af96c4f438a4771e4bf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898395,
             "region_id":85681667,
             "venue_id":1091893749
         }
     ],
     "wof:id":1091893749,
-    "wof:lastmodified":1473984188,
+    "wof:lastmodified":1496903297,
     "wof:name":"G\u00f6rlich Peter",
     "wof:parent_id":85898395,
     "wof:placetype":"venue",

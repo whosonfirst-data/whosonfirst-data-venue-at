@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5710639954,48.1959838867,16.5710639954,48.1959838867",
     "geom:latitude":48.195984,
     "geom:longitude":16.571064,
@@ -33,17 +34,34 @@
         "bildagenturen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836641,
+        85632785,
+        101754251,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C4bzH40u4zCEY3fowpJwE_48.195984_16.571064@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890528,
-    "wof:geomhash":"6846b8e1013e41fb79a35221d78a530f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d16e305179d510f138468c3fc439dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836641,
+            "locality_id":101754251,
+            "region_id":85681671,
+            "venue_id":1091866975
+        }
+    ],
     "wof:id":1091866975,
-    "wof:lastmodified":1473984944,
+    "wof:lastmodified":1496892130,
     "wof:name":"Bildagentur - Mag Wolfgang Kirchmayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

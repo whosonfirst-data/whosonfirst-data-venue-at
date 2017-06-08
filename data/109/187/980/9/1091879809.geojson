@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8892230988,48.5169715881,13.8892230988,48.5169715881",
     "geom:latitude":48.516972,
     "geom:longitude":13.889223,
@@ -36,17 +37,33 @@
         "braided"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835989,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31pPW2eDhC9TcYvTBTkjdF_48.516972_13.889223@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891132,
-    "wof:geomhash":"449d5fb4e20afaef5b66e728acbeee57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"304d09133d7e1cd4d5297108fd9c294e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835989,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091879809
+        }
+    ],
     "wof:id":1091879809,
-    "wof:lastmodified":1473985257,
+    "wof:lastmodified":1496889161,
     "wof:name":"Ludwig Schernberger Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

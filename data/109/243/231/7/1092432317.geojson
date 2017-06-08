@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3443241119,46.8184394836,13.3443241119,46.8184394836",
     "geom:latitude":46.818439,
     "geom:longitude":13.344324,
@@ -31,17 +32,33 @@
         "forest"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838297,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OvFmLRpqO4wmYZ5kcVCP4_46.818439_13.344324@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916017,
-    "wof:geomhash":"bad2f63fc10b1e4b7450340eb926d7dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dc573f9d27381ef1033f6e836cdff15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838297,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092432317
+        }
+    ],
     "wof:id":1092432317,
-    "wof:lastmodified":1473983708,
+    "wof:lastmodified":1496907054,
     "wof:name":"Egger Stallbau GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

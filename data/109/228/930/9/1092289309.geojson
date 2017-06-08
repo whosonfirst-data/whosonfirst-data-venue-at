@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0839252472,47.8304443359,13.0839252472,47.8304443359",
     "geom:latitude":47.830444,
     "geom:longitude":13.083925,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909415,
-    "wof:geomhash":"98b855e3e15186e378abdecf8e655871",
+    "wof:geomhash":"616c84444e5457a74ad5d7d0e892a76b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092289309
         }
     ],
     "wof:id":1092289309,
-    "wof:lastmodified":1473985224,
+    "wof:lastmodified":1496895388,
     "wof:name":"Barbara Apotheke Mag Anglberger & Mag Hochhold OHG",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

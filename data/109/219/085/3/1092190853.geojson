@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2525672913,46.9799308777,14.2525672913,46.9799308777",
     "geom:latitude":46.979931,
     "geom:longitude":14.252567,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838231,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wlBqUNfbifsx9eZiv5ej8_46.979931_14.252567@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905065,
-    "wof:geomhash":"e216fbf3e357ff8a0cd35c639bca2a9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63267768ee17320c6e822a56ead56f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838231,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092190853
+        }
+    ],
     "wof:id":1092190853,
-    "wof:lastmodified":1473983460,
+    "wof:lastmodified":1496906652,
     "wof:name":"Schlosserei-Metallbau Herbert Stromberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

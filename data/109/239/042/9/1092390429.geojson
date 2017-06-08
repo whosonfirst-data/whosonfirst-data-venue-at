@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5332431793,47.1607513428,15.5332431793,47.1607513428",
     "geom:latitude":47.160751,
     "geom:longitude":15.533243,
@@ -23,17 +24,34 @@
     "sg:postcode":"8062",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839181,
+        85632785,
+        101789101,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cYRgCuBDXDXMTPcwv21EM_47.160751_15.533243@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913975,
-    "wof:geomhash":"fc4c3bd229bb9825ef4354011565951c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85f3c2e4ebc92422fd7877d83bc70375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839181,
+            "locality_id":101789101,
+            "region_id":85681687,
+            "venue_id":1092390429
+        }
+    ],
     "wof:id":1092390429,
-    "wof:lastmodified":1473983343,
+    "wof:lastmodified":1496911741,
     "wof:name":"Gendarmerieposten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

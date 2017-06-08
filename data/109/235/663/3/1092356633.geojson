@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1011734009,47.7216567993,16.1011734009,47.7216567993",
     "geom:latitude":47.721657,
     "geom:longitude":16.101173,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"pzs.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835465,
+        85632785,
+        101786761,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gm46mQFWFmL0c9C5Rso9m_47.721657_16.101173@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912374,
-    "wof:geomhash":"6ff3438f567dba7b14a21cff88a3a73b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"296b525ef58ac4fd4b0890e7c6719845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835465,
+            "locality_id":101786761,
+            "region_id":85681671,
+            "venue_id":1092356633
+        }
+    ],
     "wof:id":1092356633,
-    "wof:lastmodified":1473984717,
+    "wof:lastmodified":1496886739,
     "wof:name":"PZS - Papier Zellstoff Scharner Handelsagentur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

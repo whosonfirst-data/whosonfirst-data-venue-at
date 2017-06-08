@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2018871307,48.1173973083,16.2018871307,48.1173973083",
     "geom:latitude":48.117397,
     "geom:longitude":16.201887,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835409,
+        85632785,
+        101784493,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Oq09yA50BWcs1tW70fgMZ_48.117397_16.201887@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892730,
-    "wof:geomhash":"6c5dfaa37d0a8252250aee31709d527a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"137201bc9ad5929b7ac7514952262c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108835409,
+            "locality_id":101784493,
+            "region_id":85681671,
+            "venue_id":1091913635
+        }
+    ],
     "wof:id":1091913635,
-    "wof:lastmodified":1473983760,
+    "wof:lastmodified":1496886525,
     "wof:name":"G & M Liemberger Individual-EDV OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6488876343,47.3048667908,9.6488876343,47.3048667908",
     "geom:latitude":47.304867,
     "geom:longitude":9.648888,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"lercher.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837973,
+        85632785,
+        101827461,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2smVbbWj6yGXAO0ZAryuYP_47.304867_9.648888@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896924,
-    "wof:geomhash":"f3696cec49e76cba6fefb74a7c2274aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44bbc0d33a770db8c82ef402f8e3e0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837973,
+            "locality_id":101827461,
+            "region_id":85681649,
+            "venue_id":1092009455
+        }
+    ],
     "wof:id":1092009455,
-    "wof:lastmodified":1473985024,
+    "wof:lastmodified":1496901188,
     "wof:name":"Lercher Werkzeugbau GmbH Werkzeuge - Vorrichtungen - Formen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

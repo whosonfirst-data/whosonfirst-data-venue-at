@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0757808685,48.320274353,16.0757808685,48.320274353",
     "geom:latitude":48.320274,
     "geom:longitude":16.075781,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"gzt.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        101833267,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sHUmwcR7f9xqk3QcHHZ3U_48.320274_16.075781@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900502,
-    "wof:geomhash":"0ffd9b8c4dbacc1c499848ced0b9efd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5dfdee44003bed82a7e05a5559a2f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":101833267,
+            "region_id":85681671,
+            "venue_id":1092094115
+        }
+    ],
     "wof:id":1092094115,
-    "wof:lastmodified":1473984115,
+    "wof:lastmodified":1496893174,
     "wof:name":"GZT Geldz\u00e4hltechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

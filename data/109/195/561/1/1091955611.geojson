@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6177167892,47.2544136047,9.6177167892,47.2544136047",
     "geom:latitude":47.254414,
     "geom:longitude":9.617717,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894625,
-    "wof:geomhash":"189781b19fc6b13e679f2e3fd66b6c40",
+    "wof:geomhash":"657464d4028dd32f885abd414fc36ea6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091955611
         }
     ],
     "wof:id":1091955611,
-    "wof:lastmodified":1473984773,
+    "wof:lastmodified":1496900924,
     "wof:name":"Yokohama Rennreifen - Dobler Wilfried",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

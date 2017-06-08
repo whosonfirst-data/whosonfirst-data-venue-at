@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0703859329,47.7981758118,13.0703859329,47.7981758118",
     "geom:latitude":47.798176,
     "geom:longitude":13.070386,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909325,
-    "wof:geomhash":"dd6054e14b42a082c34470ef1ba6cdee",
+    "wof:geomhash":"f8f2847b7df3c6d5273935146fa120e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092286987
         }
     ],
     "wof:id":1092286987,
-    "wof:lastmodified":1473984792,
+    "wof:lastmodified":1496894705,
     "wof:name":"Deyl Wolfgang",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8144960403,48.0151939392,14.8144960403,48.0151939392",
     "geom:latitude":48.015194,
     "geom:longitude":14.814496,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836341,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aSPMtuSm0Q85Edve8IrOM_48.015194_14.814496@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898895,
-    "wof:geomhash":"2e476510404e764753c7a7403bc486d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36e85652138fe963ba03822625052b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836341,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092059913
+        }
+    ],
     "wof:id":1092059913,
-    "wof:lastmodified":1473985220,
+    "wof:lastmodified":1496890646,
     "wof:name":"Friedrich Leitner Installationsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

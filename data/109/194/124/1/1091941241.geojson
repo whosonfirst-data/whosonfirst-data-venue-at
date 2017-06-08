@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3460159302,47.2655067444,11.3460159302,47.2655067444",
     "geom:latitude":47.265507,
     "geom:longitude":11.346016,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893989,
-    "wof:geomhash":"b7f4f1ec47211ddd8579a7fa5096efc4",
+    "wof:geomhash":"5598df09c9176fcb60356b47c01702b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1091941241
         }
     ],
     "wof:id":1091941241,
-    "wof:lastmodified":1473983554,
+    "wof:lastmodified":1496899344,
     "wof:name":"S\u00fcdtiroler Studentenheim",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

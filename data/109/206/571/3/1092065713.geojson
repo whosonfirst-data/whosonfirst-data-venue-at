@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2798719406,47.966835022,13.2798719406,47.966835022",
     "geom:latitude":47.966835,
     "geom:longitude":13.279872,
@@ -23,17 +24,33 @@
     "sg:postcode":"5204",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837183,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D8Ri4TEpxlzy68QkFXPE6_47.966835_13.279872@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899131,
-    "wof:geomhash":"1bcf7b95850fa5b10d015c0eb037a728",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0704d551722e367209b43b1c84ce6c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837183,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092065713
+        }
+    ],
     "wof:id":1092065713,
-    "wof:lastmodified":1473984385,
+    "wof:lastmodified":1496895669,
     "wof:name":"Gasthaus Fischwenger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

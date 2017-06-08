@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.286318779,48.2093544006,14.286318779,48.2093544006",
     "geom:latitude":48.209354,
     "geom:longitude":14.286319,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898417,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910173,
-    "wof:geomhash":"501b8a798afe5879662a70492dd1c925",
+    "wof:geomhash":"c7376aa32b4b7095001d45bfb7684265",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898417,
             "region_id":85681677,
             "venue_id":1092305741
         }
     ],
     "wof:id":1092305741,
-    "wof:lastmodified":1473984637,
+    "wof:lastmodified":1496887018,
     "wof:name":"SGM Handels-GmbH",
     "wof:parent_id":85898417,
     "wof:placetype":"venue",

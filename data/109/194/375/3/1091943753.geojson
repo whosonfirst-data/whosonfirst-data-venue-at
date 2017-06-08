@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5005779266,47.5722961426,16.5005779266,47.5722961426",
     "geom:latitude":47.572296,
     "geom:longitude":16.500578,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838649,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Gc2txFGqVnTKh94NrESC5_47.572296_16.500578@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894102,
-    "wof:geomhash":"704bbddcdb0d8c42db5d709542f0d0a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eff46c03cb3e7fecabcb70d78e9a816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838649,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091943753
+        }
+    ],
     "wof:id":1091943753,
-    "wof:lastmodified":1473984055,
+    "wof:lastmodified":1496909002,
     "wof:name":"S\u00e4gewerk Zeczelits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3864307404,47.909526825,16.3864307404,47.909526825",
     "geom:latitude":47.909527,
     "geom:longitude":16.386431,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835735,
+        85632785,
+        101785699,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A5Wl0LT3VczZUFRZ4iCmX_47.909527_16.386431@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913578,
-    "wof:geomhash":"434783000514a4b82b45a26960906b07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c71d1a7c86a15300831534b6481fbd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835735,
+            "locality_id":101785699,
+            "region_id":85681671,
+            "venue_id":1092382845
+        }
+    ],
     "wof:id":1092382845,
-    "wof:lastmodified":1473984064,
+    "wof:lastmodified":1496888130,
     "wof:name":"Pizzeria Albino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

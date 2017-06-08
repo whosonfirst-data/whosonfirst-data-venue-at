@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3215093613,48.072265625,15.3215093613,48.072265625",
     "geom:latitude":48.072266,
     "geom:longitude":15.321509,
@@ -23,17 +24,33 @@
     "sg:postcode":"3241",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835425,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PwTM759tslfqC1kbZJEPj_48.072266_15.321509@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899446,
-    "wof:geomhash":"7b4a8665badba996a99575f859275aac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8be364f281e1b7760c36b5d4968a136d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835425,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092073385
+        }
+    ],
     "wof:id":1092073385,
-    "wof:lastmodified":1473983944,
+    "wof:lastmodified":1496886562,
     "wof:name":"Gasthof Lindenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

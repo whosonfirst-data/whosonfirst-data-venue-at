@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0835132599,47.7561645508,13.0835132599,47.7561645508",
     "geom:latitude":47.756165,
     "geom:longitude":13.083513,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895456,
-    "wof:geomhash":"282f41ce7180b93ce5e36406722358ef",
+    "wof:geomhash":"23ab6273c4b00236c58f6c216640359d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091975099
         }
     ],
     "wof:id":1091975099,
-    "wof:lastmodified":1473984450,
+    "wof:lastmodified":1496895289,
     "wof:name":"Rettenbacher Lukas Dr",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

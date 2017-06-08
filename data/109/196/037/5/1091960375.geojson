@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8984966278,47.167301178,11.8984966278,47.167301178",
     "geom:latitude":47.167301,
     "geom:longitude":11.898497,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.hotel-maria-theresia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837851,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_700EXtyAkVUXKObeWyvcc2_47.167301_11.898497@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894838,
-    "wof:geomhash":"31db10a2e888a057ae25933b0066695c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"597757b4c1fd14b684ac721632e166ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837851,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091960375
+        }
+    ],
     "wof:id":1091960375,
-    "wof:lastmodified":1473983375,
+    "wof:lastmodified":1496900226,
     "wof:name":"Hotel Maria Theresia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

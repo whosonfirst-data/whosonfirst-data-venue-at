@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2611942291,48.1697235107,16.2611942291,48.1697235107",
     "geom:latitude":48.169724,
     "geom:longitude":16.261194,
@@ -34,10 +35,13 @@
     "sg:website":"thonauer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910239,
-    "wof:geomhash":"a217bd360e36b4929cf0ffe15c4b2add",
+    "wof:geomhash":"e85ec62c211941fd9dc9ccef89b85f8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092307029
         }
     ],
     "wof:id":1092307029,
-    "wof:lastmodified":1473984940,
+    "wof:lastmodified":1496903656,
     "wof:name":"Thonauer Ges.m.b.H.",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

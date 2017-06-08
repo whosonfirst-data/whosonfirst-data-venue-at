@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4649124146,48.2622680664,16.4649124146,48.2622680664",
     "geom:latitude":48.262268,
     "geom:longitude":16.464912,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911059,
-    "wof:geomhash":"98e6f46b20fe24ee4bbc1ab1025b2da4",
+    "wof:geomhash":"a84563faa6a601bdd30c9efa07ffeb23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092326113
         }
     ],
     "wof:id":1092326113,
-    "wof:lastmodified":1473984857,
+    "wof:lastmodified":1496904384,
     "wof:name":"Abfallbehandlungsanlage - MA 48",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

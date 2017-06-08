@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8993234634,48.3061752319,15.8993234634,48.3061752319",
     "geom:latitude":48.306175,
     "geom:longitude":15.899323,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836623,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UocVc3QcC6oCI8UK3CY47_48.306175_15.899323@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889482,
-    "wof:geomhash":"4c9cbf384f6ae5cddebfc6ebd221cd25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca4ad38e0231ba13067b842b42aa8776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836623,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091845199
+        }
+    ],
     "wof:id":1091845199,
-    "wof:lastmodified":1473984234,
+    "wof:lastmodified":1496892002,
     "wof:name":"Quester Baustoffhandel GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

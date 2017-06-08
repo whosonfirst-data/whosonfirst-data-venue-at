@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5088949203,47.2819023132,11.5088949203,47.2819023132",
     "geom:latitude":47.281902,
     "geom:longitude":11.508895,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901626,
-    "wof:geomhash":"9872ed28183bdcb6822acf46a7f7083b",
+    "wof:geomhash":"60fae897d6f8971f9e37bb696a6f3879",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092117169
         }
     ],
     "wof:id":1092117169,
-    "wof:lastmodified":1473984860,
+    "wof:lastmodified":1496898742,
     "wof:name":"Haffner Rudolf Dr",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

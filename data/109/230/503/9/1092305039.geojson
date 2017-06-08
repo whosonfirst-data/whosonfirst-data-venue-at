@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7500171661,47.4037208557,9.7500171661,47.4037208557",
     "geom:latitude":47.403721,
     "geom:longitude":9.750017,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910140,
-    "wof:geomhash":"b0705140e14c047d79b8210f4ac5c4e5",
+    "wof:geomhash":"e8404afab898990b410a1976b693f2a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092305039
         }
     ],
     "wof:id":1092305039,
-    "wof:lastmodified":1473984481,
+    "wof:lastmodified":1496900782,
     "wof:name":"Wolf Gerhard Dipl-Ing",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5177249908,48.2046432495,15.5177249908,48.2046432495",
     "geom:latitude":48.204643,
     "geom:longitude":15.517725,
@@ -33,17 +34,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834901,
+        85632785,
+        101843321,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44ckyxtMvL7DJMtqt5851B_48.204643_15.517725@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897059,
-    "wof:geomhash":"429126072855a5788d1aabb820fb6663",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7ec9db4f123fb329c5c96ad3455dea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834901,
+            "locality_id":101843321,
+            "region_id":85681671,
+            "venue_id":1092012833
+        }
+    ],
     "wof:id":1092012833,
-    "wof:lastmodified":1473983485,
+    "wof:lastmodified":1496883478,
     "wof:name":"Otto Gleiss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3933353424,47.2613067627,11.3933353424,47.2613067627",
     "geom:latitude":47.261307,
     "geom:longitude":11.393335,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893851,
-    "wof:geomhash":"eb80cc4f2917d7022c0fa7153bb0a917",
+    "wof:geomhash":"a4e36933aa601b6f5806412e6462dd42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091937971
         }
     ],
     "wof:id":1091937971,
-    "wof:lastmodified":1473984862,
+    "wof:lastmodified":1496899334,
     "wof:name":"Regensberger Siegfried",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

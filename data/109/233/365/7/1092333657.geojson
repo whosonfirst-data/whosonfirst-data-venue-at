@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0342330933,46.8710746765,16.0342330933,46.8710746765",
     "geom:latitude":46.871075,
     "geom:longitude":16.034233,
@@ -23,17 +24,33 @@
     "sg:postcode":"8385",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838701,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DJU2l9pIJM3eXploRA5DF_46.871075_16.034233@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911366,
-    "wof:geomhash":"0a25fd7ff815ac4536858c2e742ad7a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e97f889ff64d838aafc818f558dc7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838701,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092333657
+        }
+    ],
     "wof:id":1092333657,
-    "wof:lastmodified":1473984243,
+    "wof:lastmodified":1496909126,
     "wof:name":"Wagner Maschinenbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

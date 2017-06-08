@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7479600906,47.0302619934,10.7479600906,47.0302619934",
     "geom:latitude":47.030262,
     "geom:longitude":10.74796,
@@ -23,17 +24,33 @@
     "sg:postcode":"6524",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837303,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lyuZSXtUxykiHLfNmmggt_47.030262_10.747960@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900204,
-    "wof:geomhash":"d328030148836409930ab51a4e938934",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af6b1ed8cbd7ad28d4d1ed6ff92e9dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837303,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092089413
+        }
+    ],
     "wof:id":1092089413,
-    "wof:lastmodified":1473985194,
+    "wof:lastmodified":1496896795,
     "wof:name":"Gemeindeamt Kaunertal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

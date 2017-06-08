@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3901376724,47.2590866089,11.3901376724,47.2590866089",
     "geom:latitude":47.259087,
     "geom:longitude":11.390138,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911073,
-    "wof:geomhash":"8fd40796905ad47ae0735d1891119b6a",
+    "wof:geomhash":"320d3f75686b407744f9aa8c02abf646",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092326343
         }
     ],
     "wof:id":1092326343,
-    "wof:lastmodified":1473984900,
+    "wof:lastmodified":1496899203,
     "wof:name":"Naturpraxis Uta Stapf-Stahl",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

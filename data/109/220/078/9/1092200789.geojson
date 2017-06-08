@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4114074707,48.2871704102,16.4114074707,48.2871704102",
     "geom:latitude":48.28717,
     "geom:longitude":16.411407,
@@ -34,10 +35,13 @@
     "sg:website":"stummerer.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905504,
-    "wof:geomhash":"ffcf63600bc7aa39c604f04eda90bc92",
+    "wof:geomhash":"734329a3f88e25c595581975479c9a5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092200789
         }
     ],
     "wof:id":1092200789,
-    "wof:lastmodified":1473983462,
+    "wof:lastmodified":1496927794,
     "wof:name":"Stummerer Werksvertretungen",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

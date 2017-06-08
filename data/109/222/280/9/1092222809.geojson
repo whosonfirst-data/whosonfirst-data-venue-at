@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1128311157,47.7274932861,16.1128311157,47.7274932861",
     "geom:latitude":47.727493,
     "geom:longitude":16.112831,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835465,
+        85632785,
+        101786761,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pK2oUCZuvGTKxkSTEJaoP_47.727493_16.112831@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906523,
-    "wof:geomhash":"60c94809707d91fdc4d21fd3ee9fb106",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ead4f95af4f59928bebad02830c2434e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835465,
+            "locality_id":101786761,
+            "region_id":85681671,
+            "venue_id":1092222809
+        }
+    ],
     "wof:id":1092222809,
-    "wof:lastmodified":1473984014,
+    "wof:lastmodified":1496886715,
     "wof:name":"Taxi Pruggmayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

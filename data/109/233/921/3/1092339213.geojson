@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5840549469,47.9539680481,13.5840549469,47.9539680481",
     "geom:latitude":47.953968,
     "geom:longitude":13.584055,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.cso.net/metatron/d/index.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836447,
+        85632785,
+        101833163,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71DiyT5VNFfW8AYZWez4n4_47.953968_13.584055@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911599,
-    "wof:geomhash":"f7703521e1ceafe68d208d55ee386c41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75ae9f0e172a04514d42ff452de85786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836447,
+            "locality_id":101833163,
+            "region_id":85681677,
+            "venue_id":1092339213
+        }
+    ],
     "wof:id":1092339213,
-    "wof:lastmodified":1473985310,
+    "wof:lastmodified":1496891395,
     "wof:name":"Metatron Verlag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

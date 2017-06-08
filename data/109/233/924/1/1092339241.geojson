@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0452518463,48.2819747925,16.0452518463,48.2819747925",
     "geom:latitude":48.281975,
     "geom:longitude":16.045252,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.oppl.at/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836595,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TD8ONf56S6EGYCQpvmZSe_48.281975_16.045252@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911600,
-    "wof:geomhash":"6c3b2133bdedc6cc6211e74c0f3722af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fca947f40dc0caf2434a917e2bfe8f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836595,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092339241
+        }
+    ],
     "wof:id":1092339241,
-    "wof:lastmodified":1473985311,
+    "wof:lastmodified":1496891848,
     "wof:name":"Michael Oppl - Massensendungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

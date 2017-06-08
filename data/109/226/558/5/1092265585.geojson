@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2626180649,47.0736236572,11.2626180649,47.0736236572",
     "geom:latitude":47.073624,
     "geom:longitude":11.262618,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55gOweCkyIW22XrpP1rthd_47.073624_11.262618@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908410,
-    "wof:geomhash":"2336e2ab35fa8735056180ad77268c76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b89ae6f75217d533db9052df53a95903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092265585
+        }
+    ],
     "wof:id":1092265585,
-    "wof:lastmodified":1473984470,
+    "wof:lastmodified":1496898562,
     "wof:name":"Hubert Larcher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

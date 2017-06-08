@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2251501083,48.2332611084,14.2251501083,48.2332611084",
     "geom:latitude":48.233261,
     "geom:longitude":14.22515,
@@ -35,17 +36,34 @@
         "unit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        101754215,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2H2qLLddmkNuOfsvZA5qBY_48.233261_14.225150@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473887688,
-    "wof:geomhash":"d9e528313891fa8621514ac8e62c2df7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2084cc2b0025e5a82d4d5d40488e03a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":101754215,
+            "region_id":85681677,
+            "venue_id":1091805761
+        }
+    ],
     "wof:id":1091805761,
-    "wof:lastmodified":1473983561,
+    "wof:lastmodified":1496887314,
     "wof:name":"Lakomatic Betriebsverpflegungsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

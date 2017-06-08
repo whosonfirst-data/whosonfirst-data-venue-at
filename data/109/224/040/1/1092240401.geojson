@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.665266037,47.1701087952,14.665266037,47.1701087952",
     "geom:latitude":47.170109,
     "geom:longitude":14.665266,
@@ -33,17 +34,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839401,
+        85632785,
+        101834243,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lk6u3J7k5yMqEB4KcOjvI_47.170109_14.665266@1306268290"
     },
     "wof:country":"AT",
     "wof:created":1473907283,
-    "wof:geomhash":"51595186643a728fb8982691fdebc38b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37b505df063a49147da889477ca1e792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839401,
+            "locality_id":101834243,
+            "region_id":85681687,
+            "venue_id":1092240401
+        }
+    ],
     "wof:id":1092240401,
-    "wof:lastmodified":1473983370,
+    "wof:lastmodified":1496913996,
     "wof:name":"Erich Kociper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

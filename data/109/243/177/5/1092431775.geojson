@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8915977478,48.055305481,13.8915977478,48.055305481",
     "geom:latitude":48.055305,
     "geom:longitude":13.891598,
@@ -32,17 +33,33 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836541,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LSAyMx0grsYRsSIgvZQPe_48.055305_13.891598@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915988,
-    "wof:geomhash":"08999b83e2d6299c07232a1386aadf04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad76aab5542ba22b72b334e61e5537a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836541,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092431775
+        }
+    ],
     "wof:id":1092431775,
-    "wof:lastmodified":1473983627,
+    "wof:lastmodified":1496891531,
     "wof:name":"EIBELHUBER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

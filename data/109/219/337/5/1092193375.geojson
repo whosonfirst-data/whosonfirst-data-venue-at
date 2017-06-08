@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6410045624,47.2716178894,9.6410045624,47.2716178894",
     "geom:latitude":47.271618,
     "geom:longitude":9.641005,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905166,
-    "wof:geomhash":"adfc7e95e281035819566dc7023d49da",
+    "wof:geomhash":"90bcdd481fad99c6b952759a4a857892",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092193375
         }
     ],
     "wof:id":1092193375,
-    "wof:lastmodified":1473984099,
+    "wof:lastmodified":1496901661,
     "wof:name":"Vith Norbert Althaussanierung GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

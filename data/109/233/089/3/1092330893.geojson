@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7482509613,47.4007911682,9.7482509613,47.4007911682",
     "geom:latitude":47.400791,
     "geom:longitude":9.748251,
@@ -29,10 +30,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911250,
-    "wof:geomhash":"988a1d26450b48c928f1b8dce996386f",
+    "wof:geomhash":"783e33cf7a58b3afadd1d86c18ccf613",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092330893
         }
     ],
     "wof:id":1092330893,
-    "wof:lastmodified":1473983512,
+    "wof:lastmodified":1496900830,
     "wof:name":"Euseda Tourismusprojekt GmbH",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

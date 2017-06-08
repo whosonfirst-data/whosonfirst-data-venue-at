@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8733043671,47.4055671692,10.8733043671,47.4055671692",
     "geom:latitude":47.405567,
     "geom:longitude":10.873304,
@@ -23,17 +24,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TUZ1IcoSEHkWao0ESnDEI_47.405567_10.873304@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912853,
-    "wof:geomhash":"003bccf3d668c1f1547051eae3432740",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eb75be554a0c62abeaf2bd1a7123b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092366961
+        }
+    ],
     "wof:id":1092366961,
-    "wof:lastmodified":1473984926,
+    "wof:lastmodified":1496899864,
     "wof:name":"Haus Talblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

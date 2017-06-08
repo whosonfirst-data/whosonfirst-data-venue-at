@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9935150146,47.3160476685,9.9935150146,47.3160476685",
     "geom:latitude":47.316048,
     "geom:longitude":9.993515,
@@ -34,17 +35,34 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837891,
+        85632785,
+        101841969,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IoWAvHpdau9MDTeLA2STq_47.316048_9.993515@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905479,
-    "wof:geomhash":"89239594d7dc337f0ed2c730590b23e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc013bb6bb3a6890f9c47e2af4717b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837891,
+            "locality_id":101841969,
+            "region_id":85681649,
+            "venue_id":1092200455
+        }
+    ],
     "wof:id":1092200455,
-    "wof:lastmodified":1473983405,
+    "wof:lastmodified":1496900524,
     "wof:name":"Oskar Beer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

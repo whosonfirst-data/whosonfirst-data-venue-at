@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8400020599,47.9500808716,16.8400020599,47.9500808716",
     "geom:latitude":47.950081,
     "geom:longitude":16.840002,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        101785751,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uWk6z365X8z6lf9bsvouI_47.950081_16.840002@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913650,
-    "wof:geomhash":"71a13294d32b716f43333b5087d15924",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad926fb668fc708b3930352b401fbc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":101785751,
+            "region_id":85681651,
+            "venue_id":1092384291
+        }
+    ],
     "wof:id":1092384291,
-    "wof:lastmodified":1473984317,
+    "wof:lastmodified":1496908173,
     "wof:name":"Pizzeria Volare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

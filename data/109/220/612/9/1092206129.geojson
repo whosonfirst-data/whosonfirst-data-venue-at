@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4001541138,46.9996337891,15.4001541138,46.9996337891",
     "geom:latitude":46.999634,
     "geom:longitude":15.400154,
@@ -34,17 +35,34 @@
     ],
     "sg:website":"koelbl-bau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839157,
+        85632785,
+        101754145,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ogwd26G4vPA959axcRMBh_46.999634_15.400154@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905791,
-    "wof:geomhash":"17143afd0bc438629894a96e0c349c1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca899a647e81423e8dfa7ecd7939389a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839157,
+            "locality_id":101754145,
+            "region_id":85681687,
+            "venue_id":1092206129
+        }
+    ],
     "wof:id":1092206129,
-    "wof:lastmodified":1473984697,
+    "wof:lastmodified":1496911635,
     "wof:name":"K\u00f6lbl Bau Betonfertigteil-Montage und Autokranverleih Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

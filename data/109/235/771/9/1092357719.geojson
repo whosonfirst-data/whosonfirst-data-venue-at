@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4796695709,48.2513122559,16.4796695709,48.2513122559",
     "geom:latitude":48.251312,
     "geom:longitude":16.47967,
@@ -25,10 +26,13 @@
     "sg:website":"www.parkerpen.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912422,
-    "wof:geomhash":"c9ea6ba9c4f117956433ab680c748532",
+    "wof:geomhash":"400e8620833eec4cdacc3f2da8ea06f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092357719
         }
     ],
     "wof:id":1092357719,
-    "wof:lastmodified":1473984875,
+    "wof:lastmodified":1496902900,
     "wof:name":"SANFORD Austria",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

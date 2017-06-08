@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9507226944,46.6416244507,14.9507226944,46.6416244507",
     "geom:latitude":46.641624,
     "geom:longitude":14.950723,
@@ -33,17 +34,33 @@
         "exposed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838397,
+        85632785,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kI64oadv2MQ2q9hC3uHpm_46.641624_14.950723@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909226,
-    "wof:geomhash":"a37b46be378baf6949efa0796f31237b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd5fb56e8cfa850fc5425079182e282b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838397,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092284385
+        }
+    ],
     "wof:id":1092284385,
-    "wof:lastmodified":1473984225,
+    "wof:lastmodified":1496907785,
     "wof:name":"Johann Grillitsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

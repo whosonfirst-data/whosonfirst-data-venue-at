@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4545059204,47.7873191833,16.4545059204,47.7873191833",
     "geom:latitude":47.787319,
     "geom:longitude":16.454506,
@@ -23,17 +24,33 @@
     "sg:postcode":"7024",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838711,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mUNEeqkXdBS6ROoWfD7Lw_47.787319_16.454506@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896631,
-    "wof:geomhash":"41de5f670ebab32a883ed91da6265863",
-    "wof:hierarchy":[],
+    "wof:geomhash":"482a1571897ad906dce362c09c3adc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838711,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092002665
+        }
+    ],
     "wof:id":1092002665,
-    "wof:lastmodified":1473983881,
+    "wof:lastmodified":1496909156,
     "wof:name":"Jammernegg GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

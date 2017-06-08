@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2422428131,47.8126907349,16.2422428131,47.8126907349",
     "geom:latitude":47.812691,
     "geom:longitude":16.242243,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CmO8pkUq7Seg1dARQG5im_47.812691_16.242243@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913534,
-    "wof:geomhash":"342952f6f794dea3884950822e7ca8c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f74c4efa6a617ddebd3d3ad33cbbe19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1092382147
+        }
+    ],
     "wof:id":1092382147,
-    "wof:lastmodified":1473983837,
+    "wof:lastmodified":1496884002,
     "wof:name":"Cafe-Pizzeria Da Camillo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

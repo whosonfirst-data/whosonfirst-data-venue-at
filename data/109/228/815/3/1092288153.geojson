@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0916004181,47.5338783264,12.0916004181,47.5338783264",
     "geom:latitude":47.533878,
     "geom:longitude":12.0916,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837405,
+        85632785,
+        101787953,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31ridM3WLFBcJrAnG9Qa9X_47.533878_12.091600@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909369,
-    "wof:geomhash":"89d462b007708ee8f024c8163998d4f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5c2298bdc1f7adb8a2b37a578e60ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837405,
+            "locality_id":101787953,
+            "region_id":85681661,
+            "venue_id":1092288153
+        }
+    ],
     "wof:id":1092288153,
-    "wof:lastmodified":1473985037,
+    "wof:lastmodified":1496897736,
     "wof:name":"Klaus Feiersinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

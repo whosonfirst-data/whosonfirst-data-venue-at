@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5584478378,47.2594833374,9.5584478378,47.2594833374",
     "geom:latitude":47.259483,
     "geom:longitude":9.558448,
@@ -23,17 +24,33 @@
     "sg:postcode":"6800",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837937,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46ZVSlWGPXYlDyGukocm1i_47.259483_9.558448@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911343,
-    "wof:geomhash":"cc638c084efdeab3fda3e30e3c3a246a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fe5e2a748f9b4c98a83790b81498e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092333023
+        }
+    ],
     "wof:id":1092333023,
-    "wof:lastmodified":1473984064,
+    "wof:lastmodified":1496900908,
     "wof:name":"Forstner Maschinenbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5634651184,48.2460098267,16.5634651184,48.2460098267",
     "geom:latitude":48.24601,
     "geom:longitude":16.563465,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835799,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79sYxB2XLWsKcHVbV3sMw9_48.246010_16.563465@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473888195,
-    "wof:geomhash":"5fdc89f29a7a4b4aa901f7cb7aa51759",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f550b4ab3514b7770c5eefa13325a89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835799,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091816431
+        }
+    ],
     "wof:id":1091816431,
-    "wof:lastmodified":1473984758,
+    "wof:lastmodified":1496888391,
     "wof:name":"ERICH ALFONS SCHMID GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

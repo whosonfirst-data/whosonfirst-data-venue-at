@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3216514587,47.7224159241,14.3216514587,47.7224159241",
     "geom:latitude":47.722416,
     "geom:longitude":14.321651,
@@ -31,17 +32,34 @@
         "hide"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835515,
+        85632785,
+        101786811,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DX1zq3PkLiwtvJGv9dR7g_47.722416_14.321651@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473887944,
-    "wof:geomhash":"6c56bb0e8545c3f5c4bd489d3d8658c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"568bcc9648431d1503aa9bf5f1de5d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835515,
+            "locality_id":101786811,
+            "region_id":85681677,
+            "venue_id":1091810663
+        }
+    ],
     "wof:id":1091810663,
-    "wof:lastmodified":1473983446,
+    "wof:lastmodified":1496886972,
     "wof:name":"Wolfgang Max Purgleitner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

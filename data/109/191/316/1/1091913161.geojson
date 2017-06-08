@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2572431564,48.2049446106,14.2572431564,48.2049446106",
     "geom:latitude":48.204945,
     "geom:longitude":14.257243,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835519,
+        85632785,
+        101831935,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tNRiHUOI3VBdReuWyDXnk_48.204945_14.257243@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892699,
-    "wof:geomhash":"a7df25d4af67d2f2286647e90a9b9831",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e52a4c87eeed60bcaa5c7af4ea477a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835519,
+            "locality_id":101831935,
+            "region_id":85681677,
+            "venue_id":1091913161
+        }
+    ],
     "wof:id":1091913161,
-    "wof:lastmodified":1473983705,
+    "wof:lastmodified":1496887036,
     "wof:name":"DGR DatenverarbeitungsgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

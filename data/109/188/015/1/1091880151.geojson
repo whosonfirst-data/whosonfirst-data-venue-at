@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4665298462,48.2646217346,16.4665298462,48.2646217346",
     "geom:latitude":48.264622,
     "geom:longitude":16.46653,
@@ -34,10 +35,13 @@
     "sg:website":"gsg.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891145,
-    "wof:geomhash":"85eb057760513f5fe818fa88a0188b26",
+    "wof:geomhash":"d4a18b2410f4c3106674c552d3e8bfb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091880151
         }
     ],
     "wof:id":1091880151,
-    "wof:lastmodified":1473983333,
+    "wof:lastmodified":1496903694,
     "wof:name":"GUSS Fertigungs-Ges.m.b.H.",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

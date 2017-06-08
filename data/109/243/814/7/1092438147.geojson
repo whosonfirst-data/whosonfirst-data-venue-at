@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6703109741,47.801651001,16.6703109741,47.801651001",
     "geom:latitude":47.801651,
     "geom:longitude":16.670311,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.bnet.co.at/rust/karass.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IHgWTLZh2Qf1kHXpaX7Pk_47.801651_16.670311@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916283,
-    "wof:geomhash":"16ba5c8948c9554099a920d52a5dafe4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d23ff3026406848c420d2495998ef206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1092438147
+        }
+    ],
     "wof:id":1092438147,
-    "wof:lastmodified":1473984991,
+    "wof:lastmodified":1496909063,
     "wof:name":"Gasthof Storchenschenke - A 7071 Rust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

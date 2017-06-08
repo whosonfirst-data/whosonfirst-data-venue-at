@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0760774612,48.160320282,15.0760774612,48.160320282",
     "geom:latitude":48.16032,
     "geom:longitude":15.076077,
@@ -31,17 +32,34 @@
         "bamboo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835759,
+        85632785,
+        101784567,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GYiyX4L4LHjNW7hXnITXP_48.160320_15.076077@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888491,
-    "wof:geomhash":"8ac77a707edb337e9124f51a7e3527ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d682dafda797933623fe061ce0f74823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835759,
+            "locality_id":101784567,
+            "region_id":85681671,
+            "venue_id":1091823215
+        }
+    ],
     "wof:id":1091823215,
-    "wof:lastmodified":1473984150,
+    "wof:lastmodified":1496888252,
     "wof:name":"Johann Edelmann Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

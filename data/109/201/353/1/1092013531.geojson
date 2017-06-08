@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8615045547,48.7014579773,15.8615045547,48.7014579773",
     "geom:latitude":48.701458,
     "geom:longitude":15.861505,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"scheider-reisen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835787,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KXpQdWvpkWdSORQvIXgra_48.701458_15.861505@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897086,
-    "wof:geomhash":"90ef6fb35def09e63939061eefd0c648",
-    "wof:hierarchy":[],
+    "wof:geomhash":"849330b26cf5a7de27bc297355ce7374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835787,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092013531
+        }
+    ],
     "wof:id":1092013531,
-    "wof:lastmodified":1473983606,
+    "wof:lastmodified":1496888337,
     "wof:name":"Karl Schneider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

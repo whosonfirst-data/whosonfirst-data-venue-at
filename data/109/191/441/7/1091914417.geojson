@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2202892303,48.2247657776,14.2202892303,48.2247657776",
     "geom:latitude":48.224766,
     "geom:longitude":14.220289,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57Pt3WGifoyQVdbygPeGs5_48.224766_14.220289@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892765,
-    "wof:geomhash":"36cef869e765e457b25297e0374df6c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3aa9fa0999fd33d592074ea112aab802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091914417
+        }
+    ],
     "wof:id":1091914417,
-    "wof:lastmodified":1473983873,
+    "wof:lastmodified":1496887366,
     "wof:name":"Lauber Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

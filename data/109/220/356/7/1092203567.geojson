@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7418317795,48.1214790344,14.7418317795,48.1214790344",
     "geom:latitude":48.121479,
     "geom:longitude":14.741832,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"hueblauer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835933,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6twTHFd6uxC4YwRKb1ZKKk_48.121479_14.741832@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905684,
-    "wof:geomhash":"1a65941df34b1811fbdcf06ad60f1ed8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdc09da93d038ccffc00e0f209146317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835933,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092203567
+        }
+    ],
     "wof:id":1092203567,
-    "wof:lastmodified":1473984113,
+    "wof:lastmodified":1496888937,
     "wof:name":"Rauchfang Pabst BaugmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

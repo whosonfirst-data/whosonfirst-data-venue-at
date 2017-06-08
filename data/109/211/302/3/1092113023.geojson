@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4051856995,48.1007461548,15.4051856995,48.1007461548",
     "geom:latitude":48.100746,
     "geom:longitude":15.405186,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.hager-kilb.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836335,
+        85632785,
+        101784557,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I6aJ87Lh23h8VNV6Im6Ij_48.100746_15.405186@1306268272"
     },
     "wof:country":"AT",
     "wof:created":1473901432,
-    "wof:geomhash":"f4e9a67efc8015d2645b88262fb86bd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fecdf7473e99cad40a8d4dac48f4b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836335,
+            "locality_id":101784557,
+            "region_id":85681671,
+            "venue_id":1092113023
+        }
+    ],
     "wof:id":1092113023,
-    "wof:lastmodified":1473983975,
+    "wof:lastmodified":1496890626,
     "wof:name":"Hager Holzbau GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

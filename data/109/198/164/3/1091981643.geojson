@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.694568634,48.2834281921,15.694568634,48.2834281921",
     "geom:latitude":48.283428,
     "geom:longitude":15.694569,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.fischer-gitter.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        101784543,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1suW0WmpzxT30oBbfxcSd1_48.283428_15.694569@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895763,
-    "wof:geomhash":"52d782a18d47a621bdf03f0c1525370a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf4248f862e52daec89c1e07c51c918c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":101784543,
+            "region_id":85681671,
+            "venue_id":1091981643
+        }
+    ],
     "wof:id":1091981643,
-    "wof:lastmodified":1473983399,
+    "wof:lastmodified":1496890073,
     "wof:name":"Fischer-Gitter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

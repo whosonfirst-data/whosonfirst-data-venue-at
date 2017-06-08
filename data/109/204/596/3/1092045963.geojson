@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3205165863,47.329246521,13.3205165863,47.329246521",
     "geom:latitude":47.329247,
     "geom:longitude":13.320517,
@@ -28,17 +29,33 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DOZ9vSVhMA87JQKS1eKPF_47.329247_13.320517@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898353,
-    "wof:geomhash":"eed1b5e822fcc7ad1bca4fd0812ec3af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb9f4b87022b7e0bf85d1487646c12c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092045963
+        }
+    ],
     "wof:id":1092045963,
-    "wof:lastmodified":1473983880,
+    "wof:lastmodified":1496894171,
     "wof:name":"Hotel Berghof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

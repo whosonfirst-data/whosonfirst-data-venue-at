@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6380214691,47.4643745422,16.6380214691,47.4643745422",
     "geom:latitude":47.464375,
     "geom:longitude":16.638021,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07cVgKhjM2MwlD6Hzye7ei_47.464375_16.638021@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912678,
-    "wof:geomhash":"0abb8564b46b7d4c1af20c417dd2c66e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b362627ee4fba8c12e0f080647d89f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092363465
+        }
+    ],
     "wof:id":1092363465,
-    "wof:lastmodified":1473984148,
+    "wof:lastmodified":1496909135,
     "wof:name":"Fr\u00fchst\u00fcckspension Pl\u00f6chl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

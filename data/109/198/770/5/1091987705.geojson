@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7277736664,46.7907218933,13.7277736664,46.7907218933",
     "geom:latitude":46.790722,
     "geom:longitude":13.727774,
@@ -34,17 +35,34 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838289,
+        85632785,
+        101790149,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mbUESIupEWaUxk8qJtF55_46.790722_13.727774@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896001,
-    "wof:geomhash":"6939fa8617715ae1efcbab3b7ca71d7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab08062dd5f5be378b470a9e5056823c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838289,
+            "locality_id":101790149,
+            "region_id":85681655,
+            "venue_id":1091987705
+        }
+    ],
     "wof:id":1091987705,
-    "wof:lastmodified":1473984335,
+    "wof:lastmodified":1496907004,
     "wof:name":"Bernhard Steinwender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8315095901,48.215511322,15.8315095901,48.215511322",
     "geom:latitude":48.215511,
     "geom:longitude":15.83151,
@@ -32,17 +33,33 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836597,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vn5TsP0rQ1mYafkgtWqJx_48.215511_15.831510@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905239,
-    "wof:geomhash":"e2ddd15d449d21618dd617913572275d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01664d9f419944e3cd67af820f2bd2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836597,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092194967
+        }
+    ],
     "wof:id":1092194967,
-    "wof:lastmodified":1473984515,
+    "wof:lastmodified":1496891856,
     "wof:name":"Andreas Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

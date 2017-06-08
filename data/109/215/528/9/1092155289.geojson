@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0900774002,47.834980011,13.0900774002,47.834980011",
     "geom:latitude":47.83498,
     "geom:longitude":13.090077,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903456,
-    "wof:geomhash":"b0e8aee6940aec45e3f3acab282ae429",
+    "wof:geomhash":"16a740c672a4d902c8203e7bcbf07101",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092155289
         }
     ],
     "wof:id":1092155289,
-    "wof:lastmodified":1473984387,
+    "wof:lastmodified":1496895377,
     "wof:name":"Gruber A Vieh- und FleischhandelsgesmbH",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

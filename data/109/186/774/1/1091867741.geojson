@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3981027603,47.2589378357,11.3981027603,47.2589378357",
     "geom:latitude":47.258938,
     "geom:longitude":11.398103,
@@ -24,10 +25,13 @@
     "sg:website":"bidok.uibk.ac.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890560,
-    "wof:geomhash":"8686a030fea492ed2d33794a4ec83a1d",
+    "wof:geomhash":"cd533ef83d509f85e156b4e0c902c9d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091867741
         }
     ],
     "wof:id":1091867741,
-    "wof:lastmodified":1473985068,
+    "wof:lastmodified":1496899520,
     "wof:name":"BIDOK: BehindertenIntegration Dokumentation",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

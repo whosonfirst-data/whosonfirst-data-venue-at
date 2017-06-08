@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0161857605,48.0543022156,14.0161857605,48.0543022156",
     "geom:latitude":48.054302,
     "geom:longitude":14.016186,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836581,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZysOq0DgW8cva32Ol4QQW_48.054302_14.016186@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473911977,
-    "wof:geomhash":"8c4f19508265b3d8db3cb1f6bdd9baf8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b99e173b0b10f4385cb0626d46e64798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836581,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092348159
+        }
+    ],
     "wof:id":1092348159,
-    "wof:lastmodified":1473984916,
+    "wof:lastmodified":1496891773,
     "wof:name":"Team Gruber Fahrzeugcenter und Landtechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0723304749,47.0455284119,16.0723304749,47.0455284119",
     "geom:latitude":47.045528,
     "geom:longitude":16.07233,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839227,
+        85632785,
+        101789015,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s00U8TAPZzhCrbq9VjX3L_47.045528_16.072330@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908396,
-    "wof:geomhash":"9dd74ff6237ac07d18208ecb299d5ab6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"297399095541dc63e10bfb3ac25f6cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839227,
+            "locality_id":101789015,
+            "region_id":85681687,
+            "venue_id":1092265309
+        }
+    ],
     "wof:id":1092265309,
-    "wof:lastmodified":1473984472,
+    "wof:lastmodified":1496912066,
     "wof:name":"Elektro Franz Sommer OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

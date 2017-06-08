@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9220314026,46.5642623901,13.9220314026,46.5642623901",
     "geom:latitude":46.564262,
     "geom:longitude":13.922031,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"glaspreschern.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838339,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fWRyzajyBeVZIqvQslfMc_46.564262_13.922031@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900860,
-    "wof:geomhash":"17e0c3ca658359a505afe62f91ae34c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6ab9ad1d458ee41981a95dcc9331325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092101093
+        }
+    ],
     "wof:id":1092101093,
-    "wof:lastmodified":1473983512,
+    "wof:lastmodified":1496907408,
     "wof:name":"Glaserei Preschern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5257034302,48.2150115967,16.5257034302,48.2150115967",
     "geom:latitude":48.215012,
     "geom:longitude":16.525703,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888885,
-    "wof:geomhash":"ce40b4fb3acbef5535c0c8dc98d7e9e8",
+    "wof:geomhash":"dda3e521a600d07b71ce51c2d53d7e8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091831999
         }
     ],
     "wof:id":1091831999,
-    "wof:lastmodified":1473983728,
+    "wof:lastmodified":1496903051,
     "wof:name":"Bankomat d Marchfelder Volksbank regGenmbH",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

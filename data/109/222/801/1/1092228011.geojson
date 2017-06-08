@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4810838699,47.2732048035,11.4810838699,47.2732048035",
     "geom:latitude":47.273205,
     "geom:longitude":11.481084,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +51,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906743,
-    "wof:geomhash":"4b552d569986fb5e77b7b85748cd9adf",
+    "wof:geomhash":"dac69402490b0c70e75263e8ce1c65ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092228011
         }
     ],
     "wof:id":1092228011,
-    "wof:lastmodified":1473985186,
+    "wof:lastmodified":1496898733,
     "wof:name":"Milford Tee Austria GesmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

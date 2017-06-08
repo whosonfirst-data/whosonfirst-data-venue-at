@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2616252899,48.131816864,16.2616252899,48.131816864",
     "geom:latitude":48.131817,
     "geom:longitude":16.261625,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888479,
-    "wof:geomhash":"55607767ce6e4480afe3f7a63676bdeb",
+    "wof:geomhash":"3d3bafbccfeef7e4f1a25573c4fb302f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091823005
         }
     ],
     "wof:id":1091823005,
-    "wof:lastmodified":1473984078,
+    "wof:lastmodified":1496902410,
     "wof:name":"Ballettschule Rautner",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

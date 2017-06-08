@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5311355591,47.5639724731,16.5311355591,47.5639724731",
     "geom:latitude":47.563972,
     "geom:longitude":16.531136,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"loeschnauer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838747,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1572eqnMvwUCFOMwIcx9my_47.563972_16.531136@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915760,
-    "wof:geomhash":"d823323d501863b7f669c535db6db66f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80ae10eaa3ddba7e549c03b45250ba3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838747,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092426639
+        }
+    ],
     "wof:id":1092426639,
-    "wof:lastmodified":1473984565,
+    "wof:lastmodified":1496909214,
     "wof:name":"L\u00f6schnauer Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

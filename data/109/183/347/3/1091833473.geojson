@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2180051804,48.0649185181,15.2180051804,48.0649185181",
     "geom:latitude":48.064919,
     "geom:longitude":15.218005,
@@ -23,17 +24,33 @@
     "sg:postcode":"3281",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834949,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QfadDhqzTFzOuE8VgB2s3_48.064919_15.218005@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888973,
-    "wof:geomhash":"74d8e9d67f9a988b67276bc81704a84d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"129fe58c0e07f4f8b7295d450f8a0f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108834949,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091833473
+        }
+    ],
     "wof:id":1091833473,
-    "wof:lastmodified":1473983971,
+    "wof:lastmodified":1496883624,
     "wof:name":"Bankomat der Volksbank \u00f6tscherland regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

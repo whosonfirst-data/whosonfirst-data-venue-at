@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1905736923,47.8190727234,13.1905736923,47.8190727234",
     "geom:latitude":47.819073,
     "geom:longitude":13.190574,
@@ -29,17 +30,33 @@
     "sg:province":"Salzburg",
     "sg:website":"deu.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837151,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VyxRMuu8qV5N2eMW8VxH2_47.819073_13.190574@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890937,
-    "wof:geomhash":"dfa6775e7967b584c8109e15f8b59441",
-    "wof:hierarchy":[],
+    "wof:geomhash":"044c13e8068afa702167835020d95c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837151,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091875747
+        }
+    ],
     "wof:id":1091875747,
-    "wof:lastmodified":1473984401,
+    "wof:lastmodified":1496895423,
     "wof:name":"Georg Deutsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

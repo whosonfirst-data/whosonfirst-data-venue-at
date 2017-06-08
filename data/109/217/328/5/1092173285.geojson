@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4747772217,47.0992469788,15.4747772217,47.0992469788",
     "geom:latitude":47.099247,
     "geom:longitude":15.474777,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904263,
-    "wof:geomhash":"3b4ae3eecc1404e6e68454b0c4db1a29",
+    "wof:geomhash":"9c52766c4ef4002e3d0d002b0becd870",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092173285
         }
     ],
     "wof:id":1092173285,
-    "wof:lastmodified":1473984012,
+    "wof:lastmodified":1496934366,
     "wof:name":"Billa AG Abt Corso",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

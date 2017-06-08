@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5994977951,47.2399330139,9.5994977951,47.2399330139",
     "geom:latitude":47.239933,
     "geom:longitude":9.599498,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897386,
-    "wof:geomhash":"4f423056095af07d63bdc26ac16038e5",
+    "wof:geomhash":"9c063334058c720fa9f1f583951592a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092021059
         }
     ],
     "wof:id":1092021059,
-    "wof:lastmodified":1473983597,
+    "wof:lastmodified":1496900955,
     "wof:name":"Katholische Kirche Vorarlberg",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2885532379,48.2563285828,16.2885532379,48.2563285828",
     "geom:latitude":48.256329,
     "geom:longitude":16.288553,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898387,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915382,
-    "wof:geomhash":"8806b6ed8af43443df007ebbd02645e5",
+    "wof:geomhash":"032e9db6fd71860583eb7e434d045d3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898387,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092418459
         }
     ],
     "wof:id":1092418459,
-    "wof:lastmodified":1473985077,
+    "wof:lastmodified":1496902332,
     "wof:name":"Peter Oberleithner",
     "wof:parent_id":85898387,
     "wof:placetype":"venue",

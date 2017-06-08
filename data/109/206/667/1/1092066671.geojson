@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5961933136,47.2366676331,9.5961933136,47.2366676331",
     "geom:latitude":47.236668,
     "geom:longitude":9.596193,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899168,
-    "wof:geomhash":"63b2ff71b9753417d7e9f28dd6d2e827",
+    "wof:geomhash":"6a03c62cab79c66dc1a92599d7191f78",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092066671
         }
     ],
     "wof:id":1092066671,
-    "wof:lastmodified":1473984631,
+    "wof:lastmodified":1496900937,
     "wof:name":"Gasthaus Johanniterhof",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

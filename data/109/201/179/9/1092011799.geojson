@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2195549011,47.9989318848,16.2195549011,47.9989318848",
     "geom:latitude":47.998932,
     "geom:longitude":16.219555,
@@ -34,10 +35,12 @@
     "sg:website":"graphica.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897016,
-    "wof:geomhash":"85c04f87ff24c600ad37e425da28d2fe",
+    "wof:geomhash":"d1c28b3ba42d9fc56d9a3f8ae2b02a4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092011799
         }
     ],
     "wof:id":1092011799,
-    "wof:lastmodified":1473983320,
+    "wof:lastmodified":1496886049,
     "wof:name":"GRAPHICA Handelsges.m.b.H.",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4468126297,47.2515792847,11.4468126297,47.2515792847",
     "geom:latitude":47.251579,
     "geom:longitude":11.446813,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902066,
-    "wof:geomhash":"b6c417888707b5574dcd9bbbc6d035fa",
+    "wof:geomhash":"ca06e23db311c5d947f1f23332f09793",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092126495
         }
     ],
     "wof:id":1092126495,
-    "wof:lastmodified":1473984659,
+    "wof:lastmodified":1496898022,
     "wof:name":"RR.Doneley -Kopriva Thomas",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2410058975,48.0286140442,14.2410058975,48.0286140442",
     "geom:latitude":48.028614,
     "geom:longitude":14.241006,
@@ -33,17 +34,33 @@
         "fitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836095,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VMjFWQQ0T7G3wmzGSRgtM_48.028614_14.241006@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889226,
-    "wof:geomhash":"b7485554b14083000405052cc911cb8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"369aee63c6536ce5909dce502553271a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836095,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091838943
+        }
+    ],
     "wof:id":1091838943,
-    "wof:lastmodified":1473985234,
+    "wof:lastmodified":1496889462,
     "wof:name":"Karl Lettenmayr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

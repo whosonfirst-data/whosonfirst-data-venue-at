@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6057434082,47.0873603821,13.6057434082,47.0873603821",
     "geom:latitude":47.08736,
     "geom:longitude":13.605743,
@@ -23,17 +24,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.sbg.at/pension.urban",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837063,
+        85632785,
+        102049721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21ZWurMhQesf1nHZHyMoU6_47.087360_13.605743@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894844,
-    "wof:geomhash":"171339b8232b13442e040b1ca9ec7e37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00fd8ab6a0192d9e083ab22fedd222ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837063,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091960533
+        }
+    ],
     "wof:id":1091960533,
-    "wof:lastmodified":1473983378,
+    "wof:lastmodified":1496894255,
     "wof:name":"Pension Urban",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

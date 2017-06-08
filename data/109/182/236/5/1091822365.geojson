@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9431257248,46.5981521606,13.9431257248,46.5981521606",
     "geom:latitude":46.598152,
     "geom:longitude":13.943126,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"schoener-wohnen.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jIPUdDAsUcPSiIXzSJQn0_46.598152_13.943126@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888450,
-    "wof:geomhash":"45d36895f12a72d13b1a5d58eb57a060",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb1e26105ab32373db32c737086ffb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091822365
+        }
+    ],
     "wof:id":1091822365,
-    "wof:lastmodified":1473983936,
+    "wof:lastmodified":1496906041,
     "wof:name":"Josef Rampler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

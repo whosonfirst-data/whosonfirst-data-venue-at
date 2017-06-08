@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6253833771,47.8374290466,16.6253833771,47.8374290466",
     "geom:latitude":47.837429,
     "geom:longitude":16.625383,
@@ -23,17 +24,33 @@
     "sg:postcode":"7064",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838779,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qeMb81dDiFW3nDeRZdSLr_47.837429_16.625383@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889360,
-    "wof:geomhash":"f01af13a7fe096d4818ccc301a450fee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffcf8ddc01b275c083cf23d9a3d6e27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838779,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091842247
+        }
+    ],
     "wof:id":1091842247,
-    "wof:lastmodified":1473983756,
+    "wof:lastmodified":1496909302,
     "wof:name":"Strommer Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0939788818,47.81067276,13.0939788818,47.81067276",
     "geom:latitude":47.810673,
     "geom:longitude":13.093979,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908091,
-    "wof:geomhash":"cc2a4013d113049e1e1a25d76103e4f6",
+    "wof:geomhash":"a92cc03cf9b432c4a9520d8275cfe29c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092258633
         }
     ],
     "wof:id":1092258633,
-    "wof:lastmodified":1473985064,
+    "wof:lastmodified":1496894446,
     "wof:name":"Rachbauer J A Sondertransporte",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

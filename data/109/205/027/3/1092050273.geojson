@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7263889313,47.2157745361,12.7263889313,47.2157745361",
     "geom:latitude":47.215775,
     "geom:longitude":12.726389,
@@ -28,17 +29,33 @@
     "sg:postcode":"5710",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v5fiQtfQt9FsWS850l6Bs_47.215775_12.726389@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898518,
-    "wof:geomhash":"3ec0162a0649b7461cfb270b676a0d8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a786c7a178eda069716381a392b8d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092050273
+        }
+    ],
     "wof:id":1092050273,
-    "wof:lastmodified":1473983348,
+    "wof:lastmodified":1496895938,
     "wof:name":"Kesselfall Hotel-Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

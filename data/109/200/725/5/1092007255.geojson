@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2424755096,47.8118896484,16.2424755096,47.8118896484",
     "geom:latitude":47.81189,
     "geom:longitude":16.242476,
@@ -32,17 +33,34 @@
         "cement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69ypZnCuJ61HVZWackBdb6_47.811890_16.242476@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896836,
-    "wof:geomhash":"1463d331f06b42a7536030ec6e314127",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f58255ad21a574aba27f950f79db648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1092007255
+        }
+    ],
     "wof:id":1092007255,
-    "wof:lastmodified":1473984691,
+    "wof:lastmodified":1496884069,
     "wof:name":"Zahntechnisches Labor Christian Humula",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

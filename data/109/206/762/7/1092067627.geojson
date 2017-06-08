@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1196136475,47.9486083984,13.1196136475,47.9486083984",
     "geom:latitude":47.948608,
     "geom:longitude":13.119614,
@@ -23,17 +24,33 @@
     "sg:postcode":"5163",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837159,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RyjSWdnzyhh9ujc94SfoR_47.948608_13.119614@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899215,
-    "wof:geomhash":"d442d8bd77a5142c46f9c34342e7a81b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f9cfbab567110ee0bbbb279adf15908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837159,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092067627
+        }
+    ],
     "wof:id":1092067627,
-    "wof:lastmodified":1473984789,
+    "wof:lastmodified":1496895494,
     "wof:name":"Gasthaus Mayrhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

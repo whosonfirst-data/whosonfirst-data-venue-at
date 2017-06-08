@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3984880447,47.2631492615,11.3984880447,47.2631492615",
     "geom:latitude":47.263149,
     "geom:longitude":11.398488,
@@ -24,13 +25,14 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
+        85898613,
         102191581,
+        1108837687,
         85632785,
         101748061,
         102049723,
-        85898609,
-        85898613
+        85681661,
+        85898609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,29 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473911486,
-    "wof:geomhash":"5e9b3881b54023a084ce928950d02cb4",
+    "wof:geomhash":"a61c18ca9f453b80b7e0bfe23e6ebde7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
             "locality_id":101748061,
-            "neighbourhood_id":85898609,
+            "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092336839
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85898613,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85898609,
             "region_id":85681661,
             "venue_id":1092336839
         }
     ],
     "wof:id":1092336839,
-    "wof:lastmodified":1473984903,
+    "wof:lastmodified":1496899252,
     "wof:name":"Tutzer Horst",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

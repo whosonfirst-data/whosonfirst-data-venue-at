@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8366413116,47.9654998779,16.8366413116,47.9654998779",
     "geom:latitude":47.9655,
     "geom:longitude":16.836641,
@@ -23,17 +24,34 @@
     "sg:postcode":"7100",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        101785751,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OffmIOBeHjmLZoPKLdJVL_47.965500_16.836641@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896146,
-    "wof:geomhash":"05371de25cd568132a074789f5541865",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d67ec32f3dd97d1032a90b1e8ae09729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":101785751,
+            "region_id":85681651,
+            "venue_id":1091990895
+        }
+    ],
     "wof:id":1091990895,
-    "wof:lastmodified":1473983476,
+    "wof:lastmodified":1496908171,
     "wof:name":"Lautner-Heizung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

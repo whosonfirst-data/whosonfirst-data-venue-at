@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2188472748,47.3982658386,13.2188472748,47.3982658386",
     "geom:latitude":47.398266,
     "geom:longitude":13.218847,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"ets.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        101844515,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DTdUr68nZVgax160TZGyu_47.398266_13.218847@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911513,
-    "wof:geomhash":"611371a3b9b66edc07eb4b5277c8eeb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"487ae10e3e540eac56fb1b96a2866294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":101844515,
+            "region_id":85681681,
+            "venue_id":1092337419
+        }
+    ],
     "wof:id":1092337419,
-    "wof:lastmodified":1473985094,
+    "wof:lastmodified":1496893798,
     "wof:name":"ETS Egger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

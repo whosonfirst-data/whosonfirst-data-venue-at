@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6178760529,48.2635116577,13.6178760529,48.2635116577",
     "geom:latitude":48.263512,
     "geom:longitude":13.617876,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836033,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KwAUKtucJK2bbDy5jpjd5_48.263512_13.617876@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905072,
-    "wof:geomhash":"3d536dd8ca415b453a966d7c503a3545",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66e3ceceafa9c4c1709f7374359b14f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836033,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092191057
+        }
+    ],
     "wof:id":1092191057,
-    "wof:lastmodified":1473983507,
+    "wof:lastmodified":1496889266,
     "wof:name":"EINB\u00d6CK GMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

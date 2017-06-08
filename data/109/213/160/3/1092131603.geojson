@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0561180115,47.7240447998,13.0561180115,47.7240447998",
     "geom:latitude":47.724045,
     "geom:longitude":13.056118,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902341,
-    "wof:geomhash":"ce3fce5987689a2a7f1f3a1372e755eb",
+    "wof:geomhash":"14ae19361d0a0c43ebd168acfb5244e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1092131603
         }
     ],
     "wof:id":1092131603,
-    "wof:lastmodified":1473983672,
+    "wof:lastmodified":1496895183,
     "wof:name":"One and 2 HandelsgesmbH",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

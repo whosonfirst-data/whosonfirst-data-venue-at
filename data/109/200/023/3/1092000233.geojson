@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0058059692,47.2941932678,16.0058059692,47.2941932678",
     "geom:latitude":47.294193,
     "geom:longitude":16.005806,
@@ -23,17 +24,33 @@
     "sg:postcode":"8230",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839121,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jF0vo9m0guVVynnda7xZS_47.294193_16.005806@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896539,
-    "wof:geomhash":"78a7fa27d8f64d33b089b7ebebe25988",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3adf89d070051312adbceb4320dfaac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839121,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092000233
+        }
+    ],
     "wof:id":1092000233,
-    "wof:lastmodified":1473983365,
+    "wof:lastmodified":1496911438,
     "wof:name":"Hochegger D\u00e4cher GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4777803421,47.5757026672,12.4777803421,47.5757026672",
     "geom:latitude":47.575703,
     "geom:longitude":12.47778,
@@ -23,17 +24,33 @@
     "sg:postcode":"6383",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60cs0PF99ssHYP84rJ2Q1B_47.575703_12.477780@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907774,
-    "wof:geomhash":"1721867c37ab0d21e2d714268e86b990",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b512da937d5b92b7152a7b5249406828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092251309
+        }
+    ],
     "wof:id":1092251309,
-    "wof:lastmodified":1473983649,
+    "wof:lastmodified":1496897079,
     "wof:name":"Tourismusverband Erpfendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

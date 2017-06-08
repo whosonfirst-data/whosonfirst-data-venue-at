@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0252637863,47.5042762756,12.0252637863,47.5042762756",
     "geom:latitude":47.504276,
     "geom:longitude":12.025264,
@@ -23,17 +24,33 @@
     "sg:postcode":"6300",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837273,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3J2FAgmReRe04oJnEFpFW8_47.504276_12.025264@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888646,
-    "wof:geomhash":"9e64eb5dcdd6df745f2b2416c83a6970",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed7d14d0d4b15b627248127cbab69195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837273,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091826581
+        }
+    ],
     "wof:id":1091826581,
-    "wof:lastmodified":1473984966,
+    "wof:lastmodified":1496896596,
     "wof:name":"Raiffeisenbank Angerberg regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

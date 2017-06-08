@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.329000473,48.1414718628,16.329000473,48.1414718628",
     "geom:latitude":48.141472,
     "geom:longitude":16.329,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910477,
-    "wof:geomhash":"727439899ecdd234cdf924a66d11602f",
+    "wof:geomhash":"d3f3f3f2d70dff9dc7381f87abc1c8d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092312397
         }
     ],
     "wof:id":1092312397,
-    "wof:lastmodified":1473983923,
+    "wof:lastmodified":1496904319,
     "wof:name":"Auto Maresch HandelsgesmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

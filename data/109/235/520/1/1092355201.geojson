@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3945302963,47.2531280518,11.3945302963,47.2531280518",
     "geom:latitude":47.253128,
     "geom:longitude":11.39453,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912297,
-    "wof:geomhash":"efc90581daef33d7a033d28bbf623fb2",
+    "wof:geomhash":"44f3784955e4476d0a99c3faaaaaedad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092355201
         }
     ],
     "wof:id":1092355201,
-    "wof:lastmodified":1473984495,
+    "wof:lastmodified":1496899404,
     "wof:name":"Plattner M\u00fcll-Express-Eisen",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

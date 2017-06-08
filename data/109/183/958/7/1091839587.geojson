@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4867143631,48.2096672058,13.4867143631,48.2096672058",
     "geom:latitude":48.209667,
     "geom:longitude":13.486714,
@@ -33,17 +34,34 @@
         "clock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HG8yRP5cG1pyrG6CVq13O_48.209667_13.486714@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889254,
-    "wof:geomhash":"2760eff94d7a1c8bf908b2464393a75a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d874fb3acbcac170f3b4e09ca9f443c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1091839587
+        }
+    ],
     "wof:id":1091839587,
-    "wof:lastmodified":1473985309,
+    "wof:lastmodified":1496887891,
     "wof:name":"Rudolf Dobler-Strehle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

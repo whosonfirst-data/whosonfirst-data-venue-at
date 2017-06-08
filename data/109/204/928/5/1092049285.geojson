@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2187080383,46.6228408813,14.2187080383,46.6228408813",
     "geom:latitude":46.622841,
     "geom:longitude":14.218708,
@@ -29,10 +30,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898481,
-    "wof:geomhash":"d9318d0988d975099f8aedd17c04c111",
+    "wof:geomhash":"5fdcd9979476f4fb778ca7758a434ca8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092049285
         }
     ],
     "wof:id":1092049285,
-    "wof:lastmodified":1473984390,
+    "wof:lastmodified":1496906393,
     "wof:name":"Hotel-Appartements Wulfenia",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9543628693,47.5214385986,14.9543628693,47.5214385986",
     "geom:latitude":47.521439,
     "geom:longitude":14.954363,
@@ -23,17 +24,33 @@
     "sg:postcode":"8794",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838987,
+        85632785,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LzrZjeKQFEbzt5ERcO3XO_47.521439_14.954363@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899444,
-    "wof:geomhash":"9bacd6e8624c6a7559fcbeac3ad2c5e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c128152acacbfaf593ff8510e01f7371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838987,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092073333
+        }
+    ],
     "wof:id":1092073333,
-    "wof:lastmodified":1473983943,
+    "wof:lastmodified":1496910674,
     "wof:name":"Gasthof Latschenstub'n",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

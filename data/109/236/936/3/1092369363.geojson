@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8172645569,47.9526329041,16.8172645569,47.9526329041",
     "geom:latitude":47.952633,
     "geom:longitude":16.817265,
@@ -23,17 +24,33 @@
     "sg:postcode":"7100",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tIdw88x4nvIjDXFHWJb4T_47.952633_16.817265@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473912988,
-    "wof:geomhash":"1ed57155dbcc2cecf7dd777ed816ab04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11b11a4934b335d5d6d5fa2305bab30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092369363
+        }
+    ],
     "wof:id":1092369363,
-    "wof:lastmodified":1473985277,
+    "wof:lastmodified":1496908210,
     "wof:name":"Neusiedler Csarda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

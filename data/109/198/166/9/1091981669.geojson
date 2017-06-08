@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0853004456,47.8517494202,13.0853004456,47.8517494202",
     "geom:latitude":47.851749,
     "geom:longitude":13.0853,
@@ -25,10 +26,12 @@
     "sg:website":"http://www.blautex.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895764,
-    "wof:geomhash":"e120749ca43428648d1441b7ad254cb6",
+    "wof:geomhash":"57263f0c65580bb3e70118848b67ae4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1091981669
         }
     ],
     "wof:id":1091981669,
-    "wof:lastmodified":1473983424,
+    "wof:lastmodified":1496895379,
     "wof:name":"Blautex GmbH Grosshandel f\u00fcr Arbeitsschutzbekleidung",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

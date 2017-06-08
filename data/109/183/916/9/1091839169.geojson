@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5105800629,47.1345710754,10.5105800629,47.1345710754",
     "geom:latitude":47.134571,
     "geom:longitude":10.51058,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837325,
+        85632785,
+        101788997,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LdUjFqaB91yYTxiFTF9sm_47.134571_10.510580@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889235,
-    "wof:geomhash":"45dc0df2e0c30abfaeaacb2150df0b71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aec27cd9c2377219b519a7596b6cc814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837325,
+            "locality_id":101788997,
+            "region_id":85681661,
+            "venue_id":1091839169
+        }
+    ],
     "wof:id":1091839169,
-    "wof:lastmodified":1473985283,
+    "wof:lastmodified":1496896853,
     "wof:name":"Karl Weiskopf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

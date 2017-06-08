@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6155967712,47.0118713379,13.6155967712,47.0118713379",
     "geom:latitude":47.011871,
     "geom:longitude":13.615597,
@@ -32,17 +33,33 @@
         "refrigerator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838293,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cdWCh3mQhtiQpkadcKqCG_47.011871_13.615597@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901222,
-    "wof:geomhash":"37b5b69be5990ab60e016f744f16cd26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"201984d8810e4c94fa8eb36999e1a790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838293,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092108585
+        }
+    ],
     "wof:id":1092108585,
-    "wof:lastmodified":1473984984,
+    "wof:lastmodified":1496907044,
     "wof:name":"Elektro Fuchsberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

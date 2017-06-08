@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5769844055,48.0748519897,16.5769844055,48.0748519897",
     "geom:latitude":48.074852,
     "geom:longitude":16.576984,
@@ -32,17 +33,34 @@
         "metalworking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835731,
+        85632785,
+        101784513,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qML6VwcqJnIWHHbLlxW4b_48.074852_16.576984@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911756,
-    "wof:geomhash":"9be1d2908fd02d062aec72fe19bbdcf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ee140ccfae0bddc7ed6cd90bccda740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108835731,
+            "locality_id":101784513,
+            "region_id":85681671,
+            "venue_id":1092343073
+        }
+    ],
     "wof:id":1092343073,
-    "wof:lastmodified":1473983828,
+    "wof:lastmodified":1496888089,
     "wof:name":"WTZENMANN AUSTRIA GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

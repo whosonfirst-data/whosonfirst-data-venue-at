@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2574367523,48.1331825256,16.2574367523,48.1331825256",
     "geom:latitude":48.133183,
     "geom:longitude":16.257437,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473917033,
-    "wof:geomhash":"422288055dc75cb4f8a2fe000080319e",
+    "wof:geomhash":"d25f82b5de32dd6007ae06b41c6d4b26",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092454561
         }
     ],
     "wof:id":1092454561,
-    "wof:lastmodified":1473983510,
+    "wof:lastmodified":1496928692,
     "wof:name":"Franz Walsberger",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

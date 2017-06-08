@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6481361389,47.3052635193,9.6481361389,47.3052635193",
     "geom:latitude":47.305264,
     "geom:longitude":9.648136,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837973,
+        85632785,
+        101827461,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18NT5FjMMMN3PQeyhPqpXg_47.305264_9.648136@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913653,
-    "wof:geomhash":"1fd30c4b2f273eb8bbeb0b91725840a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74f18652e346e7170521b75b7e79eb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837973,
+            "locality_id":101827461,
+            "region_id":85681649,
+            "venue_id":1092384367
+        }
+    ],
     "wof:id":1092384367,
-    "wof:lastmodified":1473984395,
+    "wof:lastmodified":1496901190,
     "wof:name":"Pizzeria-Restaurante La Barca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

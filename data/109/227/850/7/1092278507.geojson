@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7026224136,47.1052436829,15.7026224136,47.1052436829",
     "geom:latitude":47.105244,
     "geom:longitude":15.702622,
@@ -33,17 +34,34 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838867,
+        85632785,
+        101789137,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mYzeTDJJbHgXbTHtfX8cE_47.105244_15.702622@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473908962,
-    "wof:geomhash":"5ab89dd2b39d5d5c2ae3fd758bba63f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bce8c15ba7f763a2f7717737524c877d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838867,
+            "locality_id":101789137,
+            "region_id":85681687,
+            "venue_id":1092278507
+        }
+    ],
     "wof:id":1092278507,
-    "wof:lastmodified":1473985292,
+    "wof:lastmodified":1496909721,
     "wof:name":"BINDER & CO AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

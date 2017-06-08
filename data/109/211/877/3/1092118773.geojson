@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.367275238,47.2566375732,11.367275238,47.2566375732",
     "geom:latitude":47.256638,
     "geom:longitude":11.367275,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901706,
-    "wof:geomhash":"6003268a6da13648877d109bd5511134",
+    "wof:geomhash":"ba4d00b6adaf8d6cd07c3e9eb2995fee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092118773
         }
     ],
     "wof:id":1092118773,
-    "wof:lastmodified":1473985178,
+    "wof:lastmodified":1496926034,
     "wof:name":"K\u00e4tzler Karl Dr",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

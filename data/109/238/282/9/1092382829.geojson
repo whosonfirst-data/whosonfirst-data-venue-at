@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5189552307,48.0447769165,16.5189552307,48.0447769165",
     "geom:latitude":48.044777,
     "geom:longitude":16.518955,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836651,
+        85632785,
+        101784509,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d8XqrFO4czCf1GlpsJH9L_48.044777_16.518955@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913578,
-    "wof:geomhash":"794f32e0c8530075ade9412a8cdbc973",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd7c89db7a2fd6bd77f7f32d542c1c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836651,
+            "locality_id":101784509,
+            "region_id":85681671,
+            "venue_id":1092382829
+        }
+    ],
     "wof:id":1092382829,
-    "wof:lastmodified":1473984051,
+    "wof:lastmodified":1496892199,
     "wof:name":"Pizzeria Al Contadino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

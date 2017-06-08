@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4319171906,48.025302887,15.4319171906,48.025302887",
     "geom:latitude":48.025303,
     "geom:longitude":15.431917,
@@ -33,17 +34,34 @@
         "blank"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835003,
+        85632785,
+        101785783,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xcQT55PEDvnxCTawTbjJT_48.025303_15.431917@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473909867,
-    "wof:geomhash":"a96686ed3c077ba58a0aaf8d876b3902",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92be564d55abb2b6c951abf7082b769d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835003,
+            "locality_id":101785783,
+            "region_id":85681671,
+            "venue_id":1092299781
+        }
+    ],
     "wof:id":1092299781,
-    "wof:lastmodified":1473985240,
+    "wof:lastmodified":1496884168,
     "wof:name":"Schindlegger KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

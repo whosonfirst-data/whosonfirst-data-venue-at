@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4735431671,48.2649230957,16.4735431671,48.2649230957",
     "geom:latitude":48.264923,
     "geom:longitude":16.473543,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911341,
-    "wof:geomhash":"b370760288ac8574eef0b46fcd092d3c",
+    "wof:geomhash":"314adfb0818964b06edf77b8c4c364fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092332965
         }
     ],
     "wof:id":1092332965,
-    "wof:lastmodified":1473984060,
+    "wof:lastmodified":1496903519,
     "wof:name":"EPR VertriebsgesmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

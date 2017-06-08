@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3263368607,47.2630653381,11.3263368607,47.2630653381",
     "geom:latitude":47.263065,
     "geom:longitude":11.326337,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896944,
-    "wof:geomhash":"f0a1fc59ce2549d55a6a0f027946041c",
+    "wof:geomhash":"9b69c64b01a674d8b8f298fc3b99bee2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092009975
         }
     ],
     "wof:id":1092009975,
-    "wof:lastmodified":1473985091,
+    "wof:lastmodified":1496899572,
     "wof:name":"Klingler Franz Ing",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

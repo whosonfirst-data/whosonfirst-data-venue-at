@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6558494568,48.0672073364,15.6558494568,48.0672073364",
     "geom:latitude":48.067207,
     "geom:longitude":15.655849,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834853,
+        85632785,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q8xzpPPNy0mEHRzeYonj8_48.067207_15.655849@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913614,
-    "wof:geomhash":"eb99bed1d99bece249ca4d3b86921b3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93b2a47e897ef9b3d48aa4866338ac85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108834853,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092383419
+        }
+    ],
     "wof:id":1092383419,
-    "wof:lastmodified":1473984184,
+    "wof:lastmodified":1496883041,
     "wof:name":"Pizzeria Hausleitner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

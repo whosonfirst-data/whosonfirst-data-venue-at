@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4818677902,47.2750778198,11.4818677902,47.2750778198",
     "geom:latitude":47.275078,
     "geom:longitude":11.481868,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907942,
-    "wof:geomhash":"cec46393ee3b0a16eb0a03fbc649b40f",
+    "wof:geomhash":"f67d202b2bf80cd5667b0b17d16b70dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092255287
         }
     ],
     "wof:id":1092255287,
-    "wof:lastmodified":1473984563,
+    "wof:lastmodified":1496898744,
     "wof:name":"Geiger Robert Transport GesmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

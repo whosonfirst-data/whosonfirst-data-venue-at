@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1865139008,47.7212524414,16.1865139008,47.7212524414",
     "geom:latitude":47.721252,
     "geom:longitude":16.186514,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.mlecka.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836899,
+        85632785,
+        101833079,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72QlYnUTny75FZi6HMTX0t_47.721252_16.186514@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903438,
-    "wof:geomhash":"5182dc3954ce8346daf5cc02932b81cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd771c9ab471e670e81d4d1554acbe0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108836899,
+            "locality_id":101833079,
+            "region_id":85681671,
+            "venue_id":1092154829
+        }
+    ],
     "wof:id":1092154829,
-    "wof:lastmodified":1473984259,
+    "wof:lastmodified":1496893323,
     "wof:name":"MLECKA Maschinen- und Betriebsverwertungs KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

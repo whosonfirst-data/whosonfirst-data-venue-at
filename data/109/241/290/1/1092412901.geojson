@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9908561707,47.2806167603,15.9908561707,47.2806167603",
     "geom:latitude":47.280617,
     "geom:longitude":15.990856,
@@ -23,17 +24,33 @@
     "sg:postcode":"8230",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839121,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16OMllKFJam92ahB5vjMWT_47.280617_15.990856@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473915103,
-    "wof:geomhash":"a45780bec88e767f9515c23e3aa3db8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"897efc5fd5e4b53ac0bc6191a2f4cb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839121,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092412901
+        }
+    ],
     "wof:id":1092412901,
-    "wof:lastmodified":1473984001,
+    "wof:lastmodified":1496911470,
     "wof:name":"W\u00e4rmebetriebe GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8162059784,46.6391792297,13.8162059784,46.6391792297",
     "geom:latitude":46.639179,
     "geom:longitude":13.816206,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890220,
-    "wof:geomhash":"c3566b500d46ce9121b4ab53a2f14bcb",
+    "wof:geomhash":"6885bb255890bfeb958c5ec40188dd95",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1091860445
         }
     ],
     "wof:id":1091860445,
-    "wof:lastmodified":1473983461,
+    "wof:lastmodified":1496906059,
     "wof:name":"Berufsschule f das Gastgewerbe",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

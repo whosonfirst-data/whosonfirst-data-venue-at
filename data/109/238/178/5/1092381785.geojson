@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9657964706,47.8973999023,15.9657964706,47.8973999023",
     "geom:latitude":47.8974,
     "geom:longitude":15.965796,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"schwiglhofer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836267,
+        85632785,
+        101833115,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02O3TgFOMH2ds9FXF0Vkqb_47.897400_15.965796@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913519,
-    "wof:geomhash":"b5ddb52f1516782d28486fe4bd0cc998",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90cf1b39c5f2ff27f93d8a30dc1f0f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108836267,
+            "locality_id":101833115,
+            "region_id":85681671,
+            "venue_id":1092381785
+        }
+    ],
     "wof:id":1092381785,
-    "wof:lastmodified":1473983759,
+    "wof:lastmodified":1496890259,
     "wof:name":"Dr. Friedrich Schwiglhofer KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

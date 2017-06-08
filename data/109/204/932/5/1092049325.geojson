@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8877058029,47.3970184326,10.8877058029,47.3970184326",
     "geom:latitude":47.397018,
     "geom:longitude":10.887706,
@@ -28,17 +29,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PQtY8hToEbG6qGZv5NGML_47.397018_10.887706@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898483,
-    "wof:geomhash":"3bb17d2ce8cb33c30e43c2a72118c82b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1eb128da13182d333a5235a029cfe66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092049325
+        }
+    ],
     "wof:id":1092049325,
-    "wof:lastmodified":1473984411,
+    "wof:lastmodified":1496899859,
     "wof:name":"Hotel-Garni Alpenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6947650909,47.8016738892,16.6947650909,47.8016738892",
     "geom:latitude":47.801674,
     "geom:longitude":16.694765,
@@ -28,17 +29,33 @@
     "sg:postcode":"7071",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40aLkOjWVsr6QveHOITNz3_47.801674_16.694765@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895127,
-    "wof:geomhash":"01db6bde2cecfda29d3049e4af679db3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daa59288fa251268c51b588c52ddd3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091967385
+        }
+    ],
     "wof:id":1091967385,
-    "wof:lastmodified":1473984439,
+    "wof:lastmodified":1496909066,
     "wof:name":"Seerestaurant d Freistadt Rust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

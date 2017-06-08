@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2046318054,47.4286499023,12.2046318054,47.4286499023",
     "geom:latitude":47.42865,
     "geom:longitude":12.204632,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"alpenspektakel.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837381,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sbQJrFCSNrs11rL8cMsMR_47.428650_12.204632@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912059,
-    "wof:geomhash":"9702c020ecd3a21b9afb91ef45a33a4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72a5e2d99d1c0e70f9bcb436ea9baf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837381,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092349813
+        }
+    ],
     "wof:id":1092349813,
-    "wof:lastmodified":1473985153,
+    "wof:lastmodified":1496897428,
     "wof:name":"Auner-Alpenspektakel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4912643433,48.277305603,16.4912643433,48.277305603",
     "geom:latitude":48.277306,
     "geom:longitude":16.491264,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898401,
-        102049891
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890554,
-    "wof:geomhash":"a297dac554d870bb51a2ff9f83f59bf3",
+    "wof:geomhash":"679ea4c2aa3b824628370e07d7cdbd1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049891,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898401,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091867573
         }
     ],
     "wof:id":1091867573,
-    "wof:lastmodified":1473985028,
+    "wof:lastmodified":1496903295,
     "wof:name":"Muhr Hans Prof",
     "wof:parent_id":85898401,
     "wof:placetype":"venue",

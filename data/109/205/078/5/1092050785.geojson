@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7589426041,47.2713623047,12.7589426041,47.2713623047",
     "geom:latitude":47.271362,
     "geom:longitude":12.758943,
@@ -28,17 +29,34 @@
     "sg:postcode":"5710",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        101789131,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zW0PzDo4fPKcxVH8Bq9gB_47.271362_12.758943@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898541,
-    "wof:geomhash":"75935afc02bbe4897bffaa3886c4ffa7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab8580d43c4ca6d383ad5f26102bd8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":101789131,
+            "region_id":85681681,
+            "venue_id":1092050785
+        }
+    ],
     "wof:id":1092050785,
-    "wof:lastmodified":1473983454,
+    "wof:lastmodified":1496895946,
     "wof:name":"Panorama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

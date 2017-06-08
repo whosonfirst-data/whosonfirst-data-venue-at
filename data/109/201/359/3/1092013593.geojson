@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.382932663,48.046836853,14.382932663,48.046836853",
     "geom:latitude":48.046837,
     "geom:longitude":14.382933,
@@ -31,17 +32,34 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bFvVSZ6TN1QxQvu85cd8P_48.046837_14.382933@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897088,
-    "wof:geomhash":"3b751c2e417c08ec0fd86a9e964f0095",
-    "wof:hierarchy":[],
+    "wof:geomhash":"936ecb6e8e51b082cb442bd4d804f53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1092013593
+        }
+    ],
     "wof:id":1092013593,
-    "wof:lastmodified":1473983597,
+    "wof:lastmodified":1496881556,
     "wof:name":"Wagner GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

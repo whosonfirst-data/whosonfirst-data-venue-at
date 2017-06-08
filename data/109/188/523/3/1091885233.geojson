@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3294668198,48.3276557922,14.3294668198,48.3276557922",
     "geom:latitude":48.327656,
     "geom:longitude":14.329467,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898427,
-        102049853
+        102191581,
+        1108836411,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891393,
-    "wof:geomhash":"cd6bc1d4f871fecf49943d561c3996cd",
+    "wof:geomhash":"bc34f55343ff6b5d792af0265b5f7a8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049853,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":-1,
             "neighbourhood_id":85898427,
             "region_id":85681677,
             "venue_id":1091885233
         }
     ],
     "wof:id":1091885233,
-    "wof:lastmodified":1473984392,
+    "wof:lastmodified":1496881435,
     "wof:name":"Fenzl Franz",
     "wof:parent_id":85898427,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1315059662,47.8834228516,14.1315059662,47.8834228516",
     "geom:latitude":47.883423,
     "geom:longitude":14.131506,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"mpg.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835259,
+        85632785,
+        101833157,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pEBBDUyGClsRM7uBw32K0_47.883423_14.131506@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889207,
-    "wof:geomhash":"b87cd79772a9116a0ba95b4f6cce21c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16cf034334e74607c7377e596570b023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835259,
+            "locality_id":101833157,
+            "region_id":85681677,
+            "venue_id":1091838471
+        }
+    ],
     "wof:id":1091838471,
-    "wof:lastmodified":1473985087,
+    "wof:lastmodified":1496885686,
     "wof:name":"MPG M\u00f6bel Produktions GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

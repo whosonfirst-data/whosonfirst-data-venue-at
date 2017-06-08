@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3787288666,48.0275115967,16.3787288666,48.0275115967",
     "geom:latitude":48.027512,
     "geom:longitude":16.378729,
@@ -35,17 +36,34 @@
         "antenna"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836863,
+        85632785,
+        101784495,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36HlqEzYBjzI32H6gJoGU4_48.027512_16.378729@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909284,
-    "wof:geomhash":"bbc19e8dcaf73f94cf4ed6acaf87729c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93f12bd96795129255b85c19a6b80a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836863,
+            "locality_id":101784495,
+            "region_id":85681671,
+            "venue_id":1092285941
+        }
+    ],
     "wof:id":1092285941,
-    "wof:lastmodified":1473984540,
+    "wof:lastmodified":1496893098,
     "wof:name":"Andreas Kietaibl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

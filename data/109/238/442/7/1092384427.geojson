@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5580368042,48.2959060669,16.5580368042,48.2959060669",
     "geom:latitude":48.295906,
     "geom:longitude":16.558037,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835837,
+        85632785,
+        101843349,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73VIVzQ7Uep5o1hotkBneu_48.295906_16.558037@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913655,
-    "wof:geomhash":"95cacb7fed1f7d3e64707f2aaac47b72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d1b249864fc26ab420ab4851aa215a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835837,
+            "locality_id":101843349,
+            "region_id":85681671,
+            "venue_id":1092384427
+        }
+    ],
     "wof:id":1092384427,
-    "wof:lastmodified":1473984384,
+    "wof:lastmodified":1496888628,
     "wof:name":"Porto Vino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9279747009,46.5899772644,13.9279747009,46.5899772644",
     "geom:latitude":46.589977,
     "geom:longitude":13.927975,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"pucher-betriebe.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SP5SXgTF71xY2dvHNxMzD_46.589977_13.927975@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888519,
-    "wof:geomhash":"0d1328ce5522f36beb66a4a46a3986bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a598f4c2e6cbc03bf4b3fe055524e71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091823839
+        }
+    ],
     "wof:id":1091823839,
-    "wof:lastmodified":1473984261,
+    "wof:lastmodified":1496906100,
     "wof:name":"Josef Pucher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

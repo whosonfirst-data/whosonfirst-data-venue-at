@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5356645584,46.9071617126,13.5356645584,46.9071617126",
     "geom:latitude":46.907162,
     "geom:longitude":13.535665,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838263,
+        85632785,
+        101788977,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VfvteJBZUbgavYL4ASZTh_46.907162_13.535665@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908421,
-    "wof:geomhash":"bd353516790dc933b0dda6ea1439aa19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d19c9af485ca66c8783cd43b8934153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838263,
+            "locality_id":101788977,
+            "region_id":85681655,
+            "venue_id":1092265873
+        }
+    ],
     "wof:id":1092265873,
-    "wof:lastmodified":1473984481,
+    "wof:lastmodified":1496906864,
     "wof:name":"Wolfgang Pirker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5066871643,48.0069961548,13.5066871643,48.0069961548",
     "geom:latitude":48.006996,
     "geom:longitude":13.506687,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"piwa.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836523,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6spODAx3TTcI5LHwF450Lx_48.006996_13.506687@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898769,
-    "wof:geomhash":"520c5282849e161683ae3d09e0757018",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46b42949bd3e3e2d8310fbf64d53703c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836523,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092056701
+        }
+    ],
     "wof:id":1092056701,
-    "wof:lastmodified":1473984572,
+    "wof:lastmodified":1496891485,
     "wof:name":"Piwa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

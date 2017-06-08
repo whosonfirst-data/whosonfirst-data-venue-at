@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.892572403,47.3839149475,10.892572403,47.3839149475",
     "geom:latitude":47.383915,
     "geom:longitude":10.892572,
@@ -23,17 +24,33 @@
     "sg:postcode":"6633",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837801,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39clgnZrSBkfEPeUIVgR7Y_47.383915_10.892572@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899141,
-    "wof:geomhash":"9470a8648ce04472587dc84e872a7251",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b364320de9173be41666d6cda2ab79ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837801,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092065971
+        }
+    ],
     "wof:id":1092065971,
-    "wof:lastmodified":1473984432,
+    "wof:lastmodified":1496900002,
     "wof:name":"Gasthaus Goldener L\u00f6we",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

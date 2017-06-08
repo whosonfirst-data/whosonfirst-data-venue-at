@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3907346725,47.2586021423,11.3907346725,47.2586021423",
     "geom:latitude":47.258602,
     "geom:longitude":11.390735,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914866,
-    "wof:geomhash":"cd2ee92ae3882b68a7418c8f5088e490",
+    "wof:geomhash":"bb2414fa5c4ffbaa0a770874f5a80b4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092409829
         }
     ],
     "wof:id":1092409829,
-    "wof:lastmodified":1473985112,
+    "wof:lastmodified":1496899253,
     "wof:name":"Oberhammer Katrin",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

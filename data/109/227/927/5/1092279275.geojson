@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2270431519,47.4286842346,13.2270431519,47.4286842346",
     "geom:latitude":47.428684,
     "geom:longitude":13.227043,
@@ -23,17 +24,33 @@
     "sg:postcode":"5500",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LKQhAtqL2evNPazP7Mdd9_47.428684_13.227043@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473908992,
-    "wof:geomhash":"59612b0aed0f4c995d54f2f43f9b1ed3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7ae9d98c99532b0de4bd32d03fdcd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092279275
+        }
+    ],
     "wof:id":1092279275,
-    "wof:lastmodified":1473985311,
+    "wof:lastmodified":1496893836,
     "wof:name":"Haas & Schwaiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

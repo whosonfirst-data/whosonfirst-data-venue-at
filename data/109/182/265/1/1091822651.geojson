@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8552904129,48.0579185486,14.8552904129,48.0579185486",
     "geom:latitude":48.057919,
     "geom:longitude":14.85529,
@@ -33,17 +34,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835819,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37eb4ifM1UyKVRow7v4OJ7_48.057919_14.855290@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888464,
-    "wof:geomhash":"b4e4fe01e6bd5688d0416e22f0d6fe68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cdd1634a347cf8a1e900875836a86dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835819,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091822651
+        }
+    ],
     "wof:id":1091822651,
-    "wof:lastmodified":1473983985,
+    "wof:lastmodified":1496888491,
     "wof:name":"Herbert Zehethofer GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

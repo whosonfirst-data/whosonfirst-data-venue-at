@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4627742767,48.2668991089,16.4627742767,48.2668991089",
     "geom:latitude":48.266899,
     "geom:longitude":16.462774,
@@ -25,10 +26,13 @@
     "sg:website":"dba-doppelboden.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897066,
-    "wof:geomhash":"85452134baa07c777124919bd475dad4",
+    "wof:geomhash":"286b0f69b66adce079ddb3379f38762e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092012987
         }
     ],
     "wof:id":1092012987,
-    "wof:lastmodified":1473983536,
+    "wof:lastmodified":1496902340,
     "wof:name":"DBA Montagebau GesmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

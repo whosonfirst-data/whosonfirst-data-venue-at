@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5945911407,47.2377967834,9.5945911407,47.2377967834",
     "geom:latitude":47.237797,
     "geom:longitude":9.594591,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890622,
-    "wof:geomhash":"fab380c22e506c86b3b1390be6f066e1",
+    "wof:geomhash":"ce4f0501db164465e514b3f5a7bb2fc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091869231
         }
     ],
     "wof:id":1091869231,
-    "wof:lastmodified":1473985318,
+    "wof:lastmodified":1496900970,
     "wof:name":"Natur & Kost",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.773399353,47.5820732117,9.773399353,47.5820732117",
     "geom:latitude":47.582073,
     "geom:longitude":9.773399,
@@ -23,17 +24,33 @@
     "sg:postcode":"6914",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837965,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EJoBsbkNaDvSMHbh8g5fv_47.582073_9.773399@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900031,
-    "wof:geomhash":"abdcd3e349ce4247b8cbdcf08f9177be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"811ea8a59218a4a1184d384d7c6ec4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837965,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092085951
+        }
+    ],
     "wof:id":1092085951,
-    "wof:lastmodified":1473984638,
+    "wof:lastmodified":1496901174,
     "wof:name":"SYS-Systemfiltration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

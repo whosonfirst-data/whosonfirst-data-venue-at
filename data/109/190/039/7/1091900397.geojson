@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6441307068,47.2720718384,9.6441307068,47.2720718384",
     "geom:latitude":47.272072,
     "geom:longitude":9.644131,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892135,
-    "wof:geomhash":"2cb8f37d0d2bf23e74423d28d6da801a",
+    "wof:geomhash":"9500e4ff269483e7b96d4f6ab582512a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091900397
         }
     ],
     "wof:id":1091900397,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496901659,
     "wof:name":"Klien Schl\u00fcsseldienst",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

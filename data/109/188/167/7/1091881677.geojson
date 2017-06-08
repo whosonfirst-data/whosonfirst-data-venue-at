@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2126998901,48.0362930298,14.2126998901,48.0362930298",
     "geom:latitude":48.036293,
     "geom:longitude":14.2127,
@@ -32,17 +33,34 @@
         "bronze"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836095,
+        85632785,
+        101785675,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nSDk80ImcN59nK1tva9XI_48.036293_14.212700@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891206,
-    "wof:geomhash":"cce36b85e0daad1c8184f68cb6fc867b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68a9f55e9ef4706e5e6a5a83094c8d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836095,
+            "locality_id":101785675,
+            "region_id":85681677,
+            "venue_id":1091881677
+        }
+    ],
     "wof:id":1091881677,
-    "wof:lastmodified":1473983691,
+    "wof:lastmodified":1496889481,
     "wof:name":"Mitterhuber Huemer OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

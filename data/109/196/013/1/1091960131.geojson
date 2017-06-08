@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8308134079,47.455291748,12.8308134079,47.455291748",
     "geom:latitude":47.455292,
     "geom:longitude":12.830813,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.schoerhof.at/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6js988u6dsR7MkmQ2WQCD8_47.455292_12.830813@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894828,
-    "wof:geomhash":"e578b814faec3658878d6b7d2b7fb907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e981d295e5aac5b6ee6c41d6c1f73d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091960131
+        }
+    ],
     "wof:id":1091960131,
-    "wof:lastmodified":1473983351,
+    "wof:lastmodified":1496896320,
     "wof:name":"Gasthof Schoerhof - Saalfelden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

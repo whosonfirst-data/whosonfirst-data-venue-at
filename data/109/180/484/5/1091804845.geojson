@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.0312404633,48.0499420166,17.0312404633,48.0499420166",
     "geom:latitude":48.049942,
     "geom:longitude":17.03124,
@@ -32,17 +33,34 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838405,
+        85632785,
+        101784505,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xqjfrHxYIRXmS9m10vdST_48.049942_17.031240@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473887644,
-    "wof:geomhash":"e399bac78ac95f52d61262b3f6e25496",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87fd289f51dc17c08c6b07b89d3b81db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838405,
+            "locality_id":101784505,
+            "region_id":85681651,
+            "venue_id":1091804845
+        }
+    ],
     "wof:id":1091804845,
-    "wof:lastmodified":1473983450,
+    "wof:lastmodified":1496907796,
     "wof:name":"Wepro Stahlbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

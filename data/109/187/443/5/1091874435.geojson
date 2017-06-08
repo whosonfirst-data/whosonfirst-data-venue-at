@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6298313141,47.2849960327,9.6298313141,47.2849960327",
     "geom:latitude":47.284996,
     "geom:longitude":9.629831,
@@ -23,17 +24,33 @@
     "sg:postcode":"6830",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838021,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fRKOfxPXkwyoCo5PSCTAO_47.284996_9.629831@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890885,
-    "wof:geomhash":"83c6883627ac8b08e4b9c16e03ed156b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5db8963d17a50f5d2911e5ccc1b49043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091874435
+        }
+    ],
     "wof:id":1091874435,
-    "wof:lastmodified":1473984062,
+    "wof:lastmodified":1496901638,
     "wof:name":"Gensetter Topfpflanzen AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

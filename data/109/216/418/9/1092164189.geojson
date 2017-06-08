@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2599868774,48.19272995,16.2599868774,48.19272995",
     "geom:latitude":48.19273,
     "geom:longitude":16.259987,
@@ -25,10 +26,13 @@
     "sg:website":"rodlauer.co.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903859,
-    "wof:geomhash":"615e949a8366fd6d46624e0ab7422a0a",
+    "wof:geomhash":"9b76d5c82acaf8ee6491297d07973f5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092164189
         }
     ],
     "wof:id":1092164189,
-    "wof:lastmodified":1473984089,
+    "wof:lastmodified":1496902311,
     "wof:name":"Rodlauer Computer Handelsgesellschaft m.b.H.",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

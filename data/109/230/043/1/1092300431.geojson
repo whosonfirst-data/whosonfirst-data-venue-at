@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2647190094,48.1786613464,16.2647190094,48.1786613464",
     "geom:latitude":48.178661,
     "geom:longitude":16.264719,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909907,
-    "wof:geomhash":"5e9471c3b33626e0135ae9915ff761c8",
+    "wof:geomhash":"9e4e90550cd8552b589abb80953d95d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092300431
         }
     ],
     "wof:id":1092300431,
-    "wof:lastmodified":1473983371,
+    "wof:lastmodified":1496904388,
     "wof:name":"Architekturb\u00fcro Ott & Ott",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2477321625,47.4477157593,12.2477321625,47.4477157593",
     "geom:latitude":47.447716,
     "geom:longitude":12.247732,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qmXGOgNofO02tYDeuTXWZ_47.447716_12.247732@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909624,
-    "wof:geomhash":"77055de0cebc52cf3fa19f19d407b596",
-    "wof:hierarchy":[],
+    "wof:geomhash":"909e99d80a5c2fe3ee4d8b4c7ab2dc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092294249
+        }
+    ],
     "wof:id":1092294249,
-    "wof:lastmodified":1473984358,
+    "wof:lastmodified":1496897258,
     "wof:name":"Ferienwohnungen am Erlensee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

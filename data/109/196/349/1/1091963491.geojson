@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8854436874,47.3986434937,10.8854436874,47.3986434937",
     "geom:latitude":47.398643,
     "geom:longitude":10.885444,
@@ -28,17 +29,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_599paWWSzmCy5UYDtBVpRK_47.398643_10.885444@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894969,
-    "wof:geomhash":"377d1b2424425185ee847a6e04816ce8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a150bb1692dc9e67cc7f92e9316cfc9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091963491
+        }
+    ],
     "wof:id":1091963491,
-    "wof:lastmodified":1473983873,
+    "wof:lastmodified":1496899867,
     "wof:name":"Gerrie's Holzstadl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

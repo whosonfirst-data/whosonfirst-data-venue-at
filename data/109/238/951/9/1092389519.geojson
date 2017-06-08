@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5515708923,48.2010002136,16.5515708923,48.2010002136",
     "geom:latitude":48.201,
     "geom:longitude":16.551571,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913929,
-    "wof:geomhash":"b46f74b6cf5d4394f293e5ec8724b057",
+    "wof:geomhash":"edbc97d3f44822021de1217dfeffb81a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092389519
         }
     ],
     "wof:id":1092389519,
-    "wof:lastmodified":1473985331,
+    "wof:lastmodified":1496892153,
     "wof:name":"Gendarmerie",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

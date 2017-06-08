@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6218385696,47.697052002,14.6218385696,47.697052002",
     "geom:latitude":47.697052,
     "geom:longitude":14.621839,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838901,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F3bVtbimOvJEnPOh7l20i_47.697052_14.621839@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906545,
-    "wof:geomhash":"eff45c000b147d0e7ca5ea636927df73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d4e62b9704ee35468da4341ab92070e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838901,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092223295
+        }
+    ],
     "wof:id":1092223295,
-    "wof:lastmodified":1473984064,
+    "wof:lastmodified":1496910029,
     "wof:name":"Weissensteiner Margarete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

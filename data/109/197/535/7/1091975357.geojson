@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1405534744,48.1377639771,15.1405534744,48.1377639771",
     "geom:latitude":48.137764,
     "geom:longitude":15.140553,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.cotto-tiefenbacher.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836363,
+        85632785,
+        101779751,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10KfnSpCU1487ZFQCf9SE7_48.137764_15.140553@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895465,
-    "wof:geomhash":"4a18e54a50448c11c5f2fae95d49cc90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e65272440f6d102d7882487ee8d84e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836363,
+            "locality_id":101779751,
+            "region_id":85681671,
+            "venue_id":1091975357
+        }
+    ],
     "wof:id":1091975357,
-    "wof:lastmodified":1473984475,
+    "wof:lastmodified":1496890723,
     "wof:name":"Tiefenbacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

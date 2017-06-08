@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.509885788,47.2869529724,11.509885788,47.2869529724",
     "geom:latitude":47.286953,
     "geom:longitude":11.509886,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890232,
-    "wof:geomhash":"1966f4955fcb71c731654a37f9ee8d5e",
+    "wof:geomhash":"fc5b82357c5fd1e247a766f00a20f3f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091860721
         }
     ],
     "wof:id":1091860721,
-    "wof:lastmodified":1473983509,
+    "wof:lastmodified":1496898720,
     "wof:name":"Tiroler Fachberufsschule Thurnfeld",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

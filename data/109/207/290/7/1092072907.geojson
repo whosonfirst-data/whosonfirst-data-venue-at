@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4985637665,47.4083328247,16.4985637665,47.4083328247",
     "geom:latitude":47.408333,
     "geom:longitude":16.498564,
@@ -23,17 +24,33 @@
     "sg:postcode":"7443",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838487,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hYyGXRsdxagFOmfvIVTH0_47.408333_16.498564@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899427,
-    "wof:geomhash":"b7d20a98814c06964c5589564857ca0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23cbaaa7aa6ceba838e80e57854b65fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838487,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092072907
+        }
+    ],
     "wof:id":1092072907,
-    "wof:lastmodified":1473983815,
+    "wof:lastmodified":1496908159,
     "wof:name":"Gasthof Hutter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

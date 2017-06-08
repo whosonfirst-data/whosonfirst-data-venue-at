@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3743619919,47.2513427734,11.3743619919,47.2513427734",
     "geom:latitude":47.251343,
     "geom:longitude":11.374362,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914523,
-    "wof:geomhash":"3ed05655f10f2d8975a0a83e88e3a4fb",
+    "wof:geomhash":"48a862a4cfdbfa5e8331b96bbdd288cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092402617
         }
     ],
     "wof:id":1092402617,
-    "wof:lastmodified":1473983846,
+    "wof:lastmodified":1496899359,
     "wof:name":"E & K Sengthaler GmbH",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

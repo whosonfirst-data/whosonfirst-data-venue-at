@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4703559875,48.2183952332,14.4703559875,48.2183952332",
     "geom:latitude":48.218395,
     "geom:longitude":14.470356,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895220,
-    "wof:geomhash":"2b79a5d842adbd24dd6b551bf0047676",
+    "wof:geomhash":"73ec0d0e148a1cafa1e47d150bc7369f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091969547
         }
     ],
     "wof:id":1091969547,
-    "wof:lastmodified":1473984924,
+    "wof:lastmodified":1496887080,
     "wof:name":"China-Restaurant Mandarin",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

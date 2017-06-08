@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1757946014,46.659362793,14.1757946014,46.659362793",
     "geom:latitude":46.659363,
     "geom:longitude":14.175795,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://www.tiscover.com/1Root/Kontinent/6/Staat/7/Bundesland/17/Ort/593/Ferienwohnung/160039/Homepag",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838185,
+        85632785,
+        101844429,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2G0QgR7dyfjYkG7UjjANch_46.659363_14.175795@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894833,
-    "wof:geomhash":"5d92ca2eae7ce7afa3cf30cfb1f19bcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d55d8bfd0a7b1690eb2982b6a6f0d489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838185,
+            "locality_id":101844429,
+            "region_id":85681655,
+            "venue_id":1091960249
+        }
+    ],
     "wof:id":1091960249,
-    "wof:lastmodified":1473983360,
+    "wof:lastmodified":1496906461,
     "wof:name":"Ferienwohnung Kanduth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

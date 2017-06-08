@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6250934601,48.5157814026,15.6250934601,48.5157814026",
     "geom:latitude":48.515781,
     "geom:longitude":15.625093,
@@ -31,17 +32,33 @@
         "supervision"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835935,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dvFvL0U6sEldwVtS7dx5k_48.515781_15.625093@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473894026,
-    "wof:geomhash":"855c73c894fc72cef6274564c4b4577b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13a4444765db45363c507858920a9bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835935,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091941891
+        }
+    ],
     "wof:id":1091941891,
-    "wof:lastmodified":1473983705,
+    "wof:lastmodified":1496888942,
     "wof:name":"Huber Alois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

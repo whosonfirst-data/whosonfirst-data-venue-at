@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2080364227,46.9704093933,16.2080364227,46.9704093933",
     "geom:latitude":46.970409,
     "geom:longitude":16.208036,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838719,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vGZJefSYmba3PqDT302mp_46.970409_16.208036@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889228,
-    "wof:geomhash":"8eb37f9d7168abbac5fd485bc921ae79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bc564eb2c2edaa5e89d8e8a4591cee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838719,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091839011
+        }
+    ],
     "wof:id":1091839011,
-    "wof:lastmodified":1473985234,
+    "wof:lastmodified":1496909182,
     "wof:name":"Claus Baar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

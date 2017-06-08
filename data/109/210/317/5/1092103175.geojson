@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1815891266,48.1296653748,16.1815891266,48.1296653748",
     "geom:latitude":48.129665,
     "geom:longitude":16.181589,
@@ -31,17 +32,34 @@
         "graphic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835791,
+        85632785,
+        101754177,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rwjvrMFQBJpvgjkEvqCUM_48.129665_16.181589@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900970,
-    "wof:geomhash":"4faec72972a895c7ed8c350a67cd3b03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9faaeee29f5da6dfd90fb9bc4d767d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108835791,
+            "locality_id":101754177,
+            "region_id":85681671,
+            "venue_id":1092103175
+        }
+    ],
     "wof:id":1092103175,
-    "wof:lastmodified":1473983905,
+    "wof:lastmodified":1496888362,
     "wof:name":"Thomas Vavrinek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

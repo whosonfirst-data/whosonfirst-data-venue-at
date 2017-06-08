@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8686723709,48.0914535522,13.8686723709,48.0914535522",
     "geom:latitude":48.091454,
     "geom:longitude":13.868672,
@@ -33,10 +34,13 @@
     "sg:website":"holzinger-inst.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889232,
-    "wof:geomhash":"957617031a1d763a7340cb4d2d7167ef",
+    "wof:geomhash":"ac003bf4a34d9eb8c214f43a9df39454",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1091839099
         }
     ],
     "wof:id":1091839099,
-    "wof:lastmodified":1473985247,
+    "wof:lastmodified":1496891637,
     "wof:name":"Holzinger Installationen Ges.m.b.H.",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

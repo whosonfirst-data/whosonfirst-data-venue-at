@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3801212311,48.2062225342,14.3801212311,48.2062225342",
     "geom:latitude":48.206223,
     "geom:longitude":14.380121,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898437,
-        102049847
+        102191581,
+        1108835545,
+        85632785,
+        101784539,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899871,
-    "wof:geomhash":"b450fb15ac3e0223be0025137918b122",
+    "wof:geomhash":"40a44b1948c0e541f425a38fb14c988c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835545,
+            "locality_id":101784539,
             "neighbourhood_id":85898437,
             "region_id":85681677,
             "venue_id":1092082415
         }
     ],
     "wof:id":1092082415,
-    "wof:lastmodified":1473983874,
+    "wof:lastmodified":1496887247,
     "wof:name":"Sonys Pub",
     "wof:parent_id":85898437,
     "wof:placetype":"venue",

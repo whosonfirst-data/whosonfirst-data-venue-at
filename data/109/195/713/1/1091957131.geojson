@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.05148983,47.7371101379,13.05148983,47.7371101379",
     "geom:latitude":47.73711,
     "geom:longitude":13.05149,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894701,
-    "wof:geomhash":"2d89206d2ad4fddaf233fcf310f438bb",
+    "wof:geomhash":"274e57f07fe3f56ed8e5f0d3af9f7e17",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1091957131
         }
     ],
     "wof:id":1091957131,
-    "wof:lastmodified":1473985027,
+    "wof:lastmodified":1496895174,
     "wof:name":"Compakt Tours GesmbH",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

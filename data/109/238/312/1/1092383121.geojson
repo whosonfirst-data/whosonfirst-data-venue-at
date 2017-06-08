@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1631469727,47.5862541199,12.1631469727,47.5862541199",
     "geom:latitude":47.586254,
     "geom:longitude":12.163147,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SXv4cZedD4w1wegQONe59_47.586254_12.163147@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913596,
-    "wof:geomhash":"a0f47104a4f2f4a238ec4a4ea2746310",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a1a7512f28a9e72417944594f3f51db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1092383121
+        }
+    ],
     "wof:id":1092383121,
-    "wof:lastmodified":1473984148,
+    "wof:lastmodified":1496897672,
     "wof:name":"Pizzeria Copacabana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5255184174,48.3677177429,16.5255184174,48.3677177429",
     "geom:latitude":48.367718,
     "geom:longitude":16.525518,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836323,
+        85632785,
+        101833283,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C2rWPbfeqtbEADqJuXrif_48.367718_16.525518@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913567,
-    "wof:geomhash":"7892dc88e7f0e7fdd196e14ceea3e431",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af91c706183c0ea784a2feda8bcce17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836323,
+            "locality_id":101833283,
+            "region_id":85681671,
+            "venue_id":1092382637
+        }
+    ],
     "wof:id":1092382637,
-    "wof:lastmodified":1473984014,
+    "wof:lastmodified":1496890541,
     "wof:name":"Pizza Kral & Kebab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

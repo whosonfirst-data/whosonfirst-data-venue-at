@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3964796066,47.2551193237,11.3964796066,47.2551193237",
     "geom:latitude":47.255119,
     "geom:longitude":11.39648,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914961,
-    "wof:geomhash":"1b272a3cbaa2ac0961cf4b0bf1d68e00",
+    "wof:geomhash":"cf57f48182899221c50b90d11fc8a29f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092411573
         }
     ],
     "wof:id":1092411573,
-    "wof:lastmodified":1473983645,
+    "wof:lastmodified":1496925974,
     "wof:name":"Pfeifer Manfred",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

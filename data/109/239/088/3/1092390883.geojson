@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3235435486,47.0539703369,16.3235435486,47.0539703369",
     "geom:latitude":47.05397,
     "geom:longitude":16.323544,
@@ -23,17 +24,34 @@
     "sg:postcode":"7540",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838483,
+        85632785,
+        101789059,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YY3qCn8tREnXSodcDCyLN_47.053970_16.323544@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914000,
-    "wof:geomhash":"723f67bd4ca541ed13987914409294e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5abda58f66d5d17fcd46d08542c0b3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838483,
+            "locality_id":101789059,
+            "region_id":85681651,
+            "venue_id":1092390883
+        }
+    ],
     "wof:id":1092390883,
-    "wof:lastmodified":1473983405,
+    "wof:lastmodified":1496908128,
     "wof:name":"Polytechnische Schule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

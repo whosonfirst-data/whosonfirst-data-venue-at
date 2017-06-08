@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1214027405,47.1427764893,13.1214027405,47.1427764893",
     "geom:latitude":47.142776,
     "geom:longitude":13.121403,
@@ -23,17 +24,33 @@
     "sg:postcode":"5630",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HPtSo35I7U37TySwPqU1R_47.142776_13.121403@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899696,
-    "wof:geomhash":"73e3506aba1373061505937b8217a947",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a427705e4c00b615a37bb6d68867cb36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092078555
+        }
+    ],
     "wof:id":1092078555,
-    "wof:lastmodified":1473984886,
+    "wof:lastmodified":1496893747,
     "wof:name":"Landgasthof Bertahof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

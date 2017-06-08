@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3011713028,46.5265884399,14.3011713028,46.5265884399",
     "geom:latitude":46.526588,
     "geom:longitude":14.301171,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838165,
+        85632785,
+        101790095,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BKfeyF3s7w5LPc76hhTg5_46.526588_14.301171@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913593,
-    "wof:geomhash":"63950fca56d877756514b046e2d6fd7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd38ff0cdac8f9b28d6c431b4c44e802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838165,
+            "locality_id":101790095,
+            "region_id":85681655,
+            "venue_id":1092383039
+        }
+    ],
     "wof:id":1092383039,
-    "wof:lastmodified":1473984136,
+    "wof:lastmodified":1496906351,
     "wof:name":"Pizzeria Cara Mia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

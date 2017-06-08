@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9015369415,47.9869422913,13.9015369415,47.9869422913",
     "geom:latitude":47.986942,
     "geom:longitude":13.901537,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Cwq6XZ6HuzGv7NvgFE5vZ_47.986942_13.901537@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914518,
-    "wof:geomhash":"37e2ae8e038fbe59c24eea3b1e99ae70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebb68462be240c4a9fedcfec3bd76bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092402509
+        }
+    ],
     "wof:id":1092402509,
-    "wof:lastmodified":1473983824,
+    "wof:lastmodified":1496885235,
     "wof:name":"Buchegger Isabella Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

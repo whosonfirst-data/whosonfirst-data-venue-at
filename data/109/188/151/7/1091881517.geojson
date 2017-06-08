@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3719596863,47.2665748596,11.3719596863,47.2665748596",
     "geom:latitude":47.266575,
     "geom:longitude":11.37196,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904367,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891200,
-    "wof:geomhash":"d809f1210fd4ba0b65e1c239b9e9bd4d",
+    "wof:geomhash":"3e04df40938366a00ebdc6e474de99d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1091881517
         }
     ],
     "wof:id":1091881517,
-    "wof:lastmodified":1473983695,
+    "wof:lastmodified":1496899207,
     "wof:name":"Schiener & Co OHG",
     "wof:parent_id":85904367,
     "wof:placetype":"venue",

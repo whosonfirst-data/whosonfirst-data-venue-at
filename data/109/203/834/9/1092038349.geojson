@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2658519745,48.1479606628,16.2658519745,48.1479606628",
     "geom:latitude":48.147961,
     "geom:longitude":16.265852,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898065,
-    "wof:geomhash":"fd1551bc1e5ccbcfad67186c94d18bb5",
+    "wof:geomhash":"a8168a28bb048a9c5ba0c294b8505b77",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092038349
         }
     ],
     "wof:id":1092038349,
-    "wof:lastmodified":1473984847,
+    "wof:lastmodified":1496902976,
     "wof:name":"Weinbau Lentz",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

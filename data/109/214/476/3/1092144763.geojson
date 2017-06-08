@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4869441986,47.4750709534,16.4869441986,47.4750709534",
     "geom:latitude":47.475071,
     "geom:longitude":16.486944,
@@ -23,17 +24,33 @@
     "sg:postcode":"7453",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838449,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jrcEuPrzHhwZbmkytvLSX_47.475071_16.486944@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473902967,
-    "wof:geomhash":"ab8db909784f25d238ce3f5b376909ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56dca2807ce1ba9f84ccf004cd0a7296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838449,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092144763
+        }
+    ],
     "wof:id":1092144763,
-    "wof:lastmodified":1473984271,
+    "wof:lastmodified":1496907970,
     "wof:name":"Werbestudio Oberpullendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

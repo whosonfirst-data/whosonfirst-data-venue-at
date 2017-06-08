@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1103839874,47.1677856445,13.1103839874,47.1677856445",
     "geom:latitude":47.167786,
     "geom:longitude":13.110384,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"hotel-bismarck.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        101789117,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YUYlmP3eWeitkFgdxEz6s_47.167786_13.110384@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898356,
-    "wof:geomhash":"52826e45770d325219a169e3d29d5d53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"384444e594ff56d9c4943d642f9b4252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":101789117,
+            "region_id":85681681,
+            "venue_id":1092046027
+        }
+    ],
     "wof:id":1092046027,
-    "wof:lastmodified":1473983882,
+    "wof:lastmodified":1496893745,
     "wof:name":"Hotel Bismarck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

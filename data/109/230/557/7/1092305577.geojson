@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9809608459,48.3283843994,14.9809608459,48.3283843994",
     "geom:latitude":48.328384,
     "geom:longitude":14.980961,
@@ -32,17 +33,33 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835853,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VA09IZHmAOVNEnFTIQVS9_48.328384_14.980961@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910165,
-    "wof:geomhash":"4882896ab76ba9ba8db99dee69518d13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8bc2e497db8d8e454243e6283829f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835853,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092305577
+        }
+    ],
     "wof:id":1092305577,
-    "wof:lastmodified":1473984651,
+    "wof:lastmodified":1496888667,
     "wof:name":"I.T.A. Handelsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

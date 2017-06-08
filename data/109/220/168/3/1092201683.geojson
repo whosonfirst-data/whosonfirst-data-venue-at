@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4640235901,48.2580833435,16.4640235901,48.2580833435",
     "geom:latitude":48.258083,
     "geom:longitude":16.464024,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905555,
-    "wof:geomhash":"de237edd5ea3e5002ba5357bd487e485",
+    "wof:geomhash":"1edd4d6a66e3a36a6f6830df14ff978b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092201683
         }
     ],
     "wof:id":1092201683,
-    "wof:lastmodified":1473983743,
+    "wof:lastmodified":1496903152,
     "wof:name":"CHEMOPLAN HANDELSGES. MBH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

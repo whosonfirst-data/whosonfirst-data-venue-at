@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8025283813,47.4395217896,9.8025283813,47.4395217896",
     "geom:latitude":47.439522,
     "geom:longitude":9.802528,
@@ -24,17 +25,33 @@
     "sg:province":"Vorarlberg",
     "sg:website":"huber-tech.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837925,
+        85632785,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xyzmIgkZ752XUeWqZQffm_47.439522_9.802528@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910573,
-    "wof:geomhash":"1a1f087200578943ca05ba58a31ccad0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"719d93f9f9b2ed775006c61ec27b47ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092314677
+        }
+    ],
     "wof:id":1092314677,
-    "wof:lastmodified":1473984517,
+    "wof:lastmodified":1496900726,
     "wof:name":"Huber Michael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

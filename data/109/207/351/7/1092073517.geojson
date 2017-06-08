@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6522159576,47.1006088257,13.6522159576,47.1006088257",
     "geom:latitude":47.100609,
     "geom:longitude":13.652216,
@@ -23,17 +24,34 @@
     "sg:postcode":"5582",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837063,
+        85632785,
+        101789023,
+        102049721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65VU3URD25evkk5w8jfkzE_47.100609_13.652216@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899451,
-    "wof:geomhash":"53dc5bfc61aa19383b1060b557256613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fd8cb2deb841ecdef26234f66a3e750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837063,
+            "locality_id":101789023,
+            "region_id":85681681,
+            "venue_id":1092073517
+        }
+    ],
     "wof:id":1092073517,
-    "wof:lastmodified":1473983943,
+    "wof:lastmodified":1496894268,
     "wof:name":"Gasthof Metzgerstubn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3356571198,48.0113143921,14.3356571198,48.0113143921",
     "geom:latitude":48.011314,
     "geom:longitude":14.335657,
@@ -23,17 +24,34 @@
     "sg:postcode":"4421",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836093,
+        85632785,
+        101785679,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kb8IShpFjqQkcoLRti9B9_48.011314_14.335657@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888932,
-    "wof:geomhash":"6aa6aec14a644d29161004b02ad9c9ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fe8fdc8ee8fe61d07ceeff8ef9fe4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836093,
+            "locality_id":101785679,
+            "region_id":85681677,
+            "venue_id":1091832653
+        }
+    ],
     "wof:id":1091832653,
-    "wof:lastmodified":1473983838,
+    "wof:lastmodified":1496889452,
     "wof:name":"Bankomat d Raiffeisenkasse Aschach a d Steyr regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

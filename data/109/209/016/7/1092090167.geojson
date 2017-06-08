@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4477739334,47.2374305725,11.4477739334,47.2374305725",
     "geom:latitude":47.237431,
     "geom:longitude":11.447774,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900239,
-    "wof:geomhash":"d5b11cc0147950b27876a9e6cccadb80",
+    "wof:geomhash":"d31a1ab84231115230d58917d102b9fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092090167
         }
     ],
     "wof:id":1092090167,
-    "wof:lastmodified":1473983337,
+    "wof:lastmodified":1496898696,
     "wof:name":"Gemeindeamt Sistrans",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

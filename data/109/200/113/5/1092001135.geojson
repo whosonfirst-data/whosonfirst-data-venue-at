@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0609197617,48.073135376,14.0609197617,48.073135376",
     "geom:latitude":48.073135,
     "geom:longitude":14.06092,
@@ -31,17 +32,33 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836573,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cEktQ5rnAhwXIOp4TGyaN_48.073135_14.060920@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896572,
-    "wof:geomhash":"8fc129ef9119ed51aa58741798a74e53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1696db06c09b7237ad58e3b5c641801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836573,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092001135
+        }
+    ],
     "wof:id":1092001135,
-    "wof:lastmodified":1473983599,
+    "wof:lastmodified":1496891740,
     "wof:name":"ZENTRALMOLKEREI FURTMAYR GES.MBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

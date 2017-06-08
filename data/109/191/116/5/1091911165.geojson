@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8802785873,47.4018287659,10.8802785873,47.4018287659",
     "geom:latitude":47.401829,
     "geom:longitude":10.880279,
@@ -33,17 +34,33 @@
         "ski"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VqUuwwIanS0jfW98exw3R_47.401829_10.880279@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892593,
-    "wof:geomhash":"56ecb0bd3ababe3e88ccd652d9c9530b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a9e946a3ed734e37d9e2bae48ca33e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091911165
+        }
+    ],
     "wof:id":1091911165,
-    "wof:lastmodified":1473983320,
+    "wof:lastmodified":1496899866,
     "wof:name":"Sport 2000 Schuster GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

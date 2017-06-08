@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7359161377,47.9550209045,16.7359161377,47.9550209045",
     "geom:latitude":47.955021,
     "geom:longitude":16.735916,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838521,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Mip3cuIsE70OTT372TMTt_47.955021_16.735916@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892743,
-    "wof:geomhash":"d5e98baa14bb3b48942181a904885dbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"217f3f782665686404427941b5b14f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838521,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091913979
+        }
+    ],
     "wof:id":1091913979,
-    "wof:lastmodified":1473983830,
+    "wof:lastmodified":1496908349,
     "wof:name":"IDSS Schildberg Dieter Ing GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5429096222,47.4757041931,12.5429096222,47.4757041931",
     "geom:latitude":47.475704,
     "geom:longitude":12.54291,
@@ -23,17 +24,33 @@
     "sg:postcode":"6391",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837361,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hpo3F6rFlWCdsnz8jFKTH_47.475704_12.542910@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912938,
-    "wof:geomhash":"38b025f0f1a40828274a4049e8dd03ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8ae9775b3ce273f753c5857dd231741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837361,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092368569
+        }
+    ],
     "wof:id":1092368569,
-    "wof:lastmodified":1473985191,
+    "wof:lastmodified":1496897289,
     "wof:name":"Landhaus Pirker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

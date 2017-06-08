@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8289890289,48.1759681702,15.8289890289,48.1759681702",
     "geom:latitude":48.175968,
     "geom:longitude":15.828989,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"help-gebaeudereinigung.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836597,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F3pOAg0PaODDikQQ9CoVx_48.175968_15.828989@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900087,
-    "wof:geomhash":"92c70e8c36264166c97da599545bd0f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac9a32bc0f4d59fefde5883bd9bfaf22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836597,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092087215
+        }
+    ],
     "wof:id":1092087215,
-    "wof:lastmodified":1473984792,
+    "wof:lastmodified":1496891858,
     "wof:name":"H.E.L.P. - Geb\u00e4udereinigung-Meisterbetrieb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

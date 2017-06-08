@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3430252075,47.1182632446,16.3430252075,47.1182632446",
     "geom:latitude":47.118263,
     "geom:longitude":16.343025,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"ebner-landmaschinen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838415,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CWXDz9lIdZ0jNnnzBti87_47.118263_16.343025@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905062,
-    "wof:geomhash":"c81239058d368948f31a8a26f6e86b0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4c0737459c9f6ff4204738cd910225f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838415,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092190799
+        }
+    ],
     "wof:id":1092190799,
-    "wof:lastmodified":1473983452,
+    "wof:lastmodified":1496907809,
     "wof:name":"Josef Ebner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4827623367,48.2815055847,14.4827623367,48.2815055847",
     "geom:latitude":48.281506,
     "geom:longitude":14.482762,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835605,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t9VDwyx1FJHbd0aMLgqOw_48.281506_14.482762@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892829,
-    "wof:geomhash":"b52aa748266c11aafe3f38a2f1928003",
-    "wof:hierarchy":[],
+    "wof:geomhash":"507a2be4001a26c59b68b8c4b34c541e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835605,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091915969
+        }
+    ],
     "wof:id":1091915969,
-    "wof:lastmodified":1473984130,
+    "wof:lastmodified":1496887652,
     "wof:name":"TWS Datensysteme GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

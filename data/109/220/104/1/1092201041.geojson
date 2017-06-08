@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8556070328,48.3292694092,13.8556070328,48.3292694092",
     "geom:latitude":48.329269,
     "geom:longitude":13.855607,
@@ -32,17 +33,34 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835233,
+        85632785,
+        101784579,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Iizvh7YAcqIaRtrK7W3DF_48.329269_13.855607@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905517,
-    "wof:geomhash":"aba83abc846a995a0f0c4568000d169b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b04730cba3867af3e261c4a7c41aaff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835233,
+            "locality_id":101784579,
+            "region_id":85681677,
+            "venue_id":1092201041
+        }
+    ],
     "wof:id":1092201041,
-    "wof:lastmodified":1473983507,
+    "wof:lastmodified":1496885516,
     "wof:name":"Josef Zistler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

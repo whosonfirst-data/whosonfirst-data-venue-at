@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2342510223,47.1152153015,11.2342510223,47.1152153015",
     "geom:latitude":47.115215,
     "geom:longitude":11.234251,
@@ -23,17 +24,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78FZwgzp5DwBVEsED4JKQ6_47.115215_11.234251@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899093,
-    "wof:geomhash":"89c7d33e63cd8229763d5cf04768362c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22feb4002d2d5f729badf701b5f34885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092064755
+        }
+    ],
     "wof:id":1092064755,
-    "wof:lastmodified":1473984230,
+    "wof:lastmodified":1496898544,
     "wof:name":"Gasthaus Alpenfrieden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

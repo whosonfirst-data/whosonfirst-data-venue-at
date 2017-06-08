@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2897758484,47.2322463989,11.2897758484,47.2322463989",
     "geom:latitude":47.232246,
     "geom:longitude":11.289776,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911113,
-    "wof:geomhash":"51f25f17d039bdab7586b186e50c5f00",
+    "wof:geomhash":"fa8eeb0bc68968ce01b9ab70f4b444ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092327467
         }
     ],
     "wof:id":1092327467,
-    "wof:lastmodified":1473985068,
+    "wof:lastmodified":1496898037,
     "wof:name":"Geiler Robert",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

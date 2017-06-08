@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8475589752,46.5922164917,13.8475589752,46.5922164917",
     "geom:latitude":46.592216,
     "geom:longitude":13.847559,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911588,
-    "wof:geomhash":"af6b7ebf771aa270dc8d4c27fcc100b7",
+    "wof:geomhash":"f2e5118dfbb9a51fc9d73ba7931d3a97",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092338929
         }
     ],
     "wof:id":1092338929,
-    "wof:lastmodified":1473985308,
+    "wof:lastmodified":1496906201,
     "wof:name":"Krampl Sieglinde Dr",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

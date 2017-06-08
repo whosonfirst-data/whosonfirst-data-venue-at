@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8005094528,47.3233604431,12.8005094528,47.3233604431",
     "geom:latitude":47.32336,
     "geom:longitude":12.800509,
@@ -28,17 +29,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C7KX0lgLoG5eJGHZqRmCM_47.323360_12.800509@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473887950,
-    "wof:geomhash":"28adfe309780b3f155a995dfcb653b3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4806ed8971bf8ad98385537f47e21661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091810801
+        }
+    ],
     "wof:id":1091810801,
-    "wof:lastmodified":1473983448,
+    "wof:lastmodified":1496896420,
     "wof:name":"Grand Hotel Zell am See",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7439365387,47.4086341858,9.7439365387,47.4086341858",
     "geom:latitude":47.408634,
     "geom:longitude":9.743937,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913912,
-    "wof:geomhash":"da3e6ee758b2b5d33f43ade325399e3a",
+    "wof:geomhash":"9d80bb6a8a724bc2d63122764483a512",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092389255
         }
     ],
     "wof:id":1092389255,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496900760,
     "wof:name":"Dornbirn Gendamerieposten/Bezirksgendarmeriekommando",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

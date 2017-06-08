@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.443813324,48.0898704529,16.443813324,48.0898704529",
     "geom:latitude":48.08987,
     "geom:longitude":16.443813,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"weitmann-security.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836317,
+        85632785,
+        101784511,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HyT4X0u0mY9mFPUzfZxSO_48.089870_16.443813@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905127,
-    "wof:geomhash":"225f93478a02b5c6997c1f770a0dcd8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"109160d628f347e9573b21305f94bc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836317,
+            "locality_id":101784511,
+            "region_id":85681671,
+            "venue_id":1092192493
+        }
+    ],
     "wof:id":1092192493,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496890474,
     "wof:name":"Weitmann Security Alarmanlagen-Tresore-Sicherheitstechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

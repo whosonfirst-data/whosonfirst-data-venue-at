@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.508644104,47.5019836426,16.508644104,47.5019836426",
     "geom:latitude":47.501984,
     "geom:longitude":16.508644,
@@ -23,17 +24,34 @@
     "sg:postcode":"7350",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838597,
+        85632785,
+        101834323,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZZPjIfq0pZPDHTSUHAfgK_47.501984_16.508644@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916591,
-    "wof:geomhash":"c3fce63df2974205198ef84857dd349a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d4317f1e9ce8a9f137a43f163a6114f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838597,
+            "locality_id":101834323,
+            "region_id":85681651,
+            "venue_id":1092444533
+        }
+    ],
     "wof:id":1092444533,
-    "wof:lastmodified":1473984454,
+    "wof:lastmodified":1496908625,
     "wof:name":"Friseursalon Zwillinge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

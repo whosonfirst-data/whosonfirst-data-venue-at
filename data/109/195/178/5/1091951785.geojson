@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2634925842,48.1220397949,16.2634925842,48.1220397949",
     "geom:latitude":48.12204,
     "geom:longitude":16.263493,
@@ -25,10 +26,13 @@
     "sg:website":"anwalt-prokop.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894450,
-    "wof:geomhash":"ed812857dfec16863b45ef55ac3b6586",
+    "wof:geomhash":"ab50f93eacabaa6ca92c03fbcc409113",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091951785
         }
     ],
     "wof:id":1091951785,
-    "wof:lastmodified":1473983808,
+    "wof:lastmodified":1496885844,
     "wof:name":"Prokop Stefan Dr",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

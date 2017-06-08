@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4056968689,47.2785949707,11.4056968689,47.2785949707",
     "geom:latitude":47.278595,
     "geom:longitude":11.405697,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890376,
-    "wof:geomhash":"cdbc27e7941dacc48cda186e7722656b",
+    "wof:geomhash":"414c124350f697a9395f7f5c9725229b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1091863717
         }
     ],
     "wof:id":1091863717,
-    "wof:lastmodified":1473984261,
+    "wof:lastmodified":1496899307,
     "wof:name":"Hospiz d Tiroler Hospiz BetriebsgesmbH f Sterbebegleitung und Lebensbeistand",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

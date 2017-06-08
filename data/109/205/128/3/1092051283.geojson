@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8662395477,47.1683883667,11.8662395477,47.1683883667",
     "geom:latitude":47.168388,
     "geom:longitude":11.86624,
@@ -28,17 +29,34 @@
     "sg:postcode":"6290",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        101789121,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j9GgUel49Ye8EfM7JICd1_47.168388_11.866240@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898559,
-    "wof:geomhash":"6bf3517a897c4c91f4bb5336a873b04f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c9c541ae89bb199bfe634966ef0ccd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":101789121,
+            "region_id":85681661,
+            "venue_id":1092051283
+        }
+    ],
     "wof:id":1092051283,
-    "wof:lastmodified":1473983563,
+    "wof:lastmodified":1496900439,
     "wof:name":"Siegelerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

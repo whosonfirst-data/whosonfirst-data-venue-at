@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3941764832,48.1088676453,16.3941764832,48.1088676453",
     "geom:latitude":48.108868,
     "geom:longitude":16.394176,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892089,
-    "wof:geomhash":"6584db2eb804e6d576c1a77b8357c04e",
+    "wof:geomhash":"5a85136ba79d1cb75c6ab90aa00c25b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1091899671
         }
     ],
     "wof:id":1091899671,
-    "wof:lastmodified":1473985203,
+    "wof:lastmodified":1496883076,
     "wof:name":"Schlosserbetrieb MACH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

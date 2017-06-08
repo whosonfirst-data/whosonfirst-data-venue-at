@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5677661896,47.1421737671,10.5677661896,47.1421737671",
     "geom:latitude":47.142174,
     "geom:longitude":10.567766,
@@ -37,17 +38,34 @@
         "cold"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837325,
+        85632785,
+        101788997,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dl6KIhWxRN6xRfj7seKan_47.142174_10.567766@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909227,
-    "wof:geomhash":"4a48a920838d0f6e5782d25404c5ca42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c06900cd2dfd597d6d4d67404441967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837325,
+            "locality_id":101788997,
+            "region_id":85681661,
+            "venue_id":1092284401
+        }
+    ],
     "wof:id":1092284401,
-    "wof:lastmodified":1473984267,
+    "wof:lastmodified":1496896930,
     "wof:name":"Maler Greuter GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

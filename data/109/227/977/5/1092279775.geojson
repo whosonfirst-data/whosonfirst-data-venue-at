@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3003997803,46.6075935364,14.3003997803,46.6075935364",
     "geom:latitude":46.607594,
     "geom:longitude":14.3004,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909023,
-    "wof:geomhash":"cf59929e87478611342e14208d0ada35",
+    "wof:geomhash":"4e2717340d14c9644bf5ed3dfabce6ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092279775
         }
     ],
     "wof:id":1092279775,
-    "wof:lastmodified":1473985310,
+    "wof:lastmodified":1496905735,
     "wof:name":"Meschnig Robert",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

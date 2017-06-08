@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4134178162,48.3636856079,14.4134178162,48.3636856079",
     "geom:latitude":48.363686,
     "geom:longitude":14.413418,
@@ -23,17 +24,33 @@
     "sg:postcode":"4210",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836149,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U3awrfkzyPY2DtxUYVCA8_48.363686_14.413418@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899545,
-    "wof:geomhash":"79596bf667e86e0e6843655ed7f8c4d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"865a676f6778f65ffa5bd9b9dd3d6fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836149,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092075645
+        }
+    ],
     "wof:id":1092075645,
-    "wof:lastmodified":1473984304,
+    "wof:lastmodified":1496889812,
     "wof:name":"Gasthof zur Alm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

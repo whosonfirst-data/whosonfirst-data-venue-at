@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.265625,48.1479644775,16.265625,48.1479644775",
     "geom:latitude":48.147964,
     "geom:longitude":16.265625,
@@ -33,10 +34,13 @@
     "sg:website":"triform.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896853,
-    "wof:geomhash":"085b49cd5b1a7eab30fd358a02da8af3",
+    "wof:geomhash":"8c3d79ff5cbb1cc4383c162543ccd873",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092007707
         }
     ],
     "wof:id":1092007707,
-    "wof:lastmodified":1473984831,
+    "wof:lastmodified":1496904677,
     "wof:name":"Alexander Korab Design",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6544837952,48.1915779114,13.6544837952,48.1915779114",
     "geom:latitude":48.191578,
     "geom:longitude":13.654484,
@@ -33,17 +34,33 @@
         "metallic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835185,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_683a0jkUoUcFxWoNO1Ap4N_48.191578_13.654484@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915531,
-    "wof:geomhash":"953c5e63ec932f8e49f6e190a48fa3e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85bed6002814ab8c1d1ecf2c41c00f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835185,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092421933
+        }
+    ],
     "wof:id":1092421933,
-    "wof:lastmodified":1473983691,
+    "wof:lastmodified":1496885369,
     "wof:name":"MKW-IOT GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

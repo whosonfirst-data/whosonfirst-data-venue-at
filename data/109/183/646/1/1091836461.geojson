@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0876159668,47.769569397,13.0876159668,47.769569397",
     "geom:latitude":47.769569,
     "geom:longitude":13.087616,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889101,
-    "wof:geomhash":"2552f469d7cbdb6a65f69b51b7135f7f",
+    "wof:geomhash":"a57cb96f1eae1f2ef08e8472a559ed56",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091836461
         }
     ],
     "wof:id":1091836461,
-    "wof:lastmodified":1473984572,
+    "wof:lastmodified":1496895288,
     "wof:name":"Bernhard Leobacher",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

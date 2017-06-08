@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2201118469,48.00806427,16.2201118469,48.00806427",
     "geom:latitude":48.008064,
     "geom:longitude":16.220112,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891235,
-    "wof:geomhash":"825430ab31d5f82c1d5cbbfb72f36785",
+    "wof:geomhash":"d0a45fc285235deeb10a94ceed513a73",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1091882401
         }
     ],
     "wof:id":1091882401,
-    "wof:lastmodified":1473983841,
+    "wof:lastmodified":1496886081,
     "wof:name":"HOTEL SCHLO\u00df WEIKERSDORF",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

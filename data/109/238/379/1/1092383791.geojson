@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1932983398,48.3861236572,16.1932983398,48.3861236572",
     "geom:latitude":48.386124,
     "geom:longitude":16.193298,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834843,
+        85632785,
+        101833277,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tR4Z3O4t9AaAfYvoqP6pq_48.386124_16.193298@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913630,
-    "wof:geomhash":"14beed5d955694bcbe808241cbc0ae47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df6058da7669ad0a6e2bd2852686d04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834843,
+            "locality_id":101833277,
+            "region_id":85681671,
+            "venue_id":1092383791
+        }
+    ],
     "wof:id":1092383791,
-    "wof:lastmodified":1473984203,
+    "wof:lastmodified":1496882913,
     "wof:name":"Pizzeria Peppino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

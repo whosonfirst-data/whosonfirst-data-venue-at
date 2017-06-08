@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4311275482,47.5239715576,13.4311275482,47.5239715576",
     "geom:latitude":47.523972,
     "geom:longitude":13.431128,
@@ -23,17 +24,33 @@
     "sg:postcode":"5524",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837085,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vQrxzahiluIAVxlxDO280_47.523972_13.431128@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912093,
-    "wof:geomhash":"df4d28bd3c682db29d65c1f363465932",
-    "wof:hierarchy":[],
+    "wof:geomhash":"233b62211c5722868adf6adef1f9a5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837085,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092350371
+        }
+    ],
     "wof:id":1092350371,
-    "wof:lastmodified":1473983355,
+    "wof:lastmodified":1496894911,
     "wof:name":"Musikkapelle Annaberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

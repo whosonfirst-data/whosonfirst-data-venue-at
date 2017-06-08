@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4729404449,48.2018585205,16.4729404449,48.2018585205",
     "geom:latitude":48.201859,
     "geom:longitude":16.47294,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898297,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904564,
-    "wof:geomhash":"8707bce9888cbc39b7b0ee0d49e8625b",
+    "wof:geomhash":"47e9e00b72a6f2ac494672eb5e86dd78",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898297,
             "region_id":85681667,
             "venue_id":1092179793
         }
     ],
     "wof:id":1092179793,
-    "wof:lastmodified":1473985325,
+    "wof:lastmodified":1496928685,
     "wof:name":"SPAR \u00f6sterreichische Warenhandels-AG",
     "wof:parent_id":85898297,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6578979492,48.6639289856,15.6578979492,48.6639289856",
     "geom:latitude":48.663929,
     "geom:longitude":15.657898,
@@ -23,17 +24,34 @@
     "sg:postcode":"3580",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835915,
+        85632785,
+        101782263,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IH15m3nVIeJ43CDiTPNpU_48.663929_15.657898@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889068,
-    "wof:geomhash":"f64d327096842ad5a24bb60e8542c016",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2e81380a71216e1335aad0eb03b66d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835915,
+            "locality_id":101782263,
+            "region_id":85681671,
+            "venue_id":1091835771
+        }
+    ],
     "wof:id":1091835771,
-    "wof:lastmodified":1473984439,
+    "wof:lastmodified":1496888864,
     "wof:name":"Bankomat d Sparkasse Ravelsbach-Kirchberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

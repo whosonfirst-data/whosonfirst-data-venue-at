@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7122077942,47.4736289978,10.7122077942,47.4736289978",
     "geom:latitude":47.473629,
     "geom:longitude":10.712208,
@@ -23,17 +24,34 @@
     "sg:postcode":"6600",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837751,
+        85632785,
+        101834257,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x3luWLJweNu0IyNexeBLR_47.473629_10.712208@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890204,
-    "wof:geomhash":"432ccbbee36c8407011ecaa8bfa14eb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a59acce6a2b1bf48b3fff7e062af6184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837751,
+            "locality_id":101834257,
+            "region_id":85681661,
+            "venue_id":1091860141
+        }
+    ],
     "wof:id":1091860141,
-    "wof:lastmodified":1473983337,
+    "wof:lastmodified":1496900034,
     "wof:name":"Schule f allgemeine Gesundheits- u Krankenpflege am Bezirkskrankenhaus Reutte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

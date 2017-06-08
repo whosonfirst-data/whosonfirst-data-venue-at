@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6713228226,47.8642044067,14.6713228226,47.8642044067",
     "geom:latitude":47.864204,
     "geom:longitude":14.671323,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836133,
+        85632785,
+        101786817,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZajvvxwwDdl3sVtIjPQcy_47.864204_14.671323@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905073,
-    "wof:geomhash":"c8ef4c917aa191ca7510610b5ecf6321",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0002a0a7297a291f06c5d0916397b230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836133,
+            "locality_id":101786817,
+            "region_id":85681677,
+            "venue_id":1092191091
+        }
+    ],
     "wof:id":1092191091,
-    "wof:lastmodified":1473983559,
+    "wof:lastmodified":1496889689,
     "wof:name":"ING.PETER HAGER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

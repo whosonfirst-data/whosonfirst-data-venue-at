@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8119220734,48.1400642395,12.8119220734,48.1400642395",
     "geom:latitude":48.140064,
     "geom:longitude":12.811922,
@@ -31,17 +32,33 @@
         "metalwork"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834737,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61kFNv7sLWnmrAvgpglFGG_48.140064_12.811922@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910190,
-    "wof:geomhash":"daf91376e7a850c4ed02c46723cbcbde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d62a65277f3f8bf3748032a7920e440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834737,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092305967
+        }
+    ],
     "wof:id":1092305967,
-    "wof:lastmodified":1473984664,
+    "wof:lastmodified":1496882397,
     "wof:name":"Anton Lechner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

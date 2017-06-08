@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.535451889,48.2617340088,16.535451889,48.2617340088",
     "geom:latitude":48.261734,
     "geom:longitude":16.535452,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889833,
-    "wof:geomhash":"9e0902a23bad6992003a837c1213457b",
+    "wof:geomhash":"a1c4e3e11d4ea443602a54a4224c536e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1091852589
         }
     ],
     "wof:id":1091852589,
-    "wof:lastmodified":1473983783,
+    "wof:lastmodified":1496904756,
     "wof:name":"Caritas Haus Franziscus",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

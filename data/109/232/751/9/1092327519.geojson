@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3520526886,47.1707038879,16.3520526886,47.1707038879",
     "geom:latitude":47.170704,
     "geom:longitude":16.352053,
@@ -23,17 +24,33 @@
     "sg:postcode":"7512",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838759,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LOoXOhd3TIsaJoMyRH3KE_47.170704_16.352053@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911116,
-    "wof:geomhash":"c1a848d43bfd684d81da865d40f53f5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34f572609054915300cd0145939c0f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838759,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092327519
+        }
+    ],
     "wof:id":1092327519,
-    "wof:lastmodified":1473985081,
+    "wof:lastmodified":1496909243,
     "wof:name":"Gober Roman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

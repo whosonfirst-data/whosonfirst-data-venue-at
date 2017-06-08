@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3376502991,48.2278785706,15.3376502991,48.2278785706",
     "geom:latitude":48.227879,
     "geom:longitude":15.33765,
@@ -23,17 +24,33 @@
     "sg:postcode":"3390",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835431,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i9fWdovcbTrVPhXDtsqBk_48.227879_15.337650@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902690,
-    "wof:geomhash":"fca6fa6f7fa05a7ddf7bead239ff3206",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08d048614dc492a243b1989c6a341e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835431,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092139197
+        }
+    ],
     "wof:id":1092139197,
-    "wof:lastmodified":1473985088,
+    "wof:lastmodified":1496886624,
     "wof:name":"Bisch\u00f6fliches Seminar d Di\u00f6zese St. P\u00f6lten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

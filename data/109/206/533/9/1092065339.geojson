@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3959293365,47.5341415405,16.3959293365,47.5341415405",
     "geom:latitude":47.534142,
     "geom:longitude":16.395929,
@@ -23,17 +24,33 @@
     "sg:postcode":"7342",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838689,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DPcmzJi8iPsC493QUPLOV_47.534142_16.395929@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899116,
-    "wof:geomhash":"39793b3566781f0641c3e8613d3da935",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40c15b2fab6b5141a8e252be3e40f127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838689,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092065339
+        }
+    ],
     "wof:id":1092065339,
-    "wof:lastmodified":1473984302,
+    "wof:lastmodified":1496909110,
     "wof:name":"Gasthaus Danzinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

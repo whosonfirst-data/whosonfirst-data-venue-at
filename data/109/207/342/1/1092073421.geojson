@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8648900986,47.1587753296,11.8648900986,47.1587753296",
     "geom:latitude":47.158775,
     "geom:longitude":11.86489,
@@ -23,17 +24,33 @@
     "sg:postcode":"6290",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Oae8DCBfHDWw7EpEaCVFA_47.158775_11.864890@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899447,
-    "wof:geomhash":"3a9085b3171301efd5ab4dccf5cb5cfc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aba105c2781c57857c46887ed77e046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092073421
+        }
+    ],
     "wof:id":1092073421,
-    "wof:lastmodified":1473983956,
+    "wof:lastmodified":1496900425,
     "wof:name":"Gasthof L\u00e4ndenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

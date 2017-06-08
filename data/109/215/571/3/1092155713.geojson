@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2652435303,48.1188163757,16.2652435303,48.1188163757",
     "geom:latitude":48.118816,
     "geom:longitude":16.265244,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903474,
-    "wof:geomhash":"1c81fed34ef9bad7c27f798a4ff6e41c",
+    "wof:geomhash":"cf508fedffaebda4f148bb4cee553787",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092155713
         }
     ],
     "wof:id":1092155713,
-    "wof:lastmodified":1473984491,
+    "wof:lastmodified":1496885848,
     "wof:name":"Weingalerie im Rathaus",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

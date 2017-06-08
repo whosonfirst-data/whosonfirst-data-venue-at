@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.101231575,47.7912750244,13.101231575,47.7912750244",
     "geom:latitude":47.791275,
     "geom:longitude":13.101232,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892061,
-    "wof:geomhash":"1b2e3a1f8cc8f407670b13912b18d8e4",
+    "wof:geomhash":"b5004fc72d396a595f564b47a7b98f88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1091899329
         }
     ],
     "wof:id":1091899329,
-    "wof:lastmodified":1473985155,
+    "wof:lastmodified":1496894735,
     "wof:name":"MTE Metalltechnik Elsenhuber GmbH",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

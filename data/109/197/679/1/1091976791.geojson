@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9126691818,48.1955833435,15.9126691818,48.1955833435",
     "geom:latitude":48.195583,
     "geom:longitude":15.912669,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.immobilien-moertl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834967,
+        85632785,
+        101833257,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lNhWJL2zXIZuqyYjfw1gn_48.195583_15.912669@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895527,
-    "wof:geomhash":"10d7df4a11a4a9f1bf5051337c1cd154",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8339f26cc32e0d07df1c23404be9b81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834967,
+            "locality_id":101833257,
+            "region_id":85681671,
+            "venue_id":1091976791
+        }
+    ],
     "wof:id":1091976791,
-    "wof:lastmodified":1473984845,
+    "wof:lastmodified":1496883739,
     "wof:name":"Immobilien M\u00f6rtl GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

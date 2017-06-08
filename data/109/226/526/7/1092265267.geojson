@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7437849045,47.6066703796,14.7437849045,47.6066703796",
     "geom:latitude":47.60667,
     "geom:longitude":14.743785,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838945,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lJYzXICL3Bqi8Y0RaywMa_47.606670_14.743785@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908394,
-    "wof:geomhash":"f0a30eec98375bce6462fb8901dc1f14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3491774c7ba4815f271abfb5d7933512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838945,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092265267
+        }
+    ],
     "wof:id":1092265267,
-    "wof:lastmodified":1473984429,
+    "wof:lastmodified":1496910429,
     "wof:name":"Busenlechner & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

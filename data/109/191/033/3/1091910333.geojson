@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7735347748,48.3455467224,13.7735347748,48.3455467224",
     "geom:latitude":48.345547,
     "geom:longitude":13.773535,
@@ -23,17 +24,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.beyer-kuechen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835207,
+        85632785,
+        101784577,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JlKMEcvn99A6AVubaGOEI_48.345547_13.773535@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892563,
-    "wof:geomhash":"29127cc912876d73e9c460bb36d09bf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"311a93c90c307274dd8408492d5d7760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835207,
+            "locality_id":101784577,
+            "region_id":85681677,
+            "venue_id":1091910333
+        }
+    ],
     "wof:id":1091910333,
-    "wof:lastmodified":1473983314,
+    "wof:lastmodified":1496885466,
     "wof:name":"Beyer-Kuechen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

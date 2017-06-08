@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2510032654,48.1194267273,16.2510032654,48.1194267273",
     "geom:latitude":48.119427,
     "geom:longitude":16.251003,
@@ -25,10 +26,13 @@
     "sg:website":"www.members.aon.at/boehler.industrie.service/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896918,
-    "wof:geomhash":"4e85b6f1df4472761f9156d8d0b21a81",
+    "wof:geomhash":"6671cd9d763ef2f1b856fd1168871270",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092009305
         }
     ],
     "wof:id":1092009305,
-    "wof:lastmodified":1473985011,
+    "wof:lastmodified":1496885837,
     "wof:name":"B\u00f6hler Industrie Service",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

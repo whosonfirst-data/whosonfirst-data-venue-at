@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0907735825,47.8408584595,13.0907735825,47.8408584595",
     "geom:latitude":47.840858,
     "geom:longitude":13.090774,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893067,
-    "wof:geomhash":"51f8d3507f708e5cd03351e3b459177d",
+    "wof:geomhash":"162b5c62fe7eb24b74f195c152c2d716",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1091921957
         }
     ],
     "wof:id":1091921957,
-    "wof:lastmodified":1473983658,
+    "wof:lastmodified":1496895387,
     "wof:name":"Kombi Kargo West Internationale Spedition & Logistik GmbH",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

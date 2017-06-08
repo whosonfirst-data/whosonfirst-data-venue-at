@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0286827087,47.2860183716,11.0286827087,47.2860183716",
     "geom:latitude":47.286018,
     "geom:longitude":11.028683,
@@ -32,17 +33,34 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837437,
+        85632785,
+        101844479,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V5COR5jL9ea89AdSgjcsd_47.286018_11.028683@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905066,
-    "wof:geomhash":"91f8cd7cef0a2949786d7529aa450f37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad80252ed041f22063ad270f98291760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837437,
+            "locality_id":101844479,
+            "region_id":85681661,
+            "venue_id":1092190909
+        }
+    ],
     "wof:id":1092190909,
-    "wof:lastmodified":1473983477,
+    "wof:lastmodified":1496897858,
     "wof:name":"Gerhard Krug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4661569595,48.2203712463,14.4661569595,48.2203712463",
     "geom:latitude":48.220371,
     "geom:longitude":14.466157,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915111,
-    "wof:geomhash":"1f7b50440344e49603725c7fe3cbd55c",
+    "wof:geomhash":"e3ad9996cb6940b5456d534549c41fa4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092412997
         }
     ],
     "wof:id":1092412997,
-    "wof:lastmodified":1473983999,
+    "wof:lastmodified":1496887086,
     "wof:name":"\u00f6sterreichische Fernw\u00e4rmegesmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

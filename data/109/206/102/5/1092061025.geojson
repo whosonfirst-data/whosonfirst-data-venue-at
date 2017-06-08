@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4605064392,48.2655448914,16.4605064392,48.2655448914",
     "geom:latitude":48.265545,
     "geom:longitude":16.460506,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898942,
-    "wof:geomhash":"7288c0e671de99f70295bc734fe70c6c",
+    "wof:geomhash":"c122d8d3e8e857324ed921fde8443c2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092061025
         }
     ],
     "wof:id":1092061025,
-    "wof:lastmodified":1473983582,
+    "wof:lastmodified":1496902506,
     "wof:name":"Josef Kesselbacher",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

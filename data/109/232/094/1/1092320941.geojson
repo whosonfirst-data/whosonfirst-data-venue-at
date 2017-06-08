@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3185033798,47.7997550964,13.3185033798,47.7997550964",
     "geom:latitude":47.799755,
     "geom:longitude":13.318503,
@@ -23,17 +24,33 @@
     "sg:postcode":"5330",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ISrytNTPpR2FyNMZnqzK3_47.799755_13.318503@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473910844,
-    "wof:geomhash":"49230943a2198f21bdb25822bc3e1350",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c1b9971fd59d54ca130774766e2deb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092320941
+        }
+    ],
     "wof:id":1092320941,
-    "wof:lastmodified":1473983540,
+    "wof:lastmodified":1496895364,
     "wof:name":"Ebner Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

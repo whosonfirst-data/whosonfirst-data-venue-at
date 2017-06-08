@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3430271149,47.2654075623,11.3430271149,47.2654075623",
     "geom:latitude":47.265408,
     "geom:longitude":11.343027,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913709,
-    "wof:geomhash":"17f63696011a473ea3b858021fd62c3d",
+    "wof:geomhash":"eeb3b2e05b1ad5010679b93571d44618",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092385481
         }
     ],
     "wof:id":1092385481,
-    "wof:lastmodified":1473984619,
+    "wof:lastmodified":1496899507,
     "wof:name":"Egger Christian",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

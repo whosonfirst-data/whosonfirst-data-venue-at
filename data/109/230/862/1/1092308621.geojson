@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7548952103,48.4507064819,15.7548952103,48.4507064819",
     "geom:latitude":48.450706,
     "geom:longitude":15.754895,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"haslinger-weine.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836301,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v1RCgXPFMtX7kXTnDUAvi_48.450706_15.754895@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910300,
-    "wof:geomhash":"9eedfe04506c66346715b6cc38268887",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21950176cce185687e63cb486ec63bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108836301,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092308621
+        }
+    ],
     "wof:id":1092308621,
-    "wof:lastmodified":1473985226,
+    "wof:lastmodified":1496890442,
     "wof:name":"HASLINGER KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

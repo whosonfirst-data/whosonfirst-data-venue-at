@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6695184708,47.3280715942,11.6695184708,47.3280715942",
     "geom:latitude":47.328072,
     "geom:longitude":11.669518,
@@ -23,17 +24,33 @@
     "sg:postcode":"6130",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837659,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42rhHUYEaflGiOM56O5juv_47.328072_11.669518@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899277,
-    "wof:geomhash":"c76314901db495c52a63c2b09c8ea9e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57f63a2ea2aee6e8acb8b33f55b645ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837659,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092069181
+        }
+    ],
     "wof:id":1092069181,
-    "wof:lastmodified":1473985054,
+    "wof:lastmodified":1496899038,
     "wof:name":"Gasthaus Stoanergroben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

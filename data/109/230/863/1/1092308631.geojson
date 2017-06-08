@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9260616302,47.7845115662,16.9260616302,47.7845115662",
     "geom:latitude":47.784512,
     "geom:longitude":16.926062,
@@ -32,17 +33,34 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838569,
+        85632785,
+        101785759,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y9Vq2GvT89999ndBbcxaY_47.784512_16.926062@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910301,
-    "wof:geomhash":"58556dcc8a71222048e5e685475d8ae7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ede90734a9daaf9f3d569028a651fb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838569,
+            "locality_id":101785759,
+            "region_id":85681651,
+            "venue_id":1092308631
+        }
+    ],
     "wof:id":1092308631,
-    "wof:lastmodified":1473985226,
+    "wof:lastmodified":1496908513,
     "wof:name":"Karl Roll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

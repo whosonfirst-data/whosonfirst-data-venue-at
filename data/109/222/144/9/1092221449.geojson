@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.824760437,46.8321418762,14.824760437,46.8321418762",
     "geom:latitude":46.832142,
     "geom:longitude":14.82476,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nFqjwWSQwwDBt20njq8G5_46.832142_14.824760@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906456,
-    "wof:geomhash":"ffe9fbb9f1a4e5b60adb2f82ea4fcc2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"837a4c54caba9a5f92b4a42fbae4b27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092221449
+        }
+    ],
     "wof:id":1092221449,
-    "wof:lastmodified":1473983708,
+    "wof:lastmodified":1496905284,
     "wof:name":"Mauritsch Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

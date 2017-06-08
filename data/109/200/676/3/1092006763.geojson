@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.175655365,48.336315155,14.175655365,48.336315155",
     "geom:latitude":48.336315,
     "geom:longitude":14.175655,
@@ -33,10 +34,13 @@
     "sg:website":"kaltenegger.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85904371,
-        102049847
+        102191581,
+        1108836395,
+        85632785,
+        101784615,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896817,
-    "wof:geomhash":"486087f37f0b06fa98a18370da80b573",
+    "wof:geomhash":"bcf1faab3aacef73d3c45aa2573099da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836395,
+            "locality_id":101784615,
             "neighbourhood_id":85904371,
             "region_id":85681677,
             "venue_id":1092006763
         }
     ],
     "wof:id":1092006763,
-    "wof:lastmodified":1473984600,
+    "wof:lastmodified":1496890889,
     "wof:name":"Rudolf Kaltenegger - Mauerentfeuchtung",
     "wof:parent_id":85904371,
     "wof:placetype":"venue",

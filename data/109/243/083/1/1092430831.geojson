@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0214118958,47.3531990051,16.0214118958,47.3531990051",
     "geom:latitude":47.353199,
     "geom:longitude":16.021412,
@@ -32,17 +33,33 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839115,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3km5Vz6F79aQazMyuMOAI9_47.353199_16.021412@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915946,
-    "wof:geomhash":"3adb63bee5a62031e02ef02975a23d69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c9fbbbc1a69ddb76e1406875db0a77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839115,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092430831
+        }
+    ],
     "wof:id":1092430831,
-    "wof:lastmodified":1473983432,
+    "wof:lastmodified":1496911391,
     "wof:name":"Werner Schantl GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

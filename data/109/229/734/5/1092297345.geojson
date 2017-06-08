@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1584501266,47.8057556152,13.1584501266,47.8057556152",
     "geom:latitude":47.805756,
     "geom:longitude":13.15845,
@@ -23,17 +24,33 @@
     "sg:postcode":"5322",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837151,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PRFQjfXjZn1Pv45ndv8ks_47.805756_13.158450@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909764,
-    "wof:geomhash":"e0ccce7d68f42fbc786b97605041469a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcb0eae65b5a3795c98c94e214cf171b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837151,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092297345
+        }
+    ],
     "wof:id":1092297345,
-    "wof:lastmodified":1473984986,
+    "wof:lastmodified":1496895441,
     "wof:name":"Pichler Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

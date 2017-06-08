@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2783031464,47.3205528259,16.2783031464,47.3205528259",
     "geom:latitude":47.320553,
     "geom:longitude":16.278303,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"www.binderbau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838773,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fCfxZJ0ZK2yGhFDcJYJg3_47.320553_16.278303@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889374,
-    "wof:geomhash":"96f4a84fbbdc8bc5db9f281bc2eccfa4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4f381672e6551084c8548deb73b4f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838773,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091842523
+        }
+    ],
     "wof:id":1091842523,
-    "wof:lastmodified":1473983779,
+    "wof:lastmodified":1496909282,
     "wof:name":"Binder Viktor GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2566976547,47.4493217468,12.2566976547,47.4493217468",
     "geom:latitude":47.449322,
     "geom:longitude":12.256698,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"erber-edelbrand.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A9SKbhsg6T2OJFpXrhycl_47.449322_12.256698@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893235,
-    "wof:geomhash":"bacfd12e4543263ae17bc5b3e3c05469",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a895c199d05ed381ed3beea8c86bcf1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091925451
+        }
+    ],
     "wof:id":1091925451,
-    "wof:lastmodified":1473984272,
+    "wof:lastmodified":1496897248,
     "wof:name":"Erber Brennerei GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

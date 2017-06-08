@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.135512352,47.3879852295,12.135512352,47.3879852295",
     "geom:latitude":47.387985,
     "geom:longitude":12.135512,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EziQkLkq4RMj7dSS7w7jB_47.387985_12.135512@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903798,
-    "wof:geomhash":"de029da3414b8a00b75a2f3cac892280",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c5acac4d00f69c890c5af5155c5952f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092162633
+        }
+    ],
     "wof:id":1092162633,
-    "wof:lastmodified":1473983873,
+    "wof:lastmodified":1496896986,
     "wof:name":"Volksschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

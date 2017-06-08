@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7551765442,46.8420562744,12.7551765442,46.8420562744",
     "geom:latitude":46.842056,
     "geom:longitude":12.755177,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837511,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03HnqTtno6fTq9z3cgN5t6_46.842056_12.755177@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897064,
-    "wof:geomhash":"866500e83f0ab9223bc41be951bf1bf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbb7fe141aa27d7a2b79acfc5468573d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837511,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092012933
+        }
+    ],
     "wof:id":1092012933,
-    "wof:lastmodified":1473983510,
+    "wof:lastmodified":1496898194,
     "wof:name":"Walter Fuetsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7902326584,47.1697921753,9.7902326584,47.1697921753",
     "geom:latitude":47.169792,
     "geom:longitude":9.790233,
@@ -32,17 +33,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        101827451,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PSn7hylNOMKmogDrwgclM_47.169792_9.790233@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908430,
-    "wof:geomhash":"09b92321240e9928f39f0af784e47203",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea0d0f2ed77939220254c11522407924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":101827451,
+            "region_id":85681649,
+            "venue_id":1092266075
+        }
+    ],
     "wof:id":1092266075,
-    "wof:lastmodified":1473984524,
+    "wof:lastmodified":1496901607,
     "wof:name":"Norbert Steiner Elektrounternehmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

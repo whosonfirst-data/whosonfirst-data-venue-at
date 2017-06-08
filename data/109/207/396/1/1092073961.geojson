@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4544706345,47.6142578125,15.4544706345,47.6142578125",
     "geom:latitude":47.614258,
     "geom:longitude":15.454471,
@@ -23,17 +24,33 @@
     "sg:postcode":"8664",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838861,
+        85632785,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vANH0drI4BtYUbhtrIdVm_47.614258_15.454471@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899468,
-    "wof:geomhash":"69d204a63474453008d159519127fca9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"068b1c768f35212f471d22b2c961e98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838861,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092073961
+        }
+    ],
     "wof:id":1092073961,
-    "wof:lastmodified":1473984036,
+    "wof:lastmodified":1496909669,
     "wof:name":"Gasthof Radwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

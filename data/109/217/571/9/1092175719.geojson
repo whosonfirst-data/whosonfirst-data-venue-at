@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4750881195,47.2765274048,11.4750881195,47.2765274048",
     "geom:latitude":47.276527,
     "geom:longitude":11.475088,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904372,
-    "wof:geomhash":"e5a5dcce2007a081cf4de2976d9096e4",
+    "wof:geomhash":"4db92460869f3dad7e1194150659c1c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092175719
         }
     ],
     "wof:id":1092175719,
-    "wof:lastmodified":1473984487,
+    "wof:lastmodified":1496898741,
     "wof:name":"Eurospar",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

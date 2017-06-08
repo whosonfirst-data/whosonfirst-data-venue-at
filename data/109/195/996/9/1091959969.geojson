@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4165802002,47.8371315002,16.4165802002,47.8371315002",
     "geom:latitude":47.837132,
     "geom:longitude":16.41658,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.point2-holidays.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838501,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32MMOH0BBTNmcNHiolBJoz_47.837132_16.416580@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894822,
-    "wof:geomhash":"ce11bcb2283487c6f12c041596b9713a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5723d51a38ffe13b72562253dc537498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838501,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091959969
+        }
+    ],
     "wof:id":1091959969,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496908256,
     "wof:name":"Point 2 - Endless Holidays",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

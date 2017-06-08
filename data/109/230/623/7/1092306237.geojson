@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6375694275,48.0220909119,16.6375694275,48.0220909119",
     "geom:latitude":48.022091,
     "geom:longitude":16.637569,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"ms-fertigrasen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836741,
+        85632785,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vG8UO9YqYSCBBpnfoUQ8Z_48.022091_16.637569@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910201,
-    "wof:geomhash":"c52909f31b69f406a62bfeb115ccf88c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9aafa487409605ad1880ac12af5b8779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836741,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092306237
+        }
+    ],
     "wof:id":1092306237,
-    "wof:lastmodified":1473984710,
+    "wof:lastmodified":1496892565,
     "wof:name":"M-S Rasenerzeugung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

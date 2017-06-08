@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1955661774,47.6003341675,16.1955661774,47.6003341675",
     "geom:latitude":47.600334,
     "geom:longitude":16.195566,
@@ -33,17 +34,33 @@
         "cooker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836721,
+        85632785,
+        102049787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aTydInmx2ygTUSRVQDgxx_47.600334_16.195566@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908388,
-    "wof:geomhash":"2e528265fb44f5d8bbdefa0ef97480fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6030b04cf417a9397bd0b3a93bbe4059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108836721,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092265109
+        }
+    ],
     "wof:id":1092265109,
-    "wof:lastmodified":1473984412,
+    "wof:lastmodified":1496892496,
     "wof:name":"Johann Spenger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.761885643,47.9961738586,14.761885643,47.9961738586",
     "geom:latitude":47.996174,
     "geom:longitude":14.761886,
@@ -34,17 +35,33 @@
         "measurement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836699,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CVHD5r1NNVEBAdjAuqjcm_47.996174_14.761886@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911530,
-    "wof:geomhash":"5b6aef91f8d97a4fd07f131112f9d227",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f646b915831b385fb982cec33c404896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836699,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092337665
+        }
+    ],
     "wof:id":1092337665,
-    "wof:lastmodified":1473985204,
+    "wof:lastmodified":1496892444,
     "wof:name":"PROMINENT DOSIERTECHNIK GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

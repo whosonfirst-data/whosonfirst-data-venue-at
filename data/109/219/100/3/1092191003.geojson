@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4759502411,48.0511779785,14.4759502411,48.0511779785",
     "geom:latitude":48.051178,
     "geom:longitude":14.47595,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836687,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GNnMSyjTWheM2U4TJ56JH_48.051178_14.475950@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905070,
-    "wof:geomhash":"5207532daf2651aeacc40857bc948dd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f12ff96db41a96235fc8ef7edaa78fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836687,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092191003
+        }
+    ],
     "wof:id":1092191003,
-    "wof:lastmodified":1473983471,
+    "wof:lastmodified":1496892419,
     "wof:name":"ING. BR\u00c4UER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

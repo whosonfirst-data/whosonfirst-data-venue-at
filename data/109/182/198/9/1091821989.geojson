@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5832700729,46.7598304749,13.5832700729,46.7598304749",
     "geom:latitude":46.75983,
     "geom:longitude":13.58327,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838301,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_019E80UpGrEzlqDhCtVlBG_46.759830_13.583270@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888436,
-    "wof:geomhash":"6174bb4713dc6df97af53342ab24401c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"124fbae13d8393c2576f75a305ef84d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091821989
+        }
+    ],
     "wof:id":1091821989,
-    "wof:lastmodified":1473983823,
+    "wof:lastmodified":1496907125,
     "wof:name":"Holzbau Sch\u00fctzer Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

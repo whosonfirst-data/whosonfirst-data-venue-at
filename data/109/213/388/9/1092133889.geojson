@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4128799438,48.2915878296,16.4128799438,48.2915878296",
     "geom:latitude":48.291588,
     "geom:longitude":16.41288,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902450,
-    "wof:geomhash":"30ec43c99597fe433833ee0750d9af29",
+    "wof:geomhash":"70d14553140e28d76b2a54bb77474d54",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092133889
         }
     ],
     "wof:id":1092133889,
-    "wof:lastmodified":1473984084,
+    "wof:lastmodified":1496928026,
     "wof:name":"Lemontree.at",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3306598663,46.9165496826,12.3306598663,46.9165496826",
     "geom:latitude":46.91655,
     "geom:longitude":12.33066,
@@ -23,17 +24,33 @@
     "sg:postcode":"9963",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837527,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01zZ06dHlG0JRDdNKjc2U7_46.916550_12.330660@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913156,
-    "wof:geomhash":"7ec6f5e8e720e03f7741653656b2a7fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b362d36ac166460e2747d08075096189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837527,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092373113
+        }
+    ],
     "wof:id":1092373113,
-    "wof:lastmodified":1473984132,
+    "wof:lastmodified":1496898298,
     "wof:name":"Posthof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5027856827,46.7887268066,13.5027856827,46.7887268066",
     "geom:latitude":46.788727,
     "geom:longitude":13.502786,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://members.aon.at/ecobau",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838301,
+        85632785,
+        101790155,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YHo26m30vobFVLLigrpfD_46.788727_13.502786@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895468,
-    "wof:geomhash":"25389beda4fb518ba1e8376698126a9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"603b11fefe74f0335485f570085a3622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":101790155,
+            "region_id":85681655,
+            "venue_id":1091975443
+        }
+    ],
     "wof:id":1091975443,
-    "wof:lastmodified":1473984518,
+    "wof:lastmodified":1496907166,
     "wof:name":"ecobau Bautr\u00e4ger & Consulting GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

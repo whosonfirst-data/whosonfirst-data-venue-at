@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1932916641,48.7570075989,15.1932916641,48.7570075989",
     "geom:latitude":48.757008,
     "geom:longitude":15.193292,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836749,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_728e7DhSK2mfwhDQB5cLp6_48.757008_15.193292@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898893,
-    "wof:geomhash":"f2bd63d9188420a92630023ce388a3e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33b94702d2a752cfec5e527d09d6790d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836749,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092059845
+        }
+    ],
     "wof:id":1092059845,
-    "wof:lastmodified":1473985195,
+    "wof:lastmodified":1496892615,
     "wof:name":"FIDA-Installationen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

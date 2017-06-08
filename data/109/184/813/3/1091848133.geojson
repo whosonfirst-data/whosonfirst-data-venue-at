@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0789451599,48.0059013367,13.0789451599,48.0059013367",
     "geom:latitude":48.005901,
     "geom:longitude":13.078945,
@@ -23,17 +24,33 @@
     "sg:postcode":"5163",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834773,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nIYcdg9kEduCFrpoR99Ms_48.005901_13.078945@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889629,
-    "wof:geomhash":"a41da772cec61393101984503ee081bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67b90b0f821f2ba4f9ac3d174a69ca71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834773,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091848133
+        }
+    ],
     "wof:id":1091848133,
-    "wof:lastmodified":1473984896,
+    "wof:lastmodified":1496882560,
     "wof:name":"Gebr\u00fcder Oitner GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

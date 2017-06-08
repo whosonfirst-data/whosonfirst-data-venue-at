@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4159002304,48.3530082703,14.4159002304,48.3530082703",
     "geom:latitude":48.353008,
     "geom:longitude":14.4159,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836149,
+        85632785,
+        101784613,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TE3kCN2bAXJ6BJ7dcy6FF_48.353008_14.415900@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913629,
-    "wof:geomhash":"1b349a025db6187520521760cb393d11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b7abfc679e43e00c3fa5760ec08b140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836149,
+            "locality_id":101784613,
+            "region_id":85681677,
+            "venue_id":1092383783
+        }
+    ],
     "wof:id":1092383783,
-    "wof:lastmodified":1473984175,
+    "wof:lastmodified":1496889798,
     "wof:name":"Pizzeria Pella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1366329193,47.1116752625,13.1366329193,47.1116752625",
     "geom:latitude":47.111675,
     "geom:longitude":13.136633,
@@ -28,17 +29,34 @@
     "sg:postcode":"5640",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        101789115,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M57WyEKrqx6islcsodz7i_47.111675_13.136633@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898366,
-    "wof:geomhash":"5a92baf53896fc3619f2738c65bef358",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3ef789db7c081802618959378df13c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":101789115,
+            "region_id":85681681,
+            "venue_id":1092046291
+        }
+    ],
     "wof:id":1092046291,
-    "wof:lastmodified":1473983889,
+    "wof:lastmodified":1496893768,
     "wof:name":"Hotel Echo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

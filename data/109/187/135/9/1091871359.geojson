@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3136520386,46.6510238647,14.3136520386,46.6510238647",
     "geom:latitude":46.651024,
     "geom:longitude":14.313652,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890718,
-    "wof:geomhash":"359e4b889fc1daad4524f0de18450972",
+    "wof:geomhash":"0fc28dbc8062c72f2334c5755647aa1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1091871359
         }
     ],
     "wof:id":1091871359,
-    "wof:lastmodified":1473983575,
+    "wof:lastmodified":1496905811,
     "wof:name":"Blumen Kolle",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

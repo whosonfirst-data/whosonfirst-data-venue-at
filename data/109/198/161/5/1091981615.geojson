@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1944122314,48.378780365,14.1944122314,48.378780365",
     "geom:latitude":48.37878,
     "geom:longitude":14.194412,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.hydrocontrol.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836155,
+        85632785,
+        101783363,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0To0lKmihiPuxnpVpZvals_48.378780_14.194412@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895762,
-    "wof:geomhash":"3b8f1eddb6fee9f020f531b75cacbe18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"886e85b7f6549e58ea50d60230714325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836155,
+            "locality_id":101783363,
+            "region_id":85681677,
+            "venue_id":1091981615
+        }
+    ],
     "wof:id":1091981615,
-    "wof:lastmodified":1473983411,
+    "wof:lastmodified":1496889820,
     "wof:name":"Heigl Hydro Control KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

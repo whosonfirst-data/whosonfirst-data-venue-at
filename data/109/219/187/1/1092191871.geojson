@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3929958344,47.3405303955,13.3929958344,47.3405303955",
     "geom:latitude":47.34053,
     "geom:longitude":13.392996,
@@ -32,17 +33,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837005,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_328srVd403ZjcM9Mzy6liE_47.340530_13.392996@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905102,
-    "wof:geomhash":"e3b06a47204bed54f63b16f477979f11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"488a4ce289a680607e01952364d3efbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837005,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092191871
+        }
+    ],
     "wof:id":1092191871,
-    "wof:lastmodified":1473983789,
+    "wof:lastmodified":1496893924,
     "wof:name":"Franz Eigner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

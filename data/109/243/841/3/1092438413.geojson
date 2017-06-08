@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0737533569,48.5652198792,16.0737533569,48.5652198792",
     "geom:latitude":48.56522,
     "geom:longitude":16.073753,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.landgasthof-wolf.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        101782253,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A6WJvt9VfC92qhR2yiMjg_48.565220_16.073753@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916295,
-    "wof:geomhash":"05d0025592b719ee6d91761e0f736794",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83d452505afa3b1515f6bde4ca6ebadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":101782253,
+            "region_id":85681671,
+            "venue_id":1092438413
+        }
+    ],
     "wof:id":1092438413,
-    "wof:lastmodified":1473985137,
+    "wof:lastmodified":1496886324,
     "wof:name":"Landgasthof Wolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

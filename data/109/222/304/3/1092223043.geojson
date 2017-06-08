@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0553426743,48.2656555176,14.0553426743,48.2656555176",
     "geom:latitude":48.265656,
     "geom:longitude":14.055343,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834811,
+        85632785,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w7xn4VOYDRStsknYrFKzs_48.265656_14.055343@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906535,
-    "wof:geomhash":"73e4cf89d773fa06143bdaa1f130fbac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"935fef92c9dfa626f0ba0048217b9119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834811,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092223043
+        }
+    ],
     "wof:id":1092223043,
-    "wof:lastmodified":1473984041,
+    "wof:lastmodified":1496882629,
     "wof:name":"Taxi-Schartm\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

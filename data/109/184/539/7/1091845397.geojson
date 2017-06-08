@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7584218979,48.2123565674,14.7584218979,48.2123565674",
     "geom:latitude":48.212357,
     "geom:longitude":14.758422,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835571,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KqYnTPsqL6g0BTrTyDZ01_48.212357_14.758422@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889492,
-    "wof:geomhash":"f3402d7386f12008a972cff0ee5cf572",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9593cbc492c096aaeac604b040d2ffc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835571,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091845397
+        }
+    ],
     "wof:id":1091845397,
-    "wof:lastmodified":1473984287,
+    "wof:lastmodified":1496887476,
     "wof:name":"Steininger Leopold Bau-Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2054691315,47.2962608337,11.2054691315,47.2962608337",
     "geom:latitude":47.296261,
     "geom:longitude":11.205469,
@@ -28,17 +29,33 @@
     "sg:postcode":"6103",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837699,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qK0D17jrJczz9XosBQBC7_47.296261_11.205469@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473895021,
-    "wof:geomhash":"a84c6615451ecab279bf0cd575e4435e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2c506862141bce9ff74a27a5e27fb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837699,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091964621
+        }
+    ],
     "wof:id":1091964621,
-    "wof:lastmodified":1473984110,
+    "wof:lastmodified":1496899649,
     "wof:name":"MEILER HOF Familie Peintner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

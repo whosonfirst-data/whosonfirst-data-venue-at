@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8206253052,48.3334465027,15.8206253052,48.3334465027",
     "geom:latitude":48.333447,
     "geom:longitude":15.820625,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835861,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V7dbp3V0kQT4Wz0WW8Pas_48.333447_15.820625@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895409,
-    "wof:geomhash":"96d8fcbfbd22567d841ad88135c05931",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83b21e3bf5f1af6e25ec17b9a0da6584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835861,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091973929
+        }
+    ],
     "wof:id":1091973929,
-    "wof:lastmodified":1473984180,
+    "wof:lastmodified":1496888691,
     "wof:name":"WEBER GES MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7384700775,47.2380142212,10.7384700775,47.2380142212",
     "geom:latitude":47.238014,
     "geom:longitude":10.73847,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R0vMg6HEcgi8cL2rB2Itk_47.238014_10.738470@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913575,
-    "wof:geomhash":"95789031899b530b5de704db23294d3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b330c9c5b8ea616ce4d3eb80259c573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092382759
+        }
+    ],
     "wof:id":1092382759,
-    "wof:lastmodified":1473984038,
+    "wof:lastmodified":1496898405,
     "wof:name":"Pizzarella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

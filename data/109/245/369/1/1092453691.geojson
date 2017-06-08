@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7342300415,47.9858703613,13.7342300415,47.9858703613",
     "geom:latitude":47.98587,
     "geom:longitude":13.73423,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836487,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bcRWlXOG49IAeD0vKzfBC_47.985870_13.734230@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473916999,
-    "wof:geomhash":"8862729d995a5e1b6a2fbbf091d419a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60bc81d58d9c4fa3d53cd9fb5056c49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836487,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092453691
+        }
+    ],
     "wof:id":1092453691,
-    "wof:lastmodified":1473983360,
+    "wof:lastmodified":1496891260,
     "wof:name":"Josef Schwarzenbacher GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

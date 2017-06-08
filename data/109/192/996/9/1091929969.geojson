@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1849956512,48.7553443909,15.1849956512,48.7553443909",
     "geom:latitude":48.755344,
     "geom:longitude":15.184996,
@@ -23,17 +24,33 @@
     "sg:postcode":"3902",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836749,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FA10A3hBpkpoUaaIqY2n0_48.755344_15.184996@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893509,
-    "wof:geomhash":"828ed7877ee2b7b0f87d294787edeb54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30593ffc9518ba7f4d461da810fed640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836749,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091929969
+        }
+    ],
     "wof:id":1091929969,
-    "wof:lastmodified":1473985247,
+    "wof:lastmodified":1496892611,
     "wof:name":"Erster SV Appel Vitis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

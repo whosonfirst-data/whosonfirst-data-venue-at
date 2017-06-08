@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2552547455,47.1283683777,10.2552547455,47.1283683777",
     "geom:latitude":47.128368,
     "geom:longitude":10.255255,
@@ -28,17 +29,34 @@
     "sg:postcode":"6580",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        101826319,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tMKYDOoNjDf4Tx5v3JYlM_47.128368_10.255255@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895095,
-    "wof:geomhash":"763ef6376e3c04ddef933617f3da66f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39968daa86d8cd63cc96d1eefe38d49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":101826319,
+            "region_id":85681661,
+            "venue_id":1091966545
+        }
+    ],
     "wof:id":1091966545,
-    "wof:lastmodified":1473984337,
+    "wof:lastmodified":1496896879,
     "wof:name":"Restaurant Taps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2740411758,47.4123725891,15.2740411758,47.4123725891",
     "geom:latitude":47.412373,
     "geom:longitude":15.274041,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"voestalpine.com/austriadraht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839323,
+        85632785,
+        101834337,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NLHhN6oUGl33iY8ws6tsB_47.412373_15.274041@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914193,
-    "wof:geomhash":"eb1483284bb9aba1ea80f20af15d5f72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24b06994f3d475569ce50329329a78e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839323,
+            "locality_id":101834337,
+            "region_id":85681687,
+            "venue_id":1092394817
+        }
+    ],
     "wof:id":1092394817,
-    "wof:lastmodified":1473984105,
+    "wof:lastmodified":1496912946,
     "wof:name":"voestalpine Austria Draht GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

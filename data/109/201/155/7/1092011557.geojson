@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7514295578,47.9857406616,14.7514295578,47.9857406616",
     "geom:latitude":47.985741,
     "geom:longitude":14.75143,
@@ -31,17 +32,34 @@
         "display"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836699,
+        85632785,
+        101913455,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c84oLvHnMwkqreXLXDvCl_47.985741_14.751430@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473897005,
-    "wof:geomhash":"6f6ae4d6dd2cc332a1f9d152896dacff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42c4dbb41fb3bae6c8a6751098e1f175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836699,
+            "locality_id":101913455,
+            "region_id":85681671,
+            "venue_id":1092011557
+        }
+    ],
     "wof:id":1092011557,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496892444,
     "wof:name":"Seitzberger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3847961426,47.6102333069,16.3847961426,47.6102333069",
     "geom:latitude":47.610233,
     "geom:longitude":16.384796,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838587,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5e57EjHinyGRdKQWDNeaSo_47.610233_16.384796@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897055,
-    "wof:geomhash":"c5e9fdc63fa24c403a568d25b08cfb2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afee7ae30ab4b6dd5fe462f82dd193bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838587,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092012783
+        }
+    ],
     "wof:id":1092012783,
-    "wof:lastmodified":1473983451,
+    "wof:lastmodified":1496908581,
     "wof:name":"Kurt Gneist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

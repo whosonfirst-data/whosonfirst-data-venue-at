@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2366886139,46.9488182068,16.2366886139,46.9488182068",
     "geom:latitude":46.948818,
     "geom:longitude":16.236689,
@@ -23,17 +24,33 @@
     "sg:postcode":"8382",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838719,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x0wBRxNIJNIz00IFmPiJg_46.948818_16.236689@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905665,
-    "wof:geomhash":"c1d6b298c941af26dcd9a22e59b50257",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bfe7de128d13ce5135746429520b80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838719,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092203345
+        }
+    ],
     "wof:id":1092203345,
-    "wof:lastmodified":1473984084,
+    "wof:lastmodified":1496909180,
     "wof:name":"Johann Fasching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

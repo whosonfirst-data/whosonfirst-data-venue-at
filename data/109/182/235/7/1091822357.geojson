@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5390625,47.7827568054,16.5390625,47.7827568054",
     "geom:latitude":47.782757,
     "geom:longitude":16.539062,
@@ -32,17 +33,34 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838705,
+        85632785,
+        101786799,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DUpvQzYnwcrwiLfIBUC9j_47.782757_16.539062@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888450,
-    "wof:geomhash":"85cbe5e494d4f79afbf3f0e5623012ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce6dba53c6ff8fe702ce4092cf175708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838705,
+            "locality_id":101786799,
+            "region_id":85681651,
+            "venue_id":1091822357
+        }
+    ],
     "wof:id":1091822357,
-    "wof:lastmodified":1473983905,
+    "wof:lastmodified":1496909143,
     "wof:name":"Stefan Steiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4829530716,48.2080307007,13.4829530716,48.2080307007",
     "geom:latitude":48.208031,
     "geom:longitude":13.482953,
@@ -32,17 +33,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Eqnt9eAS9DJUyBgP11mMo_48.208031_13.482953@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897207,
-    "wof:geomhash":"62f36a700ac0238309be6a7fe20c3a8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7f4d383aa8e81b56802052c194b7623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1092016361
+        }
+    ],
     "wof:id":1092016361,
-    "wof:lastmodified":1473984062,
+    "wof:lastmodified":1496887856,
     "wof:name":"Iso-Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

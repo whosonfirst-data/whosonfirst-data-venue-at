@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9459247589,47.3567504883,9.9459247589,47.3567504883",
     "geom:latitude":47.35675,
     "geom:longitude":9.945925,
@@ -23,17 +24,33 @@
     "sg:postcode":"6882",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838037,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vwDFCeA9s2yivEzeKVpgg_47.356750_9.945925@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898998,
-    "wof:geomhash":"15cbe0ea03e8aa86b4b953f56edded74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e868b2d010b9a0af3ad194cd4945920f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838037,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092062415
+        }
+    ],
     "wof:id":1092062415,
-    "wof:lastmodified":1473983831,
+    "wof:lastmodified":1496901701,
     "wof:name":"Berghaus Kanisfluh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

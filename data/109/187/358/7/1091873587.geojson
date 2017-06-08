@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3871440887,47.2590255737,11.3871440887,47.2590255737",
     "geom:latitude":47.259026,
     "geom:longitude":11.387144,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890837,
-    "wof:geomhash":"c3b6d531c705a6ab9c24c85915c1b408",
+    "wof:geomhash":"d42fbca6643ff74f2995d32612c8ffbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091873587
         }
     ],
     "wof:id":1091873587,
-    "wof:lastmodified":1473983890,
+    "wof:lastmodified":1496899367,
     "wof:name":"Petra's Blumenshop",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

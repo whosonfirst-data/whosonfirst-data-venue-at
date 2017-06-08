@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3652801514,48.2605705261,16.3652801514,48.2605705261",
     "geom:latitude":48.260571,
     "geom:longitude":16.36528,
@@ -35,10 +36,13 @@
     "sg:website":"moderatorenpool.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891206,
-    "wof:geomhash":"21186a5cbc490716cdd22c60e1bc3113",
+    "wof:geomhash":"d1dec4ca6c5e2fc91470ee132587b915",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1091881667
         }
     ],
     "wof:id":1091881667,
-    "wof:lastmodified":1473983691,
+    "wof:lastmodified":1496902722,
     "wof:name":"Der Moderatorenpool",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

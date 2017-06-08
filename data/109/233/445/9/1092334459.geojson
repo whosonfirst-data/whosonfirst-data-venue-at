@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2879896164,46.6259613037,14.2879896164,46.6259613037",
     "geom:latitude":46.625961,
     "geom:longitude":14.28799,
@@ -24,13 +25,14 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
+        85898249,
         102191581,
+        1108838143,
         85632785,
         101748059,
         102049679,
-        85898247,
-        85898249
+        85681655,
+        85898247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473911395,
-    "wof:geomhash":"c070b719b066ece7f2c266ad726fa42f",
+    "wof:geomhash":"7cc06f3b950ec7072eb5ad9ae09bcd31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
             "locality_id":101748059,
-            "neighbourhood_id":85898247,
+            "neighbourhood_id":85898249,
             "region_id":85681655,
             "venue_id":1092334459
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
             "locality_id":101748059,
-            "neighbourhood_id":85898249,
+            "neighbourhood_id":85898247,
             "region_id":85681655,
             "venue_id":1092334459
         }
     ],
     "wof:id":1092334459,
-    "wof:lastmodified":1473984443,
+    "wof:lastmodified":1496905894,
     "wof:name":"Anderluh Stefan",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

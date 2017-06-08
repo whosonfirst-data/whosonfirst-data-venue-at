@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.225851059,47.9929885864,16.225851059,47.9929885864",
     "geom:latitude":47.992989,
     "geom:longitude":16.225851,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"noem.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835321,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hgziq8DOGSsXyHdxHOAVf_47.992989_16.225851@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473911051,
-    "wof:geomhash":"38b364ab5dea0ec288eaef2a6453f349",
-    "wof:hierarchy":[],
+    "wof:geomhash":"658fc00041f1b7a678d4518f19c91be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092325885
+        }
+    ],
     "wof:id":1092325885,
-    "wof:lastmodified":1473984819,
+    "wof:lastmodified":1496886047,
     "wof:name":"N\u00d6M AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

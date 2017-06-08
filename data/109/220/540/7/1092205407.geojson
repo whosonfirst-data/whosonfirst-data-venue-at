@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8454618454,46.5924072266,13.8454618454,46.5924072266",
     "geom:latitude":46.592407,
     "geom:longitude":13.845462,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905760,
-    "wof:geomhash":"ee1019c8b663abe96227cd44edd4dddb",
+    "wof:geomhash":"fe6b2581eb22b01c49a73c818cdf89d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092205407
         }
     ],
     "wof:id":1092205407,
-    "wof:lastmodified":1473984557,
+    "wof:lastmodified":1496906133,
     "wof:name":"Helmut Moser GmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

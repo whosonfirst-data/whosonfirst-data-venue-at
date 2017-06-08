@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1837005615,47.3555335999,10.1837005615,47.3555335999",
     "geom:latitude":47.355534,
     "geom:longitude":10.183701,
@@ -33,17 +34,34 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101827491,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gBvtuqu79TSmh3NNJ6u7B_47.355534_10.183701@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892633,
-    "wof:geomhash":"7e1459656b9f2ea1609e3d4e5cc4b82b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f48f6d0f8350db68dee884f52f6949b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101827491,
+            "region_id":85681649,
+            "venue_id":1091912003
+        }
+    ],
     "wof:id":1091912003,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496901551,
     "wof:name":"Snowboardschule Ahorn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

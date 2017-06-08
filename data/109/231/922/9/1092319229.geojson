@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1596136093,47.8458061218,13.1596136093,47.8458061218",
     "geom:latitude":47.845806,
     "geom:longitude":13.159614,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"besam.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R5jalwfcmH9GwdWIwvEsv_47.845806_13.159614@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910764,
-    "wof:geomhash":"1d0a474110e2f508d745fba7831ff7a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed173d5e6837c8b6f2bb135dcd9db3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092319229
+        }
+    ],
     "wof:id":1092319229,
-    "wof:lastmodified":1473985333,
+    "wof:lastmodified":1496895330,
     "wof:name":"Besam Maschinenhandels-GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

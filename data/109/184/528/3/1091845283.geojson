@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8017959595,46.6450881958,13.8017959595,46.6450881958",
     "geom:latitude":46.645088,
     "geom:longitude":13.801796,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889486,
-    "wof:geomhash":"44da493bd9f794184fd581206abd4abc",
+    "wof:geomhash":"fb50409a71d826a54f1c8bdac7b1ffa1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1091845283
         }
     ],
     "wof:id":1091845283,
-    "wof:lastmodified":1473984265,
+    "wof:lastmodified":1496906178,
     "wof:name":"R\u00f6fix AG",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

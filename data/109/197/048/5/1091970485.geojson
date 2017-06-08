@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7497768402,47.4440879822,10.7497768402,47.4440879822",
     "geom:latitude":47.444088,
     "geom:longitude":10.749777,
@@ -23,17 +24,33 @@
     "sg:postcode":"6611",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837735,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64OWeaOlsNEPnjjwb1o6Ze_47.444088_10.749777@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895257,
-    "wof:geomhash":"765548a61120ce25d3799e42ad895533",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e81ebf92fa70ffa17ada004738ca227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837735,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091970485
+        }
+    ],
     "wof:id":1091970485,
-    "wof:lastmodified":1473983423,
+    "wof:lastmodified":1496899827,
     "wof:name":"Griechisches Restaurant Saloniki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

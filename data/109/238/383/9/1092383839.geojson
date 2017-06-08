@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2647638321,47.1281776428,10.2647638321,47.1281776428",
     "geom:latitude":47.128178,
     "geom:longitude":10.264764,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        101826319,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b7bXGdq2vF9eG4M3x4y3R_47.128178_10.264764@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913632,
-    "wof:geomhash":"4cb75425a5b6afdff3031d6c55a2769c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12171d919ee5988bf2a04355ab5b0dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":101826319,
+            "region_id":85681661,
+            "venue_id":1092383839
+        }
+    ],
     "wof:id":1092383839,
-    "wof:lastmodified":1473984181,
+    "wof:lastmodified":1496896915,
     "wof:name":"Pizzeria Pomodoro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

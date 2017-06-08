@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2230577469,46.6263427734,14.2230577469,46.6263427734",
     "geom:latitude":46.626343,
     "geom:longitude":14.223058,
@@ -29,10 +30,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898491,
-    "wof:geomhash":"5819c7d313f9b4646def52d31ec99eff",
+    "wof:geomhash":"eb7a3d91c8a58d63fa4ed573fbff9e37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092049553
         }
     ],
     "wof:id":1092049553,
-    "wof:lastmodified":1473984502,
+    "wof:lastmodified":1496906405,
     "wof:name":"Hotel-Pension Egger GesmbH",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

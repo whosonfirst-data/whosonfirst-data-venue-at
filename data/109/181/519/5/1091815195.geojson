@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7902326584,47.1697921753,9.7902326584,47.1697921753",
     "geom:latitude":47.169792,
     "geom:longitude":9.790233,
@@ -23,17 +24,34 @@
     "sg:postcode":"6714",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        101827451,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L9P41mzkv9vvuNF5OAPL6_47.169792_9.790233@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473888145,
-    "wof:geomhash":"09b92321240e9928f39f0af784e47203",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea0d0f2ed77939220254c11522407924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":101827451,
+            "region_id":85681649,
+            "venue_id":1091815195
+        }
+    ],
     "wof:id":1091815195,
-    "wof:lastmodified":1473984484,
+    "wof:lastmodified":1496901619,
     "wof:name":"Elektro Steiner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

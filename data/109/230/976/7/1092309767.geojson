@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3663949966,47.1216468811,15.3663949966,47.1216468811",
     "geom:latitude":47.121647,
     "geom:longitude":15.366395,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910351,
-    "wof:geomhash":"3d3a21d3ecf78bf46ac8dfb476f988a0",
+    "wof:geomhash":"f6814f16d071f8e7576e983f9756796e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092309767
         }
     ],
     "wof:id":1092309767,
-    "wof:lastmodified":1473985287,
+    "wof:lastmodified":1496911862,
     "wof:name":"Noge Autobus Imp-u Export GmbH",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

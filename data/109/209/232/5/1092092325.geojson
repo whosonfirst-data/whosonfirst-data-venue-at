@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1092805862,47.5084266663,14.1092805862,47.5084266663",
     "geom:latitude":47.508427,
     "geom:longitude":14.109281,
@@ -23,17 +24,33 @@
     "sg:postcode":"8952",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838963,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d9wTWR20z3x7lCnL1kJpS_47.508427_14.109281@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900360,
-    "wof:geomhash":"2e45507e0473edef8f65a8a66a307150",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b528159f6f1aa78d8a57926ae1256f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838963,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092092325
+        }
+    ],
     "wof:id":1092092325,
-    "wof:lastmodified":1473983696,
+    "wof:lastmodified":1496910517,
     "wof:name":"Bezirksgericht Irdning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

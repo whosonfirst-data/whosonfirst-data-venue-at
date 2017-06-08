@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5022602081,47.2815093994,11.5022602081,47.2815093994",
     "geom:latitude":47.281509,
     "geom:longitude":11.50226,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912296,
-    "wof:geomhash":"c400611497985d2d9d6659f63d6daa7e",
+    "wof:geomhash":"e26fbbed4eaa59890af34eae6424ea20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092355157
         }
     ],
     "wof:id":1092355157,
-    "wof:lastmodified":1473984482,
+    "wof:lastmodified":1496898730,
     "wof:name":"Aquila VertriebsgesmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

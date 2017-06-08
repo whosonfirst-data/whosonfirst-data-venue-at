@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7317829132,47.4087142944,15.7317829132,47.4087142944",
     "geom:latitude":47.408714,
     "geom:longitude":15.731783,
@@ -33,17 +34,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838915,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lb5F0TVGijpduexUvA7J6_47.408714_15.731783@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905097,
-    "wof:geomhash":"ae41c98b506fa156314b52143ff8b040",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b00fdcf5c8d9e28dd2fb6ba49c0dcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838915,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092191723
+        }
+    ],
     "wof:id":1092191723,
-    "wof:lastmodified":1473983745,
+    "wof:lastmodified":1496910116,
     "wof:name":"Franz Krogger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

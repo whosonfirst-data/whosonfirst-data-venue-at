@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3301315308,47.2651748657,11.3301315308,47.2651748657",
     "geom:latitude":47.265175,
     "geom:longitude":11.330132,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909852,
-    "wof:geomhash":"1835691796d3bf9b13bbd521d4464417",
+    "wof:geomhash":"1d36b44f65ab8197da2cdf84a727af4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092299423
         }
     ],
     "wof:id":1092299423,
-    "wof:lastmodified":1473985211,
+    "wof:lastmodified":1496899392,
     "wof:name":"Traugott Georg GmbH",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

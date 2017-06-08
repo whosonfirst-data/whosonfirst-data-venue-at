@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.171380043,47.0973815918,13.171380043,47.0973815918",
     "geom:latitude":47.097382,
     "geom:longitude":13.17138,
@@ -23,17 +24,33 @@
     "sg:postcode":"5640",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36H2H03M2GF0GWT3hcJN3Z_47.097382_13.171380@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890106,
-    "wof:geomhash":"2ed899547c0470d025eecc657edf8d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"533ce7e9b89caac6f483acc0e2c70938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091858165
+        }
+    ],
     "wof:id":1091858165,
-    "wof:lastmodified":1473984865,
+    "wof:lastmodified":1496893785,
     "wof:name":"Gasteiner Bergbahnen AG Graukogel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5071029663,47.5105018616,16.5071029663,47.5105018616",
     "geom:latitude":47.510502,
     "geom:longitude":16.507103,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"geldner.at/intermat/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838597,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YfNyTgf0zvqxfhEhhthoy_47.510502_16.507103@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905334,
-    "wof:geomhash":"4fe089d3ca1b29c284d848fb305b18ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f027daa5a6499f6bd2bab692109d028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838597,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092197211
+        }
+    ],
     "wof:id":1092197211,
-    "wof:lastmodified":1473984913,
+    "wof:lastmodified":1496908636,
     "wof:name":"Intermat Austria G. Geldner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.720459938,47.2411155701,10.720459938,47.2411155701",
     "geom:latitude":47.241116,
     "geom:longitude":10.72046,
@@ -33,17 +34,33 @@
         "ski"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PU5izieKZggxQ0Fsw4yCx_47.241116_10.720460@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892595,
-    "wof:geomhash":"b2660e7fcecceb7101df0a96ddd2f860",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6dfb7c9a855356baf3a53826931923e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091911225
+        }
+    ],
     "wof:id":1091911225,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496898357,
     "wof:name":"Weber Reinhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

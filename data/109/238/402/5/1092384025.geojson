@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0236644745,48.3650894165,14.0236644745,48.3650894165",
     "geom:latitude":48.365089,
     "geom:longitude":14.023664,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834813,
+        85632785,
+        101784581,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70bWuSqva6oFNx3XOaKdEW_48.365089_14.023664@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913640,
-    "wof:geomhash":"2159afb9920b844d12cb6a612fdde664",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7353c7a1c00122933bfdf5e7dcc4973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834813,
+            "locality_id":101784581,
+            "region_id":85681677,
+            "venue_id":1092384025
+        }
+    ],
     "wof:id":1092384025,
-    "wof:lastmodified":1473984290,
+    "wof:lastmodified":1496882655,
     "wof:name":"Pizzeria Santa Lucia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

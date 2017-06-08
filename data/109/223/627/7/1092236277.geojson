@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3054933548,46.6055526733,14.3054933548,46.6055526733",
     "geom:latitude":46.605553,
     "geom:longitude":14.305493,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907099,
-    "wof:geomhash":"767ae9cb937949fdd9f796d616e20588",
+    "wof:geomhash":"49f9e633d692764536e1f7b066528c42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092236277
         }
     ],
     "wof:id":1092236277,
-    "wof:lastmodified":1473984601,
+    "wof:lastmodified":1496905663,
     "wof:name":"Draxl GesmbH",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

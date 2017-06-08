@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9252882004,48.1701431274,15.9252882004,48.1701431274",
     "geom:latitude":48.170143,
     "geom:longitude":15.925288,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"matador.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836931,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LF5NRS53lvrLKOK4tCNnr_48.170143_15.925288@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888375,
-    "wof:geomhash":"09fc638afec31a0a9d4fee8d7a6737b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b8e2f8ee6d10d5159211026f3aec750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836931,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091820503
+        }
+    ],
     "wof:id":1091820503,
-    "wof:lastmodified":1473983487,
+    "wof:lastmodified":1496893402,
     "wof:name":"MATADOR Spielwaren Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

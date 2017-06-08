@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2231407166,48.5547637939,14.2231407166,48.5547637939",
     "geom:latitude":48.554764,
     "geom:longitude":14.223141,
@@ -33,17 +34,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836413,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iXz4DUNSyKdyhrjkzDiRB_48.554764_14.223141@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888464,
-    "wof:geomhash":"96ea9491cd78430fb041b7b87ec86fdf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abaf5cb2c7480df8a1455674ea9cf7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836413,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091822647
+        }
+    ],
     "wof:id":1091822647,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496890937,
     "wof:name":"Raimund Grabner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

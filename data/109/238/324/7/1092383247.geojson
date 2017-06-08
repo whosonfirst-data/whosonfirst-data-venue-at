@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6337852478,48.3202972412,16.6337852478,48.3202972412",
     "geom:latitude":48.320297,
     "geom:longitude":16.633785,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835281,
+        85632785,
+        101783429,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bjhqx7j5LsR0U2COGHas0_48.320297_16.633785@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913604,
-    "wof:geomhash":"4a8e2887ed48552182d637768944fe3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22d725f6fe028eeb90bdd51d2c9c1b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835281,
+            "locality_id":101783429,
+            "region_id":85681671,
+            "venue_id":1092383247
+        }
+    ],
     "wof:id":1092383247,
-    "wof:lastmodified":1473984152,
+    "wof:lastmodified":1496885808,
     "wof:name":"Pizzeria Domani",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

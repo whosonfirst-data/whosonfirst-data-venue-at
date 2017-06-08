@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2663059235,48.1479530334,16.2663059235,48.1479530334",
     "geom:latitude":48.147953,
     "geom:longitude":16.266306,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906584,
-    "wof:geomhash":"a1fc74287289f421b9f5a30c829a1356",
+    "wof:geomhash":"21671ba1aafc198acc0e9dd3976bfce2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092224225
         }
     ],
     "wof:id":1092224225,
-    "wof:lastmodified":1473984297,
+    "wof:lastmodified":1496903424,
     "wof:name":"IKT Epple Gerhard",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

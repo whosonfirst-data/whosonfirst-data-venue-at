@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5149869919,46.7902908325,13.5149869919,46.7902908325",
     "geom:latitude":46.790291,
     "geom:longitude":13.514987,
@@ -28,17 +29,34 @@
     "sg:postcode":"9800",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838301,
+        85632785,
+        101790155,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XeKrRTbOnIs3o9cda9gRi_46.790291_13.514987@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898325,
-    "wof:geomhash":"d8cf346bd635d8ca852cd65dac3cffa3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae82e6035efd1d80d7f8c98faa4f91d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":101790155,
+            "region_id":85681655,
+            "venue_id":1092045165
+        }
+    ],
     "wof:id":1092045165,
-    "wof:lastmodified":1473983767,
+    "wof:lastmodified":1496907149,
     "wof:name":"Gasthaus Edlingerwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

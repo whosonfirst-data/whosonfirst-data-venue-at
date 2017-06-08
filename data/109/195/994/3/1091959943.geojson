@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.4475135803,47.5729179382,10.4475135803,47.5729179382",
     "geom:latitude":47.572918,
     "geom:longitude":10.447514,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.hotelalpenhof.de/hotel-alpenhof/jungholz.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837745,
+        85632785,
+        102049747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Eswi8EMXW3WRB665MhAIU_47.572918_10.447514@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894821,
-    "wof:geomhash":"08c5743342648aa3a54f8947c07d92b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d0f67468c784033ba5f03067be26d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049747,
+            "localadmin_id":1108837745,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091959943
+        }
+    ],
     "wof:id":1091959943,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496899839,
     "wof:name":"Hotel Alpenhof in Jungholz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

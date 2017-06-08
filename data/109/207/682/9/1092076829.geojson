@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5026035309,47.1135406494,15.5026035309,47.1135406494",
     "geom:latitude":47.113541,
     "geom:longitude":15.502604,
@@ -25,10 +26,12 @@
     "sg:website":"gruberwirt.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899615,
-    "wof:geomhash":"3bc06dc7e3b76c2bc2d6ddb6ce81c9f7",
+    "wof:geomhash":"91e60995496f752a1ba6664fa8742404",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092076829
         }
     ],
     "wof:id":1092076829,
-    "wof:lastmodified":1473984527,
+    "wof:lastmodified":1496913278,
     "wof:name":"Gruberwirt Josef Gruber",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

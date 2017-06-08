@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3758411407,47.4876441956,12.3758411407,47.4876441956",
     "geom:latitude":47.487644,
     "geom:longitude":12.375841,
@@ -23,17 +24,33 @@
     "sg:postcode":"6372",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837367,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_015YIjMqrDftA0IWt0pQyL_47.487644_12.375841@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907857,
-    "wof:geomhash":"5f0ab0c632391420eae5d54e4b63d46f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44f247f8621d7283fc8cff766ac5bad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837367,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092253283
+        }
+    ],
     "wof:id":1092253283,
-    "wof:lastmodified":1473984094,
+    "wof:lastmodified":1496897322,
     "wof:name":"HWK Transportbeton GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

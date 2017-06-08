@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5658502579,48.1119194031,14.5658502579,48.1119194031",
     "geom:latitude":48.111919,
     "geom:longitude":14.56585,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835427,
+        85632785,
+        101785729,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tviQdCXi1ZKgxjftsBHRj_48.111919_14.565850@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888982,
-    "wof:geomhash":"861e901e2ea01920b559f48f029f8cd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd45dcc29b5b9c1daeb7f7f8fbd15f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835427,
+            "locality_id":101785729,
+            "region_id":85681671,
+            "venue_id":1091833681
+        }
+    ],
     "wof:id":1091833681,
-    "wof:lastmodified":1473984049,
+    "wof:lastmodified":1496886568,
     "wof:name":"ERSTE BANK DER \u00d6STERR. SPARKASSEN AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

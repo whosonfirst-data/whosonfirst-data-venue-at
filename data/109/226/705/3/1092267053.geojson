@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3172941208,47.2797584534,13.3172941208,47.2797584534",
     "geom:latitude":47.279758,
     "geom:longitude":13.317294,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"elektro-aichhorn.sagenet.de/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837019,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R0PH32OYUiXrM3PFLYkMR_47.279758_13.317294@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908476,
-    "wof:geomhash":"119d9e1653596cd99ef0ad21b36b2ccf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5bf6312b3c70d17bde1cc7e39a11525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837019,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092267053
+        }
+    ],
     "wof:id":1092267053,
-    "wof:lastmodified":1473984681,
+    "wof:lastmodified":1496893972,
     "wof:name":"Elektrotechnik Max Aichhorn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

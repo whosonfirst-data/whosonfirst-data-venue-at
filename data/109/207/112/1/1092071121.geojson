@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2211875916,47.8204193115,13.2211875916,47.8204193115",
     "geom:latitude":47.820419,
     "geom:longitude":13.221188,
@@ -23,17 +24,33 @@
     "sg:postcode":"5322",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837151,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ndfdaf1lgmc5YF34y3TsK_47.820419_13.221188@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899352,
-    "wof:geomhash":"ff6d5995f182c7ddd937d26e9564073e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5857c0c54d24c7f10547398eab819e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837151,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092071121
+        }
+    ],
     "wof:id":1092071121,
-    "wof:lastmodified":1473983513,
+    "wof:lastmodified":1496895437,
     "wof:name":"Gasthaus zur Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0538311005,47.7716064453,13.0538311005,47.7716064453",
     "geom:latitude":47.771606,
     "geom:longitude":13.053831,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914803,
-    "wof:geomhash":"7066b9655f734dd4acfdfd933ad0a4b6",
+    "wof:geomhash":"4bc350eb12ec4619371790d0e8e64e6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1092408897
         }
     ],
     "wof:id":1092408897,
-    "wof:lastmodified":1473984966,
+    "wof:lastmodified":1496894462,
     "wof:name":"Heinrich Meidl",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

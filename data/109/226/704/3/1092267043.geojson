@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3074359894,47.1976470947,16.3074359894,47.1976470947",
     "geom:latitude":47.197647,
     "geom:longitude":16.307436,
@@ -31,17 +32,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838485,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fP0aXNEvfa1vrLQK42o8c_47.197647_16.307436@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908475,
-    "wof:geomhash":"d05ace9923558affdbe87c11788ac8d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b176a569e2c003f315979db5f682fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838485,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092267043
+        }
+    ],
     "wof:id":1092267043,
-    "wof:lastmodified":1473984681,
+    "wof:lastmodified":1496908156,
     "wof:name":"Elektro Schmelzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

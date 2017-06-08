@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6924171448,48.3595314026,13.6924171448,48.3595314026",
     "geom:latitude":48.359531,
     "geom:longitude":13.692417,
@@ -31,17 +32,33 @@
         "clothes"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836069,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TUGuPVt16bvGSBxLzKBlK_48.359531_13.692417@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905742,
-    "wof:geomhash":"785718d7f8403d4571832e2d428eaff3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d025b3dc57ec5a23df620cd51c6c7bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836069,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092204983
+        }
+    ],
     "wof:id":1092204983,
-    "wof:lastmodified":1473984546,
+    "wof:lastmodified":1496889378,
     "wof:name":"REINDL GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

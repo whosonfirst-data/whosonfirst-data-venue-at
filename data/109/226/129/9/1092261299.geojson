@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2189273834,46.626373291,14.2189273834,46.626373291",
     "geom:latitude":46.626373,
     "geom:longitude":14.218927,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908222,
-    "wof:geomhash":"b0fd5a4b670f6540f6f0b1a8379aba64",
+    "wof:geomhash":"545c17b6a2ff6a21a03dc18286eefc0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092261299
         }
     ],
     "wof:id":1092261299,
-    "wof:lastmodified":1473983623,
+    "wof:lastmodified":1496906397,
     "wof:name":"AvW Invest AG",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8775415421,47.2443618774,10.8775415421,47.2443618774",
     "geom:latitude":47.244362,
     "geom:longitude":10.877542,
@@ -23,17 +24,33 @@
     "sg:postcode":"6425",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837531,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48UMkL2L45AzObE8FRBpTL_47.244362_10.877542@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896516,
-    "wof:geomhash":"1c0da6defa861bd53c48167fc65ac26a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"417ce7769a420d58fda6bf2bbde3562b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837531,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091999617
+        }
+    ],
     "wof:id":1091999617,
-    "wof:lastmodified":1473985143,
+    "wof:lastmodified":1496898323,
     "wof:name":"System-Putz GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

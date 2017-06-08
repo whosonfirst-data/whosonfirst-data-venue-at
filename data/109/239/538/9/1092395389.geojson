@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1377544403,48.0569915771,15.1377544403,48.0569915771",
     "geom:latitude":48.056992,
     "geom:longitude":15.137754,
@@ -33,17 +34,34 @@
         "metal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835333,
+        85632785,
+        101785691,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W5fORN2ua7SXkf2clg0ZM_48.056992_15.137754@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914222,
-    "wof:geomhash":"5dd7186bd05442764f0380f1d0e48df8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"558b25e3a99d13e086e59cee7a6bfa5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835333,
+            "locality_id":101785691,
+            "region_id":85681671,
+            "venue_id":1092395389
+        }
+    ],
     "wof:id":1092395389,
-    "wof:lastmodified":1473984281,
+    "wof:lastmodified":1496886143,
     "wof:name":"Werner Ressl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9156303406,47.3017883301,10.9156303406,47.3017883301",
     "geom:latitude":47.301788,
     "geom:longitude":10.91563,
@@ -23,17 +24,33 @@
     "sg:postcode":"6416",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837433,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eqPIpykmgMfESQufvhjz8_47.301788_10.915630@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912695,
-    "wof:geomhash":"aea1fde7cab449d358cb9083bf81663f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c9a4656e239945d65ce5094b22e3147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837433,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092363775
+        }
+    ],
     "wof:id":1092363775,
-    "wof:lastmodified":1473984192,
+    "wof:lastmodified":1496897825,
     "wof:name":"Gasthof-Pension Alpina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

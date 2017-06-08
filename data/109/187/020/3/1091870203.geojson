@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5385417938,48.4386558533,14.5385417938,48.4386558533",
     "geom:latitude":48.438656,
     "geom:longitude":14.538542,
@@ -23,17 +24,33 @@
     "sg:postcode":"4292",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835075,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_262fxhBIsZaQut1ZUdxD9U_48.438656_14.538542@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890670,
-    "wof:geomhash":"ccd2ad6d49804acc752af6ad395cb6c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcf883d18ea44dce3297b90763eb142d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835075,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091870203
+        }
+    ],
     "wof:id":1091870203,
-    "wof:lastmodified":1473983341,
+    "wof:lastmodified":1496884480,
     "wof:name":"BGtech GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

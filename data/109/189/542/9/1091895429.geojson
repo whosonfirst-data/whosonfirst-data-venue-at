@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1415472031,48.0609970093,15.1415472031,48.0609970093",
     "geom:latitude":48.060997,
     "geom:longitude":15.141547,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835333,
+        85632785,
+        101785691,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F2xdYYqKMIJtBSmTqiQyk_48.060997_15.141547@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891858,
-    "wof:geomhash":"1baf903c6b42feebfd55481e1727dd68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3584dd175b4dca294fe42ec0ca326b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835333,
+            "locality_id":101785691,
+            "region_id":85681671,
+            "venue_id":1091895429
+        }
+    ],
     "wof:id":1091895429,
-    "wof:lastmodified":1473984574,
+    "wof:lastmodified":1496886144,
     "wof:name":"Maschinelle Erd- u Schotterbewegungen - Viktor Novotny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

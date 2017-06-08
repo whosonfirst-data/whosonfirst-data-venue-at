@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.264298439,47.1275520325,10.264298439,47.1275520325",
     "geom:latitude":47.127552,
     "geom:longitude":10.264298,
@@ -34,17 +35,34 @@
     ],
     "sg:website":"sport-fauner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        101826319,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UP4PY7qBfqIwpdTaAhXej_47.127552_10.264298@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892594,
-    "wof:geomhash":"46aafca58ca6d805a7b746311093b719",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b35b5a11fc362458f284df794c19db33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":101826319,
+            "region_id":85681661,
+            "venue_id":1091911175
+        }
+    ],
     "wof:id":1091911175,
-    "wof:lastmodified":1473983325,
+    "wof:lastmodified":1496896886,
     "wof:name":"Sport Fauner GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

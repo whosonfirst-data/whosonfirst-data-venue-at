@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1930561066,47.5225372314,16.1930561066,47.5225372314",
     "geom:latitude":47.522537,
     "geom:longitude":16.193056,
@@ -32,17 +33,34 @@
         "implement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836751,
+        85632785,
+        101788003,
+        102049787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OigrETCYNyohXH4e3nmoG_47.522537_16.193056@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905057,
-    "wof:geomhash":"8f81a1f3f308be8328c4ca9e608cd916",
-    "wof:hierarchy":[],
+    "wof:geomhash":"975e0ed92905333f3da5835fa8da2907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108836751,
+            "locality_id":101788003,
+            "region_id":85681671,
+            "venue_id":1092190641
+        }
+    ],
     "wof:id":1092190641,
-    "wof:lastmodified":1473983432,
+    "wof:lastmodified":1496892617,
     "wof:name":"Peter Buchegger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4386100769,48.1319961548,16.4386100769,48.1319961548",
     "geom:latitude":48.131996,
     "geom:longitude":16.43861,
@@ -29,10 +30,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898405,
-        102049843
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894909,
-    "wof:geomhash":"28134942325ac47bf365a2842f0af146",
+    "wof:geomhash":"4d88ebbd8adce256ede15ffbdb976790",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898405,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091962137
         }
     ],
     "wof:id":1091962137,
-    "wof:lastmodified":1473983631,
+    "wof:lastmodified":1496890294,
     "wof:name":"Ambiente - Grillspezialit\u00e4ten",
     "wof:parent_id":85898405,
     "wof:placetype":"venue",

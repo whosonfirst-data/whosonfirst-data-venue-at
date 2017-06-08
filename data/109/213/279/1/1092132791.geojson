@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.359128952,47.1757316589,16.359128952,47.1757316589",
     "geom:latitude":47.175732,
     "geom:longitude":16.359129,
@@ -23,17 +24,33 @@
     "sg:postcode":"7512",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838759,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tqI1iiTOVhNPkcD40sEgz_47.175732_16.359129@1306268274"
     },
     "wof:country":"AT",
     "wof:created":1473902394,
-    "wof:geomhash":"cb53dfbcd866b64ca49a0e51a7a952e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecaa2f19a78bd0bec25824753092779c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838759,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092132791
+        }
+    ],
     "wof:id":1092132791,
-    "wof:lastmodified":1473983913,
+    "wof:lastmodified":1496909237,
     "wof:name":"Wasseraufbereitungsanlage Kohfidisch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6595077515,47.167049408,14.6595077515,47.167049408",
     "geom:latitude":47.167049,
     "geom:longitude":14.659508,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839401,
+        85632785,
+        101834243,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5D5nKrk1E4cLjKC6Ld015W_47.167049_14.659508@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895398,
-    "wof:geomhash":"469c328f030c5a6d91dd14f7e9e37ceb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3816cf875aa989ed53bf2fa72cf9dfb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839401,
+            "locality_id":101834243,
+            "region_id":85681687,
+            "venue_id":1091973691
+        }
+    ],
     "wof:id":1091973691,
-    "wof:lastmodified":1473984119,
+    "wof:lastmodified":1496914018,
     "wof:name":"HANS PIWONKA GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

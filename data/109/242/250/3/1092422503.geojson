@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7049007416,47.104309082,15.7049007416,47.104309082",
     "geom:latitude":47.104309,
     "geom:longitude":15.704901,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"www.anglerparadies.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838867,
+        85632785,
+        101789137,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PjCOsd3HimZ3NrHLwBtL7_47.104309_15.704901@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915556,
-    "wof:geomhash":"73b1d74ba4c8d547482a1d99be2692d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"786aee50575fcd8ec317eec6904c5d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838867,
+            "locality_id":101789137,
+            "region_id":85681687,
+            "venue_id":1092422503
+        }
+    ],
     "wof:id":1092422503,
-    "wof:lastmodified":1473983810,
+    "wof:lastmodified":1496909737,
     "wof:name":"Anglerparadies Deutschmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

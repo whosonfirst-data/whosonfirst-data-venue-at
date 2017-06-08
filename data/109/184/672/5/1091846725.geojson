@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0035867691,47.3007087708,11.0035867691,47.3007087708",
     "geom:latitude":47.300709,
     "geom:longitude":11.003587,
@@ -23,17 +24,33 @@
     "sg:postcode":"6414",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837423,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37CyiNxc2DNAKZdrKMzaFh_47.300709_11.003587@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889544,
-    "wof:geomhash":"e139349bae1c2745b7f3e920788113ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7d85dd5e2d8539ce3bc0c195c2dea82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837423,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091846725
+        }
+    ],
     "wof:id":1091846725,
-    "wof:lastmodified":1473984554,
+    "wof:lastmodified":1496897803,
     "wof:name":"TOPI Komfort-Wohnbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

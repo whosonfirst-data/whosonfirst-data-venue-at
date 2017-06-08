@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1965751648,47.3191642761,13.1965751648,47.3191642761",
     "geom:latitude":47.319164,
     "geom:longitude":13.196575,
@@ -23,17 +24,33 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PeYoaDXgIaLNWQmYLPhee_47.319164_13.196575@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909682,
-    "wof:geomhash":"adba97ca005dc9b2d54d55a7efad8fa0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf714c6f448e99142fa1224623d1dfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092295721
+        }
+    ],
     "wof:id":1092295721,
-    "wof:lastmodified":1473984660,
+    "wof:lastmodified":1496894044,
     "wof:name":"Haus Schartner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

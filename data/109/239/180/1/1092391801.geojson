@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4681186676,48.29454422,16.4681186676,48.29454422",
     "geom:latitude":48.294544,
     "geom:longitude":16.468119,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914045,
-    "wof:geomhash":"ac682b006a8e960faab02a0ae3969097",
+    "wof:geomhash":"f1161c38c4472f6afd3fd45b1f13aa36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092391801
         }
     ],
     "wof:id":1092391801,
-    "wof:lastmodified":1473983578,
+    "wof:lastmodified":1496890144,
     "wof:name":"Postamt 2201 Gerasdorf bei Wien",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

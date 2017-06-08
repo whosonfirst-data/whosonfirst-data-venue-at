@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0789394379,47.7853469849,13.0789394379,47.7853469849",
     "geom:latitude":47.785347,
     "geom:longitude":13.078939,
@@ -24,12 +25,14 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
-        85898461,
-        102049779,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681,
+        85898461,
+        101748065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,27 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473915423,
-    "wof:geomhash":"e2478960e08cb3f40dc39ee986e88210",
+    "wof:geomhash":"ed66ddd1126028d1a6c2a8a4e0aafaaa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
-            "neighbourhood_id":85898461,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092419501
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
-            "neighbourhood_id":85898469,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
+            "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092419501
         }
     ],
     "wof:id":1092419501,
-    "wof:lastmodified":1473985137,
+    "wof:lastmodified":1496894788,
     "wof:name":"SK Film- und FernsehproduktionsgesmbH",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.350985527,48.3728637695,14.350985527,48.3728637695",
     "geom:latitude":48.372864,
     "geom:longitude":14.350986,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898433,
-        102049881
+        102191581,
+        1108836139,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890451,
-    "wof:geomhash":"4fc62fc675e9b36881ff5a9622dc8553",
+    "wof:geomhash":"2de8e932f5e344520a5ea76d50714896",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":-1,
             "neighbourhood_id":85898433,
             "region_id":85681677,
             "venue_id":1091865275
         }
     ],
     "wof:id":1091865275,
-    "wof:lastmodified":1473984635,
+    "wof:lastmodified":1496889717,
     "wof:name":"B\u00fccherei-Schulbibliothek",
     "wof:parent_id":85898433,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9219179153,47.9906425476,13.9219179153,47.9906425476",
     "geom:latitude":47.990643,
     "geom:longitude":13.921918,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"www.taxi-attwenger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        101785621,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HE9Q9uJPakjqGbEvUaJmW_47.990643_13.921918@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906398,
-    "wof:geomhash":"6b84a8e1bbb657196b0b0aa41cab284b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"095183656d437eac7eca9838758d3c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":101785621,
+            "region_id":85681677,
+            "venue_id":1092220005
+        }
+    ],
     "wof:id":1092220005,
-    "wof:lastmodified":1473983307,
+    "wof:lastmodified":1496885226,
     "wof:name":"Attwenger Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

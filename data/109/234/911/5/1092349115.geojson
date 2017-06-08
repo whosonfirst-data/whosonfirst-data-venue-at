@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2243309021,47.944026947,13.2243309021,47.944026947",
     "geom:latitude":47.944027,
     "geom:longitude":13.224331,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"fronfeste.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        101786779,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TzfE26qJF2ULsRyyCsitg_47.944027_13.224331@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912031,
-    "wof:geomhash":"e25c37d461493492a1319a9bb602070a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d51e3e40b9beeb8c9c39e8f225f48284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":101786779,
+            "region_id":85681681,
+            "venue_id":1092349115
+        }
+    ],
     "wof:id":1092349115,
-    "wof:lastmodified":1473985029,
+    "wof:lastmodified":1496895529,
     "wof:name":"Museum in der Fronfeste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

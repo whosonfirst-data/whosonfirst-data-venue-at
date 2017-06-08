@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1861333847,47.3573265076,10.1861333847,47.3573265076",
     "geom:latitude":47.357327,
     "geom:longitude":10.186133,
@@ -23,17 +24,34 @@
     "sg:postcode":"6991",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101827491,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tlMIJx2yOx2gxzJoztLBT_47.357327_10.186133@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892385,
-    "wof:geomhash":"984d328c041647e6820e73fbf9213a9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe9c228879bca2547855d330c7354271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101827491,
+            "region_id":85681649,
+            "venue_id":1091905807
+        }
+    ],
     "wof:id":1091905807,
-    "wof:lastmodified":1473984510,
+    "wof:lastmodified":1496901547,
     "wof:name":"Schuster Handels GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7069826126,47.3456306458,11.7069826126,47.3456306458",
     "geom:latitude":47.345631,
     "geom:longitude":11.706983,
@@ -23,17 +24,34 @@
     "sg:postcode":"6130",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y5hEhzDe8ej9sjA3aHoxa_47.345631_11.706983@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914125,
-    "wof:geomhash":"cb2cdf0da3ac4ca25342381cb4f885c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95739edb338fb8cd1562874aa911a200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1092393223
+        }
+    ],
     "wof:id":1092393223,
-    "wof:lastmodified":1473983774,
+    "wof:lastmodified":1496900103,
     "wof:name":"Postamt 6130 Schwaz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

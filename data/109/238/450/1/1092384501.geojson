@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2755184174,47.0200767517,15.2755184174,47.0200767517",
     "geom:latitude":47.020077,
     "geom:longitude":15.275518,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839187,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SCzF9w7qXPe7ne6qvMFia_47.020077_15.275518@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913658,
-    "wof:geomhash":"b8316225551ba1c951337ff6d05db2ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fff958fe208542207ff77055ce70db9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839187,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092384501
+        }
+    ],
     "wof:id":1092384501,
-    "wof:lastmodified":1473984399,
+    "wof:lastmodified":1496911793,
     "wof:name":"Restaurant-Pizzeria zum Pflasterstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

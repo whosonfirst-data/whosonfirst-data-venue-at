@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1936435699,47.8947219849,13.1936435699,47.8947219849",
     "geom:latitude":47.894722,
     "geom:longitude":13.193644,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837147,
+        85632785,
+        101786775,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z8S7x9ufzKVkzjExmy6Ip_47.894722_13.193644@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892661,
-    "wof:geomhash":"6457242b43622f06109e09470c8ee339",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8758d8688484c49b2361666f8bd18a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837147,
+            "locality_id":101786775,
+            "region_id":85681681,
+            "venue_id":1091912591
+        }
+    ],
     "wof:id":1091912591,
-    "wof:lastmodified":1473983556,
+    "wof:lastmodified":1496895405,
     "wof:name":"bauBit Software & Service GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

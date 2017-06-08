@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0203208923,48.3205070496,16.0203208923,48.3205070496",
     "geom:latitude":48.320507,
     "geom:longitude":16.020321,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"eurofluid.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835893,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j9kaYMHWn55jgq4cJ9faD_48.320507_16.020321@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898663,
-    "wof:geomhash":"7b8e8a9d95c9e8f8fc0c45d07af12642",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26ccf8f8e76fb57ffc025e8851ae9d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835893,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092054013
+        }
+    ],
     "wof:id":1092054013,
-    "wof:lastmodified":1473984118,
+    "wof:lastmodified":1496888775,
     "wof:name":"Eurofluid Hydraulik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

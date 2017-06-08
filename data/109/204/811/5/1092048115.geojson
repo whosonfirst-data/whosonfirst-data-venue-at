@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9292821884,47.4514389038,13.9292821884,47.4514389038",
     "geom:latitude":47.451439,
     "geom:longitude":13.929282,
@@ -28,17 +29,33 @@
     "sg:postcode":"8962",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838899,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NuJwMZsZltDnkNBh8hA2p_47.451439_13.929282@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898437,
-    "wof:geomhash":"8fe89dcc18637ad6ebed9d6da7a3f209",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8979f124d9d3dadb3b6f99e5cda20f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838899,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092048115
+        }
+    ],
     "wof:id":1092048115,
-    "wof:lastmodified":1473984226,
+    "wof:lastmodified":1496910018,
     "wof:name":"Hotel Reisslerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6994876862,47.4727630615,10.6994876862,47.4727630615",
     "geom:latitude":47.472763,
     "geom:longitude":10.699488,
@@ -23,17 +24,34 @@
     "sg:postcode":"6600",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837751,
+        85632785,
+        101834257,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VntzNDzCY741GSMdEpcWd_47.472763_10.699488@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904897,
-    "wof:geomhash":"64bf4edafec72b50e9599207e60dd7f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac2e37c234c76274f77d85386dd9a141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837751,
+            "locality_id":101834257,
+            "region_id":85681661,
+            "venue_id":1092187039
+        }
+    ],
     "wof:id":1092187039,
-    "wof:lastmodified":1473984742,
+    "wof:lastmodified":1496900034,
     "wof:name":"Praxis f\u00fcr Logop\u00e4die u Ganzheitliche Harmonisierung Gerda Habicher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

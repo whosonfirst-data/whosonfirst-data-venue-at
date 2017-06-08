@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1639299393,46.9657096863,10.1639299393,46.9657096863",
     "geom:latitude":46.96571,
     "geom:longitude":10.16393,
@@ -28,17 +29,33 @@
     "sg:postcode":"6563",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837293,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sb1pHS3DkkaerPkkm9vTl_46.965710_10.163930@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898351,
-    "wof:geomhash":"0153f83e422423e641ad4da4cead9e4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"727b618d46bf27f97546d607c95f0f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837293,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092045905
+        }
+    ],
     "wof:id":1092045905,
-    "wof:lastmodified":1473983861,
+    "wof:lastmodified":1496896731,
     "wof:name":"Hotel Bel Ami",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.718621254,48.0084953308,13.718621254,48.0084953308",
     "geom:latitude":48.008495,
     "geom:longitude":13.718621,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836425,
+        85632785,
+        101833167,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZirswDckl1rUoWvkfddo5_48.008495_13.718621@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892755,
-    "wof:geomhash":"0bdd44b994d23566806f70aadca874e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da2d9ad91090efc878db0ad8bc38bb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836425,
+            "locality_id":101833167,
+            "region_id":85681677,
+            "venue_id":1091914161
+        }
+    ],
     "wof:id":1091914161,
-    "wof:lastmodified":1473983866,
+    "wof:lastmodified":1496891027,
     "wof:name":"ISH-Industrielle Soft- u Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

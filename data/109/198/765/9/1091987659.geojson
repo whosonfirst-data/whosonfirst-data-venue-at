@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3178911209,47.9009857178,13.3178911209,47.9009857178",
     "geom:latitude":47.900986,
     "geom:longitude":13.317891,
@@ -36,17 +37,33 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836533,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oYmWiGrztT1EjEciVvc10_47.900986_13.317891@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473895999,
-    "wof:geomhash":"e87b5b94a522f9a9871463e08b233695",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a31d1e1dd8369406b333d6d3fe543abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836533,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091987659
+        }
+    ],
     "wof:id":1091987659,
-    "wof:lastmodified":1473984337,
+    "wof:lastmodified":1496891515,
     "wof:name":"Brandlmayr Haustechnik Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

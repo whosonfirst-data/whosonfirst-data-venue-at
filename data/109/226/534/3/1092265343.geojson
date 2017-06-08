@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8452196121,46.8393249512,14.8452196121,46.8393249512",
     "geom:latitude":46.839325,
     "geom:longitude":14.84522,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        101790087,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jNkC89fLNihE74yGVMSlS_46.839325_14.845220@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908397,
-    "wof:geomhash":"d7b3d810b3342aa11e462a0a20c01a63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18a5a76b49a9e657aaf9c80891463097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":101790087,
+            "region_id":85681655,
+            "venue_id":1092265343
+        }
+    ],
     "wof:id":1092265343,
-    "wof:lastmodified":1473984452,
+    "wof:lastmodified":1496905254,
     "wof:name":"Elektro Krassnig Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

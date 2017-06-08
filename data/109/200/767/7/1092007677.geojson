@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3405542374,47.482963562,15.3405542374,47.482963562",
     "geom:latitude":47.482964,
     "geom:longitude":15.340554,
@@ -32,17 +33,33 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839313,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5azQ9fFhs8UK3bFpgKQF3q_47.482964_15.340554@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896852,
-    "wof:geomhash":"fcd17c8244911b447ed13bc588fe8060",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6acba82303daa65aeb52c03b46c9713a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839313,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092007677
+        }
+    ],
     "wof:id":1092007677,
-    "wof:lastmodified":1473984808,
+    "wof:lastmodified":1496912759,
     "wof:name":"Rupert Winter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4825572968,48.300163269,16.4825572968,48.300163269",
     "geom:latitude":48.300163,
     "geom:longitude":16.482557,
@@ -25,10 +26,13 @@
     "sg:website":"web.utanet.at/intertech",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909363,
-    "wof:geomhash":"0a214cdfa606e0dc6f4202fcf954393b",
+    "wof:geomhash":"71f94012fdb0120eb44fbe2debb1f0c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092287975
         }
     ],
     "wof:id":1092287975,
-    "wof:lastmodified":1473984975,
+    "wof:lastmodified":1496890126,
     "wof:name":"InterTech HandelsGmbH",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

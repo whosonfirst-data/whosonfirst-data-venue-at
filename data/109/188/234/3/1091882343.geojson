@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9848899841,47.8120117188,12.9848899841,47.8120117188",
     "geom:latitude":47.812012,
     "geom:longitude":12.98489,
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898521,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        101913413,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +45,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891233,
-    "wof:geomhash":"7ad5e92ebb3b02a732a633190a938a9a",
+    "wof:geomhash":"6449a956d91a54ec6a381dd35642d2ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101913413,
             "neighbourhood_id":85898521,
             "region_id":85681681,
             "venue_id":1091882343
         }
     ],
     "wof:id":1091882343,
-    "wof:lastmodified":1473983831,
+    "wof:lastmodified":1496895739,
     "wof:name":"HOTEL GASTHOF KAMML",
     "wof:parent_id":85898521,
     "wof:placetype":"venue",

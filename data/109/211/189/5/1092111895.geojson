@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1783590317,47.3573150635,11.1783590317,47.3573150635",
     "geom:latitude":47.357315,
     "geom:longitude":11.178359,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Rbu61pbcZ4F3xvf8X36ds_47.357315_11.178359@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901379,
-    "wof:geomhash":"1259d14d3b1bf2c968e9de0619088faf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e548e20a32b691c3a0d3cf25e24e4e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092111895
+        }
+    ],
     "wof:id":1092111895,
-    "wof:lastmodified":1473983717,
+    "wof:lastmodified":1496898436,
     "wof:name":"Durnthaler Horst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

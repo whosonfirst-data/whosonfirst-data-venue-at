@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0599546432,47.3228912354,11.0599546432,47.3228912354",
     "geom:latitude":47.322891,
     "geom:longitude":11.059955,
@@ -23,17 +24,33 @@
     "sg:postcode":"6410",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R5ecP89HgK2woLEXctJ0K_47.322891_11.059955@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899444,
-    "wof:geomhash":"a95b7bb9dfbe3f4626d806c085381e42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"006f97182f6a35a1c53b3c621a9d05c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092073349
+        }
+    ],
     "wof:id":1092073349,
-    "wof:lastmodified":1473983944,
+    "wof:lastmodified":1496898847,
     "wof:name":"Gasthof Lehen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

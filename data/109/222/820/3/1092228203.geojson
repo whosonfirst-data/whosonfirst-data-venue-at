@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2177495956,48.1961784363,14.2177495956,48.1961784363",
     "geom:latitude":48.196178,
     "geom:longitude":14.21775,
@@ -31,17 +32,33 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835557,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Xt8KbY2st7Oi6YDLltuGP_48.196178_14.217750@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906750,
-    "wof:geomhash":"c386e728735a3f073ab7b8511973b3fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee938a1c8584b743344458560ec9449e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835557,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092228203
+        }
+    ],
     "wof:id":1092228203,
-    "wof:lastmodified":1473985210,
+    "wof:lastmodified":1496887345,
     "wof:name":"NEUHAUSER VERKEHRSTECHNIK GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0824451447,47.7774467468,13.0824451447,47.7774467468",
     "geom:latitude":47.777447,
     "geom:longitude":13.082445,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897736,
-    "wof:geomhash":"1976c200d94459b314e7c284c0a9e0fe",
+    "wof:geomhash":"e6dbf766292eea91df0c5559e26d977e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092030315
         }
     ],
     "wof:id":1092030315,
-    "wof:lastmodified":1473983376,
+    "wof:lastmodified":1496894520,
     "wof:name":"AUMED VertriebsgmbH",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

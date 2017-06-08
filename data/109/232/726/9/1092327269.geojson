@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7950382233,47.309551239,12.7950382233,47.309551239",
     "geom:latitude":47.309551,
     "geom:longitude":12.795038,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T8XiWGGtRLQI5eEJmGJpD_47.309551_12.795038@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911106,
-    "wof:geomhash":"409248e4001cb098af1aa2ca0432d379",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b904ad7ed1622f51bfb012cf2511a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092327269
+        }
+    ],
     "wof:id":1092327269,
-    "wof:lastmodified":1473985063,
+    "wof:lastmodified":1496896518,
     "wof:name":"Feichtinger Wolfgang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

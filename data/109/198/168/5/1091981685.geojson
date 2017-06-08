@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5760288239,48.4384803772,15.5760288239,48.4384803772",
     "geom:latitude":48.43848,
     "geom:longitude":15.576029,
@@ -23,17 +24,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.eybl-international.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835443,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TCHnlKjzfvEEX11q0K6vj_48.438480_15.576029@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895765,
-    "wof:geomhash":"f35392bd9c6f265974789ef1a334f19a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98b27603c5215d51e08ae914c40bdde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835443,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091981685
+        }
+    ],
     "wof:id":1091981685,
-    "wof:lastmodified":1473983409,
+    "wof:lastmodified":1496886648,
     "wof:name":"Eybl International AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

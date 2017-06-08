@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.416639328,47.2578811646,11.416639328,47.2578811646",
     "geom:latitude":47.257881,
     "geom:longitude":11.416639,
@@ -34,10 +35,13 @@
     "sg:website":"www.tirol.com/elkinet",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896817,
-    "wof:geomhash":"398546d594701c7d388203d52cbfaaf6",
+    "wof:geomhash":"dc03852812e2c04b8e0659f6411406df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092006769
         }
     ],
     "wof:id":1092006769,
-    "wof:lastmodified":1473984603,
+    "wof:lastmodified":1496899265,
     "wof:name":"Eltac Nogler & Daum KG System ELKINET",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

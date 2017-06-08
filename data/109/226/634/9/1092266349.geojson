@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0083036423,48.1511993408,14.0083036423,48.1511993408",
     "geom:latitude":48.151199,
     "geom:longitude":14.008304,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gbf1XmVfN3yktfcZ5i35h_48.151199_14.008304@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908443,
-    "wof:geomhash":"47a0196f986f190adedfd02747180177",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b96d9b6dcba72470c83e905571a16b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092266349
+        }
+    ],
     "wof:id":1092266349,
-    "wof:lastmodified":1473984555,
+    "wof:lastmodified":1496881937,
     "wof:name":"FERNHEIZKRAFTWERK DES ELEKTRIZIT\u00c4TSWERK WELS AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1640443802,47.5877761841,12.1640443802,47.5877761841",
     "geom:latitude":47.587776,
     "geom:longitude":12.164044,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"kneissl.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02LyYfBt2Iv0Il6UKaCfGN_47.587776_12.164044@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473887805,
-    "wof:geomhash":"d2d581c5640bbd7b49f5ab59cd5d78f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8f67cb2e37554440c8da1efaf9c4ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1091807609
+        }
+    ],
     "wof:id":1091807609,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496897625,
     "wof:name":"Kneissl Tirol GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0809183121,47.7833938599,13.0809183121,47.7833938599",
     "geom:latitude":47.783394,
     "geom:longitude":13.080918,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892221,
-    "wof:geomhash":"f96d9d7adc041ab3aae2775c8a5ba219",
+    "wof:geomhash":"aba1eb112a6bc627c05b9e1309bdab2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1091902145
         }
     ],
     "wof:id":1091902145,
-    "wof:lastmodified":1473983733,
+    "wof:lastmodified":1496894831,
     "wof:name":"Modeatelier Baumgartner",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

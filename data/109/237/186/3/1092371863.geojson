@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5008182526,47.0897750854,15.5008182526,47.0897750854",
     "geom:latitude":47.089775,
     "geom:longitude":15.500818,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913101,
-    "wof:geomhash":"0f08c10a6b39bf064f70dd1a59c0d0e2",
+    "wof:geomhash":"c1418b7a388c809d81aa093afeb0c090",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092371863
         }
     ],
     "wof:id":1092371863,
-    "wof:lastmodified":1473983859,
+    "wof:lastmodified":1496913171,
     "wof:name":"Pension Rosina",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1601552963,47.3371200562,10.1601552963,47.3371200562",
     "geom:latitude":47.33712,
     "geom:longitude":10.160155,
@@ -23,17 +24,33 @@
     "sg:postcode":"6993",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HCHc125gvrsss9jP0dsMs_47.337120_10.160155@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913015,
-    "wof:geomhash":"363a4761ada15722914b41d6f20bb81b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bff729635251e7b13391f087f1d7dd30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092369961
+        }
+    ],
     "wof:id":1092369961,
-    "wof:lastmodified":1473985328,
+    "wof:lastmodified":1496901534,
     "wof:name":"Pension Berghaus Mohr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

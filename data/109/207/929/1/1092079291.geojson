@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3334197998,47.4289741516,12.3334197998,47.4289741516",
     "geom:latitude":47.428974,
     "geom:longitude":12.33342,
@@ -23,17 +24,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XgHJNUnoDkXqnk0GkGRGS_47.428974_12.333420@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899727,
-    "wof:geomhash":"b05af1cefcb2388e39ea33e389a9eb0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5763e2787f898360152152dd9ecc668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092079291
+        }
+    ],
     "wof:id":1092079291,
-    "wof:lastmodified":1473985030,
+    "wof:lastmodified":1496899133,
     "wof:name":"Maierl Alpengasthof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

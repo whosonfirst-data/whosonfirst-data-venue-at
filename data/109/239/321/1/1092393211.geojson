@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5045061111,47.2499237061,11.5045061111,47.2499237061",
     "geom:latitude":47.249924,
     "geom:longitude":11.504506,
@@ -23,17 +24,34 @@
     "sg:postcode":"6074",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837663,
+        85632785,
+        101789087,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hhQNfrhWs9EkmL0DlVigg_47.249924_11.504506@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914125,
-    "wof:geomhash":"17de08ea2873c7f31e36608cc38e3823",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb3401f12dc146f0dea1924a612770c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837663,
+            "locality_id":101789087,
+            "region_id":85681661,
+            "venue_id":1092393211
+        }
+    ],
     "wof:id":1092393211,
-    "wof:lastmodified":1473983756,
+    "wof:lastmodified":1496899045,
     "wof:name":"Postamt 6074 Rinn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

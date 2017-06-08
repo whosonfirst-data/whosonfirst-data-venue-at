@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8944978714,46.853969574,13.8944978714,46.853969574",
     "geom:latitude":46.85397,
     "geom:longitude":13.894498,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838135,
+        85632785,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1luhcwSCjzTw3f7LsB4W2h_46.853970_13.894498@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897080,
-    "wof:geomhash":"4317ecf63dc6465ae4bfe303005b1f0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6aa516af622dd06b3430a7b1ff00c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838135,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092013377
+        }
+    ],
     "wof:id":1092013377,
-    "wof:lastmodified":1473983568,
+    "wof:lastmodified":1496905504,
     "wof:name":"Bl\u00fcm-Bau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

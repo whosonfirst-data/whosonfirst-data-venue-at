@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3487167358,47.8572731018,13.3487167358,47.8572731018",
     "geom:latitude":47.857273,
     "geom:longitude":13.348717,
@@ -33,17 +34,34 @@
         "spielplatzanlagenbau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836451,
+        85632785,
+        101785673,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ZyI7doPSIWUN1vsbTWuS_47.857273_13.348717@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893256,
-    "wof:geomhash":"db32c87d34cca1227b75a2066799b1d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51b2826f3f907d1bdfd24fb99c188330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836451,
+            "locality_id":101785673,
+            "region_id":85681677,
+            "venue_id":1091925809
+        }
+    ],
     "wof:id":1091925809,
-    "wof:lastmodified":1473984311,
+    "wof:lastmodified":1496891140,
     "wof:name":"Golf Group International GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

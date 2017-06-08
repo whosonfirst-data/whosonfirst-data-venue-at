@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6094837189,47.0364761353,10.6094837189,47.0364761353",
     "geom:latitude":47.036476,
     "geom:longitude":10.609484,
@@ -23,17 +24,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.serfausfissladis.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837331,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OBWRNxiqI8SmGTGrzNSz7_47.036476_10.609484@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894829,
-    "wof:geomhash":"83e0bc8ca28932c095e743a11b0b2c43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70c920467450788a379fd2c778de46e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837331,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091960153
+        }
+    ],
     "wof:id":1091960153,
-    "wof:lastmodified":1473983347,
+    "wof:lastmodified":1496896955,
     "wof:name":"Serfaus Fiss Ladis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

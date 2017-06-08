@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.373175621,46.6321792603,14.373175621,46.6321792603",
     "geom:latitude":46.632179,
     "geom:longitude":14.373176,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889733,
-    "wof:geomhash":"5bbbe7e350dc94a08f82be172bbae240",
+    "wof:geomhash":"40281132a145324b0f37174bf6e48fcf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1091850353
         }
     ],
     "wof:id":1091850353,
-    "wof:lastmodified":1473983332,
+    "wof:lastmodified":1496905723,
     "wof:name":"Steiner Bau GesmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

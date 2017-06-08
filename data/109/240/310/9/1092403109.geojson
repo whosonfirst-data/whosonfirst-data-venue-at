@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3329257965,47.0626983643,16.3329257965,47.0626983643",
     "geom:latitude":47.062698,
     "geom:longitude":16.332926,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838483,
+        85632785,
+        101789059,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DMVCnyrKHWC9L0d796YMv_47.062698_16.332926@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914543,
-    "wof:geomhash":"2c4f6edf5ddfc581970010fca1f217c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ece0fab1d2acd97d18979ee4ea2dfd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838483,
+            "locality_id":101789059,
+            "region_id":85681651,
+            "venue_id":1092403109
+        }
+    ],
     "wof:id":1092403109,
-    "wof:lastmodified":1473983930,
+    "wof:lastmodified":1496908149,
     "wof:name":"Public Suxess",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

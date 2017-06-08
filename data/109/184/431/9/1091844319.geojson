@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0877752304,47.6649742126,13.0877752304,47.6649742126",
     "geom:latitude":47.664974,
     "geom:longitude":13.087775,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837091,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06eUUTaG6gqC73UMQ3Ifms_47.664974_13.087775@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889448,
-    "wof:geomhash":"35b3b9bcfdc1b0b8c674b554da3e8d53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c445e6f31717a010bcc93039cc9aed5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837091,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091844319
+        }
+    ],
     "wof:id":1091844319,
-    "wof:lastmodified":1473984131,
+    "wof:lastmodified":1496894980,
     "wof:name":"AMC-Competent HandelsgmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

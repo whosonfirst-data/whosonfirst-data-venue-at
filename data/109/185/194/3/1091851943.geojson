@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1622018814,48.1528015137,14.1622018814,48.1528015137",
     "geom:latitude":48.152802,
     "geom:longitude":14.162202,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835517,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lRVl6qBwFsQRhVF5hlMfF_48.152802_14.162202@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889801,
-    "wof:geomhash":"5e03d7f8098879457d3f042400e97a89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d2051b95618e87067e686732edcc9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835517,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091851943
+        }
+    ],
     "wof:id":1091851943,
-    "wof:lastmodified":1473983683,
+    "wof:lastmodified":1496886976,
     "wof:name":"Rathner Tischlerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

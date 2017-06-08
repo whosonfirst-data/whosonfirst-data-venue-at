@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4102363586,48.3020896912,16.4102363586,48.3020896912",
     "geom:latitude":48.30209,
     "geom:longitude":16.410236,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908543,
-    "wof:geomhash":"2768f340a35760270f7ec0024aac9108",
+    "wof:geomhash":"2b5dd5362745ff5e9533a87983e784dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092268725
         }
     ],
     "wof:id":1092268725,
-    "wof:lastmodified":1473984958,
+    "wof:lastmodified":1496903490,
     "wof:name":"WIENSTROM GmbH - Kunden- und St\u00f6rungsdienst Stammersdorf",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

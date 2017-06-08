@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2684688568,48.1793022156,16.2684688568,48.1793022156",
     "geom:latitude":48.179302,
     "geom:longitude":16.268469,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902732,
-    "wof:geomhash":"98b3e8b6a4f7922e58ee9913904d0611",
+    "wof:geomhash":"2c656b6bf82babdb5cfcea4c5f552ca1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092139903
         }
     ],
     "wof:id":1092139903,
-    "wof:lastmodified":1473985251,
+    "wof:lastmodified":1496928434,
     "wof:name":"KINAUER-Training",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

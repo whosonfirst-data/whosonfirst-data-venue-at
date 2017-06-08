@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2186508179,47.8123321533,16.2186508179,47.8123321533",
     "geom:latitude":47.812332,
     "geom:longitude":16.218651,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hU9yVQogQK4ABorHr1x5T_47.812332_16.218651@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473887785,
-    "wof:geomhash":"0b0776cb48ff604a665710ba4a297101",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75409cfc95759a725263ea7425f9addb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1091807301
+        }
+    ],
     "wof:id":1091807301,
-    "wof:lastmodified":1473983908,
+    "wof:lastmodified":1496884026,
     "wof:name":"DR Software GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

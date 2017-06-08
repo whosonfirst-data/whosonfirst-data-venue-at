@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3960475922,47.2580528259,11.3960475922,47.2580528259",
     "geom:latitude":47.258053,
     "geom:longitude":11.396048,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892913,
-    "wof:geomhash":"8058176f8c29fb9227d5d88f607172ee",
+    "wof:geomhash":"54384a72ccce135d26aa37ce37e9de4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091917967
         }
     ],
     "wof:id":1091917967,
-    "wof:lastmodified":1473984519,
+    "wof:lastmodified":1496899368,
     "wof:name":"Sonnenstudio Sun Beach",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

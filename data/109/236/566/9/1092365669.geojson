@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1918001175,47.3583450317,10.1918001175,47.3583450317",
     "geom:latitude":47.358345,
     "geom:longitude":10.1918,
@@ -23,17 +24,33 @@
     "sg:postcode":"6991",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Pnfgl609BbdLyGRjR4Sbc_47.358345_10.191800@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912784,
-    "wof:geomhash":"c58a84b059db956dd835c1a0f1036b44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c247e6d8e8eea6c1783bfaa4222999f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092365669
+        }
+    ],
     "wof:id":1092365669,
-    "wof:lastmodified":1473984684,
+    "wof:lastmodified":1496901552,
     "wof:name":"Haus B\u00f6hringer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

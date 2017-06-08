@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7914142609,48.0110244751,13.7914142609,48.0110244751",
     "geom:latitude":48.011024,
     "geom:longitude":13.791414,
@@ -31,17 +32,33 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836433,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LvPbBxeHNFS1G7Evp7XnP_48.011024_13.791414@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910219,
-    "wof:geomhash":"248d863d7f6f62148b985ba677120c5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d587a1835d4739a42ea8959cd220dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836433,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092306685
+        }
+    ],
     "wof:id":1092306685,
-    "wof:lastmodified":1473984850,
+    "wof:lastmodified":1496891039,
     "wof:name":"Lieferasphalt Ges.m.b.H. & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

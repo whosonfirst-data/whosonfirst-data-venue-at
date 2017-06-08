@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2645359039,47.4078788757,15.2645359039,47.4078788757",
     "geom:latitude":47.407879,
     "geom:longitude":15.264536,
@@ -23,17 +24,34 @@
     "sg:postcode":"8600",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839323,
+        85632785,
+        101834337,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hrZFQ1BDyDv4DyiXBuxwj_47.407879_15.264536@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901236,
-    "wof:geomhash":"dc74ba4fa1413c6097bb5d41ca90e04f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95f273fd294a16dadd0d2b59c60b5831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839323,
+            "locality_id":101834337,
+            "region_id":85681687,
+            "venue_id":1092108873
+        }
+    ],
     "wof:id":1092108873,
-    "wof:lastmodified":1473985032,
+    "wof:lastmodified":1496912895,
     "wof:name":"Zahnambulatorium d Steierm\u00e4rk Gebietskrankenkasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

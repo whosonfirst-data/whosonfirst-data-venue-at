@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2498407364,47.8356246948,13.2498407364,47.8356246948",
     "geom:latitude":47.835625,
     "geom:longitude":13.249841,
@@ -23,17 +24,33 @@
     "sg:postcode":"5303",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837187,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bl2GYLEjazcU1QGQoGjGw_47.835625_13.249841@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912075,
-    "wof:geomhash":"c201874a84e0117ed5e2ad01b04b1495",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd10f111d0277dcbd0db199e8237a681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837187,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092349959
+        }
+    ],
     "wof:id":1092349959,
-    "wof:lastmodified":1473985184,
+    "wof:lastmodified":1496895713,
     "wof:name":"Die Radauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

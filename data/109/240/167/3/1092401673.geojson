@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3982210159,47.2849617004,11.3982210159,47.2849617004",
     "geom:latitude":47.284962,
     "geom:longitude":11.398221,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914485,
-    "wof:geomhash":"71681e28d9cb8808861605cde768e190",
+    "wof:geomhash":"d56cc5f1d5438f6d56b0cf75b75bb55d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092401673
         }
     ],
     "wof:id":1092401673,
-    "wof:lastmodified":1473983653,
+    "wof:lastmodified":1496926019,
     "wof:name":"S\u00f6llner Wolfgang Dr",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6091413498,48.0401344299,15.6091413498,48.0401344299",
     "geom:latitude":48.040134,
     "geom:longitude":15.609141,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"voestalpine.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834897,
+        85632785,
+        101785683,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l283EVxrZ9oBN3gH3Ew8L_48.040134_15.609141@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893154,
-    "wof:geomhash":"fc489de1b6cdbb5496aa9626d98f20d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b5bd55543ec47a3ca70d1e06a3f5a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108834897,
+            "locality_id":101785683,
+            "region_id":85681671,
+            "venue_id":1091924179
+        }
+    ],
     "wof:id":1091924179,
-    "wof:lastmodified":1473984073,
+    "wof:lastmodified":1496883454,
     "wof:name":"voestalpine Giesserei Traisen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

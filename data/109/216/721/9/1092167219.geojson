@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2546253204,48.1255531311,16.2546253204,48.1255531311",
     "geom:latitude":48.125553,
     "geom:longitude":16.254625,
@@ -25,10 +26,13 @@
     "sg:website":"gutwinski.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903982,
-    "wof:geomhash":"b42bc0f2942fba091122a817eb0eb5cf",
+    "wof:geomhash":"ba47d8586e80c49d4b471b9adc5a8052",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092167219
         }
     ],
     "wof:id":1092167219,
-    "wof:lastmodified":1473984856,
+    "wof:lastmodified":1496885841,
     "wof:name":"Gutwinski Management GesmbH",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

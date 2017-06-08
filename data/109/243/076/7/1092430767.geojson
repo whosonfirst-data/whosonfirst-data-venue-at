@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7108001709,46.8041915894,15.7108001709,46.8041915894",
     "geom:latitude":46.804192,
     "geom:longitude":15.7108,
@@ -32,17 +33,33 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839345,
+        85632785,
+        102049687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OCSHRWujPV9xij2yHKKvK_46.804192_15.710800@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915944,
-    "wof:geomhash":"8060fe330a9bb95cc2fd3d029091bf2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcf3424819b1ec353046a1714298bbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049687,
+            "localadmin_id":1108839345,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092430767
+        }
+    ],
     "wof:id":1092430767,
-    "wof:lastmodified":1473983422,
+    "wof:lastmodified":1496913709,
     "wof:name":"Franz Schantl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6354122162,47.2765617371,9.6354122162,47.2765617371",
     "geom:latitude":47.276562,
     "geom:longitude":9.635412,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914319,
-    "wof:geomhash":"78da581c3967a3d2331ef5303361719b",
+    "wof:geomhash":"3c2e2807d91f065bab7e41b0b337e414",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092397817
         }
     ],
     "wof:id":1092397817,
-    "wof:lastmodified":1473984750,
+    "wof:lastmodified":1496901652,
     "wof:name":"Brandt Karlheinz Mag",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

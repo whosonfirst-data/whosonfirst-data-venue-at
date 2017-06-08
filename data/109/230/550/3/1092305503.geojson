@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6702880859,48.4744796753,15.6702880859,48.4744796753",
     "geom:latitude":48.47448,
     "geom:longitude":15.670288,
@@ -31,17 +32,33 @@
         "archive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835935,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EPF79CMkl7RGA94FPSpoY_48.474480_15.670288@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910161,
-    "wof:geomhash":"975e031b3f44712fd4fb6a96425fb5bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb9ce4cf76c414f6e198a8e64428987c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835935,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092305503
+        }
+    ],
     "wof:id":1092305503,
-    "wof:lastmodified":1473984625,
+    "wof:lastmodified":1496888958,
     "wof:name":"Stadtarchiv Langenlois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

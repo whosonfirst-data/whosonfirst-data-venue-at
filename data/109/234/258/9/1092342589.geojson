@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4250469208,47.629573822,15.4250469208,47.629573822",
     "geom:latitude":47.629574,
     "geom:longitude":15.425047,
@@ -23,17 +24,33 @@
     "sg:postcode":"8664",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838861,
+        85632785,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q44zWiQAr9LHE34xi3kzl_47.629574_15.425047@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911737,
-    "wof:geomhash":"2fcdc8d7a1bd849e336111e411747e6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"019d5014553fafdbfc9a92673223ebce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838861,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092342589
+        }
+    ],
     "wof:id":1092342589,
-    "wof:lastmodified":1473983791,
+    "wof:lastmodified":1496909680,
     "wof:name":"MB Metallbearbeitung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7723121643,48.3434486389,13.7723121643,48.3434486389",
     "geom:latitude":48.343449,
     "geom:longitude":13.772312,
@@ -31,17 +32,34 @@
         "item"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835207,
+        85632785,
+        101784577,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wkSoJhuZK1RMjsjKDZaYJ_48.343449_13.772312@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905019,
-    "wof:geomhash":"b7d7aaf61a8b27edd5aa3da2a09529f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f43ca52daa3e7d3d2d553d84c5c1f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835207,
+            "locality_id":101784577,
+            "region_id":85681677,
+            "venue_id":1092189873
+        }
+    ],
     "wof:id":1092189873,
-    "wof:lastmodified":1473985221,
+    "wof:lastmodified":1496885463,
     "wof:name":"Kaufmann Handels- & Service GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

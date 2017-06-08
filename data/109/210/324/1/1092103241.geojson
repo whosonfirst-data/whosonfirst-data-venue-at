@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3552436829,47.2535324097,11.3552436829,47.2535324097",
     "geom:latitude":47.253532,
     "geom:longitude":11.355244,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900975,
-    "wof:geomhash":"a4ca65e40522fd74a025b4c2827f13ea",
+    "wof:geomhash":"a357af8c93c9b713f606a37d393a2254",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092103241
         }
     ],
     "wof:id":1092103241,
-    "wof:lastmodified":1473983914,
+    "wof:lastmodified":1496899219,
     "wof:name":"Ortner Gottlieb",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

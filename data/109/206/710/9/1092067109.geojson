@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0812072754,47.9088516235,13.0812072754,47.9088516235",
     "geom:latitude":47.908852,
     "geom:longitude":13.081207,
@@ -23,17 +24,33 @@
     "sg:postcode":"5201",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iCb2L6xVnXHrJePHpai4n_47.908852_13.081207@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899192,
-    "wof:geomhash":"9e693d7cd62dfef743d4bef931a89b65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c7575761f34bd8c4e710664f87861e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092067109
+        }
+    ],
     "wof:id":1092067109,
-    "wof:lastmodified":1473984713,
+    "wof:lastmodified":1496895808,
     "wof:name":"Gasthaus Koth\u00e4usl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9166946411,48.0785217285,13.9166946411,48.0785217285",
     "geom:latitude":48.078522,
     "geom:longitude":13.916695,
@@ -32,17 +33,33 @@
         "fan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836551,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b3Fkn58u5GpQqxj7wGWAU_48.078522_13.916695@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905468,
-    "wof:geomhash":"cdfdca24248308efe14b6f6847641353",
-    "wof:hierarchy":[],
+    "wof:geomhash":"826af50d61887c5f2a9cf3838c0e514d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836551,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092200285
+        }
+    ],
     "wof:id":1092200285,
-    "wof:lastmodified":1473983376,
+    "wof:lastmodified":1496891583,
     "wof:name":"Hager Luftanlagenbau Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

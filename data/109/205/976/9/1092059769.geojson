@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2805557251,47.7781105042,16.2805557251,47.7781105042",
     "geom:latitude":47.778111,
     "geom:longitude":16.280556,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835377,
+        85632785,
+        101913467,
+        102049787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64ndwz3kFG2qo7RLjZAnYM_47.778111_16.280556@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898890,
-    "wof:geomhash":"6731ee605c178b213bd34b42b8c3b8bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc8468ac13ca583f1b32581b6afe40b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108835377,
+            "locality_id":101913467,
+            "region_id":85681671,
+            "venue_id":1092059769
+        }
+    ],
     "wof:id":1092059769,
-    "wof:lastmodified":1473985184,
+    "wof:lastmodified":1496886373,
     "wof:name":"Dachler Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

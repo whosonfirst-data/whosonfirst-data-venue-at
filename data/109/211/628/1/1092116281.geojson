@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3105659485,46.6083984375,14.3105659485,46.6083984375",
     "geom:latitude":46.608398,
     "geom:longitude":14.310566,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901587,
-    "wof:geomhash":"49f25d3281bb3947382748717e263f7a",
+    "wof:geomhash":"cad3ec5e219af74cdd84e368c2626b18",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092116281
         }
     ],
     "wof:id":1092116281,
-    "wof:lastmodified":1473984698,
+    "wof:lastmodified":1496905662,
     "wof:name":"Essler Erik Dr",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

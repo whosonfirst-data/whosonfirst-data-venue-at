@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5062007904,47.2816352844,11.5062007904,47.2816352844",
     "geom:latitude":47.281635,
     "geom:longitude":11.506201,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904770,
-    "wof:geomhash":"738c4eb18d95394a5844174d10556528",
+    "wof:geomhash":"63d050c0ae5eec38ae0fcad588d00e93",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092184589
         }
     ],
     "wof:id":1092184589,
-    "wof:lastmodified":1473984453,
+    "wof:lastmodified":1496898714,
     "wof:name":"Pichler Otmar",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

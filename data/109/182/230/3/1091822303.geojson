@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3143529892,48.2052955627,13.3143529892,48.2052955627",
     "geom:latitude":48.205296,
     "geom:longitude":13.314353,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834709,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2G2wd91Or8EPqtCd8ucJQs_48.205296_13.314353@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888448,
-    "wof:geomhash":"4974b860d452d590ade084393c5eb357",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49b96c7e0091f9958e0142998b6ad2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834709,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091822303
+        }
+    ],
     "wof:id":1091822303,
-    "wof:lastmodified":1473983894,
+    "wof:lastmodified":1496882211,
     "wof:name":"Josef Kohlmayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4138097763,48.365776062,15.4138097763,48.365776062",
     "geom:latitude":48.365776,
     "geom:longitude":15.41381,
@@ -22,17 +23,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"bigsun.wbs.net/homepages/r/h/s/rhswachau",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836357,
+        85632785,
+        101843339,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19GztzQdMSQqFDRlg4OHPf_48.365776_15.413810@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473887691,
-    "wof:geomhash":"cb8b3908429e7ca7fac844b5612c0cd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78dc6b490d5ef20a7db6fe590a6ad4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108836357,
+            "locality_id":101843339,
+            "region_id":85681671,
+            "venue_id":1091805815
+        }
+    ],
     "wof:id":1091805815,
-    "wof:lastmodified":1473983587,
+    "wof:lastmodified":1496890688,
     "wof:name":"Regionalhauptschule Wachau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

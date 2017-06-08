@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7733373642,48.0544166565,13.7733373642,48.0544166565",
     "geom:latitude":48.054417,
     "geom:longitude":13.773337,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836503,
+        85632785,
+        101785665,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GIfUNMF1pVSx0TRu7c45b_48.054417_13.773337@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913577,
-    "wof:geomhash":"5f339e75eba28879de77a1a71532649b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f06af1ba77c55ee721f07e8cb036c855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836503,
+            "locality_id":101785665,
+            "region_id":85681677,
+            "venue_id":1092382797
+        }
+    ],
     "wof:id":1092382797,
-    "wof:lastmodified":1473984039,
+    "wof:lastmodified":1496891384,
     "wof:name":"Pizzeria - Steakhaus Toro Negro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

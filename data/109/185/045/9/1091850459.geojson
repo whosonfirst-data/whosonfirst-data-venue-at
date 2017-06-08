@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4296417236,47.5618782043,16.4296417236,47.5618782043",
     "geom:latitude":47.561878,
     "geom:longitude":16.429642,
@@ -23,17 +24,33 @@
     "sg:postcode":"7341",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838561,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FCVplLIGa2kjykXbQp8tj_47.561878_16.429642@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889738,
-    "wof:geomhash":"5f243e60ebb2c23e7f9d7eb7856e6051",
-    "wof:hierarchy":[],
+    "wof:geomhash":"314c423b0348fb9cb481eb07dcf3a9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838561,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091850459
+        }
+    ],
     "wof:id":1091850459,
-    "wof:lastmodified":1473983372,
+    "wof:lastmodified":1496908450,
     "wof:name":"STRABAG AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

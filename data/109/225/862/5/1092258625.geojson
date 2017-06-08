@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7724723816,46.784324646,15.7724723816,46.784324646",
     "geom:latitude":46.784325,
     "geom:longitude":15.772472,
@@ -23,17 +24,33 @@
     "sg:postcode":"8093",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839335,
+        85632785,
+        102049687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vmSQGfw97pNxBENiN0Khf_46.784325_15.772472@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473908090,
-    "wof:geomhash":"6b48f94ac6957972ca804049cd21922e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92dc813a97ca13e310b08b9ea4c4cd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049687,
+            "localadmin_id":1108839335,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092258625
+        }
+    ],
     "wof:id":1092258625,
-    "wof:lastmodified":1473985051,
+    "wof:lastmodified":1496913634,
     "wof:name":"Raber Transport GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

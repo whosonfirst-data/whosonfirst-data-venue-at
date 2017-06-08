@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2180681229,47.4174957275,13.2180681229,47.4174957275",
     "geom:latitude":47.417496,
     "geom:longitude":13.218068,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"www.saller.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        101844515,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q3cawpmmBA95umIERsjvT_47.417496_13.218068@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473893856,
-    "wof:geomhash":"7aaf539061cf153ab0485982b05e199c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37fe9f2e334ab22596398f4a14ca24d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":101844515,
+            "region_id":85681681,
+            "venue_id":1091938091
+        }
+    ],
     "wof:id":1091938091,
-    "wof:lastmodified":1473984904,
+    "wof:lastmodified":1496893823,
     "wof:name":"Saller Helmuth Dkfm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

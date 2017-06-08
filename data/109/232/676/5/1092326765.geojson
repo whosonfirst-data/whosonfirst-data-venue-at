@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3722391129,47.2733459473,11.3722391129,47.2733459473",
     "geom:latitude":47.273346,
     "geom:longitude":11.372239,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904367,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911088,
-    "wof:geomhash":"735993f57ee47dd7cb82e1162fdb53ff",
+    "wof:geomhash":"36091cda9a670297cfa3c95ad937bd91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1092326765
         }
     ],
     "wof:id":1092326765,
-    "wof:lastmodified":1473985013,
+    "wof:lastmodified":1496899496,
     "wof:name":"Avi Marco",
     "wof:parent_id":85904367,
     "wof:placetype":"venue",

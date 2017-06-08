@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7897024155,46.7262115479,13.7897024155,46.7262115479",
     "geom:latitude":46.726212,
     "geom:longitude":13.789702,
@@ -23,17 +24,33 @@
     "sg:postcode":"9542",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838321,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Vnmvn2zBOBtyI8P2AAi3p_46.726212_13.789702@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473915178,
-    "wof:geomhash":"e64528ee9a2815ea8114ccd28b7eee98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b989acb1344cef4336823901743407ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838321,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092414251
+        }
+    ],
     "wof:id":1092414251,
-    "wof:lastmodified":1473984235,
+    "wof:lastmodified":1496907300,
     "wof:name":"Feuerwehr Afritz am See",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

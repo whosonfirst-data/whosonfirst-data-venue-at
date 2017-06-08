@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4067163467,47.5299072266,12.4067163467,47.5299072266",
     "geom:latitude":47.529907,
     "geom:longitude":12.406716,
@@ -23,17 +24,33 @@
     "sg:postcode":"6380",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jlt7W7zXo6le4GCy62591_47.529907_12.406716@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900605,
-    "wof:geomhash":"356f93e6cb8091ed980453e17a8011a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac7739d0e6cfceeae52a8a57c4ed1eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092095875
+        }
+    ],
     "wof:id":1092095875,
-    "wof:lastmodified":1473984366,
+    "wof:lastmodified":1496897407,
     "wof:name":"St Johanner Durstexpress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

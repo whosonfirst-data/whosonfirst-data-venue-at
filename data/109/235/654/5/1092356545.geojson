@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4464054108,47.2674026489,11.4464054108,47.2674026489",
     "geom:latitude":47.267403,
     "geom:longitude":11.446405,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912371,
-    "wof:geomhash":"582674f417f878c2a6beb251e12aafa9",
+    "wof:geomhash":"19d312948ed7c0048327c0c88cdfaa31",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092356545
         }
     ],
     "wof:id":1092356545,
-    "wof:lastmodified":1473984677,
+    "wof:lastmodified":1496926042,
     "wof:name":"IT-Papier GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

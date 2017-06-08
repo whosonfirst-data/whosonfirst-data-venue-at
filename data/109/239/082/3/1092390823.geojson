@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3777971268,47.2291946411,11.3777971268,47.2291946411",
     "geom:latitude":47.229195,
     "geom:longitude":11.377797,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913997,
-    "wof:geomhash":"4459da2751c71a271c3285cc6c256094",
+    "wof:geomhash":"224de42b721adb10a08593bc16b9f9cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092390823
         }
     ],
     "wof:id":1092390823,
-    "wof:lastmodified":1473983362,
+    "wof:lastmodified":1496898471,
     "wof:name":"Gastl Management Wasserrutschenwartung- u Sanierungen",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

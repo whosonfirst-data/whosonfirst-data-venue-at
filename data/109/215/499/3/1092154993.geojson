@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3714113235,46.6330108643,14.3714113235,46.6330108643",
     "geom:latitude":46.633011,
     "geom:longitude":14.371411,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903444,
-    "wof:geomhash":"22c82d6eabc5310eecc5cc5d9fc91f0d",
+    "wof:geomhash":"a7998a4ada48c248788c1d3be3763a4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092154993
         }
     ],
     "wof:id":1092154993,
-    "wof:lastmodified":1473984292,
+    "wof:lastmodified":1496905583,
     "wof:name":"J.F. Mayer KG Nachfolger Klaus Peter Mayer",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

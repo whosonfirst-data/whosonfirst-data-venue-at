@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.284412384,48.1423072815,15.284412384,48.1423072815",
     "geom:latitude":48.142307,
     "geom:longitude":15.284412,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835729,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bLhoMvQjvNiViRMNpvL1r_48.142307_15.284412@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908414,
-    "wof:geomhash":"c9dc77185e7c1816fd100744714a9035",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2085f39ba4208ada37cb6335c2a6acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835729,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092265697
+        }
+    ],
     "wof:id":1092265697,
-    "wof:lastmodified":1473984474,
+    "wof:lastmodified":1496888080,
     "wof:name":"Manfred Bauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

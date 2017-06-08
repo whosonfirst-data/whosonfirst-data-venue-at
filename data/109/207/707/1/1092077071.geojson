@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4063110352,48.3332214355,16.4063110352,48.3332214355",
     "geom:latitude":48.333221,
     "geom:longitude":16.406311,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899625,
-    "wof:geomhash":"64ea041393657320ca9e597136ff5302",
+    "wof:geomhash":"fa8c1f1d89c385a20ef48474fcf017f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092077071
         }
     ],
     "wof:id":1092077071,
-    "wof:lastmodified":1473984630,
+    "wof:lastmodified":1496888639,
     "wof:name":"Hagenbrunner Dorfwirt",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

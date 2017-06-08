@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0172719955,47.8799858093,13.0172719955,47.8799858093",
     "geom:latitude":47.879986,
     "geom:longitude":13.017272,
@@ -23,17 +24,34 @@
     "sg:postcode":"5102",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837113,
+        85632785,
+        101786767,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N81QRnoD5vOD6oGY6BeXF_47.879986_13.017272@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900323,
-    "wof:geomhash":"ca31cb946f72565fa14f99dddf81ed57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9728f4741a141d1869fe40a6635430c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837113,
+            "locality_id":101786767,
+            "region_id":85681681,
+            "venue_id":1092091669
+        }
+    ],
     "wof:id":1092091669,
-    "wof:lastmodified":1473983599,
+    "wof:lastmodified":1496895186,
     "wof:name":"Wassergenossenschaft Anthering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

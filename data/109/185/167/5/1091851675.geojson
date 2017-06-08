@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0763521194,48.3115768433,15.0763521194,48.3115768433",
     "geom:latitude":48.311577,
     "geom:longitude":15.076352,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834993,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mMvtBP8ricFgXNnQZR6Fe_48.311577_15.076352@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889789,
-    "wof:geomhash":"3a7f8c48433f50bd21d2bd07ef43f7ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43521061d53687ecc18da2df8e2852cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108834993,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091851675
+        }
+    ],
     "wof:id":1091851675,
-    "wof:lastmodified":1473983606,
+    "wof:lastmodified":1496883890,
     "wof:name":"Georg Nu\u00dfbaumm\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4097566605,47.2311706543,11.4097566605,47.2311706543",
     "geom:latitude":47.231171,
     "geom:longitude":11.409757,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892600,
-    "wof:geomhash":"0e4cb856dfb63949723d884c291aa244",
+    "wof:geomhash":"2d3438626287d1da885ee3825c8ea7cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091911359
         }
     ],
     "wof:id":1091911359,
-    "wof:lastmodified":1473983322,
+    "wof:lastmodified":1496925956,
     "wof:name":"Platzer Wolfgang jun KEG",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

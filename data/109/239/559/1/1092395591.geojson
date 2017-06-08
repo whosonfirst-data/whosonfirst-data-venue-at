@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2906827927,48.2261924744,14.2906827927,48.2261924744",
     "geom:latitude":48.226192,
     "geom:longitude":14.290683,
@@ -31,17 +32,34 @@
         "profile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835519,
+        85632785,
+        101831937,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fzjGQsbA6gg4YpnKuI408_48.226192_14.290683@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914231,
-    "wof:geomhash":"a2369eae0a455085c6350bff63696da4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43076f719ceb58d80c4edacb4471755a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835519,
+            "locality_id":101831937,
+            "region_id":85681677,
+            "venue_id":1092395591
+        }
+    ],
     "wof:id":1092395591,
-    "wof:lastmodified":1473984325,
+    "wof:lastmodified":1496887011,
     "wof:name":"Hydro Building Systems GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

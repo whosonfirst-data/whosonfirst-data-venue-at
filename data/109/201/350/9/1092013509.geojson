@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4800748825,48.056388855,14.4800748825,48.056388855",
     "geom:latitude":48.056389,
     "geom:longitude":14.480075,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836687,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3el7dGXhXPNX0iuHDBvuny_48.056389_14.480075@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897085,
-    "wof:geomhash":"fd012fb16beca31274c4692db01f9ecd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbc6cd7e866062c5c50110734cc26094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836687,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092013509
+        }
+    ],
     "wof:id":1092013509,
-    "wof:lastmodified":1473983588,
+    "wof:lastmodified":1496892417,
     "wof:name":"Josef Grillnberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

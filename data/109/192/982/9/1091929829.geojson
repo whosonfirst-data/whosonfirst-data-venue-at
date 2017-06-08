@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2204093933,47.4240684509,13.2204093933,47.4240684509",
     "geom:latitude":47.424068,
     "geom:longitude":13.220409,
@@ -23,17 +24,34 @@
     "sg:postcode":"5500",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        101844515,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37XguB3oiuLdCv2FFYPKuY_47.424068_13.220409@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893503,
-    "wof:geomhash":"5c581ffacc3a657cd0fb3af9639412bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d246987ff2edf630830617cf0401fbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":101844515,
+            "region_id":85681681,
+            "venue_id":1091929829
+        }
+    ],
     "wof:id":1091929829,
-    "wof:lastmodified":1473985206,
+    "wof:lastmodified":1496893821,
     "wof:name":"Eisenbahner Sportverein Bischofshofen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

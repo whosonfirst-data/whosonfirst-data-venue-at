@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1244831085,46.5427894592,14.1244831085,46.5427894592",
     "geom:latitude":46.542789,
     "geom:longitude":14.124483,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838177,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZAO06dp6Ru4xnVsRmtJAH_46.542789_14.124483@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888444,
-    "wof:geomhash":"0a97d1a2aa2a938d8e73cf191be94d9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9197da4008e38a9120733aed97545be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838177,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091822185
+        }
+    ],
     "wof:id":1091822185,
-    "wof:lastmodified":1473983864,
+    "wof:lastmodified":1496906413,
     "wof:name":"Zimmerei Kruschitz Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

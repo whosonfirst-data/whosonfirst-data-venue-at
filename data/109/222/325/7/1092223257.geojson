@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6211633682,47.2174415588,15.6211633682,47.2174415588",
     "geom:latitude":47.217442,
     "geom:longitude":15.621163,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838919,
+        85632785,
+        101787937,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v5YS6HyTgjKy2uejK3wa8_47.217442_15.621163@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906544,
-    "wof:geomhash":"2da5f1a2067834130f014202ec21736c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cda51b4ffbc7047b00c0826c00f6023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838919,
+            "locality_id":101787937,
+            "region_id":85681687,
+            "venue_id":1092223257
+        }
+    ],
     "wof:id":1092223257,
-    "wof:lastmodified":1473984064,
+    "wof:lastmodified":1496910193,
     "wof:name":"WASTI - Weizer Anrufsammeltaxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

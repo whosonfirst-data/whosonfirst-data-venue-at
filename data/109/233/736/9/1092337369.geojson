@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3336362839,46.6170310974,14.3336362839,46.6170310974",
     "geom:latitude":46.617031,
     "geom:longitude":14.333636,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911510,
-    "wof:geomhash":"e8d40dd8ad83c2be08e4e2eabce9d7a2",
+    "wof:geomhash":"b650ae122f1aaa614e52e5e1ca023063",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092337369
         }
     ],
     "wof:id":1092337369,
-    "wof:lastmodified":1473985080,
+    "wof:lastmodified":1496905940,
     "wof:name":"Schuhleisten GE-US Handelsagentur",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

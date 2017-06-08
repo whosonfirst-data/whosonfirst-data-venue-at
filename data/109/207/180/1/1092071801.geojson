@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9265890121,47.2983932495,10.9265890121,47.2983932495",
     "geom:latitude":47.298393,
     "geom:longitude":10.926589,
@@ -23,17 +24,33 @@
     "sg:postcode":"6416",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837433,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iMnU3r7pP8dhmcFFYQMtk_47.298393_10.926589@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899379,
-    "wof:geomhash":"3d2ff6f59d4c85aff99a3a2dda765460",
-    "wof:hierarchy":[],
+    "wof:geomhash":"003f07e794a3459b23d14cab136e1d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837433,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092071801
+        }
+    ],
     "wof:id":1092071801,
-    "wof:lastmodified":1473983658,
+    "wof:lastmodified":1496897831,
     "wof:name":"Gasthof Alte Schmiede",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

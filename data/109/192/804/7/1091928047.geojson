@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5095396042,47.2821998596,11.5095396042,47.2821998596",
     "geom:latitude":47.2822,
     "geom:longitude":11.50954,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893416,
-    "wof:geomhash":"d099ef3d37e2e6fa6b21d3c0ee8a335a",
+    "wof:geomhash":"773eb5b8f7ab4dfca0f662945173f13d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091928047
         }
     ],
     "wof:id":1091928047,
-    "wof:lastmodified":1473984745,
+    "wof:lastmodified":1496898711,
     "wof:name":"Sport Heinz Lutz",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

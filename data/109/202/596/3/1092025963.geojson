@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9073543549,47.2240867615,15.9073543549,47.2240867615",
     "geom:latitude":47.224087,
     "geom:longitude":15.907354,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"schirnhofer-gmbh.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839117,
+        85632785,
+        101787913,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61G56AFobOGRphHYb2A9sN_47.224087_15.907354@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897561,
-    "wof:geomhash":"4ce216653454980f49dfde862843b3f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebec4aaa19dc4721df9342425ff7a680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839117,
+            "locality_id":101787913,
+            "region_id":85681687,
+            "venue_id":1092025963
+        }
+    ],
     "wof:id":1092025963,
-    "wof:lastmodified":1473984524,
+    "wof:lastmodified":1496911404,
     "wof:name":"Schirnhofer Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

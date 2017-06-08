@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2530517578,48.2179031372,16.2530517578,48.2179031372",
     "geom:latitude":48.217903,
     "geom:longitude":16.253052,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914409,
-    "wof:geomhash":"3b82564db2fc92982e2c23ad7166b9e7",
+    "wof:geomhash":"dc13b775ecb3f43f4150aad473a2fc1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092399805
         }
     ],
     "wof:id":1092399805,
-    "wof:lastmodified":1473985102,
+    "wof:lastmodified":1496928934,
     "wof:name":"Leo Plener Prof",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

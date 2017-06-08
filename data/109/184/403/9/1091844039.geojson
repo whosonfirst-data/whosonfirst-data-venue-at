@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.596362114,47.2379570007,9.596362114,47.2379570007",
     "geom:latitude":47.237957,
     "geom:longitude":9.596362,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889435,
-    "wof:geomhash":"2daaca31b2591cab8b678f591f60f592",
+    "wof:geomhash":"3722026b34b7ff0079ff6cd9bc5f22a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091844039
         }
     ],
     "wof:id":1091844039,
-    "wof:lastmodified":1473984092,
+    "wof:lastmodified":1496900952,
     "wof:name":"Bausparkasse d \u00f6sterr Sparkassen AG",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

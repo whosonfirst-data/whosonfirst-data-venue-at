@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2355394363,48.1566734314,15.2355394363,48.1566734314",
     "geom:latitude":48.156673,
     "geom:longitude":15.235539,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835387,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WJkWuufxxT4bsnK8lLl47_48.156673_15.235539@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891845,
-    "wof:geomhash":"e8dfaf257682fe28a83d278e4b270535",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e96bee9ee9b3ba9bc6b9671328dcf5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835387,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091895115
+        }
+    ],
     "wof:id":1091895115,
-    "wof:lastmodified":1473984470,
+    "wof:lastmodified":1496886465,
     "wof:name":"Aigner Petra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

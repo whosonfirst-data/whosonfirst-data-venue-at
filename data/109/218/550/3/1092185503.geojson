@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3446073532,46.6032447815,14.3446073532,46.6032447815",
     "geom:latitude":46.603245,
     "geom:longitude":14.344607,
@@ -25,10 +26,13 @@
     "sg:website":"diexer.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904824,
-    "wof:geomhash":"ccad509b72fbd9a195ff5944d3d15038",
+    "wof:geomhash":"13404103044be9f2f0df209b9af1afef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092185503
         }
     ],
     "wof:id":1092185503,
-    "wof:lastmodified":1473984555,
+    "wof:lastmodified":1496905740,
     "wof:name":"Diexer Schulausstattungen & Lehrmittel",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

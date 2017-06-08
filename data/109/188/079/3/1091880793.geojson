@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9100055695,47.2260055542,15.9100055695,47.2260055542",
     "geom:latitude":47.226006,
     "geom:longitude":15.910006,
@@ -31,17 +32,34 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839117,
+        85632785,
+        101787913,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YpxgBv34TWFqnxrNrsoWv_47.226006_15.910006@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891172,
-    "wof:geomhash":"0a8bee2f9656753305981f9156af92ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39bcfad819ce43ccb0d0153e342c95d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839117,
+            "locality_id":101787913,
+            "region_id":85681687,
+            "venue_id":1091880793
+        }
+    ],
     "wof:id":1091880793,
-    "wof:lastmodified":1473983540,
+    "wof:lastmodified":1496911400,
     "wof:name":"Johannes Schirnhofer KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

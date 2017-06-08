@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3133926392,47.3509750366,13.3133926392,47.3509750366",
     "geom:latitude":47.350975,
     "geom:longitude":13.313393,
@@ -23,17 +24,33 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VmU2krOQesK9cg3MQi58O_47.350975_13.313393@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915886,
-    "wof:geomhash":"6fb33c33f4896d4a9134caa367185541",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1227741968f66f2f12030b20f7af683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092429529
+        }
+    ],
     "wof:id":1092429529,
-    "wof:lastmodified":1473985136,
+    "wof:lastmodified":1496894172,
     "wof:name":"Sampl Eduard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

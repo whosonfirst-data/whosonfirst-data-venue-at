@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3795137405,47.283367157,11.3795137405,47.283367157",
     "geom:latitude":47.283367,
     "geom:longitude":11.379514,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899412,
-    "wof:geomhash":"8b490c1a6b9e2de739fb64625ac6179c",
+    "wof:geomhash":"c5a45ab3b1805647f985f893c6e486c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092072549
         }
     ],
     "wof:id":1092072549,
-    "wof:lastmodified":1473983818,
+    "wof:lastmodified":1496899321,
     "wof:name":"Gasthof Gramarthof",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

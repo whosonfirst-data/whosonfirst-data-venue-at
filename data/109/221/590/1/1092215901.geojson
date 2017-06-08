@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6100912094,47.2471427917,9.6100912094,47.2471427917",
     "geom:latitude":47.247143,
     "geom:longitude":9.610091,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906232,
-    "wof:geomhash":"4c5d5974d136bf6cfab326873ee1c825",
+    "wof:geomhash":"4170b4f3e83dfe8383ce44cdeefe5b66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092215901
         }
     ],
     "wof:id":1092215901,
-    "wof:lastmodified":1473984525,
+    "wof:lastmodified":1496900923,
     "wof:name":"JET Tankstelle",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

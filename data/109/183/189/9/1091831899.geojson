@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3101568222,46.610080719,14.3101568222,46.610080719",
     "geom:latitude":46.610081,
     "geom:longitude":14.310157,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888880,
-    "wof:geomhash":"1fc782b3542f33f6ce695d595960d200",
+    "wof:geomhash":"f2a12234d66911f8cbd993f42aa18d7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1091831899
         }
     ],
     "wof:id":1091831899,
-    "wof:lastmodified":1473983687,
+    "wof:lastmodified":1496905585,
     "wof:name":"Bankomat d BKS-Bank f K\u00e4rnten u Steiermark",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

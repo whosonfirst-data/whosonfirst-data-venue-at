@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3742790222,47.2339172363,11.3742790222,47.2339172363",
     "geom:latitude":47.233917,
     "geom:longitude":11.374279,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895041,
-    "wof:geomhash":"4956d8a473255ebefc9a87b551ac31ce",
+    "wof:geomhash":"5bca17a4a35824fb4e0e2c8f1747c00a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091965147
         }
     ],
     "wof:id":1091965147,
-    "wof:lastmodified":1473984182,
+    "wof:lastmodified":1496898477,
     "wof:name":"Rancho Restaurant",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

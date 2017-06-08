@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4913387299,46.7957992554,13.4913387299,46.7957992554",
     "geom:latitude":46.795799,
     "geom:longitude":13.491339,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838301,
+        85632785,
+        101790155,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HNFfpRUTaSoeNBg0WT7Zq_46.795799_13.491339@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906527,
-    "wof:geomhash":"e58ac6c126e7bee9389a37f19e55ee18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79f9e7e7d2e7dd1ffba735e63ef0947d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":101790155,
+            "region_id":85681655,
+            "venue_id":1092222881
+        }
+    ],
     "wof:id":1092222881,
-    "wof:lastmodified":1473984017,
+    "wof:lastmodified":1496907158,
     "wof:name":"Taxi Strasser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

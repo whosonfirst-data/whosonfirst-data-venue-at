@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7601222992,48.5443382263,16.7601222992,48.5443382263",
     "geom:latitude":48.544338,
     "geom:longitude":16.760122,
@@ -23,17 +24,34 @@
     "sg:postcode":"2225",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836973,
+        85632785,
+        101782227,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GoQ26yyixGW7LDA5SvWgH_48.544338_16.760122@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901235,
-    "wof:geomhash":"df7d074b462333e3739b6e071484f57a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6912dfbbcdc5f872b25b9005c5b7323c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836973,
+            "locality_id":101782227,
+            "region_id":85681671,
+            "venue_id":1092108839
+        }
+    ],
     "wof:id":1092108839,
-    "wof:lastmodified":1473985005,
+    "wof:lastmodified":1496893602,
     "wof:name":"Zahnambulatorium d Nieder\u00f6sterr Gebietskrankenkasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

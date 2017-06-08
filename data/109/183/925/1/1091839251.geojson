@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.690117836,47.5556259155,13.690117836,47.5556259155",
     "geom:latitude":47.555626,
     "geom:longitude":13.690118,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835147,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03azADgnsdgfF4AI7Cj9dH_47.555626_13.690118@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889240,
-    "wof:geomhash":"454ed641f540f2ebf1674a719e0a2059",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d4ab580dd4a515e30bd9c75bf9119d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835147,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091839251
+        }
+    ],
     "wof:id":1091839251,
-    "wof:lastmodified":1473985313,
+    "wof:lastmodified":1496885086,
     "wof:name":"R\u00fcdiger Christian Rastl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

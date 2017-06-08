@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9761953354,46.825252533,15.9761953354,46.825252533",
     "geom:latitude":46.825253,
     "geom:longitude":15.976195,
@@ -32,17 +33,33 @@
         "underground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839239,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VvLcxbWkasqvJzD4GNiJh_46.825253_15.976195@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905705,
-    "wof:geomhash":"a3ed7ec082873d7a8adf0b86bdfc32c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"884c5e7eb56df18a7f2d0e593f0b4fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839239,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092204079
+        }
+    ],
     "wof:id":1092204079,
-    "wof:lastmodified":1473984274,
+    "wof:lastmodified":1496912132,
     "wof:name":"Pfleger Bauges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

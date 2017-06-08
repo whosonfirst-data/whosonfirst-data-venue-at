@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4543800354,47.7845993042,16.4543800354,47.7845993042",
     "geom:latitude":47.784599,
     "geom:longitude":16.45438,
@@ -32,17 +33,33 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838711,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mQ2WRwgbOO7qchxeQqX8F_47.784599_16.454380@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889204,
-    "wof:geomhash":"1b304b413a32f34c1a66b081262e7d99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"656c85dd26fce94cf4f67c6f8eac3329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838711,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091838413
+        }
+    ],
     "wof:id":1091838413,
-    "wof:lastmodified":1473985033,
+    "wof:lastmodified":1496909159,
     "wof:name":"Aleca M\u00f6belwerkst\u00e4tte Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

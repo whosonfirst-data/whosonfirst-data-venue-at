@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3958244324,47.8575935364,16.3958244324,47.8575935364",
     "geom:latitude":47.857594,
     "geom:longitude":16.395824,
@@ -33,17 +34,34 @@
         "concrete"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838577,
+        85632785,
+        101785631,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KuZ9RXNzSgNMJHS8g1LwQ_47.857594_16.395824@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916393,
-    "wof:geomhash":"61f4d9151c9b68385f71f1c0d2a8f53a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2af7ef427d9f27b481ba3ea3ee10c523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838577,
+            "locality_id":101785631,
+            "region_id":85681651,
+            "venue_id":1092440585
+        }
+    ],
     "wof:id":1092440585,
-    "wof:lastmodified":1473983412,
+    "wof:lastmodified":1496908259,
     "wof:name":"Fertigbetonerzeugung Schneeberger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

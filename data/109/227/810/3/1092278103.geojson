@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4713554382,48.2609825134,16.4713554382,48.2609825134",
     "geom:latitude":48.260983,
     "geom:longitude":16.471355,
@@ -34,10 +35,13 @@
     "sg:website":"mewa.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908945,
-    "wof:geomhash":"0795cfc0be7219695158b7399d71a052",
+    "wof:geomhash":"e802699a38bbb0062302dbecd5dd8117",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092278103
         }
     ],
     "wof:id":1092278103,
-    "wof:lastmodified":1473985199,
+    "wof:lastmodified":1496905036,
     "wof:name":"MEWA Textil-Mietservice Habsburg Wien Ges.m.b.H. Nfg. KG",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

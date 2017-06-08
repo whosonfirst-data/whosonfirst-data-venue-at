@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8557777405,47.2403106689,15.8557777405,47.2403106689",
     "geom:latitude":47.240311,
     "geom:longitude":15.855778,
@@ -32,17 +33,33 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839125,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fdWv4iCAuA9ghHg5C47da_47.240311_15.855778@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908459,
-    "wof:geomhash":"21b4197d982056528f7a28dd0c7c8da8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bdd9e70b78f1104c4517d8e4c89ffd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839125,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092266655
+        }
+    ],
     "wof:id":1092266655,
-    "wof:lastmodified":1473984588,
+    "wof:lastmodified":1496911489,
     "wof:name":"Heil & Schafzahl OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

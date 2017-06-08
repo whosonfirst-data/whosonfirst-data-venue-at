@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2479438782,48.0855522156,16.2479438782,48.0855522156",
     "geom:latitude":48.085552,
     "geom:longitude":16.247944,
@@ -29,10 +30,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898351,
-    "wof:geomhash":"05ef9971b9de7c48f5e0df2d43c53172",
+    "wof:geomhash":"c7e50f67775402499f4e19d6810deb25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092045899
         }
     ],
     "wof:id":1092045899,
-    "wof:lastmodified":1473983888,
+    "wof:lastmodified":1496891997,
     "wof:name":"Hotel Beethoven",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

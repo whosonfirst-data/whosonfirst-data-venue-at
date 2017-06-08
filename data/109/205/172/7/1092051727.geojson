@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7568559647,47.270488739,12.7568559647,47.270488739",
     "geom:latitude":47.270489,
     "geom:longitude":12.756856,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"tauernhof-kaprun.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        101789131,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XrYdJca5uzInRV6wigfL2_47.270489_12.756856@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898576,
-    "wof:geomhash":"5dc489502bd533e1d05da7ce5ef5ddf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9289bdea72f504ac34d131d9412e27ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":101789131,
+            "region_id":85681681,
+            "venue_id":1092051727
+        }
+    ],
     "wof:id":1092051727,
-    "wof:lastmodified":1473983660,
+    "wof:lastmodified":1496895946,
     "wof:name":"Tauernhof Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

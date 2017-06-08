@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8207731247,46.6366996765,13.8207731247,46.6366996765",
     "geom:latitude":46.6367,
     "geom:longitude":13.820773,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893453,
-    "wof:geomhash":"a864f6e1d3eb0c065bc165d3853a6739",
+    "wof:geomhash":"ddffdd496f886fdccb85106babf63c31",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1091928767
         }
     ],
     "wof:id":1091928767,
-    "wof:lastmodified":1473984960,
+    "wof:lastmodified":1496906086,
     "wof:name":"Sporthalle ASK\u00f6 Wollanig",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

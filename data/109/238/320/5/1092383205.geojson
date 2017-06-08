@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2142391205,47.2871131897,16.2142391205,47.2871131897",
     "geom:latitude":47.287113,
     "geom:longitude":16.214239,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838461,
+        85632785,
+        101787889,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ItNsUDiTNPkN6LFCdvR2g_47.287113_16.214239@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913599,
-    "wof:geomhash":"9f65e303faab92c938fe3b56e370c473",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68f4100e3d18ffc2ae188df265916dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838461,
+            "locality_id":101787889,
+            "region_id":85681651,
+            "venue_id":1092383205
+        }
+    ],
     "wof:id":1092383205,
-    "wof:lastmodified":1473984138,
+    "wof:lastmodified":1496908042,
     "wof:name":"Pizzeria David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

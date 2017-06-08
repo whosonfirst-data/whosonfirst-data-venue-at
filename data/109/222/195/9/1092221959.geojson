@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2716197968,47.2572364807,11.2716197968,47.2572364807",
     "geom:latitude":47.257236,
     "geom:longitude":11.27162,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906479,
-    "wof:geomhash":"ec83d6846959f2a4c9c50c717851b223",
+    "wof:geomhash":"a5a9cb41fa0729cba0cd2b80a25785df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092221959
         }
     ],
     "wof:id":1092221959,
-    "wof:lastmodified":1473983811,
+    "wof:lastmodified":1496898656,
     "wof:name":"Ruef-Reisen",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7252521515,47.1543006897,11.7252521515,47.1543006897",
     "geom:latitude":47.154301,
     "geom:longitude":11.725252,
@@ -23,17 +24,33 @@
     "sg:postcode":"6293",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837707,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f5ZCwuVSUFcjVcYSfgJfy_47.154301_11.725252@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907791,
-    "wof:geomhash":"260d980741af9200d156816f6e399423",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee9d823c4efb8208d8620bf62f08e17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837707,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092251777
+        }
+    ],
     "wof:id":1092251777,
-    "wof:lastmodified":1473983749,
+    "wof:lastmodified":1496899675,
     "wof:name":"Tourismusverband Tux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

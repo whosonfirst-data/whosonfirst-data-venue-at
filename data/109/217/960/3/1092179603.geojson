@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4081935883,47.2301292419,11.4081935883,47.2301292419",
     "geom:latitude":47.230129,
     "geom:longitude":11.408194,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904556,
-    "wof:geomhash":"f8dc7ac73baf158a6d5944ed578f821e",
+    "wof:geomhash":"5b54b6839f7b9aa734ed82f26f9aa9ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092179603
         }
     ],
     "wof:id":1092179603,
-    "wof:lastmodified":1473985319,
+    "wof:lastmodified":1496899261,
     "wof:name":"Spar Supermarkt",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

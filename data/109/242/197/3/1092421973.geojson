@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2019996643,46.9322319031,13.2019996643,46.9322319031",
     "geom:latitude":46.932232,
     "geom:longitude":13.202,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"graderbau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838287,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fW4ZsPy0g5C9QvnYnquNz_46.932232_13.202000@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915532,
-    "wof:geomhash":"bf589a8ca902d3d8e192909755261955",
-    "wof:hierarchy":[],
+    "wof:geomhash":"922bd46f28ecbe080d236ba56a954f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838287,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092421973
+        }
+    ],
     "wof:id":1092421973,
-    "wof:lastmodified":1473983695,
+    "wof:lastmodified":1496906989,
     "wof:name":"Walter Grader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

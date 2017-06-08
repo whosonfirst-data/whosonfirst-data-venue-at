@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.512843132,47.1262321472,10.512843132,47.1262321472",
     "geom:latitude":47.126232,
     "geom:longitude":10.512843,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"handltyrol.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837317,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kwLAHRHuaK681v8XesO39_47.126232_10.512843@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897565,
-    "wof:geomhash":"7b0a28544fe4f815480b6743355ab561",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22aafaeae0e13fd81b683eb99b0be100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837317,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092026065
+        }
+    ],
     "wof:id":1092026065,
-    "wof:lastmodified":1473984525,
+    "wof:lastmodified":1496896854,
     "wof:name":"Speck-Alm GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

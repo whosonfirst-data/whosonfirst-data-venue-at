@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.342754364,48.3407936096,14.342754364,48.3407936096",
     "geom:latitude":48.340794,
     "geom:longitude":14.342754,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898427,
-        102049853
+        102191581,
+        1108836411,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893728,
-    "wof:geomhash":"7ce1afe036f0c546b6062e679dee8b48",
+    "wof:geomhash":"976e4f54d4f956ff06abb71b9bdf6f97",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049853,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":-1,
             "neighbourhood_id":85898427,
             "region_id":85681677,
             "venue_id":1091935141
         }
     ],
     "wof:id":1091935141,
-    "wof:lastmodified":1473984405,
+    "wof:lastmodified":1496914331,
     "wof:name":"Klug Johann",
     "wof:parent_id":85898427,
     "wof:placetype":"venue",

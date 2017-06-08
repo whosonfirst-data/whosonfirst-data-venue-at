@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0389213562,47.8312759399,13.0389213562,47.8312759399",
     "geom:latitude":47.831276,
     "geom:longitude":13.038921,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908031,
-    "wof:geomhash":"1aafaef460f7d57bc3de4c28d1fc022c",
+    "wof:geomhash":"a5c02d71264599b0ae6eabdd13eff6a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092257309
         }
     ],
     "wof:id":1092257309,
-    "wof:lastmodified":1473985019,
+    "wof:lastmodified":1496895215,
     "wof:name":"Lindinger KEG",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

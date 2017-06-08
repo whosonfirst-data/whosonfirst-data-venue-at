@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8398809433,46.5919036865,13.8398809433,46.5919036865",
     "geom:latitude":46.591904,
     "geom:longitude":13.839881,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893682,
-    "wof:geomhash":"63a6e6b3e6e8ca7733b13dc8137d8576",
+    "wof:geomhash":"ed50c1434aca9a4c2051e1d6c9902b33",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091934031
         }
     ],
     "wof:id":1091934031,
-    "wof:lastmodified":1473984206,
+    "wof:lastmodified":1496906037,
     "wof:name":"Eisenkontor Ges.m.b.H. & Co Eisen-, Stahl- und R\u00f6hren KG",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

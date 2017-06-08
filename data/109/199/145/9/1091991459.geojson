@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3459777832,47.4430580139,16.3459777832,47.4430580139",
     "geom:latitude":47.443058,
     "geom:longitude":16.345978,
@@ -23,17 +24,33 @@
     "sg:postcode":"7441",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838471,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OYp9JWEAYGQ5UDQoi8gDB_47.443058_16.345978@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896177,
-    "wof:geomhash":"8c0775c8b0cd028ea635d9b081f90525",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee1ceb15d65730ef42cc04034ec3912f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838471,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091991459
+        }
+    ],
     "wof:id":1091991459,
-    "wof:lastmodified":1473983510,
+    "wof:lastmodified":1496908098,
     "wof:name":"N\u00f6st Otto jun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

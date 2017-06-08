@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9741630554,48.0389938354,14.9741630554,48.0389938354",
     "geom:latitude":48.038994,
     "geom:longitude":14.974163,
@@ -32,17 +33,33 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836205,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68hk0IcNpamLhCBsBWhXxu_48.038994_14.974163@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905577,
-    "wof:geomhash":"bfcce4b61c634bd2fa00794cf1d2d1fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc764fe16b4d0ede8435dd087bb4b854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836205,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092202023
+        }
+    ],
     "wof:id":1092202023,
-    "wof:lastmodified":1473983837,
+    "wof:lastmodified":1496889981,
     "wof:name":"MOSSER LEIMHOLZ GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9576616287,47.3029899597,10.9576616287,47.3029899597",
     "geom:latitude":47.30299,
     "geom:longitude":10.957662,
@@ -23,17 +24,33 @@
     "sg:postcode":"6414",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837423,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aV4InvN4V62Dg9Wr2xU3O_47.302990_10.957662@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902705,
-    "wof:geomhash":"7cb19c776a695df0e7e597e1bc609fff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6a2ed3e78080239bafbd659b4b8c4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837423,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092139409
+        }
+    ],
     "wof:id":1092139409,
-    "wof:lastmodified":1473985138,
+    "wof:lastmodified":1496897806,
     "wof:name":"Erwachsenenschule Mieminger Plateau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

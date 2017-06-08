@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2363033295,47.4457817078,12.2363033295,47.4457817078",
     "geom:latitude":47.445782,
     "geom:longitude":12.236303,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29x7aAXHxUOj09YHShlCJy_47.445782_12.236303@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473887876,
-    "wof:geomhash":"f638b48389835f9ddab1819d3b09b5a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"015ecfda785ee74fcd3287cd8175afff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091809141
+        }
+    ],
     "wof:id":1091809141,
-    "wof:lastmodified":1473984479,
+    "wof:lastmodified":1496897249,
     "wof:name":"Eisenmann Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

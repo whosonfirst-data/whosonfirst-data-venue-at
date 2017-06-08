@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2781658173,48.1454315186,14.2781658173,48.1454315186",
     "geom:latitude":48.145432,
     "geom:longitude":14.278166,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835561,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00ok4zQIlynTwcEvTb3Exv_48.145432_14.278166@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889798,
-    "wof:geomhash":"d287724fe8352d21d3ab2d8d8020fec4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4189cf569f08fdf6a411a969d9335b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835561,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091851873
+        }
+    ],
     "wof:id":1091851873,
-    "wof:lastmodified":1473983667,
+    "wof:lastmodified":1496887355,
     "wof:name":"Ludwig Haidvogel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

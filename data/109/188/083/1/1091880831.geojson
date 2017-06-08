@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2799453735,48.1461906433,14.2799453735,48.1461906433",
     "geom:latitude":48.146191,
     "geom:longitude":14.279945,
@@ -31,17 +32,33 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835561,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vH7uLftJHm6FwFYUX0A8Z_48.146191_14.279945@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891173,
-    "wof:geomhash":"d2c88db057b60aba31f06a30fe8ab157",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1b9a299ab19acc48298a7a479b5066c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835561,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091880831
+        }
+    ],
     "wof:id":1091880831,
-    "wof:lastmodified":1473983544,
+    "wof:lastmodified":1496887357,
     "wof:name":"Reichl Brot GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

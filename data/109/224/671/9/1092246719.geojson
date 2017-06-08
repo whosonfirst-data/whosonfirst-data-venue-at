@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5793199539,47.0868110657,11.5793199539,47.0868110657",
     "geom:latitude":47.086811,
     "geom:longitude":11.57932,
@@ -23,17 +24,33 @@
     "sg:postcode":"6154",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837731,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xjosgsYelwD3pzaKvG6mR_47.086811_11.579320@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907569,
-    "wof:geomhash":"825d622240fb3f13bdf2343121bd7b6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"245be05bd15e967b7e96d55436c51dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837731,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092246719
+        }
+    ],
     "wof:id":1092246719,
-    "wof:lastmodified":1473984693,
+    "wof:lastmodified":1496899824,
     "wof:name":"Salchner Gerhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

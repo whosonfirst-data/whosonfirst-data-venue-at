@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6640758514,48.2316589355,13.6640758514,48.2316589355",
     "geom:latitude":48.231659,
     "geom:longitude":13.664076,
@@ -32,17 +33,33 @@
         "belt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835241,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uJovmkcVsApozwnctpRn8_48.231659_13.664076@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901210,
-    "wof:geomhash":"91cf3dab4b9a7b9d7e12100ae1710841",
-    "wof:hierarchy":[],
+    "wof:geomhash":"accb530f858fe6d822c892b592ae4805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835241,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092108281
+        }
+    ],
     "wof:id":1092108281,
-    "wof:lastmodified":1473984886,
+    "wof:lastmodified":1496885549,
     "wof:name":"Margarethe Trinkfa\u00df",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

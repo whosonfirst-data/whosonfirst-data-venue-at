@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5084762573,47.4988822937,16.5084762573,47.4988822937",
     "geom:latitude":47.498882,
     "geom:longitude":16.508476,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"bestattung-steiger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838597,
+        85632785,
+        101834323,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71OV1FIiBZ8oFDGl8i8MT3_47.498882_16.508476@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890283,
-    "wof:geomhash":"b71dbb312be95327187efa12ba6950c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be78f49712c5dc15cfdb5be9ac68543c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838597,
+            "locality_id":101834323,
+            "region_id":85681651,
+            "venue_id":1091861641
+        }
+    ],
     "wof:id":1091861641,
-    "wof:lastmodified":1473983705,
+    "wof:lastmodified":1496908605,
     "wof:name":"Bestattung Irene Steiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

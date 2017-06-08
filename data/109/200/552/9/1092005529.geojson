@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7567491531,48.5288505554,13.7567491531,48.5288505554",
     "geom:latitude":48.528851,
     "geom:longitude":13.756749,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"partners.trodat.net/simson",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835993,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BvcSQKnYUrwjWTDd4ULvs_48.528851_13.756749@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896760,
-    "wof:geomhash":"77aea9a274a1abc38a9615a0371adda1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aec622f032c07512a1d2b7a41cb4b5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835993,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092005529
+        }
+    ],
     "wof:id":1092005529,
-    "wof:lastmodified":1473984419,
+    "wof:lastmodified":1496889170,
     "wof:name":"SIMSON Handelsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

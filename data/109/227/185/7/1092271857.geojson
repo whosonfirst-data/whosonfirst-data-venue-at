@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2591657639,47.4495391846,12.2591657639,47.4495391846",
     "geom:latitude":47.449539,
     "geom:longitude":12.259166,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZkAHzQ3sMJdD0fDlCV1we_47.449539_12.259166@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908677,
-    "wof:geomhash":"b520be0d0c13d8f1497d8a388db2a80d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d22c70adf16aa8ad556908bca6a6ef80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092271857
+        }
+    ],
     "wof:id":1092271857,
-    "wof:lastmodified":1473983833,
+    "wof:lastmodified":1496897261,
     "wof:name":"Elektro Strobl GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

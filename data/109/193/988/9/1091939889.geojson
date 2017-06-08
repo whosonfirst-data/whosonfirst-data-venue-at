@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9600982666,47.9773788452,13.9600982666,47.9773788452",
     "geom:latitude":47.977379,
     "geom:longitude":13.960098,
@@ -23,17 +24,33 @@
     "sg:postcode":"4643",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835267,
+        85632785,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21rmGNQ3cMmtCRa3hmpmb1_47.977379_13.960098@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473893931,
-    "wof:geomhash":"58357aaac9800e191e19cd13a7d1652a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6000947fde7e84be45597245334b4ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835267,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091939889
+        }
+    ],
     "wof:id":1091939889,
-    "wof:lastmodified":1473985245,
+    "wof:lastmodified":1496885734,
     "wof:name":"Wippro Dachbodentreppen Wipplinger GesmbH & Co KG - Ausstellungszentrum Pettenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

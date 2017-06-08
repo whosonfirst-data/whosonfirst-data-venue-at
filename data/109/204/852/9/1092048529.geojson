@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3184146881,47.4361763,12.3184146881,47.4361763",
     "geom:latitude":47.436176,
     "geom:longitude":12.318415,
@@ -28,17 +29,34 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        101834287,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qIRe2jVTEzYxsLoRyoZ6d_47.436176_12.318415@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898454,
-    "wof:geomhash":"5d3c5f98745a353f0a9ac56c94576c01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80ae1ffc08be49582712df88a1740172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":101834287,
+            "region_id":85681661,
+            "venue_id":1092048529
+        }
+    ],
     "wof:id":1092048529,
-    "wof:lastmodified":1473984261,
+    "wof:lastmodified":1496899133,
     "wof:name":"Hotel Sonnalp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8967094421,47.6612091064,15.8967094421,47.6612091064",
     "geom:latitude":47.661209,
     "geom:longitude":15.896709,
@@ -33,17 +34,33 @@
         "fitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836613,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xueKpVVsz8hnUo20Mofgr_47.661209_15.896709@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889221,
-    "wof:geomhash":"10b605ea3dc936cf77da8968bcc11b1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49d2726982b00cab5ceadde93ca07106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108836613,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091838829
+        }
+    ],
     "wof:id":1091838829,
-    "wof:lastmodified":1473985150,
+    "wof:lastmodified":1496891930,
     "wof:name":"Franz Puchegger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.9796724319,47.4755058289,11.9796724319,47.4755058289",
     "geom:latitude":47.475506,
     "geom:longitude":11.979672,
@@ -35,17 +36,34 @@
         "customized"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837689,
+        85632785,
+        101834301,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41vqTKwli6K21GUIqF7Qpk_47.475506_11.979672@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905825,
-    "wof:geomhash":"f515bae3b718b3a8e300dbba35776e8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"338fc5ddb73ce9a823157735d7646d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837689,
+            "locality_id":101834301,
+            "region_id":85681661,
+            "venue_id":1092206937
+        }
+    ],
     "wof:id":1092206937,
-    "wof:lastmodified":1473984751,
+    "wof:lastmodified":1496897722,
     "wof:name":"Thaler & Lipinski OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8764867783,46.8696746826,12.8764867783,46.8696746826",
     "geom:latitude":46.869675,
     "geom:longitude":12.876487,
@@ -34,17 +35,33 @@
         "antenna"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838311,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30ugTjZMfXnXBDyAIw0tFZ_46.869675_12.876487@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909285,
-    "wof:geomhash":"52d86f3211563c03f569dbbc5c2b301f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57674fec794aaaccf7fac6664d44c2bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838311,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092285983
+        }
+    ],
     "wof:id":1092285983,
-    "wof:lastmodified":1473984548,
+    "wof:lastmodified":1496907261,
     "wof:name":"Elektro Gasser GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

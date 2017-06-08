@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4011802673,48.2002983093,15.4011802673,48.2002983093",
     "geom:latitude":48.200298,
     "geom:longitude":15.40118,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835017,
+        85632785,
+        101784561,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gGnQJqcnkIQYtkWEkJjVe_48.200298_15.401180@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908451,
-    "wof:geomhash":"cf99638e7b767501ab1734b660c374e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"418fef4a4634e35fbf9ceea4fd66774b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835017,
+            "locality_id":101784561,
+            "region_id":85681671,
+            "venue_id":1092266509
+        }
+    ],
     "wof:id":1092266509,
-    "wof:lastmodified":1473984604,
+    "wof:lastmodified":1496884211,
     "wof:name":"HEINRICH SCHEDLMAYER KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

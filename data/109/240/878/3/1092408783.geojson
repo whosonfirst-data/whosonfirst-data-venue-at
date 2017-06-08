@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4635791779,47.5828018188,16.4635791779,47.5828018188",
     "geom:latitude":47.582802,
     "geom:longitude":16.463579,
@@ -23,17 +24,33 @@
     "sg:postcode":"7322",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838525,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sltdJuqAXYHZkmbtz6Cl4_47.582802_16.463579@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914798,
-    "wof:geomhash":"9b59cb9c3681ff884a008387eac39f14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ec8b37cbae724e964f1730976b9e485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838525,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092408783
+        }
+    ],
     "wof:id":1092408783,
-    "wof:lastmodified":1473984959,
+    "wof:lastmodified":1496908373,
     "wof:name":"Alfred Cihlar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

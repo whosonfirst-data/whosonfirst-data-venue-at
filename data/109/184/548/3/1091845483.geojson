@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8241558075,48.5959396362,16.8241558075,48.5959396362",
     "geom:latitude":48.59594,
     "geom:longitude":16.824156,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836885,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aT7sUH9r2oW98q75jvGMc_48.595940_16.824156@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889495,
-    "wof:geomhash":"aed68985cea7b70020aa8707705384f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"236ede6bee4482a8280b0b36a6a80814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836885,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091845483
+        }
+    ],
     "wof:id":1091845483,
-    "wof:lastmodified":1473984293,
+    "wof:lastmodified":1496893307,
     "wof:name":"Weinwurm GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

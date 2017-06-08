@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1241750717,47.3594856262,11.1241750717,47.3594856262",
     "geom:latitude":47.359486,
     "geom:longitude":11.124175,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Hv43nYTWfKKPPifEd4GBh_47.359486_11.124175@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899136,
-    "wof:geomhash":"584a27c8e689f03ad0aa84c0ef06e7a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f6de885d68528dcd30916f100d66f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092065837
+        }
+    ],
     "wof:id":1092065837,
-    "wof:lastmodified":1473984415,
+    "wof:lastmodified":1496898442,
     "wof:name":"Gasthaus Gaistal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

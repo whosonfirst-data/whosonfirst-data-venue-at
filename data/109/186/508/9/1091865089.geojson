@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6502170563,47.3540153503,9.6502170563,47.3540153503",
     "geom:latitude":47.354015,
     "geom:longitude":9.650217,
@@ -23,17 +24,34 @@
     "sg:postcode":"6844",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D88yIiGows4kiJGl5L1bq_47.354015_9.650217@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890441,
-    "wof:geomhash":"0890b30ced0526a41378c433b01bc986",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd0f9f83424e403cc15fb5f1f30327b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1091865089
+        }
+    ],
     "wof:id":1091865089,
-    "wof:lastmodified":1473984620,
+    "wof:lastmodified":1496900497,
     "wof:name":"B\u00fccherei Altach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

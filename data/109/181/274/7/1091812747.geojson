@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0886154175,47.8580131531,13.0886154175,47.8580131531",
     "geom:latitude":47.858013,
     "geom:longitude":13.088615,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888032,
-    "wof:geomhash":"3cf4be517dc7fcf38c5e6f3758dde112",
+    "wof:geomhash":"ced956006c314b43801bede72fffa693",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1091812747
         }
     ],
     "wof:id":1091812747,
-    "wof:lastmodified":1473983858,
+    "wof:lastmodified":1496895381,
     "wof:name":"Albert Pomwenger",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

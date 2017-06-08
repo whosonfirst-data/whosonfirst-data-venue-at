@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.486989975,47.0316696167,11.486989975,47.0316696167",
     "geom:latitude":47.03167,
     "geom:longitude":11.48699,
@@ -23,17 +24,33 @@
     "sg:postcode":"6156",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837595,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c9z0Xsa7w07S0HuxiITv1_47.031670_11.486990@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909270,
-    "wof:geomhash":"7f833a1b394d3c408c9be0b1c33b9884",
-    "wof:hierarchy":[],
+    "wof:geomhash":"573b9a0c3618988bc3f124ffcbe5d982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837595,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092285577
+        }
+    ],
     "wof:id":1092285577,
-    "wof:lastmodified":1473984452,
+    "wof:lastmodified":1496898635,
     "wof:name":"Mair Anlagenbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

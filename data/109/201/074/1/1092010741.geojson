@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3671417236,48.2598114014,16.3671417236,48.2598114014",
     "geom:latitude":48.259811,
     "geom:longitude":16.367142,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896975,
-    "wof:geomhash":"953cad80def64d6bd5dd77d8b2e711ea",
+    "wof:geomhash":"67bcff269457ae911e3275b7e68a2f1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092010741
         }
     ],
     "wof:id":1092010741,
-    "wof:lastmodified":1473983326,
+    "wof:lastmodified":1496904107,
     "wof:name":"MediaIdeas.direct B Ehrlich GesmbH",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

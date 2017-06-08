@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4523305893,47.1275978088,11.4523305893,47.1275978088",
     "geom:latitude":47.127598,
     "geom:longitude":11.452331,
@@ -29,17 +30,33 @@
     "sg:province":"Tirol",
     "sg:website":"parkhotel-matrei.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837543,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T6apgYpnidnGjywmZVeaE_47.127598_11.452331@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898317,
-    "wof:geomhash":"c821f7a3fe5f474dcc97932560cf30d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35a2e7d4ab8c7947fe4e91917041d98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837543,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092044951
+        }
+    ],
     "wof:id":1092044951,
-    "wof:lastmodified":1473983704,
+    "wof:lastmodified":1496898454,
     "wof:name":"Familie Obojes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

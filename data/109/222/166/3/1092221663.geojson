@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6674547195,48.4080123901,15.6674547195,48.4080123901",
     "geom:latitude":48.408012,
     "geom:longitude":15.667455,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836665,
+        85632785,
+        102049873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qMuR665FKesbH6Q9l4A49_48.408012_15.667455@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906465,
-    "wof:geomhash":"bf472f984616ea291cb056351851f2e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e9fe0650c050d31e4819a40a7d1f933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049873,
+            "localadmin_id":1108836665,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092221663
+        }
+    ],
     "wof:id":1092221663,
-    "wof:lastmodified":1473983729,
+    "wof:lastmodified":1496892298,
     "wof:name":"Pemmer Leopold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

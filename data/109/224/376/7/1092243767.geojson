@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4692420959,47.2642745972,11.4692420959,47.2642745972",
     "geom:latitude":47.264275,
     "geom:longitude":11.469242,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907442,
-    "wof:geomhash":"482b81f9f752dd7dd2ca7945719dd50f",
+    "wof:geomhash":"a77edfe0819ff53fe713ca5d650eccd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092243767
         }
     ],
     "wof:id":1092243767,
-    "wof:lastmodified":1473984168,
+    "wof:lastmodified":1496898026,
     "wof:name":"Kaltenhauser Peter",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

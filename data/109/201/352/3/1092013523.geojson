@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5943670273,48.3415794373,14.5943670273,48.3415794373",
     "geom:latitude":48.341579,
     "geom:longitude":14.594367,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835103,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hmGLfY94OgbgqpOlOZL5L_48.341579_14.594367@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897085,
-    "wof:geomhash":"4a5d4c4f3fb3ddf077bc7ec1b889dc5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9addcbb9077deb71f0714be10a893062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835103,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092013523
+        }
+    ],
     "wof:id":1092013523,
-    "wof:lastmodified":1473983612,
+    "wof:lastmodified":1496884587,
     "wof:name":"Josef Punz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

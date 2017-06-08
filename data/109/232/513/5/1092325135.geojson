@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3243227005,46.6500205994,14.3243227005,46.6500205994",
     "geom:latitude":46.650021,
     "geom:longitude":14.324323,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911022,
-    "wof:geomhash":"c8d973c64b5316e05c4190eb4736cf7a",
+    "wof:geomhash":"5fce9781f29dc5a6d24f0244f666ad7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1092325135
         }
     ],
     "wof:id":1092325135,
-    "wof:lastmodified":1473984638,
+    "wof:lastmodified":1496905609,
     "wof:name":"Sixt Autovermietung",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.268371582,47.2527084351,11.268371582,47.2527084351",
     "geom:latitude":47.252708,
     "geom:longitude":11.268372,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892073,
-    "wof:geomhash":"233866b07437554716304af4217ba2a0",
+    "wof:geomhash":"810f4f429586f6da0967f0f0251a1766",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091899419
         }
     ],
     "wof:id":1091899419,
-    "wof:lastmodified":1473985185,
+    "wof:lastmodified":1496898647,
     "wof:name":"Ostermann Alois",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

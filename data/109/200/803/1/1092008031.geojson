@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4993801117,48.3111495972,16.4993801117,48.3111495972",
     "geom:latitude":48.31115,
     "geom:longitude":16.49938,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896869,
-    "wof:geomhash":"5ee540ddc6001ccf7523debd371d9937",
+    "wof:geomhash":"7a5e9c50b5ed2b5c61ca33b86b078d36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092008031
         }
     ],
     "wof:id":1092008031,
-    "wof:lastmodified":1473984859,
+    "wof:lastmodified":1496890132,
     "wof:name":"Gartus Werner Dr - Atelier f industrial Design",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

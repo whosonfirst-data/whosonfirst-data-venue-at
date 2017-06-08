@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7279682159,47.9400062561,16.7279682159,47.9400062561",
     "geom:latitude":47.940006,
     "geom:longitude":16.727968,
@@ -32,17 +33,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838521,
+        85632785,
+        101785627,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FOZeUq8WRngy8oe1U9v3H_47.940006_16.727968@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915992,
-    "wof:geomhash":"e63cf9236109f982759cd4732d92ab6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56c9167b7218ca8a279c989af4e78a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838521,
+            "locality_id":101785627,
+            "region_id":85681651,
+            "venue_id":1092431847
+        }
+    ],
     "wof:id":1092431847,
-    "wof:lastmodified":1473983662,
+    "wof:lastmodified":1496908353,
     "wof:name":"MASTERFOODS AUSTRIA OHG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

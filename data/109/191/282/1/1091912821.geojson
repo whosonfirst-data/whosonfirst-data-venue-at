@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.954867363,48.2035179138,13.954867363,48.2035179138",
     "geom:latitude":48.203518,
     "geom:longitude":13.954867,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836557,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hJ2KNgfnUtogL0UXLILoG_48.203518_13.954867@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892676,
-    "wof:geomhash":"12b5c49d3bce116304e2ce009cd8cfc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1cef507585460bc02b0887a41930d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836557,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091912821
+        }
+    ],
     "wof:id":1091912821,
-    "wof:lastmodified":1473983639,
+    "wof:lastmodified":1496891621,
     "wof:name":"cmaxmedia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

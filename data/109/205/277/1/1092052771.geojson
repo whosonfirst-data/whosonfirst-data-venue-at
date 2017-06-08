@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5221529007,48.3030471802,13.5221529007,48.3030471802",
     "geom:latitude":48.303047,
     "geom:longitude":13.522153,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835651,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PlW4CCZKNQwGbxYbK94TE_48.303047_13.522153@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898618,
-    "wof:geomhash":"66aa4fe142f36722daf0543a6f270fc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c35a62ccf98220ac973312c58e42977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835651,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092052771
+        }
+    ],
     "wof:id":1092052771,
-    "wof:lastmodified":1473983870,
+    "wof:lastmodified":1496887792,
     "wof:name":"JOHANN HUBER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

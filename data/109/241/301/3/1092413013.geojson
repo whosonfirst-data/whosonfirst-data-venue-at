@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4048976898,48.3587684631,14.4048976898,48.3587684631",
     "geom:latitude":48.358768,
     "geom:longitude":14.404898,
@@ -23,17 +24,34 @@
     "sg:postcode":"4210",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836149,
+        85632785,
+        101784613,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vhddcF6AKYleaSAqWTNj9_48.358768_14.404898@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473915112,
-    "wof:geomhash":"338daacc30795a75f0299e0f56d62078",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b33d17f4513e4bb4ed9cec5da5aa8b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836149,
+            "locality_id":101784613,
+            "region_id":85681677,
+            "venue_id":1092413013
+        }
+    ],
     "wof:id":1092413013,
-    "wof:lastmodified":1473983990,
+    "wof:lastmodified":1496889798,
     "wof:name":"\u00f6sterreichische Fernw\u00e4rmegesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8060922623,46.6130180359,13.8060922623,46.6130180359",
     "geom:latitude":46.613018,
     "geom:longitude":13.806092,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896231,
-    "wof:geomhash":"a1ce37c27d3fea022d3140a51236603b",
+    "wof:geomhash":"40448b41b579b353c724b713046b6c6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1091992925
         }
     ],
     "wof:id":1091992925,
-    "wof:lastmodified":1473983865,
+    "wof:lastmodified":1496906067,
     "wof:name":"Teppan Franz GmbH",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

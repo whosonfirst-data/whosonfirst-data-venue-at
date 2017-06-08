@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5791215897,47.236618042,9.5791215897,47.236618042",
     "geom:latitude":47.236618,
     "geom:longitude":9.579122,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893947,
-    "wof:geomhash":"720658f8d41a3397316c9b70ea5be35f",
+    "wof:geomhash":"df26fb4caf0bdf27b18e4072d203f25a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091940279
         }
     ],
     "wof:id":1091940279,
-    "wof:lastmodified":1473983359,
+    "wof:lastmodified":1496900953,
     "wof:name":"Stefan Geiger Keramik",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

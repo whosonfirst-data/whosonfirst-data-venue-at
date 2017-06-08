@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0745773315,48.1520614624,15.0745773315,48.1520614624",
     "geom:latitude":48.152061,
     "geom:longitude":15.074577,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"rcs.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836671,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gTd3IV7naxn1Ck6gVsZVM_48.152061_15.074577@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905483,
-    "wof:geomhash":"343fe803d6f6653f1635ce84a8c06dce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ac3e07e8753a193ba5d311b1d9bed4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836671,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092200547
+        }
+    ],
     "wof:id":1092200547,
-    "wof:lastmodified":1473983412,
+    "wof:lastmodified":1496892332,
     "wof:name":"RCS Raum Clima Systeme GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

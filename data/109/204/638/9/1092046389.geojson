@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7746562958,46.8133392334,13.7746562958,46.8133392334",
     "geom:latitude":46.813339,
     "geom:longitude":13.774656,
@@ -28,17 +29,33 @@
     "sg:postcode":"9546",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71F2zkORjkp50D5ZS9AUTJ_46.813339_13.774656@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898369,
-    "wof:geomhash":"7852dd1cc87cb713ba2ffa7e9c839f61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7622bcb4ff793f6e1bec04242cfea6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092046389
+        }
+    ],
     "wof:id":1092046389,
-    "wof:lastmodified":1473983916,
+    "wof:lastmodified":1496906804,
     "wof:name":"Hotel Eschenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

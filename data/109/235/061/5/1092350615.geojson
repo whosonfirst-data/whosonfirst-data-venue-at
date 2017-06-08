@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5021619797,46.9577445984,10.5021619797,46.9577445984",
     "geom:latitude":46.957745,
     "geom:longitude":10.502162,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"pfunds-kerle.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837315,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gNQIjhYN2xlcieOp0c0BZ_46.957745_10.502162@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912103,
-    "wof:geomhash":"6c28cc7d9425b1d954d6b8bb97f1ec35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"071937bef6c96cdc5a1923f87d3c1e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837315,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092350615
+        }
+    ],
     "wof:id":1092350615,
-    "wof:lastmodified":1473983342,
+    "wof:lastmodified":1496896847,
     "wof:name":"Pfundskerle Musikgruppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

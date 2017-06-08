@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8033018112,48.3221206665,15.8033018112,48.3221206665",
     "geom:latitude":48.322121,
     "geom:longitude":15.803302,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835861,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lpkqcY2KC56wUGYGTiXYf_48.322121_15.803302@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898610,
-    "wof:geomhash":"d8662120fa73fd6dc3d7881127283fab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac658a26612174152074eb291ce36008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835861,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092052555
+        }
+    ],
     "wof:id":1092052555,
-    "wof:lastmodified":1473983824,
+    "wof:lastmodified":1496888688,
     "wof:name":"ANDREAS HANN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

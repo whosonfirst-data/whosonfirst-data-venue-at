@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4389057159,47.5032463074,12.4389057159,47.5032463074",
     "geom:latitude":47.503246,
     "geom:longitude":12.438906,
@@ -23,17 +24,33 @@
     "sg:postcode":"6380",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sYEXCueHNIBvQVj8PlsFL_47.503246_12.438906@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899464,
-    "wof:geomhash":"a23e54a8f6776f95d393b777643240b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fc7a3ed4102d4c7a58f934c6946f16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092073847
+        }
+    ],
     "wof:id":1092073847,
-    "wof:lastmodified":1473984028,
+    "wof:lastmodified":1496897376,
     "wof:name":"Gasthof Pointerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

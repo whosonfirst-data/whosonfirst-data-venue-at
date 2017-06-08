@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5276536942,48.2708244324,14.5276536942,48.2708244324",
     "geom:latitude":48.270824,
     "geom:longitude":14.527654,
@@ -31,17 +32,33 @@
         "demolition"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835605,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ejY2j96S0LMIpLtXaTkW_48.270824_14.527654@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896834,
-    "wof:geomhash":"d07972736045cfbd9d212c192929adc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"985e0f85c734fbc8d3317af2d6a54cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835605,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092007211
+        }
+    ],
     "wof:id":1092007211,
-    "wof:lastmodified":1473984700,
+    "wof:lastmodified":1496887649,
     "wof:name":"Scheuwimmer Erdbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3437185287,47.2655067444,11.3437185287,47.2655067444",
     "geom:latitude":47.265507,
     "geom:longitude":11.343719,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892760,
-    "wof:geomhash":"436da1b3de2a85c0ff64f60ed326b0e3",
+    "wof:geomhash":"17f99be38d4da25398cc7e23532d3bb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1091914307
         }
     ],
     "wof:id":1091914307,
-    "wof:lastmodified":1473983871,
+    "wof:lastmodified":1496899342,
     "wof:name":"Kleinlercher Markus Ing",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

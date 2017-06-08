@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.966583252,47.3780403137,14.966583252,47.3780403137",
     "geom:latitude":47.37804,
     "geom:longitude":14.966583,
@@ -23,17 +24,33 @@
     "sg:postcode":"8772",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838991,
+        85632785,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67ncbfzjXVwTsy8J3WRu0T_47.378040_14.966583@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893486,
-    "wof:geomhash":"ab683fa3aab0928b98e4ccce5005cb7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99c3f2bb2e871d1ae1926688ec8ce5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838991,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091929387
+        }
+    ],
     "wof:id":1091929387,
-    "wof:lastmodified":1473985045,
+    "wof:lastmodified":1496910721,
     "wof:name":"Alpine Sportfliegerclub Leoben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3310623169,47.1223297119,11.3310623169,47.1223297119",
     "geom:latitude":47.12233,
     "geom:longitude":11.331062,
@@ -23,17 +24,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_261NpyRGcZQvDJMld78pAC_47.122330_11.331062@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915975,
-    "wof:geomhash":"56a552a852aa722921e7178051add0da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da586c8b57757c085d12709f2c91f807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092431447
+        }
+    ],
     "wof:id":1092431447,
-    "wof:lastmodified":1473983514,
+    "wof:lastmodified":1496898536,
     "wof:name":"Gleirscher Reinhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

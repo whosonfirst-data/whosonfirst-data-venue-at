@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2680187225,48.1877975464,16.2680187225,48.1877975464",
     "geom:latitude":48.187798,
     "geom:longitude":16.268019,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891087,
-    "wof:geomhash":"c6f39ee2d3787d0e7da920d53a7a5275",
+    "wof:geomhash":"3960ea89af2d15b99358d18f7b893402",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091878845
         }
     ],
     "wof:id":1091878845,
-    "wof:lastmodified":1473985109,
+    "wof:lastmodified":1496903025,
     "wof:name":"Massing Dorothea & Gernot",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

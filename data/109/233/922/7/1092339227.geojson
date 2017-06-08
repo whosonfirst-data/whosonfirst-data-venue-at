@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1679420471,47.5864105225,12.1679420471,47.5864105225",
     "geom:latitude":47.586411,
     "geom:longitude":12.167942,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.baumgartner-werbung.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GPbXc7RQsHLUtRIoAgT3K_47.586411_12.167942@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911600,
-    "wof:geomhash":"597c6224f799611255f2f0decfc65595",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ee20f7da356d68937ad2ad53df4eaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1092339227
+        }
+    ],
     "wof:id":1092339227,
-    "wof:lastmodified":1473985310,
+    "wof:lastmodified":1496897704,
     "wof:name":"Baumgartner Werbeagentur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

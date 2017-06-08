@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7426872253,47.4129600525,9.7426872253,47.4129600525",
     "geom:latitude":47.41296,
     "geom:longitude":9.742687,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896688,
-    "wof:geomhash":"da9fb40181da45e000ebefdf0f2e863d",
+    "wof:geomhash":"f92e4e20b5c71fe2a0c6dbbbe306c3cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092003847
         }
     ],
     "wof:id":1092003847,
-    "wof:lastmodified":1473984154,
+    "wof:lastmodified":1496900803,
     "wof:name":"Monari BBG Fashion GesmbH",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

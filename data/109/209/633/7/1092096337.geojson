@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6088218689,47.2474517822,9.6088218689,47.2474517822",
     "geom:latitude":47.247452,
     "geom:longitude":9.608822,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900625,
-    "wof:geomhash":"fa9032bf2a6c42d4fa36b7ef254218e4",
+    "wof:geomhash":"51688a6a3a4a0a7f8e18214f541a53c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092096337
         }
     ],
     "wof:id":1092096337,
-    "wof:lastmodified":1473984470,
+    "wof:lastmodified":1496900910,
     "wof:name":"Gewerkschaft d Post- u Fernmeldebediensteten",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

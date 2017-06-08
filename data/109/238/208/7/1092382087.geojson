@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3730669022,46.6262626648,13.3730669022,46.6262626648",
     "geom:latitude":46.626263,
     "geom:longitude":13.373067,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838149,
+        85632785,
+        101790089,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OhMcQRIWhKOFgEuJnwRoF_46.626263_13.373067@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913531,
-    "wof:geomhash":"159c20f36b99fd23453952ec228b2418",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6d49d21d0518c247bad783f74ac716a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838149,
+            "locality_id":101790089,
+            "region_id":85681655,
+            "venue_id":1092382087
+        }
+    ],
     "wof:id":1092382087,
-    "wof:lastmodified":1473983841,
+    "wof:lastmodified":1496906213,
     "wof:name":"Bar Vinissimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

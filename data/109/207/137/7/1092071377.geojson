@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.289273262,47.2489089966,12.289273262,47.2489089966",
     "geom:latitude":47.248909,
     "geom:longitude":12.289273,
@@ -23,17 +24,33 @@
     "sg:postcode":"5741",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837223,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JZBcKomBwqYrxiFpVtT2Z_47.248909_12.289273@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899362,
-    "wof:geomhash":"913ae3ff979ad67fc78976b1ce363b40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce9639116898dfb5e2abe3fa402e36c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837223,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092071377
+        }
+    ],
     "wof:id":1092071377,
-    "wof:lastmodified":1473983585,
+    "wof:lastmodified":1496896129,
     "wof:name":"Gasthaus-Pension Dreier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

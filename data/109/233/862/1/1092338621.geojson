@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0360603333,47.4098701477,12.0360603333,47.4098701477",
     "geom:latitude":47.40987,
     "geom:longitude":12.03606,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837277,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rWWp4pGcsL4EiVQ9olRMT_47.409870_12.036060@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911572,
-    "wof:geomhash":"e6c55b1efcbcf8d8611ef6a01e22e6ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08f0760910982dafd5af6fc20bf8d73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837277,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092338621
+        }
+    ],
     "wof:id":1092338621,
-    "wof:lastmodified":1473985298,
+    "wof:lastmodified":1496896623,
     "wof:name":"SCHATZBERGBAHN GES.MBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

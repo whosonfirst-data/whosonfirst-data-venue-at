@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3822002411,47.2568778992,11.3822002411,47.2568778992",
     "geom:latitude":47.256878,
     "geom:longitude":11.3822,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897819,
-    "wof:geomhash":"bbce36c68f31d0ae6e9aaf74a2ffac2d",
+    "wof:geomhash":"0a31da39202f9eae0d4e3803603b9028",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092032277
         }
     ],
     "wof:id":1092032277,
-    "wof:lastmodified":1473983738,
+    "wof:lastmodified":1496899291,
     "wof:name":"Neuner Markus",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7628965378,47.273223877,12.7628965378,47.273223877",
     "geom:latitude":47.273224,
     "geom:longitude":12.762897,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"www.hotel-sonnblick.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        101789131,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FE8XrLyUlVAA5LdA7gqFs_47.273224_12.762897@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898454,
-    "wof:geomhash":"6d81b3c45354e5b3cf9e14c5f7130f34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0693bb673402896eba7e3df4e370891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":101789131,
+            "region_id":85681681,
+            "venue_id":1092048541
+        }
+    ],
     "wof:id":1092048541,
-    "wof:lastmodified":1473984261,
+    "wof:lastmodified":1496895944,
     "wof:name":"Hotel Sonnblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

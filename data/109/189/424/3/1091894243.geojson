@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3901662827,47.2577095032,11.3901662827,47.2577095032",
     "geom:latitude":47.25771,
     "geom:longitude":11.390166,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891810,
-    "wof:geomhash":"dcaf0d303b9b6020d91ca40eb404e1b6",
+    "wof:geomhash":"1ede1a2009755a369cca01d2bef8962e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091894243
         }
     ],
     "wof:id":1091894243,
-    "wof:lastmodified":1473984240,
+    "wof:lastmodified":1496899227,
     "wof:name":"Ottlyk Wolfgang",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6175632477,47.313709259,9.6175632477,47.313709259",
     "geom:latitude":47.313709,
     "geom:longitude":9.617563,
@@ -31,17 +32,34 @@
         "supervision"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837977,
+        85632785,
+        101827455,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wAbVg9uVO6cf0PnppEToD_47.313709_9.617563@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473894029,
-    "wof:geomhash":"f1d6165222d0c0b8a984e882681b89d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41a84d3d010607f54702b7022e31da56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837977,
+            "locality_id":101827455,
+            "region_id":85681649,
+            "venue_id":1091941979
+        }
+    ],
     "wof:id":1091941979,
-    "wof:lastmodified":1473983729,
+    "wof:lastmodified":1496901226,
     "wof:name":"Sonderegger Margarete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

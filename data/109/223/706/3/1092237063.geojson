@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8140716553,46.6202926636,13.8140716553,46.6202926636",
     "geom:latitude":46.620293,
     "geom:longitude":13.814072,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907132,
-    "wof:geomhash":"a1ca9c59461f185393abc412ed9a4813",
+    "wof:geomhash":"113912684458d8dc8d67e0e077bb31d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1092237063
         }
     ],
     "wof:id":1092237063,
-    "wof:lastmodified":1473984838,
+    "wof:lastmodified":1496906006,
     "wof:name":"Tierschutzverein - Tierheim",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

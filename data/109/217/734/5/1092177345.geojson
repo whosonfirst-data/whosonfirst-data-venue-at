@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8647594452,47.3458824158,11.8647594452,47.3458824158",
     "geom:latitude":47.345882,
     "geom:longitude":11.864759,
@@ -23,17 +24,33 @@
     "sg:postcode":"6263",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837873,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NmcEsLG3KiOOnEX9Qol7s_47.345882_11.864759@1306268280"
     },
     "wof:country":"AT",
     "wof:created":1473904459,
-    "wof:geomhash":"692083055c36e0cb3d7741d448dc3e9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"169cfe094669ce413e8871b54203a5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837873,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092177345
+        }
+    ],
     "wof:id":1092177345,
-    "wof:lastmodified":1473984832,
+    "wof:lastmodified":1496900334,
     "wof:name":"Lagerhaus Hart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

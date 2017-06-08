@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2562837601,48.2718200684,13.2562837601,48.2718200684",
     "geom:latitude":48.27182,
     "geom:longitude":13.256284,
@@ -33,17 +34,33 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834707,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QGOcTTQbbaY0T2vXUFfXp_48.271820_13.256284@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912304,
-    "wof:geomhash":"ed5e49362e751f51dbea3d7ab086601a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5dbb0a7d8119f953009822925638812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834707,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092355363
+        }
+    ],
     "wof:id":1092355363,
-    "wof:lastmodified":1473984492,
+    "wof:lastmodified":1496882187,
     "wof:name":"BHG BETRIEBSMITTEL HANDELS GMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

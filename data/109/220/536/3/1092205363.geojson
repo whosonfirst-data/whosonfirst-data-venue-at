@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.655880928,47.3532714844,9.655880928,47.3532714844",
     "geom:latitude":47.353271,
     "geom:longitude":9.655881,
@@ -32,17 +33,34 @@
         "cnc"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u8Pplm5QHc1PUY0cnL70C_47.353271_9.655881@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905758,
-    "wof:geomhash":"f112f7d84d240fc5c2e54d84e3811703",
-    "wof:hierarchy":[],
+    "wof:geomhash":"068c02d6c2345d3f8314dfad69684469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1092205363
+        }
+    ],
     "wof:id":1092205363,
-    "wof:lastmodified":1473984551,
+    "wof:lastmodified":1496900493,
     "wof:name":"Albert Neyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

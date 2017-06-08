@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0261869431,48.1544075012,14.0261869431,48.1544075012",
     "geom:latitude":48.154408,
     "geom:longitude":14.026187,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.geodata.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RBHZxW7IQIiVBBcVngQzo_48.154408_14.026187@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895828,
-    "wof:geomhash":"e16e85ec622c64643d0d603e4686a058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a71f51759519905829ffb1f3a5eee41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1091983343
+        }
+    ],
     "wof:id":1091983343,
-    "wof:lastmodified":1473983704,
+    "wof:lastmodified":1496881949,
     "wof:name":"GEODATA ZiviltechnikergesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

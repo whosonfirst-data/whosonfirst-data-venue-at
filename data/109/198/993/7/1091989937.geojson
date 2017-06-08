@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4945831299,47.4136657715,16.4945831299,47.4136657715",
     "geom:latitude":47.413666,
     "geom:longitude":16.494583,
@@ -23,17 +24,33 @@
     "sg:postcode":"7443",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838487,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y4fKleyYHlT8f5BpF5B1n_47.413666_16.494583@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896101,
-    "wof:geomhash":"52c98505ac478433d14dcd11fc084997",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97efa837f7db7d78dc2ae82a5b5505d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838487,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091989937
+        }
+    ],
     "wof:id":1091989937,
-    "wof:lastmodified":1473984682,
+    "wof:lastmodified":1496908161,
     "wof:name":"Heizungstechnik Nimmrichter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

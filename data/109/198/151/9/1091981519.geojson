@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1642684937,48.2205619812,16.1642684937,48.2205619812",
     "geom:latitude":48.220562,
     "geom:longitude":16.164268,
@@ -23,17 +24,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://members.telecom.at/~reika/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835737,
+        85632785,
+        101754229,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VAr3q2qKJlbSmPqwFo6oo_48.220562_16.164268@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895758,
-    "wof:geomhash":"577def5d9c113fb7d2990759fa9a0165",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ae410caad00b4720385544b406077a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108835737,
+            "locality_id":101754229,
+            "region_id":85681671,
+            "venue_id":1091981519
+        }
+    ],
     "wof:id":1091981519,
-    "wof:lastmodified":1473983343,
+    "wof:lastmodified":1496892731,
     "wof:name":"Gelantec mbH - Audio- und Videotechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

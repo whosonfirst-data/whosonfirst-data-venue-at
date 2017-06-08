@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0929431915,47.9850769043,13.0929431915,47.9850769043",
     "geom:latitude":47.985077,
     "geom:longitude":13.092943,
@@ -23,17 +24,33 @@
     "sg:postcode":"5163",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837159,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PtltbFgMS6IZRPrnctQNW_47.985077_13.092943@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473901043,
-    "wof:geomhash":"08f84ebf6f35ef08747a959d76c04086",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4b971daf895ea3c9fa488fe73c34bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837159,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092104605
+        }
+    ],
     "wof:id":1092104605,
-    "wof:lastmodified":1473984222,
+    "wof:lastmodified":1496895495,
     "wof:name":"Wimmer Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

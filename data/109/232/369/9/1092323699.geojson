@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2638607025,48.1478843689,16.2638607025,48.1478843689",
     "geom:latitude":48.147884,
     "geom:longitude":16.263861,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910957,
-    "wof:geomhash":"a15d4c0110cc59cb579a5830789afeaf",
+    "wof:geomhash":"f99b14c8cace8582f4256b25a8ac2eb8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092323699
         }
     ],
     "wof:id":1092323699,
-    "wof:lastmodified":1473984351,
+    "wof:lastmodified":1496902414,
     "wof:name":"Willander Erwin GesmbH",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.37550354,47.2274093628,11.37550354,47.2274093628",
     "geom:latitude":47.227409,
     "geom:longitude":11.375504,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913640,
-    "wof:geomhash":"cf2f75d55e8d156c657713a62bb1281d",
+    "wof:geomhash":"03425432285841dcb7b1bb94467e0047",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092384023
         }
     ],
     "wof:id":1092384023,
-    "wof:lastmodified":1473984281,
+    "wof:lastmodified":1496898470,
     "wof:name":"Pizzeria Santa Lucia Gastst\u00e4ttenbetriebs-GesmbH",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

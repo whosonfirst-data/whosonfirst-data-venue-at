@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2333459854,47.9445457458,13.2333459854,47.9445457458",
     "geom:latitude":47.944546,
     "geom:longitude":13.233346,
@@ -23,17 +24,33 @@
     "sg:postcode":"5202",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69JAymcLAn3IuHlz4qFAIC_47.944546_13.233346@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473887918,
-    "wof:geomhash":"057b7fb5abd721e8e310fa663f9bbfc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a98d7fc37ea40c3c5ee361b8e0f1ba78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091810117
+        }
+    ],
     "wof:id":1091810117,
-    "wof:lastmodified":1473983344,
+    "wof:lastmodified":1496895522,
     "wof:name":"Neumarkter Druckerei GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

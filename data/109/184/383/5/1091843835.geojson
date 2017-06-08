@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4884986877,48.2150306702,16.4884986877,48.2150306702",
     "geom:latitude":48.215031,
     "geom:longitude":16.488499,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889427,
-    "wof:geomhash":"174b4deae77be8008bead2aff9ba19dc",
+    "wof:geomhash":"e6abe94f769c846ff03b79e5751cff45",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091843835
         }
     ],
     "wof:id":1091843835,
-    "wof:lastmodified":1473984060,
+    "wof:lastmodified":1496903500,
     "wof:name":"Quester Baustoffhandel GmbH & Co KG",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5003662109,47.2862243652,11.5003662109,47.2862243652",
     "geom:latitude":47.286224,
     "geom:longitude":11.500366,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914336,
-    "wof:geomhash":"f2de620761a62fabbe41b3425b86262a",
+    "wof:geomhash":"a457db1c8771237a9dca5dd6e7233fb1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092398199
         }
     ],
     "wof:id":1092398199,
-    "wof:lastmodified":1473984813,
+    "wof:lastmodified":1496898008,
     "wof:name":"Eppacher Priska Mag",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2596263885,48.2049255371,14.2596263885,48.2049255371",
     "geom:latitude":48.204926,
     "geom:longitude":14.259626,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"abg-baumaschinen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835519,
+        85632785,
+        101831935,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xkpfPPITOLCPqkcLaRHFy_48.204926_14.259626@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889269,
-    "wof:geomhash":"90997b6cc04c8e451f1bd81ef92eac6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0379fa3666a88502d20e281d254f7b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835519,
+            "locality_id":101831935,
+            "region_id":85681677,
+            "venue_id":1091839947
+        }
+    ],
     "wof:id":1091839947,
-    "wof:lastmodified":1473985309,
+    "wof:lastmodified":1496886982,
     "wof:name":"ABG Allgemeine Baumaschinen GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

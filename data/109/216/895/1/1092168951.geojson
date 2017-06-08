@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8211545944,48.3318786621,15.8211545944,48.3318786621",
     "geom:latitude":48.331879,
     "geom:longitude":15.821155,
@@ -23,17 +24,33 @@
     "sg:postcode":"3454",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835861,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZXtPy21UrsJTjTpi1kwO2_48.331879_15.821155@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904078,
-    "wof:geomhash":"772780c1870efb4004439b020d479a2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c45d33bd2f0a3a737d2056bf9ca3915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835861,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092168951
+        }
+    ],
     "wof:id":1092168951,
-    "wof:lastmodified":1473985075,
+    "wof:lastmodified":1496888687,
     "wof:name":"Raiffeisen-Lagerhaus St. P\u00f6lten und Werkst\u00e4tte Reidling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

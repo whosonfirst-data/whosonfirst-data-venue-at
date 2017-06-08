@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1360263824,47.8584365845,13.1360263824,47.8584365845",
     "geom:latitude":47.858437,
     "geom:longitude":13.136026,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904148,
-    "wof:geomhash":"594a002124f92095aff9b003b2acbb22",
+    "wof:geomhash":"ce8e6fc11725c6610635e0e0ca68e458",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092170591
         }
     ],
     "wof:id":1092170591,
-    "wof:lastmodified":1473983486,
+    "wof:lastmodified":1496895323,
     "wof:name":"RENAULT TRUCKS \u00f6STERREICH VertriebsgesmbH",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

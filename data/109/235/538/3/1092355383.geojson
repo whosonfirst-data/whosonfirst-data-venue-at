@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5530967712,46.7950439453,15.5530967712,46.7950439453",
     "geom:latitude":46.795044,
     "geom:longitude":15.553097,
@@ -33,17 +34,33 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839045,
+        85632785,
+        102049699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UEgrCMFvXLM8YYGBJf5to_46.795044_15.553097@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912305,
-    "wof:geomhash":"60274dd7b2dff3952a7d6ac61ceea516",
-    "wof:hierarchy":[],
+    "wof:geomhash":"555b3f10e25c84bb69fd73e9a9cf0de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839045,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092355383
+        }
+    ],
     "wof:id":1092355383,
-    "wof:lastmodified":1473984485,
+    "wof:lastmodified":1496911019,
     "wof:name":"ELSTAR MOSDORFER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

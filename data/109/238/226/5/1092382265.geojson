@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3434076309,47.5242996216,14.3434076309,47.5242996216",
     "geom:latitude":47.5243,
     "geom:longitude":14.343408,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838903,
+        85632785,
+        101787979,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33RBsT3IDO49TWYhoVGqL3_47.524300_14.343408@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913539,
-    "wof:geomhash":"9a2f380d21c7303e37d544e52cfd674e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97346399824f2fea2bc61014659d4c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838903,
+            "locality_id":101787979,
+            "region_id":85681687,
+            "venue_id":1092382265
+        }
+    ],
     "wof:id":1092382265,
-    "wof:lastmodified":1473983872,
+    "wof:lastmodified":1496910040,
     "wof:name":"Dilans Pizzeria Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

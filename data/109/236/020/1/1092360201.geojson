@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.61328125,47.7958183289,16.61328125,47.7958183289",
     "geom:latitude":47.795818,
     "geom:longitude":16.613281,
@@ -23,17 +24,33 @@
     "sg:postcode":"7062",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838677,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qLS8mxpYEuwqFtJyV4u7U_47.795818_16.613281@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912525,
-    "wof:geomhash":"3fdc5a485a68ebea7c0c19c6dcb30800",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4f0e2f1c8b2e70be9bd7bb5bf954383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838677,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092360201
+        }
+    ],
     "wof:id":1092360201,
-    "wof:lastmodified":1473983349,
+    "wof:lastmodified":1496909096,
     "wof:name":"Biocatering Reuter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

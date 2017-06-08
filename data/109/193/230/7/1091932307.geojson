@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4846057892,48.2542037964,16.4846057892,48.2542037964",
     "geom:latitude":48.254204,
     "geom:longitude":16.484606,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893603,
-    "wof:geomhash":"3a040687095e693c79bfcdc646454834",
+    "wof:geomhash":"2e22eebd95de2299a646cb1bb809de65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1091932307
         }
     ],
     "wof:id":1091932307,
-    "wof:lastmodified":1473983848,
+    "wof:lastmodified":1496903299,
     "wof:name":"Wiener Fu\u00dfballverband Sportplatz WFV Hirschstetten",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

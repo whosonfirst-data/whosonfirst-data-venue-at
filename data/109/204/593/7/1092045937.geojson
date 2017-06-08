@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7245492935,47.1539916992,11.7245492935,47.1539916992",
     "geom:latitude":47.153992,
     "geom:longitude":11.724549,
@@ -28,17 +29,33 @@
     "sg:postcode":"6293",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837707,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Kmp83sLE6SUuWYyivoB6A_47.153992_11.724549@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898353,
-    "wof:geomhash":"5f6ce8768dcf7bee037795cfac6ea39d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bffe5826d2433391626f3909cdbf04c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837707,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092045937
+        }
+    ],
     "wof:id":1092045937,
-    "wof:lastmodified":1473983880,
+    "wof:lastmodified":1496899674,
     "wof:name":"Hotel Bergfried GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

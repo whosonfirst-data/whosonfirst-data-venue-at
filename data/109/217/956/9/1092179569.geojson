@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0769090652,47.7957839966,13.0769090652,47.7957839966",
     "geom:latitude":47.795784,
     "geom:longitude":13.076909,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904554,
-    "wof:geomhash":"cad59e06604aa5ed5aac1354b535e48f",
+    "wof:geomhash":"10cd5ecc30db6adf4366f7740ffea364",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092179569
         }
     ],
     "wof:id":1092179569,
-    "wof:lastmodified":1473985317,
+    "wof:lastmodified":1496894375,
     "wof:name":"Spar Markt Itzling",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0988845825,48.3075675964,16.0988845825,48.3075675964",
     "geom:latitude":48.307568,
     "geom:longitude":16.098885,
@@ -32,17 +33,33 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KGihexsP9L3XEe7VtqMoh_48.307568_16.098885@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911279,
-    "wof:geomhash":"415504d4ed84efeb117170ee1cb1f084",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c909971b788d41884275c83b595c6012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092331487
+        }
+    ],
     "wof:id":1092331487,
-    "wof:lastmodified":1473983693,
+    "wof:lastmodified":1496893134,
     "wof:name":"Marmor-Bau Handels- und Verlegungs-GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2871875763,48.2583999634,16.2871875763,48.2583999634",
     "geom:latitude":48.2584,
     "geom:longitude":16.287188,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898387,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899645,
-    "wof:geomhash":"5b734bf2be028a8cd93d3d241122d628",
+    "wof:geomhash":"6ceb341a23c82d40a8b1d8d2e39679b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898387,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092077473
         }
     ],
     "wof:id":1092077473,
-    "wof:lastmodified":1473984744,
+    "wof:lastmodified":1496929188,
     "wof:name":"H\u00e4userl am Roan",
     "wof:parent_id":85898387,
     "wof:placetype":"venue",

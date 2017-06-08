@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5960483551,47.2610244751,9.5960483551,47.2610244751",
     "geom:latitude":47.261024,
     "geom:longitude":9.596048,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896204,
-    "wof:geomhash":"3eacf1eaeda3fa3671a41fd48d30dc37",
+    "wof:geomhash":"21d936ea87705f7ae89a483021e6f20c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091992227
         }
     ],
     "wof:id":1091992227,
-    "wof:lastmodified":1473983670,
+    "wof:lastmodified":1496900914,
     "wof:name":"Schakmann Heiztechnik",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

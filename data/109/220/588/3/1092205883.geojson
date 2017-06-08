@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.9875164032,47.4722862244,11.9875164032,47.4722862244",
     "geom:latitude":47.472286,
     "geom:longitude":11.987516,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837403,
+        85632785,
+        101834311,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VxfIUGyh4wL2q8yhd2blv_47.472286_11.987516@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905779,
-    "wof:geomhash":"4449cb48654d01aa6f29ab58a85b5d67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a153d1ea554e1a2ccaf5887e58961af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837403,
+            "locality_id":101834311,
+            "region_id":85681661,
+            "venue_id":1092205883
+        }
+    ],
     "wof:id":1092205883,
-    "wof:lastmodified":1473984698,
+    "wof:lastmodified":1496897705,
     "wof:name":"ANDREAS RUPPRECHTER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

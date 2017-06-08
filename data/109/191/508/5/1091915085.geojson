@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7121858597,47.0968208313,15.7121858597,47.0968208313",
     "geom:latitude":47.096821,
     "geom:longitude":15.712186,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"proalpha.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838867,
+        85632785,
+        101789137,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34XW33coyDM9YtPxaYDfz4_47.096821_15.712186@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892794,
-    "wof:geomhash":"7e3632a5ee586c134b0604b90813ddf5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7927130b0eab7b8f2563f756ce1f73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838867,
+            "locality_id":101789137,
+            "region_id":85681687,
+            "venue_id":1091915085
+        }
+    ],
     "wof:id":1091915085,
-    "wof:lastmodified":1473983951,
+    "wof:lastmodified":1496909728,
     "wof:name":"proALPHA Software Austria GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

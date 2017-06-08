@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6584272385,47.427116394,9.6584272385,47.427116394",
     "geom:latitude":47.427116,
     "geom:longitude":9.658427,
@@ -23,17 +24,34 @@
     "sg:postcode":"6890",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IBzg1o8b0nynheGlIeFd1_47.427116_9.658427@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888555,
-    "wof:geomhash":"4d353ef6d087ff91d4da12a473ea3a38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e88e2bad10558eaeb436873ae0b4f643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091824755
+        }
+    ],
     "wof:id":1091824755,
-    "wof:lastmodified":1473984536,
+    "wof:lastmodified":1496901467,
     "wof:name":"Bank Austria Creditanstalt AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

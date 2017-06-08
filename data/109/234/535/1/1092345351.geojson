@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3975143433,47.2567138672,11.3975143433,47.2567138672",
     "geom:latitude":47.256714,
     "geom:longitude":11.397514,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911863,
-    "wof:geomhash":"e8813a82c351042caea3fc0e8789e59c",
+    "wof:geomhash":"ddb9b41d8e5bd3d6c76f266365ec2887",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092345351
         }
     ],
     "wof:id":1092345351,
-    "wof:lastmodified":1473984408,
+    "wof:lastmodified":1496899559,
     "wof:name":"GRAND SAT Stevanovic & Bogdanovic OEG",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

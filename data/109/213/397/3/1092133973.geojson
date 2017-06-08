@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7462806702,47.4088973999,9.7462806702,47.4088973999",
     "geom:latitude":47.408897,
     "geom:longitude":9.746281,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902456,
-    "wof:geomhash":"1bc5247a79c69e4d38fdf439d1acf5cf",
+    "wof:geomhash":"ff1fe019234164e59ee85b6c2fdff237",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092133973
         }
     ],
     "wof:id":1092133973,
-    "wof:lastmodified":1473984112,
+    "wof:lastmodified":1496900818,
     "wof:name":"mutegraphics",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5175266266,48.2416725159,14.5175266266,48.2416725159",
     "geom:latitude":48.241673,
     "geom:longitude":14.517527,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897540,
-    "wof:geomhash":"1dc7cacea26050e45d811808a46a5912",
+    "wof:geomhash":"ec208b389d634d175a7a953b2aa40c67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092025313
         }
     ],
     "wof:id":1092025313,
-    "wof:lastmodified":1473984374,
+    "wof:lastmodified":1496887553,
     "wof:name":"Pfarramt",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

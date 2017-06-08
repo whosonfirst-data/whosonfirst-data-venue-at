@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2672214508,48.1883926392,16.2672214508,48.1883926392",
     "geom:latitude":48.188393,
     "geom:longitude":16.267221,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903472,
-    "wof:geomhash":"c4ff78d62ce983b72201a681d2b14db0",
+    "wof:geomhash":"9bf5cfc39b5a913f5b55d841dc6b70cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092155651
         }
     ],
     "wof:id":1092155651,
-    "wof:lastmodified":1473984469,
+    "wof:lastmodified":1496902119,
     "wof:name":"Vinothek Ober St Veit",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

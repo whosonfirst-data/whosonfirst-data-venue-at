@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6492509842,47.2774772644,12.6492509842,47.2774772644",
     "geom:latitude":47.277477,
     "geom:longitude":12.649251,
@@ -23,17 +24,33 @@
     "sg:postcode":"5722",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837225,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UajrvrC51zVJb5fprX9kv_47.277477_12.649251@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899553,
-    "wof:geomhash":"5a60b06e4bc7266909cdc3e0aa59aebf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8292c34b289da62e9d0b3f15b87b0f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837225,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092075825
+        }
+    ],
     "wof:id":1092075825,
-    "wof:lastmodified":1473984350,
+    "wof:lastmodified":1496896139,
     "wof:name":"Gasthof-Cafe z Pinzgauerin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3481521606,47.153377533,11.3481521606,47.153377533",
     "geom:latitude":47.153378,
     "geom:longitude":11.348152,
@@ -23,17 +24,34 @@
     "sg:postcode":"6166",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837587,
+        85632785,
+        101834205,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uThs19ONV3W9xxnQ4WBGk_47.153378_11.348152@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888540,
-    "wof:geomhash":"0a07cecb28a11c4490261e61a9f9febc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"302f2a03b23583a165426cd97bf01958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837587,
+            "locality_id":101834205,
+            "region_id":85681661,
+            "venue_id":1091824363
+        }
+    ],
     "wof:id":1091824363,
-    "wof:lastmodified":1473984392,
+    "wof:lastmodified":1496898599,
     "wof:name":"Bank Austria Creditanstalt AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

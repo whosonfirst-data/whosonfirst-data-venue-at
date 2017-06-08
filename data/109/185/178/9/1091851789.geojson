@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8877849579,48.0032463074,12.8877849579,48.0032463074",
     "geom:latitude":48.003246,
     "geom:longitude":12.887785,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"hansgrebien.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834789,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_159fZDpt89RRy3t0iO5iOH_48.003246_12.887785@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889794,
-    "wof:geomhash":"08bb5e30d9f1133eb897976ab4bdf592",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3bb0676c18008121517b207e135f45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834789,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091851789
+        }
+    ],
     "wof:id":1091851789,
-    "wof:lastmodified":1473983625,
+    "wof:lastmodified":1496882588,
     "wof:name":"Johann Grebien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

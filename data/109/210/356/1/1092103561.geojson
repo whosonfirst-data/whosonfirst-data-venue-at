@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2065792084,48.2143516541,14.2065792084,48.2143516541",
     "geom:latitude":48.214352,
     "geom:longitude":14.206579,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"bodenmarkierung.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Qeo1DCRNjtD6qOmY2spz1_48.214352_14.206579@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900991,
-    "wof:geomhash":"a45cd9ad5e3ac75cc8e08ffe14e4d18f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0683e4f43792fc6279eb05ed3e0ff163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092103561
+        }
+    ],
     "wof:id":1092103561,
-    "wof:lastmodified":1473983943,
+    "wof:lastmodified":1496887425,
     "wof:name":"BMA Bodenmarkierarbeiten & Systeme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

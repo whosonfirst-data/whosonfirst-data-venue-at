@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0889501572,48.2092666626,13.0889501572,48.2092666626",
     "geom:latitude":48.209267,
     "geom:longitude":13.08895,
@@ -35,17 +36,33 @@
         "customized"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834717,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GiBjPjFtznWa40k8qzMbq_48.209267_13.088950@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905825,
-    "wof:geomhash":"b5138fd9d64169cb18f11b36675248f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ab22c8ab13c0553477892a4687e4515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834717,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092206935
+        }
+    ],
     "wof:id":1092206935,
-    "wof:lastmodified":1473984751,
+    "wof:lastmodified":1496882305,
     "wof:name":"Rudolf Schmelzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

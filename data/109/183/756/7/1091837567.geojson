@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8235054016,47.286491394,12.8235054016,47.286491394",
     "geom:latitude":47.286491,
     "geom:longitude":12.823505,
@@ -23,17 +24,33 @@
     "sg:postcode":"5671",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MzZuu5QojKJTvCpJd4WiL_47.286491_12.823505@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889164,
-    "wof:geomhash":"61d856f5dafa1d4693b9be1810aeb65a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1c8b723acccfa1dd384e862a2172c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091837567
+        }
+    ],
     "wof:id":1091837567,
-    "wof:lastmodified":1473984741,
+    "wof:lastmodified":1496895887,
     "wof:name":"Pinzgauer Laterndl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3176727295,47.0723075867,16.3176727295,47.0723075867",
     "geom:latitude":47.072308,
     "geom:longitude":16.317673,
@@ -23,17 +24,33 @@
     "sg:postcode":"7540",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838483,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QWOCAeHmDYobxnvAfQlQI_47.072308_16.317673@1306268280"
     },
     "wof:country":"AT",
     "wof:created":1473904430,
-    "wof:geomhash":"a15548c375992c15daaf69bbcb6ee5bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c0bc08f7533b64292c7088b3cab4067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838483,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092176759
+        }
+    ],
     "wof:id":1092176759,
-    "wof:lastmodified":1473984724,
+    "wof:lastmodified":1496908140,
     "wof:name":"Hofer KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

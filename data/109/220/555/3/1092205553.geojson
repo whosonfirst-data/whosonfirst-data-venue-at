@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.323595047,48.0567245483,16.323595047,48.0567245483",
     "geom:latitude":48.056725,
     "geom:longitude":16.323595,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"klippfeld.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836951,
+        85632785,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0coE36mlTcs4aUni7iDldh_48.056725_16.323595@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905765,
-    "wof:geomhash":"b42510f30d304ed2f889da32ea924932",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c1d578d02480f1a4f3c64c618d3c37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836951,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092205553
+        }
+    ],
     "wof:id":1092205553,
-    "wof:lastmodified":1473984560,
+    "wof:lastmodified":1496893517,
     "wof:name":"Josef Klippfeld Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

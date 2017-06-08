@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2912302017,47.2642440796,11.2912302017,47.2642440796",
     "geom:latitude":47.264244,
     "geom:longitude":11.29123,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889473,
-    "wof:geomhash":"806153f1e2e28411fbf58b23fe49c935",
+    "wof:geomhash":"f73d7bd870b4a2db921e6269bbe5a7ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091844949
         }
     ],
     "wof:id":1091844949,
-    "wof:lastmodified":1473984207,
+    "wof:lastmodified":1496897209,
     "wof:name":"Lieferasphalt GesmbH & Co OHG",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

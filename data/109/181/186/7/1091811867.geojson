@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4628858566,47.5611839294,12.4628858566,47.5611839294",
     "geom:latitude":47.561184,
     "geom:longitude":12.462886,
@@ -34,17 +35,33 @@
         "accordion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DrrAhCf1gLxpLXncCpXTh_47.561184_12.462886@1306268273"
     },
     "wof:country":"AT",
     "wof:created":1473887998,
-    "wof:geomhash":"bc89a3fd749ccf13b406480e2fc7d6bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"080beed3899e223cdef5041cf1e94fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091811867
+        }
+    ],
     "wof:id":1091811867,
-    "wof:lastmodified":1473983674,
+    "wof:lastmodified":1496897065,
     "wof:name":"Torcenter Oberschmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

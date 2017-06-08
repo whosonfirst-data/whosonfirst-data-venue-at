@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4839296341,48.4275016785,14.4839296341,48.4275016785",
     "geom:latitude":48.427502,
     "geom:longitude":14.48393,
@@ -34,17 +35,34 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835085,
+        85632785,
+        101843337,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zI9BYVUOE3KVAQ8O8iAB3_48.427502_14.483930@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905231,
-    "wof:geomhash":"e254a4945f7b66d6d4cb5c723e5432a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38de36d5b5378c558dd48cd8c40da04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835085,
+            "locality_id":101843337,
+            "region_id":85681677,
+            "venue_id":1092194713
+        }
+    ],
     "wof:id":1092194713,
-    "wof:lastmodified":1473984448,
+    "wof:lastmodified":1496884509,
     "wof:name":"Manzenreiter KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

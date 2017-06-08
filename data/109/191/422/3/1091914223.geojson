@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4633102417,47.8451919556,16.4633102417,47.8451919556",
     "geom:latitude":47.845192,
     "geom:longitude":16.46331,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838743,
+        85632785,
+        101833151,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zYopwAAHMOqhHjB97DhTj_47.845192_16.463310@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892758,
-    "wof:geomhash":"be3c69d059438cc11758f92b2e93568a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73e8166530ce88eaed617f7f54f6ebeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838743,
+            "locality_id":101833151,
+            "region_id":85681651,
+            "venue_id":1091914223
+        }
+    ],
     "wof:id":1091914223,
-    "wof:lastmodified":1473983866,
+    "wof:lastmodified":1496909210,
     "wof:name":"Jandl-EDV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

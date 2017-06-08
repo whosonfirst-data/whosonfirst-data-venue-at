@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3056154251,48.4453735352,15.3056154251,48.4453735352",
     "geom:latitude":48.445374,
     "geom:longitude":15.305615,
@@ -23,17 +24,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.waldlandecho.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836987,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sVPQktSC2jVaUjrdJYLnW_48.445374_15.305615@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916294,
-    "wof:geomhash":"4c9c1811a7ff3cf02e1316aa68b72a65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a2b6d735b64240d66fd33cbd8cec9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836987,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092438381
+        }
+    ],
     "wof:id":1092438381,
-    "wof:lastmodified":1473985139,
+    "wof:lastmodified":1496893652,
     "wof:name":"Waldlandecho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

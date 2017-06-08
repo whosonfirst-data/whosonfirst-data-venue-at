@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0777101517,47.9378013611,13.0777101517,47.9378013611",
     "geom:latitude":47.937801,
     "geom:longitude":13.07771,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"trumer.pils.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837169,
+        85632785,
+        101786781,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TtxoxYeyeXm1QEPYBBirK_47.937801_13.077710@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889813,
-    "wof:geomhash":"a407c3cc8172c67960216d97c880e585",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61878a8d3ba51f3045d215eb0c560c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837169,
+            "locality_id":101786781,
+            "region_id":85681681,
+            "venue_id":1091852209
+        }
+    ],
     "wof:id":1091852209,
-    "wof:lastmodified":1473983727,
+    "wof:lastmodified":1496895608,
     "wof:name":"Privatbrauerei Josef Sigl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1008901596,47.3002891541,11.1008901596,47.3002891541",
     "geom:latitude":47.300289,
     "geom:longitude":11.10089,
@@ -23,17 +24,33 @@
     "sg:postcode":"6406",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837559,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LOPKSN8Yc2903NXQ8Ezpi_47.300289_11.100890@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910289,
-    "wof:geomhash":"1794b900054355cca7ef586fc5f276b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"807c115a1e70ec62ec1cf7c5e4959618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837559,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092308329
+        }
+    ],
     "wof:id":1092308329,
-    "wof:lastmodified":1473985174,
+    "wof:lastmodified":1496898484,
     "wof:name":"LIFTEC Brinkmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

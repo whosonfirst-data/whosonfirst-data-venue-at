@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2304801941,47.6475410461,12.2304801941,47.6475410461",
     "geom:latitude":47.647541,
     "geom:longitude":12.23048,
@@ -23,17 +24,33 @@
     "sg:postcode":"6342",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837411,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dXbAirdDNT6ZL7xRjPv9n_47.647541_12.230480@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899487,
-    "wof:geomhash":"8db47798fcf9050309d520aa902408ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52bf72e06547327a338acbb81f7243f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837411,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092074375
+        }
+    ],
     "wof:id":1092074375,
-    "wof:lastmodified":1473984120,
+    "wof:lastmodified":1496897760,
     "wof:name":"Gasthof Sebi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

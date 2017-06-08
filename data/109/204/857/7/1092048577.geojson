@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4044294357,47.2288360596,11.4044294357,47.2288360596",
     "geom:latitude":47.228836,
     "geom:longitude":11.404429,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898455,
-    "wof:geomhash":"e167f48f85b00642d671722248e32be8",
+    "wof:geomhash":"8a26acb736959b669a320ac7bd1d0ae8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092048577
         }
     ],
     "wof:id":1092048577,
-    "wof:lastmodified":1473984290,
+    "wof:lastmodified":1496899316,
     "wof:name":"Hotel Sonnenhof",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

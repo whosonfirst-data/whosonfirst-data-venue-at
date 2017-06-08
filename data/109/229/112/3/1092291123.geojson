@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.888718605,47.4008636475,10.888718605,47.4008636475",
     "geom:latitude":47.400864,
     "geom:longitude":10.888719,
@@ -23,17 +24,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Pv0nGabURgHT28AaUeM58_47.400864_10.888719@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909485,
-    "wof:geomhash":"ca07e57e4ff6c277733b2e204994a614",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34c1ea591b3fdc0f311be58cdedc709f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092291123
+        }
+    ],
     "wof:id":1092291123,
-    "wof:lastmodified":1473983591,
+    "wof:lastmodified":1496899870,
     "wof:name":"Alpenstern Ferienwohnungen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

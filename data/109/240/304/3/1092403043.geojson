@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7021903992,47.3387680054,11.7021903992,47.3387680054",
     "geom:latitude":47.338768,
     "geom:longitude":11.70219,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58gpgNk2VwEjp365YQJeM7_47.338768_11.702190@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914540,
-    "wof:geomhash":"6555dcd0c672350c78875e9ce395ebb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56f990855b07819965c20953f90884cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1092403043
+        }
+    ],
     "wof:id":1092403043,
-    "wof:lastmodified":1473983917,
+    "wof:lastmodified":1496900109,
     "wof:name":"PR-Agentur Oberhollenzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

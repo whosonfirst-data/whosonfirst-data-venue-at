@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5624523163,47.2612075806,9.5624523163,47.2612075806",
     "geom:latitude":47.261208,
     "geom:longitude":9.562452,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03SUfZxXnd2rldhpxaqwZt_47.261208_9.562452@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906532,
-    "wof:geomhash":"0ea4dbc43628942205114e1eeb30d885",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4011955dc89a374d6cb56106a80c2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
+            "region_id":85681649,
+            "venue_id":1092222937
+        }
+    ],
     "wof:id":1092222937,
-    "wof:lastmodified":1473984041,
+    "wof:lastmodified":1496900951,
     "wof:name":"Taxi Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

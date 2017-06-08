@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4411220551,47.555355072,12.4411220551,47.555355072",
     "geom:latitude":47.555355,
     "geom:longitude":12.441122,
@@ -23,17 +24,33 @@
     "sg:postcode":"6382",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1POBj907K3Tz1zLFPsgtCL_47.555355_12.441122@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911174,
-    "wof:geomhash":"31c45fd14c1c04f2778a4e6317e91fd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d16391f9034fe46775b48e4176b09184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092329113
+        }
+    ],
     "wof:id":1092329113,
-    "wof:lastmodified":1473985274,
+    "wof:lastmodified":1496897075,
     "wof:name":"Oberm\u00fcller der Maler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

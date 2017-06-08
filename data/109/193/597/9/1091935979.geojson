@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3695268631,47.2578926086,11.3695268631,47.2578926086",
     "geom:latitude":47.257893,
     "geom:longitude":11.369527,
@@ -25,10 +26,13 @@
     "sg:website":"dorn-consult.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893763,
-    "wof:geomhash":"f9455338ecbe218ab8e51a5f1933b17d",
+    "wof:geomhash":"ef639ec5e663c6007e714b461be99719",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1091935979
         }
     ],
     "wof:id":1091935979,
-    "wof:lastmodified":1473984509,
+    "wof:lastmodified":1496899487,
     "wof:name":"Dorn Rainer",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

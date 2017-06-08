@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4246120453,47.2555541992,11.4246120453,47.2555541992",
     "geom:latitude":47.255554,
     "geom:longitude":11.424612,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903266,
-    "wof:geomhash":"e3b1846de95cbdd44b680eea7505cad1",
+    "wof:geomhash":"18151ccfbc3ed0155b1349bf3512a3f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092151281
         }
     ],
     "wof:id":1092151281,
-    "wof:lastmodified":1473983538,
+    "wof:lastmodified":1496899318,
     "wof:name":"Katholischer Tiroler Lehrerverein - Lehrerhaus",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

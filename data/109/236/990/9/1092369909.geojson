@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3956155777,47.5225524902,12.3956155777,47.5225524902",
     "geom:latitude":47.522552,
     "geom:longitude":12.395616,
@@ -23,17 +24,33 @@
     "sg:postcode":"6380",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0leavDokOnUSeU2M8jjC7L_47.522552_12.395616@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913013,
-    "wof:geomhash":"613d034d52bb3b540d4a90db709f5fb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33c907d4ffcb298184791a3df3494922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092369909
+        }
+    ],
     "wof:id":1092369909,
-    "wof:lastmodified":1473985328,
+    "wof:lastmodified":1496897384,
     "wof:name":"Pension Bachern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0372495651,47.7678909302,13.0372495651,47.7678909302",
     "geom:latitude":47.767891,
     "geom:longitude":13.03725,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912255,
-    "wof:geomhash":"abb82dd16d112ef3365e5d7ba3bbbd0a",
+    "wof:geomhash":"92021ee7e81710f5bf5dc6c4b5a026c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1092354113
         }
     ],
     "wof:id":1092354113,
-    "wof:lastmodified":1473984220,
+    "wof:lastmodified":1496894802,
     "wof:name":"THONET Gebr\u00fcder OEG",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

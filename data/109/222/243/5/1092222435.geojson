@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7970247269,47.1738700867,9.7970247269,47.1738700867",
     "geom:latitude":47.17387,
     "geom:longitude":9.797025,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        101827451,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R7y9KiUT9q1BLnUWj1Vgf_47.173870_9.797025@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906502,
-    "wof:geomhash":"076ffff2b7218652bda0fefd11b1a302",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3e8d6f9a157508218a9ab1b9fc34d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":101827451,
+            "region_id":85681649,
+            "venue_id":1092222435
+        }
+    ],
     "wof:id":1092222435,
-    "wof:lastmodified":1473983924,
+    "wof:lastmodified":1496901609,
     "wof:name":"Taxi Arlberg - Sonnberg Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

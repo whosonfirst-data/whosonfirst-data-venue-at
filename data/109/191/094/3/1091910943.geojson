@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9415178299,47.4261322021,10.9415178299,47.4261322021",
     "geom:latitude":47.426132,
     "geom:longitude":10.941518,
@@ -33,17 +34,33 @@
         "ski"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837813,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iN3uMSpLNhGi68lpnkiu9_47.426132_10.941518@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892585,
-    "wof:geomhash":"d592ff626ea6d4c4fc484a00499ad911",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c6d28aada24de0b632ddb36650139ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837813,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091910943
+        }
+    ],
     "wof:id":1091910943,
-    "wof:lastmodified":1473983319,
+    "wof:lastmodified":1496900049,
     "wof:name":"Beirer J\u00fcrgen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

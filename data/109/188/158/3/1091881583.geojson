@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0851240158,47.5084037781,12.0851240158,47.5084037781",
     "geom:latitude":47.508404,
     "geom:longitude":12.085124,
@@ -32,17 +33,34 @@
         "production"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837405,
+        85632785,
+        101787953,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s5YVdM7ceOPceP61w6X3K_47.508404_12.085124@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891203,
-    "wof:geomhash":"1923aaf8ae762b14435ec6371567209e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53bb5a7e81b1fb3cc102c5500c8a8f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837405,
+            "locality_id":101787953,
+            "region_id":85681661,
+            "venue_id":1091881583
+        }
+    ],
     "wof:id":1091881583,
-    "wof:lastmodified":1473983678,
+    "wof:lastmodified":1496899617,
     "wof:name":"Borrias Druck Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

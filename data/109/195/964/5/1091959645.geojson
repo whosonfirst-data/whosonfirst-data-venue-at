@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1220607758,47.8582344055,13.1220607758,47.8582344055",
     "geom:latitude":47.858234,
     "geom:longitude":13.122061,
@@ -23,17 +24,34 @@
     "sg:postcode":"5301",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        101786773,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CAmqZPDLF5BDjQoloV0Gj_47.858234_13.122061@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894811,
-    "wof:geomhash":"d551cdcffc73f1b7c3945183c3db75f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9d886fe3d8367daed2ada9db2fcb123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":101786773,
+            "region_id":85681681,
+            "venue_id":1091959645
+        }
+    ],
     "wof:id":1091959645,
-    "wof:lastmodified":1473985317,
+    "wof:lastmodified":1496895321,
     "wof:name":"\u00f6AMTC-Betriebe GesmbH Reiseb\u00fcro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

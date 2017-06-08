@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1313495636,47.8754348755,14.1313495636,47.8754348755",
     "geom:latitude":47.875435,
     "geom:longitude":14.13135,
@@ -33,17 +34,34 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835259,
+        85632785,
+        101833157,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZYPIGdLUJulfipN7seFK9_47.875435_14.131350@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898607,
-    "wof:geomhash":"efdeaa6bbba06416bcfd84c772ef0a11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b8bcf92038de49e95efe5bf0e174869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835259,
+            "locality_id":101833157,
+            "region_id":85681677,
+            "venue_id":1092052477
+        }
+    ],
     "wof:id":1092052477,
-    "wof:lastmodified":1473983819,
+    "wof:lastmodified":1496885686,
     "wof:name":"Kurt Prieler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

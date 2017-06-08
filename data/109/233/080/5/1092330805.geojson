@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4182415009,48.4744758606,16.4182415009,48.4744758606",
     "geom:latitude":48.474476,
     "geom:longitude":16.418242,
@@ -28,17 +29,33 @@
     "sg:postcode":"2114",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836913,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iIi53zFKBpg7kfedZnW6v_48.474476_16.418242@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911247,
-    "wof:geomhash":"24eb976c81ce29af8d64ec23810c2d22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"541ce9ea86662ea929fd135256c047db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836913,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092330805
+        }
+    ],
     "wof:id":1092330805,
-    "wof:lastmodified":1473983502,
+    "wof:lastmodified":1496893360,
     "wof:name":"CIT Management-Individual-Training GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

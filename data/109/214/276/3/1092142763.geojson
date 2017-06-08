@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.395731926,47.2600479126,11.395731926,47.2600479126",
     "geom:latitude":47.260048,
     "geom:longitude":11.395732,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902871,
-    "wof:geomhash":"4cb17b968992cb46f14f4731ff1d33d5",
+    "wof:geomhash":"a05ec6c93ecdcf5ecdabdc9c8346819d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092142763
         }
     ],
     "wof:id":1092142763,
-    "wof:lastmodified":1473983902,
+    "wof:lastmodified":1496899292,
     "wof:name":"km/h Werbeagentur",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

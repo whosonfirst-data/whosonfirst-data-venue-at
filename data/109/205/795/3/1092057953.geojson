@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2685966492,48.1257896423,16.2685966492,48.1257896423",
     "geom:latitude":48.12579,
     "geom:longitude":16.268597,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898824,
-    "wof:geomhash":"e4720840b63b079d74fe38c619d621b1",
+    "wof:geomhash":"bae3c97eb342ccc1c5a5090a6a523ba5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092057953
         }
     ],
     "wof:id":1092057953,
-    "wof:lastmodified":1473984689,
+    "wof:lastmodified":1496885821,
     "wof:name":"Gartengestaltung Lechner",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

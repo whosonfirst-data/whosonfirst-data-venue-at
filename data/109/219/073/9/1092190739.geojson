@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6735534668,48.4805908203,13.6735534668,48.4805908203",
     "geom:latitude":48.480591,
     "geom:longitude":13.673553,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836067,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WOnWgtwmONj3B6rGfiPJZ_48.480591_13.673553@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905061,
-    "wof:geomhash":"2998cb46e93ff8b292c101bcd45baf0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de80788d7fc4b19d5e093ce8e551bf08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836067,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190739
+        }
+    ],
     "wof:id":1092190739,
-    "wof:lastmodified":1473983451,
+    "wof:lastmodified":1496889372,
     "wof:name":"Gottfried Stelzhammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

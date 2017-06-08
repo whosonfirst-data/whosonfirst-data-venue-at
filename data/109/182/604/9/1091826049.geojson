@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2990169525,46.5267028809,14.2990169525,46.5267028809",
     "geom:latitude":46.526703,
     "geom:longitude":14.299017,
@@ -23,17 +24,34 @@
     "sg:postcode":"9170",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838165,
+        85632785,
+        101790095,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DrFFXM1pocRgY9j59Bz1o_46.526703_14.299017@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888623,
-    "wof:geomhash":"cf7259a6b3865082ae71d4bcb5bce27f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9f31550ce1d2c82cb1782512c514bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838165,
+            "locality_id":101790095,
+            "region_id":85681655,
+            "venue_id":1091826049
+        }
+    ],
     "wof:id":1091826049,
-    "wof:lastmodified":1473984896,
+    "wof:lastmodified":1496906336,
     "wof:name":"K\u00e4rntner Sparkasse AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2153139114,48.0113258362,13.2153139114,48.0113258362",
     "geom:latitude":48.011326,
     "geom:longitude":13.215314,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834745,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DmMCZN45fH9GNX1Mvh1Gv_48.011326_13.215314@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914540,
-    "wof:geomhash":"b1ae159a3027b1a2e701ee8560f0b085",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b1f19d83cd3cabfbfcc48456a9ee555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834745,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092403049
+        }
+    ],
     "wof:id":1092403049,
-    "wof:lastmodified":1473983920,
+    "wof:lastmodified":1496882416,
     "wof:name":"PR-Service Dr Markus u Mag Sylvia Kalchgruber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

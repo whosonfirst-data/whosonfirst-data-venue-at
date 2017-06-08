@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3475646973,47.265247345,11.3475646973,47.265247345",
     "geom:latitude":47.265247,
     "geom:longitude":11.347565,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888830,
-    "wof:geomhash":"d0b14538a500505c934a53feaf4359d5",
+    "wof:geomhash":"d0bde57d8a5ba4c15d60c5e30afc971f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1091830927
         }
     ],
     "wof:id":1091830927,
-    "wof:lastmodified":1473983452,
+    "wof:lastmodified":1496899331,
     "wof:name":"Tiroler Sparkasse Bank AG Innsbruck",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

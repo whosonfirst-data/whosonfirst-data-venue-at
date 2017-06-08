@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7325611115,47.1593933105,11.7325611115,47.1593933105",
     "geom:latitude":47.159393,
     "geom:longitude":11.732561,
@@ -28,17 +29,33 @@
     "sg:postcode":"6293",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837707,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QxyWDVKa8LY6QqmWqOSrp_47.159393_11.732561@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898467,
-    "wof:geomhash":"c9aed68d177eb35c1da02e24a60093a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2edca1b1d049f2538f17380c897d0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837707,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048895
+        }
+    ],
     "wof:id":1092048895,
-    "wof:lastmodified":1473984306,
+    "wof:lastmodified":1496899675,
     "wof:name":"Hotel Tuxertal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

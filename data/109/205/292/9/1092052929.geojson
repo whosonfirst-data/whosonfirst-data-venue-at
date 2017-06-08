@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0588197708,48.0731086731,14.0588197708,48.0731086731",
     "geom:latitude":48.073109,
     "geom:longitude":14.05882,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836573,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31EexNZUojR5CR6IFUN7AR_48.073109_14.058820@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898624,
-    "wof:geomhash":"e7f9a1c09ef7eea255620a92e29c2545",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72b709c41a5dc99108d61b5b4d824738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836573,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092052929
+        }
+    ],
     "wof:id":1092052929,
-    "wof:lastmodified":1473983857,
+    "wof:lastmodified":1496891746,
     "wof:name":"RUDOLF KAISER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3715810776,46.6344566345,14.3715810776,46.6344566345",
     "geom:latitude":46.634457,
     "geom:longitude":14.371581,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904723,
-    "wof:geomhash":"3d923438eccbd631ae831120c625b5f0",
+    "wof:geomhash":"df399dd80d4ff165331178ee24605c04",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092183521
         }
     ],
     "wof:id":1092183521,
-    "wof:lastmodified":1473984182,
+    "wof:lastmodified":1496905631,
     "wof:name":"AGM Klagenfurt",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

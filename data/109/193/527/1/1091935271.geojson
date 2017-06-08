@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7125177383,47.4824981689,10.7125177383,47.4824981689",
     "geom:latitude":47.482498,
     "geom:longitude":10.712518,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"abelshauser-preindl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837751,
+        85632785,
+        101834257,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kdy1jsJ4er1C8SZfe9dbi_47.482498_10.712518@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893733,
-    "wof:geomhash":"769601d416788a7a7ec085b581124312",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d01347a7e9faf7a6c3104122f82418b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837751,
+            "locality_id":101834257,
+            "region_id":85681661,
+            "venue_id":1091935271
+        }
+    ],
     "wof:id":1091935271,
-    "wof:lastmodified":1473984424,
+    "wof:lastmodified":1496899916,
     "wof:name":"Abelshauser & Preindl Steuerberatungs OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

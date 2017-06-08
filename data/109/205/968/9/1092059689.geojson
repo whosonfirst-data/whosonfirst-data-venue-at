@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4133625031,47.9487495422,16.4133625031,47.9487495422",
     "geom:latitude":47.94875,
     "geom:longitude":16.413363,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835383,
+        85632785,
+        101833197,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZmQElvkhOSM1VtGxVWndL_47.948750_16.413363@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898887,
-    "wof:geomhash":"a73011dab5aeedd99ea7d8c306433670",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ae23b2b8b090cf519b017ed20cb2364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835383,
+            "locality_id":101833197,
+            "region_id":85681671,
+            "venue_id":1092059689
+        }
+    ],
     "wof:id":1092059689,
-    "wof:lastmodified":1473985160,
+    "wof:lastmodified":1496886418,
     "wof:name":"Andreas Janisch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

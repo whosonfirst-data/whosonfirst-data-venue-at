@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1954936981,47.3203353882,13.1954936981,47.3203353882",
     "geom:latitude":47.320335,
     "geom:longitude":13.195494,
@@ -23,17 +24,33 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37FaIZOBsAQ4yXEsldDOuW_47.320335_13.195494@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899333,
-    "wof:geomhash":"3ef068aaa9a492fe650141cd312e19c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc2633b6b95814fae90c8ab52e07a257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092070657
+        }
+    ],
     "wof:id":1092070657,
-    "wof:lastmodified":1473983435,
+    "wof:lastmodified":1496894099,
     "wof:name":"Gasthaus Zinnkr\u00fcgl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

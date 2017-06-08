@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4792900085,47.3783416748,13.4792900085,47.3783416748",
     "geom:latitude":47.378342,
     "geom:longitude":13.47929,
@@ -23,17 +24,33 @@
     "sg:postcode":"5550",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837025,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CgCpE67QmDusdiI6h81BM_47.378342_13.479290@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913102,
-    "wof:geomhash":"35aab3af26118acfa2e86926aa3c891c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec1bdce1e1ac980e32fdecbae10907cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837025,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092371897
+        }
+    ],
     "wof:id":1092371897,
-    "wof:lastmodified":1473983863,
+    "wof:lastmodified":1496894006,
     "wof:name":"Pension Sauschneidhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

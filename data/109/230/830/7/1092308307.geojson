@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3591070175,47.2638168335,11.3591070175,47.2638168335",
     "geom:latitude":47.263817,
     "geom:longitude":11.359107,
@@ -24,12 +25,14 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
         102049723,
-        85904329,
-        102049735
+        85681661,
+        85904329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,27 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473910288,
-    "wof:geomhash":"4109ebd210df02be8bf2b1d8c66961ee",
+    "wof:geomhash":"a2c302a0a8ec6e8d7a9c62a9d9c7cd5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092308307
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092308307
         }
     ],
     "wof:id":1092308307,
-    "wof:lastmodified":1473985182,
+    "wof:lastmodified":1496899213,
     "wof:name":"Kone AG",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

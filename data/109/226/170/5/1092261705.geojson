@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8169841766,47.9496002197,13.8169841766,47.9496002197",
     "geom:latitude":47.9496,
     "geom:longitude":13.816984,
@@ -33,17 +34,34 @@
         "tyre"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835143,
+        85632785,
+        101785625,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WYUvfHg1KrBMQoXDj2O5e_47.949600_13.816984@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908245,
-    "wof:geomhash":"ab8099e9588b93849565b6e734e4d670",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7d653f3ac6c7a844100672a0459799a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835143,
+            "locality_id":101785625,
+            "region_id":85681677,
+            "venue_id":1092261705
+        }
+    ],
     "wof:id":1092261705,
-    "wof:lastmodified":1473983695,
+    "wof:lastmodified":1496885044,
     "wof:name":"Johann Altmanninger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

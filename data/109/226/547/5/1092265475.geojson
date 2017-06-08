@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7923173904,48.207359314,14.7923173904,48.207359314",
     "geom:latitude":48.207359,
     "geom:longitude":14.792317,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835617,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0URp5YFFmCjhGjItosxuEo_48.207359_14.792317@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908405,
-    "wof:geomhash":"767a50844bc54bc07c3ee8a658b89bbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84b88742c45548319653c664e2b3f2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835617,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092265475
+        }
+    ],
     "wof:id":1092265475,
-    "wof:lastmodified":1473984482,
+    "wof:lastmodified":1496887678,
     "wof:name":"ETS - Elektro GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

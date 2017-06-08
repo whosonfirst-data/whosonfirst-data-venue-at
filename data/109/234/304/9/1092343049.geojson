@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2563199997,47.4590110779,15.2563199997,47.4590110779",
     "geom:latitude":47.459011,
     "geom:longitude":15.25632,
@@ -32,17 +33,33 @@
         "metalworking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839319,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45nUh6nOxyOupJYmnl0ZcH_47.459011_15.256320@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911755,
-    "wof:geomhash":"5a67cc38460bd52fb3e872f525c6fb75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0038b58525cc6b94a260a744d7b262a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839319,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092343049
+        }
+    ],
     "wof:id":1092343049,
-    "wof:lastmodified":1473983828,
+    "wof:lastmodified":1496912789,
     "wof:name":"NKT CABLES GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

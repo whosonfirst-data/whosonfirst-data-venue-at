@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7153673172,48.0074424744,13.7153673172,48.0074424744",
     "geom:latitude":48.007442,
     "geom:longitude":13.715367,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836425,
+        85632785,
+        101833167,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wZp8ZJZUd53l5tR10jqkF_48.007442_13.715367@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889495,
-    "wof:geomhash":"6a55a5410dcd83aa7366ad491d6a6c5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab25a03fd5377358526bd301d868818d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836425,
+            "locality_id":101833167,
+            "region_id":85681677,
+            "venue_id":1091845495
+        }
+    ],
     "wof:id":1091845495,
-    "wof:lastmodified":1473984307,
+    "wof:lastmodified":1496890991,
     "wof:name":"Wessenthaler BaustoffvertriebsgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

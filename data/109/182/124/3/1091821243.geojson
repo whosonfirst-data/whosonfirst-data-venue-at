@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9014205933,48.5996437073,16.9014205933,48.5996437073",
     "geom:latitude":48.599644,
     "geom:longitude":16.901421,
@@ -23,17 +24,34 @@
     "sg:postcode":"2273",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835753,
+        85632785,
+        101782223,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E1hfGQC6RVo63I3gUFDsj_48.599644_16.901421@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888406,
-    "wof:geomhash":"c176e33e2b9d384ceae4abf6d8259aff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5df49f38df8dddd9e5c6e05230870cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835753,
+            "locality_id":101782223,
+            "region_id":85681671,
+            "venue_id":1091821243
+        }
+    ],
     "wof:id":1091821243,
-    "wof:lastmodified":1473983634,
+    "wof:lastmodified":1496888212,
     "wof:name":"Bahnhof Hohenau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

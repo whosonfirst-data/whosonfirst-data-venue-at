@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7423753738,47.4476242065,10.7423753738,47.4476242065",
     "geom:latitude":47.447624,
     "geom:longitude":10.742375,
@@ -23,17 +24,33 @@
     "sg:postcode":"6611",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837735,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qv5RqxZvyuUc4s5Vyllnf_47.447624_10.742375@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899464,
-    "wof:geomhash":"ee5668f24ff2ede4ea030ae6ff414529",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ab92a411d3caea019607d820f008178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837735,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092073871
+        }
+    ],
     "wof:id":1092073871,
-    "wof:lastmodified":1473984014,
+    "wof:lastmodified":1496899830,
     "wof:name":"Gasthof Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

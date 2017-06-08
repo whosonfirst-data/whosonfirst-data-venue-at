@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2443828583,48.1383895874,16.2443828583,48.1383895874",
     "geom:latitude":48.13839,
     "geom:longitude":16.244383,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901650,
-    "wof:geomhash":"7fa14b5629aa96403f7a86b8f648b166",
+    "wof:geomhash":"8453ce6c688555cd0a8ce2e02618de46",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092117755
         }
     ],
     "wof:id":1092117755,
-    "wof:lastmodified":1473984987,
+    "wof:lastmodified":1496904226,
     "wof:name":"Hubmann Gerhard Dr",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

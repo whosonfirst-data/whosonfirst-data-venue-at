@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.502363205,47.2777404785,11.502363205,47.2777404785",
     "geom:latitude":47.27774,
     "geom:longitude":11.502363,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895811,
-    "wof:geomhash":"9c451b7ac10ed6b992cab8f265822f25",
+    "wof:geomhash":"07a2a1d73bb3dab22a7b1bd3163adffe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091982905
         }
     ],
     "wof:id":1091982905,
-    "wof:lastmodified":1473983634,
+    "wof:lastmodified":1496898709,
     "wof:name":"Bernard & Partner ZT-GesmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

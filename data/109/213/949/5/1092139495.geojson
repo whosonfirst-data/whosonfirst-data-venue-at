@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2158813477,47.4320106506,12.2158813477,47.4320106506",
     "geom:latitude":47.432011,
     "geom:longitude":12.215881,
@@ -23,17 +24,33 @@
     "sg:postcode":"6363",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837381,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gFFqLdG3VQILirbRz2309_47.432011_12.215881@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902710,
-    "wof:geomhash":"6e03c823c09f68ed1bf51614f83ef1db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2240c4c23b528553dafe983a895fc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837381,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092139495
+        }
+    ],
     "wof:id":1092139495,
-    "wof:lastmodified":1473985170,
+    "wof:lastmodified":1496897457,
     "wof:name":"Erwachsenenschule Westendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

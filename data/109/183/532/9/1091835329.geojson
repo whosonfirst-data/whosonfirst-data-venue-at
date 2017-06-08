@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7717313766,48.3442611694,13.7717313766,48.3442611694",
     "geom:latitude":48.344261,
     "geom:longitude":13.771731,
@@ -23,17 +24,34 @@
     "sg:postcode":"4722",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835207,
+        85632785,
+        101784577,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cRhKd2o1TaIQGf7JlHwaZ_48.344261_13.771731@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889051,
-    "wof:geomhash":"9d04068f30125fd5a794610a2e92a2b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30c8f23b3f2dc2793d08a1b9019498cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835207,
+            "locality_id":101784577,
+            "region_id":85681677,
+            "venue_id":1091835329
+        }
+    ],
     "wof:id":1091835329,
-    "wof:lastmodified":1473984359,
+    "wof:lastmodified":1496885455,
     "wof:name":"Bankomat d Raiffeisenbank Peuerbach regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

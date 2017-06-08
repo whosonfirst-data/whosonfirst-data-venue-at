@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6586933136,47.4202690125,9.6586933136,47.4202690125",
     "geom:latitude":47.420269,
     "geom:longitude":9.658693,
@@ -23,17 +24,34 @@
     "sg:postcode":"6890",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aK2MogivgNRT8dGzl2gJB_47.420269_9.658693@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893266,
-    "wof:geomhash":"4d04b91abdaebe9959a39dd73b404abf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d30aaa3e8ad4bdc86a24bb2af12ead4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091926011
+        }
+    ],
     "wof:id":1091926011,
-    "wof:lastmodified":1473984353,
+    "wof:lastmodified":1496901376,
     "wof:name":"Eishalle Lustenau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

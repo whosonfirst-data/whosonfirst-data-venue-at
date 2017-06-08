@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4238967896,47.5179481506,12.4238967896,47.5179481506",
     "geom:latitude":47.517948,
     "geom:longitude":12.423897,
@@ -29,17 +30,34 @@
     "sg:province":"Tirol",
     "sg:website":"www.hotel-sonne.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72kOUU5Ttd4AQB2SHxtinz_47.517948_12.423897@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898455,
-    "wof:geomhash":"3d3634c5cf2ee860cb43fee8527c8c42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f9968eaae2b2f334b831c1dd5d072d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1092048547
+        }
+    ],
     "wof:id":1092048547,
-    "wof:lastmodified":1473984266,
+    "wof:lastmodified":1496897353,
     "wof:name":"Hotel Sonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

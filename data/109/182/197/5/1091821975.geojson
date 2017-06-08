@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3069601059,48.2325248718,14.3069601059,48.2325248718",
     "geom:latitude":48.232525,
     "geom:longitude":14.30696,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898417,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888436,
-    "wof:geomhash":"3a56745cb2758f53e97945cfc6967366",
+    "wof:geomhash":"ea4f162550469f412c5412e1a279d3a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898417,
             "region_id":85681677,
             "venue_id":1091821975
         }
     ],
     "wof:id":1091821975,
-    "wof:lastmodified":1473983829,
+    "wof:lastmodified":1496881475,
     "wof:name":"Holzbau Ing. Kolm Ges.m.b.H. & Co KG",
     "wof:parent_id":85898417,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4607601166,47.5766487122,14.4607601166,47.5766487122",
     "geom:latitude":47.576649,
     "geom:longitude":14.46076,
@@ -31,17 +32,34 @@
         "agriculture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838983,
+        85632785,
+        101787971,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IuXSIUCtQrfMPYY2vHtq6_47.576649_14.460760@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905076,
-    "wof:geomhash":"0d1ecb89e15a5c20cf3754f69d46976b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d567e23ce01c8e3d22b2700e08c87f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838983,
+            "locality_id":101787971,
+            "region_id":85681687,
+            "venue_id":1092191181
+        }
+    ],
     "wof:id":1092191181,
-    "wof:lastmodified":1473983542,
+    "wof:lastmodified":1496910646,
     "wof:name":"STEIERM.LANDESFORSTE FORSTDIREKTION ADMONT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

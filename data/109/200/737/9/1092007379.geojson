@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1978187561,47.2886314392,16.1978187561,47.2886314392",
     "geom:latitude":47.288631,
     "geom:longitude":16.197819,
@@ -32,17 +33,34 @@
         "implant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838461,
+        85632785,
+        101787889,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1olcWWd5WkMSxCz7XYw23p_47.288631_16.197819@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896840,
-    "wof:geomhash":"1293aca31dc713f56ac88421106ac9ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"778c43bc8a2c1bf1807f62dd6a60dae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838461,
+            "locality_id":101787889,
+            "region_id":85681651,
+            "venue_id":1092007379
+        }
+    ],
     "wof:id":1092007379,
-    "wof:lastmodified":1473984722,
+    "wof:lastmodified":1496908061,
     "wof:name":"Zahntechnisches Labor Richard Gober",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

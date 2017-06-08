@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3350248337,47.2684516907,12.3350248337,47.2684516907",
     "geom:latitude":47.268452,
     "geom:longitude":12.335025,
@@ -23,17 +24,33 @@
     "sg:postcode":"5733",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837193,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QNgJXyOiCBtcZtulrfWT9_47.268452_12.335025@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911133,
-    "wof:geomhash":"1f5919be58c86bc277c4b58c641eb261",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f81463cd0ba87ab4e62de4de328f942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837193,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092327995
+        }
+    ],
     "wof:id":1092327995,
-    "wof:lastmodified":1473985138,
+    "wof:lastmodified":1496895863,
     "wof:name":"Innerhofer Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

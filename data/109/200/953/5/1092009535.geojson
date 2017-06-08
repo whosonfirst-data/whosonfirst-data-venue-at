@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.070936203,47.8171768188,13.070936203,47.8171768188",
     "geom:latitude":47.817177,
     "geom:longitude":13.070936,
@@ -25,10 +26,12 @@
     "sg:website":"http://www.compnet.at/draschl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896927,
-    "wof:geomhash":"6fa3c4859768afcd0968e52df3f49141",
+    "wof:geomhash":"16756c76a8c25c3d3a38175d0a28b15c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092009535
         }
     ],
     "wof:id":1092009535,
-    "wof:lastmodified":1473985062,
+    "wof:lastmodified":1496894670,
     "wof:name":"Gastronomie-KFZ-Gewerbe",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

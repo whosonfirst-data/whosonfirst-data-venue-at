@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4459619522,46.8609046936,14.4459619522,46.8609046936",
     "geom:latitude":46.860905,
     "geom:longitude":14.445962,
@@ -32,17 +33,33 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838235,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50bVbfjE6sk3D0CnVpZOY5_46.860905_14.445962@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905579,
-    "wof:geomhash":"83a0cc1e180ede804a49e1aa3b24e01e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52f0f93d9ca3ec6ea597ba759c9586f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838235,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092202087
+        }
+    ],
     "wof:id":1092202087,
-    "wof:lastmodified":1473983838,
+    "wof:lastmodified":1496906670,
     "wof:name":"TREIBACHER INDUSTRIE AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

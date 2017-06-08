@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8548717499,47.567615509,13.8548717499,47.567615509",
     "geom:latitude":47.567616,
     "geom:longitude":13.854872,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838931,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mfC9CmlJbgcAevHfaJwUo_47.567616_13.854872@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895393,
-    "wof:geomhash":"4d5f169c1d30dbf1861afa88a98f705a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"869a78a8d132f00343baa0c32d740c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838931,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091973549
+        }
+    ],
     "wof:id":1091973549,
-    "wof:lastmodified":1473984110,
+    "wof:lastmodified":1496910299,
     "wof:name":"AUSSEER SPEDITIONS GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

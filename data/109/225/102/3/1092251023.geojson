@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6883583069,47.3655319214,9.6883583069,47.3655319214",
     "geom:latitude":47.365532,
     "geom:longitude":9.688358,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"www.hohenems.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vDBiSfp6m24HSPgzeDTkI_47.365532_9.688358@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907762,
-    "wof:geomhash":"f0f277c8670aabe0a5b89ae0bac49d4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23f9c5646312d138e928db7acfd8904a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1092251023
+        }
+    ],
     "wof:id":1092251023,
-    "wof:lastmodified":1473983535,
+    "wof:lastmodified":1496901124,
     "wof:name":"Tourismus & Stadtmarketing Hohenems GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

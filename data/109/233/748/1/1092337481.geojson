@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0802297592,47.777721405,13.0802297592,47.777721405",
     "geom:latitude":47.777721,
     "geom:longitude":13.08023,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911517,
-    "wof:geomhash":"5f5887c10d199720645adf5e6dab9640",
+    "wof:geomhash":"73a373d946c6c2809a31ee77abbdd0f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092337481
         }
     ],
     "wof:id":1092337481,
-    "wof:lastmodified":1473985122,
+    "wof:lastmodified":1496894772,
     "wof:name":"MIBAG Sanierungs GmbH",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

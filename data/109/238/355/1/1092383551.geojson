@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8457107544,46.8374633789,14.8457107544,46.8374633789",
     "geom:latitude":46.837463,
     "geom:longitude":14.845711,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        101790087,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wwUoR0XP2eMKNslP1qZfU_46.837463_14.845711@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913619,
-    "wof:geomhash":"0d3becc6313e63f9e11ebd222eb05177",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16ed9ab50bb7ad39550edf9467aadc9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":101790087,
+            "region_id":85681655,
+            "venue_id":1092383551
+        }
+    ],
     "wof:id":1092383551,
-    "wof:lastmodified":1473984198,
+    "wof:lastmodified":1496905255,
     "wof:name":"Pizzeria La Prima",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

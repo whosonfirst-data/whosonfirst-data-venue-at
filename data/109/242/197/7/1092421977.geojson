@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8581809998,48.4686584473,16.8581809998,48.4686584473",
     "geom:latitude":48.468658,
     "geom:longitude":16.858181,
@@ -38,17 +39,34 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834919,
+        85632785,
+        101782221,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pJF8CbwAvHCT6CYX2HBKX_48.468658_16.858181@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915532,
-    "wof:geomhash":"b7b2b9819af08fc168ecf33ff0ad8ca7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c2b89b815346ee21862c101ae4b40bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108834919,
+            "locality_id":101782221,
+            "region_id":85681671,
+            "venue_id":1092421977
+        }
+    ],
     "wof:id":1092421977,
-    "wof:lastmodified":1473983711,
+    "wof:lastmodified":1496883537,
     "wof:name":"Walter Stolz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

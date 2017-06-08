@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2206802368,46.6272201538,14.2206802368,46.6272201538",
     "geom:latitude":46.62722,
     "geom:longitude":14.22068,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912297,
-    "wof:geomhash":"1a72b689e2bfcff073d9a63ea0065a9c",
+    "wof:geomhash":"5638a8a4897250d03faac1f227729161",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092355197
         }
     ],
     "wof:id":1092355197,
-    "wof:lastmodified":1473984490,
+    "wof:lastmodified":1496906395,
     "wof:name":"Messner Norbert",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

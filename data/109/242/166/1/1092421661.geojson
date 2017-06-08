@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2115449905,47.5899581909,13.2115449905,47.5899581909",
     "geom:latitude":47.589958,
     "geom:longitude":13.211545,
@@ -33,17 +34,33 @@
         "metallic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837105,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E1zxnF9rwPjrzAZfOn9yJ_47.589958_13.211545@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915519,
-    "wof:geomhash":"16acf6ff0f5532b653b214c5021c1a71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebe65daa3cc29a701871cd5954145d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837105,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092421661
+        }
+    ],
     "wof:id":1092421661,
-    "wof:lastmodified":1473983665,
+    "wof:lastmodified":1496895162,
     "wof:name":"HSG-SCHATTAUER GMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

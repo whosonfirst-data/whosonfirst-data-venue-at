@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9412813187,47.9525337219,13.9412813187,47.9525337219",
     "geom:latitude":47.952534,
     "geom:longitude":13.941281,
@@ -38,17 +39,33 @@
     ],
     "sg:website":"meltec.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835141,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_016QeNjqOz5SJAiSPrglNm_47.952534_13.941281@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895740,
-    "wof:geomhash":"e9ca768dd3499b00b8b9493e5b3009b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0937e69bc2caf197cbb359eee833c201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835141,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091981035
+        }
+    ],
     "wof:id":1091981035,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496885030,
     "wof:name":"Meltec Industrieofenbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2706642151,47.8922805786,14.2706642151,47.8922805786",
     "geom:latitude":47.892281,
     "geom:longitude":14.270664,
@@ -31,17 +32,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835261,
+        85632785,
+        101786809,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FoiupeKW14QeWQeaHdxdP_47.892281_14.270664@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917024,
-    "wof:geomhash":"17e17e275dc6f56fe8adfb976ceacae3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5cad91969792eeede02f315eec4aee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835261,
+            "locality_id":101786809,
+            "region_id":85681677,
+            "venue_id":1092454333
+        }
+    ],
     "wof:id":1092454333,
-    "wof:lastmodified":1473983466,
+    "wof:lastmodified":1496885706,
     "wof:name":"Franz Hatzenbichler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

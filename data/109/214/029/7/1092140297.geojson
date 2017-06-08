@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6442813873,47.2682685852,9.6442813873,47.2682685852",
     "geom:latitude":47.268269,
     "geom:longitude":9.644281,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902753,
-    "wof:geomhash":"05130e9696cb0b2d506d6e0aa9bfead9",
+    "wof:geomhash":"481af19ab4f3f63bbbf57bdb5197349b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092140297
         }
     ],
     "wof:id":1092140297,
-    "wof:lastmodified":1473983370,
+    "wof:lastmodified":1496901656,
     "wof:name":"Schlosserhus - Verein f Bilden u Gestalten - Volkshochschule Rankweil ao Prof",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

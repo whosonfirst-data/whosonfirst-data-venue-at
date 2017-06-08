@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0752487183,47.811870575,13.0752487183,47.811870575",
     "geom:latitude":47.811871,
     "geom:longitude":13.075249,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897418,
-    "wof:geomhash":"cff47b9672f2cd96ea476d05713388d1",
+    "wof:geomhash":"cd812421de0bee2da18e1a6153305907",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092021853
         }
     ],
     "wof:id":1092021853,
-    "wof:lastmodified":1473983675,
+    "wof:lastmodified":1496923057,
     "wof:name":"Pfarramt Gnigl",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

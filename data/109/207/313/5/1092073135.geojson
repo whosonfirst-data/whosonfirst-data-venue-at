@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0781173706,47.2725715637,13.0781173706,47.2725715637",
     "geom:latitude":47.272572,
     "geom:longitude":13.078117,
@@ -23,17 +24,33 @@
     "sg:postcode":"5632",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836997,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oNsjqwZ5yUMue7zfvhHNW_47.272572_13.078117@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899437,
-    "wof:geomhash":"8ab4aace0e46714011c5750275ae5857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2718324e49e6653948fbbb28702d3117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836997,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092073135
+        }
+    ],
     "wof:id":1092073135,
-    "wof:lastmodified":1473983832,
+    "wof:lastmodified":1496893850,
     "wof:name":"Gasthof Klammstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

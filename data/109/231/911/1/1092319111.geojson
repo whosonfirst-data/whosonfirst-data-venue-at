@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5399093628,47.851650238,16.5399093628,47.851650238",
     "geom:latitude":47.85165,
     "geom:longitude":16.539909,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"etm-ag.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833097,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yC038n1Y9i8H9Ttdhnj6k_47.851650_16.539909@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910759,
-    "wof:geomhash":"9a0b05e47618a618bbef7576f427c82d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec5f821e7736df4ff25b6b47a3dae23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833097,
+            "region_id":85681651,
+            "venue_id":1092319111
+        }
+    ],
     "wof:id":1092319111,
-    "wof:lastmodified":1473985314,
+    "wof:lastmodified":1496908777,
     "wof:name":"ETM AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

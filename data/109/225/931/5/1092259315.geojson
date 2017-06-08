@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4230651855,48.1316184998,16.4230651855,48.1316184998",
     "geom:latitude":48.131618,
     "geom:longitude":16.423065,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908123,
-    "wof:geomhash":"7ec833f204ff86c865160e0aa410b691",
+    "wof:geomhash":"39e76a666ed69c03f043f75891d93cf1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092259315
         }
     ],
     "wof:id":1092259315,
-    "wof:lastmodified":1473985137,
+    "wof:lastmodified":1496928674,
     "wof:name":"Schuster Johann",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

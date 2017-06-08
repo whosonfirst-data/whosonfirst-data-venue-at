@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8606967926,47.1860542297,13.8606967926,47.1860542297",
     "geom:latitude":47.186054,
     "geom:longitude":13.860697,
@@ -23,17 +24,33 @@
     "sg:postcode":"5580",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837065,
+        85632785,
+        102049721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zTbpoSztKWMqO3Eml75oF_47.186054_13.860697@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890196,
-    "wof:geomhash":"42d2f3af7629d930aaf1e50cb7c470bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3653a8fadf4d93b4bbf0f60ffd9f8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837065,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091859971
+        }
+    ],
     "wof:id":1091859971,
-    "wof:lastmodified":1473985226,
+    "wof:lastmodified":1496894303,
     "wof:name":"Landwirtschaftliche Fachschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

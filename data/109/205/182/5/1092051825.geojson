@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1859445572,47.3575744629,10.1859445572,47.3575744629",
     "geom:latitude":47.357574,
     "geom:longitude":10.185945,
@@ -28,17 +29,34 @@
     "sg:postcode":"6991",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101827491,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0spjFCHtavncqFtMoeFZFe_47.357574_10.185945@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898580,
-    "wof:geomhash":"a3e1ad8edd3db3b0771b573239122ed7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca2ef2be8808a83f62cc5777c560c0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101827491,
+            "region_id":85681649,
+            "venue_id":1092051825
+        }
+    ],
     "wof:id":1092051825,
-    "wof:lastmodified":1473983684,
+    "wof:lastmodified":1496901536,
     "wof:name":"Traube Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

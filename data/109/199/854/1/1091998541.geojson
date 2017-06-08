@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0986690521,47.1714286804,13.0986690521,47.1714286804",
     "geom:latitude":47.171429,
     "geom:longitude":13.098669,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.esmic.at/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        101789117,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GjFV11ipr2VIr5kld1aGJ_47.171429_13.098669@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896473,
-    "wof:geomhash":"ae190a7c31521f73b78b58204528db49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c3c6277371a41fcb9beb1e0a786b8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":101789117,
+            "region_id":85681681,
+            "venue_id":1091998541
+        }
+    ],
     "wof:id":1091998541,
-    "wof:lastmodified":1473984981,
+    "wof:lastmodified":1496893734,
     "wof:name":"ESM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

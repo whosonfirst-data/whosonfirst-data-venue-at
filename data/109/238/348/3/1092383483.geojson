@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.324344635,47.9798469543,16.324344635,47.9798469543",
     "geom:latitude":47.979847,
     "geom:longitude":16.324345,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836353,
+        85632785,
+        101785697,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tQZmVWe1wTkE2gL8xF2ZE_47.979847_16.324345@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913617,
-    "wof:geomhash":"b0d481b87ef0da1609fc2cce6e41c6fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d4e0a6234e8ddc68acd7feb9d15d95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836353,
+            "locality_id":101785697,
+            "region_id":85681671,
+            "venue_id":1092383483
+        }
+    ],
     "wof:id":1092383483,
-    "wof:lastmodified":1473984184,
+    "wof:lastmodified":1496890668,
     "wof:name":"Pizzeria L' Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1753692627,48.2074127197,16.1753692627,48.2074127197",
     "geom:latitude":48.207413,
     "geom:longitude":16.175369,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888872,
-    "wof:geomhash":"c94d3ed4e1a84a764af44bcc08c02de3",
+    "wof:geomhash":"5dcf6763557b5326a0b3cf9c358b7c3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091831705
         }
     ],
     "wof:id":1091831705,
-    "wof:lastmodified":1473983656,
+    "wof:lastmodified":1496888143,
     "wof:name":"Bank Austria Creditanstalt AG",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7712745667,47.3948287964,11.7712745667,47.3948287964",
     "geom:latitude":47.394829,
     "geom:longitude":11.771275,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"www.isw.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837877,
+        85632785,
+        101787875,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CcZyHOBzzkPWQpGkb2sYC_47.394829_11.771275@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906679,
-    "wof:geomhash":"418b88f235f986c11636a46483159d8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd32f3d270b0271867a40f719e788674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837877,
+            "locality_id":101787875,
+            "region_id":85681661,
+            "venue_id":1092226413
+        }
+    ],
     "wof:id":1092226413,
-    "wof:lastmodified":1473984871,
+    "wof:lastmodified":1496900358,
     "wof:name":"ISW Ingenieurb\u00fcro Stefan W\u00f6rg\u00f6tter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

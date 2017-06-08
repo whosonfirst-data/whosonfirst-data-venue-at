@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3711109161,46.8079109192,12.3711109161,46.8079109192",
     "geom:latitude":46.807911,
     "geom:longitude":12.371111,
@@ -23,17 +24,33 @@
     "sg:postcode":"9932",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837495,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D2hupMU89dMocFbJr5pce_46.807911_12.371111@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899797,
-    "wof:geomhash":"f568355f1f7a440643d3ba768d10eccf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1206adbff2d5804a408be801219c491d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837495,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092080653
+        }
+    ],
     "wof:id":1092080653,
-    "wof:lastmodified":1473983434,
+    "wof:lastmodified":1496898097,
     "wof:name":"Raiffeisen Gasthaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

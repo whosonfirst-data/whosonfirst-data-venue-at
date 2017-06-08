@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2606258392,48.1864356995,16.2606258392,48.1864356995",
     "geom:latitude":48.186436,
     "geom:longitude":16.260626,
@@ -34,10 +35,13 @@
     "sg:website":"extragolf.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905030,
-    "wof:geomhash":"62e481d831409cd3d48d71b2326f1b73",
+    "wof:geomhash":"b805e6a0e1b464d29aec34ca177eacd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092190111
         }
     ],
     "wof:id":1092190111,
-    "wof:lastmodified":1473983340,
+    "wof:lastmodified":1496905046,
     "wof:name":"Payer & Payer Ges.m.b.H.",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

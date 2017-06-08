@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5202913284,47.4330825806,13.5202913284,47.4330825806",
     "geom:latitude":47.433083,
     "geom:longitude":13.520291,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.alpenhof.com/enzian/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837003,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SwnPEnBgU71XXY67G0A7B_47.433083_13.520291@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894835,
-    "wof:geomhash":"cebad52009bfc232c6590ffcef39bc33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40ff7ae3933539a448d07eef4d11ec49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837003,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091960305
+        }
+    ],
     "wof:id":1091960305,
-    "wof:lastmodified":1473983381,
+    "wof:lastmodified":1496893887,
     "wof:name":"Haus Enzian - Fam. Hofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

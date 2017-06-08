@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7089395523,48.4694442749,13.7089395523,48.4694442749",
     "geom:latitude":48.469444,
     "geom:longitude":13.70894,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"tischlerei-glas.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836059,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OVRCCL78CVf47aIZL5TAU_48.469444_13.708940@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905642,
-    "wof:geomhash":"449d0287c6936868c04de116d7929c4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b0b0be4739c802e2d279e4cb013fed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836059,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092203083
+        }
+    ],
     "wof:id":1092203083,
-    "wof:lastmodified":1473983992,
+    "wof:lastmodified":1496889347,
     "wof:name":"Franz Glas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

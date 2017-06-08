@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0799789429,47.8029212952,13.0799789429,47.8029212952",
     "geom:latitude":47.802921,
     "geom:longitude":13.079979,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899461,
-    "wof:geomhash":"012ba1e80ae21d6f4f67b0f06b20856c",
+    "wof:geomhash":"3e84fc3f4f5d06871af92ac49990105d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092073781
         }
     ],
     "wof:id":1092073781,
-    "wof:lastmodified":1473983991,
+    "wof:lastmodified":1496894557,
     "wof:name":"Gasthof Pension Zum Hirschen Fam Koller",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

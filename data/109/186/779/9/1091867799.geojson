@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9760694504,47.2818908691,15.9760694504,47.2818908691",
     "geom:latitude":47.281891,
     "geom:longitude":15.976069,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.htb.at/user/eberhardt/home.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839121,
+        85632785,
+        101787899,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oSXtQL7CyVEXtYjE1qyZn_47.281891_15.976069@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890562,
-    "wof:geomhash":"54cd927a13859fd3e76b0259113490fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6980c2394ed14143489c94443911274e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839121,
+            "locality_id":101787899,
+            "region_id":85681687,
+            "venue_id":1091867799
+        }
+    ],
     "wof:id":1091867799,
-    "wof:lastmodified":1473985085,
+    "wof:lastmodified":1496911461,
     "wof:name":"Evangelische Kirche Hartberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

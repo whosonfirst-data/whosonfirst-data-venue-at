@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0431137085,47.3890762329,15.0431137085,47.3890762329",
     "geom:latitude":47.389076,
     "geom:longitude":15.043114,
@@ -24,10 +25,13 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898561,
-        102049769
+        102191581,
+        1108838995,
+        85632785,
+        101834297,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900856,
-    "wof:geomhash":"68936d2875dd0e7dd022059d8f927f7d",
+    "wof:geomhash":"cbdd8b4f71b7ba31d0d776ef4a47ad3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108838995,
+            "locality_id":101834297,
             "neighbourhood_id":85898561,
             "region_id":85681687,
             "venue_id":1092101073
         }
     ],
     "wof:id":1092101073,
-    "wof:lastmodified":1473983488,
+    "wof:lastmodified":1496910737,
     "wof:name":"Glaserei Gruber",
     "wof:parent_id":85898561,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.419084549,47.2603111267,11.419084549,47.2603111267",
     "geom:latitude":47.260311,
     "geom:longitude":11.419085,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890329,
-    "wof:geomhash":"1b8de4dafecf2d13e592e8cc098b600f",
+    "wof:geomhash":"867635cf230bdc6b7e561ca51fc7ab75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1091862683
         }
     ],
     "wof:id":1091862683,
-    "wof:lastmodified":1473983994,
+    "wof:lastmodified":1496899367,
     "wof:name":"Euro D.I.A. Services",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

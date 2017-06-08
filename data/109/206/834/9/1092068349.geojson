@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.34486866,46.6188964844,14.34486866,46.6188964844",
     "geom:latitude":46.618896,
     "geom:longitude":14.344869,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899244,
-    "wof:geomhash":"bbca0f47370d4eaf08cc632d9b0b9086",
+    "wof:geomhash":"3716373e5140a6570f6ff3ca305a9808",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092068349
         }
     ],
     "wof:id":1092068349,
-    "wof:lastmodified":1473984948,
+    "wof:lastmodified":1496905974,
     "wof:name":"Gasthaus Reiterklause",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

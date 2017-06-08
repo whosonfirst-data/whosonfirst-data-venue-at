@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8441209793,46.5965614319,13.8441209793,46.5965614319",
     "geom:latitude":46.596561,
     "geom:longitude":13.844121,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903067,
-    "wof:geomhash":"1e027635e04b55fee7d64fff97fb1f1c",
+    "wof:geomhash":"73b90e3b5fb40d8d3cca68816279555b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092146971
         }
     ],
     "wof:id":1092146971,
-    "wof:lastmodified":1473984705,
+    "wof:lastmodified":1496906110,
     "wof:name":"HDC Objekt Design",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

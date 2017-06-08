@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7500228882,47.4107704163,9.7500228882,47.4107704163",
     "geom:latitude":47.41077,
     "geom:longitude":9.750023,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916720,
-    "wof:geomhash":"46ffc2fb8f56da23f635779e287ee6df",
+    "wof:geomhash":"6f8cd131925e14cc1b31fda1db8a14cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092447385
         }
     ],
     "wof:id":1092447385,
-    "wof:lastmodified":1473985177,
+    "wof:lastmodified":1496900758,
     "wof:name":"Haarstudio Wolfgang",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

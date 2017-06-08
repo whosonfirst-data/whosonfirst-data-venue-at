@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7422523499,47.2395133972,10.7422523499,47.2395133972",
     "geom:latitude":47.239513,
     "geom:longitude":10.742252,
@@ -23,17 +24,34 @@
     "sg:postcode":"6460",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76eOpqTuMRDNCw8AGnOsQL_47.239513_10.742252@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915438,
-    "wof:geomhash":"398e9f7efad352466243d1a993247bd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ab3df4bb9ed5c7ca0a71542159b8802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092419855
+        }
+    ],
     "wof:id":1092419855,
-    "wof:lastmodified":1473985221,
+    "wof:lastmodified":1496898341,
     "wof:name":"Medienzentrum Bezirk Imst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

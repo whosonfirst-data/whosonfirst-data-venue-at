@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4013557434,47.2517967224,11.4013557434,47.2517967224",
     "geom:latitude":47.251797,
     "geom:longitude":11.401356,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907065,
-    "wof:geomhash":"115b80a2cb4f216eb617669846e42d19",
+    "wof:geomhash":"76e8e2ba47edd2843d4dc0ddd9047dde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092235343
         }
     ],
     "wof:id":1092235343,
-    "wof:lastmodified":1473984430,
+    "wof:lastmodified":1496899355,
     "wof:name":"Alt Innsbrucker Bauerntheater Ritterspiele Bierstindl",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

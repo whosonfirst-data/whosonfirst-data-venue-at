@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8414382935,47.0751113892,13.8414382935,47.0751113892",
     "geom:latitude":47.075111,
     "geom:longitude":13.841438,
@@ -23,17 +24,33 @@
     "sg:postcode":"5591",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837057,
+        85632785,
+        102049721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CQ4PWlP7hbmS1Q0RVJIeA_47.075111_13.841438@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914120,
-    "wof:geomhash":"0c1ab76112933d5dc8b8879f0b3ebb7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a51a7a095ffde56c2457b1c113bff22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837057,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092393111
+        }
+    ],
     "wof:id":1092393111,
-    "wof:lastmodified":1473983754,
+    "wof:lastmodified":1496894248,
     "wof:name":"Postamt 5591 Ramingstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

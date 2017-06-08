@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6863803864,47.1844863892,14.6863803864,47.1844863892",
     "geom:latitude":47.184486,
     "geom:longitude":14.68638,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"www.mozarts-musikkiste.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839395,
+        85632785,
+        101834249,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WRZg6Zdpq7W7Yxy3LfmcM_47.184486_14.686380@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912133,
-    "wof:geomhash":"a213316d6d4fdb557b87810a134c7c72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0054d12b54690cf7eafd9b6934099d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839395,
+            "locality_id":101834249,
+            "region_id":85681687,
+            "venue_id":1092351247
+        }
+    ],
     "wof:id":1092351247,
-    "wof:lastmodified":1473983360,
+    "wof:lastmodified":1496913934,
     "wof:name":"Mozarts-Musikkiste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2599887848,48.1387023926,16.2599887848,48.1387023926",
     "geom:latitude":48.138702,
     "geom:longitude":16.259989,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898686,
-    "wof:geomhash":"1958d6388897461412dfe84cccab4757",
+    "wof:geomhash":"c03939ae8b5201808b9a4804312b83d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092054647
         }
     ],
     "wof:id":1092054647,
-    "wof:lastmodified":1473984193,
+    "wof:lastmodified":1496902833,
     "wof:name":"H\u00f6rger\u00e4te Studio Bontus",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

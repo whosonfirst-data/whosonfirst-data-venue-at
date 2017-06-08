@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7620544434,48.0792922974,14.7620544434,48.0792922974",
     "geom:latitude":48.079292,
     "geom:longitude":14.762054,
@@ -31,17 +32,33 @@
         "agriculture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836347,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FUthaTo54ENe4Qr8THmx7_48.079292_14.762054@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905083,
-    "wof:geomhash":"f9c51dcdbdbaca2add04eac94c20d01c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66931627e9b75d2405788b8b0c5f99c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836347,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092191347
+        }
+    ],
     "wof:id":1092191347,
-    "wof:lastmodified":1473983620,
+    "wof:lastmodified":1496890659,
     "wof:name":"STARKL PFLANZENVERSAND GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

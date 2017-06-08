@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1890096664,47.3582992554,10.1890096664,47.3582992554",
     "geom:latitude":47.358299,
     "geom:longitude":10.18901,
@@ -23,17 +24,34 @@
     "sg:postcode":"6991",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101827491,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76B5hgCdGy6MXluVMzmrTO_47.358299_10.189010@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888681,
-    "wof:geomhash":"055a2500ecc059da5dc3822a284272f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f31f385ad74a88c78424646995bdaaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101827491,
+            "region_id":85681649,
+            "venue_id":1091827229
+        }
+    ],
     "wof:id":1091827229,
-    "wof:lastmodified":1473985100,
+    "wof:lastmodified":1496901518,
     "wof:name":"Raiffeisenbank Kleinwalsertal AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

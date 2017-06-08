@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1916303635,48.2595443726,13.1916303635,48.2595443726",
     "geom:latitude":48.259544,
     "geom:longitude":13.19163,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834809,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mkl2vMkvvqfsL0Uy1PTpi_48.259544_13.191630@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891847,
-    "wof:geomhash":"8c504c6dc1604f92bb1159cfa1e1793f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32e3849c73b9dc007c0580119578a088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834809,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091895163
+        }
+    ],
     "wof:id":1091895163,
-    "wof:lastmodified":1473984485,
+    "wof:lastmodified":1496882625,
     "wof:name":"Bodenhofer GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

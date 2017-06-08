@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5172042847,47.7653312683,16.5172042847,47.7653312683",
     "geom:latitude":47.765331,
     "geom:longitude":16.517204,
@@ -23,17 +24,33 @@
     "sg:postcode":"7011",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838609,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ux35VdRp5VyMUQWMAKVh2_47.765331_16.517204@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888742,
-    "wof:geomhash":"af02d8585edeebf99ef41d456152179a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba6775602aeadd3980f5688240b4bc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838609,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091828717
+        }
+    ],
     "wof:id":1091828717,
-    "wof:lastmodified":1473985307,
+    "wof:lastmodified":1496908684,
     "wof:name":"Raiffeisenbank Zagersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

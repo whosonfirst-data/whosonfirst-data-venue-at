@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2909231186,46.5245094299,14.2909231186,46.5245094299",
     "geom:latitude":46.524509,
     "geom:longitude":14.290923,
@@ -31,17 +32,34 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838165,
+        85632785,
+        101790095,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05geQjs8LJLMVkcpirYhlI_46.524509_14.290923@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896859,
-    "wof:geomhash":"eec67c93129f45233ac84c2a527c34ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc28e57e92fa2b235a0bfaf7b6002994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838165,
+            "locality_id":101790095,
+            "region_id":85681655,
+            "venue_id":1092007865
+        }
+    ],
     "wof:id":1092007865,
-    "wof:lastmodified":1473984856,
+    "wof:lastmodified":1496906314,
     "wof:name":"Atelier Bozin Kuzman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

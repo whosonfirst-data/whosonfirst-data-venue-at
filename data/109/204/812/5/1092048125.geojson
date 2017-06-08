@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1840190887,47.3326721191,11.1840190887,47.3326721191",
     "geom:latitude":47.332672,
     "geom:longitude":11.184019,
@@ -28,17 +29,33 @@
     "sg:postcode":"6100",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837643,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SiHMkpZYdL1SUpcAaJuyu_47.332672_11.184019@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898438,
-    "wof:geomhash":"b0e811247aa6d296b1287e8576a4b375",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e73c650b780ab80f17c29d5c000275f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837643,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048125
+        }
+    ],
     "wof:id":1092048125,
-    "wof:lastmodified":1473984240,
+    "wof:lastmodified":1496898936,
     "wof:name":"Hotel Residenz Hochland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

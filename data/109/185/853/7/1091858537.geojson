@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1509380341,47.5363235474,12.1509380341,47.5363235474",
     "geom:latitude":47.536324,
     "geom:longitude":12.150938,
@@ -23,17 +24,33 @@
     "sg:postcode":"6330",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837265,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CWzAZVvhKSvkEdDdsZbYy_47.536324_12.150938@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890127,
-    "wof:geomhash":"c06165d35f4dc2355de80c8128d5a103",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29f58fe75d68f12ca3eebee2aef3d9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837265,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091858537
+        }
+    ],
     "wof:id":1091858537,
-    "wof:lastmodified":1473984901,
+    "wof:lastmodified":1496896561,
     "wof:name":"Schlepplift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

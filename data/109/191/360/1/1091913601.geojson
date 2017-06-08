@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4887771606,48.214553833,16.4887771606,48.214553833",
     "geom:latitude":48.214554,
     "geom:longitude":16.488777,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892729,
-    "wof:geomhash":"fd4ee6588966dbb2c16a2fac9ce018bd",
+    "wof:geomhash":"a878cf43e198325bc5f789c7c361ba4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091913601
         }
     ],
     "wof:id":1091913601,
-    "wof:lastmodified":1473983742,
+    "wof:lastmodified":1496927689,
     "wof:name":"Fremd Franz",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

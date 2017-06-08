@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.173579216,48.3377571106,14.173579216,48.3377571106",
     "geom:latitude":48.337757,
     "geom:longitude":14.173579,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85904371,
-        102049847
+        102191581,
+        1108836395,
+        85632785,
+        101784615,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897732,
-    "wof:geomhash":"56efe889bf45cc6935bc165ce2617744",
+    "wof:geomhash":"9ddd0cc3096f10abe7f1fadef55b7401",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836395,
+            "locality_id":101784615,
             "neighbourhood_id":85904371,
             "region_id":85681677,
             "venue_id":1092030211
         }
     ],
     "wof:id":1092030211,
-    "wof:lastmodified":1473983400,
+    "wof:lastmodified":1496890889,
     "wof:name":"AGENTUR PURISM J\u00fcrgen Hamberger",
     "wof:parent_id":85904371,
     "wof:placetype":"venue",

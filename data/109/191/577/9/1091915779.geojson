@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8802499771,48.3264427185,13.8802499771,48.3264427185",
     "geom:latitude":48.326443,
     "geom:longitude":13.88025,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835233,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ctUoVRjqdp9rUm09cIJne_48.326443_13.880250@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892820,
-    "wof:geomhash":"55fb6987e8027005175cf04196c6b11d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3daac2aa7c4f4abf663fc2a8aef8f416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835233,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091915779
+        }
+    ],
     "wof:id":1091915779,
-    "wof:lastmodified":1473984061,
+    "wof:lastmodified":1496885522,
     "wof:name":"SWEP - Gerhard Praher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

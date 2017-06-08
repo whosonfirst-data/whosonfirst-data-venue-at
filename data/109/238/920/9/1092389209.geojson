@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0912342072,47.3721351624,15.0912342072,47.3721351624",
     "geom:latitude":47.372135,
     "geom:longitude":15.091234,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898553,
-        102049769
+        102191581,
+        1108839009,
+        85632785,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913910,
-    "wof:geomhash":"330dc3d9ee8e01e9ec16306a3e68b6e3",
+    "wof:geomhash":"99359f862a94f471065b9aef5ff5b25d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":-1,
             "neighbourhood_id":85898553,
             "region_id":85681687,
             "venue_id":1092389209
         }
     ],
     "wof:id":1092389209,
-    "wof:lastmodified":1473985283,
+    "wof:lastmodified":1496910782,
     "wof:name":"Bundespolizeidirektion Leoben",
     "wof:parent_id":85898553,
     "wof:placetype":"venue",

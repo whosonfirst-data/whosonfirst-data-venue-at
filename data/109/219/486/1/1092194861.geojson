@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4851484299,47.4826202393,14.4851484299,47.4826202393",
     "geom:latitude":47.48262,
     "geom:longitude":14.485148,
@@ -34,17 +35,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838887,
+        85632785,
+        101844561,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YQCL9LDfd6EFNnYL2wkvU_47.482620_14.485148@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905236,
-    "wof:geomhash":"9ae59a4087e796d745d3e50c4c0712e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc8e152ac05f7437e3e0e391100ebbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838887,
+            "locality_id":101844561,
+            "region_id":85681687,
+            "venue_id":1092194861
+        }
+    ],
     "wof:id":1092194861,
-    "wof:lastmodified":1473984481,
+    "wof:lastmodified":1496909882,
     "wof:name":"TMG Metallbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

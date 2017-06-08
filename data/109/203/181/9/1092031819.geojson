@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7525081635,47.4114685059,9.7525081635,47.4114685059",
     "geom:latitude":47.411469,
     "geom:longitude":9.752508,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897801,
-    "wof:geomhash":"a722f1a0a5226a96dcb6d4f9b6c8b6a0",
+    "wof:geomhash":"ab34d9dc1858a7b45ea3e9f17ec9312d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092031819
         }
     ],
     "wof:id":1092031819,
-    "wof:lastmodified":1473983680,
+    "wof:lastmodified":1496900864,
     "wof:name":"KS Agentur Simcic KEG",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1700677872,47.382522583,11.1700677872,47.382522583",
     "geom:latitude":47.382523,
     "geom:longitude":11.170068,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jGH0RpYmMrTmJWZDrSWcJ_47.382523_11.170068@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905652,
-    "wof:geomhash":"cfe035061f5bdf12709a22f927f0a949",
-    "wof:hierarchy":[],
+    "wof:geomhash":"416c06846ac8b0ea50cc5488838b890c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092203211
+        }
+    ],
     "wof:id":1092203211,
-    "wof:lastmodified":1473984028,
+    "wof:lastmodified":1496898425,
     "wof:name":"Albin Kluckner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

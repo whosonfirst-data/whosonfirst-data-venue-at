@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5059576035,47.2845497131,11.5059576035,47.2845497131",
     "geom:latitude":47.28455,
     "geom:longitude":11.505958,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914493,
-    "wof:geomhash":"384c646314dc21d6c0d22569e01f5f00",
+    "wof:geomhash":"802a630287c9530fb63a56f8a1b3ae24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092401887
         }
     ],
     "wof:id":1092401887,
-    "wof:lastmodified":1473983654,
+    "wof:lastmodified":1496898706,
     "wof:name":"Walder Markus Mag",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

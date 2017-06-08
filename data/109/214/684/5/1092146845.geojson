@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9707307816,48.000617981,12.9707307816,48.000617981",
     "geom:latitude":48.000618,
     "geom:longitude":12.970731,
@@ -23,17 +24,33 @@
     "sg:postcode":"5112",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837157,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XPaBoXXVBKHEpYNb5ZkpH_48.000618_12.970731@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473903062,
-    "wof:geomhash":"e342d0852a0652a37c900247e2c6a1eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"500646bed19576bc75e48e82ffae11ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837157,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092146845
+        }
+    ],
     "wof:id":1092146845,
-    "wof:lastmodified":1473984702,
+    "wof:lastmodified":1496895471,
     "wof:name":"Graphic Arte Grafik Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

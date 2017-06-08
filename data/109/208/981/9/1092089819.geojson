@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2395811081,47.6616249084,12.2395811081,47.6616249084",
     "geom:latitude":47.661625,
     "geom:longitude":12.239581,
@@ -23,17 +24,33 @@
     "sg:postcode":"6342",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837415,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OtndDqPelB6Uv24PTsFD2_47.661625_12.239581@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900222,
-    "wof:geomhash":"3c68c0514694d96fcf041a35af39dac2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"661e709a0a0e20737a0ae6531f1c1dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837415,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092089819
+        }
+    ],
     "wof:id":1092089819,
-    "wof:lastmodified":1473985257,
+    "wof:lastmodified":1496897770,
     "wof:name":"Gemeindeamt Niederndorferberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

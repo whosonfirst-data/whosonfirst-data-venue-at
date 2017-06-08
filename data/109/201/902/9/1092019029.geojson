@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5003738403,47.5721130371,16.5003738403,47.5721130371",
     "geom:latitude":47.572113,
     "geom:longitude":16.500374,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838649,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vs1mT2ezbw97M5rGrPFcO_47.572113_16.500374@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897310,
-    "wof:geomhash":"43362b8ab77f39a1131e9556206f3522",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ffc3627c7cbb58da9b959ea12624a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838649,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092019029
+        }
+    ],
     "wof:id":1092019029,
-    "wof:lastmodified":1473984660,
+    "wof:lastmodified":1496909003,
     "wof:name":"Eierhof Stinakovits GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

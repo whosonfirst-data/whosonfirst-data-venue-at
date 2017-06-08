@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3488140106,47.8559455872,13.3488140106,47.8559455872",
     "geom:latitude":47.855946,
     "geom:longitude":13.348814,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.leitnerbraeu.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836451,
+        85632785,
+        101785673,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16tX2zzhDv3pCu4Rr1Yehx_47.855946_13.348814@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898591,
-    "wof:geomhash":"9203729c688ee5d6b8f9dfa1119f821b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"881b9d186f33b2a19dfb7c9e7dc809c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836451,
+            "locality_id":101785673,
+            "region_id":85681677,
+            "venue_id":1092052159
+        }
+    ],
     "wof:id":1092052159,
-    "wof:lastmodified":1473983711,
+    "wof:lastmodified":1496891165,
     "wof:name":"Austria Classic Hotel Leitnerbr\u00e4u",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

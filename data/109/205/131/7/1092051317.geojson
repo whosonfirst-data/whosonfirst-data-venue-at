@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3330402374,47.5138702393,12.3330402374,47.5138702393",
     "geom:latitude":47.51387,
     "geom:longitude":12.33304,
@@ -28,17 +29,33 @@
     "sg:postcode":"6353",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837363,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rA7fQ5pN07vSKsPXQIxi3_47.513870_12.333040@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898560,
-    "wof:geomhash":"ada5cac94bd110de97290ba414575594",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eca3cb9780314c2c662e5806b78314d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837363,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092051317
+        }
+    ],
     "wof:id":1092051317,
-    "wof:lastmodified":1473983559,
+    "wof:lastmodified":1496897302,
     "wof:name":"Sonnenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

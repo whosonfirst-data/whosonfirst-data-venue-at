@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5403499603,47.3699111938,10.5403499603,47.3699111938",
     "geom:latitude":47.369911,
     "geom:longitude":10.54035,
@@ -23,17 +24,33 @@
     "sg:postcode":"6642",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837703,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uw30aJJkNe9ovLhJLltWA_47.369911_10.540350@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899473,
-    "wof:geomhash":"db4fcf7376f32612238e4d4e7e4bb4b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14e6b9e3a5e1f872c4903cc8ffba4e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837703,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092074073
+        }
+    ],
     "wof:id":1092074073,
-    "wof:lastmodified":1473984063,
+    "wof:lastmodified":1496899660,
     "wof:name":"Gasthof Rose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

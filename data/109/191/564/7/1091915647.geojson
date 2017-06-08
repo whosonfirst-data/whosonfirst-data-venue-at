@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6690816879,48.3497428894,14.6690816879,48.3497428894",
     "geom:latitude":48.349743,
     "geom:longitude":14.669082,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835119,
+        85632785,
+        101783373,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pj1DY0wwnu059rSBRaCH8_48.349743_14.669082@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892815,
-    "wof:geomhash":"d2b903a789eff5f80d74abb3e1b6be06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b09a15ae66cc1fcc027a2882e01007f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835119,
+            "locality_id":101783373,
+            "region_id":85681677,
+            "venue_id":1091915647
+        }
+    ],
     "wof:id":1091915647,
-    "wof:lastmodified":1473984027,
+    "wof:lastmodified":1496884638,
     "wof:name":"Softwaretechnik Schedlberger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

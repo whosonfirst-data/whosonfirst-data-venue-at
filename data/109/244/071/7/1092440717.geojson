@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2625808716,48.1779708862,16.2625808716,48.1779708862",
     "geom:latitude":48.177971,
     "geom:longitude":16.262581,
@@ -25,10 +26,13 @@
     "sg:website":"antonpickl.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916398,
-    "wof:geomhash":"a8964edcb44b0513adc88fc3c6eaf020",
+    "wof:geomhash":"d8bfd280fd79078f0e812b747dc23d3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092440717
         }
     ],
     "wof:id":1092440717,
-    "wof:lastmodified":1473983446,
+    "wof:lastmodified":1496903742,
     "wof:name":"MA 43 - Friedhof Ober St Veit",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

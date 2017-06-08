@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9952688217,47.4566917419,14.9952688217,47.4566917419",
     "geom:latitude":47.456692,
     "geom:longitude":14.995269,
@@ -33,17 +34,34 @@
         "kaffeemaschinen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838989,
+        85632785,
+        101787947,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71avaIkMDWHBCqtALmxiiq_47.456692_14.995269@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909144,
-    "wof:geomhash":"66de1ab43cfd775084897e452f316c0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"483b17a377e92125b34060f30dc81681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838989,
+            "locality_id":101787947,
+            "region_id":85681687,
+            "venue_id":1092282573
+        }
+    ],
     "wof:id":1092282573,
-    "wof:lastmodified":1473983777,
+    "wof:lastmodified":1496910669,
     "wof:name":"Wiegisser GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

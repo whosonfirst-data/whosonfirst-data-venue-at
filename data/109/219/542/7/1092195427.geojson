@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3092727661,47.8496017456,16.3092727661,47.8496017456",
     "geom:latitude":47.849602,
     "geom:longitude":16.309273,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"trimmel.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834823,
+        85632785,
+        101833125,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jg7b8fq7mpLsp4myugTTb_47.849602_16.309273@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905257,
-    "wof:geomhash":"9f1e5dcd3f815001cf7bff68835fe42d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca84b57e1d1e413237d6aa5f4c621931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834823,
+            "locality_id":101833125,
+            "region_id":85681671,
+            "venue_id":1092195427
+        }
+    ],
     "wof:id":1092195427,
-    "wof:lastmodified":1473984529,
+    "wof:lastmodified":1496891947,
     "wof:name":"Metallbau Trimmel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

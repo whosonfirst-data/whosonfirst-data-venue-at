@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5260391235,47.859336853,16.5260391235,47.859336853",
     "geom:latitude":47.859337,
     "geom:longitude":16.526039,
@@ -23,17 +24,33 @@
     "sg:postcode":"7000",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xQt9SkbnZy1C25i64oVL5_47.859337_16.526039@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889399,
-    "wof:geomhash":"740371e1fd12322a4e110c622c6512ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"252205ca1945247175425805f5b02441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091843147
+        }
+    ],
     "wof:id":1091843147,
-    "wof:lastmodified":1473983945,
+    "wof:lastmodified":1496908743,
     "wof:name":"Maly Baumschulen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

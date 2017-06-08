@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.103644371,48.1876335144,15.103644371,48.1876335144",
     "geom:latitude":48.187634,
     "geom:longitude":15.103644,
@@ -23,17 +24,33 @@
     "sg:postcode":"3680",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836683,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jVfOcrc6AiReGKjpJOoGu_48.187634_15.103644@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889564,
-    "wof:geomhash":"4ab518e6153bd0237cf03062f66408cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26ea6e03ac4aebceb1aeb65d28648ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836683,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091847025
+        }
+    ],
     "wof:id":1091847025,
-    "wof:lastmodified":1473984645,
+    "wof:lastmodified":1496892405,
     "wof:name":"AC-Bau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

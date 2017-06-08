@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7634143829,47.1441421509,9.7634143829,47.1441421509",
     "geom:latitude":47.144142,
     "geom:longitude":9.763414,
@@ -28,17 +29,33 @@
     "sg:postcode":"6707",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837915,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cvcstVQW8ciPqCZoxloZJ_47.144142_9.763414@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898299,
-    "wof:geomhash":"902af8cdbc13b82557dc88662ffea922",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88aaacbb0226cff77176c5527957fd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837915,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092044463
+        }
+    ],
     "wof:id":1092044463,
-    "wof:lastmodified":1473983609,
+    "wof:lastmodified":1496900699,
     "wof:name":"Berghotel Schillerkopf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

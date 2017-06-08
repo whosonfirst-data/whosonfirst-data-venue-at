@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6471748352,47.2713661194,9.6471748352,47.2713661194",
     "geom:latitude":47.271366,
     "geom:longitude":9.647175,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897731,
-    "wof:geomhash":"4a4beeaaee3c7d7d0da87652391364a9",
+    "wof:geomhash":"ae4699aeba9416d8e1ad11e973d05f5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092030151
         }
     ],
     "wof:id":1092030151,
-    "wof:lastmodified":1473983337,
+    "wof:lastmodified":1496901639,
     "wof:name":"Wollstube am Berg",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

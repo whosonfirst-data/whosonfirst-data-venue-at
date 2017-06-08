@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2815952301,46.6659469604,14.2815952301,46.6659469604",
     "geom:latitude":46.665947,
     "geom:longitude":14.281595,
@@ -25,10 +26,12 @@
     "sg:website":"mattuschka.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889408,
-    "wof:geomhash":"b51290cae1612f8fcd87f9d4bda0e096",
+    "wof:geomhash":"968ace2d8cb476f378e8a3734e5d446a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1091843355
         }
     ],
     "wof:id":1091843355,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496905783,
     "wof:name":"Baumschule Mattuschka Sabine",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

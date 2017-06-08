@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9538917542,47.2759628296,15.9538917542,47.2759628296",
     "geom:latitude":47.275963,
     "geom:longitude":15.953892,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"www.fidler.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839121,
+        85632785,
+        101787899,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fuBkvAqAMgBccTMp7U19B_47.275963_15.953892@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894323,
-    "wof:geomhash":"d4b6c170ee401cc3826a0e8385914dde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d816b3e3782d0d7232593d3ec5d5ab22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839121,
+            "locality_id":101787899,
+            "region_id":85681687,
+            "venue_id":1091948799
+        }
+    ],
     "wof:id":1091948799,
-    "wof:lastmodified":1473985245,
+    "wof:lastmodified":1496911409,
     "wof:name":"Fidler Erwin Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

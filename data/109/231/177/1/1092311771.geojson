@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0837984085,47.8339347839,13.0837984085,47.8339347839",
     "geom:latitude":47.833935,
     "geom:longitude":13.083798,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910449,
-    "wof:geomhash":"e2f51e13321b3ab70522393bd6a3a666",
+    "wof:geomhash":"266410ca1d7a22c73a3bf4b7dfd8646c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092311771
         }
     ],
     "wof:id":1092311771,
-    "wof:lastmodified":1473983766,
+    "wof:lastmodified":1496895389,
     "wof:name":"Moto Z Motorenteilehandel Karl Zankl",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

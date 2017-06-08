@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0038299561,48.1566009521,14.0038299561,48.1566009521",
     "geom:latitude":48.156601,
     "geom:longitude":14.00383,
@@ -35,17 +36,34 @@
         "purpose"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QMcC6GQePCCe6S5aCRn6D_48.156601_14.003830@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473887893,
-    "wof:geomhash":"22fbb733d462e5c99edd29ecd321c97a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"074bdda4f981b26957ac23d5a268dd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1091809491
+        }
+    ],
     "wof:id":1091809491,
-    "wof:lastmodified":1473984530,
+    "wof:lastmodified":1496882106,
     "wof:name":"Adler-N\u00e4hmaschinenvertrieb Zimmermann & Kroboth Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

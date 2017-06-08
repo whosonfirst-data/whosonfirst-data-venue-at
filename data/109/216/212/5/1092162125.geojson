@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5776910782,47.2970619202,9.5776910782,47.2970619202",
     "geom:latitude":47.297062,
     "geom:longitude":9.577691,
@@ -23,17 +24,34 @@
     "sg:postcode":"6812",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838005,
+        85632785,
+        101766257,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KPQEKq6d8ZnUnTqETTKVN_47.297062_9.577691@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903777,
-    "wof:geomhash":"a85b00a7d0b0f3bad4143f596491e7fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e271c8d39cef2aab31ba5121fc97f890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838005,
+            "locality_id":101766257,
+            "region_id":85681649,
+            "venue_id":1092162125
+        }
+    ],
     "wof:id":1092162125,
-    "wof:lastmodified":1473983781,
+    "wof:lastmodified":1496901501,
     "wof:name":"Volksschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

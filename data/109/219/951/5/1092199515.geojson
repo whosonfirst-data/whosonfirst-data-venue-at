@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8339157104,46.8177680969,14.8339157104,46.8177680969",
     "geom:latitude":46.817768,
     "geom:longitude":14.833916,
@@ -31,17 +32,33 @@
         "catering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iw1WCEriaCZPyNE1t97ts_46.817768_14.833916@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905430,
-    "wof:geomhash":"70d11db38ab33c06e6994e308b06775c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a4c2c67ebc0b95ad82ae7c5139168a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092199515
+        }
+    ],
     "wof:id":1092199515,
-    "wof:lastmodified":1473985302,
+    "wof:lastmodified":1496905276,
     "wof:name":"Fandl Hendl Grill GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

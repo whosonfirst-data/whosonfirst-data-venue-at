@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3955078125,47.258430481,11.3955078125,47.258430481",
     "geom:latitude":47.25843,
     "geom:longitude":11.395508,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904498,
-    "wof:geomhash":"ade0a603a38b7dcbef8c53a3485a0fec",
+    "wof:geomhash":"567a542ae323c4aa19c349302eba096f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092178315
         }
     ],
     "wof:id":1092178315,
-    "wof:lastmodified":1473985042,
+    "wof:lastmodified":1496899395,
     "wof:name":"MPREIS WarenvertriebsgesmbH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

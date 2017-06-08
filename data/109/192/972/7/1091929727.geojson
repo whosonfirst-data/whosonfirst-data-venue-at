@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3952350616,47.2961273193,16.3952350616,47.2961273193",
     "geom:latitude":47.296127,
     "geom:longitude":16.395235,
@@ -23,17 +24,33 @@
     "sg:postcode":"7464",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838697,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CAMFJ86tj70lkDCmNpxCV_47.296127_16.395235@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893499,
-    "wof:geomhash":"09108db53f243fba2dd3fb02f9fe3b4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cdc3bd0c55cd82d5b43389002200d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838697,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091929727
+        }
+    ],
     "wof:id":1091929727,
-    "wof:lastmodified":1473985155,
+    "wof:lastmodified":1496909118,
     "wof:name":"Boxsportclub S\u00fcdburgenland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

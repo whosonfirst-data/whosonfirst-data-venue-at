@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2517900467,47.5474700928,15.2517900467,47.5474700928",
     "geom:latitude":47.54747,
     "geom:longitude":15.25179,
@@ -23,17 +24,33 @@
     "sg:postcode":"8623",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839327,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WT7Eo4rsZNRFhdcr0mfhe_47.547470_15.251790@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473908080,
-    "wof:geomhash":"abddc91d544b6190b59510c6d803d37b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12bd8f91221a67739c0085384fd6401d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839327,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092258353
+        }
+    ],
     "wof:id":1092258353,
-    "wof:lastmodified":1473985061,
+    "wof:lastmodified":1496912993,
     "wof:name":"Pierer-TransportgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

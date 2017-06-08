@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.351858139,47.2659492493,11.351858139,47.2659492493",
     "geom:latitude":47.265949,
     "geom:longitude":11.351858,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896850,
-    "wof:geomhash":"617c8a36291dadecb07b36f16321b611",
+    "wof:geomhash":"8707b5c6ac238c267eddd434eb31f4fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092007623
         }
     ],
     "wof:id":1092007623,
-    "wof:lastmodified":1473984769,
+    "wof:lastmodified":1496899477,
     "wof:name":"Masterdent Glanzer-Fasser Zahntechnik OEG",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3245449066,47.2727966309,15.3245449066,47.2727966309",
     "geom:latitude":47.272797,
     "geom:longitude":15.324545,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.vt-process.com/BRAU.HTM",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839203,
+        85632785,
+        101787853,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tA58VTyaBzX91tdcECMVh_47.272797_15.324545@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895766,
-    "wof:geomhash":"27ca72195685d4028934c0b5764cd547",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05f56060e658189603980f3e5fbf1d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839203,
+            "locality_id":101787853,
+            "region_id":85681687,
+            "venue_id":1091981715
+        }
+    ],
     "wof:id":1091981715,
-    "wof:lastmodified":1473983430,
+    "wof:lastmodified":1496911879,
     "wof:name":"VT-PROCESS ENGINEERING",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

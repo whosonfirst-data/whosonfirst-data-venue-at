@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8078899384,47.3465766907,12.8078899384,47.3465766907",
     "geom:latitude":47.346577,
     "geom:longitude":12.80789,
@@ -23,17 +24,33 @@
     "sg:postcode":"5751",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837217,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g7NwsSoMi4KUHWfcy45S7_47.346577_12.807890@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912842,
-    "wof:geomhash":"3a719864e44a8961dec3ca54ee84cedd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb5d1a95493cce38c6c0d709d6403c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837217,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092366723
+        }
+    ],
     "wof:id":1092366723,
-    "wof:lastmodified":1473984906,
+    "wof:lastmodified":1496896041,
     "wof:name":"Haus Salzburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7389383316,48.2862434387,14.7389383316,48.2862434387",
     "geom:latitude":48.286243,
     "geom:longitude":14.738938,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"grillnberger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835593,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O5cb8rI0lB9UHInIeKDLy_48.286243_14.738938@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908274,
-    "wof:geomhash":"adb5a89effbab3dc6335a88269b1b875",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d75c7982c7bbe7a78af7155ef7c6e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835593,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092262369
+        }
+    ],
     "wof:id":1092262369,
-    "wof:lastmodified":1473983916,
+    "wof:lastmodified":1496887562,
     "wof:name":"Erdbau Grillnberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2680110931,48.1892471313,16.2680110931,48.1892471313",
     "geom:latitude":48.189247,
     "geom:longitude":16.268011,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903333,
-    "wof:geomhash":"9da40587459b379deec0721d9444cce8",
+    "wof:geomhash":"5dcf9587f6464cb02e924cc05bb81544",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092152759
         }
     ],
     "wof:id":1092152759,
-    "wof:lastmodified":1473983854,
+    "wof:lastmodified":1496903089,
     "wof:name":"Verein f sozialp\u00e4dagogisch-therapeutische Betreuung",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

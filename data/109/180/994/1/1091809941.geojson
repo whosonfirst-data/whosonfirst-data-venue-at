@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.400885582,47.0396766663,15.400885582,47.0396766663",
     "geom:latitude":47.039677,
     "geom:longitude":15.400886,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887911,
-    "wof:geomhash":"72349ab6a5e62e8f08a8f970db2454c0",
+    "wof:geomhash":"3227436e7bdfa7eb7ecd9d7c76f1a713",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1091809941
         }
     ],
     "wof:id":1091809941,
-    "wof:lastmodified":1473984687,
+    "wof:lastmodified":1496913326,
     "wof:name":"Austria-Presse-Dienst",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3252239227,48.0887489319,16.3252239227,48.0887489319",
     "geom:latitude":48.088749,
     "geom:longitude":16.325224,
@@ -31,17 +32,34 @@
         "profile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834869,
+        85632785,
+        101754185,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4idwcQX54vbv0cErhfwgen_48.088749_16.325224@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914231,
-    "wof:geomhash":"cfcb514df077c6f9f93e502e1d6ac0de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18c1143e1573c97fcc02c2bac3fd95db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108834869,
+            "locality_id":101754185,
+            "region_id":85681671,
+            "venue_id":1092395593
+        }
+    ],
     "wof:id":1092395593,
-    "wof:lastmodified":1473984312,
+    "wof:lastmodified":1496883173,
     "wof:name":"Hydro Building Systems GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.987988472,47.8507728577,15.987988472,47.8507728577",
     "geom:latitude":47.850773,
     "geom:longitude":15.987988,
@@ -32,17 +33,33 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836193,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Tm3UbpS4cDWPcdxGK04Gn_47.850773_15.987988@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897888,
-    "wof:geomhash":"4c8943846eee32bcbf8197ecd2215c75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e38eec67e914823ef927d05dbdf36b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108836193,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092034043
+        }
+    ],
     "wof:id":1092034043,
-    "wof:lastmodified":1473984120,
+    "wof:lastmodified":1496889943,
     "wof:name":"Karl Postl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2686462402,48.1896743774,16.2686462402,48.1896743774",
     "geom:latitude":48.189674,
     "geom:longitude":16.268646,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907351,
-    "wof:geomhash":"4cf81d3d0f2c765f5517f5bdc0e0587b",
+    "wof:geomhash":"d0e396e1bda7eef8614b362bdadaaa47",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092241897
         }
     ],
     "wof:id":1092241897,
-    "wof:lastmodified":1473983843,
+    "wof:lastmodified":1496928615,
     "wof:name":"Fellner Johannes",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

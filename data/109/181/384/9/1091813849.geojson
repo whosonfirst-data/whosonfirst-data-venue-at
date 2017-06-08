@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4126319885,48.3014717102,16.4126319885,48.3014717102",
     "geom:latitude":48.301472,
     "geom:longitude":16.412632,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888080,
-    "wof:geomhash":"1deb5140a6f24a8cbd8a78f5dfde2252",
+    "wof:geomhash":"723af34344511829ecf09693f5293ec7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1091813849
         }
     ],
     "wof:id":1091813849,
-    "wof:lastmodified":1473984215,
+    "wof:lastmodified":1496928823,
     "wof:name":"Josef Kleedorfer",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8845720291,47.9743881226,12.8845720291,47.9743881226",
     "geom:latitude":47.974388,
     "geom:longitude":12.884572,
@@ -23,17 +24,33 @@
     "sg:postcode":"5113",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837173,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jynEHLd9Heqobhs2EkxQe_47.974388_12.884572@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894873,
-    "wof:geomhash":"d78606be3eb95045a7f44a74526872eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f25a5bf8d088ba8c52ca4fa2e1e6ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837173,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091961289
+        }
+    ],
     "wof:id":1091961289,
-    "wof:lastmodified":1473983481,
+    "wof:lastmodified":1496895618,
     "wof:name":"Reitanlage Georg Voggenberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

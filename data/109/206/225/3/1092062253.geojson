@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.136920929,47.067565918,16.136920929,47.067565918",
     "geom:latitude":47.067566,
     "geom:longitude":16.136921,
@@ -23,17 +24,33 @@
     "sg:postcode":"7571",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838559,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S1tJvhzhsZi3fERw603tR_47.067566_16.136921@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898992,
-    "wof:geomhash":"1ee7fd33384f820a55371d330be2c777",
-    "wof:hierarchy":[],
+    "wof:geomhash":"932cd75d53ce74d4d0ae05df36960139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838559,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092062253
+        }
+    ],
     "wof:id":1092062253,
-    "wof:lastmodified":1473983822,
+    "wof:lastmodified":1496908439,
     "wof:name":"Berggasthaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

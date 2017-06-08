@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7700805664,48.0997047424,13.7700805664,48.0997047424",
     "geom:latitude":48.099705,
     "geom:longitude":13.770081,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836455,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m5qGGg2McTdpLD3PtDWD6_48.099705_13.770081@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889794,
-    "wof:geomhash":"9a066f59a50195974ec7ceeac3077378",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1297e1659965e8bbf903aa3fa7a0514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836455,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091851779
+        }
+    ],
     "wof:id":1091851779,
-    "wof:lastmodified":1473983615,
+    "wof:lastmodified":1496891189,
     "wof:name":"J & F Huber GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

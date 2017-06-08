@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8734064102,48.3101654053,13.8734064102,48.3101654053",
     "geom:latitude":48.310165,
     "geom:longitude":13.873406,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835049,
+        85632785,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05OuJngwOT7LBS8lrTCLm6_48.310165_13.873406@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889476,
-    "wof:geomhash":"a215457bced15662ac5a8832b36aee6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e6e5a99f261ffcd1303c1a88a987052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835049,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091845023
+        }
+    ],
     "wof:id":1091845023,
-    "wof:lastmodified":1473984219,
+    "wof:lastmodified":1496884342,
     "wof:name":"Memlauer Alfred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

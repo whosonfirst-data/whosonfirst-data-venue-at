@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3915290833,47.2605705261,11.3915290833,47.2605705261",
     "geom:latitude":47.260571,
     "geom:longitude":11.391529,
@@ -25,10 +26,13 @@
     "sg:website":"kurtkremser.at.tf",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891835,
-    "wof:geomhash":"400a4be0cd4bf8fa67100fff1361e129",
+    "wof:geomhash":"79cc66e9df1da332f6ace8b37010e1d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091894845
         }
     ],
     "wof:id":1091894845,
-    "wof:lastmodified":1473984443,
+    "wof:lastmodified":1496899333,
     "wof:name":"Kremser Kurt",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

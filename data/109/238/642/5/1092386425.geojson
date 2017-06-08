@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3870563507,47.2593231201,11.3870563507,47.2593231201",
     "geom:latitude":47.259323,
     "geom:longitude":11.387056,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913754,
-    "wof:geomhash":"499426d58630999203261c10d3b149e6",
+    "wof:geomhash":"d2ac8a36df5288508ca934c8cb2c37d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092386425
         }
     ],
     "wof:id":1092386425,
-    "wof:lastmodified":1473984792,
+    "wof:lastmodified":1496899554,
     "wof:name":"Pachner Helmut Bmstr Ing",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

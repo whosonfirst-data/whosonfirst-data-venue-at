@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1069059372,47.1720924377,13.1069059372,47.1720924377",
     "geom:latitude":47.172092,
     "geom:longitude":13.106906,
@@ -31,17 +32,34 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        101789117,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aXJE6VvRyKS38jyfKOvGN_47.172092_13.106906@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473887671,
-    "wof:geomhash":"fabe6e6bb5bb2e9073331dde0314b46f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b0a60a6a210d2e5ff606cd82179c57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":101789117,
+            "region_id":85681681,
+            "venue_id":1091805379
+        }
+    ],
     "wof:id":1091805379,
-    "wof:lastmodified":1473983513,
+    "wof:lastmodified":1496893748,
     "wof:name":"Dieter Warnecke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

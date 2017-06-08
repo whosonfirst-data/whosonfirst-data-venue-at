@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3024396896,47.237247467,11.3024396896,47.237247467",
     "geom:latitude":47.237247,
     "geom:longitude":11.30244,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901390,
-    "wof:geomhash":"a8dca0e31eb1fa7cc572fecbf95c46dd",
+    "wof:geomhash":"cd194326a21552e786eae43b12b81538",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092112151
         }
     ],
     "wof:id":1092112151,
-    "wof:lastmodified":1473983795,
+    "wof:lastmodified":1496898046,
     "wof:name":"Holzbau Haid GmbH",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

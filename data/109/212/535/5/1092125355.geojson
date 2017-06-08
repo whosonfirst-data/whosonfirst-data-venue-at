@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4722795486,47.1204414368,15.4722795486,47.1204414368",
     "geom:latitude":47.120441,
     "geom:longitude":15.47228,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898591,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902017,
-    "wof:geomhash":"f968f2dc6bdfb43f1d9beb7f4b376ff3",
+    "wof:geomhash":"d60db09c67a08717ca2ff275b6580c59",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898591,
             "region_id":85681687,
             "venue_id":1092125355
         }
     ],
     "wof:id":1092125355,
-    "wof:lastmodified":1473984429,
+    "wof:lastmodified":1496913070,
     "wof:name":"Pfeifer-Sieber Gerhard",
     "wof:parent_id":85898591,
     "wof:placetype":"venue",

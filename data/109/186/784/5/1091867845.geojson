@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0845432281,46.7381782532,13.0845432281,46.7381782532",
     "geom:latitude":46.738178,
     "geom:longitude":13.084543,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://www.kmz.ktn.gv.at/hsdellach/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838255,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CchiIr2QOLYhzZSqnSUwc_46.738178_13.084543@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890564,
-    "wof:geomhash":"cb9a97bba23d7d5afa39b91c5d236d52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"237cc1933a7c79ed0b53aa9a1b12ed6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838255,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091867845
+        }
+    ],
     "wof:id":1091867845,
-    "wof:lastmodified":1473985116,
+    "wof:lastmodified":1496906839,
     "wof:name":"Europahauptschule Dellach im Drautal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1244125366,48.3322563171,16.1244125366,48.3322563171",
     "geom:latitude":48.332256,
     "geom:longitude":16.124413,
@@ -31,17 +32,34 @@
         "cement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        101833269,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2v5hoqNlE60RmIhzjlp9th_48.332256_16.124413@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905485,
-    "wof:geomhash":"f9f4a2be9b9d0f4c22710ab02812b2f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9ca154e1b6571be8ff77b7152e9c2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":101833269,
+            "region_id":85681671,
+            "venue_id":1092200587
+        }
+    ],
     "wof:id":1092200587,
-    "wof:lastmodified":1473983413,
+    "wof:lastmodified":1496893121,
     "wof:name":"Friedrich Preitensteiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

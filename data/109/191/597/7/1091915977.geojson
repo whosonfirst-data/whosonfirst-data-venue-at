@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3132390976,47.4490776062,12.3132390976,47.4490776062",
     "geom:latitude":47.449078,
     "geom:longitude":12.313239,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        101834287,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J3WN4U4OcG6puKrpSjsBs_47.449078_12.313239@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892830,
-    "wof:geomhash":"1fa6a5f59660ab2fe1cbb01d8d1d64cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a37a81935db12f7b9ffd7bb479c1f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":101834287,
+            "region_id":85681661,
+            "venue_id":1091915977
+        }
+    ],
     "wof:id":1091915977,
-    "wof:lastmodified":1473984144,
+    "wof:lastmodified":1496899132,
     "wof:name":"UBM Handels GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

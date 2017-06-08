@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4926776886,47.4707336426,16.4926776886,47.4707336426",
     "geom:latitude":47.470734,
     "geom:longitude":16.492678,
@@ -23,17 +24,33 @@
     "sg:postcode":"7453",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838449,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wP5imTH8vFLrWNWz67DQF_47.470734_16.492678@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893695,
-    "wof:geomhash":"4e07f3f9310628a005928e1423a00294",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fad8de936c98261a93fa910a6c251ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838449,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091934391
+        }
+    ],
     "wof:id":1091934391,
-    "wof:lastmodified":1473984297,
+    "wof:lastmodified":1496907971,
     "wof:name":"Hauser Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

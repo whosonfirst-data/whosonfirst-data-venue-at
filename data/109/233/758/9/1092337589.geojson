@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.651802063,47.4248352051,9.651802063,47.4248352051",
     "geom:latitude":47.424835,
     "geom:longitude":9.651802,
@@ -34,17 +35,34 @@
         "measurement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LrP1qyNiEp2b5LnhfjsQi_47.424835_9.651802@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911525,
-    "wof:geomhash":"678690007ca602a79eb57847f80add75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd322bbef82ee10432126476e4cf6bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1092337589
+        }
+    ],
     "wof:id":1092337589,
-    "wof:lastmodified":1473985187,
+    "wof:lastmodified":1496901442,
     "wof:name":"AFRISO EURO INDEX GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

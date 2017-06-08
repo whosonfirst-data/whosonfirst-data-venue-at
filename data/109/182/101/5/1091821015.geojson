@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9858808517,48.4016571045,15.9858808517,48.4016571045",
     "geom:latitude":48.401657,
     "geom:longitude":15.985881,
@@ -23,17 +24,34 @@
     "sg:postcode":"3462",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835913,
+        85632785,
+        101783355,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VpXhUoVAsA8cWmwv7bN9g_48.401657_15.985881@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888395,
-    "wof:geomhash":"84600b71bb70d01fcb566b5b4241bf0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b642eb8fe06918e108bf98fabf895767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835913,
+            "locality_id":101783355,
+            "region_id":85681671,
+            "venue_id":1091821015
+        }
+    ],
     "wof:id":1091821015,
-    "wof:lastmodified":1473983614,
+    "wof:lastmodified":1496888847,
     "wof:name":"Bahnhof Absdorf-Hippersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

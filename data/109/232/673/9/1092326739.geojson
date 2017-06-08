@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6569309235,47.535194397,16.6569309235,47.535194397",
     "geom:latitude":47.535194,
     "geom:longitude":16.656931,
@@ -23,17 +24,33 @@
     "sg:postcode":"7302",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838715,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RH0xE2q6DrZhrZCX8qqnT_47.535194_16.656931@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473911087,
-    "wof:geomhash":"f16e8ccd905b826502261b3e3b4bc498",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a19e4f5af9af70348c09893786546450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838715,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092326739
+        }
+    ],
     "wof:id":1092326739,
-    "wof:lastmodified":1473984980,
+    "wof:lastmodified":1496909174,
     "wof:name":"Artner Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

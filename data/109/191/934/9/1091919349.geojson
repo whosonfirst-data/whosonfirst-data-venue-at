@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3932743073,47.2580604553,11.3932743073,47.2580604553",
     "geom:latitude":47.25806,
     "geom:longitude":11.393274,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892965,
-    "wof:geomhash":"3a78094e26488cbae19f7fee9ed03b3d",
+    "wof:geomhash":"eab53f9652c81981b183396c94af2a52",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091919349
         }
     ],
     "wof:id":1091919349,
-    "wof:lastmodified":1473984782,
+    "wof:lastmodified":1496899551,
     "wof:name":"Frauen gegen Vergewaltigung",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

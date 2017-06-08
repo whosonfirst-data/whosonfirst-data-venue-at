@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0694799423,47.7939071655,13.0694799423,47.7939071655",
     "geom:latitude":47.793907,
     "geom:longitude":13.06948,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914385,
-    "wof:geomhash":"e6e1c5ba587e078357d6bd7e192c7c41",
+    "wof:geomhash":"825acea7acc48883b2a9b23e516ed1d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092399329
         }
     ],
     "wof:id":1092399329,
-    "wof:lastmodified":1473984969,
+    "wof:lastmodified":1496894407,
     "wof:name":"Kiefer Eva B Mag",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

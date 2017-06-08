@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7680587769,46.633140564,14.7680587769,46.633140564",
     "geom:latitude":46.633141,
     "geom:longitude":14.768059,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838365,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Zio1sQZ3KGwZ2Rse5bK0x_46.633141_14.768059@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888444,
-    "wof:geomhash":"5760c87901fd1fdc7604c6b3f9430c3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5d3e7e4e6f9cf47ecd796e6800ae55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838365,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091822187
+        }
+    ],
     "wof:id":1091822187,
-    "wof:lastmodified":1473983862,
+    "wof:lastmodified":1496907617,
     "wof:name":"Zimmerei Kulmesch Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

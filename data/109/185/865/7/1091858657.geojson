@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5846776962,47.1541252136,10.5846776962,47.1541252136",
     "geom:latitude":47.154125,
     "geom:longitude":10.584678,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"venet.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837325,
+        85632785,
+        101788997,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EAvRp8ViK5ABpgHXaqZcr_47.154125_10.584678@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890131,
-    "wof:geomhash":"1e6994d07990b81751ff38d248251f49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0801dee64860eb1a69becc606a309ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837325,
+            "locality_id":101788997,
+            "region_id":85681661,
+            "venue_id":1091858657
+        }
+    ],
     "wof:id":1091858657,
-    "wof:lastmodified":1473984902,
+    "wof:lastmodified":1496898058,
     "wof:name":"Venet-Seilbahn AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

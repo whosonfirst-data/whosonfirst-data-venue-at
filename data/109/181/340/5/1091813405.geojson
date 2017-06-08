@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3024177551,46.6595916748,14.3024177551,46.6595916748",
     "geom:latitude":46.659592,
     "geom:longitude":14.302418,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898265,
-        102049681
+        102191581,
+        1108838181,
+        85632785,
+        102049681,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888061,
-    "wof:geomhash":"5e9223409be3ebae3df6df5524a91d7e",
+    "wof:geomhash":"58c13ecbb36215b170e42bac6793a636",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049681,
+            "localadmin_id":1108838181,
+            "locality_id":-1,
             "neighbourhood_id":85898265,
             "region_id":85681655,
             "venue_id":1091813405
         }
     ],
     "wof:id":1091813405,
-    "wof:lastmodified":1473984080,
+    "wof:lastmodified":1496905539,
     "wof:name":"Intermedia Imaging & New Media Prod GmbH",
     "wof:parent_id":85898265,
     "wof:placetype":"venue",

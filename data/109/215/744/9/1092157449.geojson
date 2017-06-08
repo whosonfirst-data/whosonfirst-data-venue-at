@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8927345276,47.2674789429,14.8927345276,47.2674789429",
     "geom:latitude":47.267479,
     "geom:longitude":14.892735,
@@ -23,17 +24,33 @@
     "sg:postcode":"8715",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839413,
+        85632785,
+        102049739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53ZJtLSDH1hYPAKyMwues5_47.267479_14.892735@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903562,
-    "wof:geomhash":"6d923e162e634764abbcbf015894c935",
-    "wof:hierarchy":[],
+    "wof:geomhash":"caca058ed8a19a76c70eca5ffcc4e69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049739,
+            "localadmin_id":1108839413,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092157449
+        }
+    ],
     "wof:id":1092157449,
-    "wof:lastmodified":1473984817,
+    "wof:lastmodified":1496914113,
     "wof:name":"Volksschule Feistritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

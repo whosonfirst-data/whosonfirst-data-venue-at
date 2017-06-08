@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5988550186,47.2364387512,9.5988550186,47.2364387512",
     "geom:latitude":47.236439,
     "geom:longitude":9.598855,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892229,
-    "wof:geomhash":"b6d913c43c419dca9254e2ae0d523b02",
+    "wof:geomhash":"0a9f1fec083d3f5df2b67fff7219c409",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091902349
         }
     ],
     "wof:id":1091902349,
-    "wof:lastmodified":1473983776,
+    "wof:lastmodified":1496900936,
     "wof:name":"Riegler Barbara",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

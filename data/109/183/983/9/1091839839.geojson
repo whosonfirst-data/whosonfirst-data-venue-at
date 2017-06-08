@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6606340408,47.4467353821,9.6606340408,47.4467353821",
     "geom:latitude":47.446735,
     "geom:longitude":9.660634,
@@ -23,17 +24,34 @@
     "sg:postcode":"6890",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QZVgXEgHmlYtVfvLeiyNb_47.446735_9.660634@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889264,
-    "wof:geomhash":"05486d10e600cca1ea573e9e43bcae18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b68c1be75e3ff50cbdf5e3c9b4af971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091839839
+        }
+    ],
     "wof:id":1091839839,
-    "wof:lastmodified":1473985309,
+    "wof:lastmodified":1496901479,
     "wof:name":"Rheinbauleitung Lustenau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4537258148,47.1211967468,11.4537258148,47.1211967468",
     "geom:latitude":47.121197,
     "geom:longitude":11.453726,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"www.auer-gmbh.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837549,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CswM0vpYxKYqiolxlmmZo_47.121197_11.453726@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473910963,
-    "wof:geomhash":"31f62a7617a58505ac670e3a1b499ac6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"769730ef0fbd4b1b2b5a66552b5cd414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837549,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092323845
+        }
+    ],
     "wof:id":1092323845,
-    "wof:lastmodified":1473984378,
+    "wof:lastmodified":1496898467,
     "wof:name":"Auer Int. Transport - Erdbau - Kfz Werkst\u00e4tte GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

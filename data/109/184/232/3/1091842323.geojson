@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4662456512,48.2955780029,16.4662456512,48.2955780029",
     "geom:latitude":48.295578,
     "geom:longitude":16.466246,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889364,
-    "wof:geomhash":"0cb037e5100ad4ba0a24a36ad9f66073",
+    "wof:geomhash":"927b1179e89183db22b2a074e85c43fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091842323
         }
     ],
     "wof:id":1091842323,
-    "wof:lastmodified":1473983736,
+    "wof:lastmodified":1496890137,
     "wof:name":"UNIFAS - G\u00fcnther Schweigler KEG",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

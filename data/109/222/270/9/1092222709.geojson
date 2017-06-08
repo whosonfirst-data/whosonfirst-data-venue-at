@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6765365601,47.3615264893,9.6765365601,47.3615264893",
     "geom:latitude":47.361526,
     "geom:longitude":9.676537,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y61yQBVX1YxcI1XwRoH4x_47.361526_9.676537@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906519,
-    "wof:geomhash":"ea66c4816aa5c5dc57e2d523e4e9cf67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"431274f088687a8ae7b460279643f796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1092222709
+        }
+    ],
     "wof:id":1092222709,
-    "wof:lastmodified":1473983999,
+    "wof:lastmodified":1496901161,
     "wof:name":"Taxi Mathis GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

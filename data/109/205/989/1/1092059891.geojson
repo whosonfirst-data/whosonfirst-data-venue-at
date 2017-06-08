@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5228862762,48.2084999084,16.5228862762,48.2084999084",
     "geom:latitude":48.2085,
     "geom:longitude":16.522886,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898895,
-    "wof:geomhash":"b6a98c72eb7030b0021605c8e245c7e5",
+    "wof:geomhash":"72e91639bf0675fa2e76e21f27eabcbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092059891
         }
     ],
     "wof:id":1092059891,
-    "wof:lastmodified":1473985220,
+    "wof:lastmodified":1496904961,
     "wof:name":"Franz Pircher",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

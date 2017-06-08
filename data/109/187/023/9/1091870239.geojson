@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4006929398,47.0390625,15.4006929398,47.0390625",
     "geom:latitude":47.039062,
     "geom:longitude":15.400693,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890672,
-    "wof:geomhash":"356f2014234c7ca4a0c74503f59cc103",
+    "wof:geomhash":"82ccd2561a4162a45b479bf0170e9ac9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1091870239
         }
     ],
     "wof:id":1091870239,
-    "wof:lastmodified":1473983347,
+    "wof:lastmodified":1496913149,
     "wof:name":"Rottag-Blechbearbeitung GesmbH & Co KG",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9596509933,48.6967658997,15.9596509933,48.6967658997",
     "geom:latitude":48.696766,
     "geom:longitude":15.959651,
@@ -32,17 +33,34 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835785,
+        85632785,
+        101843351,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q4VC7ErMxiR4ev7iV9aa9_48.696766_15.959651@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910302,
-    "wof:geomhash":"587729cced1a8f48ace0b8a53e89d212",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06ef727d195eb1579123f8fa984d1ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835785,
+            "locality_id":101843351,
+            "region_id":85681671,
+            "venue_id":1092308671
+        }
+    ],
     "wof:id":1092308671,
-    "wof:lastmodified":1473985229,
+    "wof:lastmodified":1496888329,
     "wof:name":"Weinbau Familie Redl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

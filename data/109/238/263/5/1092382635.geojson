@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5264863968,48.2393875122,14.5264863968,48.2393875122",
     "geom:latitude":48.239388,
     "geom:longitude":14.526486,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913567,
-    "wof:geomhash":"59721480dfa7f3cdccd064d6357c4fd1",
+    "wof:geomhash":"bbbde0c009fb2119ea699a55100d7182",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092382635
         }
     ],
     "wof:id":1092382635,
-    "wof:lastmodified":1473984014,
+    "wof:lastmodified":1496887553,
     "wof:name":"Pizza Kebab Donaupark",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

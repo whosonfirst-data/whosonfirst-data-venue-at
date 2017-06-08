@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2081699371,47.9297027588,13.2081699371,47.9297027588",
     "geom:latitude":47.929703,
     "geom:longitude":13.20817,
@@ -28,17 +29,33 @@
     "sg:postcode":"5202",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ILdsOWoq2c8vbego9d4Bp_47.929703_13.208170@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898476,
-    "wof:geomhash":"1f780bf84adc70091badb3d759582106",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26bc547d53e1fff390983d715983dee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092049129
+        }
+    ],
     "wof:id":1092049129,
-    "wof:lastmodified":1473984358,
+    "wof:lastmodified":1496895516,
     "wof:name":"Hotel Winkler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

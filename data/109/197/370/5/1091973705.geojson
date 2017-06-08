@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.944483757,48.1321029663,13.944483757,48.1321029663",
     "geom:latitude":48.132103,
     "geom:longitude":13.944484,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836553,
+        85632785,
+        101754165,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZakElB1HU4DMHIwtOkZgR_48.132103_13.944484@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895398,
-    "wof:geomhash":"d363bb5e534e86e70605ac50a56c908d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20abf79ff2f51452c082811a70155a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836553,
+            "locality_id":101754165,
+            "region_id":85681677,
+            "venue_id":1091973705
+        }
+    ],
     "wof:id":1091973705,
-    "wof:lastmodified":1473984138,
+    "wof:lastmodified":1496891596,
     "wof:name":"HEPPNER & OBERNDORFER GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

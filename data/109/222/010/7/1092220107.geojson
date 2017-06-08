@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0190429688,47.7048187256,16.0190429688,47.7048187256",
     "geom:latitude":47.704819,
     "geom:longitude":16.019043,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        101833089,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QQORb5LjDEtn0lI7Tz8Lc_47.704819_16.019043@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906402,
-    "wof:geomhash":"9fa3d77a00ea32bf1d729ea22ddbea52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"701164ba57aad169c7bf9457fea319e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":101833089,
+            "region_id":85681671,
+            "venue_id":1092220107
+        }
+    ],
     "wof:id":1092220107,
-    "wof:lastmodified":1473983341,
+    "wof:lastmodified":1496885875,
     "wof:name":"Biggi's Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

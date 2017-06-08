@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9287052155,48.2655601501,13.9287052155,48.2655601501",
     "geom:latitude":48.26556,
     "geom:longitude":13.928705,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835053,
+        85632785,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QWgHbNp5C2Tln6qjmi35z_48.265560_13.928705@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888462,
-    "wof:geomhash":"59957d2f7e2940c37744e22682edb0e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b72efcaed33b264dee6c81b9c614cc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835053,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091822583
+        }
+    ],
     "wof:id":1091822583,
-    "wof:lastmodified":1473983954,
+    "wof:lastmodified":1496884351,
     "wof:name":"Martin Sch\u00f6ndorfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

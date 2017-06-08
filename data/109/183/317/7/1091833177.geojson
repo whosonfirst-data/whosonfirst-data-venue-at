@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0407524109,47.7714157104,13.0407524109,47.7714157104",
     "geom:latitude":47.771416,
     "geom:longitude":13.040752,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888961,
-    "wof:geomhash":"7dcba5c4adaf0553803fbc859b2df612",
+    "wof:geomhash":"1068194e3d8ddf86a4d5fc1517a95dcd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1091833177
         }
     ],
     "wof:id":1091833177,
-    "wof:lastmodified":1473983919,
+    "wof:lastmodified":1496894424,
     "wof:name":"Bankomat d Volksbank Salzburg regGenmbH",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

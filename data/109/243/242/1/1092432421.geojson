@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8656520844,48.0447654724,16.8656520844,48.0447654724",
     "geom:latitude":48.044765,
     "geom:longitude":16.865652,
@@ -23,17 +24,33 @@
     "sg:postcode":"7111",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838627,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GrjfCCDddeJm3czujIkJC_48.044765_16.865652@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916022,
-    "wof:geomhash":"6f4307d985ed92bf7d21f71cbc77e2fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf6ae23ca0361e0ab9277db61e34b7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838627,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092432421
+        }
+    ],
     "wof:id":1092432421,
-    "wof:lastmodified":1473983707,
+    "wof:lastmodified":1496908916,
     "wof:name":"ATC-Agro Trial Center GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

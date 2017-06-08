@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3856134415,47.1716384888,11.3856134415,47.1716384888",
     "geom:latitude":47.171638,
     "geom:longitude":11.385613,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.mieders.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837545,
+        85632785,
+        101844499,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30R6rCtHyVp4WaJQbqc1sx_47.171638_11.385613@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893648,
-    "wof:geomhash":"3edabb90546a568141718af073667ca2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82fdbce25b56ad70b6c5f91cd20a14a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837545,
+            "locality_id":101844499,
+            "region_id":85681661,
+            "venue_id":1091933147
+        }
+    ],
     "wof:id":1091933147,
-    "wof:lastmodified":1473984103,
+    "wof:lastmodified":1496898458,
     "wof:name":"Mieders im Stubaital im Herzen Tirol Stubai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

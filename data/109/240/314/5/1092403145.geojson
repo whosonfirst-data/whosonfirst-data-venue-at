@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5654001236,48.0501098633,15.5654001236,48.0501098633",
     "geom:latitude":48.05011,
     "geom:longitude":15.5654,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835761,
+        85632785,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46uuSdQFKCqVXkCpQoFp2M_48.050110_15.565400@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914544,
-    "wof:geomhash":"a8bf83759cb796cf7a0265a829e9e857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"487762e1b2ee1ab13175a155991e9045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108835761,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092403145
+        }
+    ],
     "wof:id":1092403145,
-    "wof:lastmodified":1473983949,
+    "wof:lastmodified":1496888254,
     "wof:name":"RYBACEK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

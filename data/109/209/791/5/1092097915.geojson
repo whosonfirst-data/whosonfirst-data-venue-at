@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3670158386,48.2586021423,16.3670158386,48.2586021423",
     "geom:latitude":48.258602,
     "geom:longitude":16.367016,
@@ -25,10 +26,13 @@
     "sg:website":"www.peruskic.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900703,
-    "wof:geomhash":"5397de888115f65605268235ddbc8199",
+    "wof:geomhash":"36fad3c6a906a95c1002fbceef1c309d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092097915
         }
     ],
     "wof:id":1092097915,
-    "wof:lastmodified":1473984795,
+    "wof:lastmodified":1496904987,
     "wof:name":"Peruskic Gregor",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

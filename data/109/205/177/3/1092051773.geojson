@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6443443298,47.4647293091,16.6443443298,47.4647293091",
     "geom:latitude":47.464729,
     "geom:longitude":16.644344,
@@ -28,17 +29,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21VlsKUyEKIlxFHJCyRiHa_47.464729_16.644344@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898578,
-    "wof:geomhash":"f54b0cca21cec625ab8f20f839388ba6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1151efd402f1525c7f829b336574dfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092051773
+        }
+    ],
     "wof:id":1092051773,
-    "wof:lastmodified":1473983659,
+    "wof:lastmodified":1496909130,
     "wof:name":"Thermenhof Derdak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

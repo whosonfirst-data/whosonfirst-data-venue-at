@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4920396805,48.2122154236,14.4920396805,48.2122154236",
     "geom:latitude":48.212215,
     "geom:longitude":14.49204,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907647,
-    "wof:geomhash":"b6d56942e27d29569cd90fda039705ff",
+    "wof:geomhash":"cb822de3c67c832056396f3bd3a28165",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092248503
         }
     ],
     "wof:id":1092248503,
-    "wof:lastmodified":1473984968,
+    "wof:lastmodified":1496886555,
     "wof:name":"Wagner Franz",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6122894287,48.1744613647,16.6122894287,48.1744613647",
     "geom:latitude":48.174461,
     "geom:longitude":16.612289,
@@ -33,17 +34,33 @@
         "fitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836641,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14DspiDMhWXNVsdZMUm7GP_48.174461_16.612289@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473887661,
-    "wof:geomhash":"ac532b1afb3ba867e5e520556031d348",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fc7c7fc8c64713949e143de8d1f0a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836641,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091805157
+        }
+    ],
     "wof:id":1091805157,
-    "wof:lastmodified":1473983465,
+    "wof:lastmodified":1496892152,
     "wof:name":"Boschek GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

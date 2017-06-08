@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1465053558,46.635345459,14.1465053558,46.635345459",
     "geom:latitude":46.635345,
     "geom:longitude":14.146505,
@@ -34,17 +35,34 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838189,
+        85632785,
+        101844427,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z5zH0lzdmLsjZef5lcPK7_46.635345_14.146505@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905478,
-    "wof:geomhash":"175d369cbf37217eba48737e705aa7b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e610649868218132b116fac392fb663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838189,
+            "locality_id":101844427,
+            "region_id":85681655,
+            "venue_id":1092200417
+        }
+    ],
     "wof:id":1092200417,
-    "wof:lastmodified":1473983394,
+    "wof:lastmodified":1496906473,
     "wof:name":"Johann Lassnig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

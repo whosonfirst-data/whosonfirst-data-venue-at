@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6846609116,47.361415863,9.6846609116,47.361415863",
     "geom:latitude":47.361416,
     "geom:longitude":9.684661,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"business-trust.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GHZwdvz2h0w48axxhsDFA_47.361416_9.684661@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893750,
-    "wof:geomhash":"224beded892e1f80060f8e9af053451b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"360e31a53abe3e23fac411bd499066ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1091935685
+        }
+    ],
     "wof:id":1091935685,
-    "wof:lastmodified":1473984453,
+    "wof:lastmodified":1496901136,
     "wof:name":"Business Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

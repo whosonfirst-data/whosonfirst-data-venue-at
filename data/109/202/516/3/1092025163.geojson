@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7468833923,47.4442520142,10.7468833923,47.4442520142",
     "geom:latitude":47.444252,
     "geom:longitude":10.746883,
@@ -23,17 +24,33 @@
     "sg:postcode":"6611",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837735,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xMkSRx51jonZsGhC0WVsL_47.444252_10.746883@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897535,
-    "wof:geomhash":"bf4605c014d658f11f4e2a4fb904d5dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8be040d7ad4d29ef7a2bc081d5ba054c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837735,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092025163
+        }
+    ],
     "wof:id":1092025163,
-    "wof:lastmodified":1473984349,
+    "wof:lastmodified":1496899831,
     "wof:name":"Pfarramt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

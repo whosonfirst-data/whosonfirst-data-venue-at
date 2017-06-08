@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8886880875,47.4026412964,10.8886880875,47.4026412964",
     "geom:latitude":47.402641,
     "geom:longitude":10.888688,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"pav.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KMm4UbveitzvmK72b4V5u_47.402641_10.888688@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913359,
-    "wof:geomhash":"d39b89cfd2a3fe797430bc3830e55d11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5192bafc92227cba88ed798c45df1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092377877
+        }
+    ],
     "wof:id":1092377877,
-    "wof:lastmodified":1473985163,
+    "wof:lastmodified":1496899856,
     "wof:name":"PAV Dr. Roehrle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

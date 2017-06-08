@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0814666748,47.8046875,13.0814666748,47.8046875",
     "geom:latitude":47.804688,
     "geom:longitude":13.081467,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895654,
-    "wof:geomhash":"c6f247d532818d874f42992625bf96eb",
+    "wof:geomhash":"02fbf6f3a01d141d0a580e917d8a9d66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1091979221
         }
     ],
     "wof:id":1091979221,
-    "wof:lastmodified":1473985160,
+    "wof:lastmodified":1496894468,
     "wof:name":"Butter Rudolf Matthias GesmbH",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

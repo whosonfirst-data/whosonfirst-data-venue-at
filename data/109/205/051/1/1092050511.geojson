@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8166027069,47.3128509521,12.8166027069,47.3128509521",
     "geom:latitude":47.312851,
     "geom:longitude":12.816603,
@@ -29,17 +30,33 @@
     "sg:province":"Salzburg",
     "sg:website":"erlhof.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CCrylzYfBqq7jkkqEwle1_47.312851_12.816603@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898532,
-    "wof:geomhash":"2a46678491258906171df160f334ad9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e0008af49514561e5d9bbe3b6aa79e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092050511
+        }
+    ],
     "wof:id":1092050511,
-    "wof:lastmodified":1473983449,
+    "wof:lastmodified":1496896452,
     "wof:name":"Landhotel Erlhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

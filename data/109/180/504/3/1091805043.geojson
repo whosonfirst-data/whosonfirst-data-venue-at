@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.28586483,48.8155632019,15.28586483,48.8155632019",
     "geom:latitude":48.815563,
     "geom:longitude":15.285865,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835381,
+        85632785,
+        101782267,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D8xJhqIxAOpBcywsodLyJ_48.815563_15.285865@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473887654,
-    "wof:geomhash":"9fc99b36976734a7fd70bb4b89098997",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91078d601da4d79bd1b5e794090f9129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835381,
+            "locality_id":101782267,
+            "region_id":85681671,
+            "venue_id":1091805043
+        }
+    ],
     "wof:id":1091805043,
-    "wof:lastmodified":1473983452,
+    "wof:lastmodified":1496886399,
     "wof:name":"WALDVIERTLER SPARKASSE VON 1842",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

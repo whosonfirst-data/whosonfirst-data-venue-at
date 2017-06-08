@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0958766937,47.049747467,16.0958766937,47.049747467",
     "geom:latitude":47.049747,
     "geom:longitude":16.095877,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"golles.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839227,
+        85632785,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZnCx63kEEdqiO9QigPNNv_47.049747_16.095877@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909336,
-    "wof:geomhash":"3a0dfaec8fc0787403bee39f55cd1dfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec61409e13410a4144a33bb98c5f929d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839227,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092287261
+        }
+    ],
     "wof:id":1092287261,
-    "wof:lastmodified":1473984802,
+    "wof:lastmodified":1496912060,
     "wof:name":"Kunsthandel G\u00f6lles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5276813507,48.2176170349,16.5276813507,48.2176170349",
     "geom:latitude":48.217617,
     "geom:longitude":16.527681,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901694,
-    "wof:geomhash":"8eca6d11c2dec072b012a1e4782e2548",
+    "wof:geomhash":"be58acb91ab896ea38f55e5bc1183581",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092118521
         }
     ],
     "wof:id":1092118521,
-    "wof:lastmodified":1473985181,
+    "wof:lastmodified":1496903621,
     "wof:name":"Kovacs Tibor Sandor Dr",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

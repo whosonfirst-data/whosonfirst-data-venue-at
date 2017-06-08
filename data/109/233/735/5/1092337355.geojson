@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2568492889,48.3370132446,16.2568492889,48.3370132446",
     "geom:latitude":48.337013,
     "geom:longitude":16.256849,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"aws.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835345,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HA4Bx9fvzBds0JhhuKoK8_48.337013_16.256849@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911509,
-    "wof:geomhash":"33a8b6c289b990c3d2653cc183549bf9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3437c1e03b838f6ca4577fe38f4a6fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835345,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092337355
+        }
+    ],
     "wof:id":1092337355,
-    "wof:lastmodified":1473985091,
+    "wof:lastmodified":1496886179,
     "wof:name":"AWS Stahlhandel GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

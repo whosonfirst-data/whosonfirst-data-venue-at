@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7658052444,47.9331207275,13.7658052444,47.9331207275",
     "geom:latitude":47.933121,
     "geom:longitude":13.765805,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.pierrot.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835151,
+        85632785,
+        101833139,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5doehtPGKGVLdUV92cOyv7_47.933121_13.765805@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912539,
-    "wof:geomhash":"8d5adcaa7eebdc1d6501afe2fe168201",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7973eccde76bbdf26fe03c63ab36dce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835151,
+            "locality_id":101833139,
+            "region_id":85681677,
+            "venue_id":1092360581
+        }
+    ],
     "wof:id":1092360581,
-    "wof:lastmodified":1473983450,
+    "wof:lastmodified":1496885113,
     "wof:name":"Bar-Restaurant Pierrot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

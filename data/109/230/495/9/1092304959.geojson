@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0738182068,47.8214035034,13.0738182068,47.8214035034",
     "geom:latitude":47.821404,
     "geom:longitude":13.073818,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910135,
-    "wof:geomhash":"bdd2703ed8f73bb9c254906210049248",
+    "wof:geomhash":"46d70a13f710d80002e759f03054534b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092304959
         }
     ],
     "wof:id":1092304959,
-    "wof:lastmodified":1473984470,
+    "wof:lastmodified":1496894447,
     "wof:name":"Wieser Michael Johannes Mag arch",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

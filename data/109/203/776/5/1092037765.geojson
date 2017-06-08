@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3624429703,47.257976532,11.3624429703,47.257976532",
     "geom:latitude":47.257977,
     "geom:longitude":11.362443,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898043,
-    "wof:geomhash":"c933caddd79657975e7e565b105db0fa",
+    "wof:geomhash":"97a63ce5cb44d2f19640a8912490432e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092037765
         }
     ],
     "wof:id":1092037765,
-    "wof:lastmodified":1473984739,
+    "wof:lastmodified":1496899316,
     "wof:name":"Hauskrankenpflege Pflegeengel",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

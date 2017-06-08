@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4238996506,47.519405365,12.4238996506,47.519405365",
     "geom:latitude":47.519405,
     "geom:longitude":12.4239,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6t5gkgNg3V1ZEiLMHwRtgC_47.519405_12.423900@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913624,
-    "wof:geomhash":"3bd2397010c4952a1c8360cc749816d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2c60bc7e00422478a177e1e2add21c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1092383665
+        }
+    ],
     "wof:id":1092383665,
-    "wof:lastmodified":1473984187,
+    "wof:lastmodified":1496897366,
     "wof:name":"Pizzeria Masianco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3900594711,47.2597808838,11.3900594711,47.2597808838",
     "geom:latitude":47.259781,
     "geom:longitude":11.390059,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913420,
-    "wof:geomhash":"17b9f999147eb72fac8efade872708df",
+    "wof:geomhash":"e289aa476c5a1309869a3a587d044e24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092379303
         }
     ],
     "wof:id":1092379303,
-    "wof:lastmodified":1473985290,
+    "wof:lastmodified":1496899205,
     "wof:name":"Fachpraxis f Osteopathie u Physiotherapie Friedrich Hoffmann",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

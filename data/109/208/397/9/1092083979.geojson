@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3550815582,48.2751464844,16.3550815582,48.2751464844",
     "geom:latitude":48.275146,
     "geom:longitude":16.355082,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898317,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899944,
-    "wof:geomhash":"97410317b4814e6c8ab2c4590904b5e1",
+    "wof:geomhash":"cf0314dfd2af3f3b3334c4906997eef8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898317,
             "region_id":85681667,
             "venue_id":1092083979
         }
     ],
     "wof:id":1092083979,
-    "wof:lastmodified":1473984168,
+    "wof:lastmodified":1496903041,
     "wof:name":"Weiss Friedrich",
     "wof:parent_id":85898317,
     "wof:placetype":"venue",

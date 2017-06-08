@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7646389008,46.6655921936,13.7646389008,46.6655921936",
     "geom:latitude":46.665592,
     "geom:longitude":13.764639,
@@ -33,17 +34,33 @@
         "kaffeemaschinen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838361,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GrwF9AsJnmLwIOrAKLOSl_46.665592_13.764639@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909144,
-    "wof:geomhash":"5b131034f6d2884ad3af3013b312542a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e5ae40e4555bfa9050ebfd436274869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838361,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092282575
+        }
+    ],
     "wof:id":1092282575,
-    "wof:lastmodified":1473983758,
+    "wof:lastmodified":1496907577,
     "wof:name":"WMF Kaffeemaschinen Werkskundendienst f K\u00e4rnten Karl Duller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8749876022,46.6900444031,14.8749876022,46.6900444031",
     "geom:latitude":46.690044,
     "geom:longitude":14.874988,
@@ -23,17 +24,33 @@
     "sg:postcode":"9470",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838111,
+        85632785,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zCy33vRkkrtgVvmwqRdbR_46.690044_14.874988@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899468,
-    "wof:geomhash":"dc553ba589e24f09b3e5664bbd4c1e3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"341e053b2be857708a597baa61cd5db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838111,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092073951
+        }
+    ],
     "wof:id":1092073951,
-    "wof:lastmodified":1473984036,
+    "wof:lastmodified":1496905141,
     "wof:name":"Gasthof Rabensteiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5442523956,48.2153587341,16.5442523956,48.2153587341",
     "geom:latitude":48.215359,
     "geom:longitude":16.544252,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906473,
-    "wof:geomhash":"d8f89f836cc072ddab5cf112f9e20df5",
+    "wof:geomhash":"8b3741cdc59d1b0cbe30e3350f4718ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092221819
         }
     ],
     "wof:id":1092221819,
-    "wof:lastmodified":1473983787,
+    "wof:lastmodified":1496903227,
     "wof:name":"Raba Johann",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

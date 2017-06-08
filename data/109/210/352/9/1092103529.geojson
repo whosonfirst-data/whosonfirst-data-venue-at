@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7914457321,48.2080802917,14.7914457321,48.2080802917",
     "geom:latitude":48.20808,
     "geom:longitude":14.791446,
@@ -32,17 +33,33 @@
         "spice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835617,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v01pWcKymhU6YTenL3xnS_48.208080_14.791446@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900990,
-    "wof:geomhash":"20128767228d43ab08c842a1e29caba1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5988ce7cfc0573cf5a9643871f8acd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835617,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092103529
+        }
+    ],
     "wof:id":1092103529,
-    "wof:lastmodified":1473983924,
+    "wof:lastmodified":1496887679,
     "wof:name":"Ginterstorfer GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

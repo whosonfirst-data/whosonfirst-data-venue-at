@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2757835388,48.1387672424,15.2757835388,48.1387672424",
     "geom:latitude":48.138767,
     "geom:longitude":15.275784,
@@ -33,17 +34,33 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834999,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65olzvLrenSowKV45V8oYv_48.138767_15.275784@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473908962,
-    "wof:geomhash":"c61d84e496e018785240347d5a82e210",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea83ca266f84c8860d8998f114f8f5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108834999,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092278517
+        }
+    ],
     "wof:id":1092278517,
-    "wof:lastmodified":1473985292,
+    "wof:lastmodified":1496884163,
     "wof:name":"DIGI TECHNOLOGIES GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

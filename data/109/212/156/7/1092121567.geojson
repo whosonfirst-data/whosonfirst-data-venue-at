@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2153186798,48.2096786499,16.2153186798,48.2096786499",
     "geom:latitude":48.209679,
     "geom:longitude":16.215319,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901837,
-    "wof:geomhash":"3c07f3457769839d323ec66e5c686124",
+    "wof:geomhash":"f035548177422ba8caf0e95ff48b8cf2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092121567
         }
     ],
     "wof:id":1092121567,
-    "wof:lastmodified":1473983749,
+    "wof:lastmodified":1496928934,
     "wof:name":"Ferber-Helleparth Eveline",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

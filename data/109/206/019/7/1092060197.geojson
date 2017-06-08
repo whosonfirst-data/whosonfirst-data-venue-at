@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6985998154,46.5622062683,14.6985998154,46.5622062683",
     "geom:latitude":46.562206,
     "geom:longitude":14.6986,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838379,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31Tf8OKUIyzTgdG1uAIuFL_46.562206_14.698600@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898907,
-    "wof:geomhash":"224774f4258b865e9785965ca974fb83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d625cb129ff027c7b0514c2e2320cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838379,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092060197
+        }
+    ],
     "wof:id":1092060197,
-    "wof:lastmodified":1473983381,
+    "wof:lastmodified":1496907683,
     "wof:name":"Ing. Stefan Gregoric Installationen GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

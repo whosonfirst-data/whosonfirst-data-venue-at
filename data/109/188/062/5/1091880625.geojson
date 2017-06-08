@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4812717438,47.2794494629,14.4812717438,47.2794494629",
     "geom:latitude":47.279449,
     "geom:longitude":14.481272,
@@ -32,17 +33,33 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838953,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HaZK45SdOwWTo8dD2pAZy_47.279449_14.481272@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891165,
-    "wof:geomhash":"33115fc19bc983bcce1b73a89a442642",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a350c0dd7753fa67491b1ecc122969f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108838953,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091880625
+        }
+    ],
     "wof:id":1091880625,
-    "wof:lastmodified":1473983467,
+    "wof:lastmodified":1496910471,
     "wof:name":"HEINRICH BRANDL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

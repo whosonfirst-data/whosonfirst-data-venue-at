@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7686624527,46.8447380066,13.7686624527,46.8447380066",
     "geom:latitude":46.844738,
     "geom:longitude":13.768662,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FDl1u14LFOuaJ7wQRZFr8_46.844738_13.768662@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913575,
-    "wof:geomhash":"6dbf6d0661e431de0a2479faf6e316da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a18f523b6208456c9cb5b1af334ad63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092382753
+        }
+    ],
     "wof:id":1092382753,
-    "wof:lastmodified":1473984032,
+    "wof:lastmodified":1496906792,
     "wof:name":"Pizzapavillon Zirbenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

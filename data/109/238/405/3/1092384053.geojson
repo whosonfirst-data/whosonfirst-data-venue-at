@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9942321777,47.2282600403,12.9942321777,47.2282600403",
     "geom:latitude":47.22826,
     "geom:longitude":12.994232,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837229,
+        85632785,
+        101789133,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_248P9htGr0bRO1B42HRKxn_47.228260_12.994232@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913641,
-    "wof:geomhash":"c27fddeb6b8056b23981460677137ce8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"726d20ac62609a160e5301b0f4c43292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837229,
+            "locality_id":101789133,
+            "region_id":85681681,
+            "venue_id":1092384053
+        }
+    ],
     "wof:id":1092384053,
-    "wof:lastmodified":1473984280,
+    "wof:lastmodified":1496896177,
     "wof:name":"Pizzeria Simmerlstube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

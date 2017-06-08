@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8240041733,47.4844894409,9.8240041733,47.4844894409",
     "geom:latitude":47.484489,
     "geom:longitude":9.824004,
@@ -23,17 +24,33 @@
     "sg:postcode":"6960",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837911,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wGq3QnDL71wqnohXyUqxn_47.484489_9.824004@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897414,
-    "wof:geomhash":"ca1c457aa4357ab7584aa0991a861b9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96edaa4df596a24b0c285c2e3a7e7707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837911,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092021749
+        }
+    ],
     "wof:id":1092021749,
-    "wof:lastmodified":1473983668,
+    "wof:lastmodified":1496900672,
     "wof:name":"Martinshof Freilandeier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

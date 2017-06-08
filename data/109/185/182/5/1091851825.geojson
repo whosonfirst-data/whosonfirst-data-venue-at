@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5377826691,47.3752708435,13.5377826691,47.3752708435",
     "geom:latitude":47.375271,
     "geom:longitude":13.537783,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837025,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QLy4knFr39Sx9zftNj05a_47.375271_13.537783@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889796,
-    "wof:geomhash":"28e1a024b9436f5e1cdc62e8491e4c80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ef5220e1cf134039017b5f61df33283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837025,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091851825
+        }
+    ],
     "wof:id":1091851825,
-    "wof:lastmodified":1473983646,
+    "wof:lastmodified":1496893992,
     "wof:name":"Josef Hohenwallner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

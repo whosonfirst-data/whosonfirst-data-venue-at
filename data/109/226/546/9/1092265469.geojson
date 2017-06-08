@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7624454498,47.2706108093,12.7624454498,47.2706108093",
     "geom:latitude":47.270611,
     "geom:longitude":12.762445,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        101789131,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vHxQtTJfAmMs26qe83RRI_47.270611_12.762445@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908404,
-    "wof:geomhash":"0404dcb1eef4437e75200dd198cdce22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0096dfea324d08a32ec084f2252fcfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":101789131,
+            "region_id":85681681,
+            "venue_id":1092265469
+        }
+    ],
     "wof:id":1092265469,
-    "wof:lastmodified":1473984467,
+    "wof:lastmodified":1496895928,
     "wof:name":"Erwin Lackner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

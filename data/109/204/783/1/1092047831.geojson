@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0293397903,46.8712081909,11.0293397903,46.8712081909",
     "geom:latitude":46.871208,
     "geom:longitude":11.02934,
@@ -29,17 +30,33 @@
     "sg:province":"Tirol",
     "sg:website":"hotel-olympia.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837447,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dksSXUGuasi3GZmpNhkGK_46.871208_11.029340@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898427,
-    "wof:geomhash":"b5c451780069320fbf8f6a01c79d7ba9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0b13113478b41daaa2794b925385d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837447,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092047831
+        }
+    ],
     "wof:id":1092047831,
-    "wof:lastmodified":1473984165,
+    "wof:lastmodified":1496897919,
     "wof:name":"Hotel Olympia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

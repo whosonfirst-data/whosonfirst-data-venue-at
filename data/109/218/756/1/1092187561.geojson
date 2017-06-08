@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1097631454,47.8487701416,13.1097631454,47.8487701416",
     "geom:latitude":47.84877,
     "geom:longitude":13.109763,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904922,
-    "wof:geomhash":"d1cab46afd17eebe492db64c833e1114",
+    "wof:geomhash":"a0ee27fd7b68330fd754524690c3ab8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092187561
         }
     ],
     "wof:id":1092187561,
-    "wof:lastmodified":1473984859,
+    "wof:lastmodified":1496895388,
     "wof:name":"Luftbild Service Waltraud Munter",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

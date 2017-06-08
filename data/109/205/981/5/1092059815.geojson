@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7674312592,47.8842658997,13.7674312592,47.8842658997",
     "geom:latitude":47.884266,
     "geom:longitude":13.767431,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835121,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cuERUsNQyIHuJ5U5MlVPN_47.884266_13.767431@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898892,
-    "wof:geomhash":"2c11e2eeef47125af40a3ba7965ec222",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52df8f4d9604b339794079e7cf23216d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835121,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092059815
+        }
+    ],
     "wof:id":1092059815,
-    "wof:lastmodified":1473985198,
+    "wof:lastmodified":1496884675,
     "wof:name":"Ernst Danner Ges.m.b.H. & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

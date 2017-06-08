@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1922025681,47.2502098083,13.1922025681,47.2502098083",
     "geom:latitude":47.25021,
     "geom:longitude":13.192203,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.tauernhof.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837011,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iUa6c3gBlb7i0TG72kZzp_47.250210_13.192203@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894840,
-    "wof:geomhash":"401a7e42afe9735660676fb6981bb200",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c891b258c46c2e23e9ead47858745b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837011,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091960421
+        }
+    ],
     "wof:id":1091960421,
-    "wof:lastmodified":1473983388,
+    "wof:lastmodified":1496893954,
     "wof:name":"Hotel Tauernhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

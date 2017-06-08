@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2644443512,48.1797027588,16.2644443512,48.1797027588",
     "geom:latitude":48.179703,
     "geom:longitude":16.264444,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903268,
-    "wof:geomhash":"f78e35d06b5e97ab247bb37acfa500c4",
+    "wof:geomhash":"3a8596bde0dc1b061fe13f4b67f7baeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092151335
         }
     ],
     "wof:id":1092151335,
-    "wof:lastmodified":1473983561,
+    "wof:lastmodified":1496929087,
     "wof:name":"Kinder Sehen Hoffnung",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

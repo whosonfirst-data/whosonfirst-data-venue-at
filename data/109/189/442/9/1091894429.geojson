@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0344552994,47.8599281311,15.0344552994,47.8599281311",
     "geom:latitude":47.859928,
     "geom:longitude":15.034455,
@@ -23,17 +24,34 @@
     "sg:postcode":"3293",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835319,
+        85632785,
+        101844591,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26trMTLYMkC3kYyx8ZZVQW_47.859928_15.034455@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891817,
-    "wof:geomhash":"eb76e6134a133e59ea92fcc8c2ebde6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf11c12528717f97d7ba71c834ebcd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835319,
+            "locality_id":101844591,
+            "region_id":85681671,
+            "venue_id":1091894429
+        }
+    ],
     "wof:id":1091894429,
-    "wof:lastmodified":1473984311,
+    "wof:lastmodified":1496886018,
     "wof:name":"Sachverst\u00e4ndigenb\u00fcro Ernst Stibl GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

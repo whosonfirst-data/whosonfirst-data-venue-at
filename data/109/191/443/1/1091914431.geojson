@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5188961029,48.1725234985,14.5188961029,48.1725234985",
     "geom:latitude":48.172523,
     "geom:longitude":14.518896,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835825,
+        85632785,
+        101844595,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vRruqCurbohaDjALPTu1w_48.172523_14.518896@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892765,
-    "wof:geomhash":"06e9d5ed35937b1c80d6c1af4814753a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be7a892f02085316d00897dc28a9b9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835825,
+            "locality_id":101844595,
+            "region_id":85681671,
+            "venue_id":1091914431
+        }
+    ],
     "wof:id":1091914431,
-    "wof:lastmodified":1473983863,
+    "wof:lastmodified":1496888519,
     "wof:name":"Leicad Software GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

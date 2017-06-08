@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0457878113,48.1383705139,14.0457878113,48.1383705139",
     "geom:latitude":48.138371,
     "geom:longitude":14.045788,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"tuev.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836587,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mSMlxCv5uRPhJLDMr9VQS_48.138371_14.045788@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912345,
-    "wof:geomhash":"4954e423d23b2af9493989859f622114",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51a178cf89d52bec2377b6256e6699aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836587,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092355941
+        }
+    ],
     "wof:id":1092355941,
-    "wof:lastmodified":1473984562,
+    "wof:lastmodified":1496891804,
     "wof:name":"T\u00dcV \u00f6sterreich - Pr\u00fcfzentrum Wels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

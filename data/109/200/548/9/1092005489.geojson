@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4631958008,48.2632331848,16.4631958008,48.2632331848",
     "geom:latitude":48.263233,
     "geom:longitude":16.463196,
@@ -34,10 +35,13 @@
     "sg:website":"seidl-software.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896759,
-    "wof:geomhash":"a07bf81002af7d84a77a00e8b118356e",
+    "wof:geomhash":"4ef63bcae10505959341cbea87fa7270",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092005489
         }
     ],
     "wof:id":1092005489,
-    "wof:lastmodified":1473984412,
+    "wof:lastmodified":1496928682,
     "wof:name":"Kurt Seidl Software Handelsges.m.b.H.",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

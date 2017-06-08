@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4811515808,47.0886993408,15.4811515808,47.0886993408",
     "geom:latitude":47.088699,
     "geom:longitude":15.481152,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892038,
-    "wof:geomhash":"a1929a6365edb66341d687c52bc06acb",
+    "wof:geomhash":"b3179ca0a672cba930d169a599ecac23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1091898897
         }
     ],
     "wof:id":1091898897,
-    "wof:lastmodified":1473985122,
+    "wof:lastmodified":1496913417,
     "wof:name":"Jarz Peter",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

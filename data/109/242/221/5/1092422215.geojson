@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2159805298,46.8120651245,15.2159805298,46.8120651245",
     "geom:latitude":46.812065,
     "geom:longitude":15.215981,
@@ -34,17 +35,34 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        101788963,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZDs4VzrmMNIZ3aLn3aHCk_46.812065_15.215981@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915543,
-    "wof:geomhash":"24f76ecc6989ffc505136a7a89786277",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9de33c19a441d8d83339f18b115892bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":101788963,
+            "region_id":85681687,
+            "venue_id":1092422215
+        }
+    ],
     "wof:id":1092422215,
-    "wof:lastmodified":1473983750,
+    "wof:lastmodified":1496912671,
     "wof:name":"Erich Perkitsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

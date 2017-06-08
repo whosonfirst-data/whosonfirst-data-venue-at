@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7215013504,47.4841575623,15.7215013504,47.4841575623",
     "geom:latitude":47.484158,
     "geom:longitude":15.721501,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839387,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rstPqmKKflo5nJ3oWLn7W_47.484158_15.721501@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889801,
-    "wof:geomhash":"3ce0c0b30491a0a6007314d327d47272",
-    "wof:hierarchy":[],
+    "wof:geomhash":"030d5d8c90ecd1f15b2b234a2955b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839387,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091851961
+        }
+    ],
     "wof:id":1091851961,
-    "wof:lastmodified":1473983668,
+    "wof:lastmodified":1496913880,
     "wof:name":"Rudolf K\u00f6nigshofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

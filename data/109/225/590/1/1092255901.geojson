@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.08015728,47.7643432617,13.08015728,47.7643432617",
     "geom:latitude":47.764343,
     "geom:longitude":13.080157,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907968,
-    "wof:geomhash":"7b0c8da5350936ec63b2cd4ccae48904",
+    "wof:geomhash":"8f0f35110a8038a583bd2df3690277ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092255901
         }
     ],
     "wof:id":1092255901,
-    "wof:lastmodified":1473984699,
+    "wof:lastmodified":1496895292,
     "wof:name":"Herzog Dietmar Int Transporte",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

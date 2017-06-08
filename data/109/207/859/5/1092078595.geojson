@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5095729828,47.7099876404,16.5095729828,47.7099876404",
     "geom:latitude":47.709988,
     "geom:longitude":16.509573,
@@ -23,17 +24,34 @@
     "sg:postcode":"7022",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838553,
+        85632785,
+        101786743,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54i9K7ZkDQLhLEEFLgrZRE_47.709988_16.509573@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899697,
-    "wof:geomhash":"1c1e3db97c8716e794db18cc114a5143",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b721646a51fa3b13a635a9761908189e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838553,
+            "locality_id":101786743,
+            "region_id":85681651,
+            "venue_id":1092078595
+        }
+    ],
     "wof:id":1092078595,
-    "wof:lastmodified":1473984908,
+    "wof:lastmodified":1496908424,
     "wof:name":"Landgasthof Grafl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

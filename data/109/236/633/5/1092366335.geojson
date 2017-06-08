@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8832931519,47.4026298523,10.8832931519,47.4026298523",
     "geom:latitude":47.40263,
     "geom:longitude":10.883293,
@@ -23,17 +24,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JYoNvzrn6JH1cqIayMfCU_47.402630_10.883293@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912824,
-    "wof:geomhash":"d1a2b9ed083082f5458f7258f262d4a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bd633ba46b5d8bae72451d2bf52049d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092366335
+        }
+    ],
     "wof:id":1092366335,
-    "wof:lastmodified":1473984836,
+    "wof:lastmodified":1496899855,
     "wof:name":"Haus Lusspark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

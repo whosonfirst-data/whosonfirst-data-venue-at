@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.207906723,47.3508453369,16.207906723,47.3508453369",
     "geom:latitude":47.350845,
     "geom:longitude":16.207907,
@@ -23,17 +24,33 @@
     "sg:postcode":"7432",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838527,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_185IJdlNwjauXUQOGMZG76_47.350845_16.207907@1306268272"
     },
     "wof:country":"AT",
     "wof:created":1473901664,
-    "wof:geomhash":"3fcc0b29edd6aa75a876cecd37680b62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c050b5a69be74bdae73ee9b68b344326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838527,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092117983
+        }
+    ],
     "wof:id":1092117983,
-    "wof:lastmodified":1473985106,
+    "wof:lastmodified":1496908374,
     "wof:name":"Just Klaus Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

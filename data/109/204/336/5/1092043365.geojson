@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8797998428,48.0955848694,13.8797998428,48.0955848694",
     "geom:latitude":48.095585,
     "geom:longitude":13.8798,
@@ -34,10 +35,13 @@
     "sg:website":"salfinger-edv.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898255,
-    "wof:geomhash":"c95dd097f25c0180dc7815ee042778b1",
+    "wof:geomhash":"e10eb332975376efd9bfc931e9f75b7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1092043365
         }
     ],
     "wof:id":1092043365,
-    "wof:lastmodified":1473983444,
+    "wof:lastmodified":1496891639,
     "wof:name":"Salfinger EDV-Dienstleistungen",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

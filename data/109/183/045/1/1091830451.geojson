@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6286945343,48.6677703857,16.6286945343,48.6677703857",
     "geom:latitude":48.66777,
     "geom:longitude":16.628695,
@@ -23,17 +24,34 @@
     "sg:postcode":"2170",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835357,
+        85632785,
+        101782241,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pSqvg4uRLiMqBWBNTjHjk_48.667770_16.628695@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888811,
-    "wof:geomhash":"cb1994d01e2c16652bcc611d71227590",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2b74d22b87dd8819eac10ac8aabd7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108835357,
+            "locality_id":101782241,
+            "region_id":85681671,
+            "venue_id":1091830451
+        }
+    ],
     "wof:id":1091830451,
-    "wof:lastmodified":1473983303,
+    "wof:lastmodified":1496886232,
     "wof:name":"Sparkasse Poysdorf AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

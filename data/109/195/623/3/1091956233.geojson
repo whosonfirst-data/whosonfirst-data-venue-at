@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0678825378,47.7712173462,13.0678825378,47.7712173462",
     "geom:latitude":47.771217,
     "geom:longitude":13.067883,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894658,
-    "wof:geomhash":"ee5383eb8d7085992791ff8da463434e",
+    "wof:geomhash":"bd0a98a19a5715d0a25c05c9ba1d5a24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091956233
         }
     ],
     "wof:id":1091956233,
-    "wof:lastmodified":1473984861,
+    "wof:lastmodified":1496894540,
     "wof:name":"Die Dienstm\u00e4dels",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

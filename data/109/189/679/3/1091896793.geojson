@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6462945938,47.351146698,9.6462945938,47.351146698",
     "geom:latitude":47.351147,
     "geom:longitude":9.646295,
@@ -23,17 +24,34 @@
     "sg:postcode":"6844",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r7fx3U8huQC7JXM9KlFtn_47.351147_9.646295@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891920,
-    "wof:geomhash":"fd585ed0a2a2293867a870087d9ce7ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3fe4ba7f8f93aea224b1ba97ef10c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1091896793
+        }
+    ],
     "wof:id":1091896793,
-    "wof:lastmodified":1473984860,
+    "wof:lastmodified":1496900488,
     "wof:name":"Elektro Grafenauer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

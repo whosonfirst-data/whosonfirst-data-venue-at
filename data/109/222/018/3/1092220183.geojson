@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4468584061,48.4439315796,13.4468584061,48.4439315796",
     "geom:latitude":48.443932,
     "geom:longitude":13.446858,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836061,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2knl6EpMVeRFSUg1lkWQJL_48.443932_13.446858@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906404,
-    "wof:geomhash":"74778001443b0ef3d7e14b125e970068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0e5fdc199f18311236c5d0c24badd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836061,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092220183
+        }
+    ],
     "wof:id":1092220183,
-    "wof:lastmodified":1473983341,
+    "wof:lastmodified":1496889360,
     "wof:name":"Burgstaller GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

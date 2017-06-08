@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3925018311,47.5405807495,16.3925018311,47.5405807495",
     "geom:latitude":47.540581,
     "geom:longitude":16.392502,
@@ -23,17 +24,33 @@
     "sg:postcode":"7342",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838689,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35QBqJv9Uo2dwPBJdp9VA3_47.540581_16.392502@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893491,
-    "wof:geomhash":"86c761774876e08b77edfb036e698675",
-    "wof:hierarchy":[],
+    "wof:geomhash":"093cae06db03407349ea4392075b3cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838689,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091929519
+        }
+    ],
     "wof:id":1091929519,
-    "wof:lastmodified":1473985086,
+    "wof:lastmodified":1496909111,
     "wof:name":"ASK\u00f6 Kaisersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

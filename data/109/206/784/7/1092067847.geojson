@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4509906769,47.5608215332,12.4509906769,47.5608215332",
     "geom:latitude":47.560822,
     "geom:longitude":12.450991,
@@ -23,17 +24,34 @@
     "sg:postcode":"6382",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        101833057,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0js1YOnPHnGf52Qvy73YcJ_47.560822_12.450991@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899224,
-    "wof:geomhash":"b44d52eb90937989deec0f3240cb17c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fba3edaa89f54967d8af20345a7c485b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":101833057,
+            "region_id":85681661,
+            "venue_id":1092067847
+        }
+    ],
     "wof:id":1092067847,
-    "wof:lastmodified":1473984836,
+    "wof:lastmodified":1496897067,
     "wof:name":"Gasthaus Neuwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5275821686,47.4284591675,16.5275821686,47.4284591675",
     "geom:latitude":47.428459,
     "geom:longitude":16.527582,
@@ -23,17 +24,33 @@
     "sg:postcode":"7444",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838487,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pJ1GVdqLZ1hPSOmiqX6oB_47.428459_16.527582@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904104,
-    "wof:geomhash":"ad40bf62906c9341d77f181b94e75e8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36e871cf8713a186a214024353c78fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838487,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092169531
+        }
+    ],
     "wof:id":1092169531,
-    "wof:lastmodified":1473985161,
+    "wof:lastmodified":1496908163,
     "wof:name":"Biozentrum Landesproduktenhandel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

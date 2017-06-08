@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8416166306,47.5167732239,9.8416166306,47.5167732239",
     "geom:latitude":47.516773,
     "geom:longitude":9.841617,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837981,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BDYARC3xnftRT9SXprZzB_47.516773_9.841617@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889228,
-    "wof:geomhash":"f63119bea5965b3d033967940dc94628",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e92ecc0e8f0a2c767918a94321510ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837981,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091838999
+        }
+    ],
     "wof:id":1091838999,
-    "wof:lastmodified":1473985244,
+    "wof:lastmodified":1496901237,
     "wof:name":"Artur Spettel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

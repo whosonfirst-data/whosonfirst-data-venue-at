@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8119983673,47.9676017761,16.8119983673,47.9676017761",
     "geom:latitude":47.967602,
     "geom:longitude":16.811998,
@@ -28,17 +29,33 @@
     "sg:postcode":"7100",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N94XH588LJkZHsWhuz2P6_47.967602_16.811998@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895042,
-    "wof:geomhash":"caef2b1bca105480edf84b4c72411be8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c17a9d3f21adb71db7cfc1e0180526c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091965157
+        }
+    ],
     "wof:id":1091965157,
-    "wof:lastmodified":1473984171,
+    "wof:lastmodified":1496908184,
     "wof:name":"Rasthaus z alten Mauth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

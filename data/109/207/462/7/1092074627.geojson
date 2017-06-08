@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2751836777,47.2556838989,12.2751836777,47.2556838989",
     "geom:latitude":47.255684,
     "geom:longitude":12.275184,
@@ -23,17 +24,33 @@
     "sg:postcode":"5741",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837223,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cShk9bReRCGOh7d7yVD0o_47.255684_12.275184@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899498,
-    "wof:geomhash":"1e7bbfd7df752037153fc8196c7f0711",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10fdaf3a5779f5353cb4b50a9a6defd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837223,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092074627
+        }
+    ],
     "wof:id":1092074627,
-    "wof:lastmodified":1473984162,
+    "wof:lastmodified":1496896112,
     "wof:name":"Gasthof Stockenbaum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7921161652,47.3035736084,12.7921161652,47.3035736084",
     "geom:latitude":47.303574,
     "geom:longitude":12.792116,
@@ -30,17 +31,33 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KJkaZhI4JrjEoG2PxGxyb_47.303574_12.792116@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891166,
-    "wof:geomhash":"d46cdab1975f8ebda865446957caa2ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92933e5cb40974c0a357884070146c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091880645
+        }
+    ],
     "wof:id":1091880645,
-    "wof:lastmodified":1473983496,
+    "wof:lastmodified":1496896421,
     "wof:name":"JOSEF BRANDL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

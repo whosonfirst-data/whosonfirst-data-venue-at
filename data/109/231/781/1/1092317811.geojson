@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7017822266,47.3738517761,9.7017822266,47.3738517761",
     "geom:latitude":47.373852,
     "geom:longitude":9.701782,
@@ -25,10 +26,12 @@
     "sg:website":"kuchelmair.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898621,
-        102049737
+        102191581,
+        1108837963,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910709,
-    "wof:geomhash":"4ef161b242c5985c0d51b0e1ceaea321",
+    "wof:geomhash":"d9e545928c39893d17852c2b0e12b262",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":-1,
             "neighbourhood_id":85898621,
             "region_id":85681649,
             "venue_id":1092317811
         }
     ],
     "wof:id":1092317811,
-    "wof:lastmodified":1473985061,
+    "wof:lastmodified":1496901120,
     "wof:name":"Kuchelmair Transporte",
     "wof:parent_id":85898621,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4081687927,47.7364807129,16.4081687927,47.7364807129",
     "geom:latitude":47.736481,
     "geom:longitude":16.408169,
@@ -23,17 +24,34 @@
     "sg:postcode":"7210",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838419,
+        85632785,
+        101833073,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yCNrSRnxpqdtdvQd5XVPa_47.736481_16.408169@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888411,
-    "wof:geomhash":"e0e2366dd97dd611409967babc0aabe3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f032c8e72692742e2ec4366a26fe1b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838419,
+            "locality_id":101833073,
+            "region_id":85681651,
+            "venue_id":1091821363
+        }
+    ],
     "wof:id":1091821363,
-    "wof:lastmodified":1473983677,
+    "wof:lastmodified":1496907837,
     "wof:name":"Bahnhof Mattersburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

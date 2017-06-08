@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3125896454,48.0419807434,15.3125896454,48.0419807434",
     "geom:latitude":48.041981,
     "geom:longitude":15.31259,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835871,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13IK3p6WMcoeAa8dmiHUUV_48.041981_15.312590@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898628,
-    "wof:geomhash":"83ddb36d376a97747e346a5c732c8e28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22b2369589249722bc92e4a5c7c00b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835871,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092053049
+        }
+    ],
     "wof:id":1092053049,
-    "wof:lastmodified":1473983874,
+    "wof:lastmodified":1496888725,
     "wof:name":"WOLLWERKSTATT BIOTOP GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

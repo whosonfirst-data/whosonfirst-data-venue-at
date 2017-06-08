@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3764743805,48.3293190002,16.3764743805,48.3293190002",
     "geom:latitude":48.329319,
     "geom:longitude":16.376474,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836939,
+        85632785,
+        101754241,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MTm52pVogbTfG3aVsZjiW_48.329319_16.376474@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892804,
-    "wof:geomhash":"d0de1a58b9c6986f59db48d908e84a41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"768be2109a49575e13622af9248515f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836939,
+            "locality_id":101754241,
+            "region_id":85681671,
+            "venue_id":1091915367
+        }
+    ],
     "wof:id":1091915367,
-    "wof:lastmodified":1473983990,
+    "wof:lastmodified":1496893442,
     "wof:name":"Schuster & Hwesta GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

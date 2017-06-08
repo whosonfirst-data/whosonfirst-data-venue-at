@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6330442429,48.1504898071,13.6330442429,48.1504898071",
     "geom:latitude":48.15049,
     "geom:longitude":13.633044,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835179,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sggJ0hyBzw22H5KDQGjiA_48.150490_13.633044@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905061,
-    "wof:geomhash":"2e6188d07e0b29c756f101749848e2ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c423d9505d0ae85155caef22580f427d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835179,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190763
+        }
+    ],
     "wof:id":1092190763,
-    "wof:lastmodified":1473983462,
+    "wof:lastmodified":1496885311,
     "wof:name":"Ing. Gerold Jedinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

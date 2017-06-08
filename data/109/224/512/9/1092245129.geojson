@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4941663742,46.7597961426,12.4941663742,46.7597961426",
     "geom:latitude":46.759796,
     "geom:longitude":12.494166,
@@ -23,17 +24,33 @@
     "sg:postcode":"9920",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837787,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4raE2hBdF0YCK1o0Y8ljdI_46.759796_12.494166@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907504,
-    "wof:geomhash":"8272ae0f353b95aea33b79fb87986022",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8995abfb601531b48b789ba71303608b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837787,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092245129
+        }
+    ],
     "wof:id":1092245129,
-    "wof:lastmodified":1473984435,
+    "wof:lastmodified":1496899983,
     "wof:name":"Mayr Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

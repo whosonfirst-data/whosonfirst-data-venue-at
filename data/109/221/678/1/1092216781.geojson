@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.809135437,48.1077575684,16.809135437,48.1077575684",
     "geom:latitude":48.107758,
     "geom:longitude":16.809135,
@@ -23,17 +24,33 @@
     "sg:postcode":"2403",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836881,
+        85632785,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JqiVkyoBJdADVW71HNp4A_48.107758_16.809135@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906270,
-    "wof:geomhash":"07d780426586924d1ade148c40c151fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec385780ae7c8ce17a1d84e57ec31197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836881,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092216781
+        }
+    ],
     "wof:id":1092216781,
-    "wof:lastmodified":1473984765,
+    "wof:lastmodified":1496893233,
     "wof:name":"OMV AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

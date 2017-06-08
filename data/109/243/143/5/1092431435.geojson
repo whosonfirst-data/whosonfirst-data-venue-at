@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8700141907,47.1650886536,11.8700141907,47.1650886536",
     "geom:latitude":47.165089,
     "geom:longitude":11.870014,
@@ -23,17 +24,33 @@
     "sg:postcode":"6290",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qm0oSbTsXXSQATXEAB8tm_47.165089_11.870014@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915975,
-    "wof:geomhash":"3747412f71cc9871e38e61a62cedc219",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32f96638c44ffcdd09e857ec3c38ae99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092431435
+        }
+    ],
     "wof:id":1092431435,
-    "wof:lastmodified":1473983499,
+    "wof:lastmodified":1496900423,
     "wof:name":"Flugtaxi Mayrhofen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

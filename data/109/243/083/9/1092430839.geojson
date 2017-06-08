@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2246103287,47.9449386597,13.2246103287,47.9449386597",
     "geom:latitude":47.944939,
     "geom:longitude":13.22461,
@@ -32,17 +33,34 @@
         "foam"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        101786779,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mQcvkja4UjSqbZtFfuKry_47.944939_13.224610@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915946,
-    "wof:geomhash":"f2a64600453a139cb9cd56f8db7e0e43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24d8eb46781bbf32c7942b3a93686b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":101786779,
+            "region_id":85681681,
+            "venue_id":1092430839
+        }
+    ],
     "wof:id":1092430839,
-    "wof:lastmodified":1473983446,
+    "wof:lastmodified":1496895517,
     "wof:name":"Otto Renner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

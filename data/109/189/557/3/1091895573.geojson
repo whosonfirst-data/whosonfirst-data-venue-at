@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1880807877,47.3319892883,13.1880807877,47.3319892883",
     "geom:latitude":47.331989,
     "geom:longitude":13.188081,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Bx7IOR7RmhbpNSCwL3KZq_47.331989_13.188081@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891863,
-    "wof:geomhash":"41ae9c35e301041127ac4cbcdad45b91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80cac62773835cca9d454c1873d06323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091895573
+        }
+    ],
     "wof:id":1091895573,
-    "wof:lastmodified":1473984600,
+    "wof:lastmodified":1496894076,
     "wof:name":"SBV Steinbruch & Baurestmassenverwertung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

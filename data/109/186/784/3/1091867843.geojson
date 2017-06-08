@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6560144424,47.4734344482,9.6560144424,47.4734344482",
     "geom:latitude":47.473434,
     "geom:longitude":9.656014,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"http://members.vol.at/egdata",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837945,
+        85632785,
+        101827479,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20Du77Xw8ETMApkJVS0ipk_47.473434_9.656014@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890564,
-    "wof:geomhash":"a71b04b2854b07ee5d00b973ec052e73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"805a3ba5defab3d80179c1f38fa48e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837945,
+            "locality_id":101827479,
+            "region_id":85681649,
+            "venue_id":1091867843
+        }
+    ],
     "wof:id":1091867843,
-    "wof:lastmodified":1473985142,
+    "wof:lastmodified":1496901014,
     "wof:name":"EG-DATA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

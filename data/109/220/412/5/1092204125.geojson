@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6220493317,47.5704498291,15.6220493317,47.5704498291",
     "geom:latitude":47.57045,
     "geom:longitude":15.622049,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"compnet.at/pusterhofer/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838863,
+        85632785,
+        101786729,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hN2g97R5LPbuVOvRGID5P_47.570450_15.622049@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905708,
-    "wof:geomhash":"d216308065e71a732f8ca7a71d2b5618",
-    "wof:hierarchy":[],
+    "wof:geomhash":"952b145c53a2e9c8bb1d11fed85a84c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838863,
+            "locality_id":101786729,
+            "region_id":85681687,
+            "venue_id":1092204125
+        }
+    ],
     "wof:id":1092204125,
-    "wof:lastmodified":1473984271,
+    "wof:lastmodified":1496909694,
     "wof:name":"Florian Pusterhofer Maschinenfabrik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

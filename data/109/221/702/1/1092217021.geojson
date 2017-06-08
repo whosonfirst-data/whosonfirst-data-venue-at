@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6581659317,47.3662261963,9.6581659317,47.3662261963",
     "geom:latitude":47.366226,
     "geom:longitude":9.658166,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"www.rosenberger.cc",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zvVilX6czt9B6kQ5Jhijn_47.366226_9.658166@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906279,
-    "wof:geomhash":"b4f2e9c734bfbb82610a46b63ed5dd1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4c563afaf8250d9f1277c4f1a040419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1092217021
+        }
+    ],
     "wof:id":1092217021,
-    "wof:lastmodified":1473984785,
+    "wof:lastmodified":1496901167,
     "wof:name":"Rosenberger Tankstellenbetriebs-GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

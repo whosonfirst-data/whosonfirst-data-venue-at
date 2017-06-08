@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9824495316,47.4253349304,15.9824495316,47.4253349304",
     "geom:latitude":47.425335,
     "geom:longitude":15.98245,
@@ -32,17 +33,33 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839095,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54p2zc2qjluhFk0vOEVvnd_47.425335_15.982450@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889212,
-    "wof:geomhash":"44d700796eedf31d6411baefeae8a723",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a719ca960e52b2499b8c973399e741e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839095,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091838601
+        }
+    ],
     "wof:id":1091838601,
-    "wof:lastmodified":1473985073,
+    "wof:lastmodified":1496911311,
     "wof:name":"Faustmann Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

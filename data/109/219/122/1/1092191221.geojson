@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8982543945,48.2900276184,15.8982543945,48.2900276184",
     "geom:latitude":48.290028,
     "geom:longitude":15.898254,
@@ -31,17 +32,34 @@
         "agriculture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835035,
+        85632785,
+        101912341,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x2Qnu8dpT0bzuzQrLb0cB_48.290028_15.898254@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905078,
-    "wof:geomhash":"cd4dd13c04be2f26580a4193fe60eb09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"835de17f3e0c75feea53164c05a69354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835035,
+            "locality_id":101912341,
+            "region_id":85681671,
+            "venue_id":1092191221
+        }
+    ],
     "wof:id":1092191221,
-    "wof:lastmodified":1473983566,
+    "wof:lastmodified":1496892007,
     "wof:name":"MARKUS LEDERLEITNER GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

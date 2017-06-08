@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4742908478,48.2637023926,16.4742908478,48.2637023926",
     "geom:latitude":48.263702,
     "geom:longitude":16.474291,
@@ -36,10 +37,13 @@
     "sg:website":"iep.co.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +51,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888136,
-    "wof:geomhash":"15f837f80cf280047ad274afc007070b",
+    "wof:geomhash":"1f24a0dfd738cc6499bb5f81b15eba91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091814959
         }
     ],
     "wof:id":1091814959,
-    "wof:lastmodified":1473984448,
+    "wof:lastmodified":1496928417,
     "wof:name":"IEP - Industrielle Elektroprojekte Ges.m.b.H.",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

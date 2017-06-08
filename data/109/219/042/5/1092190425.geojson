@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2525196075,47.4260902405,15.2525196075,47.4260902405",
     "geom:latitude":47.42609,
     "geom:longitude":15.25252,
@@ -32,17 +33,34 @@
         "aerospace"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839323,
+        85632785,
+        101834337,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e7BAcTWvTAE2MISWNnVsH_47.426090_15.252520@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905044,
-    "wof:geomhash":"4088c3fa8971172afd6e9f0124edd08e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e38dea88b289416f7604c962f745f5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839323,
+            "locality_id":101834337,
+            "region_id":85681687,
+            "venue_id":1092190425
+        }
+    ],
     "wof:id":1092190425,
-    "wof:lastmodified":1473983431,
+    "wof:lastmodified":1496912947,
     "wof:name":"PMC MetallverarbeitungsgmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

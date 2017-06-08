@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.314414978,47.5192680359,12.314414978,47.5192680359",
     "geom:latitude":47.519268,
     "geom:longitude":12.314415,
@@ -23,17 +24,33 @@
     "sg:postcode":"6352",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837681,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iK45A4KkrEcOjqh9AwdZ2_47.519268_12.314415@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910484,
-    "wof:geomhash":"3b1cd0560ac5aa73e3b0c3590c0c13b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f34d8dcff0fc305fba084bfe4bfa9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837681,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092312581
+        }
+    ],
     "wof:id":1092312581,
-    "wof:lastmodified":1473983954,
+    "wof:lastmodified":1496899157,
     "wof:name":"Autocenter Fieg GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

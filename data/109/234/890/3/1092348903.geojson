@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5476751328,46.936580658,14.5476751328,46.936580658",
     "geom:latitude":46.936581,
     "geom:longitude":14.547675,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"harrermuseum.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838219,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ckwkmvjSZ2Lh2qVmmcGwJ_46.936581_14.547675@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912021,
-    "wof:geomhash":"0ed5b6508fb5a951d973e270c8bf693a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc0d311246056968654e2909c7be8b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838219,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092348903
+        }
+    ],
     "wof:id":1092348903,
-    "wof:lastmodified":1473985002,
+    "wof:lastmodified":1496906615,
     "wof:name":"Heinrich Harrer-Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

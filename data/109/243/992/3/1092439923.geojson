@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2538919449,48.267364502,14.2538919449,48.267364502",
     "geom:latitude":48.267365,
     "geom:longitude":14.253892,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898435,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916366,
-    "wof:geomhash":"952137bf4c96c97b718fd89e9302c04b",
+    "wof:geomhash":"3eec0671482ff975d3a9e1a9fc65ddbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898435,
             "region_id":85681677,
             "venue_id":1092439923
         }
     ],
     "wof:id":1092439923,
-    "wof:lastmodified":1473985307,
+    "wof:lastmodified":1496887218,
     "wof:name":"Freizeitanlage K\u00fcrnberg (Freibad, Eislaufplatz, Eisstockbahnen)",
     "wof:parent_id":85898435,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5198059082,47.2815475464,14.5198059082,47.2815475464",
     "geom:latitude":47.281548,
     "geom:longitude":14.519806,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838953,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dKATM3Hg9X0GiitND7s86_47.281548_14.519806@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898895,
-    "wof:geomhash":"b9509da6a0e8ae4b238952092e569651",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6362ecbc874ebcc63c27180d29b0d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108838953,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092059895
+        }
+    ],
     "wof:id":1092059895,
-    "wof:lastmodified":1473985209,
+    "wof:lastmodified":1496910473,
     "wof:name":"Franz Rinner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

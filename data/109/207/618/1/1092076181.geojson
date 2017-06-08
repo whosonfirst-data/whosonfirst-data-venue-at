@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4289102554,47.2383346558,11.4289102554,47.2383346558",
     "geom:latitude":47.238335,
     "geom:longitude":11.42891,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899569,
-    "wof:geomhash":"07f010ed78b946b1a13a8e953178b5a4",
+    "wof:geomhash":"925187785c8557b8a62c1ccf423efb9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092076181
         }
     ],
     "wof:id":1092076181,
-    "wof:lastmodified":1473984385,
+    "wof:lastmodified":1496898418,
     "wof:name":"Gasthof-Pension Walzl",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

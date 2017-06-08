@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2677555084,48.1878128052,16.2677555084,48.1878128052",
     "geom:latitude":48.187813,
     "geom:longitude":16.267756,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890782,
-    "wof:geomhash":"4ab55a618aec1b51ca981709e634e3b0",
+    "wof:geomhash":"ce0e39c29f98b7f6f3e7197e8eae2d74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091872463
         }
     ],
     "wof:id":1091872463,
-    "wof:lastmodified":1473983732,
+    "wof:lastmodified":1496929229,
     "wof:name":"B\u00fccher & Geschenkeladen",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

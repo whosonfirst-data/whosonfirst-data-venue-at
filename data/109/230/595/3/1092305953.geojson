@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.505238533,48.3836326599,13.505238533,48.3836326599",
     "geom:latitude":48.383633,
     "geom:longitude":13.505239,
@@ -31,17 +32,33 @@
         "metalwork"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836079,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41qAoDxMfTnDTonUSq0CAx_48.383633_13.505239@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910184,
-    "wof:geomhash":"9ce187d78a522589b9c55ee4fa7b4c33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19865e0467ef82a98c64049b51aba5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836079,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092305953
+        }
+    ],
     "wof:id":1092305953,
-    "wof:lastmodified":1473984673,
+    "wof:lastmodified":1496889419,
     "wof:name":"Albert Hauer GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

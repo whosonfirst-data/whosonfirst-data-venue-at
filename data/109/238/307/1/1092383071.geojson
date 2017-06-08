@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1759681702,48.3315391541,14.1759681702,48.3315391541",
     "geom:latitude":48.331539,
     "geom:longitude":14.175968,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85904371,
-        102049847
+        102191581,
+        1108836395,
+        85632785,
+        101784615,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913594,
-    "wof:geomhash":"6ca0655c0937df7bf94a8be6c6345f86",
+    "wof:geomhash":"f989e2da6c1bba78b7f302ec27a4e3f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836395,
+            "locality_id":101784615,
             "neighbourhood_id":85904371,
             "region_id":85681677,
             "venue_id":1092383071
         }
     ],
     "wof:id":1092383071,
-    "wof:lastmodified":1473984145,
+    "wof:lastmodified":1496890884,
     "wof:name":"Pizzeria Casa Vecchia",
     "wof:parent_id":85904371,
     "wof:placetype":"venue",

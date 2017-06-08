@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.423625946,47.5203323364,12.423625946,47.5203323364",
     "geom:latitude":47.520332,
     "geom:longitude":12.423626,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.tirol.com/tyropool",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f2IvWhLKz3FvwwllRVTjm_47.520332_12.423626@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895758,
-    "wof:geomhash":"128ab2d8c95fa17d36e2765eadad88b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24690221f69e64295f264232a07a0904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1091981531
+        }
+    ],
     "wof:id":1091981531,
-    "wof:lastmodified":1473983347,
+    "wof:lastmodified":1496897358,
     "wof:name":"Tyropool Schwimmbadtechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3071250916,47.9521865845,16.3071250916,47.9521865845",
     "geom:latitude":47.952187,
     "geom:longitude":16.307125,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836937,
+        85632785,
+        101785711,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wabb8VQft02xqS1gAt4KN_47.952187_16.307125@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906418,
-    "wof:geomhash":"7b006225c96e14abbd174bbdb561a4f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdeffc9c1ea80421774462466ec21d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836937,
+            "locality_id":101785711,
+            "region_id":85681671,
+            "venue_id":1092220529
+        }
+    ],
     "wof:id":1092220529,
-    "wof:lastmodified":1473983466,
+    "wof:lastmodified":1496893424,
     "wof:name":"Fuhrmann KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8628444672,47.1589126587,11.8628444672,47.1589126587",
     "geom:latitude":47.158913,
     "geom:longitude":11.862844,
@@ -23,17 +24,33 @@
     "sg:postcode":"6290",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Pguph4uhr2M4Qawv3QkYU_47.158913_11.862844@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900325,
-    "wof:geomhash":"0d1269a3bf4c400c784cd624544630f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"870677560b9e7fc78c0efe379317a093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092091727
+        }
+    ],
     "wof:id":1092091727,
-    "wof:lastmodified":1473983588,
+    "wof:lastmodified":1496900437,
     "wof:name":"Wassergenossenschaft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

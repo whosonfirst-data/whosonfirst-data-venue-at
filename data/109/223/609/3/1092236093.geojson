@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4054965973,48.1418838501,16.4054965973,48.1418838501",
     "geom:latitude":48.141884,
     "geom:longitude":16.405497,
@@ -25,10 +26,13 @@
     "sg:website":"www.oberlaa.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907092,
-    "wof:geomhash":"57a875a2871b337297e99988a5a0fef0",
+    "wof:geomhash":"7d1a32aeafe6fddbaa4ed1e5fc32a545",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092236093
         }
     ],
     "wof:id":1092236093,
-    "wof:lastmodified":1473984572,
+    "wof:lastmodified":1496903163,
     "wof:name":"Therme Oberlaa-Wien BetriebsgmbH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

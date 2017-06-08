@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5052146912,47.2806053162,11.5052146912,47.2806053162",
     "geom:latitude":47.280605,
     "geom:longitude":11.505215,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892134,
-    "wof:geomhash":"09dbcc5f046ab0bfe477b897ad738d6d",
+    "wof:geomhash":"ddd355d774ed6c2ca1d6b09fa7dba12d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091900375
         }
     ],
     "wof:id":1091900375,
-    "wof:lastmodified":1473983377,
+    "wof:lastmodified":1496898732,
     "wof:name":"Graber Schlosserei u Schl\u00fcsselschmiede GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

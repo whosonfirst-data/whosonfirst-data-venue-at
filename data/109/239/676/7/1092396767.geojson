@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5164241791,47.1258239746,15.5164241791,47.1258239746",
     "geom:latitude":47.125824,
     "geom:longitude":15.516424,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914278,
-    "wof:geomhash":"4aceb125a849cd7f936a92247eb39f3d",
+    "wof:geomhash":"b8bf63957bbeec3c019c5338beb70bcc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092396767
         }
     ],
     "wof:id":1092396767,
-    "wof:lastmodified":1473984584,
+    "wof:lastmodified":1496934427,
     "wof:name":"Polanz-Burgstaller Astrid Dr",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

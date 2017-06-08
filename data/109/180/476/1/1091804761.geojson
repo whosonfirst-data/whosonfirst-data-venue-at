@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4425172806,47.1957321167,14.4425172806,47.1957321167",
     "geom:latitude":47.195732,
     "geom:longitude":14.442517,
@@ -22,17 +23,33 @@
     "sg:postcode":"8800",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839421,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CJy5eU7d5RbwMhGOGH5JF_47.195732_14.442517@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473887638,
-    "wof:geomhash":"811dba1c5c19cf00221e541bbfbe727a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0eeaae8b053c7b5f0ac375dc984b9b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839421,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091804761
+        }
+    ],
     "wof:id":1091804761,
-    "wof:lastmodified":1473983384,
+    "wof:lastmodified":1496914144,
     "wof:name":"Bahnhof Unzmarkt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

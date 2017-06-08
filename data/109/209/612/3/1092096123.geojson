@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7368736267,47.9570579529,16.7368736267,47.9570579529",
     "geom:latitude":47.957058,
     "geom:longitude":16.736874,
@@ -23,17 +24,33 @@
     "sg:postcode":"7092",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108839433,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aSNrCx95B5qGfiWl3GkZm_47.957058_16.736874@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900615,
-    "wof:geomhash":"4d5f48b8c76d16baaac633d6439a0bcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4754988e170ee067303421efd874625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108839433,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092096123
+        }
+    ],
     "wof:id":1092096123,
-    "wof:lastmodified":1473984459,
+    "wof:lastmodified":1496914226,
     "wof:name":"Lindenberger Espresso Serving Systems KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

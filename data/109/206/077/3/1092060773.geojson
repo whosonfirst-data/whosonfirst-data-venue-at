@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6134376526,48.4801673889,13.6134376526,48.4801673889",
     "geom:latitude":48.480167,
     "geom:longitude":13.613438,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"wiesinger-bad.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836067,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04QHNSkGAH5ypOReafggWh_48.480167_13.613438@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898933,
-    "wof:geomhash":"932172baf94a26ea8ce74d081c6b589a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9b64643117b3d0cd804a59ee628bd83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836067,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092060773
+        }
+    ],
     "wof:id":1092060773,
-    "wof:lastmodified":1473983548,
+    "wof:lastmodified":1496889372,
     "wof:name":"Walter Wiesinger Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

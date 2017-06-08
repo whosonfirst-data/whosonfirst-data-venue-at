@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4250936508,47.5218048096,12.4250936508,47.5218048096",
     "geom:latitude":47.521805,
     "geom:longitude":12.425094,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"mueller-bau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f7ezxGCxF4pC6yTr22def_47.521805_12.425094@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889698,
-    "wof:geomhash":"3fee1bbfa967cff9e8e4174ba4b3024d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a385dd4cbf4dfb84a6e6dbd51bd2925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1091849441
+        }
+    ],
     "wof:id":1091849441,
-    "wof:lastmodified":1473985216,
+    "wof:lastmodified":1496897337,
     "wof:name":"M\u00fcller Andreas Ing Bau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

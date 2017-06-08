@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7585287094,47.6060180664,15.7585287094,47.6060180664",
     "geom:latitude":47.606018,
     "geom:longitude":15.758529,
@@ -33,17 +34,34 @@
         "hotels"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838841,
+        85632785,
+        101786727,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BJLCvJxFVBpFwz7ZYnCUA_47.606018_15.758529@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898590,
-    "wof:geomhash":"63e6e518fa487a8f5f3fd411c85dab6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bab17d831dbba14e79b85f645db576ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838841,
+            "locality_id":101786727,
+            "region_id":85681687,
+            "venue_id":1092052117
+        }
+    ],
     "wof:id":1092052117,
-    "wof:lastmodified":1473983742,
+    "wof:lastmodified":1496909546,
     "wof:name":"Gasthaus zur Schieferwiese Zisser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

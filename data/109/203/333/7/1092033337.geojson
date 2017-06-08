@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0741100311,47.8045272827,13.0741100311,47.8045272827",
     "geom:latitude":47.804527,
     "geom:longitude":13.07411,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897858,
-    "wof:geomhash":"1b087ead204a82396b7cbe76d8adebc7",
+    "wof:geomhash":"bb0c03c6da9d9034daa53899a2abe67e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092033337
         }
     ],
     "wof:id":1092033337,
-    "wof:lastmodified":1473984010,
+    "wof:lastmodified":1496894418,
     "wof:name":"Thaller Helmuth",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

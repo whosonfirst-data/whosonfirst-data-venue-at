@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3936920166,47.2582702637,11.3936920166,47.2582702637",
     "geom:latitude":47.25827,
     "geom:longitude":11.393692,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895782,
-    "wof:geomhash":"644618eec0e2268027a117693d3f37e7",
+    "wof:geomhash":"7cfae3c565b0c3cdc42e3ac012be2de4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091982175
         }
     ],
     "wof:id":1091982175,
-    "wof:lastmodified":1473983489,
+    "wof:lastmodified":1496899455,
     "wof:name":"Fritz Franz",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0996875763,47.3180961609,13.0996875763,47.3180961609",
     "geom:latitude":47.318096,
     "geom:longitude":13.099688,
@@ -28,17 +29,33 @@
     "sg:postcode":"5622",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837009,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oR0rJmQaJGWGEak7iXKG4_47.318096_13.099688@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898451,
-    "wof:geomhash":"56101759ddfc4e09f79e151967ed15ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a64dc0b6fd2b057c0a3454940e0ac6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837009,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092048459
+        }
+    ],
     "wof:id":1092048459,
-    "wof:lastmodified":1473984256,
+    "wof:lastmodified":1496893944,
     "wof:name":"Hotel Seehof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

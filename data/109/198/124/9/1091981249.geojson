@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6995229721,48.2832489014,15.6995229721,48.2832489014",
     "geom:latitude":48.283249,
     "geom:longitude":15.699523,
@@ -31,17 +32,34 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        101784543,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CU10VjHmEZzYyoTCiYtpV_48.283249_15.699523@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895748,
-    "wof:geomhash":"06adcdb694d26df99289801488182e73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15c499a15656bf3de23569426ef582bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":101784543,
+            "region_id":85681671,
+            "venue_id":1091981249
+        }
+    ],
     "wof:id":1091981249,
-    "wof:lastmodified":1473983304,
+    "wof:lastmodified":1496890038,
     "wof:name":"GEORG FISCHER AUTOMOBILGUSS AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

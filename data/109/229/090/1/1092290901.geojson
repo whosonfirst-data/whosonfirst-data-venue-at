@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5514221191,47.8480796814,16.5514221191,47.8480796814",
     "geom:latitude":47.84808,
     "geom:longitude":16.551422,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"windpool.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77paC2mdIm1rqOW1LGYoGk_47.848080_16.551422@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909477,
-    "wof:geomhash":"52f1a2428fb334f8472620d964656a11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f99b02ca3832316d165176ea4514594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092290901
+        }
+    ],
     "wof:id":1092290901,
-    "wof:lastmodified":1473983525,
+    "wof:lastmodified":1496908883,
     "wof:name":"Richard Wind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

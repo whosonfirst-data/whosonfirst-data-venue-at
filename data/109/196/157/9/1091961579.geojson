@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2085781097,46.630645752,14.2085781097,46.630645752",
     "geom:latitude":46.630646,
     "geom:longitude":14.208578,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"www.roesslgut.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838175,
+        85632785,
+        101754115,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZdilASpVDBHY3CsB564so_46.630646_14.208578@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894889,
-    "wof:geomhash":"4056d3752d54d25094d6a66fa9ea40b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa47618d508dad46b5bbfa83f2277a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838175,
+            "locality_id":101754115,
+            "region_id":85681655,
+            "venue_id":1091961579
+        }
+    ],
     "wof:id":1091961579,
-    "wof:lastmodified":1473983526,
+    "wof:lastmodified":1496906409,
     "wof:name":"Reitstall R\u00f6sslgut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

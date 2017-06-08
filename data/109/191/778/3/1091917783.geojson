@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2493152618,48.2046203613,14.2493152618,48.2046203613",
     "geom:latitude":48.20462,
     "geom:longitude":14.249315,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.power-sun.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835519,
+        85632785,
+        101831935,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SXA9O3WV19p9fWu3iHbty_48.204620_14.249315@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892907,
-    "wof:geomhash":"0c8a5d386814f8eaec1a81981388fc20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a08e1601a0c1f83f54d8e62ec7b3f2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835519,
+            "locality_id":101831935,
+            "region_id":85681677,
+            "venue_id":1091917783
+        }
+    ],
     "wof:id":1091917783,
-    "wof:lastmodified":1473984444,
+    "wof:lastmodified":1496887036,
     "wof:name":"Power Sun Sonnen- & Nagelstudio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

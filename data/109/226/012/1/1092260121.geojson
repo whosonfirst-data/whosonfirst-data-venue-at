@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5836791992,47.5411987305,16.5836791992,47.5411987305",
     "geom:latitude":47.541199,
     "geom:longitude":16.583679,
@@ -23,17 +24,33 @@
     "sg:postcode":"7304",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838645,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QuJM159VKBqKzVlksRu8i_47.541199_16.583679@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908163,
-    "wof:geomhash":"3941a205c0906826cef7744b6e02965a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"205796cd69b416c2f8d34bcd588101cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838645,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092260121
+        }
+    ],
     "wof:id":1092260121,
-    "wof:lastmodified":1473983354,
+    "wof:lastmodified":1496908965,
     "wof:name":"Transporte Buchecker-Szucsich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

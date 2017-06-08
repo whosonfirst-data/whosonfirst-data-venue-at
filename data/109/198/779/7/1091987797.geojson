@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6427783966,47.1552963257,14.6427783966,47.1552963257",
     "geom:latitude":47.155296,
     "geom:longitude":14.642778,
@@ -34,17 +35,33 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839401,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2weLeZXUe6625e5OyiMolS_47.155296_14.642778@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896004,
-    "wof:geomhash":"142e176fd455cae372d834c5027a3058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e8c1783cb81b560f29d6af5afbf90ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839401,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091987797
+        }
+    ],
     "wof:id":1091987797,
-    "wof:lastmodified":1473984323,
+    "wof:lastmodified":1496913955,
     "wof:name":"Manfred Kaufmann jun.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

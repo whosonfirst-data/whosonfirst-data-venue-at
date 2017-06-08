@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2566976547,47.4493217468,12.2566976547,47.4493217468",
     "geom:latitude":47.449322,
     "geom:longitude":12.256698,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jLXe8Uc2oj1qFgaBqhwuI_47.449322_12.256698@1306268272"
     },
     "wof:country":"AT",
     "wof:created":1473901602,
-    "wof:geomhash":"bacfd12e4543263ae17bc5b3e3c05469",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a895c199d05ed381ed3beea8c86bcf1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092116627
+        }
+    ],
     "wof:id":1092116627,
-    "wof:lastmodified":1473984766,
+    "wof:lastmodified":1496897257,
     "wof:name":"Fuchs Peter Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2528591156,48.225730896,16.2528591156,48.225730896",
     "geom:latitude":48.225731,
     "geom:longitude":16.252859,
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898355,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +45,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897115,
-    "wof:geomhash":"446a246c0ddbc57f1e694e46d9774a08",
+    "wof:geomhash":"693e35ca6b35449758906f4b23047206",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898355,
             "region_id":85681667,
             "venue_id":1092014029
         }
     ],
     "wof:id":1092014029,
-    "wof:lastmodified":1473983653,
+    "wof:lastmodified":1496928657,
     "wof:name":"VA TECH ELIN GMBH",
     "wof:parent_id":85898355,
     "wof:placetype":"venue",

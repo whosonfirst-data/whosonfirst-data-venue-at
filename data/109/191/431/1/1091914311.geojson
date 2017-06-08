@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8109817505,48.0799255371,14.8109817505,48.0799255371",
     "geom:latitude":48.079926,
     "geom:longitude":14.810982,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101833229,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48gysuMt3Zj46d4FvgaH6C_48.079926_14.810982@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892761,
-    "wof:geomhash":"22dccd35fce4e062b89bac7d0225ea3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a49d4f4922cdd22f41c7a9eaa50671f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101833229,
+            "region_id":85681671,
+            "venue_id":1091914311
+        }
+    ],
     "wof:id":1091914311,
-    "wof:lastmodified":1473983844,
+    "wof:lastmodified":1496883377,
     "wof:name":"Klinger Uwe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

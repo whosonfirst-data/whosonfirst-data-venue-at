@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0529127121,47.2336235046,12.0529127121,47.2336235046",
     "geom:latitude":47.233624,
     "geom:longitude":12.052913,
@@ -23,17 +24,33 @@
     "sg:postcode":"6281",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837867,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vvmhGoiJpLW4SoH0hlWiH_47.233624_12.052913@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908763,
-    "wof:geomhash":"185f30343976e49f0cb9422640046914",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75229c9c2d4593f935449844c22159dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837867,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092273947
+        }
+    ],
     "wof:id":1092273947,
-    "wof:lastmodified":1473984332,
+    "wof:lastmodified":1496900328,
     "wof:name":"Millinger Werner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

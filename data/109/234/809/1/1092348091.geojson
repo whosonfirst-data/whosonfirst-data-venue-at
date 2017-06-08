@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.415719986,47.2579307556,11.415719986,47.2579307556",
     "geom:latitude":47.257931,
     "geom:longitude":11.41572,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911974,
-    "wof:geomhash":"af1f7ef9114b252a99f2158574c7d267",
+    "wof:geomhash":"35fd80ff25426160e27c38f20d3b81a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092348091
         }
     ],
     "wof:id":1092348091,
-    "wof:lastmodified":1473984894,
+    "wof:lastmodified":1496899554,
     "wof:name":"MRTI-E Riedl",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

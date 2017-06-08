@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3963813782,47.2612609863,11.3963813782,47.2612609863",
     "geom:latitude":47.261261,
     "geom:longitude":11.396381,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915016,
-    "wof:geomhash":"742b6b55fa8534fdff65d42a6e84d478",
+    "wof:geomhash":"28ae4c212f0903f946923bd3f1ee419c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092412255
         }
     ],
     "wof:id":1092412255,
-    "wof:lastmodified":1473983788,
+    "wof:lastmodified":1496899290,
     "wof:name":"ON AIR-OFF AIR Rundfunktechnik",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

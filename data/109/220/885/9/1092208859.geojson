@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8232479095,47.2860488892,12.8232479095,47.2860488892",
     "geom:latitude":47.286049,
     "geom:longitude":12.823248,
@@ -23,17 +24,33 @@
     "sg:postcode":"5671",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6flPJl7VYsVtwI8IvZLUAL_47.286049_12.823248@1306268286"
     },
     "wof:country":"AT",
     "wof:created":1473905902,
-    "wof:geomhash":"eb4ebbc6b183b61a138246b74a8b913f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c7d0896b7301bb81e271493c2923262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092208859
+        }
+    ],
     "wof:id":1092208859,
-    "wof:lastmodified":1473985110,
+    "wof:lastmodified":1496895894,
     "wof:name":"Herzog Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

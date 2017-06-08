@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0882930756,47.7511520386,13.0882930756,47.7511520386",
     "geom:latitude":47.751152,
     "geom:longitude":13.088293,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903058,
-    "wof:geomhash":"34cabb8f9521241b4aadf3e445493765",
+    "wof:geomhash":"06ecd9ff749cf81a0d4b6de5eb145685",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092146735
         }
     ],
     "wof:id":1092146735,
-    "wof:lastmodified":1473984671,
+    "wof:lastmodified":1496895280,
     "wof:name":"Geretsegger-Glaser Renate Dipl-Graph",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

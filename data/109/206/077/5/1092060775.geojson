@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6184692383,48.4570388794,13.6184692383,48.4570388794",
     "geom:latitude":48.457039,
     "geom:longitude":13.618469,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"wiesinger-bad.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836067,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aASnfOszII8ZeCRhiDESZ_48.457039_13.618469@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898933,
-    "wof:geomhash":"0704622d6614b7b3332d8d5a48a97bc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5aeb931ae4457131845f2cf51f331a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836067,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092060775
+        }
+    ],
     "wof:id":1092060775,
-    "wof:lastmodified":1473983564,
+    "wof:lastmodified":1496889369,
     "wof:name":"Walter Wiesinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

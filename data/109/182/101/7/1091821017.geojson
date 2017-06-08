@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3794403076,48.0802307129,16.3794403076,48.0802307129",
     "geom:latitude":48.080231,
     "geom:longitude":16.37944,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888395,
-    "wof:geomhash":"0e6791cff85db810f41064a71d88dfe8",
+    "wof:geomhash":"c352c381aae09b57834cb0e11de6d7cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1091821017
         }
     ],
     "wof:id":1091821017,
-    "wof:lastmodified":1473983614,
+    "wof:lastmodified":1496893376,
     "wof:name":"Bahnhof Achau",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

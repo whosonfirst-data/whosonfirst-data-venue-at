@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9417495728,48.4254837036,13.9417495728,48.4254837036",
     "geom:latitude":48.425484,
     "geom:longitude":13.94175,
@@ -34,17 +35,33 @@
         "moped"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835959,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B1fUwTVaE0Jq2Z7eYdc64_48.425484_13.941750@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890473,
-    "wof:geomhash":"59cfa755ad674fa6ad4707159db4f7eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d478915e7a8637b2f1aaf28d74aae96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835959,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091865761
+        }
+    ],
     "wof:id":1091865761,
-    "wof:lastmodified":1473984702,
+    "wof:lastmodified":1496889087,
     "wof:name":"Karl Grabner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

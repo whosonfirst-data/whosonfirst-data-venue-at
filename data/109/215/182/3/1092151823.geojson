@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3553009033,48.2760353088,16.3553009033,48.2760353088",
     "geom:latitude":48.276035,
     "geom:longitude":16.355301,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898317,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903293,
-    "wof:geomhash":"f42a6abdb1da8ebb399868a69791ac15",
+    "wof:geomhash":"e0d9b15ef9a629534ca063c2a0e4891c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898317,
             "region_id":85681667,
             "venue_id":1092151823
         }
     ],
     "wof:id":1092151823,
-    "wof:lastmodified":1473983638,
+    "wof:lastmodified":1496903289,
     "wof:name":"Naturfreunde \u00f6sterreich",
     "wof:parent_id":85898317,
     "wof:placetype":"venue",

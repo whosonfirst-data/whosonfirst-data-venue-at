@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2166118622,47.578666687,16.2166118622,47.578666687",
     "geom:latitude":47.578667,
     "geom:longitude":16.216612,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836721,
+        85632785,
+        102049787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zRDQ6bAID4w2bIzfZHZrF_47.578667_16.216612@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905067,
-    "wof:geomhash":"dff29f4b4ec773bb0b835217f5705930",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6b4ec8e2b47fdf4d5f98ed3b1d90c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108836721,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092190937
+        }
+    ],
     "wof:id":1092190937,
-    "wof:lastmodified":1473983477,
+    "wof:lastmodified":1496892498,
     "wof:name":"Josef Schiefer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4223270416,47.4373435974,12.4223270416,47.4373435974",
     "geom:latitude":47.437344,
     "geom:longitude":12.422327,
@@ -23,17 +24,33 @@
     "sg:postcode":"6370",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7drscwJTabAiXXGJ5ACsqO_47.437344_12.422327@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909666,
-    "wof:geomhash":"c36fb5bf9dc32fc2f949c221aa2a4c0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89b63a4341c13ad986ec7f3aebc20ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092295303
+        }
+    ],
     "wof:id":1092295303,
-    "wof:lastmodified":1473984533,
+    "wof:lastmodified":1496897193,
     "wof:name":"Haus Conny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

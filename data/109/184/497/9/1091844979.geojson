@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2780122757,47.230014801,11.2780122757,47.230014801",
     "geom:latitude":47.230015,
     "geom:longitude":11.278012,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889474,
-    "wof:geomhash":"d650279d4dcab52e2ff2a8c62ed87c92",
+    "wof:geomhash":"c04abe84dac452f0456714183660ee41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091844979
         }
     ],
     "wof:id":1091844979,
-    "wof:lastmodified":1473984221,
+    "wof:lastmodified":1496898031,
     "wof:name":"Mair Walter + Martin Baustoffe + Holzhandel GnbR",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.683848381,47.3279876709,11.683848381,47.3279876709",
     "geom:latitude":47.327988,
     "geom:longitude":11.683848,
@@ -23,17 +24,33 @@
     "sg:postcode":"6134",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837711,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JcpALlUfT1sI1ljMyvX8u_47.327988_11.683848@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914921,
-    "wof:geomhash":"0912620b33cd0fc2e7c975bff6c588af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30a15a3b6d317a14e81da64f2d1877c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837711,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092410893
+        }
+    ],
     "wof:id":1092410893,
-    "wof:lastmodified":1473983483,
+    "wof:lastmodified":1496899713,
     "wof:name":"Grassl Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

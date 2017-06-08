@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3452701569,47.519821167,12.3452701569,47.519821167",
     "geom:latitude":47.519821,
     "geom:longitude":12.34527,
@@ -23,17 +24,33 @@
     "sg:postcode":"6353",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837363,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LHE2ddiEDQfWzVJdC65Jb_47.519821_12.345270@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913016,
-    "wof:geomhash":"0994ff2570f4951bb027ea5eed34bd82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f02caa57e64b0af673e3c4e87d9ddf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837363,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092369991
+        }
+    ],
     "wof:id":1092369991,
-    "wof:lastmodified":1473985328,
+    "wof:lastmodified":1496897304,
     "wof:name":"Pension Bergland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

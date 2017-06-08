@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2440776825,47.2521362305,16.2440776825,47.2521362305",
     "geom:latitude":47.252136,
     "geom:longitude":16.244078,
@@ -23,17 +24,33 @@
     "sg:postcode":"7501",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838497,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IHyp4ikekSubLr92EZ9Bb_47.252136_16.244078@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899232,
-    "wof:geomhash":"086a078168a84a35884d1ef93b2daa1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42a8a5d33e0e56ad98bbde537a29fe9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838497,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092068033
+        }
+    ],
     "wof:id":1092068033,
-    "wof:lastmodified":1473984917,
+    "wof:lastmodified":1496908249,
     "wof:name":"Gasthaus Peters Keller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

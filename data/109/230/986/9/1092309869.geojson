@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5339050293,48.2590179443,16.5339050293,48.2590179443",
     "geom:latitude":48.259018,
     "geom:longitude":16.533905,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910355,
-    "wof:geomhash":"2e7ee2e09953040c86ccfc8a12fafb0c",
+    "wof:geomhash":"df3e6b69e4b04aec821832511f88d314",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092309869
         }
     ],
     "wof:id":1092309869,
-    "wof:lastmodified":1473985319,
+    "wof:lastmodified":1496904477,
     "wof:name":"Biener Robert",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

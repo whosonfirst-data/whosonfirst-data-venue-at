@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3966588974,47.2793388367,11.3966588974,47.2793388367",
     "geom:latitude":47.279339,
     "geom:longitude":11.396659,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916034,
-    "wof:geomhash":"4739080264a7423ab1010beff304b891",
+    "wof:geomhash":"18506e92256d52b899f3ab898942eb3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092432675
         }
     ],
     "wof:id":1092432675,
-    "wof:lastmodified":1473983817,
+    "wof:lastmodified":1496899406,
     "wof:name":"Institut f Verkehr & Tourismus",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

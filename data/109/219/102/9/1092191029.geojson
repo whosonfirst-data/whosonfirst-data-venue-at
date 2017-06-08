@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7677602768,48.0560798645,13.7677602768,48.0560798645",
     "geom:latitude":48.05608,
     "geom:longitude":13.76776,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836503,
+        85632785,
+        101785665,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41L6krmAVBe1ldVmTpr9ey_48.056080_13.767760@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905071,
-    "wof:geomhash":"5ff3881ac922091ad8a0b6f8f94d283e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5db6f6c5415e74c0f1690b7fdf1074d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836503,
+            "locality_id":101785665,
+            "region_id":85681677,
+            "venue_id":1092191029
+        }
+    ],
     "wof:id":1092191029,
-    "wof:lastmodified":1473983496,
+    "wof:lastmodified":1496891381,
     "wof:name":"HB-TECHNIK GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

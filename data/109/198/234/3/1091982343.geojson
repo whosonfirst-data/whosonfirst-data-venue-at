@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0938777924,48.1949958801,14.0938777924,48.1949958801",
     "geom:latitude":48.194996,
     "geom:longitude":14.093878,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.ngti.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836561,
+        85632785,
+        101754169,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ju0Ee8nEosbcnF5vHUkhL_48.194996_14.093878@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895788,
-    "wof:geomhash":"c88bf1879adf674b11a79e8faf86f2e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36467a119516efd968360178ff85fc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836561,
+            "locality_id":101754169,
+            "region_id":85681677,
+            "venue_id":1091982343
+        }
+    ],
     "wof:id":1091982343,
-    "wof:lastmodified":1473983478,
+    "wof:lastmodified":1496891672,
     "wof:name":"N.G.T.I. N\u00e4chste Generation Thermoprozesstechnik Industrieofensysteme GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

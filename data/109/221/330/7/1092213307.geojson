@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5038585663,48.2369918823,16.5038585663,48.2369918823",
     "geom:latitude":48.236992,
     "geom:longitude":16.503859,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906100,
-    "wof:geomhash":"28b6105ea063171981ff0d0bb0f75036",
+    "wof:geomhash":"fe21ddb70376c269b0df11d65b226d5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092213307
         }
     ],
     "wof:id":1092213307,
-    "wof:lastmodified":1473984104,
+    "wof:lastmodified":1496904475,
     "wof:name":"Mayr Manfred-Lama Chemie",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

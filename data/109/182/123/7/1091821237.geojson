@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6260108948,47.4676132202,12.6260108948,47.4676132202",
     "geom:latitude":47.467613,
     "geom:longitude":12.626011,
@@ -23,17 +24,34 @@
     "sg:postcode":"6395",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837339,
+        85632785,
+        101844541,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4StabvRIzulgBvyy2ZLCVb_47.467613_12.626011@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888406,
-    "wof:geomhash":"3ca05c71771772027192f1b37076253d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09487a912b99dd8d54f86872abe7f034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837339,
+            "locality_id":101844541,
+            "region_id":85681661,
+            "venue_id":1091821237
+        }
+    ],
     "wof:id":1091821237,
-    "wof:lastmodified":1473983633,
+    "wof:lastmodified":1496896974,
     "wof:name":"Bahnhof Hochfilzen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3048963547,46.8765449524,13.3048963547,46.8765449524",
     "geom:latitude":46.876545,
     "geom:longitude":13.304896,
@@ -22,17 +23,33 @@
     "sg:postcode":"9815",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838319,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lEiNIT7oaoeTuVnzpbOUh_46.876545_13.304896@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473888141,
-    "wof:geomhash":"97807934a79a1cced2cdd2207b71f8f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ed0c7ae24acd9da8292ff0cdbd21165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838319,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091815073
+        }
+    ],
     "wof:id":1091815073,
-    "wof:lastmodified":1473984481,
+    "wof:lastmodified":1496907284,
     "wof:name":"VERBUND-Austrian Hydro Power AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.100684166,47.6778907776,13.100684166,47.6778907776",
     "geom:latitude":47.677891,
     "geom:longitude":13.100684,
@@ -23,17 +24,34 @@
     "sg:postcode":"5400",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837091,
+        85632785,
+        101834319,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yx54eOQHn2nhFwnwWpTRQ_47.677891_13.100684@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897325,
-    "wof:geomhash":"967e53b3832f2cd463dcab9081161c46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d333f54041bc45e61196f00db60a7b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837091,
+            "locality_id":101834319,
+            "region_id":85681681,
+            "venue_id":1092019447
+        }
+    ],
     "wof:id":1092019447,
-    "wof:lastmodified":1473984738,
+    "wof:lastmodified":1496895036,
     "wof:name":"Evangelisches Pfarramt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

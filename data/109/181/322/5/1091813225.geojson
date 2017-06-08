@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4633989334,46.8788414001,14.4633989334,46.8788414001",
     "geom:latitude":46.878841,
     "geom:longitude":14.463399,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"mhs-messtechnik.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838201,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kgEZFIskmdSgaaVuuQbyd_46.878841_14.463399@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473888053,
-    "wof:geomhash":"6d085085751d78594ae5d6f1892ab47c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"669280b6879a7da7cefe9f96d0cbc8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838201,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091813225
+        }
+    ],
     "wof:id":1091813225,
-    "wof:lastmodified":1473983970,
+    "wof:lastmodified":1496906527,
     "wof:name":"MHS Messtechnik Hardware Software Josef Schaffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

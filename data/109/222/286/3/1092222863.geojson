@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7349624634,47.8598556519,13.7349624634,47.8598556519",
     "geom:latitude":47.859856,
     "geom:longitude":13.734962,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835121,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q7gTqj49EntFpBWZeUcsd_47.859856_13.734962@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906525,
-    "wof:geomhash":"e54881735dee19327908c37ebddc40e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aba5f07002ca70c0005a82816e1260e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835121,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092222863
+        }
+    ],
     "wof:id":1092222863,
-    "wof:lastmodified":1473984028,
+    "wof:lastmodified":1496884644,
     "wof:name":"Taxi Sickinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

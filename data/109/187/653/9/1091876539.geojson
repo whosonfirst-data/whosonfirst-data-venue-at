@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4131355286,48.2977256775,16.4131355286,48.2977256775",
     "geom:latitude":48.297726,
     "geom:longitude":16.413136,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890982,
-    "wof:geomhash":"ce290722b4a2d803c2d453c7d7e1b34e",
+    "wof:geomhash":"53d2b725017d7eb0ee68294db5d0f098",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1091876539
         }
     ],
     "wof:id":1091876539,
-    "wof:lastmodified":1473984522,
+    "wof:lastmodified":1496927949,
     "wof:name":"Kreutzer Katharina GmbH Funkfahrtendienst",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

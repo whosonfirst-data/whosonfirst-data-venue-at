@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7750377655,47.3850288391,11.7750377655,47.3850288391",
     "geom:latitude":47.385029,
     "geom:longitude":11.775038,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"www.jr-fensterbau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837877,
+        85632785,
+        101787875,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_672zYqoXSfoqf4XjdrkwYT_47.385029_11.775038@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914932,
-    "wof:geomhash":"385694766e03131cc1c332b4f8b7c085",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37d3927d19fe791c96efd781545b279f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837877,
+            "locality_id":101787875,
+            "region_id":85681661,
+            "venue_id":1092411101
+        }
+    ],
     "wof:id":1092411101,
-    "wof:lastmodified":1473983517,
+    "wof:lastmodified":1496900366,
     "wof:name":"J & R Fensterbau GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

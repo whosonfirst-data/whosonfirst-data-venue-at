@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8448047638,47.2382774353,15.8448047638,47.2382774353",
     "geom:latitude":47.238277,
     "geom:longitude":15.844805,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839125,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MEL9eUl1353YSXMv2WW1g_47.238277_15.844805@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905067,
-    "wof:geomhash":"f37cb6fe78ec8ad42e9b3f9878b9ea80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e5e1348cc669dec05178d9a67e7bd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839125,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092190933
+        }
+    ],
     "wof:id":1092190933,
-    "wof:lastmodified":1473983476,
+    "wof:lastmodified":1496911491,
     "wof:name":"Josef Haas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

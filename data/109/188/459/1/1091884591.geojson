@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6444549561,48.3517150879,13.6444549561,48.3517150879",
     "geom:latitude":48.351715,
     "geom:longitude":13.644455,
@@ -23,17 +24,34 @@
     "sg:postcode":"4760",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836053,
+        85632785,
+        101784605,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dVlRkiZvJJ8iGp2JoEAaG_48.351715_13.644455@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891347,
-    "wof:geomhash":"d2c29aaa6aa6f8be5071310abfc8b3e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e87fb84ede0f4677a2a55b5d3776f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836053,
+            "locality_id":101784605,
+            "region_id":85681677,
+            "venue_id":1091884591
+        }
+    ],
     "wof:id":1091884591,
-    "wof:lastmodified":1473984199,
+    "wof:lastmodified":1496889325,
     "wof:name":"B\u00e4ckerei-Cafe Buchegger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

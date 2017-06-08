@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2399702072,47.44713974,12.2399702072,47.44713974",
     "geom:latitude":47.44714,
     "geom:longitude":12.23997,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"rcbrixental.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XIys7q131bQCnNhZwzTk5_47.447140_12.239970@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894770,
-    "wof:geomhash":"d0a22f13a353048a4d8745a47e22dedd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85ad8bf8fc2f27e8b7c562ad254d8a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091958671
+        }
+    ],
     "wof:id":1091958671,
-    "wof:lastmodified":1473985263,
+    "wof:lastmodified":1496897263,
     "wof:name":"Reisecenter Brixental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

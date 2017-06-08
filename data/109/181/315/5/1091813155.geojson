@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4993839264,48.5861320496,16.4993839264,48.5861320496",
     "geom:latitude":48.586132,
     "geom:longitude":16.499384,
@@ -32,17 +33,33 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836781,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jc5f51a02sK2Wr2L2TkSQ_48.586132_16.499384@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473888051,
-    "wof:geomhash":"b7dac3632925fa5ad6a8eaa6ecb8a4d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f7610ab247f7a0e7063a466da10161d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836781,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091813155
+        }
+    ],
     "wof:id":1091813155,
-    "wof:lastmodified":1473983948,
+    "wof:lastmodified":1496892741,
     "wof:name":"Winter Transporte Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

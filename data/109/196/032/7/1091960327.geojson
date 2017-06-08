@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4783182144,48.21692276,14.4783182144,48.21692276",
     "geom:latitude":48.216923,
     "geom:longitude":14.478318,
@@ -25,10 +26,12 @@
     "sg:website":"http://www.ris.at/homes/limes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894836,
-    "wof:geomhash":"4db0a03075358ec167688f5b3631acda",
+    "wof:geomhash":"4a8f73048d0800b7a5b88d13e36240cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091960327
         }
     ],
     "wof:id":1091960327,
-    "wof:lastmodified":1473983358,
+    "wof:lastmodified":1496887075,
     "wof:name":"Hotel am Limes",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

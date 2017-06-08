@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9671211243,46.7747039795,13.9671211243,46.7747039795",
     "geom:latitude":46.774704,
     "geom:longitude":13.967121,
@@ -33,17 +34,33 @@
         "cooker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838127,
+        85632785,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5osGrJ8cs3fi7T4O8o0erg_46.774704_13.967121@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908390,
-    "wof:geomhash":"9eee828852df939532141cb33fd5dce9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91fad8579d273646ef13798988f87a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838127,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265143
+        }
+    ],
     "wof:id":1092265143,
-    "wof:lastmodified":1473984425,
+    "wof:lastmodified":1496905466,
     "wof:name":"Ulrich Saringer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

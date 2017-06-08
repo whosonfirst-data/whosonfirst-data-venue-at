@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0943212509,46.7240715027,14.0943212509,46.7240715027",
     "geom:latitude":46.724072,
     "geom:longitude":14.094321,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        101790125,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gJrHJVYfvKNoQyw93OoaQ_46.724072_14.094321@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892797,
-    "wof:geomhash":"174f9ec74c0a7975d6d22dae5fe2f2ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea5c61334d9d3a99f1c342cbcd8fb7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":101790125,
+            "region_id":85681655,
+            "venue_id":1091915175
+        }
+    ],
     "wof:id":1091915175,
-    "wof:lastmodified":1473983965,
+    "wof:lastmodified":1496905389,
     "wof:name":"R & S Software GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

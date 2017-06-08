@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3884315491,47.4555511475,12.3884315491,47.4555511475",
     "geom:latitude":47.455551,
     "geom:longitude":12.388432,
@@ -31,17 +32,34 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        101787927,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zQSiwM8J2GQhrKoPpBdoF_47.455551_12.388432@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889802,
-    "wof:geomhash":"e8e8cd42d609c791edacf9ea782e34be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6cb015f6aeed7dc1f94819ee8744d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":101787927,
+            "region_id":85681661,
+            "venue_id":1091851985
+        }
+    ],
     "wof:id":1091851985,
-    "wof:lastmodified":1473983689,
+    "wof:lastmodified":1496897185,
     "wof:name":"Tischlerei D\u00fcnser Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

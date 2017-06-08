@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3333072662,48.3460731506,16.3333072662,48.3460731506",
     "geom:latitude":48.346073,
     "geom:longitude":16.333307,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"opel-pruckner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZR4bbBmRcoU8jkSV0HAAM_48.346073_16.333307@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473888043,
-    "wof:geomhash":"cc4db5395d9771737a77d81323b7b41b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ba80464f34a45d770915eef055672bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1091812965
+        }
+    ],
     "wof:id":1091812965,
-    "wof:lastmodified":1473983954,
+    "wof:lastmodified":1496883666,
     "wof:name":"Pruckner Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

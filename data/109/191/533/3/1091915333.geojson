@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2818450928,48.2399520874,16.2818450928,48.2399520874",
     "geom:latitude":48.239952,
     "geom:longitude":16.281845,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898355,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892803,
-    "wof:geomhash":"0ce5dc8c31bfeba09968de352a886ced",
+    "wof:geomhash":"d33b94c57906c99e08e47d01f4584fb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898355,
             "region_id":85681667,
             "venue_id":1091915333
         }
     ],
     "wof:id":1091915333,
-    "wof:lastmodified":1473983989,
+    "wof:lastmodified":1496904171,
     "wof:name":"Schleidt-Schuller Andreas EDV Beratung-Programmentwicklung",
     "wof:parent_id":85898355,
     "wof:placetype":"venue",

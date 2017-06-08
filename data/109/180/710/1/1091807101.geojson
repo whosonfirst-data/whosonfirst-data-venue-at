@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3180360794,47.7734832764,15.3180360794,47.7734832764",
     "geom:latitude":47.773483,
     "geom:longitude":15.318036,
@@ -22,17 +23,34 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.lebkuchen-pirker.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839309,
+        85632785,
+        101785601,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tiQ8yQcLHBhM7cCweieeL_47.773483_15.318036@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473887767,
-    "wof:geomhash":"4048a1be3b5e4734d00c080de5d5165a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79b79e7170b64e700bbe0d266fc14b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839309,
+            "locality_id":101785601,
+            "region_id":85681687,
+            "venue_id":1091807101
+        }
+    ],
     "wof:id":1091807101,
-    "wof:lastmodified":1473983863,
+    "wof:lastmodified":1496912736,
     "wof:name":"PIRKER\u00b4S LEBKUCHEN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

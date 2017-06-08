@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4269275665,47.23777771,11.4269275665,47.23777771",
     "geom:latitude":47.237778,
     "geom:longitude":11.426928,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898328,
-    "wof:geomhash":"f3f9e2ed48cc510355c8673aa8f619a3",
+    "wof:geomhash":"839b17c34cf4088620dff80e7799e42c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092045241
         }
     ],
     "wof:id":1092045241,
-    "wof:lastmodified":1473983754,
+    "wof:lastmodified":1496898417,
     "wof:name":"Gesundheitszentrum Lanserhof",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

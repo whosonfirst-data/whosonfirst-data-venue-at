@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0739555359,47.797416687,13.0739555359,47.797416687",
     "geom:latitude":47.797417,
     "geom:longitude":13.073956,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903961,
-    "wof:geomhash":"1cd82af06ce9f4be37071f205469ad4f",
+    "wof:geomhash":"737014f5db9fc65b9feabd5c3c8042e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092166699
         }
     ],
     "wof:id":1092166699,
-    "wof:lastmodified":1473984709,
+    "wof:lastmodified":1496894747,
     "wof:name":"EDV - Train - COM - Kommunikation - Training - Beratung",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

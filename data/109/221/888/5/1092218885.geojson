@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0544967651,47.8637275696,13.0544967651,47.8637275696",
     "geom:latitude":47.863728,
     "geom:longitude":13.054497,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906357,
-    "wof:geomhash":"bc22f9b57bb5f6d2c019ee749c81ef76",
+    "wof:geomhash":"bd2c516ba80e187a1fa12a9a6edb8f6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092218885
         }
     ],
     "wof:id":1092218885,
-    "wof:lastmodified":1473985152,
+    "wof:lastmodified":1496895272,
     "wof:name":"Graf Lienhard",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

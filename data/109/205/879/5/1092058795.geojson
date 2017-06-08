@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0299472809,48.1745300293,14.0299472809,48.1745300293",
     "geom:latitude":48.17453,
     "geom:longitude":14.029947,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"oekoplant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s4r8LXFhWM2zT51WXAGhJ_48.174530_14.029947@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898856,
-    "wof:geomhash":"5be4e8ae47ae3c12546f4f8bb67846c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89587b6192c046eba1130c51c804e7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092058795
+        }
+    ],
     "wof:id":1092058795,
-    "wof:lastmodified":1473984839,
+    "wof:lastmodified":1496881847,
     "wof:name":"\u00f6koplant - M Roitner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

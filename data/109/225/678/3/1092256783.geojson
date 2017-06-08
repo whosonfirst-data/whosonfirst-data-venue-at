@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3732671738,47.2238960266,11.3732671738,47.2238960266",
     "geom:latitude":47.223896,
     "geom:longitude":11.373267,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908010,
-    "wof:geomhash":"ecd7f21455e38f2b687d20866f87050e",
+    "wof:geomhash":"db7a825fec8aa5f81a71e4800b512eca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092256783
         }
     ],
     "wof:id":1092256783,
-    "wof:lastmodified":1473984961,
+    "wof:lastmodified":1496898472,
     "wof:name":"Kofler Norbert Transporte-Erdbewegung GmbH & Co KEG",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

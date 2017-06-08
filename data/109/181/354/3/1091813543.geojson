@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7007713318,47.3464927673,11.7007713318,47.3464927673",
     "geom:latitude":47.346493,
     "geom:longitude":11.700771,
@@ -32,17 +33,34 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A1hl5OqLjCU7aEFMRWCGF_47.346493_11.700771@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473888067,
-    "wof:geomhash":"47aef0620ae5f3a2f1a9f2463b759a23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86526c2f8d47460ae07b200c9bd19072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1091813543
+        }
+    ],
     "wof:id":1091813543,
-    "wof:lastmodified":1473984118,
+    "wof:lastmodified":1496900143,
     "wof:name":"TYROLIT-SCHLEIFMITTELWERKE SWAROVSKI KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4599304199,48.2622947693,16.4599304199,48.2622947693",
     "geom:latitude":48.262295,
     "geom:longitude":16.45993,
@@ -25,10 +26,13 @@
     "sg:website":"pvs.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891202,
-    "wof:geomhash":"073d84cf6a5652e6fc839bbabe1846a5",
+    "wof:geomhash":"bbbe729d079c5d48934e9dd9edb555e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091881559
         }
     ],
     "wof:id":1091881559,
-    "wof:lastmodified":1473983681,
+    "wof:lastmodified":1496904355,
     "wof:name":"M\u00fcllsystem PVS Maschinenhandel GmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

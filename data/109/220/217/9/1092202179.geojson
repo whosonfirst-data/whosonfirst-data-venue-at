@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0383062363,48.2596702576,13.0383062363,48.2596702576",
     "geom:latitude":48.25967,
     "geom:longitude":13.038306,
@@ -32,17 +33,34 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        101913421,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37EqjXLXpbMcwLi4M8AftB_48.259670_13.038306@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905584,
-    "wof:geomhash":"82ee0ce0d210aa801ab79953b3fe15cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33386a18a24b4f1383ef750baa8ebcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":101913421,
+            "region_id":85681677,
+            "venue_id":1092202179
+        }
+    ],
     "wof:id":1092202179,
-    "wof:lastmodified":1473983861,
+    "wof:lastmodified":1496882251,
     "wof:name":"G & M PHARMA GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2600345612,48.1953811646,16.2600345612,48.1953811646",
     "geom:latitude":48.195381,
     "geom:longitude":16.260035,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895197,
-    "wof:geomhash":"5462b885532b7b14c66bbffa137a7636",
+    "wof:geomhash":"4722f2c76de4d4d786ddbc994f8a7099",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091969097
         }
     ],
     "wof:id":1091969097,
-    "wof:lastmodified":1473984778,
+    "wof:lastmodified":1496902768,
     "wof:name":"China-Restaurant Auhof",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8455228806,47.6727867126,15.8455228806,47.6727867126",
     "geom:latitude":47.672787,
     "geom:longitude":15.845523,
@@ -28,17 +29,33 @@
     "sg:postcode":"2650",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836841,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37wnFQ26OPajQPPAXf5Huz_47.672787_15.845523@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898480,
-    "wof:geomhash":"09ff953d928730c3dcae86e384496fb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13f7f2071fe711ed28818a0d513c67a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108836841,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092049271
+        }
+    ],
     "wof:id":1092049271,
-    "wof:lastmodified":1473984412,
+    "wof:lastmodified":1496893005,
     "wof:name":"Hotel-Alpenhof Looshaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

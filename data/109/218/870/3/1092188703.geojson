@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.345618248,47.2654914856,11.345618248,47.2654914856",
     "geom:latitude":47.265491,
     "geom:longitude":11.345618,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904969,
-    "wof:geomhash":"22f3a08445788cef486c5964219cba6f",
+    "wof:geomhash":"635ca084af52556647797805fea5e75c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092188703
         }
     ],
     "wof:id":1092188703,
-    "wof:lastmodified":1473985038,
+    "wof:lastmodified":1496899355,
     "wof:name":"Action & Fun Rafting - Haberfellner Werner",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

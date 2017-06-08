@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3008594513,48.3227272034,16.3008594513,48.3227272034",
     "geom:latitude":48.322727,
     "geom:longitude":16.300859,
@@ -32,17 +33,34 @@
         "decoration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834829,
+        85632785,
+        101754227,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hi6YB8e7dvw31xdrBn1CM_48.322727_16.300859@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896380,
-    "wof:geomhash":"d4960648a0c884378977c0fd1bdcfeb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b0d69a8cb937b0062de0fe1aa9b613b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108834829,
+            "locality_id":101754227,
+            "region_id":85681671,
+            "venue_id":1091996245
+        }
+    ],
     "wof:id":1091996245,
-    "wof:lastmodified":1473984577,
+    "wof:lastmodified":1496882795,
     "wof:name":"Manfred Hanzal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

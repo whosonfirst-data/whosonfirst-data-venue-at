@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.771147728,47.8050193787,14.771147728,47.8050193787",
     "geom:latitude":47.805019,
     "geom:longitude":14.771148,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836847,
+        85632785,
+        102049801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lEwMB8AGc6Tw03afJR7k5_47.805019_14.771148@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908455,
-    "wof:geomhash":"fea71932eb0964701be246d192903ca9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc09af046a5b3b9b3c3bbab8e2f94c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049801,
+            "localadmin_id":1108836847,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092266585
+        }
+    ],
     "wof:id":1092266585,
-    "wof:lastmodified":1473984589,
+    "wof:lastmodified":1496893020,
     "wof:name":"FRANZ SCHOISENGEIER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

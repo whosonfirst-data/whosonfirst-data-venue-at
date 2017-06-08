@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2567615509,48.1163368225,16.2567615509,48.1163368225",
     "geom:latitude":48.116337,
     "geom:longitude":16.256762,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895802,
-    "wof:geomhash":"3e2490197c94de450ff714d1319a6e4c",
+    "wof:geomhash":"0f135e7077f45ab00707542e8137d725",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091982695
         }
     ],
     "wof:id":1091982695,
-    "wof:lastmodified":1473983559,
+    "wof:lastmodified":1496885832,
     "wof:name":"TRADEWINDS HANDELSGES.MBH",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

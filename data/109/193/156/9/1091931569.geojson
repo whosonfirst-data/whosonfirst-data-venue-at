@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5192089081,48.2131996155,16.5192089081,48.2131996155",
     "geom:latitude":48.2132,
     "geom:longitude":16.519209,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893573,
-    "wof:geomhash":"5d47bdb22971214bd49f35af3a7a94a0",
+    "wof:geomhash":"629a0e0ddca779f4e78d900473ca5971",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091931569
         }
     ],
     "wof:id":1091931569,
-    "wof:lastmodified":1473983704,
+    "wof:lastmodified":1496902635,
     "wof:name":"SV Essling",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

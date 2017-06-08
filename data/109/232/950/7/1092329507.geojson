@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4697999954,46.6648216248,15.4697999954,46.6648216248",
     "geom:latitude":46.664822,
     "geom:longitude":15.4698,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"reiterergerold.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839043,
+        85632785,
+        102049699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S72S2yN6ohDbYbw5vCsc1_46.664822_15.469800@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911193,
-    "wof:geomhash":"f32ec4071aa9efb712a23f1724884081",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5ddbf7a44a2658809cb780b036b5192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839043,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092329507
+        }
+    ],
     "wof:id":1092329507,
-    "wof:lastmodified":1473985277,
+    "wof:lastmodified":1496911001,
     "wof:name":"Reiterer Gerold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

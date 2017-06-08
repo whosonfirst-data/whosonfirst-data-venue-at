@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5022888184,47.5894851685,16.5022888184,47.5894851685",
     "geom:latitude":47.589485,
     "geom:longitude":16.502289,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838693,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HHPUqqFiiXHjjc2pHxLLY_47.589485_16.502289@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914140,
-    "wof:geomhash":"c6434724e18e2c3402dbe84949ba6e91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41ad399e5b7a2210a4b7a33769c9d8a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838693,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092393573
+        }
+    ],
     "wof:id":1092393573,
-    "wof:lastmodified":1473983848,
+    "wof:lastmodified":1496909115,
     "wof:name":"Postamt 7321 Lackendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0816068649,47.8035545349,13.0816068649,47.8035545349",
     "geom:latitude":47.803555,
     "geom:longitude":13.081607,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908232,
-    "wof:geomhash":"88d09938b0ea906a23ac1745ed63e402",
+    "wof:geomhash":"b8708b91e9a3030ff06e8a01c3160dd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092261461
         }
     ],
     "wof:id":1092261461,
-    "wof:lastmodified":1473983666,
+    "wof:lastmodified":1496922868,
     "wof:name":"Mobil Verm\u00f6gensverwaltung GesmbH",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

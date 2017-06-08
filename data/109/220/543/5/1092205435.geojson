@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4067401886,46.8597869873,15.4067401886,46.8597869873",
     "geom:latitude":46.859787,
     "geom:longitude":15.40674,
@@ -32,17 +33,33 @@
         "milling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839289,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JpeTO4KrrHSeE9zlaOmJi_46.859787_15.406740@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905760,
-    "wof:geomhash":"e771a6db5cc31c4d5284e7cf8c0aa64d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a0f73677759379695e3de948352fb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839289,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092205435
+        }
+    ],
     "wof:id":1092205435,
-    "wof:lastmodified":1473984566,
+    "wof:lastmodified":1496912515,
     "wof:name":"Galli Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

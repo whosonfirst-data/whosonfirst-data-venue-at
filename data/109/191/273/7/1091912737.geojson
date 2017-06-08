@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5878429413,48.2074775696,15.5878429413,48.2074775696",
     "geom:latitude":48.207478,
     "geom:longitude":15.587843,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836803,
+        85632785,
+        102049849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43sImgiJ5XvR7tFUsJaObU_48.207478_15.587843@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892673,
-    "wof:geomhash":"9a1c3b9942be6cfded700ec177bbb978",
-    "wof:hierarchy":[],
+    "wof:geomhash":"155205e4992e689b1baa12987c07b07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049849,
+            "localadmin_id":1108836803,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091912737
+        }
+    ],
     "wof:id":1091912737,
-    "wof:lastmodified":1473983613,
+    "wof:lastmodified":1496892807,
     "wof:name":"B\u00e4ren-Datentechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

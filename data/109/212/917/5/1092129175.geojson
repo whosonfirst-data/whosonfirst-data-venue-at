@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5967845917,47.2381515503,9.5967845917,47.2381515503",
     "geom:latitude":47.238152,
     "geom:longitude":9.596785,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902231,
-    "wof:geomhash":"30d273190e8a04999533a9bb057bcf1d",
+    "wof:geomhash":"16498c1a7e6390b5af63405012481d1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092129175
         }
     ],
     "wof:id":1092129175,
-    "wof:lastmodified":1473985244,
+    "wof:lastmodified":1496900923,
     "wof:name":"Orthop\u00e4dietechnik Mayer",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

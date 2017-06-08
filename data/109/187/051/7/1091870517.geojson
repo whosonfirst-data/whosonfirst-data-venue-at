@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.334444046,48.3424491882,16.334444046,48.3424491882",
     "geom:latitude":48.342449,
     "geom:longitude":16.334444,
@@ -34,17 +35,34 @@
         "glucose"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WhhyrG8l2Ss681kHlPeUi_48.342449_16.334444@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890683,
-    "wof:geomhash":"4da1582752d98bfd06c74406cb3f804b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f2fc818008c3d586d8af6e713e3581f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1091870517
+        }
+    ],
     "wof:id":1091870517,
-    "wof:lastmodified":1473983382,
+    "wof:lastmodified":1496883682,
     "wof:name":"Robert Giendl Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

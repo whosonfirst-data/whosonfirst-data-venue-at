@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6728420258,47.8005218506,16.6728420258,47.8005218506",
     "geom:latitude":47.800522,
     "geom:longitude":16.672842,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.bnet.co.at/rust/akademie.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kdpiYjYD4OQul2AeqwB8m_47.800522_16.672842@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892564,
-    "wof:geomhash":"2c11a39f4d5eead9fffecfa0ec483426",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f909e081c261be9d523b21b16bcffdf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1091910381
+        }
+    ],
     "wof:id":1091910381,
-    "wof:lastmodified":1473983327,
+    "wof:lastmodified":1496909073,
     "wof:name":"Weinbau Beilschmidt - Rust im Burgenland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

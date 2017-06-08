@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0668001175,47.7307777405,13.0668001175,47.7307777405",
     "geom:latitude":47.730778,
     "geom:longitude":13.0668,
@@ -33,10 +34,12 @@
     "sg:website":"gtb.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891187,
-    "wof:geomhash":"99110aa8caf46c33bab57a767b4a669a",
+    "wof:geomhash":"1c7cc9199c984559c292211f44031de9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1091881159
         }
     ],
     "wof:id":1091881159,
-    "wof:lastmodified":1473983638,
+    "wof:lastmodified":1496895176,
     "wof:name":"GTB Ges. f\u00fcr Tief- und Br\u00fcckenbau GmbH",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

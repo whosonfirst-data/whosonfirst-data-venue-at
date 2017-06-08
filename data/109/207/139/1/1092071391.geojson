@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2114915848,47.2574234009,11.2114915848,47.2574234009",
     "geom:latitude":47.257423,
     "geom:longitude":11.211492,
@@ -23,17 +24,33 @@
     "sg:postcode":"6175",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837661,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_009ffB4hGCpiA8mCk8rchW_47.257423_11.211492@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899362,
-    "wof:geomhash":"a217c1d44ad0bcbbde199f24ed377c51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a39a8071bddfadbf241dddce60707ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837661,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092071391
+        }
+    ],
     "wof:id":1092071391,
-    "wof:lastmodified":1473983602,
+    "wof:lastmodified":1496899040,
     "wof:name":"Gasthaus-Pension Falkner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

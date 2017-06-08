@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2698421478,47.251033783,11.2698421478,47.251033783",
     "geom:latitude":47.251034,
     "geom:longitude":11.269842,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902021,
-    "wof:geomhash":"0224edc272141c456c88f039fdf31607",
+    "wof:geomhash":"446fc8a6f23ccdc75ed98d876c62669f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092125473
         }
     ],
     "wof:id":1092125473,
-    "wof:lastmodified":1473984431,
+    "wof:lastmodified":1496898653,
     "wof:name":"Ripfl Josef",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

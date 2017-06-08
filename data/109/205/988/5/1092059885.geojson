@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2350463867,48.2223854065,14.2350463867,48.2223854065",
     "geom:latitude":48.222385,
     "geom:longitude":14.235046,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        101754215,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i5xVHgC9GZOCSNvG4UIMq_48.222385_14.235046@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898894,
-    "wof:geomhash":"ab01c020f4129a37ac7df4fa308be5e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ef512ee52f5991a4294d07bd275d630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":101754215,
+            "region_id":85681677,
+            "venue_id":1092059885
+        }
+    ],
     "wof:id":1092059885,
-    "wof:lastmodified":1473985197,
+    "wof:lastmodified":1496887404,
     "wof:name":"Franz Mitterlehner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

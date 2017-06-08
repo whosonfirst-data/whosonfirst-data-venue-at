@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.078253746,48.1767807007,15.078253746,48.1767807007",
     "geom:latitude":48.176781,
     "geom:longitude":15.078254,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835759,
+        85632785,
+        101784567,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GWZ4euyiUMVdBpr5jTg4W_48.176781_15.078254@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898886,
-    "wof:geomhash":"23c01de0ac2e2e03ee2d97f626a69de7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"896ae939345b3efaedac6d4e67268bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835759,
+            "locality_id":101784567,
+            "region_id":85681671,
+            "venue_id":1092059661
+        }
+    ],
     "wof:id":1092059661,
-    "wof:lastmodified":1473985153,
+    "wof:lastmodified":1496888225,
     "wof:name":"Albert St\u00f6ger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

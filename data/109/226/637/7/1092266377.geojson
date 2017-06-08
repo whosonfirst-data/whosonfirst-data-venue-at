@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6371917725,46.7122993469,13.6371917725,46.7122993469",
     "geom:latitude":46.712299,
     "geom:longitude":13.637192,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838119,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FLR5qur3lemi3s4ZsmscM_46.712299_13.637192@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908445,
-    "wof:geomhash":"7962e4bbcf8473e2488164d64f3fd3e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"749b91762fea5fdd63049bace0bd4f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838119,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092266377
+        }
+    ],
     "wof:id":1092266377,
-    "wof:lastmodified":1473984569,
+    "wof:lastmodified":1496905314,
     "wof:name":"OBERDORFER KRAFT- W\u00c4RME- KOPPLUNG GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

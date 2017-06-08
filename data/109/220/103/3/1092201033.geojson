@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0008897781,48.1593399048,14.0008897781,48.1593399048",
     "geom:latitude":48.15934,
     "geom:longitude":14.00089,
@@ -32,17 +33,34 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DEAUL1FyDbuh56F98txLq_48.159340_14.000890@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905517,
-    "wof:geomhash":"6035e417f1ea91ec1fe1a4eb954a4764",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10877454a5d720c94231b32b37fcfaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092201033
+        }
+    ],
     "wof:id":1092201033,
-    "wof:lastmodified":1473983505,
+    "wof:lastmodified":1496881980,
     "wof:name":"Johann Tickert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

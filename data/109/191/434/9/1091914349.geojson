@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6910114288,47.1752548218,15.6910114288,47.1752548218",
     "geom:latitude":47.175255,
     "geom:longitude":15.691011,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838911,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QgUpdfKhd0Nlb7jmw2ZBc_47.175255_15.691011@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892762,
-    "wof:geomhash":"7671870c355184629150d4f75dd98848",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f469d7d23fb9d961b714426464ad6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838911,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091914349
+        }
+    ],
     "wof:id":1091914349,
-    "wof:lastmodified":1473983862,
+    "wof:lastmodified":1496910093,
     "wof:name":"Kratzer Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

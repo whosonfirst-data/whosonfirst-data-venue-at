@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9359741211,47.0009155273,15.9359741211,47.0009155273",
     "geom:latitude":47.000916,
     "geom:longitude":15.935974,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"ortauf.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839241,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gmdQ5UT8vDg98jtUCWapJ_47.000916_15.935974@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888511,
-    "wof:geomhash":"ed2dcaab7499b289c0786e3525f8ac61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f387511c19990985fc7158309b18cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839241,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091823703
+        }
+    ],
     "wof:id":1091823703,
-    "wof:lastmodified":1473984261,
+    "wof:lastmodified":1496912147,
     "wof:name":"Johann Ortauf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

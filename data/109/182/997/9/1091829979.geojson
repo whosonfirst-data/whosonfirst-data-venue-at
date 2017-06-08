@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3323421478,48.3443260193,16.3323421478,48.3443260193",
     "geom:latitude":48.344326,
     "geom:longitude":16.332342,
@@ -23,17 +24,34 @@
     "sg:postcode":"2100",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kVIqVMN1OR9H9l8xpK525_48.344326_16.332342@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888792,
-    "wof:geomhash":"a650fda16d21d6a1d733930ecfec32d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c5b61d1d4c654cc727f99949df95f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1091829979
+        }
+    ],
     "wof:id":1091829979,
-    "wof:lastmodified":1473985329,
+    "wof:lastmodified":1496883723,
     "wof:name":"Sparkasse der Stadt Korneuburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

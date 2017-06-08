@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8281669617,47.2210578918,14.8281669617,47.2210578918",
     "geom:latitude":47.221058,
     "geom:longitude":14.828167,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839403,
+        85632785,
+        101834225,
+        102049739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WH7QnHo5Kt9VefEDjVG6W_47.221058_14.828167@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898916,
-    "wof:geomhash":"e9ee5c38059b838f70d977a555b7777d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f91187194d614915c92833c200642ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049739,
+            "localadmin_id":1108839403,
+            "locality_id":101834225,
+            "region_id":85681687,
+            "venue_id":1092060407
+        }
+    ],
     "wof:id":1092060407,
-    "wof:lastmodified":1473983463,
+    "wof:lastmodified":1496914028,
     "wof:name":"Kurt Thonhauser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

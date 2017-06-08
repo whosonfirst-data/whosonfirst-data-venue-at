@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3214702606,47.4458389282,12.3214702606,47.4458389282",
     "geom:latitude":47.445839,
     "geom:longitude":12.32147,
@@ -23,17 +24,34 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        101834287,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mFuDqMo7mTKTJU0REsfcn_47.445839_12.321470@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891645,
-    "wof:geomhash":"734cb942721ee160517ca6373b934eef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"573c3deb9aa50224f527975380adc97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":101834287,
+            "region_id":85681661,
+            "venue_id":1091890133
+        }
+    ],
     "wof:id":1091890133,
-    "wof:lastmodified":1473983352,
+    "wof:lastmodified":1496899135,
     "wof:name":"Badeanstalt Kirchberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

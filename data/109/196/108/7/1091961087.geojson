@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5280208588,47.428894043,16.5280208588,47.428894043",
     "geom:latitude":47.428894,
     "geom:longitude":16.528021,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"muehlenhof.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838487,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lwL3hzZtogr69xP0qCFr8_47.428894_16.528021@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894866,
-    "wof:geomhash":"c8afe888369f91dee5df956527476dba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bd32566068973e6322977b8b3f80329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838487,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091961087
+        }
+    ],
     "wof:id":1091961087,
-    "wof:lastmodified":1473983478,
+    "wof:lastmodified":1496908161,
     "wof:name":"Haberz Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

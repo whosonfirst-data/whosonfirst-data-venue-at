@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5063018799,48.3800392151,16.5063018799,48.3800392151",
     "geom:latitude":48.380039,
     "geom:longitude":16.506302,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.baumeister-lahofer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836323,
+        85632785,
+        101833285,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QsN4JeQqqqIBLsIPQ4rXl_48.380039_16.506302@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889332,
-    "wof:geomhash":"8585ee8ee4d0d9c26c56999195146baa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"017686bdd190519399d51bcfe63f8b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836323,
+            "locality_id":101833285,
+            "region_id":85681671,
+            "venue_id":1091841533
+        }
+    ],
     "wof:id":1091841533,
-    "wof:lastmodified":1473983638,
+    "wof:lastmodified":1496890520,
     "wof:name":"Lahofer Baumeister GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

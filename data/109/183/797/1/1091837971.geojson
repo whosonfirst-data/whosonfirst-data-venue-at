@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6106395721,48.3223457336,16.6106395721,48.3223457336",
     "geom:latitude":48.322346,
     "geom:longitude":16.61064,
@@ -32,17 +33,33 @@
         "basement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836289,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16aRUF4MD0PSxSOGxWo5dD_48.322346_16.610640@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889186,
-    "wof:geomhash":"94c33f5e5ad4cdda99bd66ade26f67b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0476007e1421777319becabb1cf4043a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836289,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091837971
+        }
+    ],
     "wof:id":1091837971,
-    "wof:lastmodified":1473984923,
+    "wof:lastmodified":1496890418,
     "wof:name":"Herbert Maresch jun.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6889600754,47.2746238708,12.6889600754,47.2746238708",
     "geom:latitude":47.274624,
     "geom:longitude":12.68896,
@@ -23,17 +24,33 @@
     "sg:postcode":"5721",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jQXyU8j8d3r7w78zGmXfh_47.274624_12.688960@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899393,
-    "wof:geomhash":"933d7051d8dd01ab95cc9548a54e9164",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8263bde8ec981c336ff17ea208a0dfc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092072143
+        }
+    ],
     "wof:id":1092072143,
-    "wof:lastmodified":1473983713,
+    "wof:lastmodified":1496896148,
     "wof:name":"Gasthof Dietlbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

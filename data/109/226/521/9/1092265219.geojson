@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6139736176,48.1453094482,16.6139736176,48.1453094482",
     "geom:latitude":48.145309,
     "geom:longitude":16.613974,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"kommendisch-enz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836641,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2H4dSbLAmhO7qPETUYsOPF_48.145309_16.613974@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908392,
-    "wof:geomhash":"92f5fa05075a7d48ae62239f4ec246d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5253820da1ad7d29a591b182d6d43336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836641,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092265219
+        }
+    ],
     "wof:id":1092265219,
-    "wof:lastmodified":1473984427,
+    "wof:lastmodified":1496892139,
     "wof:name":"Kommendisch-Enz KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

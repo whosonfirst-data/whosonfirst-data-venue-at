@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3756446838,47.2240447998,11.3756446838,47.2240447998",
     "geom:latitude":47.224045,
     "geom:longitude":11.375645,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915372,
-    "wof:geomhash":"02916aebb9d7590d3c80e05d19dd7240",
+    "wof:geomhash":"7004390525048cc022d636c62015a9d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092418179
         }
     ],
     "wof:id":1092418179,
-    "wof:lastmodified":1473985042,
+    "wof:lastmodified":1496898471,
     "wof:name":"High Low Boom",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

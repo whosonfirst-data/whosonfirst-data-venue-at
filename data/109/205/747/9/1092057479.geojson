@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6129131317,48.1356658936,15.6129131317,48.1356658936",
     "geom:latitude":48.135666,
     "geom:longitude":15.612913,
@@ -32,17 +33,34 @@
         "bench"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836803,
+        85632785,
+        101784541,
+        102049849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jNMs3pmgvjQXBCDyTt2SE_48.135666_15.612913@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898807,
-    "wof:geomhash":"cdb8ea29b3a59e3919af28b6c7740cf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de7a16903f357c6113200f48df737134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049849,
+            "localadmin_id":1108836803,
+            "locality_id":101784541,
+            "region_id":85681671,
+            "venue_id":1092057479
+        }
+    ],
     "wof:id":1092057479,
-    "wof:lastmodified":1473984588,
+    "wof:lastmodified":1496892848,
     "wof:name":"Norbert Glaubacker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

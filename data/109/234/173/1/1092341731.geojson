@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8876190186,47.2299766541,11.8876190186,47.2299766541",
     "geom:latitude":47.229977,
     "geom:longitude":11.887619,
@@ -31,17 +32,34 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837721,
+        85632785,
+        101789123,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P2ZaYqiU8mWlgSM4tdLVO_47.229977_11.887619@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911702,
-    "wof:geomhash":"67685afc0386ae8182ef9e1397390ea4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ec43ed7cf8c7141f5c5008317bee414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837721,
+            "locality_id":101789123,
+            "region_id":85681661,
+            "venue_id":1092341731
+        }
+    ],
     "wof:id":1092341731,
-    "wof:lastmodified":1473983628,
+    "wof:lastmodified":1496899763,
     "wof:name":"HANS LANGESEE GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

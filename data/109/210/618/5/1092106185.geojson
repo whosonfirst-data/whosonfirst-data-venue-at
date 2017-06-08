@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3624048233,47.2521934509,11.3624048233,47.2521934509",
     "geom:latitude":47.252193,
     "geom:longitude":11.362405,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901113,
-    "wof:geomhash":"76f4bdb1d07237d7309e2bff71f8ed65",
+    "wof:geomhash":"c950d8dbe01a1ab84c10c6e909a56a07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092106185
         }
     ],
     "wof:id":1092106185,
-    "wof:lastmodified":1473984588,
+    "wof:lastmodified":1496899385,
     "wof:name":"Pfeifer Peter",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

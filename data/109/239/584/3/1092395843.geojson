@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.514957428,47.2772521973,11.514957428,47.2772521973",
     "geom:latitude":47.277252,
     "geom:longitude":11.514957,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914242,
-    "wof:geomhash":"72b635eca8f0dc2f160c80e7e504bfec",
+    "wof:geomhash":"9ab9bedbec51f2368e4e79eda7cb2cae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092395843
         }
     ],
     "wof:id":1092395843,
-    "wof:lastmodified":1473984397,
+    "wof:lastmodified":1496898736,
     "wof:name":"Oppitz Johann",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

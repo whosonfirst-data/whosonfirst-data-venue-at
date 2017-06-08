@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1768722534,48.2055397034,16.1768722534,48.2055397034",
     "geom:latitude":48.20554,
     "geom:longitude":16.176872,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895348,
-    "wof:geomhash":"b00960fc681c6514cd0b91b17f10a375",
+    "wof:geomhash":"0db76af3f1c301d249e4dcdb9e4b25a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091972401
         }
     ],
     "wof:id":1091972401,
-    "wof:lastmodified":1473983870,
+    "wof:lastmodified":1496888152,
     "wof:name":"Rettungsstelle Samariter-Bund Purkersdorf",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

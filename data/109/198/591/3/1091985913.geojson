@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3312797546,48.1399116516,16.3312797546,48.1399116516",
     "geom:latitude":48.139912,
     "geom:longitude":16.33128,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895930,
-    "wof:geomhash":"f38dad2e517e9b97199bd7a8f8431ca4",
+    "wof:geomhash":"ce651d1508e366530d1ac2a96d889652",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091985913
         }
     ],
     "wof:id":1091985913,
-    "wof:lastmodified":1473984213,
+    "wof:lastmodified":1496902952,
     "wof:name":"Global Refund Austria GmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

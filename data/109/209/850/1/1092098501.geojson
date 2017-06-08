@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3320627213,47.1144714355,11.3320627213,47.1144714355",
     "geom:latitude":47.114471,
     "geom:longitude":11.332063,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"herzebner-almwirt.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pJsckgKqLUEbgX4iKUKZf_47.114471_11.332063@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900732,
-    "wof:geomhash":"a252739e8628f0e2c6500d2452ae6a62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a39b5ca7de0254f79f6de685b03b4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092098501
+        }
+    ],
     "wof:id":1092098501,
-    "wof:lastmodified":1473984822,
+    "wof:lastmodified":1496898534,
     "wof:name":"Herzeben - Almwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

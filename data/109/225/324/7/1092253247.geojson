@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7825603485,47.3648109436,12.7825603485,47.3648109436",
     "geom:latitude":47.364811,
     "geom:longitude":12.78256,
@@ -23,17 +24,33 @@
     "sg:postcode":"5751",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837217,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08C9hqOOmF74Y95TV270MQ_47.364811_12.782560@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907856,
-    "wof:geomhash":"bacf1cb501312c37810df146edb596f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"071303d2c0bb5fa30e031a09aa09c555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837217,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092253247
+        }
+    ],
     "wof:id":1092253247,
-    "wof:lastmodified":1473984086,
+    "wof:lastmodified":1496896035,
     "wof:name":"Arge Pinzgaubeton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

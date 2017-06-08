@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9831638336,47.196937561,15.9831638336,47.196937561",
     "geom:latitude":47.196938,
     "geom:longitude":15.983164,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"bm-batterymachines.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839131,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SNkq3DfMBrzKyLMLdZJ8H_47.196938_15.983164@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889254,
-    "wof:geomhash":"a82825b2b44a6bb0e70bf43f87654462",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbb9be0873729f6795e0e3551e1c1d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839131,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091839605
+        }
+    ],
     "wof:id":1091839605,
-    "wof:lastmodified":1473985308,
+    "wof:lastmodified":1496911517,
     "wof:name":"BM - Battery Machines GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0271482468,48.0202064514,13.0271482468,48.0202064514",
     "geom:latitude":48.020206,
     "geom:longitude":13.027148,
@@ -34,17 +35,33 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837121,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xzV4Uq6QKPMQ2nCvjRb7z_48.020206_13.027148@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896002,
-    "wof:geomhash":"db4253e1934be82cb1a458139d9c014b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64b190f3ee29d7e64b901fd067957d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837121,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091987735
+        }
+    ],
     "wof:id":1091987735,
-    "wof:lastmodified":1473984336,
+    "wof:lastmodified":1496895251,
     "wof:name":"Gebhard Paradeiser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

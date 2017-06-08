@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4439029694,46.8957214355,14.4439029694,46.8957214355",
     "geom:latitude":46.895721,
     "geom:longitude":14.443903,
@@ -32,17 +33,33 @@
         "automatic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838233,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KOYs9EtaKDAyHDMrFTXLg_46.895721_14.443903@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910748,
-    "wof:geomhash":"8cbc4c39693014837159a951d590bb60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c62939c651a1276368ee1f591b528195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838233,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092318811
+        }
+    ],
     "wof:id":1092318811,
-    "wof:lastmodified":1473985312,
+    "wof:lastmodified":1496906662,
     "wof:name":"Helmut Brachmaier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

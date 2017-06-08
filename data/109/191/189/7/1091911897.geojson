@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6143169403,47.0570144653,10.6143169403,47.0570144653",
     "geom:latitude":47.057014,
     "geom:longitude":10.614317,
@@ -33,17 +34,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837285,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SImi41R1tkGaJiNWdyzyd_47.057014_10.614317@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892630,
-    "wof:geomhash":"0fe1c84626a7321444425e38758f592e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"510c0f456cbafffd485ed982fc9424a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837285,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091911897
+        }
+    ],
     "wof:id":1091911897,
-    "wof:lastmodified":1473983371,
+    "wof:lastmodified":1496896657,
     "wof:name":"Skischule Fiss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

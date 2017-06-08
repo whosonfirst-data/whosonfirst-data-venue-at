@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4823713303,47.0885772705,15.4823713303,47.0885772705",
     "geom:latitude":47.088577,
     "geom:longitude":15.482371,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473917106,
-    "wof:geomhash":"06e188da235a9808879c4419bd7cc52f",
+    "wof:geomhash":"a76c65afe2d02a09b2170ed5eb698ec1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092456211
         }
     ],
     "wof:id":1092456211,
-    "wof:lastmodified":1473983903,
+    "wof:lastmodified":1496913185,
     "wof:name":"Heil Josef",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

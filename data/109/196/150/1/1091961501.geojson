@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0597696304,47.7531242371,13.0597696304,47.7531242371",
     "geom:latitude":47.753124,
     "geom:longitude":13.05977,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894880,
-    "wof:geomhash":"355ace839ec965fcc60177084a7712b6",
+    "wof:geomhash":"249318029e731388eb52eef312e8c63d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1091961501
         }
     ],
     "wof:id":1091961501,
-    "wof:lastmodified":1473983500,
+    "wof:lastmodified":1496895173,
     "wof:name":"Reitstall Anif - Wolfgang Schiessl",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

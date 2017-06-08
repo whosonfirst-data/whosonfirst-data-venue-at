@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8393115997,47.9725151062,16.8393115997,47.9725151062",
     "geom:latitude":47.972515,
     "geom:longitude":16.839312,
@@ -23,17 +24,33 @@
     "sg:postcode":"7100",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hxJbDTNycNBtqDmCix2J9_47.972515_16.839312@1306268286"
     },
     "wof:country":"AT",
     "wof:created":1473906235,
-    "wof:geomhash":"5dafaef38142281d45c5087ed1798327",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b42b8eb0b6f2eece979d778497487ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092215959
+        }
+    ],
     "wof:id":1092215959,
-    "wof:lastmodified":1473984573,
+    "wof:lastmodified":1496908187,
     "wof:name":"JET Tankstelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

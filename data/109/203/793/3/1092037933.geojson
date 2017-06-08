@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.660238266,47.425983429,9.660238266,47.425983429",
     "geom:latitude":47.425983,
     "geom:longitude":9.660238,
@@ -23,17 +24,34 @@
     "sg:postcode":"6890",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VFwGsr7dNdFzJe1PK7I8M_47.425983_9.660238@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473898049,
-    "wof:geomhash":"ce4028bd4730b897b85fc10742809706",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae41425bf0713480388b9db3aeca4521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1092037933
+        }
+    ],
     "wof:id":1092037933,
-    "wof:lastmodified":1473984771,
+    "wof:lastmodified":1496901421,
     "wof:name":"Krankenpflegeverein Lustenau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6479949951,47.2819824219,12.6479949951,47.2819824219",
     "geom:latitude":47.281982,
     "geom:longitude":12.647995,
@@ -23,17 +24,33 @@
     "sg:postcode":"5722",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837225,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OuAznRZOZR4FCcHeI1NBF_47.281982_12.647995@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914121,
-    "wof:geomhash":"63d108ce329d414433c9fa48e99814e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54827e42124340017d9e8c89d6b99588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837225,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092393143
+        }
+    ],
     "wof:id":1092393143,
-    "wof:lastmodified":1473983773,
+    "wof:lastmodified":1496896130,
     "wof:name":"Postamt 5722 Niedernsill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

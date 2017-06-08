@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3005142212,47.7980003357,13.3005142212,47.7980003357",
     "geom:latitude":47.798,
     "geom:longitude":13.300514,
@@ -28,17 +29,34 @@
     "sg:postcode":"5330",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        101844569,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OGKdSYBahMgmVAT4qzVv2_47.798000_13.300514@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898325,
-    "wof:geomhash":"590b69ca4cb82974ad69fe0b31ebe72e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"556c9d6860cfa51fc0c1469bd9b82d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":101844569,
+            "region_id":85681681,
+            "venue_id":1092045153
+        }
+    ],
     "wof:id":1092045153,
-    "wof:lastmodified":1473983749,
+    "wof:lastmodified":1496895360,
     "wof:name":"Gartenhotel Sonnleitn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

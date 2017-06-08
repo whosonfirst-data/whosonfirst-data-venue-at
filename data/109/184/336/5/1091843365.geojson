@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2456626892,47.4014778137,15.2456626892,47.4014778137",
     "geom:latitude":47.401478,
     "geom:longitude":15.245663,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"baumschule.at/haritsch",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839323,
+        85632785,
+        101834337,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eXG7A6MYzS6BVEg6wJ8HB_47.401478_15.245663@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889408,
-    "wof:geomhash":"abe2d71e382aa01e430dd36864532cfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0262ce86c561fefd7017aab7895e446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839323,
+            "locality_id":101834337,
+            "region_id":85681687,
+            "venue_id":1091843365
+        }
+    ],
     "wof:id":1091843365,
-    "wof:lastmodified":1473983998,
+    "wof:lastmodified":1496912902,
     "wof:name":"Scheer Baumschulen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

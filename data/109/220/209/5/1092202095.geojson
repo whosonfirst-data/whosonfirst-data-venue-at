@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4039735794,48.2242126465,14.4039735794,48.2242126465",
     "geom:latitude":48.224213,
     "geom:longitude":14.403974,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905579,
-    "wof:geomhash":"4f5f50044d41a535ede28cea6e1312a4",
+    "wof:geomhash":"c268df1db35885feb3b7e8af59ba79ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1092202095
         }
     ],
     "wof:id":1092202095,
-    "wof:lastmodified":1473983851,
+    "wof:lastmodified":1496887049,
     "wof:name":"DYCKERHOFF AUSTRIA AUSBAUPRODUKTER GMBH",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

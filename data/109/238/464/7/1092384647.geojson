@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8388442993,47.8527107239,16.8388442993,47.8527107239",
     "geom:latitude":47.852711,
     "geom:longitude":16.838844,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838607,
+        85632785,
+        101785757,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_506d1Y7K17DihjyTW9UYVw_47.852711_16.838844@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913664,
-    "wof:geomhash":"abbde308d06ba2cdd659cb7d3da9dcc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3954ad04edb110e9c990efe5ce49c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838607,
+            "locality_id":101785757,
+            "region_id":85681651,
+            "venue_id":1092384647
+        }
+    ],
     "wof:id":1092384647,
-    "wof:lastmodified":1473984462,
+    "wof:lastmodified":1496908681,
     "wof:name":"Steinhofer Siegfried",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

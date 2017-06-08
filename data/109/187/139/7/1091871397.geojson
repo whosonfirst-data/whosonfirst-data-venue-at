@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7200536728,47.4863357544,10.7200536728,47.4863357544",
     "geom:latitude":47.486336,
     "geom:longitude":10.720054,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"blumenlehne.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837767,
+        85632785,
+        101834255,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HYdQKDJRV5NuKVuebdSK9_47.486336_10.720054@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890721,
-    "wof:geomhash":"76e96820b0ceca2e5efee6fa13d7c673",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf25206ae2fcd6e34e00729b849bf643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837767,
+            "locality_id":101834255,
+            "region_id":85681661,
+            "venue_id":1091871397
+        }
+    ],
     "wof:id":1091871397,
-    "wof:lastmodified":1473983619,
+    "wof:lastmodified":1496899913,
     "wof:name":"Blumen Lehne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

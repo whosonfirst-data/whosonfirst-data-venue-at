@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3304443359,48.1433563232,16.3304443359,48.1433563232",
     "geom:latitude":48.143356,
     "geom:longitude":16.330444,
@@ -25,10 +26,13 @@
     "sg:website":"roma.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916416,
-    "wof:geomhash":"aad4b440749561cd81c54a9fe20d3327",
+    "wof:geomhash":"a924a158331f03ee17776a16b1f3ba08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092441099
         }
     ],
     "wof:id":1092441099,
-    "wof:lastmodified":1473983513,
+    "wof:lastmodified":1496902262,
     "wof:name":"Maurer Robert GmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8254060745,46.5629653931,13.8254060745,46.5629653931",
     "geom:latitude":46.562965,
     "geom:longitude":13.825406,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910984,
-    "wof:geomhash":"9a389faf40d0a1f2eac3c5258709a353",
+    "wof:geomhash":"886b62c293ade5669a437f96a588086e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092324347
         }
     ],
     "wof:id":1092324347,
-    "wof:lastmodified":1473984414,
+    "wof:lastmodified":1496907387,
     "wof:name":"Frumlacher Hans",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

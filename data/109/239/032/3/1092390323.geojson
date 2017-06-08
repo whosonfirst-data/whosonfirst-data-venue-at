@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9396848679,47.9393577576,12.9396848679,47.9393577576",
     "geom:latitude":47.939358,
     "geom:longitude":12.939685,
@@ -23,17 +24,34 @@
     "sg:postcode":"5110",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        85633111,
+        404227567,
+        101833967,
+        102063227
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3koBivSBgWCcBeyxBkwAQn_47.939358_12.939685@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913971,
-    "wof:geomhash":"461ad5128eb2d4a154e19b5a0bb940d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859b077774ce3e6b621389a51a9df059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063227,
+            "locality_id":101833967,
+            "macrocounty_id":404227567,
+            "region_id":85682571,
+            "venue_id":1092390323
+        }
+    ],
     "wof:id":1092390323,
-    "wof:lastmodified":1473983340,
+    "wof:lastmodified":1496895588,
     "wof:name":"Gendarmerieposten Oberndorf bei Salzburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

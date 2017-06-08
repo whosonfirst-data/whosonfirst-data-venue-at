@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9111633301,47.2458534241,9.9111633301,47.2458534241",
     "geom:latitude":47.245853,
     "geom:longitude":9.911163,
@@ -24,17 +25,33 @@
     "sg:province":"Vorarlberg",
     "sg:website":"http://www.sonnenkopf.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838057,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xTQ1XWBktagvAmfa4CgXM_47.245853_9.911163@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894820,
-    "wof:geomhash":"44021d8ee242280d59752a7df1f4cdcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17e93dee715ed22435600a13aca05d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838057,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091959915
+        }
+    ],
     "wof:id":1091959915,
-    "wof:lastmodified":1473985326,
+    "wof:lastmodified":1496901778,
     "wof:name":"Bikerhotel Sonnenkopf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

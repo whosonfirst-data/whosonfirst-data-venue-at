@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7503700256,47.408367157,9.7503700256,47.408367157",
     "geom:latitude":47.408367,
     "geom:longitude":9.75037,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899448,
-    "wof:geomhash":"290ed912c041cc2abc26742afc6844ef",
+    "wof:geomhash":"e5ee1207b6d870932dbd0395e2a1b7d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092073441
         }
     ],
     "wof:id":1092073441,
-    "wof:lastmodified":1473983956,
+    "wof:lastmodified":1496900814,
     "wof:name":"Gasthof L\u00f6wen",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.219997406,47.9376411438,16.219997406,47.9376411438",
     "geom:latitude":47.937641,
     "geom:longitude":16.219997,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"isap.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835733,
+        85632785,
+        101833205,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JGz68NwIhhFZAaN5aPDYx_47.937641_16.219997@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896754,
-    "wof:geomhash":"83f104009353287534ffa4a0c4f19e94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2e1df1a37b1270434f2065cd04750aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835733,
+            "locality_id":101833205,
+            "region_id":85681671,
+            "venue_id":1092005413
+        }
+    ],
     "wof:id":1092005413,
-    "wof:lastmodified":1473984361,
+    "wof:lastmodified":1496888103,
     "wof:name":"ISAP Datenverarbeitungs GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

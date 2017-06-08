@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2345638275,48.1399612427,14.2345638275,48.1399612427",
     "geom:latitude":48.139961,
     "geom:longitude":14.234564,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"itn-connect.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835547,
+        85632785,
+        101784531,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35GDlqN84UAyJ4wf1746Rq_48.139961_14.234564@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906786,
-    "wof:geomhash":"708cfcc05e85aadba794bd062a6a9f26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a8c4d3ac02e407142019144fb34caf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835547,
+            "locality_id":101784531,
+            "region_id":85681677,
+            "venue_id":1092229201
+        }
+    ],
     "wof:id":1092229201,
-    "wof:lastmodified":1473985326,
+    "wof:lastmodified":1496887269,
     "wof:name":"ITN-Connect - Ludwig Reisenauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1926441193,47.3618011475,10.1926441193,47.3618011475",
     "geom:latitude":47.361801,
     "geom:longitude":10.192644,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101827491,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S2c37FHlcCXW5zyFpWAEC_47.361801_10.192644@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906534,
-    "wof:geomhash":"d8cf3443c54f77073fc8c4bbc6e1fcd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27f862b7b9cf4a33be60af74012aa557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101827491,
+            "region_id":85681649,
+            "venue_id":1092223011
+        }
+    ],
     "wof:id":1092223011,
-    "wof:lastmodified":1473984055,
+    "wof:lastmodified":1496901536,
     "wof:name":"Taxi-Jochum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

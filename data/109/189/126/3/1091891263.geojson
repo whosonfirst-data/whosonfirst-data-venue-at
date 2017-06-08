@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4962806702,48.233089447,16.4962806702,48.233089447",
     "geom:latitude":48.233089,
     "geom:longitude":16.496281,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891690,
-    "wof:geomhash":"6e3baf4dd49a1f00449ca5fda495355d",
+    "wof:geomhash":"c964aa1583d1ec3155a9acaa89cd33b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091891263
         }
     ],
     "wof:id":1091891263,
-    "wof:lastmodified":1473983649,
+    "wof:lastmodified":1496928548,
     "wof:name":"Lipsky & B\u00fcchler B\u00f6rsenmakler GesmbH",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

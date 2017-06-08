@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4517745972,48.2770233154,16.4517745972,48.2770233154",
     "geom:latitude":48.277023,
     "geom:longitude":16.451775,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889353,
-    "wof:geomhash":"1d803ea9813744e1dda2318fc2ecd3e0",
+    "wof:geomhash":"7eac8aadb783815880e574e21d04729f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091842057
         }
     ],
     "wof:id":1091842057,
-    "wof:lastmodified":1473983753,
+    "wof:lastmodified":1496904109,
     "wof:name":"Schellenberger Josef Bmstr",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

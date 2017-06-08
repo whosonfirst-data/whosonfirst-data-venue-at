@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7127380371,47.666519165,14.7127380371,47.666519165",
     "geom:latitude":47.666519,
     "geom:longitude":14.712738,
@@ -34,17 +35,33 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838945,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sxzAHBhHoCpIi3ZBsE1TJ_47.666519_14.712738@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896005,
-    "wof:geomhash":"bb58e7426fb96d89974ca888357de9bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"307e539479f91d3262dee85b52973eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838945,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091987801
+        }
+    ],
     "wof:id":1091987801,
-    "wof:lastmodified":1473984351,
+    "wof:lastmodified":1496910425,
     "wof:name":"Max Sulzbacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

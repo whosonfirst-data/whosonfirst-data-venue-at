@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0601568222,47.7290458679,13.0601568222,47.7290458679",
     "geom:latitude":47.729046,
     "geom:longitude":13.060157,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902740,
-    "wof:geomhash":"95cf861e20736874e1d0e57c75f557d7",
+    "wof:geomhash":"cf00787efa8be594af88432e7b429032",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1092140107
         }
     ],
     "wof:id":1092140107,
-    "wof:lastmodified":1473983336,
+    "wof:lastmodified":1496895172,
     "wof:name":"NLP Kaufels Rupert NLP-Coach",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

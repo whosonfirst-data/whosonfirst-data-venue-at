@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4027795792,48.2339286804,14.4027795792,48.2339286804",
     "geom:latitude":48.233929,
     "geom:longitude":14.40278,
@@ -25,10 +26,12 @@
     "sg:website":"mibra.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910457,
-    "wof:geomhash":"0f5bb8844d2e1e284ad9087cf45ad8f5",
+    "wof:geomhash":"95765a40163c68d5c01c8b0096d9712a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1092311941
         }
     ],
     "wof:id":1092311941,
-    "wof:lastmodified":1473983833,
+    "wof:lastmodified":1496887050,
     "wof:name":"Mibra Handels-GmbH",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

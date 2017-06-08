@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9067468643,47.9652328491,12.9067468643,47.9652328491",
     "geom:latitude":47.965233,
     "geom:longitude":12.906747,
@@ -23,17 +24,33 @@
     "sg:postcode":"5113",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837173,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RRxvWPuXj4CXN5PuxTR4A_47.965233_12.906747@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890537,
-    "wof:geomhash":"034d6103ca698387e2d5337aa70e919a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecf95db9bb2af3d1cf621c2b87af1d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837173,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091867185
+        }
+    ],
     "wof:id":1091867185,
-    "wof:lastmodified":1473984944,
+    "wof:lastmodified":1496895622,
     "wof:name":"Ficker Klaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

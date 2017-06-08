@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2632637024,48.1934051514,16.2632637024,48.1934051514",
     "geom:latitude":48.193405,
     "geom:longitude":16.263264,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902847,
-    "wof:geomhash":"c5f0c40f958b408759ac96617cdbd16c",
+    "wof:geomhash":"2e10c10cde34ec1807f29e023b7cbf71",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092142227
         }
     ],
     "wof:id":1092142227,
-    "wof:lastmodified":1473983812,
+    "wof:lastmodified":1496928614,
     "wof:name":"Global Vision Werbe- und Verlags GmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

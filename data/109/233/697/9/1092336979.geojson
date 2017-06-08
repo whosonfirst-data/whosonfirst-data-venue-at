@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0608472824,47.8604354858,13.0608472824,47.8604354858",
     "geom:latitude":47.860435,
     "geom:longitude":13.060847,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911491,
-    "wof:geomhash":"5f6e0de8be416812f49ef37d3c144811",
+    "wof:geomhash":"9e649c78981eda7074f714316f2c85f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092336979
         }
     ],
     "wof:id":1092336979,
-    "wof:lastmodified":1473984987,
+    "wof:lastmodified":1496895274,
     "wof:name":"Winkler Waltraud",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

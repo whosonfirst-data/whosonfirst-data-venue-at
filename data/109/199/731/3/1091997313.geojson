@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4171075821,47.2364730835,11.4171075821,47.2364730835",
     "geom:latitude":47.236473,
     "geom:longitude":11.417108,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896421,
-    "wof:geomhash":"0c9bc10add2097be34a39f8fade0ec63",
+    "wof:geomhash":"f14b5b38dcc21385160a8044ad73b24c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091997313
         }
     ],
     "wof:id":1091997313,
-    "wof:lastmodified":1473984828,
+    "wof:lastmodified":1496899352,
     "wof:name":"Dworschak Andreas Ing Mag",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

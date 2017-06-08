@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6477489471,48.5226325989,14.6477489471,48.5226325989",
     "geom:latitude":48.522633,
     "geom:longitude":14.647749,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"cor.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835095,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jQ7b2G5XaN6suQqOuqXwQ_48.522633_14.647749@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905711,
-    "wof:geomhash":"aa3badaa8d0c37406235f980684e93b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"023ab9c042675d3c09c9014593cc4ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835095,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092204215
+        }
+    ],
     "wof:id":1092204215,
-    "wof:lastmodified":1473984294,
+    "wof:lastmodified":1496884560,
     "wof:name":"COR-Elektrotechnik & EDV GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

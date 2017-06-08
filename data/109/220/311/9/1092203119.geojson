@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2638158798,48.293258667,15.2638158798,48.293258667",
     "geom:latitude":48.293259,
     "geom:longitude":15.263816,
@@ -34,17 +35,33 @@
         "childrens"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836977,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tRuTBMmLwFOtdaG1fMJDm_48.293259_15.263816@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905645,
-    "wof:geomhash":"c5f471df21d00e4f7e6dc9fb986616b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e539df3a648ba325f1de9564b2c2b64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836977,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092203119
+        }
+    ],
     "wof:id":1092203119,
-    "wof:lastmodified":1473983996,
+    "wof:lastmodified":1496893620,
     "wof:name":"Ing. Hans Fletzberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.382897377,47.2855300903,11.382897377,47.2855300903",
     "geom:latitude":47.28553,
     "geom:longitude":11.382897,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906478,
-    "wof:geomhash":"8cea6e20bc41e79dc26a1794945f71dc",
+    "wof:geomhash":"c4d2f9f52f9f747aab78335d64eaf7af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092221941
         }
     ],
     "wof:id":1092221941,
-    "wof:lastmodified":1473983830,
+    "wof:lastmodified":1496899387,
     "wof:name":"Roner Magdalena - Taxi- u Mietwagen",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

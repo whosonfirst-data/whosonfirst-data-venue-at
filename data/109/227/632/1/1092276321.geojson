@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6591720581,47.2782020569,9.6591720581,47.2782020569",
     "geom:latitude":47.278202,
     "geom:longitude":9.659172,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"monacor.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838069,
+        85632785,
+        101827463,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WhroVnPKDM7fD3hmDmxTQ_47.278202_9.659172@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908869,
-    "wof:geomhash":"b0ed4b00cf392a1cde9b89c58fec8c90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0d29cd9baaafa972a12ea8fa719f05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838069,
+            "locality_id":101827463,
+            "region_id":85681649,
+            "venue_id":1092276321
+        }
+    ],
     "wof:id":1092276321,
-    "wof:lastmodified":1473984954,
+    "wof:lastmodified":1496901920,
     "wof:name":"Monacor Electronic VertriebsgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

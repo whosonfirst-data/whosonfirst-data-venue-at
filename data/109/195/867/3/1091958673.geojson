@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4790058136,48.2125434875,14.4790058136,48.2125434875",
     "geom:latitude":48.212543,
     "geom:longitude":14.479006,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894770,
-    "wof:geomhash":"ff75de452582d36484229e4097eb62a3",
+    "wof:geomhash":"9ddb60a0f0a7936b6131cce41bd5f119",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091958673
         }
     ],
     "wof:id":1091958673,
-    "wof:lastmodified":1473985255,
+    "wof:lastmodified":1496887077,
     "wof:name":"Reisecenter Enns",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

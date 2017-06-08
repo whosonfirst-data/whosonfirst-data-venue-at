@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2691612244,48.1247787476,16.2691612244,48.1247787476",
     "geom:latitude":48.124779,
     "geom:longitude":16.269161,
@@ -25,10 +26,13 @@
     "sg:website":"eichelberger-immobilien.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895501,
-    "wof:geomhash":"fef36a5b02ff11bddf6268f2e7a1f650",
+    "wof:geomhash":"5715c2855fa861b817397654f1d90d19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091976091
         }
     ],
     "wof:id":1091976091,
-    "wof:lastmodified":1473984638,
+    "wof:lastmodified":1496885833,
     "wof:name":"Eichelberger Immobilien",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

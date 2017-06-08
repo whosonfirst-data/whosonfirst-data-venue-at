@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4348993301,46.7928771973,14.4348993301,46.7928771973",
     "geom:latitude":46.792877,
     "geom:longitude":14.434899,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838237,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TEsMttcpXJZaxielrDR4p_46.792877_14.434899@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892673,
-    "wof:geomhash":"3f4d6bfa8a36249b8a366e2f454cfe43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1103cdeca01d340d534e4bcbcd323829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838237,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091912749
+        }
+    ],
     "wof:id":1091912749,
-    "wof:lastmodified":1473983622,
+    "wof:lastmodified":1496906674,
     "wof:name":"C5-Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

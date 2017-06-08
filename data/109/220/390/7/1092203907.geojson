@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8103113174,46.6194381714,13.8103113174,46.6194381714",
     "geom:latitude":46.619438,
     "geom:longitude":13.810311,
@@ -33,10 +34,12 @@
     "sg:website":"hirschuhren.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905698,
-    "wof:geomhash":"bfe2d7cef71832b364960693bf7ea8f0",
+    "wof:geomhash":"b9f9984e23b42003f9a24a61a88a561c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1092203907
         }
     ],
     "wof:id":1092203907,
-    "wof:lastmodified":1473984239,
+    "wof:lastmodified":1496906099,
     "wof:name":"Hirsch European Watches GmbH",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

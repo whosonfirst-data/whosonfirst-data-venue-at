@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0831537247,48.1758422852,15.0831537247,48.1758422852",
     "geom:latitude":48.175842,
     "geom:longitude":15.083154,
@@ -23,17 +24,34 @@
     "sg:postcode":"3370",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835759,
+        85632785,
+        101784567,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t2llaXNCZezSFSO6payi5_48.175842_15.083154@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900031,
-    "wof:geomhash":"d90a86ca0f070f7d2ee9059cfaa3a0eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f4b5b6c0e2b3e9472134a122bca673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835759,
+            "locality_id":101784567,
+            "region_id":85681671,
+            "venue_id":1092085931
+        }
+    ],
     "wof:id":1092085931,
-    "wof:lastmodified":1473984638,
+    "wof:lastmodified":1496888223,
     "wof:name":"SIGATEC Sirlinger Gastronomietechnik Handels GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

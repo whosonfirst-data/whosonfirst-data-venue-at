@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3068447113,46.6266288757,14.3068447113,46.6266288757",
     "geom:latitude":46.626629,
     "geom:longitude":14.306845,
@@ -24,13 +25,14 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
+        85898247,
         102191581,
+        1108838143,
         85632785,
         101748059,
         102049679,
-        85898267,
-        85898247
+        85681655,
+        85898267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473898752,
-    "wof:geomhash":"72c962e00a2b249776ca0a944ec8eecc",
+    "wof:geomhash":"d5042705c359d9a1b1bdca269516ba71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
             "locality_id":101748059,
-            "neighbourhood_id":85898267,
+            "neighbourhood_id":85898247,
             "region_id":85681655,
             "venue_id":1092056237
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
             "locality_id":101748059,
-            "neighbourhood_id":85898247,
+            "neighbourhood_id":85898267,
             "region_id":85681655,
             "venue_id":1092056237
         }
     ],
     "wof:id":1092056237,
-    "wof:lastmodified":1473984512,
+    "wof:lastmodified":1496905653,
     "wof:name":"Stadtgalerie",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

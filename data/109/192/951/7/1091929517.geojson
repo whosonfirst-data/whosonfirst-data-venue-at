@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8071203232,46.5587272644,13.8071203232,46.5587272644",
     "geom:latitude":46.558727,
     "geom:longitude":13.80712,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893491,
-    "wof:geomhash":"51e6d0193b81c5fbd59748620293170e",
+    "wof:geomhash":"8be2c38f8206aac0eaae0243a7e2cca1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091929517
         }
     ],
     "wof:id":1091929517,
-    "wof:lastmodified":1473985085,
+    "wof:lastmodified":1496907393,
     "wof:name":"ASK\u00f6 F\u00fcrnitz",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

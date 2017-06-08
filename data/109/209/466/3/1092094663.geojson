@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9332590103,47.2932014465,10.9332590103,47.2932014465",
     "geom:latitude":47.293201,
     "geom:longitude":10.933259,
@@ -23,17 +24,33 @@
     "sg:postcode":"6416",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837433,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nCXE7gsRLDV18TORwrL1P_47.293201_10.933259@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900547,
-    "wof:geomhash":"a8cf89041d0cd5db894118f42cc33ca1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6244f150c67c581fcf10af0c1bdd5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837433,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092094663
+        }
+    ],
     "wof:id":1092094663,
-    "wof:lastmodified":1473984218,
+    "wof:lastmodified":1496897825,
     "wof:name":"Verein f\u00fcr unabh\u00e4ngige Gesundheitsf\u00f6rderung (UGB) -\u00f6sterreich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

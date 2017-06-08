@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5594711304,47.3756904602,12.5594711304,47.3756904602",
     "geom:latitude":47.37569,
     "geom:longitude":12.559471,
@@ -29,17 +30,33 @@
     "sg:province":"Salzburg",
     "sg:website":"carolinenhof.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_023GDt8n1tNjM296Wn3eNx_47.375690_12.559471@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898304,
-    "wof:geomhash":"6370967a5aae7166cba1ea3556a5c709",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8f5f89f9a8ba28ca3e61d2f08a0a518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092044633
+        }
+    ],
     "wof:id":1092044633,
-    "wof:lastmodified":1473983659,
+    "wof:lastmodified":1496896240,
     "wof:name":"Carolinenhof Flairotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

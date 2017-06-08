@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4884386063,47.5222625732,15.4884386063,47.5222625732",
     "geom:latitude":47.522263,
     "geom:longitude":15.488439,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"ap-c.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838861,
+        85632785,
+        101834333,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lIuV8BsHVziNdLyHRzROJ_47.522263_15.488439@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915436,
-    "wof:geomhash":"ddb05993af668d9457c7cef90260cc66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a27cb612d65506ac737bebf6459058ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838861,
+            "locality_id":101834333,
+            "region_id":85681687,
+            "venue_id":1092419785
+        }
+    ],
     "wof:id":1092419785,
-    "wof:lastmodified":1473985216,
+    "wof:lastmodified":1496909678,
     "wof:name":"AP-C Andreas Pesendorfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

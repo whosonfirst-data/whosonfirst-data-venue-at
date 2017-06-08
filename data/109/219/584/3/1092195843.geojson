@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3504037857,47.9249916077,13.3504037857,47.9249916077",
     "geom:latitude":47.924992,
     "geom:longitude":13.350404,
@@ -31,17 +32,33 @@
         "laying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836533,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hL8ZGaVWj3mQSjq0FQms3_47.924992_13.350404@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905276,
-    "wof:geomhash":"8cbf1f16134eef7232e1fb8dc40f633a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bb7f82061599fce006cf7ae674f9441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836533,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092195843
+        }
+    ],
     "wof:id":1092195843,
-    "wof:lastmodified":1473984614,
+    "wof:lastmodified":1496891514,
     "wof:name":"Hemetsberger Bau GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

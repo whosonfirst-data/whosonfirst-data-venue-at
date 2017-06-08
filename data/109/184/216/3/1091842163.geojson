@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3064575195,48.0534172058,16.3064575195,48.0534172058",
     "geom:latitude":48.053417,
     "geom:longitude":16.306458,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.sogl-bau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836951,
+        85632785,
+        101754173,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T1A4p54CJYHTCtOQn1Hlv_48.053417_16.306458@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889357,
-    "wof:geomhash":"bf34cb61e945bb990bcc1d8dd83f2895",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bd7b9a163d283f2765e386c7b003f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836951,
+            "locality_id":101754173,
+            "region_id":85681671,
+            "venue_id":1091842163
+        }
+    ],
     "wof:id":1091842163,
-    "wof:lastmodified":1473983740,
+    "wof:lastmodified":1496893502,
     "wof:name":"Sogl Paul Ing Bau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

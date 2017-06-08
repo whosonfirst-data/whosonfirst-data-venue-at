@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4635601044,48.2622566223,16.4635601044,48.2622566223",
     "geom:latitude":48.262257,
     "geom:longitude":16.46356,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889099,
-    "wof:geomhash":"8d7845fa5db6c8c27d2d0f2af2a4aaea",
+    "wof:geomhash":"9da474e1ea68ecbde71e63eaf133a60b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091836417
         }
     ],
     "wof:id":1091836417,
-    "wof:lastmodified":1473984572,
+    "wof:lastmodified":1496903694,
     "wof:name":"B & M Logistik-Systeme GmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

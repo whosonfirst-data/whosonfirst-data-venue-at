@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8409786224,46.8477363586,14.8409786224,46.8477363586",
     "geom:latitude":46.847736,
     "geom:longitude":14.840979,
@@ -23,17 +24,34 @@
     "sg:postcode":"9400",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        101790087,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FtD7LOhbyhe1X11HnKM88_46.847736_14.840979@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908523,
-    "wof:geomhash":"02f3f5e4deb52348dd6ed9dda51f4f4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdea44d5e6b6426605656cebe70dc2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":101790087,
+            "region_id":85681655,
+            "venue_id":1092268293
+        }
+    ],
     "wof:id":1092268293,
-    "wof:lastmodified":1473984873,
+    "wof:lastmodified":1496905208,
     "wof:name":"KELAG-K\u00e4rntner Elektrizit\u00e4ts-AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3994703293,47.2767715454,11.3994703293,47.2767715454",
     "geom:latitude":47.276772,
     "geom:longitude":11.39947,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896279,
-    "wof:geomhash":"3ddb93c4c9d04d19595d45905e1160d8",
+    "wof:geomhash":"e7a17af7aa2cde682d62ac0c68373a75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1091993903
         }
     ],
     "wof:id":1091993903,
-    "wof:lastmodified":1473984102,
+    "wof:lastmodified":1496899459,
     "wof:name":"Franz\u00f6sisches Kulturinstitut",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

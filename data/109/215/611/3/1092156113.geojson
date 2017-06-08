@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1729803085,48.3369369507,14.1729803085,48.3369369507",
     "geom:latitude":48.336937,
     "geom:longitude":14.17298,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85904371,
-        102049847
+        102191581,
+        1108836395,
+        85632785,
+        101784615,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903496,
-    "wof:geomhash":"937df1fb2999976409dc31c67c699494",
+    "wof:geomhash":"a1a00e7734d3a4a2515d377ac69204df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836395,
+            "locality_id":101784615,
             "neighbourhood_id":85904371,
             "region_id":85681677,
             "venue_id":1092156113
         }
     ],
     "wof:id":1092156113,
-    "wof:lastmodified":1473984580,
+    "wof:lastmodified":1496890888,
     "wof:name":"Volkshochschule Ottensheim",
     "wof:parent_id":85904371,
     "wof:placetype":"venue",

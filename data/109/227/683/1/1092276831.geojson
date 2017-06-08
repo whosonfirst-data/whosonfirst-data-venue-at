@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3303413391,48.1432228088,16.3303413391,48.1432228088",
     "geom:latitude":48.143223,
     "geom:longitude":16.330341,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908891,
-    "wof:geomhash":"1c05c3b061be95c5b83233584eafd84c",
+    "wof:geomhash":"1280c534a3bfd2b56e7f6383704f6749",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092276831
         }
     ],
     "wof:id":1092276831,
-    "wof:lastmodified":1473985009,
+    "wof:lastmodified":1496902297,
     "wof:name":"Spinner Austria GmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

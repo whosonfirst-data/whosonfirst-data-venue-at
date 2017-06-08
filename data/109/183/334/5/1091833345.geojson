@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2508268356,47.4501037598,12.2508268356,47.4501037598",
     "geom:latitude":47.450104,
     "geom:longitude":12.250827,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38B0UCEHmTB7iIXJWq4HE9_47.450104_12.250827@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888968,
-    "wof:geomhash":"7960fb00ecc6ecabaad6a9bab84bd373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96dc61d92d2d2bf07786491171d46dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091833345
+        }
+    ],
     "wof:id":1091833345,
-    "wof:lastmodified":1473983948,
+    "wof:lastmodified":1496897260,
     "wof:name":"Bankomat der Raiffeisenbank Brixen i Thale regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

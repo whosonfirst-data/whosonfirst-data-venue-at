@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0773515701,47.7721939087,13.0773515701,47.7721939087",
     "geom:latitude":47.772194,
     "geom:longitude":13.077352,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907848,
-    "wof:geomhash":"27172ed1f3d7bbc883d2259a082e80d1",
+    "wof:geomhash":"2b0151d8baf25a159b6b935bddb3a906",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092253045
         }
     ],
     "wof:id":1092253045,
-    "wof:lastmodified":1473984008,
+    "wof:lastmodified":1496894771,
     "wof:name":"Johanna Buhl",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

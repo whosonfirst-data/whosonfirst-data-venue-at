@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4176054001,47.4495582581,12.4176054001,47.4495582581",
     "geom:latitude":47.449558,
     "geom:longitude":12.417605,
@@ -23,17 +24,33 @@
     "sg:postcode":"6370",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KqyfTMOnFByi9NhlI6WU3_47.449558_12.417605@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899149,
-    "wof:geomhash":"8b462c05581ff3bb87ed60bc791671b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5b244fbaea3e8470e13d3df678db181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092066177
+        }
+    ],
     "wof:id":1092066177,
-    "wof:lastmodified":1473984503,
+    "wof:lastmodified":1496897115,
     "wof:name":"Gasthaus Hagstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

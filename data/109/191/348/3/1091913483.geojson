@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5404100418,48.4735870361,14.5404100418,48.4735870361",
     "geom:latitude":48.473587,
     "geom:longitude":14.54041,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835079,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NxgocNHO8KjJPR4XWA5XI_48.473587_14.540410@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892722,
-    "wof:geomhash":"cb17db15bb834d98a781bafea9748872",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1b6fa25a505a06d77a7ffe0dd6b76db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835079,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091913483
+        }
+    ],
     "wof:id":1091913483,
-    "wof:lastmodified":1473983712,
+    "wof:lastmodified":1496884485,
     "wof:name":"Fahrner Siegfried Ing GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

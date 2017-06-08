@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3483381271,47.8534927368,13.3483381271,47.8534927368",
     "geom:latitude":47.853493,
     "geom:longitude":13.348338,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836451,
+        85632785,
+        101785673,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aKKI7kAN5VviDZbni5Ztc_47.853493_13.348338@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892659,
-    "wof:geomhash":"193ad3b586c17cfe987455c3641755f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f043992f9a7e0ae6960507169795bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836451,
+            "locality_id":101785673,
+            "region_id":85681677,
+            "venue_id":1091912529
+        }
+    ],
     "wof:id":1091912529,
-    "wof:lastmodified":1473983543,
+    "wof:lastmodified":1496891119,
     "wof:name":"Auer Ing Die Bausoftware GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

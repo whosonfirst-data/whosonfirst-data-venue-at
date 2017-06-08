@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5860919952,47.5402870178,16.5860919952,47.5402870178",
     "geom:latitude":47.540287,
     "geom:longitude":16.586092,
@@ -23,17 +24,33 @@
     "sg:postcode":"7304",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838645,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iUy723pqDEX44v3i7NgMp_47.540287_16.586092@1306268280"
     },
     "wof:country":"AT",
     "wof:created":1473904433,
-    "wof:geomhash":"f09d79cd5e264950c03798b2962aec8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b49410d78c46bc3aabc3cbc200a8be85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838645,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092176839
+        }
+    ],
     "wof:id":1092176839,
-    "wof:lastmodified":1473984732,
+    "wof:lastmodified":1496908965,
     "wof:name":"Horvath Karl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

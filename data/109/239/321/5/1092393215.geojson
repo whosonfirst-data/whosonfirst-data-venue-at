@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2787952423,47.23179245,11.2787952423,47.23179245",
     "geom:latitude":47.231792,
     "geom:longitude":11.278795,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914125,
-    "wof:geomhash":"23882dc10f65db5ab81ddbbe5a0187a2",
+    "wof:geomhash":"ca52f05c970fe09ebac1d32d2b21a6d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092393215
         }
     ],
     "wof:id":1092393215,
-    "wof:lastmodified":1473983773,
+    "wof:lastmodified":1496898028,
     "wof:name":"Postamt 6094 Axams",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

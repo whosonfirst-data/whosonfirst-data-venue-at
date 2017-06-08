@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.412191391,48.2908248901,16.412191391,48.2908248901",
     "geom:latitude":48.290825,
     "geom:longitude":16.412191,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889345,
-    "wof:geomhash":"c6877359170aefc2d8818625ce159b1c",
+    "wof:geomhash":"f6c89c57f3fc8ce173cf71e81dbd9a54",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1091841869
         }
     ],
     "wof:id":1091841869,
-    "wof:lastmodified":1473983679,
+    "wof:lastmodified":1496927949,
     "wof:name":"Pokorny Johann Ing GesmbH",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

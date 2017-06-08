@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4443893433,47.1148223877,15.4443893433,47.1148223877",
     "geom:latitude":47.114822,
     "geom:longitude":15.444389,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898591,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897032,
-    "wof:geomhash":"3c79eff930aeb6b62e9de6804b1bed18",
+    "wof:geomhash":"df7220db4fd346ec60436277273c0c53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898591,
             "region_id":85681687,
             "venue_id":1092012211
         }
     ],
     "wof:id":1092012211,
-    "wof:lastmodified":1473983372,
+    "wof:lastmodified":1496913344,
     "wof:name":"Szukics Ingrid Mag",
     "wof:parent_id":85898591,
     "wof:placetype":"venue",

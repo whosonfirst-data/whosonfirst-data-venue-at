@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6087493896,47.4945220947,16.6087493896,47.4945220947",
     "geom:latitude":47.494522,
     "geom:longitude":16.608749,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838715,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OD6M4xrSkm9Dt5sTOkGkV_47.494522_16.608749@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903771,
-    "wof:geomhash":"978d8f44f2131ab640f0027374cc138e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fddff436247fb3e993db7edf212ba90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838715,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092161977
+        }
+    ],
     "wof:id":1092161977,
-    "wof:lastmodified":1473983770,
+    "wof:lastmodified":1496909173,
     "wof:name":"Volksschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

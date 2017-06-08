@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9781665802,47.2871437073,15.9781665802,47.2871437073",
     "geom:latitude":47.287144,
     "geom:longitude":15.978167,
@@ -31,17 +32,34 @@
         "agriculture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839121,
+        85632785,
+        101787899,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LeUrTjeE6OLwn9txwGSAu_47.287144_15.978167@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473888043,
-    "wof:geomhash":"0540118f0edc8d69c4d59dd9343c06a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14d13e95563aed4b8ec08f74e07443d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839121,
+            "locality_id":101787899,
+            "region_id":85681687,
+            "venue_id":1091812955
+        }
+    ],
     "wof:id":1091812955,
-    "wof:lastmodified":1473983947,
+    "wof:lastmodified":1496911461,
     "wof:name":"GARTENCENTER BAYER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

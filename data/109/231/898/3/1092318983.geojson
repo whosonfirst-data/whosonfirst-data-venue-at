@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3422441483,48.0904884338,15.3422441483,48.0904884338",
     "geom:latitude":48.090488,
     "geom:longitude":15.342244,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"inaut.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834887,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o3ixa5Da3khlSK8PwrLb9_48.090488_15.342244@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910755,
-    "wof:geomhash":"53ff8d4cccf01adc3aa7d255a552197a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f64d5b80d78dda27d344b9c9ac1830ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108834887,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092318983
+        }
+    ],
     "wof:id":1092318983,
-    "wof:lastmodified":1473985306,
+    "wof:lastmodified":1496883266,
     "wof:name":"INAUT Automatisierungstechnik GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

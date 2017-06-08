@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8430747986,46.5937042236,13.8430747986,46.5937042236",
     "geom:latitude":46.593704,
     "geom:longitude":13.843075,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889745,
-    "wof:geomhash":"690b1f2e54e0e71c0d3b99cb91b91528",
+    "wof:geomhash":"f7021bc140504428eeee2a1455899c52",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091850515
         }
     ],
     "wof:id":1091850515,
-    "wof:lastmodified":1473983362,
+    "wof:lastmodified":1496906040,
     "wof:name":"Strabag AG",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

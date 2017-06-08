@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6366481781,47.4641723633,16.6366481781,47.4641723633",
     "geom:latitude":47.464172,
     "geom:longitude":16.636648,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63zk6EdmQH7sP5PNtM6Kxq_47.464172_16.636648@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902629,
-    "wof:geomhash":"038422fbec1e3e69484c7e598b8a7eac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"088abf622061d70d5ec3d721f88cfa3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092137793
+        }
+    ],
     "wof:id":1092137793,
-    "wof:lastmodified":1473984911,
+    "wof:lastmodified":1496909132,
     "wof:name":"Weinbau Fam Toth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

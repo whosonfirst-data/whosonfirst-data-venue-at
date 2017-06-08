@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4646911621,48.2599143982,16.4646911621,48.2599143982",
     "geom:latitude":48.259914,
     "geom:longitude":16.464691,
@@ -35,10 +36,13 @@
     "sg:website":"pitneybowes.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891192,
-    "wof:geomhash":"1ac02075d25aecb8d06c5e9c99933565",
+    "wof:geomhash":"06a6adeea86d887edbfdebbb44351ddb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091881283
         }
     ],
     "wof:id":1091881283,
-    "wof:lastmodified":1473983659,
+    "wof:lastmodified":1496928570,
     "wof:name":"Pitney Bowes Austria GesmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

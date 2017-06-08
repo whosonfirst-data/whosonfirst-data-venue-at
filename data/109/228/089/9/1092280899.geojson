@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0661230087,47.7494544983,13.0661230087,47.7494544983",
     "geom:latitude":47.749454,
     "geom:longitude":13.066123,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909072,
-    "wof:geomhash":"2a18dc18608e9d2e207f47bd9c7e0da0",
+    "wof:geomhash":"9ba4f9242e2185286b75d4fbc2122e3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1092280899
         }
     ],
     "wof:id":1092280899,
-    "wof:lastmodified":1473983419,
+    "wof:lastmodified":1496895184,
     "wof:name":"Schn\u00f6ll Alois jun",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8560152054,47.144859314,9.8560152054,47.144859314",
     "geom:latitude":47.144859,
     "geom:longitude":9.856015,
@@ -23,17 +24,33 @@
     "sg:postcode":"6700",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nLJCLkgP5jjvyxDtk1z6c_47.144859_9.856015@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908140,
-    "wof:geomhash":"4182efe3cf5bd1034801684282dd4eaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0ca9520d74576af1d123769fef7c740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092259663
+        }
+    ],
     "wof:id":1092259663,
-    "wof:lastmodified":1473985233,
+    "wof:lastmodified":1496900645,
     "wof:name":"Stag Staubgut-Transport GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

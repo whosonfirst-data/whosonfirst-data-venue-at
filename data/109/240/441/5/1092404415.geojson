@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8452014923,47.9398918152,16.8452014923,47.9398918152",
     "geom:latitude":47.939892,
     "geom:longitude":16.845201,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"fahrraeder-bucsis.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        101785751,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GsSviGN2SGKQ9tZDhdT4J_47.939892_16.845201@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914600,
-    "wof:geomhash":"67bb1d87f98360090d26c4af2a6e32c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab329d6beb30cf5e15baf55eb473a283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":101785751,
+            "region_id":85681651,
+            "venue_id":1092404415
+        }
+    ],
     "wof:id":1092404415,
-    "wof:lastmodified":1473984159,
+    "wof:lastmodified":1496908215,
     "wof:name":"Bucsis Georg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

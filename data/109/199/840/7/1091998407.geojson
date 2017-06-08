@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0623340607,47.7490615845,13.0623340607,47.7490615845",
     "geom:latitude":47.749062,
     "geom:longitude":13.062334,
@@ -29,10 +30,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896468,
-    "wof:geomhash":"c046c16dfd65e895fb8f4822b13a509f",
+    "wof:geomhash":"8236e848dfa3ed1e100ca6df37b55a00",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1091998407
         }
     ],
     "wof:id":1091998407,
-    "wof:lastmodified":1473984935,
+    "wof:lastmodified":1496895173,
     "wof:name":"Work4page.com web technologies GmbH",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

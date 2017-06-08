@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0029592514,48.8516693115,15.0029592514,48.8516693115",
     "geom:latitude":48.851669,
     "geom:longitude":15.002959,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"ergo.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108834885,
+        85633105,
+        101912367,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dmQJ8olVfM6jwnmD8ZEmm_48.851669_15.002959@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890015,
-    "wof:geomhash":"e1fef2ad325d802780e7350ac7bd0c97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0864d13b9ca40575dff5b0e3e4eadf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108834885,
+            "locality_id":101912367,
+            "region_id":85682415,
+            "venue_id":1091856387
+        }
+    ],
     "wof:id":1091856387,
-    "wof:lastmodified":1473984461,
+    "wof:lastmodified":1496883258,
     "wof:name":"ERGO Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

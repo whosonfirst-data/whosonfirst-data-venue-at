@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8553733826,48.0318031311,12.8553733826,48.0318031311",
     "geom:latitude":48.031803,
     "geom:longitude":12.855373,
@@ -32,17 +33,33 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834789,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y1Eqe1EglvEWQmOst8A6p_48.031803_12.855373@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891174,
-    "wof:geomhash":"367c8d6ab894c48b6896de0a29a389fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14cccb08963e9469f54bf88e1a5961aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834789,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091880865
+        }
+    ],
     "wof:id":1091880865,
-    "wof:lastmodified":1473983590,
+    "wof:lastmodified":1496882588,
     "wof:name":"Maria Sommerauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

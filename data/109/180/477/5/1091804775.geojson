@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4903116226,46.9242973328,15.4903116226,46.9242973328",
     "geom:latitude":46.924297,
     "geom:longitude":15.490312,
@@ -22,17 +23,34 @@
     "sg:postcode":"8402",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839137,
+        85632785,
+        101913393,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ic1vsIQLJsuUfye8FgxEc_46.924297_15.490312@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473887638,
-    "wof:geomhash":"301dec53f38ac7b1c593a4812a913ce6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a057274dab7c7b6b4135f2318e4f122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839137,
+            "locality_id":101913393,
+            "region_id":85681687,
+            "venue_id":1091804775
+        }
+    ],
     "wof:id":1091804775,
-    "wof:lastmodified":1473983385,
+    "wof:lastmodified":1496911537,
     "wof:name":"Bahnhof Werndorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

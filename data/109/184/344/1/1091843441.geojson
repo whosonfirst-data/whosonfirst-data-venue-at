@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8390884399,46.5909423828,13.8390884399,46.5909423828",
     "geom:latitude":46.590942,
     "geom:longitude":13.839088,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889411,
-    "wof:geomhash":"2084489f9033573122bff83a5f5ee69e",
+    "wof:geomhash":"4078314caebe6c2c78573626e44e7628",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091843441
         }
     ],
     "wof:id":1091843441,
-    "wof:lastmodified":1473984013,
+    "wof:lastmodified":1496906025,
     "wof:name":"Bauhaus Depot GmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

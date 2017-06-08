@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0480117798,46.9859352112,16.0480117798,46.9859352112",
     "geom:latitude":46.985935,
     "geom:longitude":16.048012,
@@ -23,17 +24,33 @@
     "sg:postcode":"8352",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839235,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aSleqiVOhQaSTh1xFn0Xe_46.985935_16.048012@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911359,
-    "wof:geomhash":"38a2cbfa8693f1de361f2a515db7f8dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2506dd2182a072c1cdf24fc7847969c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839235,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092333443
+        }
+    ],
     "wof:id":1092333443,
-    "wof:lastmodified":1473984157,
+    "wof:lastmodified":1496912106,
     "wof:name":"Planer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.329618454,48.1422805786,16.329618454,48.1422805786",
     "geom:latitude":48.142281,
     "geom:longitude":16.329618,
@@ -25,10 +26,13 @@
     "sg:website":"karlkrammer.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889278,
-    "wof:geomhash":"5eac219b2cf312504dfd94590734c3cd",
+    "wof:geomhash":"78da0005fca801f319f39cc87f15a872",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091840163
         }
     ],
     "wof:id":1091840163,
-    "wof:lastmodified":1473983331,
+    "wof:lastmodified":1496902475,
     "wof:name":"Krammer Karl GesmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

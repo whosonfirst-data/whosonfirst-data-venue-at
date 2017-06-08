@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0869846344,46.7220802307,14.0869846344,46.7220802307",
     "geom:latitude":46.72208,
     "geom:longitude":14.086985,
@@ -32,17 +33,34 @@
         "transport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        101790125,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mci7fQtQ4878MGOcDOJRE_46.722080_14.086985@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916278,
-    "wof:geomhash":"d2efbdeefd5fff74232776cc3ce5c170",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d271075e4b5d70ec26a14bfb3ef675c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":101790125,
+            "region_id":85681655,
+            "venue_id":1092438043
+        }
+    ],
     "wof:id":1092438043,
-    "wof:lastmodified":1473984969,
+    "wof:lastmodified":1496905413,
     "wof:name":"G\u00e4rtner Transport & Handel GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

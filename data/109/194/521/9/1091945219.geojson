@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3644256592,47.1483039856,15.3644256592,47.1483039856",
     "geom:latitude":47.148304,
     "geom:longitude":15.364426,
@@ -23,17 +24,33 @@
     "sg:postcode":"8101",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839199,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25O6wbJeZEsCIJqVhSLgkN_47.148304_15.364426@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894163,
-    "wof:geomhash":"72913fd6ce1fbb252e597f532d5cc5e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"339ab6607b7fd0026db5bbdcf2b7ea20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839199,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091945219
+        }
+    ],
     "wof:id":1091945219,
-    "wof:lastmodified":1473984354,
+    "wof:lastmodified":1496911863,
     "wof:name":"Kahrer Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

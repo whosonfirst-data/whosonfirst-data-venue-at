@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8284034729,46.5899429321,13.8284034729,46.5899429321",
     "geom:latitude":46.589943,
     "geom:longitude":13.828403,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912923,
-    "wof:geomhash":"4b712b6d44ecc2b97f3755945b4bbfad",
+    "wof:geomhash":"3f5233618f88e37f1955502b9b000709",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092368353
         }
     ],
     "wof:id":1092368353,
-    "wof:lastmodified":1473985140,
+    "wof:lastmodified":1496906058,
     "wof:name":"Laber Herbert",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

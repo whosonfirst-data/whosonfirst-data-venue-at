@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6326532364,48.6719856262,15.6326532364,48.6719856262",
     "geom:latitude":48.671986,
     "geom:longitude":15.632653,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"members.aon.at/porod.robert",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835915,
+        85632785,
+        101782263,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UxBbZIusGtvIxDD4Sw7pz_48.671986_15.632653@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915543,
-    "wof:geomhash":"6fcfe404fe6a637cb2b06046063700aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16203a94178884b8703c625c2e717c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835915,
+            "locality_id":101782263,
+            "region_id":85681671,
+            "venue_id":1092422225
+        }
+    ],
     "wof:id":1092422225,
-    "wof:lastmodified":1473983736,
+    "wof:lastmodified":1496889978,
     "wof:name":"Medizintechnik Robert Porod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

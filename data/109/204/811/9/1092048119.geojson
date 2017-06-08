@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2038106918,47.2989349365,11.2038106918,47.2989349365",
     "geom:latitude":47.298935,
     "geom:longitude":11.203811,
@@ -28,17 +29,33 @@
     "sg:postcode":"6103",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837699,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3etcdF6poUEcIwGdrxsnaZ_47.298935_11.203811@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898438,
-    "wof:geomhash":"84746efa31ea37235078ec1052cc2eac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"966c03f7d324156b10e3b9dbfb66bb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837699,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048119
+        }
+    ],
     "wof:id":1092048119,
-    "wof:lastmodified":1473984234,
+    "wof:lastmodified":1496899655,
     "wof:name":"Hotel Reitherhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

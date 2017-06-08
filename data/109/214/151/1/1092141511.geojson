@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2750263214,48.184135437,16.2750263214,48.184135437",
     "geom:latitude":48.184135,
     "geom:longitude":16.275026,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902818,
-    "wof:geomhash":"a8150395076079f9fee87e4e51c03f73",
+    "wof:geomhash":"a5fc3a443a3417b40a238fc0230771c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092141511
         }
     ],
     "wof:id":1092141511,
-    "wof:lastmodified":1473983622,
+    "wof:lastmodified":1496928434,
     "wof:name":"CN-Rath OEG - Consulting Network",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

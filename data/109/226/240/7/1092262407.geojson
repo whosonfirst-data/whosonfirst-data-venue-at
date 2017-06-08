@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5612773895,48.2131729126,14.5612773895,48.2131729126",
     "geom:latitude":48.213173,
     "geom:longitude":14.561277,
@@ -32,17 +33,34 @@
         "moving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836861,
+        85632785,
+        101784487,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FWTz3jeZxdwFRxvgmNvPP_48.213173_14.561277@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908275,
-    "wof:geomhash":"6fd42f3e3c814ac62dfddf8cc74f264f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"867b15d44d73942ef65634973d419e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836861,
+            "locality_id":101784487,
+            "region_id":85681671,
+            "venue_id":1092262407
+        }
+    ],
     "wof:id":1092262407,
-    "wof:lastmodified":1473983935,
+    "wof:lastmodified":1496893084,
     "wof:name":"Stefan V\u00f6sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

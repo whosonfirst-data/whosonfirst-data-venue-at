@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2630290985,48.1943626404,16.2630290985,48.1943626404",
     "geom:latitude":48.194363,
     "geom:longitude":16.263029,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914420,
-    "wof:geomhash":"cabad836e307d1026639c25962c218b9",
+    "wof:geomhash":"a572ee01009100e51be0ef2054a6c371",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092400079
         }
     ],
     "wof:id":1092400079,
-    "wof:lastmodified":1473983326,
+    "wof:lastmodified":1496903090,
     "wof:name":"Metz Christian Dr",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

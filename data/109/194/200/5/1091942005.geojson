@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6123256683,47.0734291077,15.6123256683,47.0734291077",
     "geom:latitude":47.073429,
     "geom:longitude":15.612326,
@@ -31,17 +32,33 @@
         "supervision"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839173,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iRBuyPqHFBpRHvPEgYfeI_47.073429_15.612326@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473894030,
-    "wof:geomhash":"a265eb52b360eadae8f4d59b5c57119e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb44b3f33498fd6d5f620a7f7030d3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839173,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091942005
+        }
+    ],
     "wof:id":1091942005,
-    "wof:lastmodified":1473983754,
+    "wof:lastmodified":1496911692,
     "wof:name":"Weiss Wolfgang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

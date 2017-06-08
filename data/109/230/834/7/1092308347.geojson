@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3288831711,47.2628517151,11.3288831711,47.2628517151",
     "geom:latitude":47.262852,
     "geom:longitude":11.328883,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910290,
-    "wof:geomhash":"d13bc1ae29a2962da5643990193f6351",
+    "wof:geomhash":"16457266d8c97534430a672251896f92",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092308347
         }
     ],
     "wof:id":1092308347,
-    "wof:lastmodified":1473985178,
+    "wof:lastmodified":1496899554,
     "wof:name":"Ploner Liftservice GesmbH",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

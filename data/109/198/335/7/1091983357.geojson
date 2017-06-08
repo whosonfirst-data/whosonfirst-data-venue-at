@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2717571259,47.2552452087,11.2717571259,47.2552452087",
     "geom:latitude":47.255245,
     "geom:longitude":11.271757,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895829,
-    "wof:geomhash":"909507a1f32c52b126a56ead7051b97f",
+    "wof:geomhash":"bb7a0126dfef5280adce4f6d791e0ac1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091983357
         }
     ],
     "wof:id":1091983357,
-    "wof:lastmodified":1473983705,
+    "wof:lastmodified":1496898646,
     "wof:name":"Geotechnik Hammer",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

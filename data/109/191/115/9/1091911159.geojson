@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7271099091,47.1552047729,11.7271099091,47.1552047729",
     "geom:latitude":47.155205,
     "geom:longitude":11.72711,
@@ -33,17 +34,33 @@
         "ski"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837707,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17Dm9UzxnK9bfEugqhkVQi_47.155205_11.727110@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892593,
-    "wof:geomhash":"f1900a060e4485721123294009681611",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d849ac74efe59c876f2f375332a0abfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837707,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091911159
+        }
+    ],
     "wof:id":1091911159,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496899685,
     "wof:name":"Sommerberg-Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

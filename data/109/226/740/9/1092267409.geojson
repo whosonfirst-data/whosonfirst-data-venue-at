@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7181310654,48.2787017822,15.7181310654,48.2787017822",
     "geom:latitude":48.278702,
     "geom:longitude":15.718131,
@@ -36,17 +37,33 @@
     ],
     "sg:website":"georgfischer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ql3vwOaqCDRSFj4Q05Dcv_48.278702_15.718131@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908489,
-    "wof:geomhash":"522920142d5a180e430104af5dc1c231",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62953ed6dbf2f9b1c54fc4353e9d864e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092267409
+        }
+    ],
     "wof:id":1092267409,
-    "wof:lastmodified":1473984769,
+    "wof:lastmodified":1496890064,
     "wof:name":"Georg Fischer Rohrleitungssysteme GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

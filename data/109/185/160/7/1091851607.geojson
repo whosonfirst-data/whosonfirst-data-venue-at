@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4554948807,46.6681251526,15.4554948807,46.6681251526",
     "geom:latitude":46.668125,
     "geom:longitude":15.455495,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839043,
+        85632785,
+        102049699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KkHM5wIZdkihVEc0cmdfL_46.668125_15.455495@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889787,
-    "wof:geomhash":"3927d80449103ffab91dcc5fd88a81c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4ed6293ad00efdb11b0bdaa74f543e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839043,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091851607
+        }
+    ],
     "wof:id":1091851607,
-    "wof:lastmodified":1473983585,
+    "wof:lastmodified":1496910999,
     "wof:name":"Arnold Skergeth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

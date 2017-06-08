@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2603931427,48.1674995422,16.2603931427,48.1674995422",
     "geom:latitude":48.1675,
     "geom:longitude":16.260393,
@@ -24,11 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898337,
+        102191581,
+        1108838101,
         85632785,
-        85898715,
+        101748073,
         102049859,
-        85898337
+        85681667,
+        85898715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,27 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473913400,
-    "wof:geomhash":"2cc25a1289d486da0cf326061ddb7fdf",
+    "wof:geomhash":"dc9401585c993faaf86e4d6e7e7eff24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
-            "neighbourhood_id":85898715,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092378829
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
-            "neighbourhood_id":85898337,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092378829
         }
     ],
     "wof:id":1092378829,
-    "wof:lastmodified":1473985294,
+    "wof:lastmodified":1496902334,
     "wof:name":"Schrei Physikalische Therapie",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

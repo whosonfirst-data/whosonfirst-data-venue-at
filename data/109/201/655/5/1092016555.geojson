@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8781490326,48.1245346069,14.8781490326,48.1245346069",
     "geom:latitude":48.124535,
     "geom:longitude":14.878149,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"glas-berger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101784475,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sEr2XqtqaalB8s1RJTmpz_48.124535_14.878149@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897214,
-    "wof:geomhash":"3ebd8b0696d8761065b92bbf4349c753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"853e2ac9a592db431f14397928b7c8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101784475,
+            "region_id":85681671,
+            "venue_id":1092016555
+        }
+    ],
     "wof:id":1092016555,
-    "wof:lastmodified":1473984107,
+    "wof:lastmodified":1496883422,
     "wof:name":"Glas Berger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

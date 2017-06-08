@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1253910065,47.7657699585,13.1253910065,47.7657699585",
     "geom:latitude":47.76577,
     "geom:longitude":13.125391,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837129,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YydLzG8IAuM3SjxuNwt5E_47.765770_13.125391@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898903,
-    "wof:geomhash":"38c9adc292693fb46e2796113986778d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79071f49d3cdb1994d6a53f785246e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092060087
+        }
+    ],
     "wof:id":1092060087,
-    "wof:lastmodified":1473983336,
+    "wof:lastmodified":1496895288,
     "wof:name":"Hermann Krabath",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

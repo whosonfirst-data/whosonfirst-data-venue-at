@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0309715271,48.6187667847,14.0309715271,48.6187667847",
     "geom:latitude":48.618767,
     "geom:longitude":14.030972,
@@ -22,17 +23,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.seniorenheim.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836001,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z1P2tbhJIMY5mboUAsTAl_48.618767_14.030972@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473887907,
-    "wof:geomhash":"fa8ef515765566708c834706ccd3ee1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9121b184c01bfce93381977ea6f768a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836001,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091809835
+        }
+    ],
     "wof:id":1091809835,
-    "wof:lastmodified":1473984657,
+    "wof:lastmodified":1496889195,
     "wof:name":"a - seniorenheim.at",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

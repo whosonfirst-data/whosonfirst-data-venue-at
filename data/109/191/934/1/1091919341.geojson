@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3996248245,47.2537460327,11.3996248245,47.2537460327",
     "geom:latitude":47.253746,
     "geom:longitude":11.399625,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892965,
-    "wof:geomhash":"9b64035637d9484272873a1f597c34e0",
+    "wof:geomhash":"06aaa34ac52072141ab1adbdbf2e7276",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091919341
         }
     ],
     "wof:id":1091919341,
-    "wof:lastmodified":1473984775,
+    "wof:lastmodified":1496899470,
     "wof:name":"Fl\u00fcchtlingsstelle der Caritas",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

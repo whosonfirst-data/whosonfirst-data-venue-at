@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5145606995,47.2815170288,15.5145606995,47.2815170288",
     "geom:latitude":47.281517,
     "geom:longitude":15.514561,
@@ -33,17 +34,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839383,
+        85632785,
+        101787941,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BOSyHS1vhITvZfhHbU71W_47.281517_15.514561@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473916996,
-    "wof:geomhash":"9a149f48a5ef0d828bedd39da0253d97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ccf2a9b6724d5e3749528d7e148d3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839383,
+            "locality_id":101787941,
+            "region_id":85681687,
+            "venue_id":1092453629
+        }
+    ],
     "wof:id":1092453629,
-    "wof:lastmodified":1473983317,
+    "wof:lastmodified":1496913853,
     "wof:name":"Franz Stebegg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

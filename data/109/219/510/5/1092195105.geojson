@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0223798752,47.3096542358,10.0223798752,47.3096542358",
     "geom:latitude":47.309654,
     "geom:longitude":10.02238,
@@ -32,17 +33,34 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837891,
+        85632785,
+        101841969,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19DB0BAF6RjZOTBGBpIpDr_47.309654_10.022380@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905244,
-    "wof:geomhash":"ecca9dc3594bbc94cf7fe6f7b53df8b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76255939f90cec21817d15346b63625b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837891,
+            "locality_id":101841969,
+            "region_id":85681649,
+            "venue_id":1092195105
+        }
+    ],
     "wof:id":1092195105,
-    "wof:lastmodified":1473984524,
+    "wof:lastmodified":1496901713,
     "wof:name":"Peter Felder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

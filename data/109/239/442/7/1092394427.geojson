@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4775838852,48.1804084778,14.4775838852,48.1804084778",
     "geom:latitude":48.180408,
     "geom:longitude":14.477584,
@@ -32,17 +33,34 @@
         "precision"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835527,
+        85632785,
+        101833233,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WJxoq6JnN1cxuRcjJ2Qxh_48.180408_14.477584@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914176,
-    "wof:geomhash":"0cfcf740973423e89e692bf6e388b6c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c48f5cf5f13b72ac29b58878da1129a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":101833233,
+            "region_id":85681677,
+            "venue_id":1092394427
+        }
+    ],
     "wof:id":1092394427,
-    "wof:lastmodified":1473984031,
+    "wof:lastmodified":1496887072,
     "wof:name":"ILSE LAMPLMAYR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

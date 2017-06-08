@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3418064117,46.6137542725,14.3418064117,46.6137542725",
     "geom:latitude":46.613754,
     "geom:longitude":14.341806,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906734,
-    "wof:geomhash":"66df3b2b46c68bc81b51485602312cd5",
+    "wof:geomhash":"afed25b66e0910782f3061d1816623ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092227755
         }
     ],
     "wof:id":1092227755,
-    "wof:lastmodified":1473985168,
+    "wof:lastmodified":1496905854,
     "wof:name":"LINDE GAS GmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

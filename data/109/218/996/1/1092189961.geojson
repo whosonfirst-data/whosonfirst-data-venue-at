@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5374526978,46.6072502136,14.5374526978,46.6072502136",
     "geom:latitude":46.60725,
     "geom:longitude":14.537453,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"mitschedruck.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838387,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b8BIWzFLKgNSnppCpQbDJ_46.607250_14.537453@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905023,
-    "wof:geomhash":"a443f323079af6ae9d62bcf9a294dbee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"263e99a9048a3778283ba3a550e3ab0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838387,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092189961
+        }
+    ],
     "wof:id":1092189961,
-    "wof:lastmodified":1473985214,
+    "wof:lastmodified":1496907706,
     "wof:name":"Druckerei Mitsche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

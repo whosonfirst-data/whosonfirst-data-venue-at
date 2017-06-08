@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5376815796,47.8542518616,16.5376815796,47.8542518616",
     "geom:latitude":47.854252,
     "geom:longitude":16.537682,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"bewag.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mVgtrRsNtUIDMiXW6cbjE_47.854252_16.537682@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908509,
-    "wof:geomhash":"b938e7a6fadf81e608a686ec0bd833f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76f6cfc956ef774c54891aa22d7d721c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092267961
+        }
+    ],
     "wof:id":1092267961,
-    "wof:lastmodified":1473984828,
+    "wof:lastmodified":1496908772,
     "wof:name":"Bewag Burgenl\u00e4ndische Elektrizit\u00e4tswirtschafts AG (BEWAG)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

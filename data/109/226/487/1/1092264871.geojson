@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.336681366,48.1393814087,16.336681366,48.1393814087",
     "geom:latitude":48.139381,
     "geom:longitude":16.336681,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908379,
-    "wof:geomhash":"5faeac8141067dd7acbdb606863848f8",
+    "wof:geomhash":"a5b87db1b7a1051c43d60b94f709b2c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092264871
         }
     ],
     "wof:id":1092264871,
-    "wof:lastmodified":1473984397,
+    "wof:lastmodified":1496904318,
     "wof:name":"KSI KONTAKT SYSTEME INTER GESMBH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

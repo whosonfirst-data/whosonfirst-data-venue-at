@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8616275787,47.3727111816,11.8616275787,47.3727111816",
     "geom:latitude":47.372711,
     "geom:longitude":11.861628,
@@ -23,17 +24,33 @@
     "sg:postcode":"6262",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837729,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gAGT2vLl4CUhziKucEdmV_47.372711_11.861628@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891733,
-    "wof:geomhash":"a7fa71e44fcdcdd3ec3b0a88ad973a2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"571de8fb549178b1027451aec0df9a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837729,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091892373
+        }
+    ],
     "wof:id":1091892373,
-    "wof:lastmodified":1473983864,
+    "wof:lastmodified":1496899813,
     "wof:name":"LBC Computercenter Lener Bruno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5835399628,47.5872116089,16.5835399628,47.5872116089",
     "geom:latitude":47.587212,
     "geom:longitude":16.58354,
@@ -23,17 +24,33 @@
     "sg:postcode":"7312",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838523,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wyu4MnHkBAdOJiveIJgDq_47.587212_16.583540@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911727,
-    "wof:geomhash":"2eb29587dbc05b6de9b2483aaa5e1752",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09105037cfb8f84f50fede50fe159012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838523,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092342349
+        }
+    ],
     "wof:id":1092342349,
-    "wof:lastmodified":1473983718,
+    "wof:lastmodified":1496908366,
     "wof:name":"Wild Markus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

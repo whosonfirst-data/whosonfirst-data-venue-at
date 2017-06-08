@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5851049423,48.054145813,14.5851049423,48.054145813",
     "geom:latitude":48.054146,
     "geom:longitude":14.585105,
@@ -36,17 +37,33 @@
     ],
     "sg:website":"hinterdorfer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836219,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bGHzqFiGD6sHAgmcl25u9_48.054146_14.585105@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908421,
-    "wof:geomhash":"cbd0f486270cc963e0b2c16449c3e56f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"479210f2e3ae2097976a98c99ecca8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836219,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092265887
+        }
+    ],
     "wof:id":1092265887,
-    "wof:lastmodified":1473984491,
+    "wof:lastmodified":1496890083,
     "wof:name":"Elektro Hinterdorfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

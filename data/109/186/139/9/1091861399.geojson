@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0772209167,47.766544342,13.0772209167,47.766544342",
     "geom:latitude":47.766544,
     "geom:longitude":13.077221,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890272,
-    "wof:geomhash":"8a0577e0db390a79cdb7986453d1b342",
+    "wof:geomhash":"152ef69f741bcb2f3e093231971ef5d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091861399
         }
     ],
     "wof:id":1091861399,
-    "wof:lastmodified":1473983659,
+    "wof:lastmodified":1496895281,
     "wof:name":"Festservice O & S",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

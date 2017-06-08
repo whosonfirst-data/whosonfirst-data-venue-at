@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4251480103,47.2734794617,12.4251480103,47.2734794617",
     "geom:latitude":47.273479,
     "geom:longitude":12.425148,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837203,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FklhWHAjhhkErIJCxStVi_47.273479_12.425148@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898934,
-    "wof:geomhash":"9f6001a81b004e1eae17ecdf6d1e6849",
-    "wof:hierarchy":[],
+    "wof:geomhash":"907f3a3c5075712f44895b712416d02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837203,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092060799
+        }
+    ],
     "wof:id":1092060799,
-    "wof:lastmodified":1473983549,
+    "wof:lastmodified":1496895925,
     "wof:name":"Wieser Installationen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

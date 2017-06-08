@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8760023117,47.4424285889,11.8760023117,47.4424285889",
     "geom:latitude":47.442429,
     "geom:longitude":11.876002,
@@ -35,17 +36,34 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837399,
+        85632785,
+        101834315,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iQgEQCBsXdZ972KxBwyYb_47.442429_11.876002@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895738,
-    "wof:geomhash":"dbb105d5c1e4b96c6023596e29bdb08d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93a213c76fd1a83f64a4f39fba49f983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837399,
+            "locality_id":101834315,
+            "region_id":85681661,
+            "venue_id":1091980975
+        }
+    ],
     "wof:id":1091980975,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496897558,
     "wof:name":"Helmuth Ager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

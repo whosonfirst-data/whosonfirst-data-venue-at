@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7398309708,47.4551773071,9.7398309708,47.4551773071",
     "geom:latitude":47.455177,
     "geom:longitude":9.739831,
@@ -23,17 +24,34 @@
     "sg:postcode":"6960",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837987,
+        85632785,
+        101827495,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16t43yAHmK30ch8WgfH6uv_47.455177_9.739831@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914137,
-    "wof:geomhash":"d775e84c7be89efca3591394731ba209",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a148170e717bde9647d0df2b4da664e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837987,
+            "locality_id":101827495,
+            "region_id":85681649,
+            "venue_id":1092393505
+        }
+    ],
     "wof:id":1092393505,
-    "wof:lastmodified":1473983828,
+    "wof:lastmodified":1496901909,
     "wof:name":"Postamt 6960 Wolfurt-Bahnhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

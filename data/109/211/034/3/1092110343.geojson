@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.243429184,48.137462616,16.243429184,48.137462616",
     "geom:latitude":48.137463,
     "geom:longitude":16.243429,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901308,
-    "wof:geomhash":"5f75cf5441c62db26790d69edb7ee89a",
+    "wof:geomhash":"f02fc8453ed69dac11ab493ca7f283eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092110343
         }
     ],
     "wof:id":1092110343,
-    "wof:lastmodified":1473983417,
+    "wof:lastmodified":1496904226,
     "wof:name":"Lehotzky Christian Ing",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

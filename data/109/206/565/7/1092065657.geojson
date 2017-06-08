@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7958135605,47.4484100342,9.7958135605,47.4484100342",
     "geom:latitude":47.44841,
     "geom:longitude":9.795814,
@@ -23,17 +24,33 @@
     "sg:postcode":"6858",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837897,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P8WNHVQSfgp7XmPsFhpSn_47.448410_9.795814@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899129,
-    "wof:geomhash":"63f6184bf6d8e48ace76001c7011c500",
-    "wof:hierarchy":[],
+    "wof:geomhash":"146134f3f82d0c808e66e7e7ba2e1c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837897,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092065657
+        }
+    ],
     "wof:id":1092065657,
-    "wof:lastmodified":1473984385,
+    "wof:lastmodified":1496900559,
     "wof:name":"Gasthaus Farnach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

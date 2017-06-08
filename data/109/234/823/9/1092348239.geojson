@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6283483505,47.647228241,15.6283483505,47.647228241",
     "geom:latitude":47.647228,
     "geom:longitude":15.628348,
@@ -23,17 +24,33 @@
     "sg:postcode":"8691",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838845,
+        85632785,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZBh8aWEiskCRF3s6M5Hvd_47.647228_15.628348@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473911980,
-    "wof:geomhash":"86d82d5583df3c908aa54201c1deefcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40bcc801c7023d8db5bd2fc0eb77faa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838845,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092348239
+        }
+    ],
     "wof:id":1092348239,
-    "wof:lastmodified":1473984945,
+    "wof:lastmodified":1496909562,
     "wof:name":"Karner Otto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

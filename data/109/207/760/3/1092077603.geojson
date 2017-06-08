@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2311515808,47.4547843933,12.2311515808,47.4547843933",
     "geom:latitude":47.454784,
     "geom:longitude":12.231152,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W4N6xWQDszNylIAndVs7E_47.454784_12.231152@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899656,
-    "wof:geomhash":"352894b264705a56b692fb1ad5142a19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bec7f70f620a3679e0866089f98dbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092077603
+        }
+    ],
     "wof:id":1092077603,
-    "wof:lastmodified":1473984769,
+    "wof:lastmodified":1496897245,
     "wof:name":"Jausenstation Oberkaslach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

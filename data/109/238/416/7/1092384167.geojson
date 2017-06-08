@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.692243576,47.3941307068,13.692243576,47.3941307068",
     "geom:latitude":47.394131,
     "geom:longitude":13.692244,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838897,
+        85632785,
+        101787981,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dLdwqZPOLRi5s1V2lyair_47.394131_13.692244@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913645,
-    "wof:geomhash":"00fb78477035384a878f8bd4d9310e86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b97fc29bf2fe6d8e2bbfac44c1c8ad3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838897,
+            "locality_id":101787981,
+            "region_id":85681687,
+            "venue_id":1092384167
+        }
+    ],
     "wof:id":1092384167,
-    "wof:lastmodified":1473984297,
+    "wof:lastmodified":1496909928,
     "wof:name":"Pizzeria VA BENE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

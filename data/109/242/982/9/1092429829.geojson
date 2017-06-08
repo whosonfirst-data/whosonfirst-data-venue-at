@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4889144897,48.2172012329,16.4889144897,48.2172012329",
     "geom:latitude":48.217201,
     "geom:longitude":16.488914,
@@ -25,10 +26,13 @@
     "sg:website":"www.das-bad.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915896,
-    "wof:geomhash":"284cf0df79465bd3aeba29403f1e962f",
+    "wof:geomhash":"3d0909bf67c03690b09d8838fcc2d6ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092429829
         }
     ],
     "wof:id":1092429829,
-    "wof:lastmodified":1473985179,
+    "wof:lastmodified":1496904882,
     "wof:name":"Das Bad M Soukup",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

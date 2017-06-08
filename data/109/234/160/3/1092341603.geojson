@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6048603058,48.1110305786,15.6048603058,48.1110305786",
     "geom:latitude":48.111031,
     "geom:longitude":15.60486,
@@ -31,17 +32,34 @@
         "ceiling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835833,
+        85632785,
+        101779757,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7URnjN6MMBQqhn9Pq4ysX9_48.111031_15.604860@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911697,
-    "wof:geomhash":"55b71a55ff699280e6947ca73f7334ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29e48182feb45bfa559dd47c31a2cc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835833,
+            "locality_id":101779757,
+            "region_id":85681671,
+            "venue_id":1092341603
+        }
+    ],
     "wof:id":1092341603,
-    "wof:lastmodified":1473983566,
+    "wof:lastmodified":1496888588,
     "wof:name":"MBS Bauges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

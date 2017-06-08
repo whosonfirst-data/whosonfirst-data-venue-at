@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1961231232,47.0080184937,16.1961231232,47.0080184937",
     "geom:latitude":47.008018,
     "geom:longitude":16.196123,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838687,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aqU6MuXcQsM0gxVV8A9fZ_47.008018_16.196123@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473887962,
-    "wof:geomhash":"c54f3c4e405eeec2e3f787f4cec046c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"104bc003d7df2ada3060a7c67b04d982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838687,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091811115
+        }
+    ],
     "wof:id":1091811115,
-    "wof:lastmodified":1473983532,
+    "wof:lastmodified":1496909110,
     "wof:name":"Roland Gaal Installation GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

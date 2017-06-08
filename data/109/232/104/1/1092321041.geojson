@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6502847672,47.2725906372,12.6502847672,47.2725906372",
     "geom:latitude":47.272591,
     "geom:longitude":12.650285,
@@ -23,17 +24,33 @@
     "sg:postcode":"5722",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837225,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zhyzwZ3jGduwWYqmc0jtF_47.272591_12.650285@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473910848,
-    "wof:geomhash":"c5539e26de08e776165c145951491ae3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88458d3e7bd903e2d48adf4e8cbebefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837225,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092321041
+        }
+    ],
     "wof:id":1092321041,
-    "wof:lastmodified":1473983561,
+    "wof:lastmodified":1496896138,
     "wof:name":"Erlinger Roman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

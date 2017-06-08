@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5611019135,48.2973175049,16.5611019135,48.2973175049",
     "geom:latitude":48.297318,
     "geom:longitude":16.561102,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835837,
+        85632785,
+        101843349,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nbB7QyOw2S5NWAcj9I7wB_48.297318_16.561102@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913558,
-    "wof:geomhash":"e322d8f35ba182b76b573270f1a1e1a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12a222b9566832b671d7c5c67feaa0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835837,
+            "locality_id":101843349,
+            "region_id":85681671,
+            "venue_id":1092382557
+        }
+    ],
     "wof:id":1092382557,
-    "wof:lastmodified":1473983971,
+    "wof:lastmodified":1496888599,
     "wof:name":"Pizza Al Forno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

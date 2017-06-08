@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5978746414,47.2587242126,9.5978746414,47.2587242126",
     "geom:latitude":47.258724,
     "geom:longitude":9.597875,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914134,
-    "wof:geomhash":"0de977807f894b34f0ec793c0c2992af",
+    "wof:geomhash":"1c514fa586db82360b202311559b0079",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092393437
         }
     ],
     "wof:id":1092393437,
-    "wof:lastmodified":1473983799,
+    "wof:lastmodified":1496900934,
     "wof:name":"Postamt 6805 Feldkirch-Gisingen",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0824670792,47.7858734131,13.0824670792,47.7858734131",
     "geom:latitude":47.785873,
     "geom:longitude":13.082467,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914484,
-    "wof:geomhash":"cbeca25a01ef48f8ba937e47d0a207d8",
+    "wof:geomhash":"3355e33cef8d1f4812f7bea2f0ddc56c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092401653
         }
     ],
     "wof:id":1092401653,
-    "wof:lastmodified":1473983666,
+    "wof:lastmodified":1496894787,
     "wof:name":"Surer Renate Dr phil",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

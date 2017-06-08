@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8158130646,47.9267654419,13.8158130646,47.9267654419",
     "geom:latitude":47.926765,
     "geom:longitude":13.815813,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.gtm.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835131,
+        85632785,
+        101833135,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OBSwRPt2J62PaDcFAF0Oy_47.926765_13.815813@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900993,
-    "wof:geomhash":"876abb9d5ba00bc5a6ce57d699d3db6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be3b23bc903180dba790c1d0028c91e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835131,
+            "locality_id":101833135,
+            "region_id":85681677,
+            "venue_id":1092103603
+        }
+    ],
     "wof:id":1092103603,
-    "wof:lastmodified":1473983917,
+    "wof:lastmodified":1496884864,
     "wof:name":"GTM-Gro\u00dfk\u00fcchentechnik Mayr GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

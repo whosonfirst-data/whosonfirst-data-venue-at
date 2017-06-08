@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.386721611,47.3125610352,12.386721611,47.3125610352",
     "geom:latitude":47.312561,
     "geom:longitude":12.386722,
@@ -23,17 +24,33 @@
     "sg:postcode":"5730",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837221,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bP0bu4n2SrMILKmfzuxjK_47.312561_12.386722@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898992,
-    "wof:geomhash":"195d46aef2da82f3391c4781fed11b3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae30de0a7b95a00d56792582a744f0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837221,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092062231
+        }
+    ],
     "wof:id":1092062231,
-    "wof:lastmodified":1473983810,
+    "wof:lastmodified":1496896074,
     "wof:name":"Berggasthaus Resterh\u00f6he",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

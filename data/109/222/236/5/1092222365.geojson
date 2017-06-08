@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7232103348,47.4393615723,12.7232103348,47.4393615723",
     "geom:latitude":47.439362,
     "geom:longitude":12.72321,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837211,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25KhIFg7VH0rdMavZh52jI_47.439362_12.723210@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906499,
-    "wof:geomhash":"d41a181b9fae6598f9fe22f86f015df1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddb6696446558cecc15305e6d6299d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837211,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092222365
+        }
+    ],
     "wof:id":1092222365,
-    "wof:lastmodified":1473983905,
+    "wof:lastmodified":1496895996,
     "wof:name":"Taxi - Mietwagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5415039062,48.2193222046,16.5415039062,48.2193222046",
     "geom:latitude":48.219322,
     "geom:longitude":16.541504,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896380,
-    "wof:geomhash":"9471565e940f2cf305a4b0005f3e16c0",
+    "wof:geomhash":"9d48a777f2e8a3f1bd1f1d9051fb10c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091996263
         }
     ],
     "wof:id":1091996263,
-    "wof:lastmodified":1473984579,
+    "wof:lastmodified":1496904071,
     "wof:name":"PEGRO Peter Gronemann",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

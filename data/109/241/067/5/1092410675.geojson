@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0897397995,47.838508606,13.0897397995,47.838508606",
     "geom:latitude":47.838509,
     "geom:longitude":13.08974,
@@ -25,10 +26,12 @@
     "sg:website":"fensterinfo.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914907,
-    "wof:geomhash":"8e2dabc7a721d72c05272ebc59a7d25d",
+    "wof:geomhash":"fc3c8c81c6cbf983d31431a494f7b046",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092410675
         }
     ],
     "wof:id":1092410675,
-    "wof:lastmodified":1473983428,
+    "wof:lastmodified":1496895384,
     "wof:name":"Fenster + Technik GmbH",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

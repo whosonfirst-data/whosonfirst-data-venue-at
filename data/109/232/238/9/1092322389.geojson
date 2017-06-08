@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2693519592,48.1911621094,16.2693519592,48.1911621094",
     "geom:latitude":48.191162,
     "geom:longitude":16.269352,
@@ -25,10 +26,13 @@
     "sg:website":"kfz-forstner.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910906,
-    "wof:geomhash":"cd34cd0756179bcb3dfcc2d8740b9ead",
+    "wof:geomhash":"0d56666427bcfeb5c9f16dd41d422599",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092322389
         }
     ],
     "wof:id":1092322389,
-    "wof:lastmodified":1473983974,
+    "wof:lastmodified":1496928368,
     "wof:name":"Mitsubishi Forstner",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

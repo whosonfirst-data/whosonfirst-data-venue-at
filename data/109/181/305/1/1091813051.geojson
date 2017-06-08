@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.841958046,46.5929336548,13.841958046,46.5929336548",
     "geom:latitude":46.592934,
     "geom:longitude":13.841958,
@@ -35,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888047,
-    "wof:geomhash":"1e49d66edd1a2eeeb8901ca6608d0a4e",
+    "wof:geomhash":"b8485556d8a3b4e59d1c4a4665808957",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091813051
         }
     ],
     "wof:id":1091813051,
-    "wof:lastmodified":1473983965,
+    "wof:lastmodified":1496906050,
     "wof:name":"ALUMAT Metallbauges.m.b.H. & Co KG",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

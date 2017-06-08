@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4825229645,47.2825698853,12.4825229645,47.2825698853",
     "geom:latitude":47.28257,
     "geom:longitude":12.482523,
@@ -23,17 +24,34 @@
     "sg:postcode":"5730",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837221,
+        85632785,
+        101789135,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12HhdA750qJBDy3a8bGEGM_47.282570_12.482523@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903891,
-    "wof:geomhash":"87ca376340e89809ad4081fa5b374597",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa87692f883846ad7946b96f20b6fb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837221,
+            "locality_id":101789135,
+            "region_id":85681681,
+            "venue_id":1092165025
+        }
+    ],
     "wof:id":1092165025,
-    "wof:lastmodified":1473984244,
+    "wof:lastmodified":1496896105,
     "wof:name":"Wieser Elektrotechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

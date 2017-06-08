@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8166332245,47.3287963867,12.8166332245,47.3287963867",
     "geom:latitude":47.328796,
     "geom:longitude":12.816633,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VGXEa4I8h1IbFqNwMATy5_47.328796_12.816633@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906523,
-    "wof:geomhash":"58e7fb525376d254c5725648d3365db5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3f40d14437210b7da2f10c34f0abeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092222815
+        }
+    ],
     "wof:id":1092222815,
-    "wof:lastmodified":1473984014,
+    "wof:lastmodified":1496896498,
     "wof:name":"Taxi Rainer Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

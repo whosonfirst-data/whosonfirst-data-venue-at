@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0999822617,46.7245979309,14.0999822617,46.7245979309",
     "geom:latitude":46.724598,
     "geom:longitude":14.099982,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://www.embamed.com/embamed/last-minute-urlaub.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        101790125,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V044Q8P1J6ATI3wfEBSvA_46.724598_14.099982@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894821,
-    "wof:geomhash":"e321119569b6659cf1a362bfac6816f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"050d3eb2df4249a6c2cf3bf0b1b58b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":101790125,
+            "region_id":85681655,
+            "venue_id":1091959937
+        }
+    ],
     "wof:id":1091959937,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496905368,
     "wof:name":"embamed last minute reisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

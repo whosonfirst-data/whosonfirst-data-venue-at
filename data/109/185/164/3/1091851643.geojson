@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0247764587,48.7443580627,16.0247764587,48.7443580627",
     "geom:latitude":48.744358,
     "geom:longitude":16.024776,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"schmircher.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836817,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HQbknudKEU10BqhOWRPTF_48.744358_16.024776@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889788,
-    "wof:geomhash":"aa53b3c9b002d390c77d2917bb763d5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00308f94dfd1507efc3e94046cb65a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108836817,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091851643
+        }
+    ],
     "wof:id":1091851643,
-    "wof:lastmodified":1473983569,
+    "wof:lastmodified":1496892910,
     "wof:name":"Ernst Schmircher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

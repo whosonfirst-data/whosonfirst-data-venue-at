@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6657123566,47.4171638489,9.6657123566,47.4171638489",
     "geom:latitude":47.417164,
     "geom:longitude":9.665712,
@@ -33,17 +34,34 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bnv9OtnI6gXqxAdSVW2Tq_47.417164_9.665712@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915981,
-    "wof:geomhash":"f1d9a2dbb490fa4c620f81858ecb9fd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd8e14386b5f865ef97c4db01fbc52cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1092431605
+        }
+    ],
     "wof:id":1092431605,
-    "wof:lastmodified":1473983549,
+    "wof:lastmodified":1496901401,
     "wof:name":"FDF Kunststoffe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

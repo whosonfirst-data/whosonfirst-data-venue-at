@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9163656235,47.1454658508,10.9163656235,47.1454658508",
     "geom:latitude":47.145466,
     "geom:longitude":10.916366,
@@ -31,17 +32,34 @@
         "cotton"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837455,
+        85632785,
+        101789049,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YXBVa0RbL5LCEN5Quyr1L_47.145466_10.916366@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905396,
-    "wof:geomhash":"504fb796a1d226c7e4be926fff0ae438",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7767e90f18972ec0c1cbadfea1dda58e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837455,
+            "locality_id":101789049,
+            "region_id":85681661,
+            "venue_id":1092198785
+        }
+    ],
     "wof:id":1092198785,
-    "wof:lastmodified":1473985268,
+    "wof:lastmodified":1496897976,
     "wof:name":"Doblander KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

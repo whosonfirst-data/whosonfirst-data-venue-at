@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8182916641,48.6338005066,15.8182916641,48.6338005066",
     "geom:latitude":48.633801,
     "geom:longitude":15.818292,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835331,
+        85632785,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A5hZsKa6jyfMdmGS82qwi_48.633801_15.818292@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895397,
-    "wof:geomhash":"056db01ae31a7c354e57027fd2b9de64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"533d4fcf647f3aa6732f372333b6c6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835331,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091973673
+        }
+    ],
     "wof:id":1091973673,
-    "wof:lastmodified":1473984132,
+    "wof:lastmodified":1496886112,
     "wof:name":"GOLDBERGER KG WENDL GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

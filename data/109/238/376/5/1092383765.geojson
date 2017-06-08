@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1369838715,46.9368171692,16.1369838715,46.9368171692",
     "geom:latitude":46.936817,
     "geom:longitude":16.136984,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838611,
+        85632785,
+        101789003,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GPQAAEpF7tejUIbkT225V_46.936817_16.136984@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913629,
-    "wof:geomhash":"50c5a8a2adbe19168e9a8d66e155e409",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed2fdbd745960aeb9ed8e68b429fee5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838611,
+            "locality_id":101789003,
+            "region_id":85681651,
+            "venue_id":1092383765
+        }
+    ],
     "wof:id":1092383765,
-    "wof:lastmodified":1473984208,
+    "wof:lastmodified":1496908709,
     "wof:name":"Pizzeria Paradox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

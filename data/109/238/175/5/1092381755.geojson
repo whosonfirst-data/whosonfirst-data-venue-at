@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3762845993,48.2076225281,14.3762845993,48.2076225281",
     "geom:latitude":48.207623,
     "geom:longitude":14.376285,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898437,
-        102049847
+        102191581,
+        1108835545,
+        85632785,
+        101784539,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913518,
-    "wof:geomhash":"7f009bbba12ad5851a141f8dcdce2a04",
+    "wof:geomhash":"31e26ce61ca3a4642a74990a879ece99",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835545,
+            "locality_id":101784539,
             "neighbourhood_id":85898437,
             "region_id":85681677,
             "venue_id":1092381755
         }
     ],
     "wof:id":1092381755,
-    "wof:lastmodified":1473983759,
+    "wof:lastmodified":1496887243,
     "wof:name":"Franz Windtner",
     "wof:parent_id":85898437,
     "wof:placetype":"venue",

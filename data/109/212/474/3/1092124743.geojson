@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6658182144,47.1803436279,15.6658182144,47.1803436279",
     "geom:latitude":47.180344,
     "geom:longitude":15.665818,
@@ -23,17 +24,33 @@
     "sg:postcode":"8181",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838911,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oUOM5ef3WC49kK9kTv1pS_47.180344_15.665818@1306268273"
     },
     "wof:country":"AT",
     "wof:created":1473901994,
-    "wof:geomhash":"4ea0fc53ccccc81be256819549a42bce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3e4d5ad4aa5e87b384d11f4fa92bdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838911,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092124743
+        }
+    ],
     "wof:id":1092124743,
-    "wof:lastmodified":1473984400,
+    "wof:lastmodified":1496910095,
     "wof:name":"Grabner Otto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

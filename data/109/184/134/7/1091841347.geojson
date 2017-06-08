@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.424161911,48.1315040588,16.424161911,48.1315040588",
     "geom:latitude":48.131504,
     "geom:longitude":16.424162,
@@ -25,10 +26,13 @@
     "sg:website":"ibetsberger.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889324,
-    "wof:geomhash":"b986cb68ee6e7dd574955d67ec5c6840",
+    "wof:geomhash":"0f64dfe14e831ccb3ef8871982903a67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1091841347
         }
     ],
     "wof:id":1091841347,
-    "wof:lastmodified":1473983544,
+    "wof:lastmodified":1496929227,
     "wof:name":"Ibetsberger GesmbH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

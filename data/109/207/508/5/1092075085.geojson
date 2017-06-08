@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3967237473,47.2590522766,11.3967237473,47.2590522766",
     "geom:latitude":47.259052,
     "geom:longitude":11.396724,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899515,
-    "wof:geomhash":"6feb32a850198b50e933719ab8a93e9f",
+    "wof:geomhash":"68d7a5ca5a30c4bac2810469fdc1cc5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092075085
         }
     ],
     "wof:id":1092075085,
-    "wof:lastmodified":1473984265,
+    "wof:lastmodified":1496899266,
     "wof:name":"Gasthof Wiltener Platzl",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

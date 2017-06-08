@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7996454239,48.1397743225,13.7996454239,48.1397743225",
     "geom:latitude":48.139774,
     "geom:longitude":13.799645,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.fawa.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836539,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XTlKLEkswWYYoUUuKh4PJ_48.139774_13.799645@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895763,
-    "wof:geomhash":"500181d0df57f4a7837a8487f661b48a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0ecc82581ebbb6b71c24263776cec30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836539,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091981641
+        }
+    ],
     "wof:id":1091981641,
-    "wof:lastmodified":1473983418,
+    "wof:lastmodified":1496891529,
     "wof:name":"FAWA Metallverarbeitung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

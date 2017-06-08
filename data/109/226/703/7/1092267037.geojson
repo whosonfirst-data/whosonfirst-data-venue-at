@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5896368027,48.5003128052,14.5896368027,48.5003128052",
     "geom:latitude":48.500313,
     "geom:longitude":14.589637,
@@ -31,17 +32,34 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835099,
+        85632785,
+        101843335,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SZMJeX73OqstpUg08FLCn_48.500313_14.589637@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908475,
-    "wof:geomhash":"193ec0399d258b168ec1dbc12f2ab443",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ba3628abae41f308d55ce6e09dfe8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835099,
+            "locality_id":101843335,
+            "region_id":85681677,
+            "venue_id":1092267037
+        }
+    ],
     "wof:id":1092267037,
-    "wof:lastmodified":1473984667,
+    "wof:lastmodified":1496884571,
     "wof:name":"Elektro Oberreiter GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

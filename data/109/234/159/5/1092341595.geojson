@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.420466423,48.0555801392,14.420466423,48.0555801392",
     "geom:latitude":48.05558,
     "geom:longitude":14.420466,
@@ -32,17 +33,34 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OWVN0nOZ5da78nV3PaWaz_48.055580_14.420466@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911697,
-    "wof:geomhash":"a7fe7b9ffbe227cc5e735349b60d0c35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d93bd3bdddd694a1e4c62ded1a8991b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1092341595
+        }
+    ],
     "wof:id":1092341595,
-    "wof:lastmodified":1473983563,
+    "wof:lastmodified":1496881570,
     "wof:name":"August Reichenpfader GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

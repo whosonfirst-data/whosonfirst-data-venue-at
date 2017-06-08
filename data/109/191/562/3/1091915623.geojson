@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5528936386,48.4574508667,14.5528936386,48.4574508667",
     "geom:latitude":48.457451,
     "geom:longitude":14.552894,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835079,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jM7cqNbwtoIPEJHtqPPXI_48.457451_14.552894@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892815,
-    "wof:geomhash":"ce4fee724d9334b019c28267e2ff1141",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeab9d117d4fe560d3676ff4f51f11ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835079,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091915623
+        }
+    ],
     "wof:id":1091915623,
-    "wof:lastmodified":1473984011,
+    "wof:lastmodified":1496884485,
     "wof:name":"Software-Systemhaus Seiringer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

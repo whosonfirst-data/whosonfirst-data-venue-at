@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3812446594,46.639881134,14.3812446594,46.639881134",
     "geom:latitude":46.639881,
     "geom:longitude":14.381245,
@@ -25,10 +26,13 @@
     "sg:website":"bodensystem.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908968,
-    "wof:geomhash":"576f059abe05820e5ae281e6dfa22071",
+    "wof:geomhash":"68feaf6dc55b36e66366bc8d9e2ababa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092278651
         }
     ],
     "wof:id":1092278651,
-    "wof:lastmodified":1473985292,
+    "wof:lastmodified":1496905804,
     "wof:name":"Sevalite Handelsges.m.b.H.",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

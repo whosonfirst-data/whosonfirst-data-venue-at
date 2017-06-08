@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5074253082,47.2817420959,11.5074253082,47.2817420959",
     "geom:latitude":47.281742,
     "geom:longitude":11.507425,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906070,
-    "wof:geomhash":"474320e19591b148a3e0431688651dbd",
+    "wof:geomhash":"37bf9a653b41f6c2dc8b7515e11fba6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092212557
         }
     ],
     "wof:id":1092212557,
-    "wof:lastmodified":1473983964,
+    "wof:lastmodified":1496898716,
     "wof:name":"Wacker Norbert",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

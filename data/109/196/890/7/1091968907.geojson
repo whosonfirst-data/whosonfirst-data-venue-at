@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3795080185,47.257774353,11.3795080185,47.257774353",
     "geom:latitude":47.257774,
     "geom:longitude":11.379508,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895189,
-    "wof:geomhash":"1a79650619ddd50502165b104b3e58d7",
+    "wof:geomhash":"760994b62650c4ec1652f74534994c72",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1091968907
         }
     ],
     "wof:id":1091968907,
-    "wof:lastmodified":1473984771,
+    "wof:lastmodified":1496899199,
     "wof:name":"China Restaurant Formosa",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

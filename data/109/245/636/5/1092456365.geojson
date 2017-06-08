@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1449998,48.0940351,16.1449998,48.0940351",
     "geom:latitude":48.094035,
     "geom:longitude":16.145,
@@ -43,17 +44,33 @@
     ],
     "sg:website":"http://www.clevercross.eu",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836663,
+        85632785,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OOnDgMAesYCw3vsshmG5P_48.094035_16.145000@1308163240"
     },
     "wof:country":"AT",
     "wof:created":1473917116,
-    "wof:geomhash":"587546dba4e8df5d86769755e90ebeb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5089223931a93fbc3c6f2bf78cd0a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836663,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092456365
+        }
+    ],
     "wof:id":1092456365,
-    "wof:lastmodified":1473983928,
+    "wof:lastmodified":1496892223,
     "wof:name":"CleverCross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

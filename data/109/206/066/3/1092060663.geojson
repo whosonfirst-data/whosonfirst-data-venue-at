@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8559379578,46.7755126953,14.8559379578,46.7755126953",
     "geom:latitude":46.775513,
     "geom:longitude":14.855938,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838107,
+        85632785,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fpcdjrK2zoS5TcaBiZKaf_46.775513_14.855938@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898928,
-    "wof:geomhash":"8bd22682e9539663da12a9cc276ff2bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05d96125f5d53f364ca7dda985491d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838107,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092060663
+        }
+    ],
     "wof:id":1092060663,
-    "wof:lastmodified":1473983558,
+    "wof:lastmodified":1496905097,
     "wof:name":"SHE Wolgang Ebner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

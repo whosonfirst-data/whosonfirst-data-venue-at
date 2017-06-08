@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5534515381,48.2050819397,16.5534515381,48.2050819397",
     "geom:latitude":48.205082,
     "geom:longitude":16.553452,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905246,
-    "wof:geomhash":"d7afbf4b23bc59bc29697954a3380d8f",
+    "wof:geomhash":"e3271861e1fea4be669eb83247d54134",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092195145
         }
     ],
     "wof:id":1092195145,
-    "wof:lastmodified":1473984512,
+    "wof:lastmodified":1496892137,
     "wof:name":"Willibald Bolkovac",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

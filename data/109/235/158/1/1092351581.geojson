@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2640132904,48.181350708,16.2640132904,48.181350708",
     "geom:latitude":48.181351,
     "geom:longitude":16.264013,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912146,
-    "wof:geomhash":"789d2bff9a47fe823b674679e4afad80",
+    "wof:geomhash":"ba2eb2879578cb9aa4f3a717c1d6fa12",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092351581
         }
     ],
     "wof:id":1092351581,
-    "wof:lastmodified":1473983380,
+    "wof:lastmodified":1496928091,
     "wof:name":"Castelliz Ilse Prof",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

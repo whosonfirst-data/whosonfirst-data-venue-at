@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4200191498,48.0430030823,14.4200191498,48.0430030823",
     "geom:latitude":48.043003,
     "geom:longitude":14.420019,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.proarte.co.at/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LCkiIbnptsWAw9qAAK60B_48.043003_14.420019@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916288,
-    "wof:geomhash":"946db40855f6e263ef912072a72a30bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e199cd19a3a4d4915da9c0710bc7aa78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1092438265
+        }
+    ],
     "wof:id":1092438265,
-    "wof:lastmodified":1473985084,
+    "wof:lastmodified":1496881691,
     "wof:name":"ProArte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1659622192,48.4101676941,16.1659622192,48.4101676941",
     "geom:latitude":48.410168,
     "geom:longitude":16.165962,
@@ -23,17 +24,33 @@
     "sg:postcode":"2000",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836949,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nztjQUpeLu1m60gby9uvP_48.410168_16.165962@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908798,
-    "wof:geomhash":"55f5da16918cbada69c674551c781880",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84d6a8ea4f615824a821603e63c938f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836949,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092274773
+        }
+    ],
     "wof:id":1092274773,
-    "wof:lastmodified":1473984513,
+    "wof:lastmodified":1496893469,
     "wof:name":"Schauhuber GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

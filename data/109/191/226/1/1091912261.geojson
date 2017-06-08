@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4632549286,48.2604484558,16.4632549286,48.2604484558",
     "geom:latitude":48.260448,
     "geom:longitude":16.463255,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892646,
-    "wof:geomhash":"46537e832e974c8a8f7a9e4b772abf32",
+    "wof:geomhash":"ff60e499eafea9d9f2f53af6e2555f7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091912261
         }
     ],
     "wof:id":1091912261,
-    "wof:lastmodified":1473983481,
+    "wof:lastmodified":1496904379,
     "wof:name":"A.S.E. Ebner & Partner GmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1883249283,47.3268280029,11.1883249283,47.3268280029",
     "geom:latitude":47.326828,
     "geom:longitude":11.188325,
@@ -28,17 +29,34 @@
     "sg:postcode":"6100",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837643,
+        85632785,
+        101789079,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gpoQvHm3KkFpz8PudXIUs_47.326828_11.188325@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898383,
-    "wof:geomhash":"f9e01416f92fd3a0180b00f675e65931",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81cac35ec555de76339430bf0f846c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837643,
+            "locality_id":101789079,
+            "region_id":85681661,
+            "venue_id":1092046763
+        }
+    ],
     "wof:id":1092046763,
-    "wof:lastmodified":1473983969,
+    "wof:lastmodified":1496898904,
     "wof:name":"Hotel Glas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

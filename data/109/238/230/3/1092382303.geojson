@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.099404335,47.1683502197,13.099404335,47.1683502197",
     "geom:latitude":47.16835,
     "geom:longitude":13.099404,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        101789117,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ufMV0bkfjRr7poOGNXEax_47.168350_13.099404@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913543,
-    "wof:geomhash":"2cf36f274d6d95ae05213ba0599e5e5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abc0b5b009c7d3c35d94d6486305143d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":101789117,
+            "region_id":85681681,
+            "venue_id":1092382303
+        }
+    ],
     "wof:id":1092382303,
-    "wof:lastmodified":1473983900,
+    "wof:lastmodified":1496893697,
     "wof:name":"Franky's Tennistreff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

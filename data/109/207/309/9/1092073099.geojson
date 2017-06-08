@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4859771729,46.8383102417,14.4859771729,46.8383102417",
     "geom:latitude":46.83831,
     "geom:longitude":14.485977,
@@ -23,17 +24,33 @@
     "sg:postcode":"9321",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838221,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SgeiWvsjzlPKXz7VLAfhx_46.838310_14.485977@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899435,
-    "wof:geomhash":"209130ef724cf052beaa43044fc89cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46aad26ffc2ad1dc10f45a2e58d04d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838221,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092073099
+        }
+    ],
     "wof:id":1092073099,
-    "wof:lastmodified":1473983848,
+    "wof:lastmodified":1496906620,
     "wof:name":"Gasthof Kirchenwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

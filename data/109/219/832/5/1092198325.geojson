@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6861028671,47.3891296387,15.6861028671,47.3891296387",
     "geom:latitude":47.38913,
     "geom:longitude":15.686103,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"www.hofbauer.stmk.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838855,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V4wOQ9iPQ8kdnNiJMpipw_47.389130_15.686103@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905378,
-    "wof:geomhash":"d7c80a17f076f2caf0cdb9609d95299f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79638c348ac9f91c09bf3445367d8d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838855,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092198325
+        }
+    ],
     "wof:id":1092198325,
-    "wof:lastmodified":1473985172,
+    "wof:lastmodified":1496909645,
     "wof:name":"Peter Hofbauer Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

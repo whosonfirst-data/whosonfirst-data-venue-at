@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.777223587,48.0263595581,16.777223587,48.0263595581",
     "geom:latitude":48.02636,
     "geom:longitude":16.777224,
@@ -32,17 +33,34 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836287,
+        85632785,
+        101831933,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i7eXmrY9wWBsUZ2d1z5qu_48.026360_16.777224@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908464,
-    "wof:geomhash":"cac61246bf72359bc2f0746539aae4fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86845c78cd41d7bb0b5af3fa505c3726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836287,
+            "locality_id":101831933,
+            "region_id":85681671,
+            "venue_id":1092266755
+        }
+    ],
     "wof:id":1092266755,
-    "wof:lastmodified":1473984620,
+    "wof:lastmodified":1496890364,
     "wof:name":"Elektro Ruscher GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

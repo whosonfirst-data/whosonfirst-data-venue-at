@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4768848419,47.7729721069,16.4768848419,47.7729721069",
     "geom:latitude":47.772972,
     "geom:longitude":16.476885,
@@ -22,17 +23,33 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.le-tic.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838699,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LT3530hfjUOZ4K6dwKgg1_47.772972_16.476885@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473887693,
-    "wof:geomhash":"ec3482bc9dc23b3aaa2f1d9e47148052",
-    "wof:hierarchy":[],
+    "wof:geomhash":"add7d584285541a7f9e14b1d4a383bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838699,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091805853
+        }
+    ],
     "wof:id":1091805853,
-    "wof:lastmodified":1473983573,
+    "wof:lastmodified":1496909120,
     "wof:name":"Le-tic - innovative promotion articles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

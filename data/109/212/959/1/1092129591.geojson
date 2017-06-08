@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7521810532,47.4082145691,9.7521810532,47.4082145691",
     "geom:latitude":47.408215,
     "geom:longitude":9.752181,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902253,
-    "wof:geomhash":"9771e1efb9e1325574e7fedde029ce5b",
+    "wof:geomhash":"10c0d484f6bd0a880e4e4e18590545bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092129591
         }
     ],
     "wof:id":1092129591,
-    "wof:lastmodified":1473985298,
+    "wof:lastmodified":1496900846,
     "wof:name":"Strolz Norbert",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

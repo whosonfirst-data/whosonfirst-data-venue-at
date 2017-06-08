@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7953310013,46.8235282898,12.7953310013,46.8235282898",
     "geom:latitude":46.823528,
     "geom:longitude":12.795331,
@@ -31,17 +32,34 @@
         "catering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837511,
+        85632785,
+        101834185,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ntaxD0UIGV1n1XkaWQgfE_46.823528_12.795331@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905428,
-    "wof:geomhash":"2d0f3f93fc16ba8bcb151a817feb595f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"257b9a43ae1ced7cca7c957e89971986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837511,
+            "locality_id":101834185,
+            "region_id":85681661,
+            "venue_id":1092199465
+        }
+    ],
     "wof:id":1092199465,
-    "wof:lastmodified":1473985301,
+    "wof:lastmodified":1496898222,
     "wof:name":"Catering GmbH - Roman Kraler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

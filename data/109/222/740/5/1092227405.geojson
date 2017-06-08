@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0316019058,47.7585449219,13.0316019058,47.7585449219",
     "geom:latitude":47.758545,
     "geom:longitude":13.031602,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906715,
-    "wof:geomhash":"8c43853e3b5ba2c1f056602dfe2ee39a",
+    "wof:geomhash":"9fa6d9251c5871d0d18b6e5f24cb59a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1092227405
         }
     ],
     "wof:id":1092227405,
-    "wof:lastmodified":1473985083,
+    "wof:lastmodified":1496894684,
     "wof:name":"Tischler Ernst Ing",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

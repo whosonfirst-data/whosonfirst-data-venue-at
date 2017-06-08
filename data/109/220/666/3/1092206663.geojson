@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5888061523,47.2412071228,9.5888061523,47.2412071228",
     "geom:latitude":47.241207,
     "geom:longitude":9.588806,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905814,
-    "wof:geomhash":"3bb41154391758f0d64a87d1a00ae6bd",
+    "wof:geomhash":"676a33a9d273e421c5c1512c5cec92c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092206663
         }
     ],
     "wof:id":1092206663,
-    "wof:lastmodified":1473984743,
+    "wof:lastmodified":1496900901,
     "wof:name":"AVS-Schertler-Vorhangschienen KG",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

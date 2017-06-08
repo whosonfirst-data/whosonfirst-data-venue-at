@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2659187317,47.4500579834,12.2659187317,47.4500579834",
     "geom:latitude":47.450058,
     "geom:longitude":12.265919,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jrMNbNFenLdt3lSxxjnDV_47.450058_12.265919@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905066,
-    "wof:geomhash":"04ca36bc69dbeebc09643ae841cc4706",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19e0732f7c04533b3ccc67e5b0ddebb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092190901
+        }
+    ],
     "wof:id":1092190901,
-    "wof:lastmodified":1473983489,
+    "wof:lastmodified":1496897242,
     "wof:name":"Franz Fuchs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

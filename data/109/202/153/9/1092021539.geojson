@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.240316391,48.1308403015,16.240316391,48.1308403015",
     "geom:latitude":48.13084,
     "geom:longitude":16.240316,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897405,
-    "wof:geomhash":"6b72e4f951e5136d59460352e50941ca",
+    "wof:geomhash":"4f51fd9d303412d4d4f9c37e89bb4199",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092021539
         }
     ],
     "wof:id":1092021539,
-    "wof:lastmodified":1473983602,
+    "wof:lastmodified":1496904395,
     "wof:name":"Kritsch Ernst u Franz GmbH",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

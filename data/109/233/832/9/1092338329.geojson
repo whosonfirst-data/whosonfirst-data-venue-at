@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4015865326,46.9606246948,14.4015865326,46.9606246948",
     "geom:latitude":46.960625,
     "geom:longitude":14.401587,
@@ -33,17 +34,34 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838211,
+        85632785,
+        101844445,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QHKdmBQWRMu9OjgqvjDxU_46.960625_14.401587@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911559,
-    "wof:geomhash":"610ef172485843880b15da815d706c52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c774136c02c16d216b430ce8e0c42fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838211,
+            "locality_id":101844445,
+            "region_id":85681655,
+            "venue_id":1092338329
+        }
+    ],
     "wof:id":1092338329,
-    "wof:lastmodified":1473985248,
+    "wof:lastmodified":1496906588,
     "wof:name":"SPRINGER MASCHINEFABRIK AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.01902771,47.476524353,14.01902771,47.476524353",
     "geom:latitude":47.476524,
     "geom:longitude":14.019028,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838929,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BVEhbI85FmGc5EwH22akU_47.476524_14.019028@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897052,
-    "wof:geomhash":"253856bf8d81bffea96988c81f76bc44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eda43c64230f549ef242542b5f8224c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838929,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092012701
+        }
+    ],
     "wof:id":1092012701,
-    "wof:lastmodified":1473983458,
+    "wof:lastmodified":1496910269,
     "wof:name":"Johann Bichler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

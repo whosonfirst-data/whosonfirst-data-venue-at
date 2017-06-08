@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1244525909,47.203918457,16.1244525909,47.203918457",
     "geom:latitude":47.203918,
     "geom:longitude":16.124453,
@@ -23,17 +24,33 @@
     "sg:postcode":"7552",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838769,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XlTNu92EshLzP3JooIyh3_47.203918_16.124453@1306268249"
     },
     "wof:country":"AT",
     "wof:created":1473894712,
-    "wof:geomhash":"b396a1c116a938e7b15fc434c0649929",
-    "wof:hierarchy":[],
+    "wof:geomhash":"643ef7641d43579adba6a7e2d77b4561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838769,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091957397
+        }
+    ],
     "wof:id":1091957397,
-    "wof:lastmodified":1473985051,
+    "wof:lastmodified":1496909272,
     "wof:name":"Grand Tours GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

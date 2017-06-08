@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1806268692,46.6424751282,13.1806268692,46.6424751282",
     "geom:latitude":46.642475,
     "geom:longitude":13.180627,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"www.schmid-gesmbh.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838153,
+        85632785,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56PdvOrSgX3Uh3ISS21Y9D_46.642475_13.180627@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896006,
-    "wof:geomhash":"895a477e75ffbcbdf2901ca4383f4369",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4abce50feded03e1563d0314044a481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838153,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091987827
+        }
+    ],
     "wof:id":1091987827,
-    "wof:lastmodified":1473984340,
+    "wof:lastmodified":1496906273,
     "wof:name":"Schmid GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

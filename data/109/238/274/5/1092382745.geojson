@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0351295471,48.2595825195,13.0351295471,48.2595825195",
     "geom:latitude":48.259583,
     "geom:longitude":13.03513,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        101913421,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74v9tEHAZ2LR8mD0kPohxz_48.259583_13.035130@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913574,
-    "wof:geomhash":"2c3ef6c0a2043a7294ce7ead15750ced",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d6708a75c19132ed13f745b40f08dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":101913421,
+            "region_id":85681677,
+            "venue_id":1092382745
+        }
+    ],
     "wof:id":1092382745,
-    "wof:lastmodified":1473984030,
+    "wof:lastmodified":1496882277,
     "wof:name":"Pizzahaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

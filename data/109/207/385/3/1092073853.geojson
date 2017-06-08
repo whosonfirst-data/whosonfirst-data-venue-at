@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6953134537,47.65883255,15.6953134537,47.65883255",
     "geom:latitude":47.658833,
     "geom:longitude":15.695313,
@@ -23,17 +24,33 @@
     "sg:postcode":"8691",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838845,
+        85632785,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fUU7tAcrappO7iYSMqygY_47.658833_15.695313@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899464,
-    "wof:geomhash":"f255c6c0bbdf06ab997937bb6df70260",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39f853ef78b4db608c513ba315a0eabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838845,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092073853
+        }
+    ],
     "wof:id":1092073853,
-    "wof:lastmodified":1473984041,
+    "wof:lastmodified":1496909566,
     "wof:name":"Gasthof Poldi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

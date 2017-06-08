@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0861587524,47.8311920166,13.0861587524,47.8311920166",
     "geom:latitude":47.831192,
     "geom:longitude":13.086159,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910135,
-    "wof:geomhash":"90c18ea33f9256bfadea72f9426dddbd",
+    "wof:geomhash":"6e006b768b2403c14e80da5bd70429f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092304947
         }
     ],
     "wof:id":1092304947,
-    "wof:lastmodified":1473984455,
+    "wof:lastmodified":1496895389,
     "wof:name":"Wierer Heinrich Arch Dipl-Ing",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

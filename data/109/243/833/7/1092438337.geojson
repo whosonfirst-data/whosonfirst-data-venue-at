@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2003936768,48.2302513123,16.2003936768,48.2302513123",
     "geom:latitude":48.230251,
     "geom:longitude":16.200394,
@@ -24,17 +25,34 @@
     "sg:province":"Wien",
     "sg:website":"http://www.maramusic.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835891,
+        85632785,
+        101784595,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FbIOO868HUgNgo6VlvjDI_48.230251_16.200394@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916292,
-    "wof:geomhash":"061dfd26cbd542d7889fa3a8e2759d03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0153d61a8b562f4202ee3809475075e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108835891,
+            "locality_id":101784595,
+            "region_id":85681671,
+            "venue_id":1092438337
+        }
+    ],
     "wof:id":1092438337,
-    "wof:lastmodified":1473985119,
+    "wof:lastmodified":1496904553,
     "wof:name":"Mara Musicservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

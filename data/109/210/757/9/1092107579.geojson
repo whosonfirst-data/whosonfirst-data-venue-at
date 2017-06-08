@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2057151794,47.8668937683,16.2057151794,47.8668937683",
     "geom:latitude":47.866894,
     "geom:longitude":16.205715,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"wns-wrn.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834835,
+        85632785,
+        101833121,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22oa82niQfVYHEqvtgxP6Y_47.866894_16.205715@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901179,
-    "wof:geomhash":"dfeaa9b1c64365d40e327da6d970c984",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a7cbba5a1a29da4fe096c6d9d698dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834835,
+            "locality_id":101833121,
+            "region_id":85681671,
+            "venue_id":1092107579
+        }
+    ],
     "wof:id":1092107579,
-    "wof:lastmodified":1473984785,
+    "wof:lastmodified":1496884130,
     "wof:name":"Abfallbehandlungsanlage der Stadt Wiener Neustadt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

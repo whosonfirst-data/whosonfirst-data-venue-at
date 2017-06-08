@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4269447327,47.5266227722,12.4269447327,47.5266227722",
     "geom:latitude":47.526623,
     "geom:longitude":12.426945,
@@ -31,17 +32,34 @@
         "electricity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OZdzc0P7a6QdbpjdCySfP_47.526623_12.426945@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908485,
-    "wof:geomhash":"cf6df853c66aa1b06de8e745baa974ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b374bc5331085b4e562c31491b44a305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1092267299
+        }
+    ],
     "wof:id":1092267299,
-    "wof:lastmodified":1473984724,
+    "wof:lastmodified":1496897369,
     "wof:name":"TIROLER WASSERKRAFTWERKE AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

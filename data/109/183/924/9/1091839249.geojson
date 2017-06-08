@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3495531082,47.0440292358,11.3495531082,47.0440292358",
     "geom:latitude":47.044029,
     "geom:longitude":11.349553,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837601,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AaEprHPc0FwQlyFudbMqR_47.044029_11.349553@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889240,
-    "wof:geomhash":"4b4bc5d2f4e4d7ca1be440568c31ba08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be3549a2200b4eaca2f03e30de07943d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837601,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091839249
+        }
+    ],
     "wof:id":1091839249,
-    "wof:lastmodified":1473985314,
+    "wof:lastmodified":1496898644,
     "wof:name":"Rustikalbau Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

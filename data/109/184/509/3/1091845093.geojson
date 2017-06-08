@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.346075058,47.4427833557,16.346075058,47.4427833557",
     "geom:latitude":47.442783,
     "geom:longitude":16.346075,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838471,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74NGLxwzsBR2SllFhZP6xW_47.442783_16.346075@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889478,
-    "wof:geomhash":"f7d0201c94ee9b70d6c9089a2a3f37a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9239adb17e54514fad06241d5cf06a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838471,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091845093
+        }
+    ],
     "wof:id":1091845093,
-    "wof:lastmodified":1473984238,
+    "wof:lastmodified":1496908100,
     "wof:name":"N\u00f6st Otto GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

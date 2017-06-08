@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4083919525,48.3020057678,16.4083919525,48.3020057678",
     "geom:latitude":48.302006,
     "geom:longitude":16.408392,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898072,
-    "wof:geomhash":"1fc1927cfd88f6e66cf88e0bfac530a7",
+    "wof:geomhash":"8e57c7e76845aee732f513b9d756a9fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092038547
         }
     ],
     "wof:id":1092038547,
-    "wof:lastmodified":1473984871,
+    "wof:lastmodified":1496903038,
     "wof:name":"Winzerhof Leopold - Inh Ing Leopold Klager",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

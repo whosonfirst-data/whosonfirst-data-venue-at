@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1236515045,46.9802207947,16.1236515045,46.9802207947",
     "geom:latitude":46.980221,
     "geom:longitude":16.123652,
@@ -28,17 +29,33 @@
     "sg:postcode":"8282",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838611,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NcVgF6Jh6Qw8JidRzQd5w_46.980221_16.123652@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898562,
-    "wof:geomhash":"c52e0b11f1335d0cd1d1030a09dfc8ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"626c1839c83ddc50245a4c03e4381a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838611,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092051355
+        }
+    ],
     "wof:id":1092051355,
-    "wof:lastmodified":1473983559,
+    "wof:lastmodified":1496908707,
     "wof:name":"Sport Vital Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

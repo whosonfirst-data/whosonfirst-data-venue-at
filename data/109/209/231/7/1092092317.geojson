@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7380485535,47.2397766113,10.7380485535,47.2397766113",
     "geom:latitude":47.239777,
     "geom:longitude":10.738049,
@@ -23,17 +24,34 @@
     "sg:postcode":"6460",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10DhxkzpyM2hBMeD2N7EDF_47.239777_10.738049@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900360,
-    "wof:geomhash":"2d85f5a99137757311260018252e3c21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"129d39f7b809c326c7db222bc690e744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092092317
+        }
+    ],
     "wof:id":1092092317,
-    "wof:lastmodified":1473983708,
+    "wof:lastmodified":1496898330,
     "wof:name":"Bezirksgericht Imst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

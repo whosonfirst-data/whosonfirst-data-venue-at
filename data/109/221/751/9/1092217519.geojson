@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9469137192,47.9339065552,12.9469137192,47.9339065552",
     "geom:latitude":47.933907,
     "geom:longitude":12.946914,
@@ -23,17 +24,33 @@
     "sg:postcode":"5110",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837167,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59iLv814xSFho0zEgVpqt7_47.933907_12.946914@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906308,
-    "wof:geomhash":"df5b7448e031c8c6a0dde31080edc636",
-    "wof:hierarchy":[],
+    "wof:geomhash":"572a48eabdf293939705a1c7e4e6a616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837167,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092217519
+        }
+    ],
     "wof:id":1092217519,
-    "wof:lastmodified":1473984861,
+    "wof:lastmodified":1496895582,
     "wof:name":"Shell Austria GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

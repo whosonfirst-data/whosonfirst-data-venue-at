@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1732120514,48.2118911743,16.1732120514,48.2118911743",
     "geom:latitude":48.211891,
     "geom:longitude":16.173212,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906856,
-    "wof:geomhash":"c8bd107e1cea442c1266cf8e1fabf474",
+    "wof:geomhash":"0443e322d95d5da88e1eb8e21e4e562d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092230921
         }
     ],
     "wof:id":1092230921,
-    "wof:lastmodified":1473983444,
+    "wof:lastmodified":1496888154,
     "wof:name":"Tennishallen Trautenberger",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

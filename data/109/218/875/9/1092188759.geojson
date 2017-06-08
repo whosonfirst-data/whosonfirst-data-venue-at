@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7170791626,47.1494064331,10.7170791626,47.1494064331",
     "geom:latitude":47.149406,
     "geom:longitude":10.717079,
@@ -32,17 +33,33 @@
         "adventure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837457,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BgmdryMsCCXkcJ6m9Fy9q_47.149406_10.717079@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904971,
-    "wof:geomhash":"2fe2355f736dc08e75c729e560de042e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"387059c4c2857737e53946cdb1edb911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837457,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092188759
+        }
+    ],
     "wof:id":1092188759,
-    "wof:lastmodified":1473985069,
+    "wof:lastmodified":1496897992,
     "wof:name":"Gundolf Georg Parataxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3149032593,48.0625991821,16.3149032593,48.0625991821",
     "geom:latitude":48.062599,
     "geom:longitude":16.314903,
@@ -33,17 +34,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834869,
+        85632785,
+        101754185,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vzVzR8UGvZmkLl9FC9UQ9_48.062599_16.314903@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898938,
-    "wof:geomhash":"b0cb022eb885b4cbfe4d5f726569dc2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a95914d9f9b7f313fe84bf61edb11b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108834869,
+            "locality_id":101754185,
+            "region_id":85681671,
+            "venue_id":1092060923
+        }
+    ],
     "wof:id":1092060923,
-    "wof:lastmodified":1473983569,
+    "wof:lastmodified":1496893474,
     "wof:name":"Ing. Walter M\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4461307526,46.7519798279,12.4461307526,46.7519798279",
     "geom:latitude":46.75198,
     "geom:longitude":12.446131,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837523,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UjJR3gDO7l185p7qkuQsp_46.751980_12.446131@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888437,
-    "wof:geomhash":"b4932d8a10859d9040327af97fd0de0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ac081e5992689452df4fb91b528300f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837523,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091822007
+        }
+    ],
     "wof:id":1091822007,
-    "wof:lastmodified":1473983825,
+    "wof:lastmodified":1496898278,
     "wof:name":"Ing. Andreas Lusser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

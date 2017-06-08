@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0435180664,47.8272743225,13.0435180664,47.8272743225",
     "geom:latitude":47.827274,
     "geom:longitude":13.043518,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904029,
-    "wof:geomhash":"360de789641cfe673fe6250146114587",
+    "wof:geomhash":"1fcfbdca26c612cf35dc0173ead4a7ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092168061
         }
     ],
     "wof:id":1092168061,
-    "wof:lastmodified":1473984943,
+    "wof:lastmodified":1496922856,
     "wof:name":"Binder Landtechnik GesmbH",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

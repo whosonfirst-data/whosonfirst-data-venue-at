@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.066619873,47.7522583008,13.066619873,47.7522583008",
     "geom:latitude":47.752258,
     "geom:longitude":13.06662,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914922,
-    "wof:geomhash":"c548c18d37e198de7e04db2876bb0597",
+    "wof:geomhash":"48808a6da3b4bb27f8ff323b0ee626fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1092410913
         }
     ],
     "wof:id":1092410913,
-    "wof:lastmodified":1473983485,
+    "wof:lastmodified":1496895172,
     "wof:name":"Gugl Fenster mit Profil",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

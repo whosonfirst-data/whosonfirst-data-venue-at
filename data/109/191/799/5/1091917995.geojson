@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3509922028,47.2639694214,11.3509922028,47.2639694214",
     "geom:latitude":47.263969,
     "geom:longitude":11.350992,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892914,
-    "wof:geomhash":"8628c87c6c2b26579642d0ac540adc86",
+    "wof:geomhash":"25e4e6b2c039c7a876601bb785c670f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1091917995
         }
     ],
     "wof:id":1091917995,
-    "wof:lastmodified":1473984541,
+    "wof:lastmodified":1496899334,
     "wof:name":"Sonnenstudio Sunny Island",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1342945099,47.3794517517,16.1342945099,47.3794517517",
     "geom:latitude":47.379452,
     "geom:longitude":16.134295,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838567,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U6jUFUHqse8LRakmKai8T_47.379452_16.134295@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889229,
-    "wof:geomhash":"766dab287e39dd9eee9ec94d51d9bca4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82d17a50ac298ff26decfb8e2eff9be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838567,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091839045
+        }
+    ],
     "wof:id":1091839045,
-    "wof:lastmodified":1473985246,
+    "wof:lastmodified":1496908507,
     "wof:name":"Franz Zelenka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

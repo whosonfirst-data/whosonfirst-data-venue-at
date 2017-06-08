@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2163705826,46.818157196,15.2163705826,46.818157196",
     "geom:latitude":46.818157,
     "geom:longitude":15.216371,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        101788963,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ChoPWgP2Y29Xakrs5qfZO_46.818157_15.216371@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906499,
-    "wof:geomhash":"57375a2a9092ab9d936bdaeebc88fd9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"022cc70cb93e606a061c552e60c0395c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":101788963,
+            "region_id":85681687,
+            "venue_id":1092222357
+        }
+    ],
     "wof:id":1092222357,
-    "wof:lastmodified":1473983886,
+    "wof:lastmodified":1496912626,
     "wof:name":"Taxi - Landsbergtaxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

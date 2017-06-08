@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4588127136,48.2637939453,16.4588127136,48.2637939453",
     "geom:latitude":48.263794,
     "geom:longitude":16.458813,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912237,
-    "wof:geomhash":"bde8a5f4ebc4a18d49aeb4d9881eb5d1",
+    "wof:geomhash":"ba059a3077439a66f4c5b40832610b8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092353645
         }
     ],
     "wof:id":1092353645,
-    "wof:lastmodified":1473983996,
+    "wof:lastmodified":1496903159,
     "wof:name":"MM M\u00f6bel & Meer - Massivholzm\u00f6bel",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

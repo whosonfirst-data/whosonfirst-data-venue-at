@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9579238892,47.7853736877,12.9579238892,47.7853736877",
     "geom:latitude":47.785374,
     "geom:longitude":12.957924,
@@ -25,10 +26,12 @@
     "sg:website":"www.fsb.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904373,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889274,
-    "wof:geomhash":"1cceb6bc6456ca4dec7f51592f36ff8b",
+    "wof:geomhash":"e668927554406d9a4eef92f8b092b583",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85904373,
             "region_id":85681681,
             "venue_id":1091840053
         }
     ],
     "wof:id":1091840053,
-    "wof:lastmodified":1473983318,
+    "wof:lastmodified":1496895777,
     "wof:name":"FSB Baumaschinen GesmbH",
     "wof:parent_id":85904373,
     "wof:placetype":"venue",

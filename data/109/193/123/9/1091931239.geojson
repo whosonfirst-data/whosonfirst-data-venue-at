@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5972146988,47.119228363,15.5972146988,47.119228363",
     "geom:latitude":47.119228,
     "geom:longitude":15.597215,
@@ -23,17 +24,33 @@
     "sg:postcode":"8063",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839209,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W50aWSjjeSoWeDwViw4FD_47.119228_15.597215@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893559,
-    "wof:geomhash":"aa293aea28f35732982412c53e08c316",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5d35d4e6419f840fac4237c6400d25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839209,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091931239
+        }
+    ],
     "wof:id":1091931239,
-    "wof:lastmodified":1473983634,
+    "wof:lastmodified":1496911958,
     "wof:name":"Sportverein Eggersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

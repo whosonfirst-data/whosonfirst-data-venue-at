@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4050064087,48.1422576904,16.4050064087,48.1422576904",
     "geom:latitude":48.142258,
     "geom:longitude":16.405006,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898276,
-    "wof:geomhash":"9140eccbcf6824db8169ef7363dc17e3",
+    "wof:geomhash":"5783c858f18a5b145a3ae72651f48005",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092043783
         }
     ],
     "wof:id":1092043783,
-    "wof:lastmodified":1473983489,
+    "wof:lastmodified":1496902147,
     "wof:name":"AIRO Tower Hotel Inh Airo Hotel Betriebs GesmbH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9775476456,47.0403251648,10.9775476456,47.0403251648",
     "geom:latitude":47.040325,
     "geom:longitude":10.977548,
@@ -34,17 +35,34 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837421,
+        85632785,
+        101785593,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lOcjrs5gvDKgPgHu4tyDB_47.040325_10.977548@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905399,
-    "wof:geomhash":"945989ee266b454044e466da34ba69d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04ec35c9dff4eede2e6038020a19415a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837421,
+            "locality_id":101785593,
+            "region_id":85681661,
+            "venue_id":1092198873
+        }
+    ],
     "wof:id":1092198873,
-    "wof:lastmodified":1473985262,
+    "wof:lastmodified":1496897775,
     "wof:name":"Franz Granbichler Betonschneidedienst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8386039734,47.1360282898,9.8386039734,47.1360282898",
     "geom:latitude":47.136028,
     "geom:longitude":9.838604,
@@ -23,17 +24,33 @@
     "sg:postcode":"6700",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_020HPZxoFgpdhgMXYqZrZz_47.136028_9.838604@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909067,
-    "wof:geomhash":"c8a2e42ab56007f6a50333d778060793",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f859f440cc25d9f635b64c3dd81b62e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092280769
+        }
+    ],
     "wof:id":1092280769,
-    "wof:lastmodified":1473983409,
+    "wof:lastmodified":1496900608,
     "wof:name":"FLEIGA-Erdbau GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

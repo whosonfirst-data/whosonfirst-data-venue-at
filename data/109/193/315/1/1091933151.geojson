@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1264839172,47.892375946,13.1264839172,47.892375946",
     "geom:latitude":47.892376,
     "geom:longitude":13.126484,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.heiss-hutticher.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        101833109,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6t9oIJHu4RcLBnbbk8HQOx_47.892376_13.126484@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893648,
-    "wof:geomhash":"400d8271f22437782adbc233e04108d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b60b6059434112ce3defa530120a6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":101833109,
+            "region_id":85681681,
+            "venue_id":1091933151
+        }
+    ],
     "wof:id":1091933151,
-    "wof:lastmodified":1473984102,
+    "wof:lastmodified":1496895806,
     "wof:name":"Autohaus Heiss & Hutticher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5226840973,48.2338600159,16.5226840973,48.2338600159",
     "geom:latitude":48.23386,
     "geom:longitude":16.522684,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903274,
-    "wof:geomhash":"23d5c0408e1bd5c74edb7904d88655e9",
+    "wof:geomhash":"ae9447ee6f836069080e432a67113ee2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092151495
         }
     ],
     "wof:id":1092151495,
-    "wof:lastmodified":1473983605,
+    "wof:lastmodified":1496905029,
     "wof:name":"Kleingartenverein Himmelteich",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

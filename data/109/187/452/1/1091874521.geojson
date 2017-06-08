@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1514663696,47.8568115234,13.1514663696,47.8568115234",
     "geom:latitude":47.856812,
     "geom:longitude":13.151466,
@@ -23,17 +24,33 @@
     "sg:postcode":"5301",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r0PxWFtpoc2veH14aPJR3_47.856812_13.151466@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890888,
-    "wof:geomhash":"ed9d03543380f4990e2550f08e517a26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"306653fb5cf9cd39f36e44d87e89a20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091874521
+        }
+    ],
     "wof:id":1091874521,
-    "wof:lastmodified":1473984088,
+    "wof:lastmodified":1496895303,
     "wof:name":"Schnittblumengro\u00dfhandel Stepan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

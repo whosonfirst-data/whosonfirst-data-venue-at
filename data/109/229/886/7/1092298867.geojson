@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7921056747,47.2985649109,12.7921056747,47.2985649109",
     "geom:latitude":47.298565,
     "geom:longitude":12.792106,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2etC6JL22czw3h6OSCroU3_47.298565_12.792106@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909829,
-    "wof:geomhash":"abcf602e729d3a93f6412edf960b20f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"671fee8c5589dc4954dda70dec919fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092298867
+        }
+    ],
     "wof:id":1092298867,
-    "wof:lastmodified":1473985216,
+    "wof:lastmodified":1496896429,
     "wof:name":"Dorli Appartements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8481893539,47.1599235535,11.8481893539,47.1599235535",
     "geom:latitude":47.159924,
     "geom:longitude":11.848189,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        101789121,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JvNS5wazgF94f4vqwKfRI_47.159924_11.848189@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898891,
-    "wof:geomhash":"8db20f7dded163e668b63fd733c92d21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b94f10b43545bd091032f9007ef55f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":101789121,
+            "region_id":85681661,
+            "venue_id":1092059783
+        }
+    ],
     "wof:id":1092059783,
-    "wof:lastmodified":1473985208,
+    "wof:lastmodified":1496900424,
     "wof:name":"Eberharter Installations GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

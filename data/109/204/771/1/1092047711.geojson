@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2579240799,47.1257324219,10.2579240799,47.1257324219",
     "geom:latitude":47.125732,
     "geom:longitude":10.257924,
@@ -29,17 +30,34 @@
     "sg:province":"Tirol",
     "sg:website":"www.montjola.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        101826319,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OBIUlGpF1WygD8Zz0aqMF_47.125732_10.257924@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898423,
-    "wof:geomhash":"2392157d7e91f16629cbcd7b3aa2f10a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"843dcd39713b6d1cc63033e2fa7a7c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":101826319,
+            "region_id":85681661,
+            "venue_id":1092047711
+        }
+    ],
     "wof:id":1092047711,
-    "wof:lastmodified":1473984144,
+    "wof:lastmodified":1496896914,
     "wof:name":"Hotel Montjola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

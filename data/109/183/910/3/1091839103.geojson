@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3492918015,47.1452522278,11.3492918015,47.1452522278",
     "geom:latitude":47.145252,
     "geom:longitude":11.349292,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837587,
+        85632785,
+        101873991,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vTDZNInsqTcGW0qMaZvfH_47.145252_11.349292@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889232,
-    "wof:geomhash":"9dc97177d7daeaa522d0e84b8c0473c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6cce233126fe2293efe39cb1351ff9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837587,
+            "locality_id":101873991,
+            "region_id":85681661,
+            "venue_id":1091839103
+        }
+    ],
     "wof:id":1091839103,
-    "wof:lastmodified":1473985246,
+    "wof:lastmodified":1496898612,
     "wof:name":"Hubert Happacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

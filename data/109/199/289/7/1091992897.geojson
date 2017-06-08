@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9223737717,47.9731674194,12.9223737717,47.9731674194",
     "geom:latitude":47.973167,
     "geom:longitude":12.922374,
@@ -23,17 +24,33 @@
     "sg:postcode":"5111",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837119,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UU1HoJuVfVLXFZRQukpss_47.973167_12.922374@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896230,
-    "wof:geomhash":"f3503015584de8a233bcc397494a6ce3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3c8c2b82a90a30307717c5893766274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837119,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091992897
+        }
+    ],
     "wof:id":1091992897,
-    "wof:lastmodified":1473983859,
+    "wof:lastmodified":1496895238,
     "wof:name":"Tarnowskij Vitus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

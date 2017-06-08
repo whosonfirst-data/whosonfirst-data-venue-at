@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1860523224,47.9214057922,16.1860523224,47.9214057922",
     "geom:latitude":47.921406,
     "geom:longitude":16.186052,
@@ -23,17 +24,34 @@
     "sg:postcode":"2551",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836361,
+        85632785,
+        101833187,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nEjOnTWId7G92K9z22IBH_47.921406_16.186052@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888954,
-    "wof:geomhash":"8ad13baafdc43a7d3dff308e01f90a01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"841d20d8b4ec7c730fa7ebb98a4688db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836361,
+            "locality_id":101833187,
+            "region_id":85681671,
+            "venue_id":1091833005
+        }
+    ],
     "wof:id":1091833005,
-    "wof:lastmodified":1473983862,
+    "wof:lastmodified":1496890701,
     "wof:name":"Bankomat d Vereinigten Volksbanken Baden-M\u00f6dling-Liesing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

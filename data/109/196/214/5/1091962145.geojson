@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2583942413,48.1289176941,16.2583942413,48.1289176941",
     "geom:latitude":48.128918,
     "geom:longitude":16.258394,
@@ -29,10 +30,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894909,
-    "wof:geomhash":"38dd6d7cfc216339f8b0863e9f6a2790",
+    "wof:geomhash":"1c0b7329a8d5e7976a4da3329f722675",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091962145
         }
     ],
     "wof:id":1091962145,
-    "wof:lastmodified":1473983632,
+    "wof:lastmodified":1496885826,
     "wof:name":"Angelinis",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

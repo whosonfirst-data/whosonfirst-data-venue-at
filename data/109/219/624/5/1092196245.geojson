@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0602903366,47.4295959473,15.0602903366,47.4295959473",
     "geom:latitude":47.429596,
     "geom:longitude":15.06029,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"microcim.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838989,
+        85632785,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06Tdo3dUvJYsbLMe51lL0B_47.429596_15.060290@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905294,
-    "wof:geomhash":"9a3b60dec43309be84df3ac5a4428c36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"710f1173b4086f2e352d14977d00ab05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838989,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092196245
+        }
+    ],
     "wof:id":1092196245,
-    "wof:lastmodified":1473984715,
+    "wof:lastmodified":1496910691,
     "wof:name":"microCim Computer-integrierte Produktion Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5968151093,47.2378997803,9.5968151093,47.2378997803",
     "geom:latitude":47.2379,
     "geom:longitude":9.596815,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903337,
-    "wof:geomhash":"13737ee0e7c47651898b34e5172c035b",
+    "wof:geomhash":"53b7267de6e5f86a1dd280c5b743a3d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092152879
         }
     ],
     "wof:id":1092152879,
-    "wof:lastmodified":1473983851,
+    "wof:lastmodified":1496900962,
     "wof:name":"Werbegemeinschaft d Einkaufsstadt Fedlkirch",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

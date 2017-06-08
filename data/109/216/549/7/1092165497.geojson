@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4099178314,47.2321472168,11.4099178314,47.2321472168",
     "geom:latitude":47.232147,
     "geom:longitude":11.409918,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903910,
-    "wof:geomhash":"e36f5a45b7395fd3d2e255d9f96a41d2",
+    "wof:geomhash":"ea1e0fd469dc3050252d41ad6014235e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092165497
         }
     ],
     "wof:id":1092165497,
-    "wof:lastmodified":1473984390,
+    "wof:lastmodified":1496899395,
     "wof:name":"M\u00e4rchenerz\u00e4hlerin Frau Wolle",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

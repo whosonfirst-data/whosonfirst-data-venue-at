@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6368236542,47.279335022,9.6368236542,47.279335022",
     "geom:latitude":47.279335,
     "geom:longitude":9.636824,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908897,
-    "wof:geomhash":"a68938a0cfec82a36c19a6461c6f482d",
+    "wof:geomhash":"918372d077944f6e35f4d9bf16142826",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092276969
         }
     ],
     "wof:id":1092276969,
-    "wof:lastmodified":1473985040,
+    "wof:lastmodified":1496901662,
     "wof:name":"GRAF Elektrotechnische Produkte",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

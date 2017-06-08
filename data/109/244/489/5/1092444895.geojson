@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0580034256,47.7701644897,13.0580034256,47.7701644897",
     "geom:latitude":47.770164,
     "geom:longitude":13.058003,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916607,
-    "wof:geomhash":"d02a883285c7124e9cf06fb9a217a462",
+    "wof:geomhash":"586f798b7a941768ad814a2ee640b6c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1092444895
         }
     ],
     "wof:id":1092444895,
-    "wof:lastmodified":1473984538,
+    "wof:lastmodified":1496922948,
     "wof:name":"Frisiersalon Edelmayer",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

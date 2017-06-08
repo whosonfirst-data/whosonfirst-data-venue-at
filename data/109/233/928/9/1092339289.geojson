@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9388208389,48.1383628845,15.9388208389,48.1383628845",
     "geom:latitude":48.138363,
     "geom:longitude":15.938821,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.medicalnet.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836931,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WIzKUpA5ZCVpLWMo8KnO9_48.138363_15.938821@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911602,
-    "wof:geomhash":"b7a687bb91a20e71ded05f22b9a4b8df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97a42c32b4ef5556fb05d360e89097e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836931,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092339289
+        }
+    ],
     "wof:id":1092339289,
-    "wof:lastmodified":1473985311,
+    "wof:lastmodified":1496893399,
     "wof:name":"medical net",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.226650238,48.2078399658,16.226650238,48.2078399658",
     "geom:latitude":48.20784,
     "geom:longitude":16.22665,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890756,
-    "wof:geomhash":"2e62f34f79c3e492534caf5c4cab3103",
+    "wof:geomhash":"db892ab498e37c241a750c7b03948d27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1091871943
         }
     ],
     "wof:id":1091871943,
-    "wof:lastmodified":1473983651,
+    "wof:lastmodified":1496902333,
     "wof:name":"Blumenhandlung Schrenk",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

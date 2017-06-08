@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5118961334,47.2850341797,11.5118961334,47.2850341797",
     "geom:latitude":47.285034,
     "geom:longitude":11.511896,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914416,
-    "wof:geomhash":"93aea5bfa30dc79c26da8ae3d1c3329c",
+    "wof:geomhash":"e68268220bd87f430cff83163b4fcad2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092399971
         }
     ],
     "wof:id":1092399971,
-    "wof:lastmodified":1473985128,
+    "wof:lastmodified":1496898730,
     "wof:name":"Maslowski Boguslaw",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

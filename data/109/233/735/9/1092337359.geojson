@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2641830444,48.9306602478,15.2641830444,48.9306602478",
     "geom:latitude":48.93066,
     "geom:longitude":15.264183,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"obermuehle.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835021,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gl6kib1yCxuGbbM28ND8m_48.930660_15.264183@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911509,
-    "wof:geomhash":"6bc6e84ba75ca260842bb8cf97fb07f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"101b2a5f547272476efb0fbfc4036e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835021,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092337359
+        }
+    ],
     "wof:id":1092337359,
-    "wof:lastmodified":1473985080,
+    "wof:lastmodified":1496884215,
     "wof:name":"Oberm\u00fchle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

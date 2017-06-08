@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8704395294,47.9871444702,16.8704395294,47.9871444702",
     "geom:latitude":47.987144,
     "geom:longitude":16.87044,
@@ -23,17 +24,34 @@
     "sg:postcode":"7111",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838627,
+        85632785,
+        101785755,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R9RNXtutwDp5ayKDF8Xbs_47.987144_16.870440@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888413,
-    "wof:geomhash":"b8305bee1206b1dd46159ee4373648a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de90f4e2acdcfc5593cb5073e196a893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838627,
+            "locality_id":101785755,
+            "region_id":85681651,
+            "venue_id":1091821423
+        }
+    ],
     "wof:id":1091821423,
-    "wof:lastmodified":1473983670,
+    "wof:lastmodified":1496908899,
     "wof:name":"Bahnhof Parndorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

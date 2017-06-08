@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0035123825,47.825302124,13.0035123825,47.825302124",
     "geom:latitude":47.825302,
     "geom:longitude":13.003512,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898521,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        101913413,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901817,
-    "wof:geomhash":"e090f11633769bb6b484ff60acd96004",
+    "wof:geomhash":"957014e0bf8bf38f5eb81309236f6749",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101913413,
             "neighbourhood_id":85898521,
             "region_id":85681681,
             "venue_id":1092121163
         }
     ],
     "wof:id":1092121163,
-    "wof:lastmodified":1473983670,
+    "wof:lastmodified":1496894603,
     "wof:name":"Woitzik Reinhard Dr",
     "wof:parent_id":85898521,
     "wof:placetype":"venue",

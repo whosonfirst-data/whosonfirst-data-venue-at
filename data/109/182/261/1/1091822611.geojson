@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.32310009,46.9134407043,15.32310009,46.9134407043",
     "geom:latitude":46.913441,
     "geom:longitude":15.3231,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839293,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LHij0xyS0MZ4HK0p743ee_46.913441_15.323100@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888463,
-    "wof:geomhash":"4afa0ee9ce11027b827e2c175508c964",
-    "wof:hierarchy":[],
+    "wof:geomhash":"683a34cb2e2b71a60351d63f5e82a48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839293,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091822611
+        }
+    ],
     "wof:id":1091822611,
-    "wof:lastmodified":1473983985,
+    "wof:lastmodified":1496912540,
     "wof:name":"Rudolf Ganster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

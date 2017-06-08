@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0840406418,47.784198761,13.0840406418,47.784198761",
     "geom:latitude":47.784199,
     "geom:longitude":13.084041,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903918,
-    "wof:geomhash":"27fedb6e3e3ff01aa2c49b1aa1bac222",
+    "wof:geomhash":"fff1d3687f0bb376ab755df7c499c869",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092165583
         }
     ],
     "wof:id":1092165583,
-    "wof:lastmodified":1473984428,
+    "wof:lastmodified":1496894543,
     "wof:name":"Achammer Andreas Mag Dr",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

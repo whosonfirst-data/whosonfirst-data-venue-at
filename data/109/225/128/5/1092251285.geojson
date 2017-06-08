@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6445121765,47.8962745667,16.6445121765,47.8962745667",
     "geom:latitude":47.896275,
     "geom:longitude":16.644512,
@@ -23,17 +24,34 @@
     "sg:postcode":"7082",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838469,
+        85632785,
+        101785629,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NCMsLiwWiHba6uAreMStq_47.896275_16.644512@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907773,
-    "wof:geomhash":"96a0644cb51e299f22324d4092557320",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b4ef3fc8cdc3243530191de6eac21bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838469,
+            "locality_id":101785629,
+            "region_id":85681651,
+            "venue_id":1092251285
+        }
+    ],
     "wof:id":1092251285,
-    "wof:lastmodified":1473983637,
+    "wof:lastmodified":1496908093,
     "wof:name":"Tourismusverband Donnerskirchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

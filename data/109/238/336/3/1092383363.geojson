@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4416131973,48.0519065857,14.4416131973,48.0519065857",
     "geom:latitude":48.051907,
     "geom:longitude":14.441613,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dg28qQTx7ghVaMI1MGDvO_48.051907_14.441613@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913612,
-    "wof:geomhash":"b6344cd98f89bca0f9a2fc24039c9ed4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"447d07c166a7bdd61a5d830f3f0683a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1092383363
+        }
+    ],
     "wof:id":1092383363,
-    "wof:lastmodified":1473984162,
+    "wof:lastmodified":1496881719,
     "wof:name":"Pizzeria Gabriel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

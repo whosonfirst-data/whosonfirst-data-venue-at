@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2056732178,48.1186943054,16.2056732178,48.1186943054",
     "geom:latitude":48.118694,
     "geom:longitude":16.205673,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913545,
-    "wof:geomhash":"146ffe69593b9cdbf4b0ab465c69dd78",
+    "wof:geomhash":"7988a1bd348067d9e8c7beb4a43607f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092382373
         }
     ],
     "wof:id":1092382373,
-    "wof:lastmodified":1473983960,
+    "wof:lastmodified":1496886521,
     "wof:name":"Kaltenleutgebener Hof - Pizzeria Stefano",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

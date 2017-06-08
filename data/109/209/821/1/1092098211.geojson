@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1600399017,47.2919502258,11.1600399017,47.2919502258",
     "geom:latitude":47.29195,
     "geom:longitude":11.16004,
@@ -33,17 +34,33 @@
         "mirror"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837567,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45Rt5sYWKQ6xch0asMtFIA_47.291950_11.160040@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900715,
-    "wof:geomhash":"26bcf95543f3b1d6dae237a332fcbc1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"348bda99ab07f2727ca78343a5305d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837567,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092098211
+        }
+    ],
     "wof:id":1092098211,
-    "wof:lastmodified":1473984819,
+    "wof:lastmodified":1496898504,
     "wof:name":"Raimund Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

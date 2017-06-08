@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.592467308,47.2365951538,9.592467308,47.2365951538",
     "geom:latitude":47.236595,
     "geom:longitude":9.592467,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915512,
-    "wof:geomhash":"098cd926c5f238f8c2cecb57736735b4",
+    "wof:geomhash":"84dfc1d8ced303808e5367cd6ddb3d9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092421461
         }
     ],
     "wof:id":1092421461,
-    "wof:lastmodified":1473983581,
+    "wof:lastmodified":1496900944,
     "wof:name":"Finanzlandesdirektion f\u00fcr Vorarlberg in Feldkirch",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

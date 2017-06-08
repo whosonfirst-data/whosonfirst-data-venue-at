@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.400633812,47.0388450623,15.400633812,47.0388450623",
     "geom:latitude":47.038845,
     "geom:longitude":15.400634,
@@ -34,10 +35,12 @@
     "sg:website":"bohr-schleifmittelwerk.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901210,
-    "wof:geomhash":"63b8c2f6ea0e92b55d760b449f9f1cff",
+    "wof:geomhash":"15d6a4c8bda460fce0e5c595e848f394",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1092108295
         }
     ],
     "wof:id":1092108295,
-    "wof:lastmodified":1473984888,
+    "wof:lastmodified":1496913060,
     "wof:name":"Diethard Bohr Schleifmittelwerk",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

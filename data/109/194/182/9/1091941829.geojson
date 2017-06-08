@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5012435913,48.0109405518,16.5012435913,48.0109405518",
     "geom:latitude":48.010941,
     "geom:longitude":16.501244,
@@ -31,17 +32,34 @@
         "supervision"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836311,
+        85632785,
+        101784507,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2luNVqbjo3PkvpXx2iuqrC_48.010941_16.501244@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473894023,
-    "wof:geomhash":"5ad266db594ae6179a99b9fa81fbf900",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a8b4c07544dd07410bddd0b8848c07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836311,
+            "locality_id":101784507,
+            "region_id":85681671,
+            "venue_id":1091941829
+        }
+    ],
     "wof:id":1091941829,
-    "wof:lastmodified":1473983686,
+    "wof:lastmodified":1496891889,
     "wof:name":"Bauer Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

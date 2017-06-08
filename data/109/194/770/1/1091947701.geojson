@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1197729111,47.8980178833,13.1197729111,47.8980178833",
     "geom:latitude":47.898018,
     "geom:longitude":13.119773,
@@ -23,17 +24,34 @@
     "sg:postcode":"5201",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        101833109,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54vmtraK7txIHmXgDfkrWG_47.898018_13.119773@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894279,
-    "wof:geomhash":"ed28627052885c4f8d4e11257dda7013",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ed93cc7d82bb373979ce15f52cf238c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":101833109,
+            "region_id":85681681,
+            "venue_id":1091947701
+        }
+    ],
     "wof:id":1091947701,
-    "wof:lastmodified":1473985045,
+    "wof:lastmodified":1496895797,
     "wof:name":"Rechenzentrum H\u00f6ckner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

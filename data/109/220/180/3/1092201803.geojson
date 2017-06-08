@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4764728546,48.2281532288,13.4764728546,48.2281532288",
     "geom:latitude":48.228153,
     "geom:longitude":13.476473,
@@ -32,17 +33,33 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835629,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HmkBrJFV4dTyRy7GjEsix_48.228153_13.476473@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905565,
-    "wof:geomhash":"1d013bc6bf5d5359c603c49f66f4e418",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51cbd83a2d055a0d2187a7b9b471f27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835629,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092201803
+        }
+    ],
     "wof:id":1092201803,
-    "wof:lastmodified":1473983778,
+    "wof:lastmodified":1496887744,
     "wof:name":"METALLCHEMIE GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

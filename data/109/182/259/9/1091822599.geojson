@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0479602814,48.0667190552,15.0479602814,48.0667190552",
     "geom:latitude":48.066719,
     "geom:longitude":15.04796,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835725,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zf8Jc53wtJtRfgLblh171_48.066719_15.047960@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888463,
-    "wof:geomhash":"65aa720d2876bcdc3a4924a4df32a5e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b23b99510e382d875ca3d98196a39dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835725,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091822599
+        }
+    ],
     "wof:id":1091822599,
-    "wof:lastmodified":1473983991,
+    "wof:lastmodified":1496888064,
     "wof:name":"Michael Resch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

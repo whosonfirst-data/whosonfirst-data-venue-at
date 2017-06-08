@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0475845337,48.2587013245,13.0475845337,48.2587013245",
     "geom:latitude":48.258701,
     "geom:longitude":13.047585,
@@ -32,17 +33,34 @@
         "aluminium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        101913421,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zdko81VkN7DUVqawchKd8_48.258701_13.047585@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905248,
-    "wof:geomhash":"bd7bd9af5ce0c7cbadaf6ee0411ff942",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4daf6ff9554655a87820f8be040347a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":101913421,
+            "region_id":85681677,
+            "venue_id":1092195209
+        }
+    ],
     "wof:id":1092195209,
-    "wof:lastmodified":1473984512,
+    "wof:lastmodified":1496882216,
     "wof:name":"Sallhofer GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

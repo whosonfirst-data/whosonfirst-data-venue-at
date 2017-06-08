@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6478910446,47.2727584839,9.6478910446,47.2727584839",
     "geom:latitude":47.272758,
     "geom:longitude":9.647891,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899268,
-    "wof:geomhash":"b445c6af5ce59626371d924474e66316",
+    "wof:geomhash":"8af81a33852c8553a7c631208153b832",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092068969
         }
     ],
     "wof:id":1092068969,
-    "wof:lastmodified":1473984988,
+    "wof:lastmodified":1496901635,
     "wof:name":"Gasthaus Sonne",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

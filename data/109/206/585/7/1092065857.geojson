@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.622338295,47.2892417908,11.622338295,47.2892417908",
     "geom:latitude":47.289242,
     "geom:longitude":11.622338,
@@ -23,17 +24,33 @@
     "sg:postcode":"6114",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837535,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WLAJNgCd6JtTtG2EXDvkM_47.289242_11.622338@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899136,
-    "wof:geomhash":"5cc7831490ad00280714b90a25207198",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3b2903eeff307e7b9b2ad0a916c99ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837535,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092065857
+        }
+    ],
     "wof:id":1092065857,
-    "wof:lastmodified":1473984404,
+    "wof:lastmodified":1496898415,
     "wof:name":"Gasthaus Gartlach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

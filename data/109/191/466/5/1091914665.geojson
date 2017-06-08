@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0626993179,47.3616409302,15.0626993179,47.3616409302",
     "geom:latitude":47.361641,
     "geom:longitude":15.062699,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898543,
-        102049769
+        102191581,
+        1108839009,
+        85632785,
+        101834299,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892779,
-    "wof:geomhash":"b0fe76a10d0b1a584675a09bc601aba7",
+    "wof:geomhash":"e6e805838ac6f7419d818f3b20d73ff5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":101834299,
             "neighbourhood_id":85898543,
             "region_id":85681687,
             "venue_id":1091914665
         }
     ],
     "wof:id":1091914665,
-    "wof:lastmodified":1473983905,
+    "wof:lastmodified":1496910791,
     "wof:name":"microCIM GmbH",
     "wof:parent_id":85898543,
     "wof:placetype":"venue",

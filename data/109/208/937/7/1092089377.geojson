@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3964653015,47.5340995789,16.3964653015,47.5340995789",
     "geom:latitude":47.5341,
     "geom:longitude":16.396465,
@@ -23,17 +24,33 @@
     "sg:postcode":"7342",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838689,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gkfc2kn5fHlEgBwmoVmui_47.534100_16.396465@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900203,
-    "wof:geomhash":"144427224f128cd3c4df5299f9591e32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbeac8610b169fe7b94c97049e2c35fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838689,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092089377
+        }
+    ],
     "wof:id":1092089377,
-    "wof:lastmodified":1473985195,
+    "wof:lastmodified":1496909111,
     "wof:name":"Gemeindeamt Kaisersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

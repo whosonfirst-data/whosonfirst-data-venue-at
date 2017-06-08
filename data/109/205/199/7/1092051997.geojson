@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6452131271,47.3040122986,11.6452131271,47.3040122986",
     "geom:latitude":47.304012,
     "geom:longitude":11.645213,
@@ -28,17 +29,34 @@
     "sg:postcode":"6114",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837659,
+        85632785,
+        101789075,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6opHGAjlppKFBPfILpdqBc_47.304012_11.645213@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898586,
-    "wof:geomhash":"7c97f6a2645e1439046aa88f5416eae9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"448bbe63e5459e6fbf74f52236abe85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837659,
+            "locality_id":101789075,
+            "region_id":85681661,
+            "venue_id":1092051997
+        }
+    ],
     "wof:id":1092051997,
-    "wof:lastmodified":1473983687,
+    "wof:lastmodified":1496899730,
     "wof:name":"Weererwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

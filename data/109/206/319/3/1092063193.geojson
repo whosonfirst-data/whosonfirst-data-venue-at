@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.815984726,47.3218994141,12.815984726,47.3218994141",
     "geom:latitude":47.321899,
     "geom:longitude":12.815985,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xBbKynMFTp3IC1J5aUwG3_47.321899_12.815985@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899033,
-    "wof:geomhash":"05f0133fc5cdabb1f79776ace0ffc9cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96ed9c538b2d3b5d56d3aa67ee7e094b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092063193
+        }
+    ],
     "wof:id":1092063193,
-    "wof:lastmodified":1473983976,
+    "wof:lastmodified":1496896419,
     "wof:name":"Cafe-Restaurant-Gasthaus Seestrand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

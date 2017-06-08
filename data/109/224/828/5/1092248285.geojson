@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0985555649,47.5829620361,12.0985555649,47.5829620361",
     "geom:latitude":47.582962,
     "geom:longitude":12.098556,
@@ -23,17 +24,33 @@
     "sg:postcode":"6335",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837271,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gp7K5gvZDgyC7yL4zEGKF_47.582962_12.098556@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907635,
-    "wof:geomhash":"3c1c506d92f8e1fd717ff5b4b26352fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dbda75616622a475084d2175d1872c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837271,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092248285
+        }
+    ],
     "wof:id":1092248285,
-    "wof:lastmodified":1473984953,
+    "wof:lastmodified":1496896573,
     "wof:name":"Trainer Hans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

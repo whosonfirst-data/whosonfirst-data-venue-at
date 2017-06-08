@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5985889435,48.4682350159,15.5985889435,48.4682350159",
     "geom:latitude":48.468235,
     "geom:longitude":15.598589,
@@ -33,17 +34,33 @@
         "shingle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835907,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LLdzusvIYHx2BidLvcX3n_48.468235_15.598589@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890655,
-    "wof:geomhash":"32a6b927cb94d3ca61b9e18a63319ef3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1006fa5d3eba512746893f7f8f7463c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835907,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091869873
+        }
+    ],
     "wof:id":1091869873,
-    "wof:lastmodified":1473985331,
+    "wof:lastmodified":1496888830,
     "wof:name":"Mobile Spenglerei Klaus Kopetzky",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

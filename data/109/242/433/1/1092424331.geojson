@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4968891144,48.2540664673,16.4968891144,48.2540664673",
     "geom:latitude":48.254066,
     "geom:longitude":16.496889,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915647,
-    "wof:geomhash":"269c42a51276ed68c38f208c80ba7b20",
+    "wof:geomhash":"46e7defac208448c8e36c09e91bdec9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092424331
         }
     ],
     "wof:id":1092424331,
-    "wof:lastmodified":1473984183,
+    "wof:lastmodified":1496904554,
     "wof:name":"Elfriede Hainz",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

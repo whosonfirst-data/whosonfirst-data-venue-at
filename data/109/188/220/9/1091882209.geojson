@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1571063995,48.1467971802,15.1571063995,48.1467971802",
     "geom:latitude":48.146797,
     "geom:longitude":15.157106,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836959,
+        85632785,
+        101843313,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65d35QdFneX26DTz2LwdRF_48.146797_15.157106@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891227,
-    "wof:geomhash":"60bb47059eaf10a3f6e5e162262320d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9e4d472aabbe73994da8b4716740f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836959,
+            "locality_id":101843313,
+            "region_id":85681671,
+            "venue_id":1091882209
+        }
+    ],
     "wof:id":1091882209,
-    "wof:lastmodified":1473983802,
+    "wof:lastmodified":1496893548,
     "wof:name":"ANTON HAUBENBERGER GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

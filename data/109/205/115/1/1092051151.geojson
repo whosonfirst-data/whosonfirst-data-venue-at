@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2673721313,48.1890411377,16.2673721313,48.1890411377",
     "geom:latitude":48.189041,
     "geom:longitude":16.267372,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898554,
-    "wof:geomhash":"d714a2f70407e5e8e8e3c475ec779115",
+    "wof:geomhash":"132b3d3d862c7af78859023bd29ee46d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092051151
         }
     ],
     "wof:id":1092051151,
-    "wof:lastmodified":1473983545,
+    "wof:lastmodified":1496902214,
     "wof:name":"Schneider-G\u00f6ssl Magdalena",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

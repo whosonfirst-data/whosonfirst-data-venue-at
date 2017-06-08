@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4843559265,48.2515830994,16.4843559265,48.2515830994",
     "geom:latitude":48.251583,
     "geom:longitude":16.484356,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889353,
-    "wof:geomhash":"987192affa8498f907bb2afc6e46aa9e",
+    "wof:geomhash":"2798e7aabacefb9d3a7edb39c8e5e78a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1091842061
         }
     ],
     "wof:id":1091842061,
-    "wof:lastmodified":1473983753,
+    "wof:lastmodified":1496902748,
     "wof:name":"Schicker Wolfgang",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

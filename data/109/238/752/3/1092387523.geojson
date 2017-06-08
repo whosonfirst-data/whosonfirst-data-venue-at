@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1397857666,48.0565681458,14.1397857666,48.0565681458",
     "geom:latitude":48.056568,
     "geom:longitude":14.139786,
@@ -28,17 +29,34 @@
     "sg:postcode":"4550",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835257,
+        85632785,
+        101785651,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30qbuSq5j7lCXNrBxutEOf_48.056568_14.139786@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913829,
-    "wof:geomhash":"3a2f7fcf8aff74d71fb4fed3c8858473",
-    "wof:hierarchy":[],
+    "wof:geomhash":"645532b6b3ac5ecf9f1070ffa1409cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835257,
+            "locality_id":101785651,
+            "region_id":85681677,
+            "venue_id":1092387523
+        }
+    ],
     "wof:id":1092387523,
-    "wof:lastmodified":1473985092,
+    "wof:lastmodified":1496885658,
     "wof:name":"KUNSTSTOFFWERK KREMSM\u00dcNSTER GMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0915346146,47.7694702148,13.0915346146,47.7694702148",
     "geom:latitude":47.76947,
     "geom:longitude":13.091535,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894281,
-    "wof:geomhash":"863a8fe4b638d9d788c07f942de8882d",
+    "wof:geomhash":"ae57ba0891e9161950c41721a0821e5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1091947771
         }
     ],
     "wof:id":1091947771,
-    "wof:lastmodified":1473985031,
+    "wof:lastmodified":1496895289,
     "wof:name":"Ager Heinz Dr",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

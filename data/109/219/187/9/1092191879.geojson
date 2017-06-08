@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1718683243,48.3343772888,14.1718683243,48.3343772888",
     "geom:latitude":48.334377,
     "geom:longitude":14.171868,
@@ -34,10 +35,13 @@
     "sg:website":"schinkinger.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85904371,
-        102049847
+        102191581,
+        1108836395,
+        85632785,
+        101784615,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905102,
-    "wof:geomhash":"119a95c455d84dfccfe2302157adb815",
+    "wof:geomhash":"fd2eb5a6c3d2f3046b8c71ab484f0592",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836395,
+            "locality_id":101784615,
             "neighbourhood_id":85904371,
             "region_id":85681677,
             "venue_id":1092191879
         }
     ],
     "wof:id":1092191879,
-    "wof:lastmodified":1473983797,
+    "wof:lastmodified":1496890884,
     "wof:name":"Franz Schinkinger",
     "wof:parent_id":85904371,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3301753998,48.1385040283,16.3301753998,48.1385040283",
     "geom:latitude":48.138504,
     "geom:longitude":16.330175,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905774,
-    "wof:geomhash":"4d0f1663dc9d094a0a4da70bca41f046",
+    "wof:geomhash":"476fda8123fdc58dd66b5f16efa0ff6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092205761
         }
     ],
     "wof:id":1092205761,
-    "wof:lastmodified":1473984636,
+    "wof:lastmodified":1496903764,
     "wof:name":"AKUV ADRESSIER U. KUVERTIER GES.MBH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

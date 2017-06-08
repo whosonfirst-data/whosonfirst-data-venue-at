@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8369750977,46.5937728882,13.8369750977,46.5937728882",
     "geom:latitude":46.593773,
     "geom:longitude":13.836975,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910271,
-    "wof:geomhash":"ee8867aa43ba06b4af2d9ee092ba2499",
+    "wof:geomhash":"fa0ffca83e3b8212217cad3e4fe16a73",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092307831
         }
     ],
     "wof:id":1092307831,
-    "wof:lastmodified":1473985113,
+    "wof:lastmodified":1496906080,
     "wof:name":"MEDIA MARKT TV-HIFI-ELEKTRO GES.MBH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6927576065,48.2720603943,15.6927576065,48.2720603943",
     "geom:latitude":48.27206,
     "geom:longitude":15.692758,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        101784543,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zhsxlMwf7MsiiVYtwqiuU_48.272060_15.692758@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892707,
-    "wof:geomhash":"a8376200212b08cddf48d42190721c52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f01fdbc6a50e55a877e64582a365c880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":101784543,
+            "region_id":85681671,
+            "venue_id":1091913311
+        }
+    ],
     "wof:id":1091913311,
-    "wof:lastmodified":1473983722,
+    "wof:lastmodified":1496890048,
     "wof:name":"EdlingeR GmbH Soft & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

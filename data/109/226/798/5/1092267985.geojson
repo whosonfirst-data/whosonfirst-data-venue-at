@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6035995483,47.3163299561,9.6035995483,47.3163299561",
     "geom:latitude":47.31633,
     "geom:longitude":9.6036,
@@ -23,17 +24,33 @@
     "sg:postcode":"6842",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837977,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40YMFegVLL8esyiJZLLTSc_47.316330_9.603600@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908510,
-    "wof:geomhash":"6a524f77784ac2e9d45df2052bb754c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f930610f6258b0ecf75de30a69d4218c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837977,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092267985
+        }
+    ],
     "wof:id":1092267985,
-    "wof:lastmodified":1473984814,
+    "wof:lastmodified":1496901225,
     "wof:name":"Deltawatt Kleinkraftwerke GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

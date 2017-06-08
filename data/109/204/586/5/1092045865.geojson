@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7977981567,47.3407478333,12.7977981567,47.3407478333",
     "geom:latitude":47.340748,
     "geom:longitude":12.797798,
@@ -28,17 +29,34 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837217,
+        85632785,
+        101787925,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k6gSF7OC1eJgfkFJctV6U_47.340748_12.797798@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898350,
-    "wof:geomhash":"e854d42e477c85ef5bf7f42aacaf0568",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a23c3bc0140321134f30c456f8ae2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837217,
+            "locality_id":101787925,
+            "region_id":85681681,
+            "venue_id":1092045865
+        }
+    ],
     "wof:id":1092045865,
-    "wof:lastmodified":1473983852,
+    "wof:lastmodified":1496896424,
     "wof:name":"Hotel Badhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7218112946,48.0129356384,16.7218112946,48.0129356384",
     "geom:latitude":48.012936,
     "geom:longitude":16.721811,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836287,
+        85632785,
+        101784527,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69MegD2lQE06Wp8nxsOsKa_48.012936_16.721811@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913634,
-    "wof:geomhash":"32012e5d4c26c244ac1556f04b2c5907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b9aa4a76ce41c324a3d6b063f41c6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836287,
+            "locality_id":101784527,
+            "region_id":85681671,
+            "venue_id":1092383889
+        }
+    ],
     "wof:id":1092383889,
-    "wof:lastmodified":1473984208,
+    "wof:lastmodified":1496890374,
     "wof:name":"Pizzeria Restaurant Mafiosi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

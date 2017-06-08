@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3517627716,47.5829391479,12.3517627716,47.5829391479",
     "geom:latitude":47.582939,
     "geom:longitude":12.351763,
@@ -23,17 +24,33 @@
     "sg:postcode":"6382",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TiePU4SzYMMNTySnT85ad_47.582939_12.351763@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899130,
-    "wof:geomhash":"11afe315b9062364d5c6e73c84f8e3da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f3572bdfc9d758da020876d9ad964bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092065693
+        }
+    ],
     "wof:id":1092065693,
-    "wof:lastmodified":1473984383,
+    "wof:lastmodified":1496897077,
     "wof:name":"Gasthaus Fischbachalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

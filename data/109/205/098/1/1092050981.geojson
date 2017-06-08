@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3663320541,47.4554786682,12.3663320541,47.4554786682",
     "geom:latitude":47.455479,
     "geom:longitude":12.366332,
@@ -28,17 +29,33 @@
     "sg:postcode":"6370",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iJGqOH3mSPAiFN8z0QXKW_47.455479_12.366332@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898548,
-    "wof:geomhash":"1e236d893daeaad800d8637cd7741fbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55dcfb43ed467aaf194d3456cc743925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092050981
+        }
+    ],
     "wof:id":1092050981,
-    "wof:lastmodified":1473983508,
+    "wof:lastmodified":1496897114,
     "wof:name":"Residenz am Schwarzsee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

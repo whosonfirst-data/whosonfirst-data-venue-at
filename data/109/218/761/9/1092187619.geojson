@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1075992584,47.8495674133,13.1075992584,47.8495674133",
     "geom:latitude":47.849567,
     "geom:longitude":13.107599,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904925,
-    "wof:geomhash":"b533391a0f0275cb8aaba96306978fbd",
+    "wof:geomhash":"a2e6d191da1a60657ac8ef336ab5330c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092187619
         }
     ],
     "wof:id":1092187619,
-    "wof:lastmodified":1473984847,
+    "wof:lastmodified":1496895377,
     "wof:name":"Bau- und Raumentfeuchter Gerhard Pop",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

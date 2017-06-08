@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6120271683,47.216129303,9.6120271683,47.216129303",
     "geom:latitude":47.216129,
     "geom:longitude":9.612027,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908388,
-    "wof:geomhash":"4dab5addacec6c5c86a8544940a3684e",
+    "wof:geomhash":"9407ef0ad57f57c381085817c64942cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092265115
         }
     ],
     "wof:id":1092265115,
-    "wof:lastmodified":1473984425,
+    "wof:lastmodified":1496901001,
     "wof:name":"Karlheinz Korn",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

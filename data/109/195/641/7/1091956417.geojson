@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5905599594,47.2360916138,9.5905599594,47.2360916138",
     "geom:latitude":47.236092,
     "geom:longitude":9.59056,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894672,
-    "wof:geomhash":"a7d2935895c3f58b67d88803d8c71593",
+    "wof:geomhash":"3c6277f99fd55c93109da1e9be4c073d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091956417
         }
     ],
     "wof:id":1091956417,
-    "wof:lastmodified":1473984884,
+    "wof:lastmodified":1496900898,
     "wof:name":"NB Reinigungsservice Barjamovic Nebojsa",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

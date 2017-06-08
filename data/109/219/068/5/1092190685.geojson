@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4702777863,48.3386077881,13.4702777863,48.3386077881",
     "geom:latitude":48.338608,
     "geom:longitude":13.470278,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836035,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cAMKvruoxOheV0FiC0bI9_48.338608_13.470278@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905059,
-    "wof:geomhash":"e16636c89cb27e09237b1c4071404111",
-    "wof:hierarchy":[],
+    "wof:geomhash":"753dd3cb8e6a90bdb9e827506020fa62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836035,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190685
+        }
+    ],
     "wof:id":1092190685,
-    "wof:lastmodified":1473983460,
+    "wof:lastmodified":1496889271,
     "wof:name":"BISO Schrattenecker GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

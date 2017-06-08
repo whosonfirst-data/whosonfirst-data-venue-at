@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0433549881,48.1689033508,14.0433549881,48.1689033508",
     "geom:latitude":48.168903,
     "geom:longitude":14.043355,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KQiUxqpZprmKIp9EIN0tD_48.168903_14.043355@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892806,
-    "wof:geomhash":"ea993900d7479d89db6a75bfe53cc1d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d90a774c34e58ce6ca956481a6ee4c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1091915417
+        }
+    ],
     "wof:id":1091915417,
-    "wof:lastmodified":1473983990,
+    "wof:lastmodified":1496881784,
     "wof:name":"SECOM - Software Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

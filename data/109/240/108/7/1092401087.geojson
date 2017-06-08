@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0730733871,47.8228874207,13.0730733871,47.8228874207",
     "geom:latitude":47.822887,
     "geom:longitude":13.073073,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914461,
-    "wof:geomhash":"bf7de700fb00d41d25d3c63f8fd7b2ad",
+    "wof:geomhash":"358dca0202d900ce8e581a46a7c56563",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092401087
         }
     ],
     "wof:id":1092401087,
-    "wof:lastmodified":1473983553,
+    "wof:lastmodified":1496894686,
     "wof:name":"Schachtner Sonja",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

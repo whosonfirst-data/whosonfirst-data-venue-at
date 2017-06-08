@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4346408844,48.3855667114,16.4346408844,48.3855667114",
     "geom:latitude":48.385567,
     "geom:longitude":16.434641,
@@ -30,17 +31,33 @@
         "cake"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835941,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xqPSadYcA5qcRV7kNyH4d_48.385567_16.434641@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473888051,
-    "wof:geomhash":"42bdfd162fa6d3e5f89239324c76bac1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9e5ffb0a673732ca031ea8884c2d08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108835941,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091813169
+        }
+    ],
     "wof:id":1091813169,
-    "wof:lastmodified":1473983950,
+    "wof:lastmodified":1496889002,
     "wof:name":"Unterleuthner Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

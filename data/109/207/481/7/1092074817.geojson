@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.402797699,47.2350730896,11.402797699,47.2350730896",
     "geom:latitude":47.235073,
     "geom:longitude":11.402798,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899505,
-    "wof:geomhash":"618e44cc98efded917a7509071221882",
+    "wof:geomhash":"55e1e338e75c31c8194aa7b43fd2b207",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092074817
         }
     ],
     "wof:id":1092074817,
-    "wof:lastmodified":1473984197,
+    "wof:lastmodified":1496899385,
     "wof:name":"Gasthof Turmbichl",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

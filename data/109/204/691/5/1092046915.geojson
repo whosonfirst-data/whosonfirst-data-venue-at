@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6298217773,47.2143363953,15.6298217773,47.2143363953",
     "geom:latitude":47.214336,
     "geom:longitude":15.629822,
@@ -28,17 +29,34 @@
     "sg:postcode":"8160",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838919,
+        85632785,
+        101787937,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eXL9hFo4ZBALhH76FkSeg_47.214336_15.629822@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898388,
-    "wof:geomhash":"d91055da23a4d62de8cbfc98d3c293b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3b0564c64f012f45d59d03e9398f218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838919,
+            "locality_id":101787937,
+            "region_id":85681687,
+            "venue_id":1092046915
+        }
+    ],
     "wof:id":1092046915,
-    "wof:lastmodified":1473984016,
+    "wof:lastmodified":1496910175,
     "wof:name":"Hotel Hammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

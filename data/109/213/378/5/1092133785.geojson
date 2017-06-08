@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6276359558,47.212272644,15.6276359558,47.212272644",
     "geom:latitude":47.212273,
     "geom:longitude":15.627636,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"iaa.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838919,
+        85632785,
+        101787937,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tfc9TzBwJEbFd5FPc2fAJ_47.212273_15.627636@1306268274"
     },
     "wof:country":"AT",
     "wof:created":1473902443,
-    "wof:geomhash":"d83dbd54567fec1d0e6c3554d46134e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"355cc0b6e01ab0bf94bdeb3461d72da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838919,
+            "locality_id":101787937,
+            "region_id":85681687,
+            "venue_id":1092133785
+        }
+    ],
     "wof:id":1092133785,
-    "wof:lastmodified":1473984072,
+    "wof:lastmodified":1496910130,
     "wof:name":"interactiveaustria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

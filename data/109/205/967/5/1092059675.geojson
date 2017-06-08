@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6916828156,47.2892875671,12.6916828156,47.2892875671",
     "geom:latitude":47.289288,
     "geom:longitude":12.691683,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GOj4jFN2MMb2l5JUJKTiI_47.289288_12.691683@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898887,
-    "wof:geomhash":"5793d5a32a4b0706e1e5dee62d2ddb1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f10817719f4efef72ba4ba1003c7bb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092059675
+        }
+    ],
     "wof:id":1092059675,
-    "wof:lastmodified":1473985140,
+    "wof:lastmodified":1496896144,
     "wof:name":"Alois Lackner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

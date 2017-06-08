@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8241128922,47.2126541138,15.8241128922,47.2126541138",
     "geom:latitude":47.212654,
     "geom:longitude":15.824113,
@@ -23,17 +24,33 @@
     "sg:postcode":"8222",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838875,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aVN4IC3lgp7tPsO4uhh7n_47.212654_15.824113@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899700,
-    "wof:geomhash":"552506740ffedc116aec547923e5cc87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25a15ead28f2cb974f57cde05945267e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838875,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092078673
+        }
+    ],
     "wof:id":1092078673,
-    "wof:lastmodified":1473984928,
+    "wof:lastmodified":1496909782,
     "wof:name":"Landgasthof Riegerbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

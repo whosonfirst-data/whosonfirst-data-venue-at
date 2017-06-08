@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1225500107,47.8939399719,13.1225500107,47.8939399719",
     "geom:latitude":47.89394,
     "geom:longitude":13.12255,
@@ -33,17 +34,34 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        101833109,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3p2GP5X2b1gMIykIGiDyx3_47.893940_13.122550@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911562,
-    "wof:geomhash":"37870228b67256ab357eb1611c3e1b48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33ab90846e7176d987178883875ab0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":101833109,
+            "region_id":85681681,
+            "venue_id":1092338411
+        }
+    ],
     "wof:id":1092338411,
-    "wof:lastmodified":1473985273,
+    "wof:lastmodified":1496895832,
     "wof:name":"WINDHAGER ZENTRALHEIZUNG AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

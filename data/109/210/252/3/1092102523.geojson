@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4187049866,48.2139663696,15.4187049866,48.2139663696",
     "geom:latitude":48.213966,
     "geom:longitude":15.418705,
@@ -35,17 +36,33 @@
         "handling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835417,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Jh5Wxt8uvfJfdjR8slOkn_48.213966_15.418705@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900935,
-    "wof:geomhash":"2aab9de8a40fef7cd0b0335104e0511d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5864bc5c9fab6623911fecabee99301e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835417,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092102523
+        }
+    ],
     "wof:id":1092102523,
-    "wof:lastmodified":1473983725,
+    "wof:lastmodified":1496886540,
     "wof:name":"BEHRENS EUROLIFT GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

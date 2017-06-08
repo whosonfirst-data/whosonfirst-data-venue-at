@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3305425644,46.611415863,14.3305425644,46.611415863",
     "geom:latitude":46.611416,
     "geom:longitude":14.330543,
@@ -34,10 +35,13 @@
     "sg:website":"dullnig.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908461,
-    "wof:geomhash":"63f3047604c44964c4cbeff4f6956f3d",
+    "wof:geomhash":"a1265f102bb3d40b36bb629679f794aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092266709
         }
     ],
     "wof:id":1092266709,
-    "wof:lastmodified":1473984598,
+    "wof:lastmodified":1496905929,
     "wof:name":"Dullnig Elektro und Metall GmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

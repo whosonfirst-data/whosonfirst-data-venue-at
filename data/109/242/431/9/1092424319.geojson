@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7190732956,48.2794494629,15.7190732956,48.2794494629",
     "geom:latitude":48.279449,
     "geom:longitude":15.719073,
@@ -32,17 +33,33 @@
         "processed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7U98Xyx7KWHkCe8FvnPVxr_48.279449_15.719073@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915646,
-    "wof:geomhash":"85c2079d44fb7c43066008d64514c304",
-    "wof:hierarchy":[],
+    "wof:geomhash":"519a62cf9c2bcb964644d1f36c62c3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092424319
+        }
+    ],
     "wof:id":1092424319,
-    "wof:lastmodified":1473984162,
+    "wof:lastmodified":1496890051,
     "wof:name":"Kurt Mayer KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

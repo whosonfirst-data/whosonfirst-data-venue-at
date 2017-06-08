@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3562173843,46.6086921692,14.3562173843,46.6086921692",
     "geom:latitude":46.608692,
     "geom:longitude":14.356217,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908647,
-    "wof:geomhash":"1741965a755520782a40affb3a613603",
+    "wof:geomhash":"a7c1e8e70890f18ce6db20c2c37088c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092271201
         }
     ],
     "wof:id":1092271201,
-    "wof:lastmodified":1473983636,
+    "wof:lastmodified":1496906637,
     "wof:name":"Elektro Fischer Gerald",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

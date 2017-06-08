@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5714435577,46.7815055847,12.5714435577,46.7815055847",
     "geom:latitude":46.781506,
     "geom:longitude":12.571444,
@@ -23,17 +24,33 @@
     "sg:postcode":"9912",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837487,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18MPCfsgUA4OAbgY7o0s0z_46.781506_12.571444@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894105,
-    "wof:geomhash":"726d768c0cae477cc0f68664722074f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f71bff4d1a62c24138268ffff95e5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837487,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091943863
+        }
+    ],
     "wof:id":1091943863,
-    "wof:lastmodified":1473984063,
+    "wof:lastmodified":1496898081,
     "wof:name":"Weiler Heinrich Mobils\u00e4gewerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

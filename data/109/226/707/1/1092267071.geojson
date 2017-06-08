@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7160758972,47.2918319702,12.7160758972,47.2918319702",
     "geom:latitude":47.291832,
     "geom:longitude":12.716076,
@@ -31,17 +32,34 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        101787915,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vyiWuzfmTGiiL9M9GL4c0_47.291832_12.716076@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908476,
-    "wof:geomhash":"4b6e12c44ecc1b6937e457e0b93b6c8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99f63fbbacb3aee35945b95aa1c86041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":101787915,
+            "region_id":85681681,
+            "venue_id":1092267071
+        }
+    ],
     "wof:id":1092267071,
-    "wof:lastmodified":1473984702,
+    "wof:lastmodified":1496896149,
     "wof:name":"ETEC Elektrotechnik GesmbH & Co KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

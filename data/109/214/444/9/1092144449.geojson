@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2516613007,48.135761261,16.2516613007,48.135761261",
     "geom:latitude":48.135761,
     "geom:longitude":16.251661,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902953,
-    "wof:geomhash":"12d348bf18cc151c3f8fa02a9cf1db7c",
+    "wof:geomhash":"432097a46078a0ca33b218933f51ee0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092144449
         }
     ],
     "wof:id":1092144449,
-    "wof:lastmodified":1473984188,
+    "wof:lastmodified":1496903662,
     "wof:name":"Wallner Pharma GesmbH",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

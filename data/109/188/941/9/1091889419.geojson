@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0050096512,47.8119888306,13.0050096512,47.8119888306",
     "geom:latitude":47.811989,
     "geom:longitude":13.00501,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898521,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        101913413,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891611,
-    "wof:geomhash":"76029b336c105278ce60ed5c832c2213",
+    "wof:geomhash":"acd294e817bd9644934df379cc4ead3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101913413,
             "neighbourhood_id":85898521,
             "region_id":85681681,
             "venue_id":1091889419
         }
     ],
     "wof:id":1091889419,
-    "wof:lastmodified":1473985144,
+    "wof:lastmodified":1496894735,
     "wof:name":"Ursprunger Adolf",
     "wof:parent_id":85898521,
     "wof:placetype":"venue",

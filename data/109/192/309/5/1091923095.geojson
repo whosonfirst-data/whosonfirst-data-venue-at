@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6359701157,47.2794456482,9.6359701157,47.2794456482",
     "geom:latitude":47.279446,
     "geom:longitude":9.63597,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893111,
-    "wof:geomhash":"da8532ea44f23c2f5f880dca5c65dfff",
+    "wof:geomhash":"80ebf611a051813be762f66bef9cae9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091923095
         }
     ],
     "wof:id":1091923095,
-    "wof:lastmodified":1473983910,
+    "wof:lastmodified":1496901666,
     "wof:name":"Entner Joachim",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

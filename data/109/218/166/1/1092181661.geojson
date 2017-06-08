@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5762491226,47.6640167236,15.5762491226,47.6640167236",
     "geom:latitude":47.664017,
     "geom:longitude":15.576249,
@@ -23,17 +24,33 @@
     "sg:postcode":"8692",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838845,
+        85632785,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xsYxfadR1lEOS9TTK5dA9_47.664017_15.576249@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904638,
-    "wof:geomhash":"3454ab59ce13e694ec75efcf02832f14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c911157984f924bd1e91eee34612db47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838845,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092181661
+        }
+    ],
     "wof:id":1092181661,
-    "wof:lastmodified":1473983768,
+    "wof:lastmodified":1496909569,
     "wof:name":"Spar-Markt Inh Peter Pimeshofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6466302872,47.3041801453,9.6466302872,47.3041801453",
     "geom:latitude":47.30418,
     "geom:longitude":9.64663,
@@ -32,17 +33,34 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837973,
+        85632785,
+        101827461,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76c6yadPLKmb4Nk5fW63dW_47.304180_9.646630@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905567,
-    "wof:geomhash":"990dd0fe0ff945e47913b290b495aef6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7ff80da0c21a9b36a7e258be91cf687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837973,
+            "locality_id":101827461,
+            "region_id":85681649,
+            "venue_id":1092201809
+        }
+    ],
     "wof:id":1092201809,
-    "wof:lastmodified":1473983780,
+    "wof:lastmodified":1496901198,
     "wof:name":"MORSCHER FARBEN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

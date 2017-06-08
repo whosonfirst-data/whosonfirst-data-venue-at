@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0533046722,47.99974823,16.0533046722,47.99974823",
     "geom:latitude":47.999748,
     "geom:longitude":16.053305,
@@ -23,17 +24,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.anderswerben.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836187,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vfR2ImFiT4I5iq5Wpyvnt_47.999748_16.053305@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911600,
-    "wof:geomhash":"aad36a1636d62fcfe6eb2a02042cb438",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f79ea45dc8e54971086b7bb4efffd659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836187,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092339217
+        }
+    ],
     "wof:id":1092339217,
-    "wof:lastmodified":1473985310,
+    "wof:lastmodified":1496889934,
     "wof:name":"anders werben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

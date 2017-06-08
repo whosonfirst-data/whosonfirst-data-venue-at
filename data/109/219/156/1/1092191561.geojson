@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7294807434,48.1383056641,13.7294807434,48.1383056641",
     "geom:latitude":48.138306,
     "geom:longitude":13.729481,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"gea-lufttechnik.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835177,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Gjdvsb6dymLU5fU3Wcxks_48.138306_13.729481@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905092,
-    "wof:geomhash":"e13d5b5eae317e3d60fd5e6d27b3804e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce1c2da153dd0cb47a28f34d2518d346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835177,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092191561
+        }
+    ],
     "wof:id":1092191561,
-    "wof:lastmodified":1473983736,
+    "wof:lastmodified":1496885305,
     "wof:name":"GEA Klimatechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0977430344,47.6999053955,13.0977430344,47.6999053955",
     "geom:latitude":47.699905,
     "geom:longitude":13.097743,
@@ -23,17 +24,34 @@
     "sg:postcode":"5411",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837099,
+        85632785,
+        101834321,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E7rba4pdCaITWt1ju6ZL3_47.699905_13.097743@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904755,
-    "wof:geomhash":"2b38107843dd0545902c4f8357713ac7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b45a8745474970a1285824e34c716b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837099,
+            "locality_id":101834321,
+            "region_id":85681681,
+            "venue_id":1092184233
+        }
+    ],
     "wof:id":1092184233,
-    "wof:lastmodified":1473984358,
+    "wof:lastmodified":1496895113,
     "wof:name":"Strasser Import Export GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

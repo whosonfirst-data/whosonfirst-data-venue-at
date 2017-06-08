@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1322927475,47.9014892578,13.1322927475,47.9014892578",
     "geom:latitude":47.901489,
     "geom:longitude":13.132293,
@@ -23,17 +24,34 @@
     "sg:postcode":"5201",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        101833109,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7abPouqmEs3JrknaGa5Udu_47.901489_13.132293@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904753,
-    "wof:geomhash":"a1b609296d041615bba5bf6a8d862471",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dd6f257eb7821ba96c14993c4f90f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":101833109,
+            "region_id":85681681,
+            "venue_id":1092184189
+        }
+    ],
     "wof:id":1092184189,
-    "wof:lastmodified":1473984335,
+    "wof:lastmodified":1496895828,
     "wof:name":"Seeburger Konservenfabrik Betriebsf\u00fchrungsgesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

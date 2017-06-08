@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3138780594,46.6499938965,14.3138780594,46.6499938965",
     "geom:latitude":46.649994,
     "geom:longitude":14.313878,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905098,
-    "wof:geomhash":"002e4877fa6d654fecdd2b0fdd337eb3",
+    "wof:geomhash":"9d710dbda9a8cf5957d67b58c61c91c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1092191763
         }
     ],
     "wof:id":1092191763,
-    "wof:lastmodified":1473983776,
+    "wof:lastmodified":1496905788,
     "wof:name":"Lepuch & Perko OEG",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

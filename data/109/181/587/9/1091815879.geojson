@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4119529724,48.3505744934,14.4119529724,48.3505744934",
     "geom:latitude":48.350574,
     "geom:longitude":14.411953,
@@ -33,17 +34,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836149,
+        85632785,
+        101784613,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5erxI5829hqZZEgEnAWDVe_48.350574_14.411953@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473888172,
-    "wof:geomhash":"51306cad01924a78272554b67e6fadc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"659c14c2061ba1da3a97fc2bd38aa2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836149,
+            "locality_id":101784613,
+            "region_id":85681677,
+            "venue_id":1091815879
+        }
+    ],
     "wof:id":1091815879,
-    "wof:lastmodified":1473984662,
+    "wof:lastmodified":1496889791,
     "wof:name":"Bruno B\u00f6ck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

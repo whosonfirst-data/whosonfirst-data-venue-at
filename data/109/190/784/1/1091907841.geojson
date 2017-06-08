@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0583667755,47.8638687134,13.0583667755,47.8638687134",
     "geom:latitude":47.863869,
     "geom:longitude":13.058367,
@@ -25,10 +26,12 @@
     "sg:website":"cutcut.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892465,
-    "wof:geomhash":"2061cfa74eeb4eb9b6c6136f25a6a180",
+    "wof:geomhash":"15956bb088ed0820a0992538f055f5e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1091907841
         }
     ],
     "wof:id":1091907841,
-    "wof:lastmodified":1473984980,
+    "wof:lastmodified":1496895267,
     "wof:name":"CutCut-Salzburg",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

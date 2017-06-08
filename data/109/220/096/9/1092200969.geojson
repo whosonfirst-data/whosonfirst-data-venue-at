@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1281719208,48.1691551208,16.1281719208,48.1691551208",
     "geom:latitude":48.169155,
     "geom:longitude":16.128172,
@@ -33,17 +34,34 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836753,
+        85632785,
+        101784593,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Kn2nd81U7tLtd2JiMIjCJ_48.169155_16.128172@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905513,
-    "wof:geomhash":"c6df0bd9c64db35e721422b706864b88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859581767ac23e57f99d216874310611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108836753,
+            "locality_id":101784593,
+            "region_id":85681671,
+            "venue_id":1092200969
+        }
+    ],
     "wof:id":1092200969,
-    "wof:lastmodified":1473983506,
+    "wof:lastmodified":1496892628,
     "wof:name":"Robert Zeillinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

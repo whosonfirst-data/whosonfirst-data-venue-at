@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1344680786,47.0625267029,16.1344680786,47.0625267029",
     "geom:latitude":47.062527,
     "geom:longitude":16.134468,
@@ -23,17 +24,33 @@
     "sg:postcode":"7571",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838559,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50qIVXXL94eXhWiv0ZgeRI_47.062527_16.134468@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913469,
-    "wof:geomhash":"6966713c09f3bab2c990fa991a66a640",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b90ceae9e00e4a942e4e87c00f8f9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838559,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092380491
+        }
+    ],
     "wof:id":1092380491,
-    "wof:lastmodified":1473983394,
+    "wof:lastmodified":1496908444,
     "wof:name":"Physiohaus - Karin Einhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

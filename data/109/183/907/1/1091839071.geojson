@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1296491623,47.9404411316,14.1296491623,47.9404411316",
     "geom:latitude":47.940441,
     "geom:longitude":14.129649,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835501,
+        85632785,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R57AvL8OQ2MdpOnrfrgjy_47.940441_14.129649@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889230,
-    "wof:geomhash":"77383c626482191fe1c14cda1da3a5b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe794c0dfd9583357b707b65acd528ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835501,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091839071
+        }
+    ],
     "wof:id":1091839071,
-    "wof:lastmodified":1473985256,
+    "wof:lastmodified":1496886894,
     "wof:name":"G\u00fcnther Rakuschan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

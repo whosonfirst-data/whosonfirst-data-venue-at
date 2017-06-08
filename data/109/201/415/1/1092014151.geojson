@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3945837021,47.2634887695,11.3945837021,47.2634887695",
     "geom:latitude":47.263489,
     "geom:longitude":11.394584,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897122,
-    "wof:geomhash":"580131215ad262faa0139e57406503fa",
+    "wof:geomhash":"cdd0b7dd88dcb4da76a28ad976123967",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092014151
         }
     ],
     "wof:id":1092014151,
-    "wof:lastmodified":1473983708,
+    "wof:lastmodified":1496926029,
     "wof:name":"B\u00e4rendrogerie",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

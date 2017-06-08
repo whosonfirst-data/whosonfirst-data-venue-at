@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.044251442,47.7294692993,13.044251442,47.7294692993",
     "geom:latitude":47.729469,
     "geom:longitude":13.044251,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891870,
-    "wof:geomhash":"d97a0b6b7be08a90cfa8bf0d645b19fd",
+    "wof:geomhash":"6a9531b188913789d00f2741aae30cc0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1091895707
         }
     ],
     "wof:id":1091895707,
-    "wof:lastmodified":1473984658,
+    "wof:lastmodified":1496895373,
     "wof:name":"Ziegler Oswald",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0261440277,48.1559562683,14.0261440277,48.1559562683",
     "geom:latitude":48.155956,
     "geom:longitude":14.026144,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nlyApNqRVpjMw3sWMhtpv_48.155956_14.026144@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913648,
-    "wof:geomhash":"662aaffa1fb6fcfb285930a0b944dd7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62a20b9f85e8a2e4149adbb6b39654df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092384241
+        }
+    ],
     "wof:id":1092384241,
-    "wof:lastmodified":1473984285,
+    "wof:lastmodified":1496882143,
     "wof:name":"Pizzeria Venezia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

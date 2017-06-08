@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1053276062,48.1964950562,14.1053276062,48.1964950562",
     "geom:latitude":48.196495,
     "geom:longitude":14.105328,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.emtec-tankanlagen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836561,
+        85632785,
+        101754169,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gPN7qrlH4iTodePyNjJ6d_48.196495_14.105328@1306268286"
     },
     "wof:country":"AT",
     "wof:created":1473888087,
-    "wof:geomhash":"773ef04fc5d2e5de055db61e2c3ab486",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f3c8ff48f92393419ee08a0f40cc5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836561,
+            "locality_id":101754169,
+            "region_id":85681677,
+            "venue_id":1091813917
+        }
+    ],
     "wof:id":1091813917,
-    "wof:lastmodified":1473984223,
+    "wof:lastmodified":1496891684,
     "wof:name":"EM-TEC Sicherheitstechnik Ing Erwin Kirchmeir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

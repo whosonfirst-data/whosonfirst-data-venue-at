@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9900217056,47.7992591858,15.9900217056,47.7992591858",
     "geom:latitude":47.799259,
     "geom:longitude":15.990022,
@@ -32,17 +33,34 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835929,
+        85632785,
+        101786755,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2anJsCiF4tmTYtyx54IrOe_47.799259_15.990022@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896858,
-    "wof:geomhash":"736c558c0f1f3ea10e5d2bc23cb90c0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"541e70dc6fecc4a00adaa5745753f392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835929,
+            "locality_id":101786755,
+            "region_id":85681671,
+            "venue_id":1092007835
+        }
+    ],
     "wof:id":1092007835,
-    "wof:lastmodified":1473984815,
+    "wof:lastmodified":1496888922,
     "wof:name":"Scherz GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

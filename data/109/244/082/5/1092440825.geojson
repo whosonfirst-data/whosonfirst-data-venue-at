@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4931354523,48.2512702942,16.4931354523,48.2512702942",
     "geom:latitude":48.25127,
     "geom:longitude":16.493135,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916403,
-    "wof:geomhash":"d411229cbd662c77af9832fc91d9c82b",
+    "wof:geomhash":"c75a2f1360a83222445111d8ef6bc9d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092440825
         }
     ],
     "wof:id":1092440825,
-    "wof:lastmodified":1473983454,
+    "wof:lastmodified":1496927707,
     "wof:name":"MA 43 - Friedhof Breitenlee",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

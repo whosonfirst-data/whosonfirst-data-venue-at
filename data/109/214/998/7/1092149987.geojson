@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3936443329,47.285610199,11.3936443329,47.285610199",
     "geom:latitude":47.28561,
     "geom:longitude":11.393644,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903213,
-    "wof:geomhash":"a091802341e825a4f4991e5a0c008ed9",
+    "wof:geomhash":"a2d4a30673123ccffbdbd92f658fc3fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092149987
         }
     ],
     "wof:id":1092149987,
-    "wof:lastmodified":1473985194,
+    "wof:lastmodified":1496899264,
     "wof:name":"Medizinische Kosmetika PMS - Dr Deetjen",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

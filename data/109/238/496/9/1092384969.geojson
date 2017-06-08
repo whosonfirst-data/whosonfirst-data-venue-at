@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6253767014,47.2735710144,9.6253767014,47.2735710144",
     "geom:latitude":47.273571,
     "geom:longitude":9.625377,
@@ -25,10 +26,12 @@
     "sg:website":"aktivbaupartner.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913677,
-    "wof:geomhash":"7b015c897e785e1f57f1abdad6c37718",
+    "wof:geomhash":"d5d08b3fd78cd4d9bff6b5cc00589d45",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092384969
         }
     ],
     "wof:id":1092384969,
-    "wof:lastmodified":1473984558,
+    "wof:lastmodified":1496901656,
     "wof:name":"Aktiv Baupartner GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

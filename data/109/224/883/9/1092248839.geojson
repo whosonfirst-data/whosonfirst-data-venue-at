@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.545293808,47.102848053,15.545293808,47.102848053",
     "geom:latitude":47.102848,
     "geom:longitude":15.545294,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898571,
-        102049741
+        102191581,
+        1108839185,
+        85632785,
+        102049741,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907671,
-    "wof:geomhash":"764cd967a364b42914f444293a70b4d8",
+    "wof:geomhash":"577c882330591844a5e19fcf7a135154",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049741,
+            "localadmin_id":1108839185,
+            "locality_id":-1,
             "neighbourhood_id":85898571,
             "region_id":85681687,
             "venue_id":1092248839
         }
     ],
     "wof:id":1092248839,
-    "wof:lastmodified":1473985016,
+    "wof:lastmodified":1496911770,
     "wof:name":"Windisch Alois",
     "wof:parent_id":85898571,
     "wof:placetype":"venue",

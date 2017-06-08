@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7339839935,47.1574134827,10.7339839935,47.1574134827",
     "geom:latitude":47.157413,
     "geom:longitude":10.733984,
@@ -23,17 +24,33 @@
     "sg:postcode":"6473",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837457,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lZ4yNOVsGJjLzFvKjY8EL_47.157413_10.733984@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891657,
-    "wof:geomhash":"d59ca50600944ad72ede3fa2dad30e3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43a27d21e98d857124c031bf9f8a8091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837457,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091890409
+        }
+    ],
     "wof:id":1091890409,
-    "wof:lastmodified":1473983382,
+    "wof:lastmodified":1496897992,
     "wof:name":"Freibad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

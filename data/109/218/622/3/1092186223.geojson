@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3453979492,48.1572608948,13.3453979492,48.1572608948",
     "geom:latitude":48.157261,
     "geom:longitude":13.345398,
@@ -32,17 +33,33 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835657,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HJ8QPZnrXGpCWFjiKICFi_48.157261_13.345398@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904860,
-    "wof:geomhash":"b04c882b019aae6b3bd9adf5996b5caf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b800a60af1a91fbd0c753ff50754e58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835657,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092186223
+        }
+    ],
     "wof:id":1092186223,
-    "wof:lastmodified":1473984628,
+    "wof:lastmodified":1496887813,
     "wof:name":"Johann Spindler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

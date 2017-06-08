@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7669448853,47.6346244812,13.7669448853,47.6346244812",
     "geom:latitude":47.634624,
     "geom:longitude":13.766945,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"kurtz.de",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838971,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nmiw64q3TwRHiYkSuQ6Sb_47.634624_13.766945@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890682,
-    "wof:geomhash":"1729b6745ea7c0923b4d8c60d69937a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bae15d0128fb5d43afcaca5b7238620e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838971,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091870481
+        }
+    ],
     "wof:id":1091870481,
-    "wof:lastmodified":1473983379,
+    "wof:lastmodified":1496910593,
     "wof:name":"Kurtz Altaussee GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

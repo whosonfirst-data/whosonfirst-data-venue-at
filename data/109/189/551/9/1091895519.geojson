@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5358505249,48.2487602234,16.5358505249,48.2487602234",
     "geom:latitude":48.24876,
     "geom:longitude":16.535851,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891861,
-    "wof:geomhash":"0fee5d9426137293de0133f4b8d31a1f",
+    "wof:geomhash":"6b501de89a00aa271867365f4b35efbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1091895519
         }
     ],
     "wof:id":1091895519,
-    "wof:lastmodified":1473984606,
+    "wof:lastmodified":1496902749,
     "wof:name":"Readymix Kiesunion AG",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

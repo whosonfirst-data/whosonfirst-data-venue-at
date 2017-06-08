@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5156154633,48.3847084045,16.5156154633,48.3847084045",
     "geom:latitude":48.384708,
     "geom:longitude":16.515615,
@@ -23,17 +24,34 @@
     "sg:postcode":"2120",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836323,
+        85632785,
+        101833285,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BZ3EeD706BJ0zWCQ95OLj_48.384708_16.515615@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889073,
-    "wof:geomhash":"e25439fc70b27e543584356763f2976b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bab4e868dd82748138aa61fcc288702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836323,
+            "locality_id":101833285,
+            "region_id":85681671,
+            "venue_id":1091835907
+        }
+    ],
     "wof:id":1091835907,
-    "wof:lastmodified":1473984425,
+    "wof:lastmodified":1496890532,
     "wof:name":"Bankomat d Volksbank Obersdorf-Wolkersdorf-Deutsch-Wagram regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

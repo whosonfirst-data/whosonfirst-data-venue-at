@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2731685638,48.1137733459,16.2731685638,48.1137733459",
     "geom:latitude":48.113773,
     "geom:longitude":16.273169,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904272,
-    "wof:geomhash":"119164b4a8ce894bc12f7bd3793740f9",
+    "wof:geomhash":"03f5dd15a8c35ccdd103eb359c562f78",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092173505
         }
     ],
     "wof:id":1092173505,
-    "wof:lastmodified":1473984019,
+    "wof:lastmodified":1496885837,
     "wof:name":"Billa AG",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

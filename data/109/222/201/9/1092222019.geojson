@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5865793228,47.3050689697,9.5865793228,47.3050689697",
     "geom:latitude":47.305069,
     "geom:longitude":9.586579,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838005,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F2BORTLEN0gts7BYSlKZY_47.305069_9.586579@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906482,
-    "wof:geomhash":"6860500de17d5731257ba2dae9a2b039",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d995af2c13e0dab30fc2441f373fa701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838005,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092222019
+        }
+    ],
     "wof:id":1092222019,
-    "wof:lastmodified":1473983846,
+    "wof:lastmodified":1496901500,
     "wof:name":"Schenner Konrad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0938673019,46.7241516113,14.0938673019,46.7241516113",
     "geom:latitude":46.724152,
     "geom:longitude":14.093867,
@@ -31,17 +32,34 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        101790125,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b2aCOa3P5ZuUS0I9WG42i_46.724152_14.093867@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905282,
-    "wof:geomhash":"ffa7135a9bf506216e4c8886eed6f842",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fcd8e42993ea0b0c87925524fffd05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":101790125,
+            "region_id":85681655,
+            "venue_id":1092195949
+        }
+    ],
     "wof:id":1092195949,
-    "wof:lastmodified":1473984658,
+    "wof:lastmodified":1496905407,
     "wof:name":"Andreas Huber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

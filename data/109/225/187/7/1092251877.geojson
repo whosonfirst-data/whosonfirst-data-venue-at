@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5175132751,48.2401275635,14.5175132751,48.2401275635",
     "geom:latitude":48.240128,
     "geom:longitude":14.517513,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907795,
-    "wof:geomhash":"0da8810e2266431d96cd848e222bf82f",
+    "wof:geomhash":"e86770a08aa23d513b4b60a72a578be6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092251877
         }
     ],
     "wof:id":1092251877,
-    "wof:lastmodified":1473983793,
+    "wof:lastmodified":1496887555,
     "wof:name":"Tourismusverband",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

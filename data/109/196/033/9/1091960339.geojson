@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9686841965,47.0728874207,10.9686841965,47.0728874207",
     "geom:latitude":47.072887,
     "geom:longitude":10.968684,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.bergwelt.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837421,
+        85632785,
+        101789057,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z5q8ro45nGa6lC1mJNKs2_47.072887_10.968684@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894836,
-    "wof:geomhash":"1f8cdb11761c72e0bdbfff1f39d3583f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a217ed4aac3972ab4169332a57231706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837421,
+            "locality_id":101789057,
+            "region_id":85681661,
+            "venue_id":1091960339
+        }
+    ],
     "wof:id":1091960339,
-    "wof:lastmodified":1473983360,
+    "wof:lastmodified":1496897791,
     "wof:name":"Hotel Bergwelt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

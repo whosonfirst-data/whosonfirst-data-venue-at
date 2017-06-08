@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2163238525,47.4171257019,13.2163238525,47.4171257019",
     "geom:latitude":47.417126,
     "geom:longitude":13.216324,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        101844515,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CKH5Yl2quQl2nN5X7fFEH_47.417126_13.216324@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913654,
-    "wof:geomhash":"f5b4935d725ddc04ebb91e968c0980d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff8f117b72d7917890e79360f5d4c39b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":101844515,
+            "region_id":85681681,
+            "venue_id":1092384417
+        }
+    ],
     "wof:id":1092384417,
-    "wof:lastmodified":1473984397,
+    "wof:lastmodified":1496893809,
     "wof:name":"Pizzicato Pizzeria Ristorante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

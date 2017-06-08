@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3065805435,47.3315391541,13.3065805435,47.3315391541",
     "geom:latitude":47.331539,
     "geom:longitude":13.306581,
@@ -28,17 +29,34 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        101912395,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2evTKrHDLfFICDRxtr1nuy_47.331539_13.306581@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898342,
-    "wof:geomhash":"125bcd392cea116814b91d5269a24f33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88cf4f79ec19abc415085e0e06725b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":101912395,
+            "region_id":85681681,
+            "venue_id":1092045655
+        }
+    ],
     "wof:id":1092045655,
-    "wof:lastmodified":1473983822,
+    "wof:lastmodified":1496894155,
     "wof:name":"Hotel Alpina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

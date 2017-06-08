@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4879379272,48.2167510986,16.4879379272,48.2167510986",
     "geom:latitude":48.216751,
     "geom:longitude":16.487938,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890513,
-    "wof:geomhash":"43cbbd4989f0b117aeb0a973d4afaf96",
+    "wof:geomhash":"85b82985f0230787ced7bdad4e1318e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091866593
         }
     ],
     "wof:id":1091866593,
-    "wof:lastmodified":1473984876,
+    "wof:lastmodified":1496902099,
     "wof:name":"Tina's Bierbeisl",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

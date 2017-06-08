@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3951559067,47.260723114,11.3951559067,47.260723114",
     "geom:latitude":47.260723,
     "geom:longitude":11.395156,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896464,
-    "wof:geomhash":"e32ce06b4f7f7843f07e2bbc7260a2fa",
+    "wof:geomhash":"ce347a792bc4d8639335d1aaea676183",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091998343
         }
     ],
     "wof:id":1091998343,
-    "wof:lastmodified":1473984906,
+    "wof:lastmodified":1496899455,
     "wof:name":"Webforum L\u00f6ffler KEG",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

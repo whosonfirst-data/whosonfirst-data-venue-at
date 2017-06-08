@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7399158478,48.2203369141,13.7399158478,48.2203369141",
     "geom:latitude":48.220337,
     "geom:longitude":13.739916,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835189,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hmCdA6HCoEBM6lgpZyjRG_48.220337_13.739916@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892675,
-    "wof:geomhash":"3eaf330f61220cb3c393bc0bbb555409",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c46b10793d2211d929a5cf2e0e2fa677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835189,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091912777
+        }
+    ],
     "wof:id":1091912777,
-    "wof:lastmodified":1473983618,
+    "wof:lastmodified":1496885392,
     "wof:name":"CBM-Wiesinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

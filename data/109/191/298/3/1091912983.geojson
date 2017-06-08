@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1691551208,47.5857086182,12.1691551208,47.5857086182",
     "geom:latitude":47.585709,
     "geom:longitude":12.169155,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GDV8cgPTWbpKxzsKyXo7f_47.585709_12.169155@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892688,
-    "wof:geomhash":"141d65712f943a21a0413f4b19eb8d20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e3da7b2d1f300f448356a71ecca6189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1091912983
+        }
+    ],
     "wof:id":1091912983,
-    "wof:lastmodified":1473983662,
+    "wof:lastmodified":1496897604,
     "wof:name":"CPU Informatik GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

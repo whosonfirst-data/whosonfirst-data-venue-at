@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8822097778,47.3512458801,9.8822097778,47.3512458801",
     "geom:latitude":47.351246,
     "geom:longitude":9.88221,
@@ -23,17 +24,34 @@
     "sg:postcode":"6881",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838009,
+        85632785,
+        101766259,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cBwCTyrBxQXtx0hX6dKLH_47.351246_9.882210@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901355,
-    "wof:geomhash":"ee3fe68f2042e0ef830424915e39f593",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a5bcdb7be58f38e93c35ed777999ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838009,
+            "locality_id":101766259,
+            "region_id":85681649,
+            "venue_id":1092111385
+        }
+    ],
     "wof:id":1092111385,
-    "wof:lastmodified":1473983671,
+    "wof:lastmodified":1496901516,
     "wof:name":"Vorarlberger Medienhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

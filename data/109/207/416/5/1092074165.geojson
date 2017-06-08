@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.486825943,47.2772331238,11.486825943,47.2772331238",
     "geom:latitude":47.277233,
     "geom:longitude":11.486826,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899477,
-    "wof:geomhash":"65e9529a1d037cfeac7bca0f446a42ea",
+    "wof:geomhash":"436f2f4a6a5fba82fb1cbfe56f68654f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092074165
         }
     ],
     "wof:id":1092074165,
-    "wof:lastmodified":1473984060,
+    "wof:lastmodified":1496898743,
     "wof:name":"Gasthof Schatz",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

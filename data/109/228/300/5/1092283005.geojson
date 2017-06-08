@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1847829819,47.8876914978,13.1847829819,47.8876914978",
     "geom:latitude":47.887691,
     "geom:longitude":13.184783,
@@ -23,17 +24,33 @@
     "sg:postcode":"5302",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837147,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56uMjnTPKkKnEkwHXYn4Mw_47.887691_13.184783@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909160,
-    "wof:geomhash":"193125503db10498705c52556470e5a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb7ee547aa39acd9825ca18922b875b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837147,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092283005
+        }
+    ],
     "wof:id":1092283005,
-    "wof:lastmodified":1473983891,
+    "wof:lastmodified":1496895397,
     "wof:name":"WM-Estriche GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

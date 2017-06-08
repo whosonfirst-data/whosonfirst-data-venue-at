@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2922544479,48.1441192627,15.2922544479,48.1441192627",
     "geom:latitude":48.144119,
     "geom:longitude":15.292254,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835729,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v3EL7uFSHY6hNVcGu5OXs_48.144119_15.292254@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889792,
-    "wof:geomhash":"f92abe2b43dcdc6247539f5311e8c739",
-    "wof:hierarchy":[],
+    "wof:geomhash":"741c4fc73ec49948c0f3ec8dc0af091d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835729,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091851727
+        }
+    ],
     "wof:id":1091851727,
-    "wof:lastmodified":1473983600,
+    "wof:lastmodified":1496888082,
     "wof:name":"Herbert BAUMGARTNER Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

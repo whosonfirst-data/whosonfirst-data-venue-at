@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3548069,46.7655181885,14.3548069,46.7655181885",
     "geom:latitude":46.765518,
     "geom:longitude":14.354807,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838239,
+        85632785,
+        101790141,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tbX4khBrmNPCqC8agQwqi_46.765518_14.354807@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913605,
-    "wof:geomhash":"08ca3b17c650ed8a054fdb642e4b4765",
-    "wof:hierarchy":[],
+    "wof:geomhash":"caf7dd5cdc7dbee8df2255c7639062bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838239,
+            "locality_id":101790141,
+            "region_id":85681655,
+            "venue_id":1092383287
+        }
+    ],
     "wof:id":1092383287,
-    "wof:lastmodified":1473984183,
+    "wof:lastmodified":1496906696,
     "wof:name":"Pizzeria Durdevic Milano KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

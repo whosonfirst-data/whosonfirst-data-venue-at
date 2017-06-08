@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.365234375,48.2618370056,16.365234375,48.2618370056",
     "geom:latitude":48.261837,
     "geom:longitude":16.365234,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900566,
-    "wof:geomhash":"d27ea81410fd4b2e474eeb20d374d73f",
+    "wof:geomhash":"b80eaafeb6253fb97bb6fabec9924e22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092095013
         }
     ],
     "wof:id":1092095013,
-    "wof:lastmodified":1473984271,
+    "wof:lastmodified":1496902341,
     "wof:name":"Almdudler-Limonade A & S Klein",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

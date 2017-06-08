@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8480882645,47.3427352905,11.8480882645,47.3427352905",
     "geom:latitude":47.342735,
     "geom:longitude":11.848088,
@@ -29,17 +30,34 @@
     "sg:province":"Tirol",
     "sg:website":"alpenhof.cc",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837859,
+        85632785,
+        101787873,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lPJ5pcKCorGW9yTs8qqRv_47.342735_11.848088@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898279,
-    "wof:geomhash":"d325c56cff5bf288ead0375e1aad15df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3310c1f9221e217b80b98c669f37acef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837859,
+            "locality_id":101787873,
+            "region_id":85681661,
+            "venue_id":1092043875
+        }
+    ],
     "wof:id":1092043875,
-    "wof:lastmodified":1473983501,
+    "wof:lastmodified":1496900288,
     "wof:name":"Alpenhof Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2156915665,46.6261634827,14.2156915665,46.6261634827",
     "geom:latitude":46.626163,
     "geom:longitude":14.215692,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897232,
-    "wof:geomhash":"07347e3845cda2d05ec39e8434da4ffd",
+    "wof:geomhash":"9d7559885862a4c45db37084bfa46c07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092017089
         }
     ],
     "wof:id":1092017089,
-    "wof:lastmodified":1473984268,
+    "wof:lastmodified":1496906407,
     "wof:name":"Krumpendorfer Lerninstitut",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

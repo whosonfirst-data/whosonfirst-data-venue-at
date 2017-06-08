@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4178771973,48.0997161865,16.4178771973,48.0997161865",
     "geom:latitude":48.099716,
     "geom:longitude":16.417877,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899056,
-    "wof:geomhash":"a0f94743c767a601837e8c99ccda37f3",
+    "wof:geomhash":"c56ec10f266e4214638e4f599e46cdba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092063805
         }
     ],
     "wof:id":1092063805,
-    "wof:lastmodified":1473984068,
+    "wof:lastmodified":1496886819,
     "wof:name":"Eimann Anton",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

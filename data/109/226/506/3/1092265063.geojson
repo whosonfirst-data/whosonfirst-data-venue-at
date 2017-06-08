@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6484012604,47.3536148071,9.6484012604,47.3536148071",
     "geom:latitude":47.353615,
     "geom:longitude":9.648401,
@@ -34,17 +35,34 @@
     ],
     "sg:website":"www.expert.at/scharf",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hAJ08UJlPYweY3OgBSh1y_47.353615_9.648401@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908386,
-    "wof:geomhash":"9def92c6ba1a3652696756c67672bc8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"028dc69b956f5c9b2a764ebb70574003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1092265063
+        }
+    ],
     "wof:id":1092265063,
-    "wof:lastmodified":1473984410,
+    "wof:lastmodified":1496900495,
     "wof:name":"EXPERT Scharf Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

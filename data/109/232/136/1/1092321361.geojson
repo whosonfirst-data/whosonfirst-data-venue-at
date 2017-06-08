@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4968595505,47.0880699158,15.4968595505,47.0880699158",
     "geom:latitude":47.08807,
     "geom:longitude":15.49686,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910860,
-    "wof:geomhash":"7f2e18e4d77499683e05615f71bff92c",
+    "wof:geomhash":"aebc54a03e67ae1b1d02c139749afed5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092321361
         }
     ],
     "wof:id":1092321361,
-    "wof:lastmodified":1473983650,
+    "wof:lastmodified":1496913237,
     "wof:name":"Gregor Helmut",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

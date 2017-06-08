@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5033750534,47.2821731567,11.5033750534,47.2821731567",
     "geom:latitude":47.282173,
     "geom:longitude":11.503375,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893634,
-    "wof:geomhash":"e1df70a4f61d234854be38fb03ed6a03",
+    "wof:geomhash":"61c08ded0e7b9605c5fe003061dfa071",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091932815
         }
     ],
     "wof:id":1091932815,
-    "wof:lastmodified":1473983963,
+    "wof:lastmodified":1496898742,
     "wof:name":"Institut CEF Dr Christian Ernst Fuchs GesmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

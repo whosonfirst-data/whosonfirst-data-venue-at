@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8399295807,46.7427368164,14.8399295807,46.7427368164",
     "geom:latitude":46.742737,
     "geom:longitude":14.83993,
@@ -35,17 +36,33 @@
         "handling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838107,
+        85632785,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lQIrezVdP0OKnnQcfAzXL_46.742737_14.839930@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900935,
-    "wof:geomhash":"d2c79826bb712d3847bf59b63d7fe0b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b4413de935c211514b17c4bd23eb44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838107,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092102521
+        }
+    ],
     "wof:id":1092102521,
-    "wof:lastmodified":1473983742,
+    "wof:lastmodified":1496905096,
     "wof:name":"ASTAM GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

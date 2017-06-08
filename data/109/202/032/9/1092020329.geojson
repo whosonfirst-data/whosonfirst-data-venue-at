@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5145187378,48.2424659729,14.5145187378,48.2424659729",
     "geom:latitude":48.242466,
     "geom:longitude":14.514519,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897356,
-    "wof:geomhash":"dd6029df3a1597ce00e6147239a4b8b7",
+    "wof:geomhash":"7725c25f88f9d0920865e3e3a99bcee2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092020329
         }
     ],
     "wof:id":1092020329,
-    "wof:lastmodified":1473983390,
+    "wof:lastmodified":1496887556,
     "wof:name":"Gendarmerieposten",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4329566956,47.0731735229,15.4329566956,47.0731735229",
     "geom:latitude":47.073174,
     "geom:longitude":15.432957,
@@ -24,13 +25,14 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
+        85898527,
         102191581,
+        1108839329,
         85632785,
         101748063,
         102049709,
-        85898589,
-        85898527
+        85681687,
+        85898589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473890584,
-    "wof:geomhash":"a8de0655f2de267e8e6dc3f8c6633eb5",
+    "wof:geomhash":"fe70f84fee9860a13fa444536037fb59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
             "locality_id":101748063,
-            "neighbourhood_id":85898589,
+            "neighbourhood_id":85898527,
             "region_id":85681687,
             "venue_id":1091868341
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
             "locality_id":101748063,
-            "neighbourhood_id":85898527,
+            "neighbourhood_id":85898589,
             "region_id":85681687,
             "venue_id":1091868341
         }
     ],
     "wof:id":1091868341,
-    "wof:lastmodified":1473985184,
+    "wof:lastmodified":1496913384,
     "wof:name":"Billardcafe Brot und Spiele",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

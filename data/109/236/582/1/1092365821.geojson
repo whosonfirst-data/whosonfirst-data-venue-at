@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2660150528,47.4454956055,12.2660150528,47.4454956055",
     "geom:latitude":47.445496,
     "geom:longitude":12.266015,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bWnF3TEO3WisZ1QHHLMJu_47.445496_12.266015@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912790,
-    "wof:geomhash":"df969dac949ce901f6afaa739ee4e6c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"595a62955ccb7e140d2aaa9bd465c953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092365821
+        }
+    ],
     "wof:id":1092365821,
-    "wof:lastmodified":1473984702,
+    "wof:lastmodified":1496897246,
     "wof:name":"Haus Elisabeth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

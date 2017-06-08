@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9806776047,48.0154304504,13.9806776047,48.0154304504",
     "geom:latitude":48.01543,
     "geom:longitude":13.980678,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836545,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oj7faF6V6VBjPnXiEiWuP_48.015430_13.980678@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905069,
-    "wof:geomhash":"f162a0a5f32dae90d120376dd1c6b413",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8d5d9265e406dbf63d210adb802af1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836545,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190985
+        }
+    ],
     "wof:id":1092190985,
-    "wof:lastmodified":1473983478,
+    "wof:lastmodified":1496891569,
     "wof:name":"Weingartner Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

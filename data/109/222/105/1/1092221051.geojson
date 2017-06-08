@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5215244293,47.4911308289,16.5215244293,47.4911308289",
     "geom:latitude":47.491131,
     "geom:longitude":16.521524,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838597,
+        85632785,
+        101834327,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11MYNkjDBMIrszhMm7u8OY_47.491131_16.521524@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906441,
-    "wof:geomhash":"58fb9f1f867e395f0886c8f16e82356f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd86ddcbfb33fd21ff6b942c28fa39ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838597,
+            "locality_id":101834327,
+            "region_id":85681651,
+            "venue_id":1092221051
+        }
+    ],
     "wof:id":1092221051,
-    "wof:lastmodified":1473983619,
+    "wof:lastmodified":1496908637,
     "wof:name":"Joschis Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

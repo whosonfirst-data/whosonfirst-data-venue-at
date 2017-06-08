@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4901561737,47.2694587708,12.4901561737,47.2694587708",
     "geom:latitude":47.269459,
     "geom:longitude":12.490156,
@@ -28,17 +29,33 @@
     "sg:postcode":"5730",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837221,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e8RBionTsSZM0iv8v2WCg_47.269459_12.490156@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895059,
-    "wof:geomhash":"8765445a21573c61d8226bb27bf7fc0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e7590ed60d547ce780dc4748c51d8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837221,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091965579
+        }
+    ],
     "wof:id":1091965579,
-    "wof:lastmodified":1473984217,
+    "wof:lastmodified":1496896104,
     "wof:name":"Restaurant Felberm\u00fchle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3343048096,48.1451950073,16.3343048096,48.1451950073",
     "geom:latitude":48.145195,
     "geom:longitude":16.334305,
@@ -23,10 +24,13 @@
     "sg:website":"http://www.york.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895766,
-    "wof:geomhash":"d3ab5ccf212666ec343c4d5b9b1de04b",
+    "wof:geomhash":"9df9f9b226db35b03728827f9ba5986b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091981717
         }
     ],
     "wof:id":1091981717,
-    "wof:lastmodified":1473983430,
+    "wof:lastmodified":1496927907,
     "wof:name":"YORK International Ges.m.b.H.",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

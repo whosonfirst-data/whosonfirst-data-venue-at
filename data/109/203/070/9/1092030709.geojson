@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4559383392,48.2835617065,16.4559383392,48.2835617065",
     "geom:latitude":48.283562,
     "geom:longitude":16.455938,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897750,
-    "wof:geomhash":"588b43acf8c271617860412c244f3a77",
+    "wof:geomhash":"b7a791c8a1ea0688c3756e0604faedba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092030709
         }
     ],
     "wof:id":1092030709,
-    "wof:lastmodified":1473983447,
+    "wof:lastmodified":1496902216,
     "wof:name":"Eberl Hans",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8217020035,48.6509933472,15.8217020035,48.6509933472",
     "geom:latitude":48.650993,
     "geom:longitude":15.821702,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.leidenfrost.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835331,
+        85632785,
+        101782259,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FC7wX0wbEzZr3kKMwh491_48.650993_15.821702@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473887763,
-    "wof:geomhash":"c38f9c8ebd899a1edd31449596da5103",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07f4451eb3ef11b57064b26daa6ecc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835331,
+            "locality_id":101782259,
+            "region_id":85681671,
+            "venue_id":1091807025
+        }
+    ],
     "wof:id":1091807025,
-    "wof:lastmodified":1473983872,
+    "wof:lastmodified":1496886128,
     "wof:name":"Leidenfrost-pool GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

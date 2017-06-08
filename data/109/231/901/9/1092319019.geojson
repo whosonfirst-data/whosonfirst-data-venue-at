@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.833366394,48.042011261,12.833366394,48.042011261",
     "geom:latitude":48.042011,
     "geom:longitude":12.833366,
@@ -33,17 +34,34 @@
         "automation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834769,
+        85632785,
+        101785723,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UKmJ2E8EUNvietwyPdgtw_48.042011_12.833366@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910756,
-    "wof:geomhash":"d1341231f833cc0b0ff16a5859b84bd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03c578f919eb5af959fe7654768d00e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834769,
+            "locality_id":101785723,
+            "region_id":85681677,
+            "venue_id":1092319019
+        }
+    ],
     "wof:id":1092319019,
-    "wof:lastmodified":1473985306,
+    "wof:lastmodified":1496882555,
     "wof:name":"IPN Elektrotechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

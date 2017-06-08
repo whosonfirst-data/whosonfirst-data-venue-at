@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8667392731,46.6509552002,13.8667392731,46.6509552002",
     "geom:latitude":46.650955,
     "geom:longitude":13.866739,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"ferlan.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        101748057,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ayNi6zXkoWzXMNPuOrYv2_46.650955_13.866739@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911279,
-    "wof:geomhash":"9314887b352a99fc0ede564018f164ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d953ec84160d0f0b69fb5af292ea459d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":101748057,
+            "region_id":85681655,
+            "venue_id":1092331489
+        }
+    ],
     "wof:id":1092331489,
-    "wof:lastmodified":1473983682,
+    "wof:lastmodified":1496906067,
     "wof:name":"Fliesen Ferlan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

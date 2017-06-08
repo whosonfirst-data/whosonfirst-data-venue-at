@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0874147415,47.7703094482,13.0874147415,47.7703094482",
     "geom:latitude":47.770309,
     "geom:longitude":13.087415,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913739,
-    "wof:geomhash":"946ba9654d7d644735046ba798b71b29",
+    "wof:geomhash":"37ae232b33a6a2c25646439b6411ec22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092386087
         }
     ],
     "wof:id":1092386087,
-    "wof:lastmodified":1473984743,
+    "wof:lastmodified":1496895284,
     "wof:name":"Kircher Erich Ing",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

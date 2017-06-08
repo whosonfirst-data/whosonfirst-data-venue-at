@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.371430397,47.2280044556,11.371430397,47.2280044556",
     "geom:latitude":47.228004,
     "geom:longitude":11.37143,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912727,
-    "wof:geomhash":"5b592966b247390164366770c222e458",
+    "wof:geomhash":"054cae2fc22caa80aca8dccf121e067c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092364383
         }
     ],
     "wof:id":1092364383,
-    "wof:lastmodified":1473984378,
+    "wof:lastmodified":1496898471,
     "wof:name":"G\u00e4stehaus Hautz",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

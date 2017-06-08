@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.217373848,47.4191513062,13.217373848,47.4191513062",
     "geom:latitude":47.419151,
     "geom:longitude":13.217374,
@@ -31,17 +32,34 @@
         "second-hand-shops"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        101844515,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ys1RBpLRm8RQNHPlTRVZa_47.419151_13.217374@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892518,
-    "wof:geomhash":"70b9d39759fbc4436baea4cb476da444",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43e8d3b5918785c87d43b0d040fca4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":101844515,
+            "region_id":85681681,
+            "venue_id":1091909135
+        }
+    ],
     "wof:id":1091909135,
-    "wof:lastmodified":1473985176,
+    "wof:lastmodified":1496893816,
     "wof:name":"Second-Hand-Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

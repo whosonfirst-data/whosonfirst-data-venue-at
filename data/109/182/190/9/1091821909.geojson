@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0101947784,47.1700935364,16.0101947784,47.1700935364",
     "geom:latitude":47.170094,
     "geom:longitude":16.010195,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839083,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oP4hsh5YRu2hwRtQ3SsES_47.170094_16.010195@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888433,
-    "wof:geomhash":"9d54d41f8645363e3adbced15568dd1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96c8d77bd87e6879368f35d1c1183ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839083,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091821909
+        }
+    ],
     "wof:id":1091821909,
-    "wof:lastmodified":1473983819,
+    "wof:lastmodified":1496911254,
     "wof:name":"Erich Svoboda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

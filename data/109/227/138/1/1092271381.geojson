@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2070808411,48.1189422607,16.2070808411,48.1189422607",
     "geom:latitude":48.118942,
     "geom:longitude":16.207081,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908656,
-    "wof:geomhash":"b114d1afc3419477c2b07566540eda1c",
+    "wof:geomhash":"3b7e2e6e2c1e840cad780f3690dcd946",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092271381
         }
     ],
     "wof:id":1092271381,
-    "wof:lastmodified":1473983676,
+    "wof:lastmodified":1496886525,
     "wof:name":"Elektro Kainrath",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

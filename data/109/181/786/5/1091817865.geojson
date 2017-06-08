@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4653902054,46.7538490295,12.4653902054,46.7538490295",
     "geom:latitude":46.753849,
     "geom:longitude":12.46539,
@@ -22,17 +23,33 @@
     "sg:postcode":"9920",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837523,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sDN8JjbEhh0JKmR7fWsyr_46.753849_12.465390@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888261,
-    "wof:geomhash":"90b4d1b3b6052d59187a604b2e195b90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76ea0209eb6d9eb29a424561e2689c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837523,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091817865
+        }
+    ],
     "wof:id":1091817865,
-    "wof:lastmodified":1473985003,
+    "wof:lastmodified":1496898276,
     "wof:name":"Feuerwehr Heinfels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

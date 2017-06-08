@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.736322403,48.3565177917,15.736322403,48.3565177917",
     "geom:latitude":48.356518,
     "geom:longitude":15.736322,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836849,
+        85632785,
+        101783341,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dGNyC9ImzE6wJpr5rCaMs_48.356518_15.736322@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906439,
-    "wof:geomhash":"6438602ea9194d76a3584988a4e79d87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afe7c611f963ed2d9c63b9ec523039f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836849,
+            "locality_id":101783341,
+            "region_id":85681671,
+            "venue_id":1092220991
+        }
+    ],
     "wof:id":1092220991,
-    "wof:lastmodified":1473983581,
+    "wof:lastmodified":1496893030,
     "wof:name":"Ihr Taxi / Krems - Traismauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

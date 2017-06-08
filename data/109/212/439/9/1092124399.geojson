@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3960819244,48.1366539001,16.3960819244,48.1366539001",
     "geom:latitude":48.136654,
     "geom:longitude":16.396082,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901980,
-    "wof:geomhash":"264a0ed0f97c6e574aa7b5c2123190f6",
+    "wof:geomhash":"ed45d4cd69d30ea7924e3d9e6e1104f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092124399
         }
     ],
     "wof:id":1092124399,
-    "wof:lastmodified":1473984383,
+    "wof:lastmodified":1496928330,
     "wof:name":"Berger Wilhelmine",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

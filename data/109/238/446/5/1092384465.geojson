@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9369392395,47.2696380615,10.9369392395,47.2696380615",
     "geom:latitude":47.269638,
     "geom:longitude":10.936939,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837445,
+        85632785,
+        101844481,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gjHv614Iwr78ck0ab7yUj_47.269638_10.936939@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913656,
-    "wof:geomhash":"94be13e19f89b38eaecdfc4c520e6f36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ba7e8d27a02eca2fe43f65b8ae05f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837445,
+            "locality_id":101844481,
+            "region_id":85681661,
+            "venue_id":1092384465
+        }
+    ],
     "wof:id":1092384465,
-    "wof:lastmodified":1473984382,
+    "wof:lastmodified":1496897896,
     "wof:name":"Restaurant Pizzeria Elisabeth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

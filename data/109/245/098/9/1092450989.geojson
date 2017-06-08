@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7422113419,47.4084815979,9.7422113419,47.4084815979",
     "geom:latitude":47.408482,
     "geom:longitude":9.742211,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916882,
-    "wof:geomhash":"b54b4b7e55e9c32d8874ef6b6f8cfdd1",
+    "wof:geomhash":"fc825bbef68e19ca63c0951b39d99da0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092450989
         }
     ],
     "wof:id":1092450989,
-    "wof:lastmodified":1473983310,
+    "wof:lastmodified":1496900755,
     "wof:name":"Reuter Margit",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

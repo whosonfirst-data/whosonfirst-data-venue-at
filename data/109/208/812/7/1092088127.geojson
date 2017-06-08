@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.850769043,47.3908348083,11.850769043,47.3908348083",
     "geom:latitude":47.390835,
     "geom:longitude":11.850769,
@@ -23,17 +24,33 @@
     "sg:postcode":"6262",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837729,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QbCfMz8y0gxkxSBGgq0Lr_47.390835_11.850769@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900143,
-    "wof:geomhash":"74a08102d111e51939839c7796c0110d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21e8ef1028ff404d753baeb9c215da8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837729,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092088127
+        }
+    ],
     "wof:id":1092088127,
-    "wof:lastmodified":1473984953,
+    "wof:lastmodified":1496899811,
     "wof:name":"Gemeinde Schlitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

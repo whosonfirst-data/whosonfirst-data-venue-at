@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4401779175,47.3047981262,16.4401779175,47.3047981262",
     "geom:latitude":47.304798,
     "geom:longitude":16.440178,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838571,
+        85632785,
+        101787891,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mjBxcPFY7sngq6nb1PU58_47.304798_16.440178@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913596,
-    "wof:geomhash":"c04d4762862f53ab53d43ee5a72ab64e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a86059d70dafcf997883c17855c1d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838571,
+            "locality_id":101787891,
+            "region_id":85681651,
+            "venue_id":1092383133
+        }
+    ],
     "wof:id":1092383133,
-    "wof:lastmodified":1473984137,
+    "wof:lastmodified":1496908520,
     "wof:name":"Pizzeria Crash-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

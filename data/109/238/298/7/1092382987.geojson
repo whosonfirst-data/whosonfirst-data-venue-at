@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3712596893,48.2465362549,14.3712596893,48.2465362549",
     "geom:latitude":48.246536,
     "geom:longitude":14.37126,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913590,
-    "wof:geomhash":"b5b1f0af4bb1c7f197fba62a16281efe",
+    "wof:geomhash":"b1819da44dd27f53516bb69517948c66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1092382987
         }
     ],
     "wof:id":1092382987,
-    "wof:lastmodified":1473984127,
+    "wof:lastmodified":1496881368,
     "wof:name":"Pizzeria Boris",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

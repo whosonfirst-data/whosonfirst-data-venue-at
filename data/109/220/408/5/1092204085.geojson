@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2881145477,48.0349082947,16.2881145477,48.0349082947",
     "geom:latitude":48.034908,
     "geom:longitude":16.288115,
@@ -32,17 +33,34 @@
         "underground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836199,
+        85632785,
+        101833231,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50cCULZIbxsQeiRYzzNDif_48.034908_16.288115@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905706,
-    "wof:geomhash":"2770f1b7b6f883f378f2e60c9676702b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcf5ee838d482e9bd3e61068b27413b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836199,
+            "locality_id":101833231,
+            "region_id":85681671,
+            "venue_id":1092204085
+        }
+    ],
     "wof:id":1092204085,
-    "wof:lastmodified":1473984262,
+    "wof:lastmodified":1496889971,
     "wof:name":"Rohrsanierungs Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

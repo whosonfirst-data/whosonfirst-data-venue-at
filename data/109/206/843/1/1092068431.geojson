@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.478723526,47.0383338928,11.478723526,47.0383338928",
     "geom:latitude":47.038334,
     "geom:longitude":11.478724,
@@ -23,17 +24,33 @@
     "sg:postcode":"6156",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837595,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_247pRUncTqmUTEKoDoYZbf_47.038334_11.478724@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899247,
-    "wof:geomhash":"fffc56e7b5cce3484381fab4192fa812",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84b457670b38f251ce0daaaeefe6f1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837595,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092068431
+        }
+    ],
     "wof:id":1092068431,
-    "wof:lastmodified":1473984921,
+    "wof:lastmodified":1496898636,
     "wof:name":"Gasthaus Rose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

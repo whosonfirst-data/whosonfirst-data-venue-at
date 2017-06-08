@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2318592072,46.8218994141,15.2318592072,46.8218994141",
     "geom:latitude":46.821899,
     "geom:longitude":15.231859,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"epcos.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        101788963,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2thJspMrAgmy2Gwl739kHn_46.821899_15.231859@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905505,
-    "wof:geomhash":"a3995a8e8effb672c60f247936cf5c85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"976450f5af32a26e6b1d3f077db6acaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":101788963,
+            "region_id":85681687,
+            "venue_id":1092200811
+        }
+    ],
     "wof:id":1092200811,
-    "wof:lastmodified":1473983436,
+    "wof:lastmodified":1496912614,
     "wof:name":"EPCOS OHG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7214546204,47.2619514465,9.7214546204,47.2619514465",
     "geom:latitude":47.261951,
     "geom:longitude":9.721455,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837985,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n9VWbMYnMcEYsL6aE7Wui_47.261951_9.721455@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897081,
-    "wof:geomhash":"17ad37439c225a1c386619b69c3760de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e3f3713e4f605ccbac06a6fb173d1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837985,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092013421
+        }
+    ],
     "wof:id":1092013421,
-    "wof:lastmodified":1473983569,
+    "wof:lastmodified":1496901250,
     "wof:name":"Gebr\u00fcder Nesensohn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

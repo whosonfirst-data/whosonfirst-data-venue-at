@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8421573639,46.7826766968,15.8421573639,46.7826766968",
     "geom:latitude":46.782677,
     "geom:longitude":15.842157,
@@ -32,17 +33,33 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839333,
+        85632785,
+        102049687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a8vgpJT0WN8RiFixdmm37_46.782677_15.842157@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916002,
-    "wof:geomhash":"6babe69c820c8b316366e4dfcffbb23d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d734cc5320cef37c7c8e6ade87761489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049687,
+            "localadmin_id":1108839333,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092432067
+        }
+    ],
     "wof:id":1092432067,
-    "wof:lastmodified":1473983656,
+    "wof:lastmodified":1496913612,
     "wof:name":"K\u00d6RBISSER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

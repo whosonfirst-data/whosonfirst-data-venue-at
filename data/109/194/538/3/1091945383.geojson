@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6951227188,47.3722076416,9.6951227188,47.3722076416",
     "geom:latitude":47.372208,
     "geom:longitude":9.695123,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898621,
-        102049737
+        102191581,
+        1108837963,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894170,
-    "wof:geomhash":"998a53f91da4c10a9b515bde6bac66b6",
+    "wof:geomhash":"1fcbecb4ef1f6202e1cab80b0af1cd8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":-1,
             "neighbourhood_id":85898621,
             "region_id":85681649,
             "venue_id":1091945383
         }
     ],
     "wof:id":1091945383,
-    "wof:lastmodified":1473984440,
+    "wof:lastmodified":1496901161,
     "wof:name":"Loretz Ludwig",
     "wof:parent_id":85898621,
     "wof:placetype":"venue",

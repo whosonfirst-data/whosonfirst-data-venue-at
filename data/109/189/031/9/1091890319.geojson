@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5487852097,47.0492248535,15.5487852097,47.0492248535",
     "geom:latitude":47.049225,
     "geom:longitude":15.548785,
@@ -23,17 +24,33 @@
     "sg:postcode":"8075",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839179,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qhTm4pxCFierFo67GL2DG_47.049225_15.548785@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891654,
-    "wof:geomhash":"24d48492b625cf32b40bb0b718b7534e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e599f58175ff10c1fd7a67251933c26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839179,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091890319
+        }
+    ],
     "wof:id":1091890319,
-    "wof:lastmodified":1473983366,
+    "wof:lastmodified":1496911726,
     "wof:name":"Freibad Pachern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

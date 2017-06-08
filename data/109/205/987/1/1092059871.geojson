@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6032323837,48.5029792786,14.6032323837,48.5029792786",
     "geom:latitude":48.502979,
     "geom:longitude":14.603232,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835099,
+        85632785,
+        101843335,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gm7uwXddLn3oaRQUzX4VO_48.502979_14.603232@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898894,
-    "wof:geomhash":"00481657d2665f9a0599a43d5b1da14c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75812e6f1a321262740c133be1b99f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835099,
+            "locality_id":101843335,
+            "region_id":85681677,
+            "venue_id":1092059871
+        }
+    ],
     "wof:id":1092059871,
-    "wof:lastmodified":1473985196,
+    "wof:lastmodified":1496884578,
     "wof:name":"Franz Haider KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2725772858,48.1270942688,16.2725772858,48.1270942688",
     "geom:latitude":48.127094,
     "geom:longitude":16.272577,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473917061,
-    "wof:geomhash":"164b772b70c7a2ef625281a77a15b116",
+    "wof:geomhash":"55780c4291e0a6f2ec19734bd5ba8cce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092455267
         }
     ],
     "wof:id":1092455267,
-    "wof:lastmodified":1473983731,
+    "wof:lastmodified":1496885842,
     "wof:name":"Velta Au\u00dfenb\u00fcro Bereich \u00f6sterreich Ost - Gerhard Schild",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

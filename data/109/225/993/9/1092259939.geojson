@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5752868652,48.2348976135,14.5752868652,48.2348976135",
     "geom:latitude":48.234898,
     "geom:longitude":14.575287,
@@ -23,17 +24,33 @@
     "sg:postcode":"4332",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835597,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eIy1QH36iyVapTfyAfB2K_48.234898_14.575287@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908155,
-    "wof:geomhash":"00891a0991871c5f342362f83beb0817",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e5e9ae843976986ddabe49fa9b2caf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835597,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092259939
+        }
+    ],
     "wof:id":1092259939,
-    "wof:lastmodified":1473985264,
+    "wof:lastmodified":1496887576,
     "wof:name":"Tauber Transport GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

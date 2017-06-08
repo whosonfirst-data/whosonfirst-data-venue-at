@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4381971359,47.4062576294,12.4381971359,47.4062576294",
     "geom:latitude":47.406258,
     "geom:longitude":12.438197,
@@ -23,17 +24,33 @@
     "sg:postcode":"6370",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837691,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Sv54tgb8LKzoPdXDankss_47.406258_12.438197@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909604,
-    "wof:geomhash":"40ce68370c42b00ca38c25cbd681a75c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6776dd7844efa54423dbd96d29b264bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837691,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092293743
+        }
+    ],
     "wof:id":1092293743,
-    "wof:lastmodified":1473984275,
+    "wof:lastmodified":1496899600,
     "wof:name":"Ferienhof Obernberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

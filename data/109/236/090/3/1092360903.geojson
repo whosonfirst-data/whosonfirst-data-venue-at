@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2612218857,47.4611778259,12.2612218857,47.4611778259",
     "geom:latitude":47.461178,
     "geom:longitude":12.261222,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GMG5YikrFm7bPUoyCsY8r_47.461178_12.261222@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912554,
-    "wof:geomhash":"6b7ede7013f23a44d606439b6b227db6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc2813e78e6abee04a47702abce3f4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092360903
+        }
+    ],
     "wof:id":1092360903,
-    "wof:lastmodified":1473983487,
+    "wof:lastmodified":1496897253,
     "wof:name":"Adlhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

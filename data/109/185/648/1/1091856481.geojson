@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3640108109,48.2853927612,14.3640108109,48.2853927612",
     "geom:latitude":48.285393,
     "geom:longitude":14.364011,
@@ -37,17 +38,34 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836411,
+        85632785,
+        101758515,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y3igOIBxHIKfusP8YjyAC_48.285393_14.364011@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890019,
-    "wof:geomhash":"f4b8858cd84f892c7331438c241e65a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f27c7df2bbf6b4eaa1efc6349f63d32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":101758515,
+            "region_id":85681677,
+            "venue_id":1091856481
+        }
+    ],
     "wof:id":1091856481,
-    "wof:lastmodified":1473984453,
+    "wof:lastmodified":1496890936,
     "wof:name":"Hifra-Maschinen Himmelbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

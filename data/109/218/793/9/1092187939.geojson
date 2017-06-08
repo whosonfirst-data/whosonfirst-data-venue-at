@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9638547897,47.5045547485,9.9638547897,47.5045547485",
     "geom:latitude":47.504555,
     "geom:longitude":9.963855,
@@ -31,17 +32,33 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838027,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uuWkRnke4IJfWMpZBM50j_47.504555_9.963855@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904937,
-    "wof:geomhash":"9909fdf6e429a702606db0a7286ddd5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61ace93708a3f394fa3fab4ab150edce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838027,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092187939
+        }
+    ],
     "wof:id":1092187939,
-    "wof:lastmodified":1473984842,
+    "wof:lastmodified":1496901673,
     "wof:name":"Kurt Vogt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2257862091,46.9417800903,15.2257862091,46.9417800903",
     "geom:latitude":46.94178,
     "geom:longitude":15.225786,
@@ -23,17 +24,33 @@
     "sg:postcode":"8511",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839279,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pTtRif2ev0N2Nm7F9x0uC_46.941780_15.225786@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899864,
-    "wof:geomhash":"a825405d6d23c3407ed03c19440b9338",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cba216ac53677ccf5d355268926be6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839279,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092082277
+        }
+    ],
     "wof:id":1092082277,
-    "wof:lastmodified":1473983855,
+    "wof:lastmodified":1496912477,
     "wof:name":"Seminarhaus Birkenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

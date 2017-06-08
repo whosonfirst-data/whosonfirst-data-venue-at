@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.698431015,47.3744544983,9.698431015,47.3744544983",
     "geom:latitude":47.374454,
     "geom:longitude":9.698431,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898621,
-        102049737
+        102191581,
+        1108837963,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908981,
-    "wof:geomhash":"37fa18b3d32904b63a6cabbe23408965",
+    "wof:geomhash":"cae081854888b6552b106b18f4c59271",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":-1,
             "neighbourhood_id":85898621,
             "region_id":85681649,
             "venue_id":1092278957
         }
     ],
     "wof:id":1092278957,
-    "wof:lastmodified":1473985285,
+    "wof:lastmodified":1496901094,
     "wof:name":"Dold Tiefbau GesmbH",
     "wof:parent_id":85898621,
     "wof:placetype":"venue",

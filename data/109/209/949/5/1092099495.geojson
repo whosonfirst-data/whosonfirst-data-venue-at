@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.355099678,47.1234931946,15.355099678,47.1234931946",
     "geom:latitude":47.123493,
     "geom:longitude":15.3551,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900788,
-    "wof:geomhash":"bdeebb7e8c23ecd9639d7debb0df6e00",
+    "wof:geomhash":"610afd66280994390080b3e8221752aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092099495
         }
     ],
     "wof:id":1092099495,
-    "wof:lastmodified":1473985041,
+    "wof:lastmodified":1496911870,
     "wof:name":"Peterhof",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

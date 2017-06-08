@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8404531479,47.4264221191,12.8404531479,47.4264221191",
     "geom:latitude":47.426422,
     "geom:longitude":12.840453,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"www.leitgoeb-wohnbau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        101834285,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YAsrU04bQU0NKXvKWHT5A_47.426422_12.840453@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889528,
-    "wof:geomhash":"e5e5ebd50a291cc1aa079361634c35ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"326449fa8c32e6dc27e857718568bad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":101834285,
+            "region_id":85681681,
+            "venue_id":1091846319
+        }
+    ],
     "wof:id":1091846319,
-    "wof:lastmodified":1473984432,
+    "wof:lastmodified":1496896284,
     "wof:name":"Leitg\u00f6b Wohnbau Bautr\u00e4ger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

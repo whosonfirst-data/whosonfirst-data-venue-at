@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5735273361,48.3713340759,13.5735273361,48.3713340759",
     "geom:latitude":48.371334,
     "geom:longitude":13.573527,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"abh.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836025,
+        85632785,
+        101784603,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VIN2XQWhlkF3JOr2Ef0V1_48.371334_13.573527@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913676,
-    "wof:geomhash":"4ef9b4283b2d43e098617280b0c79e75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24fa1785910dc8976c98701bb43ceb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836025,
+            "locality_id":101784603,
+            "region_id":85681677,
+            "venue_id":1092384951
+        }
+    ],
     "wof:id":1092384951,
-    "wof:lastmodified":1473984568,
+    "wof:lastmodified":1496889254,
     "wof:name":"ABH Generalplanung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

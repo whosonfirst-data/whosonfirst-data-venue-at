@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9948101044,47.0773239136,15.9948101044,47.0773239136",
     "geom:latitude":47.077324,
     "geom:longitude":15.99481,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839223,
+        85632785,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40AFcl7EcYVICcYNHUIYrV_47.077324_15.994810@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897085,
-    "wof:geomhash":"2a09e89e1af7e73d8ca7c979390b5639",
-    "wof:hierarchy":[],
+    "wof:geomhash":"146d9f6ecae0eda40523eea89320a635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839223,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092013511
+        }
+    ],
     "wof:id":1092013511,
-    "wof:lastmodified":1473983572,
+    "wof:lastmodified":1496912028,
     "wof:name":"Josef G\u00f6lles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

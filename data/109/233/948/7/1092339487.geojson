@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3352947235,47.8659553528,13.3352947235,47.8659553528",
     "geom:latitude":47.865955,
     "geom:longitude":13.335295,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.topinside.de",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836451,
+        85632785,
+        101785673,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55HymRNEhUeexAxgCJIshQ_47.865955_13.335295@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911609,
-    "wof:geomhash":"009c7f83c6fe48bc8ce80790d74b8baa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"566a7a2036103fd9ddcefc144c368d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836451,
+            "locality_id":101785673,
+            "region_id":85681677,
+            "venue_id":1092339487
+        }
+    ],
     "wof:id":1092339487,
-    "wof:lastmodified":1473985317,
+    "wof:lastmodified":1496891421,
     "wof:name":"i.t.c.gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.621969223,48.1181221008,16.621969223,48.1181221008",
     "geom:latitude":48.118122,
     "geom:longitude":16.621969,
@@ -32,17 +33,34 @@
         "purpose"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836773,
+        85632785,
+        101784517,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04mOkB8avy3nurTF2FLtOG_48.118122_16.621969@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900296,
-    "wof:geomhash":"95a39999c543318a38953c42525abe0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59c5f94dde1ca5fc50ea6c701d2936fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836773,
+            "locality_id":101784517,
+            "region_id":85681671,
+            "venue_id":1092091133
+        }
+    ],
     "wof:id":1092091133,
-    "wof:lastmodified":1473983469,
+    "wof:lastmodified":1496892707,
     "wof:name":"G\u00fcnther Kuch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

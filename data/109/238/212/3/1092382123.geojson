@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2628002167,47.4520835876,12.2628002167,47.4520835876",
     "geom:latitude":47.452084,
     "geom:longitude":12.2628,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q2TkmJMm8NbGrt31gzPcE_47.452084_12.262800@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913533,
-    "wof:geomhash":"e327b3998a63f92316233e5cb1e4d74c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"655ac2e7d4fac796a0c58e7e670deb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092382123
+        }
+    ],
     "wof:id":1092382123,
-    "wof:lastmodified":1473983825,
+    "wof:lastmodified":1496897254,
     "wof:name":"Brixner Kegelst\u00fcberl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

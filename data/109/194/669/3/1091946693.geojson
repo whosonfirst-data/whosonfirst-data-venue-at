@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6281661987,47.2719573975,9.6281661987,47.2719573975",
     "geom:latitude":47.271957,
     "geom:longitude":9.628166,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894234,
-    "wof:geomhash":"b43db72eb97a5e4af1b1705281d8f027",
+    "wof:geomhash":"978d508f541e451b99766dcb6f0d7089",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091946693
         }
     ],
     "wof:id":1091946693,
-    "wof:lastmodified":1473984706,
+    "wof:lastmodified":1496901648,
     "wof:name":"Loretz Josef",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

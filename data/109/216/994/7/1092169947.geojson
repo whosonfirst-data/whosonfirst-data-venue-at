@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6339759827,47.4640274048,16.6339759827,47.4640274048",
     "geom:latitude":47.464027,
     "geom:longitude":16.633976,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S4XdN85VKIECCrotw7wBs_47.464027_16.633976@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904121,
-    "wof:geomhash":"80ff08aefe80dad45575f236f3f61dfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75bdb77d3612bbbb5c8c911a79787765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092169947
+        }
+    ],
     "wof:id":1092169947,
-    "wof:lastmodified":1473985213,
+    "wof:lastmodified":1496909136,
     "wof:name":"Obradovits Lorenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

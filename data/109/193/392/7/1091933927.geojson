@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3208942413,48.1293869019,16.3208942413,48.1293869019",
     "geom:latitude":48.129387,
     "geom:longitude":16.320894,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893678,
-    "wof:geomhash":"24669581168d2365a65a8ab3a93c632e",
+    "wof:geomhash":"b49fd7b3540edce982161831fbecd3de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091933927
         }
     ],
     "wof:id":1091933927,
-    "wof:lastmodified":1473984190,
+    "wof:lastmodified":1496904211,
     "wof:name":"Ammann Mag Handelsgesch\u00e4fte GesmbH - Kirby-Raumpflege-Systeme",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

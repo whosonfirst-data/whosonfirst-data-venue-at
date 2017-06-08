@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6434803009,47.3005828857,9.6434803009,47.3005828857",
     "geom:latitude":47.300583,
     "geom:longitude":9.64348,
@@ -35,17 +36,34 @@
         "manufacturing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837973,
+        85632785,
+        101827461,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55OPeU0q42ugUDDo0NXJzZ_47.300583_9.643480@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905257,
-    "wof:geomhash":"a8223e65da7b2432aa499b9d7da5d2f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7c6a2c354411147f702b4b61ffba8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837973,
+            "locality_id":101827461,
+            "region_id":85681649,
+            "venue_id":1092195433
+        }
+    ],
     "wof:id":1092195433,
-    "wof:lastmodified":1473984542,
+    "wof:lastmodified":1496901890,
     "wof:name":"Schmid & Brunner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

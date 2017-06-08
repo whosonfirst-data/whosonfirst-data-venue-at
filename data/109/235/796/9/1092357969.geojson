@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4892787933,48.2511634827,16.4892787933,48.2511634827",
     "geom:latitude":48.251163,
     "geom:longitude":16.489279,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912432,
-    "wof:geomhash":"533aa8c4dddbea385a6a0acec884770c",
+    "wof:geomhash":"ca724774f815688a6356e299fd31ff65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092357969
         }
     ],
     "wof:id":1092357969,
-    "wof:lastmodified":1473984966,
+    "wof:lastmodified":1496904479,
     "wof:name":"BIPA Parfumerien GesmbH",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

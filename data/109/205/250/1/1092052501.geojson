@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2288045883,48.1436805725,14.2288045883,48.1436805725",
     "geom:latitude":48.143681,
     "geom:longitude":14.228805,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835547,
+        85632785,
+        101784531,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DwyFf6UW73CPXqAuX2Ilr_48.143681_14.228805@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898608,
-    "wof:geomhash":"8a55256df8a9f4cc0e455900d362e4ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f884bea8f2bebb74a30660db4b76fcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835547,
+            "locality_id":101784531,
+            "region_id":85681677,
+            "venue_id":1092052501
+        }
+    ],
     "wof:id":1092052501,
-    "wof:lastmodified":1473983809,
+    "wof:lastmodified":1496887260,
     "wof:name":"FRITZ KIRCHMAYR GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

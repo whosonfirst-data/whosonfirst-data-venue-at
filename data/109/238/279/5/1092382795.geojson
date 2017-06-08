@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0375614166,47.715763092,16.0375614166,47.715763092",
     "geom:latitude":47.715763,
     "geom:longitude":16.037561,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        101833087,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xXK8PsOvD3pVUPcxGJHZa_47.715763_16.037561@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913577,
-    "wof:geomhash":"729136f5543e672cd2751461a3940d36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64cec8a810bd675eca2e5f3151150ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":101833087,
+            "region_id":85681671,
+            "venue_id":1092382795
+        }
+    ],
     "wof:id":1092382795,
-    "wof:lastmodified":1473984061,
+    "wof:lastmodified":1496885882,
     "wof:name":"PIZZERIA - RESTAURANT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

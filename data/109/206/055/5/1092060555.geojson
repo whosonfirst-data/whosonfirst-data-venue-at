@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3884906769,47.9117965698,16.3884906769,47.9117965698",
     "geom:latitude":47.911797,
     "geom:longitude":16.388491,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835735,
+        85632785,
+        101785699,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gtNPZ9wf7Su5jTyBFDOOo_47.911797_16.388491@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898922,
-    "wof:geomhash":"c4e8951765055b629c5d6f76d06939c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fde855c11ee2492307312a900e2aa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835735,
+            "locality_id":101785699,
+            "region_id":85681671,
+            "venue_id":1092060555
+        }
+    ],
     "wof:id":1092060555,
-    "wof:lastmodified":1473983533,
+    "wof:lastmodified":1496888125,
     "wof:name":"Prewein Installationen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

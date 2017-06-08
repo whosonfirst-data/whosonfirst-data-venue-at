@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4819173813,47.2770004272,11.4819173813,47.2770004272",
     "geom:latitude":47.277,
     "geom:longitude":11.481917,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905243,
-    "wof:geomhash":"bbe12ffd041e7975e6c5f200c8bfd7d4",
+    "wof:geomhash":"81751e72053c7fc26eda0ee2e3c3ba4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092195073
         }
     ],
     "wof:id":1092195073,
-    "wof:lastmodified":1473984508,
+    "wof:lastmodified":1496898705,
     "wof:name":"J\u00fcrgen Hudej",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

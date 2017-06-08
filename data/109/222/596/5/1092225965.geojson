@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6078281403,47.3258247375,9.6078281403,47.3258247375",
     "geom:latitude":47.325825,
     "geom:longitude":9.607828,
@@ -23,17 +24,33 @@
     "sg:postcode":"6842",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837977,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vgNtOAUtYsuqF7aPfZFPs_47.325825_9.607828@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906655,
-    "wof:geomhash":"8328258d865c027f8d32ac838fa80bda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"850f85e8bb8ee91d32b5f6b3a91339cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837977,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092225965
+        }
+    ],
     "wof:id":1092225965,
-    "wof:lastmodified":1473984758,
+    "wof:lastmodified":1496901217,
     "wof:name":"egle industrieservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

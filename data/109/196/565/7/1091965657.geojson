@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3946990967,48.1087341309,16.3946990967,48.1087341309",
     "geom:latitude":48.108734,
     "geom:longitude":16.394699,
@@ -29,10 +30,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895062,
-    "wof:geomhash":"202ea347a3809582b63d54064fd02399",
+    "wof:geomhash":"1ed86cd14b80d10e873eb70f625a278b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1091965657
         }
     ],
     "wof:id":1091965657,
-    "wof:lastmodified":1473984202,
+    "wof:lastmodified":1496883072,
     "wof:name":"Restaurant Goldener Anker",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

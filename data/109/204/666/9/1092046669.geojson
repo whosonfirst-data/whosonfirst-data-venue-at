@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2822332382,47.0069236755,10.2822332382,47.0069236755",
     "geom:latitude":47.006924,
     "geom:longitude":10.282233,
@@ -28,17 +29,33 @@
     "sg:postcode":"6561",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837297,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P7OYcY5LMDu9QayQ4Qjom_47.006924_10.282233@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898380,
-    "wof:geomhash":"daa809ec5ceb21750e6f2920992d9e96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66efc9e155e57eb0e1164c9be4a91482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837297,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092046669
+        }
+    ],
     "wof:id":1092046669,
-    "wof:lastmodified":1473983934,
+    "wof:lastmodified":1496896760,
     "wof:name":"Hotel Garni Tanzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

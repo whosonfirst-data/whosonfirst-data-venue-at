@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2834339142,47.232421875,11.2834339142,47.232421875",
     "geom:latitude":47.232422,
     "geom:longitude":11.283434,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908766,
-    "wof:geomhash":"8106e850934b764150365b851aeec765",
+    "wof:geomhash":"468f2f4659eedfc0f56bf5a6087f0957",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092274019
         }
     ],
     "wof:id":1092274019,
-    "wof:lastmodified":1473984342,
+    "wof:lastmodified":1496898029,
     "wof:name":"M\u00f6sl Markus",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

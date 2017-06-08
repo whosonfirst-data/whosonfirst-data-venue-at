@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0223846436,47.6972465515,16.0223846436,47.6972465515",
     "geom:latitude":47.697247,
     "geom:longitude":16.022385,
@@ -23,17 +24,34 @@
     "sg:postcode":"2632",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        101833089,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Fmz0PLYlA9Jh1GHXtW1yJ_47.697247_16.022385@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890277,
-    "wof:geomhash":"53a9c68d6a9b1d8db87fa32d59456007",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ccf93f1d191c09d4b0ee4e6468c36fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":101833089,
+            "region_id":85681671,
+            "venue_id":1091861525
+        }
+    ],
     "wof:id":1091861525,
-    "wof:lastmodified":1473983692,
+    "wof:lastmodified":1496885930,
     "wof:name":"Bestattung der Stadtgemeinde Neunkirchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

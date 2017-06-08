@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1654109955,48.1916465759,16.1654109955,48.1916465759",
     "geom:latitude":48.191647,
     "geom:longitude":16.165411,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.seminardom.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835737,
+        85632785,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nyBkdUsGQxyeHzQL9BbnY_48.191647_16.165411@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892543,
-    "wof:geomhash":"e5919ebb04273b331aaef0a07867bb5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8fc499ad0eeb1fc8a2f7bee23207637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108835737,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091909809
+        }
+    ],
     "wof:id":1091909809,
-    "wof:lastmodified":1473985234,
+    "wof:lastmodified":1496888151,
     "wof:name":"SEMINARDOM WIENERWALD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

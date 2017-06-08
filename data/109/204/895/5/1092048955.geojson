@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7569990158,47.1533088684,10.7569990158,47.1533088684",
     "geom:latitude":47.153309,
     "geom:longitude":10.756999,
@@ -28,17 +29,33 @@
     "sg:postcode":"6474",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837609,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40uunPA58AZgGxZMwNvS2H_47.153309_10.756999@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898469,
-    "wof:geomhash":"d336f869fdce98edd23cd2937f6d7003",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0082d89043f6ef42dfae125d10dfc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837609,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048955
+        }
+    ],
     "wof:id":1092048955,
-    "wof:lastmodified":1473984329,
+    "wof:lastmodified":1496898684,
     "wof:name":"Hotel Venetblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

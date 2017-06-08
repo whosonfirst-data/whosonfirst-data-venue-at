@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2665328979,48.1479492188,16.2665328979,48.1479492188",
     "geom:latitude":48.147949,
     "geom:longitude":16.266533,
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892498,
-    "wof:geomhash":"d52ae8aa698309743e44afea5417dfa3",
+    "wof:geomhash":"039e80bcb6013088536b179b4c037cd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1091908745
         }
     ],
     "wof:id":1091908745,
-    "wof:lastmodified":1473985164,
+    "wof:lastmodified":1496904210,
     "wof:name":"Karl Rottmund Maschinenbauges.m.b.H.",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

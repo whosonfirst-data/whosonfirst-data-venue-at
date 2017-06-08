@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0961742401,46.602809906,14.0961742401,46.602809906",
     "geom:latitude":46.60281,
     "geom:longitude":14.096174,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838193,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vMQEqypuAvsIrtsE2A2mm_46.602810_14.096174@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906465,
-    "wof:geomhash":"d0b7738e113452b8c942d8767cf69473",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90704e75fadbf85272c22c05b4e04fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838193,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092221669
+        }
+    ],
     "wof:id":1092221669,
-    "wof:lastmodified":1473983744,
+    "wof:lastmodified":1496906491,
     "wof:name":"Perdacher Reisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

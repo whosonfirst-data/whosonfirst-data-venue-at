@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4357700348,47.7421913147,13.4357700348,47.7421913147",
     "geom:latitude":47.742191,
     "geom:longitude":13.43577,
@@ -23,17 +24,33 @@
     "sg:postcode":"5342",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837175,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aOzkb6z8J2c34AA8iYNzz_47.742191_13.435770@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899407,
-    "wof:geomhash":"3dd09d4a5c97925971030226fb299bec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09b04fddcdf088d342ffaa3949b5c023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837175,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092072423
+        }
+    ],
     "wof:id":1092072423,
-    "wof:lastmodified":1473983782,
+    "wof:lastmodified":1496895647,
     "wof:name":"Gasthof Gamsjaga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

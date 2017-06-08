@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4049797058,47.2309494019,11.4049797058,47.2309494019",
     "geom:latitude":47.230949,
     "geom:longitude":11.40498,
@@ -25,10 +26,13 @@
     "sg:website":"http://www.edema.at/wenzl/index.htm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895466,
-    "wof:geomhash":"ca4567acd3b7e958f655b912095d0079",
+    "wof:geomhash":"5a5eca1acebc93c0acb26bd55169155a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091975385
         }
     ],
     "wof:id":1091975385,
-    "wof:lastmodified":1473984477,
+    "wof:lastmodified":1496899303,
     "wof:name":"E. Wenzl Handelsagentur",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

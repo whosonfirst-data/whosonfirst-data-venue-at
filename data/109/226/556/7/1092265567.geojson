@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6823377609,48.284122467,14.6823377609,48.284122467",
     "geom:latitude":48.284122,
     "geom:longitude":14.682338,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"benedetter.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835623,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bVFQx7buCHho1aDC18aFF_48.284122_14.682338@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908409,
-    "wof:geomhash":"4e662f2891e3761557e757358246a20e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bfbaae31621ec143c5ee63ede43bdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835623,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092265567
+        }
+    ],
     "wof:id":1092265567,
-    "wof:lastmodified":1473984470,
+    "wof:lastmodified":1496887719,
     "wof:name":"Herbert Benedetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

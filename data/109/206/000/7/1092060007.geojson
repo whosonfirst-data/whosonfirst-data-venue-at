@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5909585953,48.0994262695,14.5909585953,48.0994262695",
     "geom:latitude":48.099426,
     "geom:longitude":14.590959,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835427,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FUzk55FUx775opbwPirHy_48.099426_14.590959@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898900,
-    "wof:geomhash":"9de7157b099373b897594a46189e4726",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93293de84100907417e4b1013afd65e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835427,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092060007
+        }
+    ],
     "wof:id":1092060007,
-    "wof:lastmodified":1473983308,
+    "wof:lastmodified":1496886572,
     "wof:name":"Hannesschl\u00e4ger KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

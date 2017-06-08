@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7627668381,47.3897285461,11.7627668381,47.3897285461",
     "geom:latitude":47.389729,
     "geom:longitude":11.762767,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837877,
+        85632785,
+        101787875,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IreBvHEnGCudiQBvadbyo_47.389729_11.762767@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892814,
-    "wof:geomhash":"667177c63bbe680cbb8b5b4323670821",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e42abc93fc5fbd02338215796444cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837877,
+            "locality_id":101787875,
+            "region_id":85681661,
+            "venue_id":1091915597
+        }
+    ],
     "wof:id":1091915597,
-    "wof:lastmodified":1473984023,
+    "wof:lastmodified":1496900343,
     "wof:name":"Software Profi GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1294326782,46.7389984131,13.1294326782,46.7389984131",
     "geom:latitude":46.738998,
     "geom:longitude":13.129433,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://www.angelfire.com/hi/Draugolf",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838253,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bqFmMc3VPYcFmCkG7wokh_46.738998_13.129433@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916291,
-    "wof:geomhash":"9991cc6b2d6466553e0f217181cc4530",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1c142729ef89b5c15f131c31087bc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838253,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092438317
+        }
+    ],
     "wof:id":1092438317,
-    "wof:lastmodified":1473985067,
+    "wof:lastmodified":1496906834,
     "wof:name":"Golfplatz Draugolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

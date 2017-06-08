@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6939792633,48.4026031494,16.6939792633,48.4026031494",
     "geom:latitude":48.402603,
     "geom:longitude":16.693979,
@@ -23,17 +24,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.allegro.nwy.at/noten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835329,
+        85632785,
+        101783435,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GgLw8atPzX7lIHAesGYei_48.402603_16.693979@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473888357,
-    "wof:geomhash":"a7f46fd802342fd3b8af29b900ecf37c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f124927e3fac7aedefd5415b9fc82f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835329,
+            "locality_id":101783435,
+            "region_id":85681671,
+            "venue_id":1091820167
+        }
+    ],
     "wof:id":1091820167,
-    "wof:lastmodified":1473983401,
+    "wof:lastmodified":1496886101,
     "wof:name":"Allegro Noten-B\u00fccherversand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

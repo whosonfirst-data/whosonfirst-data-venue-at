@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2695083618,48.2442016602,16.2695083618,48.2442016602",
     "geom:latitude":48.244202,
     "geom:longitude":16.269508,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898355,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916086,
-    "wof:geomhash":"98dc8aa239b9602036a2c6b7d41d3b33",
+    "wof:geomhash":"99c2734724a7da11d6651572eec3438d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898355,
             "region_id":85681667,
             "venue_id":1092433623
         }
     ],
     "wof:id":1092433623,
-    "wof:lastmodified":1473984033,
+    "wof:lastmodified":1496928386,
     "wof:name":"Forstverwaltung d Stadt Wien - Revier Neuwaldegg",
     "wof:parent_id":85898355,
     "wof:placetype":"venue",

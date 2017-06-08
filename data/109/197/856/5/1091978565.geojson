@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4705467224,48.2204475403,14.4705467224,48.2204475403",
     "geom:latitude":48.220448,
     "geom:longitude":14.470547,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895611,
-    "wof:geomhash":"41f2b6e7ce733e737b162f38dc407794",
+    "wof:geomhash":"a43035d85454491d2f2bafd6edaeb998",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091978565
         }
     ],
     "wof:id":1091978565,
-    "wof:lastmodified":1473985049,
+    "wof:lastmodified":1496887084,
     "wof:name":"Tschautscher OEG",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

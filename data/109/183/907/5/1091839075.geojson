@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9903535843,48.5776329041,13.9903535843,48.5776329041",
     "geom:latitude":48.577633,
     "geom:longitude":13.990354,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"hannerer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835995,
+        85632785,
+        101783407,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4si2pjpMfaynN5dGhkyJkh_48.577633_13.990354@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889230,
-    "wof:geomhash":"fc00c259042508d7d7f38612b5641025",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4db2ed09aff56c8825cece65a194430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835995,
+            "locality_id":101783407,
+            "region_id":85681677,
+            "venue_id":1091839075
+        }
+    ],
     "wof:id":1091839075,
-    "wof:lastmodified":1473985246,
+    "wof:lastmodified":1496889172,
     "wof:name":"Hannerer GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

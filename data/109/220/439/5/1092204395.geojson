@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7642650604,46.8295173645,12.7642650604,46.8295173645",
     "geom:latitude":46.829517,
     "geom:longitude":12.764265,
@@ -32,17 +33,34 @@
         "climbing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837511,
+        85632785,
+        101834187,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63EycY9uQblQD60dy8N9kN_46.829517_12.764265@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905718,
-    "wof:geomhash":"7cc35c7407218e706fc1070b9a68c1f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca3bfe33ea198ff77703d6b7f882ee55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837511,
+            "locality_id":101834187,
+            "region_id":85681661,
+            "venue_id":1092204395
+        }
+    ],
     "wof:id":1092204395,
-    "wof:lastmodified":1473984358,
+    "wof:lastmodified":1496898123,
     "wof:name":"Bergsport Gassler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

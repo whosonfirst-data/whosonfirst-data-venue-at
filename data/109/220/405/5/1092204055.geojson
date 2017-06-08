@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8233537674,47.1051254272,15.8233537674,47.1051254272",
     "geom:latitude":47.105125,
     "geom:longitude":15.823354,
@@ -32,17 +33,34 @@
         "underground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838913,
+        85632785,
+        101912507,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25OXmbPkXwZ8lR1xtMkGMB_47.105125_15.823354@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905705,
-    "wof:geomhash":"a76d8e3c7f2e3baf2d02cd741be8c7e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df1465170bafd427022cbad0990da7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838913,
+            "locality_id":101912507,
+            "region_id":85681687,
+            "venue_id":1092204055
+        }
+    ],
     "wof:id":1092204055,
-    "wof:lastmodified":1473984275,
+    "wof:lastmodified":1496910107,
     "wof:name":"Johann Wilfling BaugesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3514785767,48.1879730225,16.3514785767,48.1879730225",
     "geom:latitude":48.187973,
     "geom:longitude":16.351479,
@@ -24,13 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898701,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85904339,
-        85898701
+        85681667,
+        85904339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473907723,
-    "wof:geomhash":"bedc7afa18d888d1ecfac807a0258bdc",
+    "wof:geomhash":"a7e3dc9160fd70354e008c0650a5a8b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85904339,
+            "neighbourhood_id":85898701,
             "region_id":85681667,
             "venue_id":1092249989
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898701,
+            "neighbourhood_id":85904339,
             "region_id":85681667,
             "venue_id":1092249989
         }
     ],
     "wof:id":1092249989,
-    "wof:lastmodified":1473985287,
+    "wof:lastmodified":1496904325,
     "wof:name":"KKM Records",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

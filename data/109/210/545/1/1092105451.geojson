@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8454618454,47.2865219116,12.8454618454,47.2865219116",
     "geom:latitude":47.286522,
     "geom:longitude":12.845462,
@@ -23,17 +24,33 @@
     "sg:postcode":"5671",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wfyvoEfdmnnrRFYYY5S9v_47.286522_12.845462@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473901080,
-    "wof:geomhash":"e78f522d4cfb414e330e1e3bb54647af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d7009bc3690812a832639cfcc484d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092105451
+        }
+    ],
     "wof:id":1092105451,
-    "wof:lastmodified":1473984443,
+    "wof:lastmodified":1496895901,
     "wof:name":"G\u00e4rtnerei St Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

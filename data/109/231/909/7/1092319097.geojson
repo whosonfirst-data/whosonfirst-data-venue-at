@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5990886688,46.6082992554,14.5990886688,46.6082992554",
     "geom:latitude":46.608299,
     "geom:longitude":14.599089,
@@ -32,17 +33,33 @@
         "automation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838387,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wsi4NNALF1fD1aSy3gUvd_46.608299_14.599089@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910759,
-    "wof:geomhash":"beeb9ccbbb729b1334cd37bcb943dfff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e09256a1ae57ca503b8dd1c3b550cc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838387,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092319097
+        }
+    ],
     "wof:id":1092319097,
-    "wof:lastmodified":1473985315,
+    "wof:lastmodified":1496907707,
     "wof:name":"Diex E-Technik Automation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

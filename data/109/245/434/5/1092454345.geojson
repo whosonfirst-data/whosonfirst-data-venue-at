@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2863779068,48.1185188293,13.2863779068,48.1185188293",
     "geom:latitude":48.118519,
     "geom:longitude":13.286378,
@@ -31,17 +32,33 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834787,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lGJPlVGrPRxTpviUrZAo0_48.118519_13.286378@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917025,
-    "wof:geomhash":"691eb7210b59011c6910f9330a77db05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"623a2193c18fa4e20d91571b696bdabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834787,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092454345
+        }
+    ],
     "wof:id":1092454345,
-    "wof:lastmodified":1473983466,
+    "wof:lastmodified":1496882579,
     "wof:name":"G\u00fcnther Peham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9029912949,46.9535560608,15.9029912949,46.9535560608",
     "geom:latitude":46.953556,
     "geom:longitude":15.902991,
@@ -29,17 +30,34 @@
     "sg:province":"Steiermark",
     "sg:website":"snack-back.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839259,
+        85632785,
+        101788987,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CpUULEzD5VbVIvD5BxaCV_46.953556_15.902991@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905695,
-    "wof:geomhash":"bd550aab929d4a7e1dbb3775e5e92767",
-    "wof:hierarchy":[],
+    "wof:geomhash":"782573f2f51925204f4fd30188d26bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839259,
+            "locality_id":101788987,
+            "region_id":85681687,
+            "venue_id":1092203841
+        }
+    ],
     "wof:id":1092203841,
-    "wof:lastmodified":1473984203,
+    "wof:lastmodified":1496912280,
     "wof:name":"Snack & Back Moderne NahrungsmittelerzeugungsgmbH Nfg & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

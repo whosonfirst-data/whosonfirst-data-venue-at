@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5538301468,47.2880783081,11.5538301468,47.2880783081",
     "geom:latitude":47.288078,
     "geom:longitude":11.55383,
@@ -28,17 +29,33 @@
     "sg:postcode":"6121",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837469,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iQIcyfnFGRNlnBnHOS3fg_47.288078_11.553830@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894921,
-    "wof:geomhash":"dbdaac81b20952f1081d09748d4d970a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e10b0e470db1ca41f91019befe2ebbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837469,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091962347
+        }
+    ],
     "wof:id":1091962347,
-    "wof:lastmodified":1473983678,
+    "wof:lastmodified":1496898042,
     "wof:name":"Bahnrestaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0726032257,47.7902565002,13.0726032257,47.7902565002",
     "geom:latitude":47.790257,
     "geom:longitude":13.072603,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911210,
-    "wof:geomhash":"2dc405dea8753bfec130de7a6233f728",
+    "wof:geomhash":"ad5039c74063a92f5df5a8d64cd2e758",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092329929
         }
     ],
     "wof:id":1092329929,
-    "wof:lastmodified":1473985289,
+    "wof:lastmodified":1496894804,
     "wof:name":"Spiegl Erich",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

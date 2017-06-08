@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7098112106,47.3432044983,11.7098112106,47.3432044983",
     "geom:latitude":47.343204,
     "geom:longitude":11.709811,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tmorQ446YllAYjEh9w4db_47.343204_11.709811@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906524,
-    "wof:geomhash":"79f4c42875e9f928baed34ea36234853",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e70a50fe05c9376edd86476e235dea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1092222831
+        }
+    ],
     "wof:id":1092222831,
-    "wof:lastmodified":1473984028,
+    "wof:lastmodified":1496900132,
     "wof:name":"Taxi Rinner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

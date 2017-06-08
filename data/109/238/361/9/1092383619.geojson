@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3682546616,46.7702522278,14.3682546616,46.7702522278",
     "geom:latitude":46.770252,
     "geom:longitude":14.368255,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838239,
+        85632785,
+        101790141,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xc2iE3sFE7ungaPRmzyTz_46.770252_14.368255@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913622,
-    "wof:geomhash":"50ff9d9de41a51dd69733bc890be878c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e6a4034c3a0225a778accf76eb80d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838239,
+            "locality_id":101790141,
+            "region_id":85681655,
+            "venue_id":1092383619
+        }
+    ],
     "wof:id":1092383619,
-    "wof:lastmodified":1473984191,
+    "wof:lastmodified":1496906720,
     "wof:name":"Pizzeria Made Italy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7462263107,47.4080543518,9.7462263107,47.4080543518",
     "geom:latitude":47.408054,
     "geom:longitude":9.746226,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889719,
-    "wof:geomhash":"523c062aaa04290cc51dafa1aed13d27",
+    "wof:geomhash":"1fe80d3fb85cf31a48e7f07da083b470",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091849991
         }
     ],
     "wof:id":1091849991,
-    "wof:lastmodified":1473985300,
+    "wof:lastmodified":1496900822,
     "wof:name":"R\u00fcmmele BaugesmbH",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

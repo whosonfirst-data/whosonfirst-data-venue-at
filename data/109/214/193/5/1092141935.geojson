@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1632843018,47.5778083801,12.1632843018,47.5778083801",
     "geom:latitude":47.577808,
     "geom:longitude":12.163284,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"edinger.cc",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X6xJHO4nC4vBXam9amRJ7_47.577808_12.163284@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902836,
-    "wof:geomhash":"b181c298bcc0e350514c4797d97e2b45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ffba213914c48d54d5d5c1f09c5ed47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1092141935
+        }
+    ],
     "wof:id":1092141935,
-    "wof:lastmodified":1473983728,
+    "wof:lastmodified":1496897690,
     "wof:name":"Edinger Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

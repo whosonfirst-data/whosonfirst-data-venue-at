@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4450368881,47.1991653442,14.4450368881,47.1991653442",
     "geom:latitude":47.199165,
     "geom:longitude":14.445037,
@@ -32,17 +33,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839421,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dvhhSeC0fWSNqLP9FCG1B_47.199165_14.445037@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905106,
-    "wof:geomhash":"fb7527d1997fb5da83f81fa8345f17bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ab687ce6d330bb498a61c3353594c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839421,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092191951
+        }
+    ],
     "wof:id":1092191951,
-    "wof:lastmodified":1473983820,
+    "wof:lastmodified":1496914141,
     "wof:name":"Manfred Maierhofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

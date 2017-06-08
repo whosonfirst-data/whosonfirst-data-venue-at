@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6005096436,48.595375061,16.6005096436,48.595375061",
     "geom:latitude":48.595375,
     "geom:longitude":16.60051,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.aio24.com/dwIndex.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836627,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fAwocD4d5K7NBID28WzHC_48.595375_16.600510@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896473,
-    "wof:geomhash":"d7787fa5764939479081a230b8041bff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d129618ef6caef458082ce795eed5bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836627,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091998559
+        }
+    ],
     "wof:id":1091998559,
-    "wof:lastmodified":1473984968,
+    "wof:lastmodified":1496892070,
     "wof:name":"Internetservice - AIO24",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

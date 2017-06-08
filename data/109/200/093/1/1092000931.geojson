@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.788277626,46.826210022,12.788277626,46.826210022",
     "geom:latitude":46.82621,
     "geom:longitude":12.788278,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"dig-info.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837511,
+        85632785,
+        101834185,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VReKVZ36Ob0nsXMSzExzD_46.826210_12.788278@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896564,
-    "wof:geomhash":"0e2e75a9c7406e26a4d45e5f23b2d7bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a8373b96888b272f39f12db09eea834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837511,
+            "locality_id":101834185,
+            "region_id":85681661,
+            "venue_id":1092000931
+        }
+    ],
     "wof:id":1092000931,
-    "wof:lastmodified":1473983561,
+    "wof:lastmodified":1496898204,
     "wof:name":"DIG Dachdeckungs- Isolierungs- u Spenglerei GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

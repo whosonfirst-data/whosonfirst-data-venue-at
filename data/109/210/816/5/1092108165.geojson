@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4434223175,47.2824745178,16.4434223175,47.2824745178",
     "geom:latitude":47.282475,
     "geom:longitude":16.443422,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"stipits.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838571,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eyW2pa2XbZ5NGtCgKRB2a_47.282475_16.443422@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901205,
-    "wof:geomhash":"7c205d7ad4f845d7a7a24f49e7115ace",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1e4bdd659e46c4c5dabaa23815dbee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838571,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092108165
+        }
+    ],
     "wof:id":1092108165,
-    "wof:lastmodified":1473984847,
+    "wof:lastmodified":1496908526,
     "wof:name":"Stipits Entsorgung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

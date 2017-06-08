@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9612169266,47.4672966003,9.9612169266,47.4672966003",
     "geom:latitude":47.467297,
     "geom:longitude":9.961217,
@@ -23,17 +24,33 @@
     "sg:postcode":"6952",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837959,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Cj4WCO8IIwzgoYR5jtMFS_47.467297_9.961217@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912692,
-    "wof:geomhash":"a9efb1c283a32853b43bde58eb7bbc02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"580ce33c8895573030413605973a78ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837959,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092363755
+        }
+    ],
     "wof:id":1092363755,
-    "wof:lastmodified":1473984206,
+    "wof:lastmodified":1496901082,
     "wof:name":"Gasthof Engel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4522590637,47.761844635,16.4522590637,47.761844635",
     "geom:latitude":47.761845,
     "geom:longitude":16.452259,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"kornfehl.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838585,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Kios9rMJFBGJ4cKh70doU_47.761845_16.452259@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473902971,
-    "wof:geomhash":"0c2858da43b812022bd3854675b566e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8f39314de10e34bbfbf8061a389dd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838585,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092144833
+        }
+    ],
     "wof:id":1092144833,
-    "wof:lastmodified":1473984272,
+    "wof:lastmodified":1496908573,
     "wof:name":"WK Werbeagentur Kornfehl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2331809998,46.92137146,13.2331809998,46.92137146",
     "geom:latitude":46.921371,
     "geom:longitude":13.233181,
@@ -31,17 +32,33 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838287,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oYbp8suGKzjetoMeQGyAb_46.921371_13.233181@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473911057,
-    "wof:geomhash":"a38c265e2ece64a869c65486b494ffe2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa97e860e806283c0c256c62dcefc555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838287,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092326053
+        }
+    ],
     "wof:id":1092326053,
-    "wof:lastmodified":1473984862,
+    "wof:lastmodified":1496906989,
     "wof:name":"MAB Maschinenbau- Anlagenbau-Bautechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

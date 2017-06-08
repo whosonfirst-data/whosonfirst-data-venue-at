@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6253452301,47.2129554749,15.6253452301,47.2129554749",
     "geom:latitude":47.212955,
     "geom:longitude":15.625345,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"kuechen-wohnen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838919,
+        85632785,
+        101787937,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OfTbItJCXhqyYTqOfZF9t_47.212955_15.625345@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912229,
-    "wof:geomhash":"dc798d95ec99832831cbb245bf82d5d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbd7c2d176fad0e3cf38d3c86d455a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838919,
+            "locality_id":101787937,
+            "region_id":85681687,
+            "venue_id":1092353473
+        }
+    ],
     "wof:id":1092353473,
-    "wof:lastmodified":1473983973,
+    "wof:lastmodified":1496910169,
     "wof:name":"K\u00fcchen & Wohnen Lembacher-Vorraber-Winter OHG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

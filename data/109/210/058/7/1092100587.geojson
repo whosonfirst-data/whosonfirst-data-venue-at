@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3586997986,47.1647262573,11.3586997986,47.1647262573",
     "geom:latitude":47.164726,
     "geom:longitude":11.3587,
@@ -23,17 +24,33 @@
     "sg:postcode":"6165",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837619,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wxu6CuC6c3cViMuoZXkwg_47.164726_11.358700@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900833,
-    "wof:geomhash":"a63704547f5d5f6ad25098a17682fab6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb113006c8585e6c68288bf112ca3e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837619,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092100587
+        }
+    ],
     "wof:id":1092100587,
-    "wof:lastmodified":1473983381,
+    "wof:lastmodified":1496898774,
     "wof:name":"Abwasserverband Stubaital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

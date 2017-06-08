@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2584667206,48.1328697205,16.2584667206,48.1328697205",
     "geom:latitude":48.13287,
     "geom:longitude":16.258467,
@@ -25,10 +26,12 @@
     "sg:website":"www.johann-schmidt.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907580,
-    "wof:geomhash":"027516f7e59a0da24b520bbf8b5493e0",
+    "wof:geomhash":"b765fbda32e0559387d2570cf754e7e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092247017
         }
     ],
     "wof:id":1092247017,
-    "wof:lastmodified":1473984766,
+    "wof:lastmodified":1496902297,
     "wof:name":"Schmidt Johann",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

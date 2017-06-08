@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4201822281,47.557800293,12.4201822281,47.557800293",
     "geom:latitude":47.5578,
     "geom:longitude":12.420182,
@@ -23,17 +24,33 @@
     "sg:postcode":"6382",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YfAfjNB1qDCVeBJ67aJIU_47.557800_12.420182@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889649,
-    "wof:geomhash":"0bdcfd9ebbc4ea423996b850a83305de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"117fd15aa176b83c01e27692b097db0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091848645
+        }
+    ],
     "wof:id":1091848645,
-    "wof:lastmodified":1473985097,
+    "wof:lastmodified":1496897065,
     "wof:name":"Huber Johann Baugesellschaft mbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

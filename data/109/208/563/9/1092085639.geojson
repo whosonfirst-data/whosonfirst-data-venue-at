@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3592739105,47.2638282776,11.3592739105,47.2638282776",
     "geom:latitude":47.263828,
     "geom:longitude":11.359274,
@@ -24,12 +25,14 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
-        85904329,
-        102049735,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661,
+        85904329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,27 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473900014,
-    "wof:geomhash":"26f8bd19456df14b9e44128e2b9c91ef",
+    "wof:geomhash":"bb9768c46a7b20d0484e6be66bb46e64",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
-            "neighbourhood_id":85904329,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092085639
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85904347,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092085639
         }
     ],
     "wof:id":1092085639,
-    "wof:lastmodified":1473984572,
+    "wof:lastmodified":1496899353,
     "wof:name":"FHE Vertrieb von Gastronomieinrichtungen GesmbH",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

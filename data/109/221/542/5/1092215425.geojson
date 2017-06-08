@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3908405304,48.0822296143,16.3908405304,48.0822296143",
     "geom:latitude":48.08223,
     "geom:longitude":16.390841,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906210,
-    "wof:geomhash":"638fd057c5fff485e934f60a25522211",
+    "wof:geomhash":"532bcb7c1d64d1299245a1987435cc6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092215425
         }
     ],
     "wof:id":1092215425,
-    "wof:lastmodified":1473984440,
+    "wof:lastmodified":1496893376,
     "wof:name":"Esso Austria GmbH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

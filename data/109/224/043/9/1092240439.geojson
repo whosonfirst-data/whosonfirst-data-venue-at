@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4748802185,48.3203468323,14.4748802185,48.3203468323",
     "geom:latitude":48.320347,
     "geom:longitude":14.47488,
@@ -31,17 +32,34 @@
         "tile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835579,
+        85632785,
+        101843331,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76paNgRCcIvK3tzvfnchd4_48.320347_14.474880@1306268290"
     },
     "wof:country":"AT",
     "wof:created":1473907284,
-    "wof:geomhash":"e66363aa2fedf512426b38b463c43e6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2064118e04f8a019b377a91a5ca26c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835579,
+            "locality_id":101843331,
+            "region_id":85681677,
+            "venue_id":1092240439
+        }
+    ],
     "wof:id":1092240439,
-    "wof:lastmodified":1473983379,
+    "wof:lastmodified":1496887505,
     "wof:name":"Franz Woldrich GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

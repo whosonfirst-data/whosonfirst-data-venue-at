@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3705158234,47.2682113647,11.3705158234,47.2682113647",
     "geom:latitude":47.268211,
     "geom:longitude":11.370516,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904367,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893195,
-    "wof:geomhash":"809144c9a33f141a671c97cd0fa78486",
+    "wof:geomhash":"9f59fbfef323ada1e7c67afb66ada0a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1091924915
         }
     ],
     "wof:id":1091924915,
-    "wof:lastmodified":1473984185,
+    "wof:lastmodified":1496899444,
     "wof:name":"RS Collection Austria Franz Pemler KEG",
     "wof:parent_id":85904367,
     "wof:placetype":"venue",

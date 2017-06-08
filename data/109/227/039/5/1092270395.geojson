@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9546718597,47.6729202271,15.9546718597,47.6729202271",
     "geom:latitude":47.67292,
     "geom:longitude":15.954672,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"atiscompany.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836613,
+        85632785,
+        101786759,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24bOtyrmnBU34dxPg8zpn6_47.672920_15.954672@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908610,
-    "wof:geomhash":"f30d25d240dd74baf91447ab26e0d3a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7d6034b77b897a7a2026c4d61dbf0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108836613,
+            "locality_id":101786759,
+            "region_id":85681671,
+            "venue_id":1092270395
+        }
+    ],
     "wof:id":1092270395,
-    "wof:lastmodified":1473983442,
+    "wof:lastmodified":1496891936,
     "wof:name":"ATIS Elektroinstallationen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3993167877,47.2593193054,11.3993167877,47.2593193054",
     "geom:latitude":47.259319,
     "geom:longitude":11.399317,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915656,
-    "wof:geomhash":"80944147dd472daa85fcdd4d706d81c1",
+    "wof:geomhash":"6fcadb39327ec0ebd753d57f141bb4e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092424483
         }
     ],
     "wof:id":1092424483,
-    "wof:lastmodified":1473984164,
+    "wof:lastmodified":1496926043,
     "wof:name":"Demirci KEG",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

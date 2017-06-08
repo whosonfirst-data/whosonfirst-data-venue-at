@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2340517044,48.24401474,13.2340517044,48.24401474",
     "geom:latitude":48.244015,
     "geom:longitude":13.234052,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834707,
+        85632785,
+        101784469,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kcOY62KFL7yOKcXQVCeYu_48.244015_13.234052@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473887961,
-    "wof:geomhash":"f026cae08c1e07d2f21b83daaa364026",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3f206dde4db6ef806687a62c2a17c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834707,
+            "locality_id":101784469,
+            "region_id":85681677,
+            "venue_id":1091811099
+        }
+    ],
     "wof:id":1091811099,
-    "wof:lastmodified":1473983541,
+    "wof:lastmodified":1496882182,
     "wof:name":"Karl Wimmer G.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

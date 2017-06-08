@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1764497757,47.2899513245,11.1764497757,47.2899513245",
     "geom:latitude":47.289951,
     "geom:longitude":11.17645,
@@ -23,17 +24,33 @@
     "sg:postcode":"6410",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837567,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c4oX8TufV9298y2jbatIF_47.289951_11.176450@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892999,
-    "wof:geomhash":"504304545cb64125ee927c8031ef302e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b91319ccd686cbc7ff1df2341ae30040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837567,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091920249
+        }
+    ],
     "wof:id":1091920249,
-    "wof:lastmodified":1473983367,
+    "wof:lastmodified":1496898503,
     "wof:name":"Psychosozialer Pflegedienst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

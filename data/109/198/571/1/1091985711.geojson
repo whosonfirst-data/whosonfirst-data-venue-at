@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.388463974,47.2576789856,11.388463974,47.2576789856",
     "geom:latitude":47.257679,
     "geom:longitude":11.388464,
@@ -25,10 +26,13 @@
     "sg:website":"w-kern.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895922,
-    "wof:geomhash":"6226ee019c2eeeeae6b6db4ec389a318",
+    "wof:geomhash":"b9740432fdf4998d07dc0fbe51e8a90a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091985711
         }
     ],
     "wof:id":1091985711,
-    "wof:lastmodified":1473984164,
+    "wof:lastmodified":1496899438,
     "wof:name":"Wilhelm Kern",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

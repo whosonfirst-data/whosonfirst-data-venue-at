@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.869846344,47.3457489014,11.869846344,47.3457489014",
     "geom:latitude":47.345749,
     "geom:longitude":11.869846,
@@ -23,17 +24,33 @@
     "sg:postcode":"6263",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837873,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W9WsKw66sG2QsVo3x2XPU_47.345749_11.869846@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473899990,
-    "wof:geomhash":"ee40076af313b77273fc2a000b52f2de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7184e590272497db27325c80890e23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837873,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092085089
+        }
+    ],
     "wof:id":1092085089,
-    "wof:lastmodified":1473984472,
+    "wof:lastmodified":1496900331,
     "wof:name":"Gasthof Hamberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

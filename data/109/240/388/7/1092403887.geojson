@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2547330856,48.2575454712,14.2547330856,48.2575454712",
     "geom:latitude":48.257545,
     "geom:longitude":14.254733,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898435,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914573,
-    "wof:geomhash":"d4d270bd98ac1f234f14916b91aa7d48",
+    "wof:geomhash":"7476709d1f784b07a6a02069ca097391",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898435,
             "region_id":85681677,
             "venue_id":1092403887
         }
     ],
     "wof:id":1092403887,
-    "wof:lastmodified":1473984065,
+    "wof:lastmodified":1496887220,
     "wof:name":"BETTEN & VORHANG REITER GES.MBH & CO OHG",
     "wof:parent_id":85898435,
     "wof:placetype":"venue",

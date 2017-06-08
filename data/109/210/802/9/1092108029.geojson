@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0081367493,47.4272346497,15.0081367493,47.4272346497",
     "geom:latitude":47.427235,
     "geom:longitude":15.008137,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"rumpold.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838989,
+        85632785,
+        101787947,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yeFCj59Hh2VXNWw3QFUoH_47.427235_15.008137@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901198,
-    "wof:geomhash":"8154eb56196fec51e974fbdd03612913",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76c64e1c92f9eba538eb69c9c4637992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838989,
+            "locality_id":101787947,
+            "region_id":85681687,
+            "venue_id":1092108029
+        }
+    ],
     "wof:id":1092108029,
-    "wof:lastmodified":1473984845,
+    "wof:lastmodified":1496910703,
     "wof:name":"Rumpold AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

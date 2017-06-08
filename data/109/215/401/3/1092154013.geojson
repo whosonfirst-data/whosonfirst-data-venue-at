@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0368585587,47.3951644897,15.0368585587,47.3951644897",
     "geom:latitude":47.395164,
     "geom:longitude":15.036859,
@@ -24,10 +25,13 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898561,
-        102049769
+        102191581,
+        1108838995,
+        85632785,
+        101834297,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903398,
-    "wof:geomhash":"86163f552c4425cc6efb3e10f37ed8b5",
+    "wof:geomhash":"bbc2b16901a13206a0c1937a04286229",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108838995,
+            "locality_id":101834297,
             "neighbourhood_id":85898561,
             "region_id":85681687,
             "venue_id":1092154013
         }
     ],
     "wof:id":1092154013,
-    "wof:lastmodified":1473984090,
+    "wof:lastmodified":1496910737,
     "wof:name":"Grazer Wechselseitige Versicherung AG",
     "wof:parent_id":85898561,
     "wof:placetype":"venue",

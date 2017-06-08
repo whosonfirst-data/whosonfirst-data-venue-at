@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3063001633,47.1103591919,11.3063001633,47.1103591919",
     "geom:latitude":47.110359,
     "geom:longitude":11.3063,
@@ -22,17 +23,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.neustift-stubaital.net/doorway/dwindex.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        101834213,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S6It1WYydnGCTR8rBJpae_47.110359_11.306300@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473887835,
-    "wof:geomhash":"49de5b6f7c8adae2729e87b76528c4b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac7603b08b9904fccec974fca66df33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":101834213,
+            "region_id":85681661,
+            "venue_id":1091808277
+        }
+    ],
     "wof:id":1091808277,
-    "wof:lastmodified":1473984174,
+    "wof:lastmodified":1496898550,
     "wof:name":"Neustift im Stubaital - Tourismus-Informationen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

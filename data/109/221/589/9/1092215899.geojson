@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4597911835,48.263458252,16.4597911835,48.263458252",
     "geom:latitude":48.263458,
     "geom:longitude":16.459791,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906232,
-    "wof:geomhash":"1a5e4b51ee7a2e4954dfcfd42440836f",
+    "wof:geomhash":"0a30846c33c99812b22d7e4a8ce5f740",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092215899
         }
     ],
     "wof:id":1092215899,
-    "wof:lastmodified":1473984540,
+    "wof:lastmodified":1496927795,
     "wof:name":"JET Tankstelle",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

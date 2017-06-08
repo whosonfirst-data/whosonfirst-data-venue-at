@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2631511688,48.1480026245,16.2631511688,48.1480026245",
     "geom:latitude":48.148003,
     "geom:longitude":16.263151,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898064,
-    "wof:geomhash":"06a7f22e0670404e0cd4a3e486f75f00",
+    "wof:geomhash":"c84dca2cd7670fc852462da697393e66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092038343
         }
     ],
     "wof:id":1092038343,
-    "wof:lastmodified":1473984832,
+    "wof:lastmodified":1496903888,
     "wof:name":"Weinbau Grausenburger",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

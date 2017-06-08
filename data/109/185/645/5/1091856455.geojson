@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7413053513,47.0073890686,14.7413053513,47.0073890686",
     "geom:latitude":47.007389,
     "geom:longitude":14.741305,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"weinberger-holz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838105,
+        85632785,
+        101788973,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5md6Z8QSw1pYNlSNJPvbi5_47.007389_14.741305@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890018,
-    "wof:geomhash":"bf7888d07bfe09122ab3eb3436fda293",
-    "wof:hierarchy":[],
+    "wof:geomhash":"713da18cb1024e7118d597d6c819e827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838105,
+            "locality_id":101788973,
+            "region_id":85681655,
+            "venue_id":1091856455
+        }
+    ],
     "wof:id":1091856455,
-    "wof:lastmodified":1473984448,
+    "wof:lastmodified":1496905076,
     "wof:name":"Johann Weinberger S\u00e4ge- und Hobelwerk Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

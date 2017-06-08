@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3126802444,47.4167671204,12.3126802444,47.4167671204",
     "geom:latitude":47.416767,
     "geom:longitude":12.31268,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"styblo-bau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7baZI5XH0AvCTGrEK0a5Zt_47.416767_12.312680@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901424,
-    "wof:geomhash":"83315470ba4aa75495ef808bf58294c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"128afcc2f0c2dfdf70f436641422c401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092112817
+        }
+    ],
     "wof:id":1092112817,
-    "wof:lastmodified":1473983943,
+    "wof:lastmodified":1496899141,
     "wof:name":"Styblo Bau GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8717784882,47.9993133545,16.8717784882,47.9993133545",
     "geom:latitude":47.999313,
     "geom:longitude":16.871778,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838627,
+        85632785,
+        101785755,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X3i0C09JgI87TheWpMMgu_47.999313_16.871778@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905788,
-    "wof:geomhash":"28bdc0c87b2f3cb89d8f89a8d34d4ad1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c19ae5882ca72fbd2344ce39df8e06e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838627,
+            "locality_id":101785755,
+            "region_id":85681651,
+            "venue_id":1092206063
+        }
+    ],
     "wof:id":1092206063,
-    "wof:lastmodified":1473984720,
+    "wof:lastmodified":1496908907,
     "wof:name":"TEERAG-ASDAG AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

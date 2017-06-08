@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.051525116,47.2475013733,16.051525116,47.2475013733",
     "geom:latitude":47.247501,
     "geom:longitude":16.051525,
@@ -23,17 +24,33 @@
     "sg:postcode":"8294",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839101,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uWyhs7S2bI3ZaXTXNwAFF_47.247501_16.051525@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899559,
-    "wof:geomhash":"66261c60e3ea385f2ef38ab16cd0e719",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cde83e6b6d1d4b7a0c71c21056187461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839101,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092075953
+        }
+    ],
     "wof:id":1092075953,
-    "wof:lastmodified":1473984351,
+    "wof:lastmodified":1496911325,
     "wof:name":"Gasthof-Pension Gurdet-Gschiel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

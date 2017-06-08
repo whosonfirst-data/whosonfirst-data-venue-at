@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8321971893,46.5971374512,13.8321971893,46.5971374512",
     "geom:latitude":46.597137,
     "geom:longitude":13.832197,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912880,
-    "wof:geomhash":"d4b060cb5aaf02f58a57905f1d9dcd1e",
+    "wof:geomhash":"853ae41a8745c86b119d9b11f4cba5e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092367537
         }
     ],
     "wof:id":1092367537,
-    "wof:lastmodified":1473985032,
+    "wof:lastmodified":1496906082,
     "wof:name":"Hotel-Pension Zollner",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5583047867,47.5011558533,12.5583047867,47.5011558533",
     "geom:latitude":47.501156,
     "geom:longitude":12.558305,
@@ -23,17 +24,33 @@
     "sg:postcode":"6391",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837371,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ylG4fWbzsRrKqICzfX93k_47.501156_12.558305@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913033,
-    "wof:geomhash":"34282b8abdb164e77e1d087eac815d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0de8dd1e5ac456542675b9cfb1495afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837371,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092370309
+        }
+    ],
     "wof:id":1092370309,
-    "wof:lastmodified":1473983373,
+    "wof:lastmodified":1496897336,
     "wof:name":"Pension Elisabeth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

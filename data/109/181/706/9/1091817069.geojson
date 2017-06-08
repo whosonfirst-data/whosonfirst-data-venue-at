@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3217048645,47.8595542908,16.3217048645,47.8595542908",
     "geom:latitude":47.859554,
     "geom:longitude":16.321705,
@@ -32,17 +33,34 @@
         "parquet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834823,
+        85632785,
+        101833125,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kBKaHZCDNC0Tg4vfaVjnq_47.859554_16.321705@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473888222,
-    "wof:geomhash":"9be9229b4853c971bff025e0771a841f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59e2549cfcc3e53d360d5987e6b61a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834823,
+            "locality_id":101833125,
+            "region_id":85681671,
+            "venue_id":1091817069
+        }
+    ],
     "wof:id":1091817069,
-    "wof:lastmodified":1473984881,
+    "wof:lastmodified":1496891944,
     "wof:name":"Erich Haider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

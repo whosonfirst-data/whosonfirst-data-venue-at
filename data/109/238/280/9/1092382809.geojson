@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3554801941,47.1761245728,16.3554801941,47.1761245728",
     "geom:latitude":47.176125,
     "geom:longitude":16.35548,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838759,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LjNNOPHOiyAP425QrERt4_47.176125_16.355480@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913577,
-    "wof:geomhash":"712ecf659ef29e1e6d57b3f2e93bad19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce319c3a32be3650cf1fcfdcee418983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838759,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092382809
+        }
+    ],
     "wof:id":1092382809,
-    "wof:lastmodified":1473984026,
+    "wof:lastmodified":1496909241,
     "wof:name":"Pizzeria Adriano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8451738358,46.5956764221,13.8451738358,46.5956764221",
     "geom:latitude":46.595676,
     "geom:longitude":13.845174,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914571,
-    "wof:geomhash":"8a5045dbee2b1175fcf15c752558794c",
+    "wof:geomhash":"3dd3fa4551ac6116f341d58e82284b41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092403835
         }
     ],
     "wof:id":1092403835,
-    "wof:lastmodified":1473984044,
+    "wof:lastmodified":1496906139,
     "wof:name":"STO GesmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

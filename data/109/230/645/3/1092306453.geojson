@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8203630447,46.7648353577,14.8203630447,46.7648353577",
     "geom:latitude":46.764835,
     "geom:longitude":14.820363,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"glas-prinz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838107,
+        85632785,
+        101790133,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32R0Gi0PmpwteAFzqPMgFP_46.764835_14.820363@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910210,
-    "wof:geomhash":"4128a75647fadd909d5b674f041b4ca4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd020b16220d96790d637f938482f5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838107,
+            "locality_id":101790133,
+            "region_id":85681655,
+            "venue_id":1092306453
+        }
+    ],
     "wof:id":1092306453,
-    "wof:lastmodified":1473984779,
+    "wof:lastmodified":1496905119,
     "wof:name":"Glas Prinz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

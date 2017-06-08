@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5014276505,46.893611908,10.5014276505,46.893611908",
     "geom:latitude":46.893612,
     "geom:longitude":10.501428,
@@ -28,17 +29,34 @@
     "sg:postcode":"6543",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837311,
+        85632785,
+        101790159,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B9N3Le9DtiZr7eZqd5kUe_46.893612_10.501428@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898486,
-    "wof:geomhash":"1ec53cd6a63fb5277dcb0306f0384d93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19ed245bab4f96f997156e6af5e5515c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837311,
+            "locality_id":101790159,
+            "region_id":85681661,
+            "venue_id":1092049413
+        }
+    ],
     "wof:id":1092049413,
-    "wof:lastmodified":1473984448,
+    "wof:lastmodified":1496896820,
     "wof:name":"Hotel-Garni Verzasca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3573417664,48.2746810913,16.3573417664,48.2746810913",
     "geom:latitude":48.274681,
     "geom:longitude":16.357342,
@@ -25,10 +26,12 @@
     "sg:website":"adria-mbs.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898317,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911951,
-    "wof:geomhash":"6328897badba5837a8d35d7db60609bb",
+    "wof:geomhash":"d02fc9366e07bb89f63074e3f3b312d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898317,
             "region_id":85681667,
             "venue_id":1092347569
         }
     ],
     "wof:id":1092347569,
-    "wof:lastmodified":1473984826,
+    "wof:lastmodified":1496903714,
     "wof:name":"Adria Motorbootschule",
     "wof:parent_id":85898317,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3159170151,46.602645874,14.3159170151,46.602645874",
     "geom:latitude":46.602646,
     "geom:longitude":14.315917,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912538,
-    "wof:geomhash":"682211e77267c1cc476522eb7756b092",
+    "wof:geomhash":"9732eadcae6c68b988aee2b338b6a973",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092360545
         }
     ],
     "wof:id":1092360545,
-    "wof:lastmodified":1473983444,
+    "wof:lastmodified":1496905890,
     "wof:name":"Kulterer Feine K\u00fcche",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

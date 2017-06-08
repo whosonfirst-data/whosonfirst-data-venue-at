@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2765197754,47.2609481812,11.2765197754,47.2609481812",
     "geom:latitude":47.260948,
     "geom:longitude":11.27652,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902385,
-    "wof:geomhash":"2307466e16d13f03f65fe7a545f0107c",
+    "wof:geomhash":"a1ba8984499e83351122bff884bd8f16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092132591
         }
     ],
     "wof:id":1092132591,
-    "wof:lastmodified":1473983859,
+    "wof:lastmodified":1496898646,
     "wof:name":"Biocat Wassertechnik Vertriebs GmbH & Co. KG",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

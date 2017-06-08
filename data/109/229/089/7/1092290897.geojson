@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1408462524,48.1970672607,14.1408462524,48.1970672607",
     "geom:latitude":48.197067,
     "geom:longitude":14.140846,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.gfkcenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836561,
+        85632785,
+        101754169,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g0zifxnfHZ2stCtYYDbXL_48.197067_14.140846@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909476,
-    "wof:geomhash":"05797c13cb0cbf65dfcc0eafab2a73c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"073b8db413e402898e15b41eb240a59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836561,
+            "locality_id":101754169,
+            "region_id":85681677,
+            "venue_id":1092290897
+        }
+    ],
     "wof:id":1092290897,
-    "wof:lastmodified":1473983525,
+    "wof:lastmodified":1496891692,
     "wof:name":"GFK CENTER GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

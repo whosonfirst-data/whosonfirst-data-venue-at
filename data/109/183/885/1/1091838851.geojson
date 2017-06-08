@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8358945847,46.8219680786,14.8358945847,46.8219680786",
     "geom:latitude":46.821968,
     "geom:longitude":14.835895,
@@ -33,17 +34,34 @@
         "fitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        101790087,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wkbcTIznrfyCHsWw9nsIa_46.821968_14.835895@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889222,
-    "wof:geomhash":"d5c8958e68a4b44c688253e5ba4085a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73756e964231ed04be912ae4e43d0c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":101790087,
+            "region_id":85681655,
+            "venue_id":1091838851
+        }
+    ],
     "wof:id":1091838851,
-    "wof:lastmodified":1473985188,
+    "wof:lastmodified":1496905152,
     "wof:name":"Hans Obrietan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

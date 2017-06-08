@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0859575272,47.7699699402,13.0859575272,47.7699699402",
     "geom:latitude":47.76997,
     "geom:longitude":13.085958,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913970,
-    "wof:geomhash":"126614de9b325699c33032e8ec1e25a9",
+    "wof:geomhash":"afa23b47a25a770b8a64f6920c20e2ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092390299
         }
     ],
     "wof:id":1092390299,
-    "wof:lastmodified":1473983340,
+    "wof:lastmodified":1496895286,
     "wof:name":"Gendarmerieposten Glasenbach",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

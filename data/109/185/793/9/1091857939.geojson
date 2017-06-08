@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7516326904,47.1865272522,14.7516326904,47.1865272522",
     "geom:latitude":47.186527,
     "geom:longitude":14.751633,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839423,
+        85632785,
+        101834245,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28dXHZsyg1WKpKYl9taJLz_47.186527_14.751633@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890096,
-    "wof:geomhash":"039c88327fd5db50dec9e1ddfffff8f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8e9f195a1e3b86144ac174db5915254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839423,
+            "locality_id":101834245,
+            "region_id":85681687,
+            "venue_id":1091857939
+        }
+    ],
     "wof:id":1091857939,
-    "wof:lastmodified":1473984807,
+    "wof:lastmodified":1496914151,
     "wof:name":"VOEST-ALPINE Bergtechnik GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

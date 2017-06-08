@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0801706314,47.3094825745,11.0801706314,47.3094825745",
     "geom:latitude":47.309483,
     "geom:longitude":11.080171,
@@ -32,17 +33,34 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        101834219,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I9l3IjbE7BVjTbLSbIqvr_47.309483_11.080171@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888458,
-    "wof:geomhash":"fb9a17ca60f4ad3b50fb59636a40d2e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"729080dee708a19b5269833cc7ebd19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":101834219,
+            "region_id":85681661,
+            "venue_id":1091822479
+        }
+    ],
     "wof:id":1091822479,
-    "wof:lastmodified":1473983938,
+    "wof:lastmodified":1496898825,
     "wof:name":"Plangger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

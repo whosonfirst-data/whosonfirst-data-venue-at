@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2576503754,48.1377830505,16.2576503754,48.1377830505",
     "geom:latitude":48.137783,
     "geom:longitude":16.25765,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897715,
-    "wof:geomhash":"3c05b67b8916789bc3ff28a482a1112d",
+    "wof:geomhash":"9624a11a2c8d4b7e5c728c701fb200ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092029709
         }
     ],
     "wof:id":1092029709,
-    "wof:lastmodified":1473985186,
+    "wof:lastmodified":1496902531,
     "wof:name":"Wellnesspoint Sabine Landschau",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2571678162,47.2470970154,12.2571678162,47.2470970154",
     "geom:latitude":47.247097,
     "geom:longitude":12.257168,
@@ -23,17 +24,33 @@
     "sg:postcode":"5741",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837223,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tdDPimO5i98LMHNNcYIx8_47.247097_12.257168@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896096,
-    "wof:geomhash":"82a3e0559469a6fc066b689d20d79502",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48241ea7b56d454923127fa43d40a89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837223,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091989837
+        }
+    ],
     "wof:id":1091989837,
-    "wof:lastmodified":1473984658,
+    "wof:lastmodified":1496896116,
     "wof:name":"Haus Technik Brandner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

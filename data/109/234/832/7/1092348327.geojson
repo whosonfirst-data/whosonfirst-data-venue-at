@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5340938568,48.2246017456,16.5340938568,48.2246017456",
     "geom:latitude":48.224602,
     "geom:longitude":16.534094,
@@ -33,10 +34,13 @@
     "sg:website":"www.agentur4-multimedia.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911983,
-    "wof:geomhash":"0c97cea6b6a0160b5f6675ada52033d6",
+    "wof:geomhash":"698cb18b0ba34a3e8bd156ada57d10b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092348327
         }
     ],
     "wof:id":1092348327,
-    "wof:lastmodified":1473984932,
+    "wof:lastmodified":1496928621,
     "wof:name":"Agentur4 Multimedia",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

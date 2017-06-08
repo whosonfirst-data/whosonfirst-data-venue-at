@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7890644073,48.4426078796,15.7890644073,48.4426078796",
     "geom:latitude":48.442608,
     "geom:longitude":15.789064,
@@ -23,17 +24,33 @@
     "sg:postcode":"3483",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836185,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17N2iNk2ts3M199BOCriYc_48.442608_15.789064@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902529,
-    "wof:geomhash":"77681f705b873c1834661cc6541121ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e403f224635be7fd0d277c21f46dfdf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836185,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092135499
+        }
+    ],
     "wof:id":1092135499,
-    "wof:lastmodified":1473984357,
+    "wof:lastmodified":1496889922,
     "wof:name":"Winzerhaus Ott Bernhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

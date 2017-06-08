@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4477863312,48.2878723145,16.4477863312,48.2878723145",
     "geom:latitude":48.287872,
     "geom:longitude":16.447786,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904407,
-    "wof:geomhash":"7f441e79c56847606cce571d24246ab1",
+    "wof:geomhash":"b6d8d01eb3dd45530f6a88efa73c01c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092176267
         }
     ],
     "wof:id":1092176267,
-    "wof:lastmodified":1473984607,
+    "wof:lastmodified":1496928678,
     "wof:name":"Hofer KG",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8401117325,47.401802063,15.8401117325,47.401802063",
     "geom:latitude":47.401802,
     "geom:longitude":15.840112,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"gaugl-landmaschinen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839085,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Lit8E1sYdHAvWmuUDoiQP_47.401802_15.840112@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905066,
-    "wof:geomhash":"e41bb2a5b6b13ca06493483f639ad4e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"324168d39f9392a175d0d74c46ec45d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839085,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092190907
+        }
+    ],
     "wof:id":1092190907,
-    "wof:lastmodified":1473983476,
+    "wof:lastmodified":1496911281,
     "wof:name":"Franz Gaugl Landmaschinen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4366416931,47.4916038513,15.4366416931,47.4916038513",
     "geom:latitude":47.491604,
     "geom:longitude":15.436642,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.medah.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838881,
+        85632785,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P3IHJ21krJAvXRMcperjB_47.491604_15.436642@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911607,
-    "wof:geomhash":"b10c9ec6186c05b111ecef7fbde0708f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e55a1861a9a8080ce98235615e60a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838881,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092339431
+        }
+    ],
     "wof:id":1092339431,
-    "wof:lastmodified":1473985320,
+    "wof:lastmodified":1496909839,
     "wof:name":"MedAH Medizintechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

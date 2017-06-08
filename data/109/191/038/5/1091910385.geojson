@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3307256699,48.1862602234,14.3307256699,48.1862602234",
     "geom:latitude":48.18626,
     "geom:longitude":14.330726,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.a-urban.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835545,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ISdODR6LeNBJKYQlNUbnF_48.186260_14.330726@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892565,
-    "wof:geomhash":"41cba61876f6a822e9ac89cc77c57b57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6e9e2f4385f574eb73f32d2ff58cb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835545,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091910385
+        }
+    ],
     "wof:id":1091910385,
-    "wof:lastmodified":1473983314,
+    "wof:lastmodified":1496887242,
     "wof:name":"Alex / Alexander Urban",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

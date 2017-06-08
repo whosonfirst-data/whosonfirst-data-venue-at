@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4956388474,47.0938568115,15.4956388474,47.0938568115",
     "geom:latitude":47.093857,
     "geom:longitude":15.495639,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903856,
-    "wof:geomhash":"bbb8313648d6428e2bee4864a175701a",
+    "wof:geomhash":"0c7ea16debd014fd9fd6a7c5ba555d62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092164095
         }
     ],
     "wof:id":1092164095,
-    "wof:lastmodified":1473984062,
+    "wof:lastmodified":1496913205,
     "wof:name":"Otto-M\u00f6bes-Akademie - AK Bildungszentrum",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

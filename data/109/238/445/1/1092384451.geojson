@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4771671295,47.529006958,16.4771671295,47.529006958",
     "geom:latitude":47.529007,
     "geom:longitude":16.477167,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838445,
+        85632785,
+        101844557,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fYRuBfcw7H4Vrn03SHIUe_47.529007_16.477167@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913656,
-    "wof:geomhash":"33779dee225c3aec2264a26495dffc4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2396120574161df1a3e676b4db73c941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838445,
+            "locality_id":101844557,
+            "region_id":85681651,
+            "venue_id":1092384451
+        }
+    ],
     "wof:id":1092384451,
-    "wof:lastmodified":1473984398,
+    "wof:lastmodified":1496907939,
     "wof:name":"Restaurant - Pizzeria Dorner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

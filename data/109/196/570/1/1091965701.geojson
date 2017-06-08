@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5010261536,47.2795944214,11.5010261536,47.2795944214",
     "geom:latitude":47.279594,
     "geom:longitude":11.501026,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895063,
-    "wof:geomhash":"1ce51396d989079378fb5992672fac45",
+    "wof:geomhash":"3cca61a90696d3eff18bbee41c3314c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091965701
         }
     ],
     "wof:id":1091965701,
-    "wof:lastmodified":1473984217,
+    "wof:lastmodified":1496898721,
     "wof:name":"Restaurant Harry's",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

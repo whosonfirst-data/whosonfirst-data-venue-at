@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9888715744,48.153011322,13.9888715744,48.153011322",
     "geom:latitude":48.153011,
     "geom:longitude":13.988872,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rs5cmWfNrTL6GVKWgP1jd_48.153011_13.988872@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892770,
-    "wof:geomhash":"d5ce0ea4773de45c6be8fd9639ba5c69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"282d31fff17a5f40b3d5bd037a16178e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1091914565
+        }
+    ],
     "wof:id":1091914565,
-    "wof:lastmodified":1473983888,
+    "wof:lastmodified":1496882106,
     "wof:name":"MAXCRM - CRM Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

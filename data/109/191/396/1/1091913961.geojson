@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3798475266,47.2585029602,11.3798475266,47.2585029602",
     "geom:latitude":47.258503,
     "geom:longitude":11.379848,
@@ -33,10 +34,13 @@
     "sg:website":"icoserve.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892743,
-    "wof:geomhash":"6750e1cf74539d592dab2db33da6137f",
+    "wof:geomhash":"6451967189dd663b07cddd2c0eccc8bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1091913961
         }
     ],
     "wof:id":1091913961,
-    "wof:lastmodified":1473983844,
+    "wof:lastmodified":1496899518,
     "wof:name":"icoserve GmbH",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

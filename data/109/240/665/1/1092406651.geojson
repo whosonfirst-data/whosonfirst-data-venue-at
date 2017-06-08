@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1681947708,47.6001853943,13.1681947708,47.6001853943",
     "geom:latitude":47.600185,
     "geom:longitude":13.168195,
@@ -23,17 +24,33 @@
     "sg:postcode":"5440",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837087,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tAHLPwIYVByMCn8mr7N03_47.600185_13.168195@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914690,
-    "wof:geomhash":"a48d3b01ecb43fd19072415a4d8ea64c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2306163186e411eac449cd8b583444d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837087,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092406651
+        }
+    ],
     "wof:id":1092406651,
-    "wof:lastmodified":1473984490,
+    "wof:lastmodified":1496894940,
     "wof:name":"Elternberatungsstelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

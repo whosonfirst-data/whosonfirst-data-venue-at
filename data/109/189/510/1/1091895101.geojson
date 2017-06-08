@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1768341064,48.0319099426,13.1768341064,48.0319099426",
     "geom:latitude":48.03191,
     "geom:longitude":13.176834,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"maier-kies.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834747,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23jAuMe6CKOWob6Uc0w8IY_48.031910_13.176834@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891845,
-    "wof:geomhash":"8aeba5dac9b70ed03a6e6fe07b3590ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba2b74340dcf22af3eeb4e6a98c2b11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834747,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091895101
+        }
+    ],
     "wof:id":1091895101,
-    "wof:lastmodified":1473984493,
+    "wof:lastmodified":1496882434,
     "wof:name":"Franz Maier GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

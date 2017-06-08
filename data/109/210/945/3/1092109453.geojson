@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4057102203,47.2781257629,11.4057102203,47.2781257629",
     "geom:latitude":47.278126,
     "geom:longitude":11.40571,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901262,
-    "wof:geomhash":"ae003766360862f00f826032de47f129",
+    "wof:geomhash":"73deef1070b574d73ec6101819a01335",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092109453
         }
     ],
     "wof:id":1092109453,
-    "wof:lastmodified":1473985160,
+    "wof:lastmodified":1496899195,
     "wof:name":"Ka-dent Dentallabor GesmbH",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

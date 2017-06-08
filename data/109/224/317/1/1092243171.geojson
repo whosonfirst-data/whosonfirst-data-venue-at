@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4898424149,47.1075057983,15.4898424149,47.1075057983",
     "geom:latitude":47.107506,
     "geom:longitude":15.489842,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907411,
-    "wof:geomhash":"be9b37ef8b58590908469c45eac326cc",
+    "wof:geomhash":"39a278e92d91940820cfad75a6bbe229",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092243171
         }
     ],
     "wof:id":1092243171,
-    "wof:lastmodified":1473984062,
+    "wof:lastmodified":1496934412,
     "wof:name":"Hiebler Franz KEG",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

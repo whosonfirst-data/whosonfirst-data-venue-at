@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3547077179,48.0858345032,16.3547077179,48.0858345032",
     "geom:latitude":48.085835,
     "geom:longitude":16.354708,
@@ -31,17 +32,34 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836249,
+        85632785,
+        101754175,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TMDB7vSGHfkCCfecoVI8o_48.085835_16.354708@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911707,
-    "wof:geomhash":"07978040b79cc516c2c3ed8421291a64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc51de4fc5b7765f4e71aaa402f450fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836249,
+            "locality_id":101754175,
+            "region_id":85681671,
+            "venue_id":1092341857
+        }
+    ],
     "wof:id":1092341857,
-    "wof:lastmodified":1473983615,
+    "wof:lastmodified":1496890184,
     "wof:name":"RCA ROHRHANDEL GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

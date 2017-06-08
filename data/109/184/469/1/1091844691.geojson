@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.359087944,47.2535514832,11.359087944,47.2535514832",
     "geom:latitude":47.253551,
     "geom:longitude":11.359088,
@@ -34,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
-        85904329,
-        102049735,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661,
+        85904329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,27 +50,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473889462,
-    "wof:geomhash":"1188b6037b5599e63f4a7e9fb1f183f6",
+    "wof:geomhash":"96ad3471b22b0e63d655ad6e986fe442",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
-            "neighbourhood_id":85904329,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1091844691
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85904347,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1091844691
         }
     ],
     "wof:id":1091844691,
-    "wof:lastmodified":1473984190,
+    "wof:lastmodified":1496899331,
     "wof:name":"Gutwenger Roland",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2104187012,48.2478141785,13.2104187012,48.2478141785",
     "geom:latitude":48.247814,
     "geom:longitude":13.210419,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"faschang.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834809,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cLj5ECuQKdNUV8RhK0x8s_48.247814_13.210419@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890664,
-    "wof:geomhash":"65371967459e8dedce588ea1922bcfdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d811686b9054165cb91cfeb14c922ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834809,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091870101
+        }
+    ],
     "wof:id":1091870101,
-    "wof:lastmodified":1473983322,
+    "wof:lastmodified":1496882627,
     "wof:name":"Faschang Werkzeugbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

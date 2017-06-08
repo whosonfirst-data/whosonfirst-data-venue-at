@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2744865417,48.2523498535,16.2744865417,48.2523498535",
     "geom:latitude":48.25235,
     "geom:longitude":16.274487,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898387,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894274,
-    "wof:geomhash":"9c30b4a74c36e229d8901db28581d6f6",
+    "wof:geomhash":"e1a6f9de01f946d699da966babf2da15",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898387,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091947573
         }
     ],
     "wof:id":1091947573,
-    "wof:lastmodified":1473984943,
+    "wof:lastmodified":1496928949,
     "wof:name":"ESTATE STARKL Liegenschaftsverwertungs KEG",
     "wof:parent_id":85898387,
     "wof:placetype":"venue",

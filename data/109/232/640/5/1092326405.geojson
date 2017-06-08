@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2980194092,47.0656433105,14.2980194092,47.0656433105",
     "geom:latitude":47.065643,
     "geom:longitude":14.298019,
@@ -33,17 +34,34 @@
         "technics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838793,
+        85632785,
+        101789065,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_604fKK17B4IeMeFYkvN33m_47.065643_14.298019@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473911075,
-    "wof:geomhash":"33af2f967c76e732d35bc6f9cad55bac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56c2cd1da05af77b4db169f67fc9923d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838793,
+            "locality_id":101789065,
+            "region_id":85681687,
+            "venue_id":1092326405
+        }
+    ],
     "wof:id":1092326405,
-    "wof:lastmodified":1473984915,
+    "wof:lastmodified":1496909345,
     "wof:name":"Johannes Egger Heizungsservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.464761734,47.0822982788,16.464761734,47.0822982788",
     "geom:latitude":47.082298,
     "geom:longitude":16.464762,
@@ -23,17 +24,33 @@
     "sg:postcode":"7521",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838613,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2obeh6qyX15tR2WC4j6TfC_47.082298_16.464762@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917041,
-    "wof:geomhash":"ac08abe0970bca0951e933504f897915",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f500d9e8dd34f0da4037562ecc1fa7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838613,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092454765
+        }
+    ],
     "wof:id":1092454765,
-    "wof:lastmodified":1473983590,
+    "wof:lastmodified":1496908720,
     "wof:name":"Stefan Mattis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

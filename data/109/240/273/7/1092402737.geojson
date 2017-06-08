@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3589725494,48.2612724304,16.3589725494,48.2612724304",
     "geom:latitude":48.261272,
     "geom:longitude":16.358973,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
-        85898361,
-        102049859,
+        85898671,
         102191581,
+        1108838101,
+        85632785,
         101748073,
-        85898671
+        102049859,
+        85681667,
+        85898361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +49,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473914529,
-    "wof:geomhash":"c256d0ad2ca1535e844a6e8a54f4a708",
+    "wof:geomhash":"03beaa60c036b95988ec3c2f80453e41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
-            "neighbourhood_id":85898361,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898671,
             "region_id":85681667,
             "venue_id":1092402737
         },
@@ -60,16 +65,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898671,
+            "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092402737
         }
     ],
     "wof:id":1092402737,
-    "wof:lastmodified":1473983874,
+    "wof:lastmodified":1496902328,
     "wof:name":"Holzer Medien Content",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

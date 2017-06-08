@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7713956833,47.3946304321,11.7713956833,47.3946304321",
     "geom:latitude":47.39463,
     "geom:longitude":11.771396,
@@ -23,17 +24,34 @@
     "sg:postcode":"6200",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837877,
+        85632785,
+        101787875,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TCrYTyxwBmbbGl3KWhaPI_47.394630_11.771396@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899380,
-    "wof:geomhash":"527f65a566902dab47e380258a27014f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8b42feee73ebc0d0964147d76f3ad09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837877,
+            "locality_id":101787875,
+            "region_id":85681661,
+            "venue_id":1092071827
+        }
+    ],
     "wof:id":1092071827,
-    "wof:lastmodified":1473983633,
+    "wof:lastmodified":1496900362,
     "wof:name":"Gasthof Anadoli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

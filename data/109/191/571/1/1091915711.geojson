@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1684818268,47.2767410278,11.1684818268,47.2767410278",
     "geom:latitude":47.276741,
     "geom:longitude":11.168482,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837685,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r7fPFihCuKbNTyMINMn7S_47.276741_11.168482@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892817,
-    "wof:geomhash":"43df935a510a5074acedf7054126adbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d225837a95f1258214e281fa6e734fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837685,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091915711
+        }
+    ],
     "wof:id":1091915711,
-    "wof:lastmodified":1473984048,
+    "wof:lastmodified":1496899181,
     "wof:name":"Steiner Christian Ing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4323148727,47.5211296082,12.4323148727,47.5211296082",
     "geom:latitude":47.52113,
     "geom:longitude":12.432315,
@@ -31,17 +32,34 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zFn0Ojw1iKTpP4wwH38ed_47.521130_12.432315@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473887896,
-    "wof:geomhash":"41cc1dcfd51bc621e7e4fb3312b6f1ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ba8e4ac447ebf04aa67f08122d78135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1091809571
+        }
+    ],
     "wof:id":1091809571,
-    "wof:lastmodified":1473984594,
+    "wof:lastmodified":1496897377,
     "wof:name":"TIROL MILCH REG. GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

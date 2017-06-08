@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8255701065,48.5037002563,13.8255701065,48.5037002563",
     "geom:latitude":48.5037,
     "geom:longitude":13.82557,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835987,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tj6yhcQ0j9QM2yjg4as0h_48.503700_13.825570@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906435,
-    "wof:geomhash":"735cc3c7e41ca1dd2a96ee9eca952f8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c516967a9305dd00224069fe38e3ca48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835987,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092220861
+        }
+    ],
     "wof:id":1092220861,
-    "wof:lastmodified":1473983541,
+    "wof:lastmodified":1496889153,
     "wof:name":"Heinzl Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

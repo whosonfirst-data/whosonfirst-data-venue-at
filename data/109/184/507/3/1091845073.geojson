@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9670476913,47.1033477783,15.9670476913,47.1033477783",
     "geom:latitude":47.103348,
     "geom:longitude":15.967048,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839223,
+        85632785,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Pf6jvtm52CsLckvJSmoDR_47.103348_15.967048@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889477,
-    "wof:geomhash":"9e14e9767cd1952acd81dd3d708f2a54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"447463586c9eb85bfdf1c1ad652ea134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839223,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091845073
+        }
+    ],
     "wof:id":1091845073,
-    "wof:lastmodified":1473984253,
+    "wof:lastmodified":1496912026,
     "wof:name":"Neuhold Helmut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

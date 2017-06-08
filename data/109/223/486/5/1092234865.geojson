@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.288022995,48.2507476807,16.288022995,48.2507476807",
     "geom:latitude":48.250748,
     "geom:longitude":16.288023,
@@ -24,15 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898387,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898347,
-        85681671,
-        85898387,
-        102049867
+        85681667,
+        85898347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,29 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473907039,
-    "wof:geomhash":"315b6fe5181f8cf612749223534bd098",
+    "wof:geomhash":"fbfe6df5fd217ff0e23cb97f906c0009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898347,
+            "neighbourhood_id":85898387,
             "region_id":85681667,
             "venue_id":1092234865
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
-            "neighbourhood_id":85898387,
-            "region_id":85681671,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898347,
+            "region_id":85681667,
             "venue_id":1092234865
         }
     ],
     "wof:id":1092234865,
-    "wof:lastmodified":1473984344,
+    "wof:lastmodified":1496928959,
     "wof:name":"B.M.S. WarenhandelsgesmbH",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

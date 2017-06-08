@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.920879364,47.2138748169,11.920879364,47.2138748169",
     "geom:latitude":47.213875,
     "geom:longitude":11.920879,
@@ -23,17 +24,33 @@
     "sg:postcode":"6280",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837871,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hGH296x9CrICHcsRmLewS_47.213875_11.920879@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898953,
-    "wof:geomhash":"d1819c6a9e719253f362d1254ddf0e92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f09a951222ec67eaabd880bd22958488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837871,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092061337
+        }
+    ],
     "wof:id":1092061337,
-    "wof:lastmodified":1473983659,
+    "wof:lastmodified":1496900329,
     "wof:name":"Alpengasthaus \u00f6tschen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

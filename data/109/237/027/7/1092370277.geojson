@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1352558136,47.3593635559,11.1352558136,47.3593635559",
     "geom:latitude":47.359364,
     "geom:longitude":11.135256,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55xfvpjuDr0LbSHulnewco_47.359364_11.135256@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913032,
-    "wof:geomhash":"902264e4ba0077346a5b69bb16bedd1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e973c61b56cd3a9ef914b2f7a1065b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092370277
+        }
+    ],
     "wof:id":1092370277,
-    "wof:lastmodified":1473983381,
+    "wof:lastmodified":1496898441,
     "wof:name":"Pension Edi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

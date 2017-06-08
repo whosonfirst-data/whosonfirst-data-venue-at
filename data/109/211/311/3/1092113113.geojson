@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5406951904,47.7519836426,16.5406951904,47.7519836426",
     "geom:latitude":47.751984,
     "geom:longitude":16.540695,
@@ -23,17 +24,34 @@
     "sg:postcode":"7013",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838771,
+        85632785,
+        101786797,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HOsP0bG5gkc44zhOjAQWO_47.751984_16.540695@1306268272"
     },
     "wof:country":"AT",
     "wof:created":1473901437,
-    "wof:geomhash":"d1123c0d5738ca30711839686259093e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"955a4c0375fb422d73f9fd1765acd8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838771,
+            "locality_id":101786797,
+            "region_id":85681651,
+            "venue_id":1092113113
+        }
+    ],
     "wof:id":1092113113,
-    "wof:lastmodified":1473983981,
+    "wof:lastmodified":1496909279,
     "wof:name":"Zollamt Klingenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

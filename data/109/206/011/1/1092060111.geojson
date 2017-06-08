@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3281078339,47.7749557495,16.3281078339,47.7749557495",
     "geom:latitude":47.774956,
     "geom:longitude":16.328108,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838667,
+        85632785,
+        101786735,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SLPdLm9GB0DlL6SZukREh_47.774956_16.328108@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898904,
-    "wof:geomhash":"f4855fcd29261f48e9e6cb5dcb22a7a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf34ad44f4b2963751dafafc8b050c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838667,
+            "locality_id":101786735,
+            "region_id":85681651,
+            "venue_id":1092060111
+        }
+    ],
     "wof:id":1092060111,
-    "wof:lastmodified":1473983346,
+    "wof:lastmodified":1496909045,
     "wof:name":"Hutter & Stifter Installations-GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

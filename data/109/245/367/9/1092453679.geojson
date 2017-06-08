@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9579296112,47.4585189819,13.9579296112,47.4585189819",
     "geom:latitude":47.458519,
     "geom:longitude":13.95793,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838899,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cVxSIsCZQNlDxH8AYDjIA_47.458519_13.957930@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473916998,
-    "wof:geomhash":"fc035bfabae1ea2c5db06a84ed91508a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fbf73441bfc5cb19f614cf86d8099e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838899,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092453679
+        }
+    ],
     "wof:id":1092453679,
-    "wof:lastmodified":1473983344,
+    "wof:lastmodified":1496910013,
     "wof:name":"Johann Erlbacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

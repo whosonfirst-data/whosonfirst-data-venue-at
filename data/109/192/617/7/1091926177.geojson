@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0640821457,47.7421722412,13.0640821457,47.7421722412",
     "geom:latitude":47.742172,
     "geom:longitude":13.064082,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893276,
-    "wof:geomhash":"30949a121a8be26782c93a5c6b9ddb50",
+    "wof:geomhash":"6459f7c6b9b24ee91a6e67dac629b6c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1091926177
         }
     ],
     "wof:id":1091926177,
-    "wof:lastmodified":1473984407,
+    "wof:lastmodified":1496895179,
     "wof:name":"Sportanlage Anif",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

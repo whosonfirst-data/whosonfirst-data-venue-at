@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3295154572,48.1421432495,16.3295154572,48.1421432495",
     "geom:latitude":48.142143,
     "geom:longitude":16.329515,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910719,
-    "wof:geomhash":"6d8aafa08e9bc30ddc34f723a10f0c27",
+    "wof:geomhash":"762a2560370b4dea9054074c2ca9f283",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092318071
         }
     ],
     "wof:id":1092318071,
-    "wof:lastmodified":1473985148,
+    "wof:lastmodified":1496902115,
     "wof:name":"Mistelbacher GesmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

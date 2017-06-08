@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4602327347,47.139175415,11.4602327347,47.139175415",
     "geom:latitude":47.139175,
     "geom:longitude":11.460233,
@@ -23,17 +24,33 @@
     "sg:postcode":"6143",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837571,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71PupgQwkeiX22rhjMdiUW_47.139175_11.460233@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473903010,
-    "wof:geomhash":"8e7f12c0fd48e09084d3c8cfa79bcb4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aea5aebe7756d1b38434c020bba9c05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837571,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092145769
+        }
+    ],
     "wof:id":1092145769,
-    "wof:lastmodified":1473984493,
+    "wof:lastmodified":1496898520,
     "wof:name":"Prisma Werbeanlagen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

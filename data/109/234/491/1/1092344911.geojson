@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4376926422,48.1318778992,16.4376926422,48.1318778992",
     "geom:latitude":48.131878,
     "geom:longitude":16.437693,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898405,
-        102049843
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911845,
-    "wof:geomhash":"d847b37cfec67d03be663c0d8077fb52",
+    "wof:geomhash":"85d9f8d36379d105b3952504da830885",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898405,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092344911
         }
     ],
     "wof:id":1092344911,
-    "wof:lastmodified":1473984384,
+    "wof:lastmodified":1496890325,
     "wof:name":"WM Windisch-Graetz Mineral\u00f6l GmbH",
     "wof:parent_id":85898405,
     "wof:placetype":"venue",

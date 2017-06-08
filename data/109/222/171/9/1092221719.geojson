@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2555122375,48.4447669983,14.2555122375,48.4447669983",
     "geom:latitude":48.444767,
     "geom:longitude":14.255512,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836417,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HzNejPaUW0cfp22GlBofG_48.444767_14.255512@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906468,
-    "wof:geomhash":"2983892ccfcb0225f6171174ffb2afe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"699aa69113c92e2c79fac34dfd63bec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836417,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092221719
+        }
+    ],
     "wof:id":1092221719,
-    "wof:lastmodified":1473983757,
+    "wof:lastmodified":1496890952,
     "wof:name":"Plank Petra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5159416199,48.2144317627,16.5159416199,48.2144317627",
     "geom:latitude":48.214432,
     "geom:longitude":16.515942,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896837,
-    "wof:geomhash":"dad86acbccb1327c9d5f71f0aa0d5a41",
+    "wof:geomhash":"7acbb085d06634488b066d4f37277ff6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092007277
         }
     ],
     "wof:id":1092007277,
-    "wof:lastmodified":1473984690,
+    "wof:lastmodified":1496929393,
     "wof:name":"Linha-Zahnlabor Ges.m.b.H.",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

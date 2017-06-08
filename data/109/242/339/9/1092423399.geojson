@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0860710144,47.835193634,13.0860710144,47.835193634",
     "geom:latitude":47.835194,
     "geom:longitude":13.086071,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915606,
-    "wof:geomhash":"3565482d84e2e05b1c2cb3a25c4c7ee4",
+    "wof:geomhash":"951dc63aa9cb3a6377f9d25a6f7f0918",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092423399
         }
     ],
     "wof:id":1092423399,
-    "wof:lastmodified":1473983964,
+    "wof:lastmodified":1496895379,
     "wof:name":"Fitnesscenter Power Haus",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

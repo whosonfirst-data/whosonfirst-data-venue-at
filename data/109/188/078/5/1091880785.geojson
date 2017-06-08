@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5315284729,47.2889099121,12.5315284729,47.2889099121",
     "geom:latitude":47.28891,
     "geom:longitude":12.531528,
@@ -31,17 +32,34 @@
         "bread"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837239,
+        85632785,
+        101844533,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uZ5DcmdxnmMN7O1DXbQqq_47.288910_12.531528@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891171,
-    "wof:geomhash":"2cd60e539efefb5d86b25559ca44d9ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc22f2235f1bc2ef765e19d84f8d344c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837239,
+            "locality_id":101844533,
+            "region_id":85681681,
+            "venue_id":1091880785
+        }
+    ],
     "wof:id":1091880785,
-    "wof:lastmodified":1473983540,
+    "wof:lastmodified":1496896355,
     "wof:name":"Fritz Bacher KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

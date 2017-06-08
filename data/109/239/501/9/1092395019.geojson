@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1827497482,47.7893333435,15.1827497482,47.7893333435",
     "geom:latitude":47.789333,
     "geom:longitude":15.18275,
@@ -31,17 +32,33 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835303,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l1HHukey1luerGl76hMZx_47.789333_15.182750@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914206,
-    "wof:geomhash":"695c0fbd40945f23005d29a1e3251b56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fba57e299e464f74d57db2fdcc35f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835303,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092395019
+        }
+    ],
     "wof:id":1092395019,
-    "wof:lastmodified":1473984183,
+    "wof:lastmodified":1496885965,
     "wof:name":"TIME SYSTEM GESMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

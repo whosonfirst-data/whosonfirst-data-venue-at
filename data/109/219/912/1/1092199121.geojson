@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9123497009,47.8784408569,15.9123497009,47.8784408569",
     "geom:latitude":47.878441,
     "geom:longitude":15.91235,
@@ -31,17 +32,33 @@
         "case"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835375,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RX6iekfk9LPcOLCspkvyF_47.878441_15.912350@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905409,
-    "wof:geomhash":"8a6c34f536770232b730e482a21a8e78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92dcbb313b008844fc739ec7063e4823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835375,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092199121
+        }
+    ],
     "wof:id":1092199121,
-    "wof:lastmodified":1473985271,
+    "wof:lastmodified":1496886359,
     "wof:name":"Josef Fenzl Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

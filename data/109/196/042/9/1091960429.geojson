@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6770324707,47.8040847778,16.6770324707,47.8040847778",
     "geom:latitude":47.804085,
     "geom:longitude":16.677032,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.bnet.co.at/rust/tohotel.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b5J1EjtDaYXS0bnQ3J71r_47.804085_16.677032@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894840,
-    "wof:geomhash":"7a045b776b2ed01455ac4d970853437a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1a3d407f3a5670ec09c73472214a2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1091960429
+        }
+    ],
     "wof:id":1091960429,
-    "wof:lastmodified":1473983376,
+    "wof:lastmodified":1496909072,
     "wof:name":"Hotel und Restaurant Sifkovits , A 7071 Rust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

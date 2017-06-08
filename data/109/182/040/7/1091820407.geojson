@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.318353653,48.0889778137,16.318353653,48.0889778137",
     "geom:latitude":48.088978,
     "geom:longitude":16.318354,
@@ -31,17 +32,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834869,
+        85632785,
+        101754185,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dvOV7B7fBJBx4PBh2oTx4_48.088978_16.318354@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473888372,
-    "wof:geomhash":"70318766232d15496f9bbb21e9148b10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"483d29e9982ac00fb786aa37aa951c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108834869,
+            "locality_id":101754185,
+            "region_id":85681671,
+            "venue_id":1091820407
+        }
+    ],
     "wof:id":1091820407,
-    "wof:lastmodified":1473983454,
+    "wof:lastmodified":1496883189,
     "wof:name":"Josef Antl Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4082660675,47.22889328,11.4082660675,47.22889328",
     "geom:latitude":47.228893,
     "geom:longitude":11.408266,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889333,
-    "wof:geomhash":"5964cbf7fb2a00965f6ea3c563a79982",
+    "wof:geomhash":"364fd06fbe2f279262973739a490ca8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091841557
         }
     ],
     "wof:id":1091841557,
-    "wof:lastmodified":1473983631,
+    "wof:lastmodified":1496899303,
     "wof:name":"Legit Peter Ing",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0821228027,47.7776145935,13.0821228027,47.7776145935",
     "geom:latitude":47.777615,
     "geom:longitude":13.082123,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905190,
-    "wof:geomhash":"825d7a9f545e93672f6a9899a3c89fd9",
+    "wof:geomhash":"d94c45776e2fe367ed93fefde783a085",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092193747
         }
     ],
     "wof:id":1092193747,
-    "wof:lastmodified":1473984202,
+    "wof:lastmodified":1496894570,
     "wof:name":"Dutu Carmen Mag Dipl Phys",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

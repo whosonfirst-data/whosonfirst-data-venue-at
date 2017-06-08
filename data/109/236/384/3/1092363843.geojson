@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7832288742,47.1852493286,15.7832288742,47.1852493286",
     "geom:latitude":47.185249,
     "geom:longitude":15.783229,
@@ -23,17 +24,33 @@
     "sg:postcode":"8212",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838895,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SSrdyTQjrnYHq4JhQ4YM2_47.185249_15.783229@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912700,
-    "wof:geomhash":"6ec5800b4a633e5e88b734e26de3bcd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a016b3ee6365b33f4f99a080090a5442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838895,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092363843
+        }
+    ],
     "wof:id":1092363843,
-    "wof:lastmodified":1473984207,
+    "wof:lastmodified":1496909907,
     "wof:name":"Gesundheitsbauernhof Wachmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

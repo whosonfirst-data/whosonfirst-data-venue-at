@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5097999573,47.2839584351,11.5097999573,47.2839584351",
     "geom:latitude":47.283958,
     "geom:longitude":11.5098,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905130,
-    "wof:geomhash":"01205d48ebd05265cad2cc84937487a5",
+    "wof:geomhash":"10b11cd9f2d0a0b0a64dc2299588a7a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092192551
         }
     ],
     "wof:id":1092192551,
-    "wof:lastmodified":1473983979,
+    "wof:lastmodified":1496898725,
     "wof:name":"Allergieambulatorium Univ-Doz Dr Heinz Kofler",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

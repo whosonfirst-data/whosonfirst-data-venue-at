@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0841817856,47.8338317871,13.0841817856,47.8338317871",
     "geom:latitude":47.833832,
     "geom:longitude":13.084182,
@@ -25,10 +26,12 @@
     "sg:website":"www.mca.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911956,
-    "wof:geomhash":"ed0af9d7e6ccd72d1a716ecc43afb825",
+    "wof:geomhash":"e1f3ca2e62737045b8f2e27af2336371",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092347701
         }
     ],
     "wof:id":1092347701,
-    "wof:lastmodified":1473984824,
+    "wof:lastmodified":1496895389,
     "wof:name":"Motor Center Austria GmbH",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

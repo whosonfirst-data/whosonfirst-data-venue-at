@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5318899155,47.2587890625,11.5318899155,47.2587890625",
     "geom:latitude":47.258789,
     "geom:longitude":11.53189,
@@ -23,17 +24,33 @@
     "sg:postcode":"6075",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837627,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AXR9b9ZbIoodBDCTvXTkK_47.258789_11.531890@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900815,
-    "wof:geomhash":"5a5e597bad77f5d763a9e0b623596090",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee4e53ef35c658d3780ae3b77d2b3a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837627,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092100161
+        }
+    ],
     "wof:id":1092100161,
-    "wof:lastmodified":1473983357,
+    "wof:lastmodified":1496898873,
     "wof:name":"Gemeindeamt Tulfes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

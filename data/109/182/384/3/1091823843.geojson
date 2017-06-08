@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.244562149,47.427318573,16.244562149,47.427318573",
     "geom:latitude":47.427319,
     "geom:longitude":16.244562,
@@ -32,17 +33,33 @@
         "banister"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838653,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56RUrNRFYK9bWvwsnvVh4P_47.427319_16.244562@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888519,
-    "wof:geomhash":"42eba25800d88fe19baef953b02d0328",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72fadc21a24126baf45ef06f0096d885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838653,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091823843
+        }
+    ],
     "wof:id":1091823843,
-    "wof:lastmodified":1473984261,
+    "wof:lastmodified":1496909014,
     "wof:name":"Karl Gerhard Fleck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

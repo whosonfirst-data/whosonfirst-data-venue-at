@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0307826996,47.7130203247,16.0307826996,47.7130203247",
     "geom:latitude":47.71302,
     "geom:longitude":16.030783,
@@ -33,17 +34,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        101833087,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QYZTnpNuyAz9JbMbZz7c4_47.713020_16.030783@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905816,
-    "wof:geomhash":"a7b25db8760642fb0cd9a2f5b95c3234",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9607d4c726ac951ad087bcbdf8504f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":101833087,
+            "region_id":85681671,
+            "venue_id":1092206743
+        }
+    ],
     "wof:id":1092206743,
-    "wof:lastmodified":1473984763,
+    "wof:lastmodified":1496885876,
     "wof:name":"Richard Spreitzgrabner GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

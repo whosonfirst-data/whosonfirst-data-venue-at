@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3440504074,47.5208282471,12.3440504074,47.5208282471",
     "geom:latitude":47.520828,
     "geom:longitude":12.34405,
@@ -28,17 +29,33 @@
     "sg:postcode":"6353",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837363,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qfaEvBF7eHAPWjP2DAhyc_47.520828_12.344050@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898319,
-    "wof:geomhash":"aa7f353e1a1640b8b63cf625253f5028",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c415284c45f5614a2ff7fa9fd2ac492b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837363,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092045001
+        }
+    ],
     "wof:id":1092045001,
-    "wof:lastmodified":1473983718,
+    "wof:lastmodified":1496897301,
     "wof:name":"Familienhotel Seiwald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

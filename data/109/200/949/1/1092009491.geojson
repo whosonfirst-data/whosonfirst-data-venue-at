@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8459453583,48.2300071716,13.8459453583,48.2300071716",
     "geom:latitude":48.230007,
     "geom:longitude":13.845945,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.myservice.com/binder",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835183,
+        85632785,
+        101784569,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mCfHxScmp2W75mEXGS8JA_48.230007_13.845945@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896925,
-    "wof:geomhash":"9fdd5cbcd7d581b4a3f3357e526c3b74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"271a7ab441e12dd2110953ab74a9d6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835183,
+            "locality_id":101784569,
+            "region_id":85681677,
+            "venue_id":1092009491
+        }
+    ],
     "wof:id":1092009491,
-    "wof:lastmodified":1473985029,
+    "wof:lastmodified":1496885331,
     "wof:name":"MyService Experts Avenue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

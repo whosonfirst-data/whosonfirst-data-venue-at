@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2578554153,48.3602561951,14.2578554153,48.3602561951",
     "geom:latitude":48.360256,
     "geom:longitude":14.257855,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"inkasso-haydn.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836389,
+        85632785,
+        101783369,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZcXhGrjfsOcSIxjJpDOmF_48.360256_14.257855@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473895931,
-    "wof:geomhash":"c54eba860d4fbc2cee8293671d51bc97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea2aacaf4960dffe0af489e2db36cb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836389,
+            "locality_id":101783369,
+            "region_id":85681677,
+            "venue_id":1091985931
+        }
+    ],
     "wof:id":1091985931,
-    "wof:lastmodified":1473984213,
+    "wof:lastmodified":1496890861,
     "wof:name":"Inkasso Haydn GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

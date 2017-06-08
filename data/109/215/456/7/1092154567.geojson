@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1672382355,48.0056190491,15.1672382355,48.0056190491",
     "geom:latitude":48.005619,
     "geom:longitude":15.167238,
@@ -23,17 +24,34 @@
     "sg:postcode":"3270",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834971,
+        85632785,
+        101785693,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tVrXUMIQlzQ2PbeWAwHwx_48.005619_15.167238@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903428,
-    "wof:geomhash":"4e1ccbca23e69452de76f8825bb0b3d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f375e53ab5e95facea3c9f1eab23b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108834971,
+            "locality_id":101785693,
+            "region_id":85681671,
+            "venue_id":1092154567
+        }
+    ],
     "wof:id":1092154567,
-    "wof:lastmodified":1473984175,
+    "wof:lastmodified":1496883796,
     "wof:name":"Wiener St\u00e4dtische Allgemeine Versicherung AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.650551796,47.2731018066,9.650551796,47.2731018066",
     "geom:latitude":47.273102,
     "geom:longitude":9.650552,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912279,
-    "wof:geomhash":"2a7dc43da737cefd5fdcb9c62ac7f38d",
+    "wof:geomhash":"d114d3059ba7e0442ad9f32df632142d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092354703
         }
     ],
     "wof:id":1092354703,
-    "wof:lastmodified":1473984365,
+    "wof:lastmodified":1496901636,
     "wof:name":"Tischlerei Rauch Peter",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

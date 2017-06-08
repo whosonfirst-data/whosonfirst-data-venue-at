@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9127416611,48.2280883789,13.9127416611,48.2280883789",
     "geom:latitude":48.228088,
     "geom:longitude":13.912742,
@@ -23,17 +24,34 @@
     "sg:postcode":"4701",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835169,
+        85632785,
+        101833237,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mFTyq5SfS8hM2xAsCt0N2_48.228088_13.912742@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888498,
-    "wof:geomhash":"5d801f44dd3e87a7c7d8c155c36f9a24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3327e2b28dd01a8ef43d78f266fdaf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835169,
+            "locality_id":101833237,
+            "region_id":85681677,
+            "venue_id":1091823387
+        }
+    ],
     "wof:id":1091823387,
-    "wof:lastmodified":1473984224,
+    "wof:lastmodified":1496885257,
     "wof:name":"Gaubinger B & M Sanit\u00e4tshaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

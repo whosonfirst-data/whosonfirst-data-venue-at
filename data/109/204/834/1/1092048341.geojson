@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3269033432,47.6512413025,12.3269033432,47.6512413025",
     "geom:latitude":47.651241,
     "geom:longitude":12.326903,
@@ -28,17 +29,33 @@
     "sg:postcode":"6344",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837275,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YL70oVtJ0JqZX7PdwwRJz_47.651241_12.326903@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898446,
-    "wof:geomhash":"90d86350fb55b8fe7fcd51b9c268c555",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d5dae49c4829d248f3ab898e7258279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837275,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048341
+        }
+    ],
     "wof:id":1092048341,
-    "wof:lastmodified":1473984223,
+    "wof:lastmodified":1496896598,
     "wof:name":"Hotel Schick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

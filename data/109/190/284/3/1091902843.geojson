@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.694144249,48.2873153687,15.694144249,48.2873153687",
     "geom:latitude":48.287315,
     "geom:longitude":15.694144,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"schrauben-bayer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        101784543,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pjzRQMZo8fN5J6CRLM8Vc_48.287315_15.694144@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892255,
-    "wof:geomhash":"d700b8fc54638d5971331baa5e08aa00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4795726921295cccf7658ec525480919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":101784543,
+            "region_id":85681671,
+            "venue_id":1091902843
+        }
+    ],
     "wof:id":1091902843,
-    "wof:lastmodified":1473983868,
+    "wof:lastmodified":1496890030,
     "wof:name":"Bayer Johann GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

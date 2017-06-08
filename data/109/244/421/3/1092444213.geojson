@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2515125275,47.450176239,12.2515125275,47.450176239",
     "geom:latitude":47.450176,
     "geom:longitude":12.251513,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RYHWVYGIv6kYKgzEZFdlF_47.450176_12.251513@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916577,
-    "wof:geomhash":"823d03f7aed9320bf3ac9d07dec4a0dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5cb7b16bdd34de798a41ed188b631c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092444213
+        }
+    ],
     "wof:id":1092444213,
-    "wof:lastmodified":1473984301,
+    "wof:lastmodified":1496897250,
     "wof:name":"Friseursalon Hannerl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

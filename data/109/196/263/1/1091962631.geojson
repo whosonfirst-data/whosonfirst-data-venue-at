@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3048992157,47.795841217,13.3048992157,47.795841217",
     "geom:latitude":47.795841,
     "geom:longitude":13.304899,
@@ -28,17 +29,34 @@
     "sg:postcode":"5330",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        101844569,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6akWPvxAxYuEK3UqhzcOYQ_47.795841_13.304899@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894932,
-    "wof:geomhash":"51abd8bc1603e8e0823ee382e4da704a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ba92b881d631882de31c859b45415bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":101844569,
+            "region_id":85681681,
+            "venue_id":1091962631
+        }
+    ],
     "wof:id":1091962631,
-    "wof:lastmodified":1473983747,
+    "wof:lastmodified":1496895359,
     "wof:name":"Brunnwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

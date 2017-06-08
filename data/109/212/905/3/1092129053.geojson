@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1420230865,46.9385032654,16.1420230865,46.9385032654",
     "geom:latitude":46.938503,
     "geom:longitude":16.142023,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"sanitaetshaus-fischer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838611,
+        85632785,
+        101789003,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qbIXUpl2G7pDhLlkcqyDe_46.938503_16.142023@1306268274"
     },
     "wof:country":"AT",
     "wof:created":1473902226,
-    "wof:geomhash":"ea7de7b02c3581f2b62f787b48f5169d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc0a5b1be7b6564ee3e2d5ffc251c835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838611,
+            "locality_id":101789003,
+            "region_id":85681651,
+            "venue_id":1092129053
+        }
+    ],
     "wof:id":1092129053,
-    "wof:lastmodified":1473985192,
+    "wof:lastmodified":1496908713,
     "wof:name":"Fischer Monika",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

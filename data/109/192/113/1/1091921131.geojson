@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.263130188,48.1738319397,16.263130188,48.1738319397",
     "geom:latitude":48.173832,
     "geom:longitude":16.26313,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893035,
-    "wof:geomhash":"071fb541931d8666a1db0fbc15299853",
+    "wof:geomhash":"4b9c22a02eb9f6ff36f3129085f3d02b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091921131
         }
     ],
     "wof:id":1091921131,
-    "wof:lastmodified":1473983539,
+    "wof:lastmodified":1496902601,
     "wof:name":"Volkshilfe \u00f6sterreich Fl\u00fcchlingsbetreung",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

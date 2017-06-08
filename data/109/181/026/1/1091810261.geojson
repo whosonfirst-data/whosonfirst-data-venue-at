@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0098209381,48.2445907593,16.0098209381,48.2445907593",
     "geom:latitude":48.244591,
     "geom:longitude":16.009821,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"berger-schinken.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835869,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5agstyHxdS3Bq7MV0NW47j_48.244591_16.009821@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473887924,
-    "wof:geomhash":"4a80eadbc31a2545b48cb204dfb54e6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e2425e9864b7ef3d06d6a9869f22c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835869,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091810261
+        }
+    ],
     "wof:id":1091810261,
-    "wof:lastmodified":1473983331,
+    "wof:lastmodified":1496888717,
     "wof:name":"Fleischwaren Berger Ges.m.b.H. & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

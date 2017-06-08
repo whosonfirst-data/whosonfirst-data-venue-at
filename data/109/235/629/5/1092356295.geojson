@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1950454712,48.2072563171,16.1950454712,48.2072563171",
     "geom:latitude":48.207256,
     "geom:longitude":16.195045,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912359,
-    "wof:geomhash":"1a1b04cb60cb58ff10f56de5944b2c56",
+    "wof:geomhash":"7976ac3693187bbd4a8066c9e68ac4ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092356295
         }
     ],
     "wof:id":1092356295,
-    "wof:lastmodified":1473984672,
+    "wof:lastmodified":1496888164,
     "wof:name":"WALTER PINDUR GESMBH & CO KG",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

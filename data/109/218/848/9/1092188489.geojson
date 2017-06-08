@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5653553009,48.1121940613,14.5653553009,48.1121940613",
     "geom:latitude":48.112194,
     "geom:longitude":14.565355,
@@ -33,17 +34,34 @@
         "tiles"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835427,
+        85632785,
+        101785729,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3035aDfUj30pBvjZfVEsTs_48.112194_14.565355@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904961,
-    "wof:geomhash":"87b2726a902fc3bd0a54ce9f023f2c9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18c7fe26069a7db00623211f835ca769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835427,
+            "locality_id":101785729,
+            "region_id":85681671,
+            "venue_id":1092188489
+        }
+    ],
     "wof:id":1092188489,
-    "wof:lastmodified":1473985047,
+    "wof:lastmodified":1496886571,
     "wof:name":"Gerhard Seyrlehner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

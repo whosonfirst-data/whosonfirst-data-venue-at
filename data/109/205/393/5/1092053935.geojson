@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9501934052,48.0275917053,13.9501934052,48.0275917053",
     "geom:latitude":48.027592,
     "geom:longitude":13.950193,
@@ -32,17 +33,33 @@
         "hydraulic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TCZXjSACx0B3pc6Hz4Ia2_48.027592_13.950193@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898660,
-    "wof:geomhash":"a3e3c7bc7dd71c0ace0810751cfa660f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9304bf9b7f3c3293e65ebc4592e5c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092053935
+        }
+    ],
     "wof:id":1092053935,
-    "wof:lastmodified":1473984085,
+    "wof:lastmodified":1496885205,
     "wof:name":"Franz L\u00f6berbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

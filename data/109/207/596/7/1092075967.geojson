@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2411031723,47.4482803345,12.2411031723,47.4482803345",
     "geom:latitude":47.44828,
     "geom:longitude":12.241103,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XVaB9iit9hINLRr4IlVLw_47.448280_12.241103@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899559,
-    "wof:geomhash":"81fdc4c98ae3ec31cc69ea64f0f986ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64857a6b43740c1e2c78fb159abf020f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092075967
+        }
+    ],
     "wof:id":1092075967,
-    "wof:lastmodified":1473984368,
+    "wof:lastmodified":1496897264,
     "wof:name":"Gasthof-Pension Hoferwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4752101898,47.0994911194,15.4752101898,47.0994911194",
     "geom:latitude":47.099491,
     "geom:longitude":15.47521,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894150,
-    "wof:geomhash":"eb14432008e8fd52751d000d7f95829e",
+    "wof:geomhash":"c39f4f5c12c9603bd518cb7d3253925d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1091944919
         }
     ],
     "wof:id":1091944919,
-    "wof:lastmodified":1473984283,
+    "wof:lastmodified":1496913316,
     "wof:name":"Fasching Peter",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

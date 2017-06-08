@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8037099838,47.367061615,12.8037099838,47.367061615",
     "geom:latitude":47.367062,
     "geom:longitude":12.80371,
@@ -23,17 +24,34 @@
     "sg:postcode":"5751",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837217,
+        85632785,
+        101787925,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CYkt0FSupwnbx6anWUCOk_47.367062_12.803710@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912690,
-    "wof:geomhash":"a3155cc274c01f6deb482bd78a41af16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20c604dfdf5e9905c9572af25e759c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837217,
+            "locality_id":101787925,
+            "region_id":85681681,
+            "venue_id":1092363733
+        }
+    ],
     "wof:id":1092363733,
-    "wof:lastmodified":1473984182,
+    "wof:lastmodified":1496896043,
     "wof:name":"Gasthaus Pension Kammerlander",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

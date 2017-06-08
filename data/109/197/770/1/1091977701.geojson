@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3908958435,47.4499855042,12.3908958435,47.4499855042",
     "geom:latitude":47.449986,
     "geom:longitude":12.390896,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"pfs.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        101787927,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27XxRQ1tsgpzQcCUuii9My_47.449986_12.390896@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895560,
-    "wof:geomhash":"f6c71feabd4474a54a650d5a51f7894a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"449f18460c00fa3792f3e30ca5c30f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":101787927,
+            "region_id":85681661,
+            "venue_id":1091977701
+        }
+    ],
     "wof:id":1091977701,
-    "wof:lastmodified":1473984932,
+    "wof:lastmodified":1496897142,
     "wof:name":"PFS Immobilien Management GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

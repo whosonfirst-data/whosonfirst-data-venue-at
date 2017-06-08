@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.491519928,47.2826156616,11.491519928,47.2826156616",
     "geom:latitude":47.282616,
     "geom:longitude":11.49152,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914660,
-    "wof:geomhash":"647dcc745d585dbb1165bf39a8a85f24",
+    "wof:geomhash":"529ff56c9f5a99432a9125ea3b74716e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092405893
         }
     ],
     "wof:id":1092405893,
-    "wof:lastmodified":1473984405,
+    "wof:lastmodified":1496898700,
     "wof:name":"Fahrschule Sappl",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

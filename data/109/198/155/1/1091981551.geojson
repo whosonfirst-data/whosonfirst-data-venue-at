@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6273193359,48.1756401062,14.6273193359,48.1756401062",
     "geom:latitude":48.17564,
     "geom:longitude":14.627319,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.igp-generatoren.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836251,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mXErYcg5cDpYG8cQvzKD5_48.175640_14.627319@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895759,
-    "wof:geomhash":"a74677b914bf760153a7dd3cde19ed2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7527c5b2a1caa07ed1543525def0b712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836251,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091981551
+        }
+    ],
     "wof:id":1091981551,
-    "wof:lastmodified":1473983347,
+    "wof:lastmodified":1496890198,
     "wof:name":"IGP Generatoren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

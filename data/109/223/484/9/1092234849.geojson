@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6278448105,47.3205718994,9.6278448105,47.3205718994",
     "geom:latitude":47.320572,
     "geom:longitude":9.627845,
@@ -23,17 +24,33 @@
     "sg:postcode":"6842",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837977,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06lsWvvybZjCFYCIhrRJAV_47.320572_9.627845@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473907038,
-    "wof:geomhash":"0dba8b550a9c730c86b5cb922c802d50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de0808a5b3ff283e5555e7f17df3b5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837977,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092234849
+        }
+    ],
     "wof:id":1092234849,
-    "wof:lastmodified":1473984345,
+    "wof:lastmodified":1496901213,
     "wof:name":"Aichner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

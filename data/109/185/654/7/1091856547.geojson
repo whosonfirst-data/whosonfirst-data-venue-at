@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.931219101,48.1609077454,12.931219101,48.1609077454",
     "geom:latitude":48.160908,
     "geom:longitude":12.931219,
@@ -33,17 +34,33 @@
         "bent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834727,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i77bUl5kG3XeNxZpf0R6g_48.160908_12.931219@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890021,
-    "wof:geomhash":"05c3d1c15206127bf4b6c44487eb929a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"745f17c3541be9f2d58f04c1d2976ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834727,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091856547
+        }
+    ],
     "wof:id":1091856547,
-    "wof:lastmodified":1473984490,
+    "wof:lastmodified":1496882350,
     "wof:name":"Hermann Eisenf\u00fchrer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

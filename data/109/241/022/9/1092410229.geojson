@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2161970139,46.6261177063,14.2161970139,46.6261177063",
     "geom:latitude":46.626118,
     "geom:longitude":14.216197,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914889,
-    "wof:geomhash":"a12f2e8153d07f72844f686a37d51319",
+    "wof:geomhash":"9448be03a008319816350e042719c07e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092410229
         }
     ],
     "wof:id":1092410229,
-    "wof:lastmodified":1473983377,
+    "wof:lastmodified":1496906402,
     "wof:name":"Institut f harmonisches Wohnen und Leben",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

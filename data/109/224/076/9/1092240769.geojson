@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4199848175,48.2810707092,16.4199848175,48.2810707092",
     "geom:latitude":48.281071,
     "geom:longitude":16.419985,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907303,
-    "wof:geomhash":"4a821c17b23ae3c2dd6760e452def8fd",
+    "wof:geomhash":"8263ceabbd6e99a049c4d6f9557ed0ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092240769
         }
     ],
     "wof:id":1092240769,
-    "wof:lastmodified":1473983497,
+    "wof:lastmodified":1496903431,
     "wof:name":"Bartl Robert",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

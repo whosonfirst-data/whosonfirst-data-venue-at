@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3759212494,47.2614021301,11.3759212494,47.2614021301",
     "geom:latitude":47.261402,
     "geom:longitude":11.375921,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890659,
-    "wof:geomhash":"1536b4e7d1f4c898e3813e682525134e",
+    "wof:geomhash":"ddd1c6718d93ea711c724fcb066577d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1091869973
         }
     ],
     "wof:id":1091869973,
-    "wof:lastmodified":1473985331,
+    "wof:lastmodified":1496899453,
     "wof:name":"Hermann Zschiegner Ges.m.b.H.",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

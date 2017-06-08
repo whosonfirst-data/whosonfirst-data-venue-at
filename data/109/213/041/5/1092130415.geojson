@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.040017128,47.7278289795,13.040017128,47.7278289795",
     "geom:latitude":47.727829,
     "geom:longitude":13.040017,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902285,
-    "wof:geomhash":"6e9d13b1f2c5a9a3d6fdbf67dcee1345",
+    "wof:geomhash":"de18c1488b10bc927c8c00067c9014ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1092130415
         }
     ],
     "wof:id":1092130415,
-    "wof:lastmodified":1473983399,
+    "wof:lastmodified":1496895375,
     "wof:name":"Aloeveraworld",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

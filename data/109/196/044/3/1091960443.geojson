@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6053447723,47.0386734009,10.6053447723,47.0386734009",
     "geom:latitude":47.038673,
     "geom:longitude":10.605345,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.tirol.com/hotel-zerzer",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837331,
+        85632785,
+        101785591,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lvHUXUkg1LVeLxzKnDBfc_47.038673_10.605345@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894841,
-    "wof:geomhash":"2da921551021b1263aeed8360e448c06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab943d23dcea536a9b107dc2cc8157cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837331,
+            "locality_id":101785591,
+            "region_id":85681661,
+            "venue_id":1091960443
+        }
+    ],
     "wof:id":1091960443,
-    "wof:lastmodified":1473983388,
+    "wof:lastmodified":1496896961,
     "wof:name":"HOTEL ZERZER SERFAUS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

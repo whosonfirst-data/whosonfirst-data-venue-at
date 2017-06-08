@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7638130188,47.9496536255,16.7638130188,47.9496536255",
     "geom:latitude":47.949654,
     "geom:longitude":16.763813,
@@ -23,17 +24,33 @@
     "sg:postcode":"7092",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108839433,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76YHfKMabZRSulTzo6fOAx_47.949654_16.763813@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902592,
-    "wof:geomhash":"a42f24c941532cd82e317afda9f3f43f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d585d2332b11214c321558d494292d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108839433,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092136899
+        }
+    ],
     "wof:id":1092136899,
-    "wof:lastmodified":1473984700,
+    "wof:lastmodified":1496914227,
     "wof:name":"Mozartkeller - Anton Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3456439972,47.8521690369,13.3456439972,47.8521690369",
     "geom:latitude":47.852169,
     "geom:longitude":13.345644,
@@ -33,17 +34,34 @@
         "pyrotechnic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836451,
+        85632785,
+        101785673,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wX8qKFRO8XbSKnh4b8YV6_47.852169_13.345644@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915542,
-    "wof:geomhash":"9140ab027fe6783adcdfa0399884fc13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc45af5ec25041322ae069717b4e0a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836451,
+            "locality_id":101785673,
+            "region_id":85681677,
+            "venue_id":1092422209
+        }
+    ],
     "wof:id":1092422209,
-    "wof:lastmodified":1473983729,
+    "wof:lastmodified":1496891122,
     "wof:name":"Peter Schickl Pyrotechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

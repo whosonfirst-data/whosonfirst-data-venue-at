@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6283769608,47.2738342285,9.6283769608,47.2738342285",
     "geom:latitude":47.273834,
     "geom:longitude":9.628377,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889457,
-    "wof:geomhash":"830b874dd49a3ff9665df191ecd369e3",
+    "wof:geomhash":"711a2dfded853a1f337a01733d0714bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091844553
         }
     ],
     "wof:id":1091844553,
-    "wof:lastmodified":1473984176,
+    "wof:lastmodified":1496901652,
     "wof:name":"EcoBeton",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

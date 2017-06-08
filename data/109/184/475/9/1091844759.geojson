@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2206707001,48.1244506836,16.2206707001,48.1244506836",
     "geom:latitude":48.124451,
     "geom:longitude":16.220671,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889465,
-    "wof:geomhash":"c748ebfc99c9cefbb3821f035ade95dc",
+    "wof:geomhash":"93b0b5eda302a95b7293fd8f5e2fded6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091844759
         }
     ],
     "wof:id":1091844759,
-    "wof:lastmodified":1473984193,
+    "wof:lastmodified":1496885857,
     "wof:name":"Holcim (Wien) GmbH",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.766251564,47.2788391113,10.766251564,47.2788391113",
     "geom:latitude":47.278839,
     "geom:longitude":10.766252,
@@ -23,17 +24,33 @@
     "sg:postcode":"6464",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837453,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Rl38GW8NDqIN9EKKoyiEY_47.278839_10.766252@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915910,
-    "wof:geomhash":"2e47cd1d0fe6775c7c9d46be6f6bee49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c272bdf2e79c4f7c7653d368f9db560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837453,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092430043
+        }
+    ],
     "wof:id":1092430043,
-    "wof:lastmodified":1473983313,
+    "wof:lastmodified":1496897970,
     "wof:name":"Heel & Demml OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

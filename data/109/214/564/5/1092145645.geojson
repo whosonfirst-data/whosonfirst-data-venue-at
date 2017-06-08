@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0019617081,47.8278846741,13.0019617081,47.8278846741",
     "geom:latitude":47.827885,
     "geom:longitude":13.001962,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898521,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        101913413,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903004,
-    "wof:geomhash":"260dbcd9de32290982cc657d3ae48c10",
+    "wof:geomhash":"cd11d53aa6558b203d65a4823f1c85f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101913413,
             "neighbourhood_id":85898521,
             "region_id":85681681,
             "venue_id":1092145645
         }
     ],
     "wof:id":1092145645,
-    "wof:lastmodified":1473984463,
+    "wof:lastmodified":1496922864,
     "wof:name":"Hochhuber's Werbeschrift",
     "wof:parent_id":85898521,
     "wof:placetype":"venue",

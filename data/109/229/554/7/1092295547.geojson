@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5569028854,46.7721557617,12.5569028854,46.7721557617",
     "geom:latitude":46.772156,
     "geom:longitude":12.556903,
@@ -23,17 +24,33 @@
     "sg:postcode":"9912",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837487,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YlxuUslKZemqCpqOOmDsG_46.772156_12.556903@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909676,
-    "wof:geomhash":"3486b2d61ad41f9698874f48f4307c1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef8f323db45bd90ed099b7a430e47816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837487,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092295547
+        }
+    ],
     "wof:id":1092295547,
-    "wof:lastmodified":1473984609,
+    "wof:lastmodified":1496898081,
     "wof:name":"Haus Lukasser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

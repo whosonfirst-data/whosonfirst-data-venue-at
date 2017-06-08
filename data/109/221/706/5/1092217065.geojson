@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3971681595,47.0302276611,15.3971681595,47.0302276611",
     "geom:latitude":47.030228,
     "geom:longitude":15.397168,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906281,
-    "wof:geomhash":"6bc7e4b22919d8075c641253e7e8389a",
+    "wof:geomhash":"cd614b66bdf426af93cce4de9a02b7b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1092217065
         }
     ],
     "wof:id":1092217065,
-    "wof:lastmodified":1473984810,
+    "wof:lastmodified":1496913103,
     "wof:name":"Schnell & G\u00fcnstig Tankstelle",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

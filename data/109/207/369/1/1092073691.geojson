@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8438215256,46.649066925,13.8438215256,46.649066925",
     "geom:latitude":46.649067,
     "geom:longitude":13.843822,
@@ -23,17 +24,33 @@
     "sg:postcode":"9500",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wQjKkW1XVx1Ncj2aExd7X_46.649067_13.843822@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899458,
-    "wof:geomhash":"648475c44a704099f1a9e68eab5aeb6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"715512dd80d97734af451bf9667fec9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092073691
+        }
+    ],
     "wof:id":1092073691,
-    "wof:lastmodified":1473983965,
+    "wof:lastmodified":1496906190,
     "wof:name":"Gasthof Oswaldiberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

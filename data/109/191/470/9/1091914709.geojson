@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1588783264,48.2645797729,14.1588783264,48.2645797729",
     "geom:latitude":48.26458,
     "geom:longitude":14.158878,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835537,
+        85632785,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zlWJvNbJfL1ArnEoVR21C_48.264580_14.158878@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892780,
-    "wof:geomhash":"8aa933b2184c4e1aa4665b3d8a9c274c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74ec992432dca172b05585948fa7e7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835537,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091914709
+        }
+    ],
     "wof:id":1091914709,
-    "wof:lastmodified":1473983912,
+    "wof:lastmodified":1496887124,
     "wof:name":"MOUNTAIN SOFTWARE DESIGN KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

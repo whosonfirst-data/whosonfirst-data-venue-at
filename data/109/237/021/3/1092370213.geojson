@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3877754211,47.5820808411,12.3877754211,47.5820808411",
     "geom:latitude":47.582081,
     "geom:longitude":12.387775,
@@ -23,17 +24,33 @@
     "sg:postcode":"6382",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lgW4sHEN7TXHNDmVdyDo2_47.582081_12.387775@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913029,
-    "wof:geomhash":"8941cfaab38cb6a93df2f409d35b5240",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebaf1267b7ad93c7f2668954872d303b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092370213
+        }
+    ],
     "wof:id":1092370213,
-    "wof:lastmodified":1473983362,
+    "wof:lastmodified":1496897076,
     "wof:name":"Pension Dornauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

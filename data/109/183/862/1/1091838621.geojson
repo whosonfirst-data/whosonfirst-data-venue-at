@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1276950836,47.9440040588,14.1276950836,47.9440040588",
     "geom:latitude":47.944004,
     "geom:longitude":14.127695,
@@ -32,17 +33,34 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835501,
+        85632785,
+        101844575,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DHl8Aa6nIAkA79yKWuOVl_47.944004_14.127695@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889213,
-    "wof:geomhash":"d3f2dcd701ed979cc681de9dd2086e96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69ebe6dfe972ce9efd901a49db4e50f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835501,
+            "locality_id":101844575,
+            "region_id":85681677,
+            "venue_id":1091838621
+        }
+    ],
     "wof:id":1091838621,
-    "wof:lastmodified":1473985101,
+    "wof:lastmodified":1496886895,
     "wof:name":"Hafner Installationen KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

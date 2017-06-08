@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.918340683,48.1393013,16.918340683,48.1393013",
     "geom:latitude":48.139301,
     "geom:longitude":16.918341,
@@ -23,17 +24,33 @@
     "sg:postcode":"2410",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835779,
+        85632785,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XC3ldB7vD9R89IercBcqO_48.139301_16.918341@1306268286"
     },
     "wof:country":"AT",
     "wof:created":1473906230,
-    "wof:geomhash":"5210bf610073a456071e678296998fe6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23b1f0d29c1785fc771aff2622ece96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108835779,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092215851
+        }
+    ],
     "wof:id":1092215851,
-    "wof:lastmodified":1473984523,
+    "wof:lastmodified":1496888302,
     "wof:name":"JET Tankstelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

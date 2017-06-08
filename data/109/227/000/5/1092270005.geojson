@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2104053497,48.136882782,16.2104053497,48.136882782",
     "geom:latitude":48.136883,
     "geom:longitude":16.210405,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908594,
-    "wof:geomhash":"a10e9f9be09d6faf48bd512fba013ac4",
+    "wof:geomhash":"e562252c06d6d2d4ed3be9f14219ffb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092270005
         }
     ],
     "wof:id":1092270005,
-    "wof:lastmodified":1473983304,
+    "wof:lastmodified":1496888378,
     "wof:name":"Giffinger Elektro",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

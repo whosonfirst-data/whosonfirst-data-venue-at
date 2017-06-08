@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4189662933,47.4479675293,16.4189662933,47.4479675293",
     "geom:latitude":47.447968,
     "geom:longitude":16.418966,
@@ -33,17 +34,33 @@
         "baked"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838545,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fyo48kJmiGOd7jSp7l5P4_47.447968_16.418966@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888424,
-    "wof:geomhash":"9aad05946811235e115915f986e364d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93ebd0b1ecef94776e16e47da0123da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838545,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091821677
+        }
+    ],
     "wof:id":1091821677,
-    "wof:lastmodified":1473983752,
+    "wof:lastmodified":1496908411,
     "wof:name":"Backstube Hauser OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

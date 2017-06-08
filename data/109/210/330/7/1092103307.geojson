@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3672008514,48.372756958,14.3672008514,48.372756958",
     "geom:latitude":48.372757,
     "geom:longitude":14.367201,
@@ -32,17 +33,33 @@
         "grave"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836139,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hgDkzkC5HhGJ5ZWvLnSJL_48.372757_14.367201@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900979,
-    "wof:geomhash":"772e16d809d350221d0d34a49a9b7d81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a1b19f943c94d458191504d47f68677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092103307
+        }
+    ],
     "wof:id":1092103307,
-    "wof:lastmodified":1473983901,
+    "wof:lastmodified":1496889719,
     "wof:name":"Ramerstorfer Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

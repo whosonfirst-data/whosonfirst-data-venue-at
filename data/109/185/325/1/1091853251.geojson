@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5020980835,47.2869262695,11.5020980835,47.2869262695",
     "geom:latitude":47.286926,
     "geom:longitude":11.502098,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889860,
-    "wof:geomhash":"c81e61ef6a7f3357752075aba5f406b8",
+    "wof:geomhash":"a09def17035c75581184082f22c83354",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091853251
         }
     ],
     "wof:id":1091853251,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496898008,
     "wof:name":"Lebenshilfe Tirol - Werkst\u00e4tte",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2068653107,47.344329834,16.2068653107,47.344329834",
     "geom:latitude":47.34433,
     "geom:longitude":16.206865,
@@ -23,17 +24,33 @@
     "sg:postcode":"7432",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838527,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dGgbDMql6cWkIJUfU01Lb_47.344330_16.206865@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898989,
-    "wof:geomhash":"0e746b2091e8935c170d164a6012011e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09c1523f899e068acd4dda5ee8e54cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838527,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092062149
+        }
+    ],
     "wof:id":1092062149,
-    "wof:lastmodified":1473983777,
+    "wof:lastmodified":1496908378,
     "wof:name":"Bayer Harald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

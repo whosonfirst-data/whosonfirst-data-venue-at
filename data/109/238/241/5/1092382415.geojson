@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.070350647,47.9417495728,13.070350647,47.9417495728",
     "geom:latitude":47.94175,
     "geom:longitude":13.070351,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837169,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DI9BoBIPIR9O0kqAbhXYo_47.941750_13.070351@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913548,
-    "wof:geomhash":"4ee1fd4625a30d4ccc3fc700aa7c40c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b45514d9a4c0a0be10538522c518bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837169,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092382415
+        }
+    ],
     "wof:id":1092382415,
-    "wof:lastmodified":1473983938,
+    "wof:lastmodified":1496895596,
     "wof:name":"La Gondola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2601108551,48.1331062317,16.2601108551,48.1331062317",
     "geom:latitude":48.133106,
     "geom:longitude":16.260111,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896706,
-    "wof:geomhash":"92e70ffe7a20bf114ae77731701fe99e",
+    "wof:geomhash":"42508f0f4f6a1d39a4e49d9fba2429e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092004355
         }
     ],
     "wof:id":1092004355,
-    "wof:lastmodified":1473984225,
+    "wof:lastmodified":1496902638,
     "wof:name":"Rischer Ivanka",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

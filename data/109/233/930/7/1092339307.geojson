@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1326808929,48.1675682068,16.1326808929,48.1675682068",
     "geom:latitude":48.167568,
     "geom:longitude":16.132681,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.50plus.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836753,
+        85632785,
+        101784593,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2anbbrbjeOIgG0selD6sZB_48.167568_16.132681@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911602,
-    "wof:geomhash":"c9823a6ab1aa4b9bc81717cc17d8bc76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cddb196bf6d290c27fe2250bab5420aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108836753,
+            "locality_id":101784593,
+            "region_id":85681671,
+            "venue_id":1092339307
+        }
+    ],
     "wof:id":1092339307,
-    "wof:lastmodified":1473985300,
+    "wof:lastmodified":1496892628,
     "wof:name":"www.50plus.at - active aging austria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

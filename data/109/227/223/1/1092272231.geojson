@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4773216248,47.5766105652,12.4773216248,47.5766105652",
     "geom:latitude":47.576611,
     "geom:longitude":12.477322,
@@ -23,17 +24,33 @@
     "sg:postcode":"6383",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RF4MSLmAZLOSGLcreJGmX_47.576611_12.477322@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908693,
-    "wof:geomhash":"e340fb5b8c065619c89dead46c127b92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26040e4915e4a177f6d24343e9124d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092272231
+        }
+    ],
     "wof:id":1092272231,
-    "wof:lastmodified":1473983905,
+    "wof:lastmodified":1496897071,
     "wof:name":"Elektrotechnik Langreiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.193731308,48.2040634155,16.193731308,48.2040634155",
     "geom:latitude":48.204063,
     "geom:longitude":16.193731,
@@ -29,10 +30,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898585,
-    "wof:geomhash":"791a833225a44de055821ad910573c7e",
+    "wof:geomhash":"474f194e62a79cbd1a1254d76fccc480",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092051965
         }
     ],
     "wof:id":1092051965,
-    "wof:lastmodified":1473983704,
+    "wof:lastmodified":1496888172,
     "wof:name":"Waldhof",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

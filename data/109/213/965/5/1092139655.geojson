@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.044585228,47.388130188,15.044585228,47.388130188",
     "geom:latitude":47.38813,
     "geom:longitude":15.044585,
@@ -24,10 +25,13 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898561,
-        102049769
+        102191581,
+        1108838995,
+        85632785,
+        101834297,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902716,
-    "wof:geomhash":"947d1517148f12bd7ba7d4ca466d5cf6",
+    "wof:geomhash":"0c09dcf5b0b1a188d7942da1d4074393",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108838995,
+            "locality_id":101834297,
             "neighbourhood_id":85898561,
             "region_id":85681687,
             "venue_id":1092139655
         }
     ],
     "wof:id":1092139655,
-    "wof:lastmodified":1473985155,
+    "wof:lastmodified":1496910737,
     "wof:name":"Handler-Trainings",
     "wof:parent_id":85898561,
     "wof:placetype":"venue",

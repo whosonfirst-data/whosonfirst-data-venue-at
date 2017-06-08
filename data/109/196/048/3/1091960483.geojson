@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7658548355,47.343624115,12.7658548355,47.343624115",
     "geom:latitude":47.343624,
     "geom:longitude":12.765855,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.stadtwien.start.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QvlND3Z6lalvGpwuzsjg3_47.343624_12.765855@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894842,
-    "wof:geomhash":"0787e71849c4da312e039bb1497285ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"089c03d43b5811236a8c4512c574d19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091960483
+        }
+    ],
     "wof:id":1091960483,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496896486,
     "wof:name":"Landgasthof Stadt Wien GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

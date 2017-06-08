@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6476545334,47.2747917175,9.6476545334,47.2747917175",
     "geom:latitude":47.274792,
     "geom:longitude":9.647655,
@@ -35,10 +36,12 @@
     "sg:website":"http://www.feeling.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892559,
-    "wof:geomhash":"36ac26b17313f01bf43817cf244770aa",
+    "wof:geomhash":"17e28216e97fe5af6d51e73ff2cddb70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091910247
         }
     ],
     "wof:id":1091910247,
-    "wof:lastmodified":1473983314,
+    "wof:lastmodified":1496901657,
     "wof:name":"Feeling Handels GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

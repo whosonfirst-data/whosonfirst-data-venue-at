@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3128461838,46.6513595581,14.3128461838,46.6513595581",
     "geom:latitude":46.65136,
     "geom:longitude":14.312846,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890659,
-    "wof:geomhash":"c392064cb8074333474b6babc4d878f4",
+    "wof:geomhash":"00bebf8b276ca7c072cb1078470a74ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1091869987
         }
     ],
     "wof:id":1091869987,
-    "wof:lastmodified":1473985331,
+    "wof:lastmodified":1496905550,
     "wof:name":"Johann Dorfer GesmbH",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

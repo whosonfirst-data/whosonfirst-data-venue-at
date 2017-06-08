@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7451572418,47.4098243713,9.7451572418,47.4098243713",
     "geom:latitude":47.409824,
     "geom:longitude":9.745157,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893602,
-    "wof:geomhash":"a3477548567881b35c48bc49dca20036",
+    "wof:geomhash":"44f2ca85990d09d7704c6fba1fc8ee3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091932257
         }
     ],
     "wof:id":1091932257,
-    "wof:lastmodified":1473983857,
+    "wof:lastmodified":1496900854,
     "wof:name":"Vorarlberger Leichtathletik Verband",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

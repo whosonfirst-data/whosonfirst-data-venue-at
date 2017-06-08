@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5289793015,47.2835655212,11.5289793015,47.2835655212",
     "geom:latitude":47.283566,
     "geom:longitude":11.528979,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.mils.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837547,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kUGIhQhDYniafGsibAOOM_47.283566_11.528979@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895759,
-    "wof:geomhash":"e73c80db05cca1149a86fcb50f73008c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a14c55bb0da1152a028ec7f129f0b1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837547,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091981553
+        }
+    ],
     "wof:id":1091981553,
-    "wof:lastmodified":1473983331,
+    "wof:lastmodified":1496898467,
     "wof:name":"MILS ELEKTRONIK GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

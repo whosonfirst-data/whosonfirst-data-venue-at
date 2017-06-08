@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2751026154,46.6361999512,14.2751026154,46.6361999512",
     "geom:latitude":46.6362,
     "geom:longitude":14.275103,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899568,
-    "wof:geomhash":"9cddbc26d40b8a9633a53c93bb0bb23a",
+    "wof:geomhash":"0f9e33ff49791f02bc7135c1ef746e41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092076175
         }
     ],
     "wof:id":1092076175,
-    "wof:lastmodified":1473984413,
+    "wof:lastmodified":1496905561,
     "wof:name":"Gasthof-Pension Waldwirt",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

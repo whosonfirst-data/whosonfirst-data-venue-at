@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3229007721,47.059627533,16.3229007721,47.059627533",
     "geom:latitude":47.059628,
     "geom:longitude":16.322901,
@@ -23,17 +24,34 @@
     "sg:postcode":"7540",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838483,
+        85632785,
+        101789059,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bbzrNWLBCHy1fgXvTDjgg_47.059628_16.322901@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897385,
-    "wof:geomhash":"f2923390e3595779c56631205acba150",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa8b45296adf26c0d909dfb39ea91c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838483,
+            "locality_id":101789059,
+            "region_id":85681651,
+            "venue_id":1092021037
+        }
+    ],
     "wof:id":1092021037,
-    "wof:lastmodified":1473983590,
+    "wof:lastmodified":1496908135,
     "wof:name":"Katholische Jugend und Jungschar Regionalstelle S\u00fcd d Kat - Dekanat G\u00fcssing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

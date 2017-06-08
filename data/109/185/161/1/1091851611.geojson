@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.924202919,48.2256698608,13.924202919,48.2256698608",
     "geom:latitude":48.22567,
     "geom:longitude":13.924203,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835169,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qBjxvHM9yMBPmYcoom2is_48.225670_13.924203@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889787,
-    "wof:geomhash":"2ec3ef4c03224e8e4ddfeb4afe3ecbb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea5f254221e2a49f1d6bc27ce5af81d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835169,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091851611
+        }
+    ],
     "wof:id":1091851611,
-    "wof:lastmodified":1473983568,
+    "wof:lastmodified":1496885252,
     "wof:name":"Bernhard K\u00f6glberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

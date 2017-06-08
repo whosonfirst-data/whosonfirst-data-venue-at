@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8454866409,47.427318573,12.8454866409,47.427318573",
     "geom:latitude":47.427319,
     "geom:longitude":12.845487,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.leogang-saalfelden.at/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        101834285,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mu7WQcchMJqkL1ngy9adZ_47.427319_12.845487@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894845,
-    "wof:geomhash":"403ecf42e769d498da130d4964a84246",
-    "wof:hierarchy":[],
+    "wof:geomhash":"265783d5e4519e47127f8f5f5c9b8918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":101834285,
+            "region_id":85681681,
+            "venue_id":1091960561
+        }
+    ],
     "wof:id":1091960561,
-    "wof:lastmodified":1473983369,
+    "wof:lastmodified":1496896337,
     "wof:name":"Saalfelden Leogang Touristik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

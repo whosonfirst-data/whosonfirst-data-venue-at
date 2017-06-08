@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7486562729,47.4140777588,9.7486562729,47.4140777588",
     "geom:latitude":47.414078,
     "geom:longitude":9.748656,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893828,
-    "wof:geomhash":"b4b85e729fbee44262f8bcdd1b501c9c",
+    "wof:geomhash":"90bb034e76e5d7b5a30d6918e006bc57",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091937451
         }
     ],
     "wof:id":1091937451,
-    "wof:lastmodified":1473984781,
+    "wof:lastmodified":1496900841,
     "wof:name":"Mathis Ulrike Mag",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

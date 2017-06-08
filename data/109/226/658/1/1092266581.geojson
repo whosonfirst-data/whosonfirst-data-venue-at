@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.307185173,47.596118927,13.307185173,47.596118927",
     "geom:latitude":47.596119,
     "geom:longitude":13.307185,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837081,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I0oMGt5CuhHuB2c5khhUO_47.596119_13.307185@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908455,
-    "wof:geomhash":"72eb2231235ee519c81221dc490adf66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca01d040a5b998a68ce9b9e476d0cbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837081,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092266581
+        }
+    ],
     "wof:id":1092266581,
-    "wof:lastmodified":1473984602,
+    "wof:lastmodified":1496894840,
     "wof:name":"F LEUCHTEN GMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

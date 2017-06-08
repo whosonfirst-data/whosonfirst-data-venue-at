@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4629402161,48.1628990173,13.4629402161,48.1628990173",
     "geom:latitude":48.162899,
     "geom:longitude":13.46294,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835689,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XZtCaKDqFCRryXtsWXjgj_48.162899_13.462940@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897088,
-    "wof:geomhash":"066dc3e77503b9db067c17cfbff28478",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dedf237e7ca224ff2a15a376e09d0d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835689,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092013575
+        }
+    ],
     "wof:id":1092013575,
-    "wof:lastmodified":1473983596,
+    "wof:lastmodified":1496887981,
     "wof:name":"RESCHENEDER KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

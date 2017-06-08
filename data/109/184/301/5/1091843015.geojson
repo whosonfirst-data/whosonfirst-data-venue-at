@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1354722977,47.912563324,13.1354722977,47.912563324",
     "geom:latitude":47.912563,
     "geom:longitude":13.135472,
@@ -23,17 +24,33 @@
     "sg:postcode":"5201",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cWVznklzDOEn1pfZ1GAQX_47.912563_13.135472@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889394,
-    "wof:geomhash":"abb62166b21284ecec5220aaaaf4e88d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7cad03afe71f8b2d85fc556b9b997e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091843015
+        }
+    ],
     "wof:id":1091843015,
-    "wof:lastmodified":1473983910,
+    "wof:lastmodified":1496895796,
     "wof:name":"Gottfried Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

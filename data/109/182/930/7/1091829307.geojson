@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1753368378,47.4934768677,13.1753368378,47.4934768677",
     "geom:latitude":47.493477,
     "geom:longitude":13.175337,
@@ -23,17 +24,33 @@
     "sg:postcode":"5451",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837041,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tAX20Ss3N1MRqU46uP7Lu_47.493477_13.175337@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888765,
-    "wof:geomhash":"c7a6f232fbdbb273a42eb8e39f936897",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1be6ae88dc3e736e7540fb9a5879f8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837041,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091829307
+        }
+    ],
     "wof:id":1091829307,
-    "wof:lastmodified":1473985314,
+    "wof:lastmodified":1496894179,
     "wof:name":"Raiffeisenkasse Werfen regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

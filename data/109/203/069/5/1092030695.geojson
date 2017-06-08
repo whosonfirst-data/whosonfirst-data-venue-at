@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3746738434,48.0236434937,16.3746738434,48.0236434937",
     "geom:latitude":48.023643,
     "geom:longitude":16.374674,
@@ -23,17 +24,34 @@
     "sg:postcode":"2482",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836863,
+        85632785,
+        101784495,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4crzrIFzTRrOteSp7JBZ3r_48.023643_16.374674@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897750,
-    "wof:geomhash":"02b2dc1f9ac3a43482eccff0774662e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12f345b8a2f230418f5df046ed53b9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836863,
+            "locality_id":101784495,
+            "region_id":85681671,
+            "venue_id":1092030695
+        }
+    ],
     "wof:id":1092030695,
-    "wof:lastmodified":1473983460,
+    "wof:lastmodified":1496893096,
     "wof:name":"Drucker Fritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

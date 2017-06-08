@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4888086319,48.2039489746,13.4888086319,48.2039489746",
     "geom:latitude":48.203949,
     "geom:longitude":13.488809,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"internetpartner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56CQHwq5ObnYm1Y3vrtnRb_48.203949_13.488809@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908269,
-    "wof:geomhash":"d4197219593cd9f3ec94ca3b1164d484",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2260850bc63f18f7615afab967dd1ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1092262281
+        }
+    ],
     "wof:id":1092262281,
-    "wof:lastmodified":1473983879,
+    "wof:lastmodified":1496887899,
     "wof:name":"Internet & Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

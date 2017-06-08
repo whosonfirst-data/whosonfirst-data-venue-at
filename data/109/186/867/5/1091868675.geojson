@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6418571472,47.2208366394,9.6418571472,47.2208366394",
     "geom:latitude":47.220837,
     "geom:longitude":9.641857,
@@ -32,17 +33,34 @@
         "biological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837941,
+        85632785,
+        101766255,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aR5OiiBB8q59MixcfoSgr_47.220837_9.641857@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890598,
-    "wof:geomhash":"0361251228dc907e65786e5a1fa5da08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e5fbc50f1bba3a54c62d753f1d9bd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837941,
+            "locality_id":101766255,
+            "region_id":85681649,
+            "venue_id":1091868675
+        }
+    ],
     "wof:id":1091868675,
-    "wof:lastmodified":1473985289,
+    "wof:lastmodified":1496900982,
     "wof:name":"Bregenzer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

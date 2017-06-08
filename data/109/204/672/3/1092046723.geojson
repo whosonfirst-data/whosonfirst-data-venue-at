@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2605695724,47.0716133118,11.2605695724,47.0716133118",
     "geom:latitude":47.071613,
     "geom:longitude":11.26057,
@@ -28,17 +29,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7caOUGFu0pGpJskUigRiU0_47.071613_11.260570@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898382,
-    "wof:geomhash":"b1587e1269fcaeae7c3380325f2fbdb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6ea39a0122df0072c70fd290d0141ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092046723
+        }
+    ],
     "wof:id":1092046723,
-    "wof:lastmodified":1473983929,
+    "wof:lastmodified":1496898543,
     "wof:name":"Hotel Gasteigerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

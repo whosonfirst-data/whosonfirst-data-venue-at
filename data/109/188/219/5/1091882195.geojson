@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2810077667,48.0435791016,16.2810077667,48.0435791016",
     "geom:latitude":48.043579,
     "geom:longitude":16.281008,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836199,
+        85632785,
+        101833231,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FpOJOkYb7Wjhb9zMyebY6_48.043579_16.281008@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891227,
-    "wof:geomhash":"0e0ee2f9ea613096349ff359b8657bea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2c21db47267043fc1f86a200e4a0888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836199,
+            "locality_id":101833231,
+            "region_id":85681671,
+            "venue_id":1091882195
+        }
+    ],
     "wof:id":1091882195,
-    "wof:lastmodified":1473983801,
+    "wof:lastmodified":1496889973,
     "wof:name":"ZUM 66ER ROSCHMANN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

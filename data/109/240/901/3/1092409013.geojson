@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2354650497,47.2625160217,11.2354650497,47.2625160217",
     "geom:latitude":47.262516,
     "geom:longitude":11.235465,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"knes.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837355,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZbqGZLr6DzZl3ILBP4Pbu_47.262516_11.235465@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914813,
-    "wof:geomhash":"39580d814f69cd3ac4bf88dcc433f400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76d270f8f7ed4ae5f8f9fd8d5c074831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837355,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092409013
+        }
+    ],
     "wof:id":1092409013,
-    "wof:lastmodified":1473984951,
+    "wof:lastmodified":1496897236,
     "wof:name":"Norbert Knes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

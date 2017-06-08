@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2626857758,48.1846885681,16.2626857758,48.1846885681",
     "geom:latitude":48.184689,
     "geom:longitude":16.262686,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916023,
-    "wof:geomhash":"c8a3246bfc85b803af71c06a5899cb76",
+    "wof:geomhash":"50f51b7a8d2c203e7a1a0a01b036ecd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092432449
         }
     ],
     "wof:id":1092432449,
-    "wof:lastmodified":1473983731,
+    "wof:lastmodified":1496904457,
     "wof:name":"Bundesanstalt f Agrarwirtschaft",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

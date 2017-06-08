@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0686817169,47.7135162354,16.0686817169,47.7135162354",
     "geom:latitude":47.713516,
     "geom:longitude":16.068682,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XFaCCcRtsMZSoR6VKdTwj_47.713516_16.068682@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913529,
-    "wof:geomhash":"9d4efc2c9f0fcea7306688f62ed56b9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c9105427d7c69c690bd744ede8b42bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092382045
+        }
+    ],
     "wof:id":1092382045,
-    "wof:lastmodified":1473983798,
+    "wof:lastmodified":1496885886,
     "wof:name":"AK LEVENT Pizzeria Ristorante Riccardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

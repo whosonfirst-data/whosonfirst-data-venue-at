@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3671197891,47.2708053589,11.3671197891,47.2708053589",
     "geom:latitude":47.270805,
     "geom:longitude":11.36712,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904367,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901366,
-    "wof:geomhash":"121e087d77fbb44e3d20432c27778341",
+    "wof:geomhash":"510446b2a2ddfd893a45ce2d91ebf701",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1092111559
         }
     ],
     "wof:id":1092111559,
-    "wof:lastmodified":1473983712,
+    "wof:lastmodified":1496899349,
     "wof:name":"M\u00e4hner Hans",
     "wof:parent_id":85904367,
     "wof:placetype":"venue",

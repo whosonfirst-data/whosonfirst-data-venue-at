@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3338680267,47.1084327698,15.3338680267,47.1084327698",
     "geom:latitude":47.108433,
     "geom:longitude":15.333868,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895882,
-    "wof:geomhash":"e0d5b79ffc7a6d5763ffeb95c9a95c7c",
+    "wof:geomhash":"eb0e37d21b0425716d51ca60b05837fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1091984747
         }
     ],
     "wof:id":1091984747,
-    "wof:lastmodified":1473983939,
+    "wof:lastmodified":1496911822,
     "wof:name":"Reisner Johann Dipl-Ing",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

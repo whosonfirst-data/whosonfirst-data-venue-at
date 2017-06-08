@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2231616974,47.4416923523,12.2231616974,47.4416923523",
     "geom:latitude":47.441692,
     "geom:longitude":12.223162,
@@ -23,17 +24,33 @@
     "sg:postcode":"6363",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837381,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OJfDvq44FpcOm6VAbFoIs_47.441692_12.223162@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888421,
-    "wof:geomhash":"803a928a77744d92ceac2c857ff31abc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"769237fc384a306255dd31fe2bc9befc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837381,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091821619
+        }
+    ],
     "wof:id":1091821619,
-    "wof:lastmodified":1473983756,
+    "wof:lastmodified":1496897437,
     "wof:name":"Bahnhof Westendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0743694305,47.8025093079,13.0743694305,47.8025093079",
     "geom:latitude":47.802509,
     "geom:longitude":13.074369,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903809,
-    "wof:geomhash":"c7281444c4b5a896c7c2b6c454e62b9e",
+    "wof:geomhash":"1e7264a2fad3adc64b3789b1e82d52fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092162909
         }
     ],
     "wof:id":1092162909,
-    "wof:lastmodified":1473983894,
+    "wof:lastmodified":1496922885,
     "wof:name":"Achleitner Raum + Design GesmbH & Co KG",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

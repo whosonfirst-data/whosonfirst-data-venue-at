@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1913375854,48.223487854,16.1913375854,48.223487854",
     "geom:latitude":48.223488,
     "geom:longitude":16.191338,
@@ -31,17 +32,34 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835891,
+        85632785,
+        101784595,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nbb7H1QUsbAmt6jahUjSR_48.223488_16.191338@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904160,
-    "wof:geomhash":"c146ad5292e9fb240443e0913d7e3915",
-    "wof:hierarchy":[],
+    "wof:geomhash":"426e541bbcac7737d528881c370bb981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108835891,
+            "locality_id":101784595,
+            "region_id":85681671,
+            "venue_id":1092170877
+        }
+    ],
     "wof:id":1092170877,
-    "wof:lastmodified":1473983551,
+    "wof:lastmodified":1496903169,
     "wof:name":"B & M Fuhrparkmanagement GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

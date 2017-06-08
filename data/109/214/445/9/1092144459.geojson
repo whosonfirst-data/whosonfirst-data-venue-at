@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5163917542,48.2101402283,16.5163917542,48.2101402283",
     "geom:latitude":48.21014,
     "geom:longitude":16.516392,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902953,
-    "wof:geomhash":"6357d8221c14e3292075debc6f7f4283",
+    "wof:geomhash":"1a45774fc2c92bbb78482630d170fdb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092144459
         }
     ],
     "wof:id":1092144459,
-    "wof:lastmodified":1473984206,
+    "wof:lastmodified":1496929395,
     "wof:name":"Wanderer Jutta",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

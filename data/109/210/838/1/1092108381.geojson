@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5088214874,48.2147598267,16.5088214874,48.2147598267",
     "geom:latitude":48.21476,
     "geom:longitude":16.508821,
@@ -25,10 +26,13 @@
     "sg:website":"abschleppdienst-abw.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901214,
-    "wof:geomhash":"d7eff3fb074f804507140e0e09834e73",
+    "wof:geomhash":"72d02054f86b577eee55181a597fc74a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092108381
         }
     ],
     "wof:id":1092108381,
-    "wof:lastmodified":1473984936,
+    "wof:lastmodified":1496928444,
     "wof:name":"A B W Abschleppdienst Bauer Wien GesmbH",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

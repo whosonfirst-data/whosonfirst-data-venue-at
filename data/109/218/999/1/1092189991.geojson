@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5240058899,47.8448181152,16.5240058899,47.8448181152",
     "geom:latitude":47.844818,
     "geom:longitude":16.524006,
@@ -31,17 +32,34 @@
         "poster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z10Qu1rel3En5sC4nN6Yv_47.844818_16.524006@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905025,
-    "wof:geomhash":"583e9a12a1d9f11e91bd90a15553c700",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d283d189a309846795622367fb648dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092189991
+        }
+    ],
     "wof:id":1092189991,
-    "wof:lastmodified":1473985233,
+    "wof:lastmodified":1496908865,
     "wof:name":"Graphische Werkstatt GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

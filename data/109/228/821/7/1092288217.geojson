@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4734745026,47.9950752258,16.4734745026,47.9950752258",
     "geom:latitude":47.995075,
     "geom:longitude":16.473475,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836607,
+        85632785,
+        101785705,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uZsKDAcEfVz15nwsnvSHb_47.995075_16.473475@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909371,
-    "wof:geomhash":"1bd6da14c2813a93c00bcc0e0811ac2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e68fec272f90e4de45bc051f30db4bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836607,
+            "locality_id":101785705,
+            "region_id":85681671,
+            "venue_id":1092288217
+        }
+    ],
     "wof:id":1092288217,
-    "wof:lastmodified":1473985034,
+    "wof:lastmodified":1496891887,
     "wof:name":"Wolf & Swoboda KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

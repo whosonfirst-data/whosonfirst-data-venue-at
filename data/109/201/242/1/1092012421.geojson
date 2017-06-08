@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6473941803,46.7802581787,12.6473941803,46.7802581787",
     "geom:latitude":46.780258,
     "geom:longitude":12.647394,
@@ -32,17 +33,33 @@
         "strip"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837489,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GghHo0Y33PHxNPA1hxmMo_46.780258_12.647394@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897040,
-    "wof:geomhash":"fd60b9ddb5d9aaf1ab8fb674577de7c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c5d93a2e58c1f22582a00aa65919b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837489,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092012421
+        }
+    ],
     "wof:id":1092012421,
-    "wof:lastmodified":1473983404,
+    "wof:lastmodified":1496898085,
     "wof:name":"Theurl Leimholzbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

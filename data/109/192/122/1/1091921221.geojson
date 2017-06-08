@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2733297348,48.0703315735,14.2733297348,48.0703315735",
     "geom:latitude":48.070332,
     "geom:longitude":14.27333,
@@ -36,17 +37,33 @@
     ],
     "sg:website":"europart.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836123,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LxYEpCpFZ4Qb6aon7930C_48.070332_14.273330@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893039,
-    "wof:geomhash":"08d5a03f3359100955521d53d1daa95b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8df5db478c2383bb2eafe0497042e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836123,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091921221
+        }
+    ],
     "wof:id":1091921221,
-    "wof:lastmodified":1473983546,
+    "wof:lastmodified":1496889593,
     "wof:name":"Josef Grossauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5939149857,47.291683197,11.5939149857,47.291683197",
     "geom:latitude":47.291683,
     "geom:longitude":11.593915,
@@ -31,17 +32,34 @@
         "catering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837645,
+        85632785,
+        101844497,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sjQp2H2ORHRVfdf81C3Ar_47.291683_11.593915@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905434,
-    "wof:geomhash":"bd5cfbdd0e56f98837a0218b700484d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bf6e393308460b1c8ce77af2220172c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837645,
+            "locality_id":101844497,
+            "region_id":85681661,
+            "venue_id":1092199611
+        }
+    ],
     "wof:id":1092199611,
-    "wof:lastmodified":1473985311,
+    "wof:lastmodified":1496898980,
     "wof:name":"Meraner Catering GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

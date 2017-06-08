@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5174598694,47.8464813232,16.5174598694,47.8464813232",
     "geom:latitude":47.846481,
     "geom:longitude":16.51746,
@@ -33,17 +34,34 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hVzH7Pab4QShG27LUt9Mn_47.846481_16.517460@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889002,
-    "wof:geomhash":"2d835aaaa5afe5f2a292ef37475f0276",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30ba68e85891142255ff357a11660516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1091834153
+        }
+    ],
     "wof:id":1091834153,
-    "wof:lastmodified":1473984102,
+    "wof:lastmodified":1496908787,
     "wof:name":"DER ANKER ALLGEMEINE VERSICHERUNGS AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

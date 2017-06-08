@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6007661819,47.3288955688,9.6007661819,47.3288955688",
     "geom:latitude":47.328896,
     "geom:longitude":9.600766,
@@ -31,17 +32,34 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837977,
+        85632785,
+        101827455,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R64j8b0lh00YOiQSqg8ZQ_47.328896_9.600766@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889797,
-    "wof:geomhash":"ed8006d3e24bfd2de544449b1497098e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c5f383a3641e0e0e71c149329563f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837977,
+            "locality_id":101827455,
+            "region_id":85681649,
+            "venue_id":1091851861
+        }
+    ],
     "wof:id":1091851861,
-    "wof:lastmodified":1473983648,
+    "wof:lastmodified":1496901220,
     "wof:name":"Kr\u00e4utler M\u00f6belbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

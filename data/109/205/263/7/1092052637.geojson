@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2735795975,46.7747612,15.2735795975,46.7747612",
     "geom:latitude":46.774761,
     "geom:longitude":15.27358,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839283,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L6Dzl5DyBbo4IuDjvYMfX_46.774761_15.273580@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898614,
-    "wof:geomhash":"48620c73bc75de7d42affe0d2b33e73e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dacfdce6aef3ea54ca9ce37f1a26ae59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839283,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092052637
+        }
+    ],
     "wof:id":1092052637,
-    "wof:lastmodified":1473983842,
+    "wof:lastmodified":1496912504,
     "wof:name":"FAUTH GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

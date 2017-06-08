@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0775518417,47.8017730713,13.0775518417,47.8017730713",
     "geom:latitude":47.801773,
     "geom:longitude":13.077552,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912493,
-    "wof:geomhash":"70de2c70154d1d88e83ea71df289710c",
+    "wof:geomhash":"6416be478ed8bf5234b9418c87ae7cb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092359445
         }
     ],
     "wof:id":1092359445,
-    "wof:lastmodified":1473985295,
+    "wof:lastmodified":1496894451,
     "wof:name":"Fu\u00dfbodenforum Thomas Kirchtag GmbH",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

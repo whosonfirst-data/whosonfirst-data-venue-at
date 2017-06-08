@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4207315445,47.259513855,11.4207315445,47.259513855",
     "geom:latitude":47.259514,
     "geom:longitude":11.420732,
@@ -24,14 +25,14 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
-        85898595,
-        102049735,
+        85898597,
         102191581,
+        1108837687,
+        85632785,
         101748061,
         102049723,
-        85898597
+        85681661,
+        85898595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,12 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473902861,
-    "wof:geomhash":"327cdfd9033f35e6b5e9979836d556a9",
+    "wof:geomhash":"9b1fc78881ed332153d728d97757b32f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
-            "neighbourhood_id":85898595,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85898597,
             "region_id":85681661,
             "venue_id":1092142537
         },
@@ -52,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
             "locality_id":101748061,
-            "neighbourhood_id":85898597,
+            "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092142537
         }
     ],
     "wof:id":1092142537,
-    "wof:lastmodified":1473983900,
+    "wof:lastmodified":1496899410,
     "wof:name":"ICW - Werbeagentur",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

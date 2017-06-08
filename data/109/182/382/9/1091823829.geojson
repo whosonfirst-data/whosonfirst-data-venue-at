@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0737943649,48.3500518799,14.0737943649,48.3500518799",
     "geom:latitude":48.350052,
     "geom:longitude":14.073794,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"tischlerei-hummer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836147,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jb9iOcDnpTeXTAvd49tfX_48.350052_14.073794@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888519,
-    "wof:geomhash":"57715a364bde18ecc089861dfbad729c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9018d8fdfeaa3d08956e0b9199b88d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836147,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091823829
+        }
+    ],
     "wof:id":1091823829,
-    "wof:lastmodified":1473984270,
+    "wof:lastmodified":1496889775,
     "wof:name":"Johann Hummer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

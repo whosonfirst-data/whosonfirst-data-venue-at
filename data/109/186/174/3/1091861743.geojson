@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0088024139,46.9346580505,16.0088024139,46.9346580505",
     "geom:latitude":46.934658,
     "geom:longitude":16.008802,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"schreiner-fehring.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839261,
+        85632785,
+        101788985,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PiynRDx1OA8OBN56ewRv6_46.934658_16.008802@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890287,
-    "wof:geomhash":"91c4786156e2ba2bfcc384edf078b190",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a94fbfcd77f459e68ef1f3b6dad1c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839261,
+            "locality_id":101788985,
+            "region_id":85681687,
+            "venue_id":1091861743
+        }
+    ],
     "wof:id":1091861743,
-    "wof:lastmodified":1473983732,
+    "wof:lastmodified":1496912345,
     "wof:name":"Bestattung Schreiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2513771057,47.8933525085,16.2513771057,47.8933525085",
     "geom:latitude":47.893353,
     "geom:longitude":16.251377,
@@ -34,17 +35,34 @@
     ],
     "sg:website":"pfaffeneder.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834873,
+        85632785,
+        101833123,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J1L9mQ23LOSmnWwOOSleD_47.893353_16.251377@1306268274"
     },
     "wof:country":"AT",
     "wof:created":1473902259,
-    "wof:geomhash":"ed70821e3082ab9fe3f6999f40274a98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd8cc0ca23a84fbe6ee62c701dd29d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834873,
+            "locality_id":101833123,
+            "region_id":85681671,
+            "venue_id":1092129771
+        }
+    ],
     "wof:id":1092129771,
-    "wof:lastmodified":1473985314,
+    "wof:lastmodified":1496883232,
     "wof:name":"Andreas Pfaffeneder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

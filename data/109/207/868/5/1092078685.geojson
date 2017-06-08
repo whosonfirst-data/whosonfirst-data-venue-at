@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.9621248245,47.4587020874,11.9621248245,47.4587020874",
     "geom:latitude":47.458702,
     "geom:longitude":11.962125,
@@ -23,17 +24,33 @@
     "sg:postcode":"6250",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837403,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ao7OhMFF3qbX1jbUZSjWW_47.458702_11.962125@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899701,
-    "wof:geomhash":"8f7467c71255bf0dd24878def4ca01d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"390baed40bb1b8968693bd8017619570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837403,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092078685
+        }
+    ],
     "wof:id":1092078685,
-    "wof:lastmodified":1473984940,
+    "wof:lastmodified":1496897707,
     "wof:name":"Landgasthof St Leonhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

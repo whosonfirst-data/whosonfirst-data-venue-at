@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.195520401,48.2323722839,16.195520401,48.2323722839",
     "geom:latitude":48.232372,
     "geom:longitude":16.19552,
@@ -32,17 +33,34 @@
         "underground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835891,
+        85632785,
+        101784595,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AzFH8fS82jHcBK6mR2Jqn_48.232372_16.195520@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905704,
-    "wof:geomhash":"e4a97749f83e4c6da2a594fdd316a4e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15c6c1afcdeff59c956572095f3e10ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108835891,
+            "locality_id":101784595,
+            "region_id":85681671,
+            "venue_id":1092204037
+        }
+    ],
     "wof:id":1092204037,
-    "wof:lastmodified":1473984244,
+    "wof:lastmodified":1496888763,
     "wof:name":"Erich Herold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

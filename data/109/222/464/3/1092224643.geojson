@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6431694031,47.2692146301,9.6431694031,47.2692146301",
     "geom:latitude":47.269215,
     "geom:longitude":9.643169,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906599,
-    "wof:geomhash":"eb2319100fb0188f6b9d1c86f2958a68",
+    "wof:geomhash":"738e079685828100adf96740b12c650e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092224643
         }
     ],
     "wof:id":1092224643,
-    "wof:lastmodified":1473984380,
+    "wof:lastmodified":1496901668,
     "wof:name":"Nachbaur Roland",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

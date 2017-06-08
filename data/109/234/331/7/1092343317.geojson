@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5066204071,47.2817993164,11.5066204071,47.2817993164",
     "geom:latitude":47.281799,
     "geom:longitude":11.50662,
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911769,
-    "wof:geomhash":"eadb3af4b549f90b82bbef1c30a3a2bc",
+    "wof:geomhash":"d9ca84261fccc02cba9e2edce7accd95",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092343317
         }
     ],
     "wof:id":1092343317,
-    "wof:lastmodified":1473983912,
+    "wof:lastmodified":1496898715,
     "wof:name":"EISENKIES GESMBH & CO KG",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

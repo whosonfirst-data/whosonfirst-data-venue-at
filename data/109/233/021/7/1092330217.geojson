@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6111326218,47.2662849426,9.6111326218,47.2662849426",
     "geom:latitude":47.266285,
     "geom:longitude":9.611133,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911222,
-    "wof:geomhash":"71fbe8cdb9fe8db65fa229aeb8905de7",
+    "wof:geomhash":"b16f326725a74b1ed7230fdeba0a00f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092330217
         }
     ],
     "wof:id":1092330217,
-    "wof:lastmodified":1473983374,
+    "wof:lastmodified":1496900967,
     "wof:name":"Vonbank Naturfarben",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

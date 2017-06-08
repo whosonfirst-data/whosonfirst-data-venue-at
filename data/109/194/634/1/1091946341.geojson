@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.766371727,47.4021148682,9.766371727,47.4021148682",
     "geom:latitude":47.402115,
     "geom:longitude":9.766372,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894217,
-    "wof:geomhash":"4497fafcec48980faa9e6fe8585b65fc",
+    "wof:geomhash":"67b4713e0c0ce17922f16e1025e95a1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091946341
         }
     ],
     "wof:id":1091946341,
-    "wof:lastmodified":1473984685,
+    "wof:lastmodified":1496900727,
     "wof:name":"Fontain Franz",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

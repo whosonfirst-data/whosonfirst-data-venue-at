@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4613876343,48.4724197388,15.4613876343,48.4724197388",
     "geom:latitude":48.47242,
     "geom:longitude":15.461388,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834933,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LX1sxVqtVwjQbTucfkhcA_48.472420_15.461388@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889793,
-    "wof:geomhash":"d20cc8aa00032bea1d5609e4c1ee7f1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e2211322eec33cdc24405cb8f3ef248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108834933,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091851761
+        }
+    ],
     "wof:id":1091851761,
-    "wof:lastmodified":1473983645,
+    "wof:lastmodified":1496883609,
     "wof:name":"Ing. Martin Kohl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

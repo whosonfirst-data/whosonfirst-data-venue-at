@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8251152039,47.2872962952,12.8251152039,47.2872962952",
     "geom:latitude":47.287296,
     "geom:longitude":12.825115,
@@ -28,17 +29,33 @@
     "sg:postcode":"5671",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dQUhWEB9w6cQV7qynuGuv_47.287296_12.825115@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898487,
-    "wof:geomhash":"c1cc243a25900fad2ba49336b5172450",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8986f1a0fe8e2ee92fa9f95bbf32b0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092049459
+        }
+    ],
     "wof:id":1092049459,
-    "wof:lastmodified":1473984479,
+    "wof:lastmodified":1496895892,
     "wof:name":"Hotel-Gasthof Lukashansl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

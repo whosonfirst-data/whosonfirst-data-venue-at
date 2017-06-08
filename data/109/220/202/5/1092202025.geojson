@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2158565521,48.207244873,16.2158565521,48.207244873",
     "geom:latitude":48.207245,
     "geom:longitude":16.215857,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905577,
-    "wof:geomhash":"6da5f9a3bae1b70e3a7d21e7a26bbda4",
+    "wof:geomhash":"b7e093552cfa75dcc93f2100f5f3974a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092202025
         }
     ],
     "wof:id":1092202025,
-    "wof:lastmodified":1473983838,
+    "wof:lastmodified":1496902366,
     "wof:name":"APPLIED CHEMICALS HANDELSGES.MBH",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

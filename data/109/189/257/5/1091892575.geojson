@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2203330994,48.2069549561,16.2203330994,48.2069549561",
     "geom:latitude":48.206955,
     "geom:longitude":16.220333,
@@ -25,10 +26,13 @@
     "sg:website":"www.schuss.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891744,
-    "wof:geomhash":"d7fe54b897954d98983871241c703ff8",
+    "wof:geomhash":"d37bf3ae4005db076e7be991d4cb0519",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1091892575
         }
     ],
     "wof:id":1091892575,
-    "wof:lastmodified":1473983927,
+    "wof:lastmodified":1496904924,
     "wof:name":"Adolf Schuss B\u00fcromaschinenhandel GmbH & Co KG",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

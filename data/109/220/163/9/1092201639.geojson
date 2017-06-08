@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5369434357,48.1776733398,14.5369434357,48.1776733398",
     "geom:latitude":48.177673,
     "geom:longitude":14.536943,
@@ -36,17 +37,34 @@
         "pulp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835825,
+        85632785,
+        101844595,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iLNXiFnHOL2S3t3Iherqi_48.177673_14.536943@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905550,
-    "wof:geomhash":"0c9e458f851fc1c07af9fb0d6ce12338",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4e630701fa778ffbf514cdd760062cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835825,
+            "locality_id":101844595,
+            "region_id":85681671,
+            "venue_id":1092201639
+        }
+    ],
     "wof:id":1092201639,
-    "wof:lastmodified":1473983743,
+    "wof:lastmodified":1496888537,
     "wof:name":"ZTA Zellstofftechnologie & Anlagenbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

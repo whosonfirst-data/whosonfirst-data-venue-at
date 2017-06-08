@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1881799698,47.3290138245,11.1881799698,47.3290138245",
     "geom:latitude":47.329014,
     "geom:longitude":11.18818,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837643,
+        85632785,
+        101789079,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05TjweoCJQt71C7ggR06Zt_47.329014_11.188180@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906525,
-    "wof:geomhash":"e1bcfa076f75223607944399fe9c60cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfef62119049ce5d26cec53b209bf975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837643,
+            "locality_id":101789079,
+            "region_id":85681661,
+            "venue_id":1092222857
+        }
+    ],
     "wof:id":1092222857,
-    "wof:lastmodified":1473984029,
+    "wof:lastmodified":1496898899,
     "wof:name":"Taxi Seefeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

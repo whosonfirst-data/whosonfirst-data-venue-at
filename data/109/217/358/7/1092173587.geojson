@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7900753021,46.8136482239,13.7900753021,46.8136482239",
     "geom:latitude":46.813648,
     "geom:longitude":13.790075,
@@ -23,17 +24,33 @@
     "sg:postcode":"9546",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aMnZP9VgY6lJnzEXat33Z_46.813648_13.790075@1306268280"
     },
     "wof:country":"AT",
     "wof:created":1473904275,
-    "wof:geomhash":"022fac0e115b338122b676fae67dc153",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57b4d7b4180eb7c1648641d118684d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092173587
+        }
+    ],
     "wof:id":1092173587,
-    "wof:lastmodified":1473984037,
+    "wof:lastmodified":1496906795,
     "wof:name":"Billa AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

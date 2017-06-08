@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3757066727,47.2304000854,11.3757066727,47.2304000854",
     "geom:latitude":47.2304,
     "geom:longitude":11.375707,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898506,
-    "wof:geomhash":"b9f17109851a61872d8050a7517c19ab",
+    "wof:geomhash":"48b34ff7de8836abb82b5718a750b70c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092049931
         }
     ],
     "wof:id":1092049931,
-    "wof:lastmodified":1473984568,
+    "wof:lastmodified":1496898471,
     "wof:name":"Hotel-Restaurant Muttererhof",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

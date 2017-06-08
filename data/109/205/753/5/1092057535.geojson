@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6255941391,48.867061615,15.6255941391,48.867061615",
     "geom:latitude":48.867062,
     "geom:longitude":15.625594,
@@ -33,17 +34,33 @@
         "tool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835741,
+        85632785,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qfJYARbCleAHtz5dcCiSc_48.867062_15.625594@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898809,
-    "wof:geomhash":"f70309bbfb0214e45392cef359542ef8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8b0f074e1af49ab765fa4fba51ac692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835741,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092057535
+        }
+    ],
     "wof:id":1092057535,
-    "wof:lastmodified":1473984603,
+    "wof:lastmodified":1496888179,
     "wof:name":"Eduard M\u00fcllner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

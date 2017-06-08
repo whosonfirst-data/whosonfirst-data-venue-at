@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0610580444,47.749042511,13.0610580444,47.749042511",
     "geom:latitude":47.749043,
     "geom:longitude":13.061058,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895861,
-    "wof:geomhash":"57f648af66ea47ec1895143ea4d89b48",
+    "wof:geomhash":"2ffd1f88f13e3d03a4d4d01e6c4df735",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1091984219
         }
     ],
     "wof:id":1091984219,
-    "wof:lastmodified":1473983840,
+    "wof:lastmodified":1496895182,
     "wof:name":"Mastny Otto Prof Dipl-Ing",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

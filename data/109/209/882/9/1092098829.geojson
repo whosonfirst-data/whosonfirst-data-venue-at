@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.518286705,47.3713188171,13.518286705,47.3713188171",
     "geom:latitude":47.371319,
     "geom:longitude":13.518287,
@@ -23,17 +24,33 @@
     "sg:postcode":"5550",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837025,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15zLuEZVW5ZLbELjikA6zR_47.371319_13.518287@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900748,
-    "wof:geomhash":"3c8757eb6d5872c33dc90849e15cb7ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bde42e6d4129306588637e90e386252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837025,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092098829
+        }
+    ],
     "wof:id":1092098829,
-    "wof:lastmodified":1473984914,
+    "wof:lastmodified":1496894017,
     "wof:name":"Innviertler Berggasthof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

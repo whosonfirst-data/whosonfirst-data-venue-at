@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2359075546,47.4455108643,12.2359075546,47.4455108643",
     "geom:latitude":47.445511,
     "geom:longitude":12.235908,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36uLVpHSkk8dMGyE4BUwMM_47.445511_12.235908@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906377,
-    "wof:geomhash":"80ecd6cbaae243661634c9b3015554ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cb4bb5db613873cf7a49e073d0e3802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092219433
+        }
+    ],
     "wof:id":1092219433,
-    "wof:lastmodified":1473985237,
+    "wof:lastmodified":1496897251,
     "wof:name":"Wallner Fritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

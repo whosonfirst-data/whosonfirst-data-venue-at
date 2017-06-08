@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3331642151,47.2099761963,16.3331642151,47.2099761963",
     "geom:latitude":47.209976,
     "geom:longitude":16.333164,
@@ -34,17 +35,33 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838651,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rFAN8fuWnkiQE69BGgMVp_47.209976_16.333164@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896003,
-    "wof:geomhash":"1365df66e2373685b9a2d75dbc3cce2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a74519580c6e8ae7adcc40713b1c8a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838651,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091987759
+        }
+    ],
     "wof:id":1091987759,
-    "wof:lastmodified":1473984337,
+    "wof:lastmodified":1496909005,
     "wof:name":"Hubert Handl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

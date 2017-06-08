@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4079742432,48.302066803,16.4079742432,48.302066803",
     "geom:latitude":48.302067,
     "geom:longitude":16.407974,
@@ -24,11 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898397,
+        102191581,
+        1108838101,
         85632785,
-        85898395,
+        101748073,
         102049859,
-        85898397
+        85681667,
+        85898395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,27 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473898070,
-    "wof:geomhash":"fc4c3e47ebc53895f469e6e02deba0ec",
+    "wof:geomhash":"953212b825aea13fdb75ae5dac140f44",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
-            "neighbourhood_id":85898395,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092038501
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
-            "neighbourhood_id":85898397,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
+            "neighbourhood_id":85898395,
             "region_id":85681667,
             "venue_id":1092038501
         }
     ],
     "wof:id":1092038501,
-    "wof:lastmodified":1473984862,
+    "wof:lastmodified":1496929188,
     "wof:name":"Wiener Heuriger Ing Gerhard Klager",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8148527145,47.1551399231,9.8148527145,47.1551399231",
     "geom:latitude":47.15514,
     "geom:longitude":9.814853,
@@ -23,17 +24,34 @@
     "sg:postcode":"6700",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        101827451,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48c3vV4F785cAHuDTqPEAo_47.155140_9.814853@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888398,
-    "wof:geomhash":"c06188133b7e39197de657f0653104f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14adfbe655754721e83919c383660e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":101827451,
+            "region_id":85681649,
+            "venue_id":1091821081
+        }
+    ],
     "wof:id":1091821081,
-    "wof:lastmodified":1473983636,
+    "wof:lastmodified":1496900599,
     "wof:name":"Bahnhof Bludenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

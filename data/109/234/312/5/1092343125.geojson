@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4626951218,48.2190132141,14.4626951218,48.2190132141",
     "geom:latitude":48.219013,
     "geom:longitude":14.462695,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911757,
-    "wof:geomhash":"f627478c9d313b1b3e2e538c06f1514f",
+    "wof:geomhash":"5395677af074bafcb1dd8c7e9c4fd87e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092343125
         }
     ],
     "wof:id":1092343125,
-    "wof:lastmodified":1473983849,
+    "wof:lastmodified":1496887086,
     "wof:name":"EISEN-LENZ-ENNS HANDELSGES.MBH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

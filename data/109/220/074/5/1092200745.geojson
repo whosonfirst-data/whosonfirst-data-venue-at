@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2178220749,47.4262619019,13.2178220749,47.4262619019",
     "geom:latitude":47.426262,
     "geom:longitude":13.217822,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"www.zern.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        101844515,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pUFsJSjDCRZAMTUNTa4Js_47.426262_13.217822@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905502,
-    "wof:geomhash":"c0bd238f0ee5098daefa9ae315f86337",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1972690d484edb22b319fef0a7be996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":101844515,
+            "region_id":85681681,
+            "venue_id":1092200745
+        }
+    ],
     "wof:id":1092200745,
-    "wof:lastmodified":1473983461,
+    "wof:lastmodified":1496893812,
     "wof:name":"ZERN.at - K\u00fchlsysteme Austria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

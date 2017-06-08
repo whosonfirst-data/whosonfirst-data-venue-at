@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3773469925,47.227596283,11.3773469925,47.227596283",
     "geom:latitude":47.227596,
     "geom:longitude":11.377347,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893410,
-    "wof:geomhash":"c86b6a9c8e872fa5cee50dcf6094f725",
+    "wof:geomhash":"b047cf815c4797ad5ede4694351ebc11",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091927909
         }
     ],
     "wof:id":1091927909,
-    "wof:lastmodified":1473984708,
+    "wof:lastmodified":1496898473,
     "wof:name":"Sport 2000 Pfurtscheller",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

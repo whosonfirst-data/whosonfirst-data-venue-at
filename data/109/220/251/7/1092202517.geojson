@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3490877151,47.1174621582,15.3490877151,47.1174621582",
     "geom:latitude":47.117462,
     "geom:longitude":15.349088,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905600,
-    "wof:geomhash":"872d1525e9e675e9a00448aada8a4a8e",
+    "wof:geomhash":"c9076f4d040ff5f2bf1e353fa31859f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092202517
         }
     ],
     "wof:id":1092202517,
-    "wof:lastmodified":1473983898,
+    "wof:lastmodified":1496911842,
     "wof:name":"Neuber GesmbH",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

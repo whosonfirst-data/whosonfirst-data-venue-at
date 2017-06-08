@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4865541458,47.2776489258,11.4865541458,47.2776489258",
     "geom:latitude":47.277649,
     "geom:longitude":11.486554,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910817,
-    "wof:geomhash":"b793e2e31616dc797ba8646ce2dcc5f2",
+    "wof:geomhash":"a6c5eceb8b207ef893ef781d5fff0e44",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092320333
         }
     ],
     "wof:id":1092320333,
-    "wof:lastmodified":1473983396,
+    "wof:lastmodified":1496898736,
     "wof:name":"Auto Hollaus",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4921808243,47.249961853,14.4921808243,47.249961853",
     "geom:latitude":47.249962,
     "geom:longitude":14.492181,
@@ -28,17 +29,33 @@
     "sg:postcode":"8762",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838953,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KWUOq5UNhtXgwYrCzGtvE_47.249962_14.492181@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898445,
-    "wof:geomhash":"ff620c92f5947099ad9e45f94a030445",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fa3e7323f8c399560d19db351da7909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108838953,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092048319
+        }
+    ],
     "wof:id":1092048319,
-    "wof:lastmodified":1473984240,
+    "wof:lastmodified":1496910477,
     "wof:name":"Hotel Saphir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

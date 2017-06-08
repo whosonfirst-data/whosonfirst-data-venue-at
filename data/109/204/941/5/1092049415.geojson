@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0959892273,46.7231292725,14.0959892273,46.7231292725",
     "geom:latitude":46.723129,
     "geom:longitude":14.095989,
@@ -28,17 +29,34 @@
     "sg:postcode":"9560",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        101790125,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31lEZFzd3hl9iXWIfdCzdG_46.723129_14.095989@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898486,
-    "wof:geomhash":"20cec788b8cdd95fc857729d2934c424",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6036ae2ccab44699e47f91203981170f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":101790125,
+            "region_id":85681655,
+            "venue_id":1092049415
+        }
+    ],
     "wof:id":1092049415,
-    "wof:lastmodified":1473984434,
+    "wof:lastmodified":1496905372,
     "wof:name":"Hotel-Garni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

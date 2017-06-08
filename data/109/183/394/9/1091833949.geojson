@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.169588089,47.5831222534,12.169588089,47.5831222534",
     "geom:latitude":47.583122,
     "geom:longitude":12.169588,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rrw42KNlnKsvTRykboSV6_47.583122_12.169588@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888994,
-    "wof:geomhash":"5408515d1e72434b0bbcf67047848e64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84118a959da68988e01195b37607e829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1091833949
+        }
+    ],
     "wof:id":1091833949,
-    "wof:lastmodified":1473984071,
+    "wof:lastmodified":1496897630,
     "wof:name":"VOLKSBANK KUFSTEIN REG.GEN.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

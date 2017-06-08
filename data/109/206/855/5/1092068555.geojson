@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3057289124,46.5174179077,14.3057289124,46.5174179077",
     "geom:latitude":46.517418,
     "geom:longitude":14.305729,
@@ -23,17 +24,33 @@
     "sg:postcode":"9170",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838165,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bHbHnsgE4W9FlvJQIaG9x_46.517418_14.305729@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899252,
-    "wof:geomhash":"fcdf46b9677f1f3155004cea3c9bff4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"594b57b70d083862dd588c97fd05c43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838165,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092068555
+        }
+    ],
     "wof:id":1092068555,
-    "wof:lastmodified":1473984982,
+    "wof:lastmodified":1496906323,
     "wof:name":"Gasthaus Schaidabauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

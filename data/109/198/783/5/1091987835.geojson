@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3556489944,46.8307151794,13.3556489944,46.8307151794",
     "geom:latitude":46.830715,
     "geom:longitude":13.355649,
@@ -34,17 +35,34 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838297,
+        85632785,
+        101834177,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7chhZrrVVoGk0PVoeQ4qhd_46.830715_13.355649@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896006,
-    "wof:geomhash":"0fbc7ac0c0b6e3ce9b011c5b66c20fa7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ef51d05eb619e478d37871474660c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838297,
+            "locality_id":101834177,
+            "region_id":85681655,
+            "venue_id":1091987835
+        }
+    ],
     "wof:id":1091987835,
-    "wof:lastmodified":1473984340,
+    "wof:lastmodified":1496907056,
     "wof:name":"Sepp Laber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

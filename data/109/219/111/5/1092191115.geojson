@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3250436783,47.2679290771,15.3250436783,47.2679290771",
     "geom:latitude":47.267929,
     "geom:longitude":15.325044,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839203,
+        85632785,
+        101787853,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56BxyOtwdu66TIPZOpzPwH_47.267929_15.325044@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905074,
-    "wof:geomhash":"dd7cf933c614f0451025854fd71811b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a51ad186c9dd9c9a23ae99056fc6c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839203,
+            "locality_id":101787853,
+            "region_id":85681687,
+            "venue_id":1092191115
+        }
+    ],
     "wof:id":1092191115,
-    "wof:lastmodified":1473983549,
+    "wof:lastmodified":1496911891,
     "wof:name":"LAGERHAUS GRAZLAND GEN. MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

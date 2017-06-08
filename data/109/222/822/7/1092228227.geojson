@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2495040894,48.1374702454,16.2495040894,48.1374702454",
     "geom:latitude":48.13747,
     "geom:longitude":16.249504,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906751,
-    "wof:geomhash":"27c461b6df375309a57ff0a987adb781",
+    "wof:geomhash":"55716b4236efc57ad2435704971ebed4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092228227
         }
     ],
     "wof:id":1092228227,
-    "wof:lastmodified":1473985192,
+    "wof:lastmodified":1496902461,
     "wof:name":"TGB TECHNISCHE GEB\u00c4UDEBETREUUNG GESMBH",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

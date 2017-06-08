@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2176141739,47.3574485779,13.2176141739,47.3574485779",
     "geom:latitude":47.357449,
     "geom:longitude":13.217614,
@@ -23,17 +24,33 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cf4YB3BnRFOnFTgoeForZ_47.357449_13.217614@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914555,
-    "wof:geomhash":"7cefdcb81151c76acb17d26b9b3554d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc3abe6ae55fe5338b653dfc6a44cf60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092403437
+        }
+    ],
     "wof:id":1092403437,
-    "wof:lastmodified":1473984005,
+    "wof:lastmodified":1496894061,
     "wof:name":"AxFlow GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4221630096,48.1018867493,16.4221630096,48.1018867493",
     "geom:latitude":48.101887,
     "geom:longitude":16.422163,
@@ -34,10 +35,12 @@
     "sg:website":"documatrix.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896752,
-    "wof:geomhash":"7b3072c8d211f44f253b8d7ec467ca1a",
+    "wof:geomhash":"b7c2b1293fe0e98222d6a01ba900de56",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092005399
         }
     ],
     "wof:id":1092005399,
-    "wof:lastmodified":1473984377,
+    "wof:lastmodified":1496886817,
     "wof:name":"DocuMatrix Output- und Informationstechnologie Consulting GmbH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

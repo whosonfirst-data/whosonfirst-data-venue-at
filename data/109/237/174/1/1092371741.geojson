@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2210826874,48.0017242432,16.2210826874,48.0017242432",
     "geom:latitude":48.001724,
     "geom:longitude":16.221083,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913096,
-    "wof:geomhash":"fab38b34bcbe33db8844dd1809db4931",
+    "wof:geomhash":"1554cb5790fcdb5bb4970ab519861458",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092371741
         }
     ],
     "wof:id":1092371741,
-    "wof:lastmodified":1473983773,
+    "wof:lastmodified":1496886050,
     "wof:name":"Pension Radetzky",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7241888046,47.2177009583,10.7241888046,47.2177009583",
     "geom:latitude":47.217701,
     "geom:longitude":10.724189,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"moebel-gabl.at; moebelmarkt-imst.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JovvDdf6nvaEyuGBZG9Ay_47.217701_10.724189@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908329,
-    "wof:geomhash":"ea29e86f7814e648e42fcce098b6ae8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a06e829a5d94db102165237ffda9762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092263745
+        }
+    ],
     "wof:id":1092263745,
-    "wof:lastmodified":1473984147,
+    "wof:lastmodified":1496898336,
     "wof:name":"m\u00f6bel markt GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

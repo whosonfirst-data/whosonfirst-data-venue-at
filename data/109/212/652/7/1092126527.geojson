@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4201526642,48.2981529236,16.4201526642,48.2981529236",
     "geom:latitude":48.298153,
     "geom:longitude":16.420153,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902067,
-    "wof:geomhash":"e8e10418f10d1483858236538abab8d9",
+    "wof:geomhash":"c30863294c293bc9fb780e20d5918bae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092126527
         }
     ],
     "wof:id":1092126527,
-    "wof:lastmodified":1473984647,
+    "wof:lastmodified":1496904991,
     "wof:name":"Stanzell Druck",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

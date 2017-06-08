@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2688121796,47.8333435059,16.2688121796,47.8333435059",
     "geom:latitude":47.833344,
     "geom:longitude":16.268812,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hKw66yiax7biLVB1cXoBt_47.833344_16.268812@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898611,
-    "wof:geomhash":"f273d366715f9138ec43ce305d2fc16c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4acf1779ac1973f731002c03deac2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1092052569
+        }
+    ],
     "wof:id":1092052569,
-    "wof:lastmodified":1473983831,
+    "wof:lastmodified":1496884154,
     "wof:name":"BAUER INTRA EINRICHTUNGSBAU GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7421560287,47.0067443848,14.7421560287,47.0067443848",
     "geom:latitude":47.006744,
     "geom:longitude":14.742156,
@@ -23,17 +24,34 @@
     "sg:postcode":"9463",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838105,
+        85632785,
+        101788973,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LXrAR4Twov9V3JxcQpjZL_47.006744_14.742156@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899423,
-    "wof:geomhash":"d3be6ca5e7b568fc23a3fa1656a9efd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f440d2aa1e4039463d5f08007f876244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838105,
+            "locality_id":101788973,
+            "region_id":85681655,
+            "venue_id":1092072819
+        }
+    ],
     "wof:id":1092072819,
-    "wof:lastmodified":1473983820,
+    "wof:lastmodified":1496905080,
     "wof:name":"Gasthof Hirschenwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

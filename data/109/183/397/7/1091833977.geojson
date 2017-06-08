@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7074108124,47.3456878662,11.7074108124,47.3456878662",
     "geom:latitude":47.345688,
     "geom:longitude":11.707411,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AmAMJmfnPqF0bTbdNMn0h_47.345688_11.707411@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888995,
-    "wof:geomhash":"904474fdcdb9458623565e3a979885a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dd2b95bcca6a572dce4473cebb58a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1091833977
+        }
+    ],
     "wof:id":1091833977,
-    "wof:lastmodified":1473984074,
+    "wof:lastmodified":1496900146,
     "wof:name":"VOLKSBANK TIROL INNSRUCK-SCHWAZ AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

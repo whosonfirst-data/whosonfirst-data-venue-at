@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2560272217,48.1323394775,16.2560272217,48.1323394775",
     "geom:latitude":48.132339,
     "geom:longitude":16.256027,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897434,
-    "wof:geomhash":"3a3da47ba7a7a3baed5e466265cf72e5",
+    "wof:geomhash":"787daa24be709021b1b1de2db43a5759",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092022285
         }
     ],
     "wof:id":1092022285,
-    "wof:lastmodified":1473983753,
+    "wof:lastmodified":1496904216,
     "wof:name":"Pfarramt Rodaun Bergkirche",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6956939697,48.2846107483,15.6956939697,48.2846107483",
     "geom:latitude":48.284611,
     "geom:longitude":15.695694,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        101784543,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39tfcMH5WGbw8fKcTjevq0_48.284611_15.695694@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906535,
-    "wof:geomhash":"3e1e073d1ab492d0fa28783903a9e619",
-    "wof:hierarchy":[],
+    "wof:geomhash":"503fe6e78c3508f560cce89c91e82864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":101784543,
+            "region_id":85681671,
+            "venue_id":1092223029
+        }
+    ],
     "wof:id":1092223029,
-    "wof:lastmodified":1473984042,
+    "wof:lastmodified":1496890031,
     "wof:name":"Taxi-Mietwagen Kerschner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

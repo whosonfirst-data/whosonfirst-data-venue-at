@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0436544418,47.8252296448,13.0436544418,47.8252296448",
     "geom:latitude":47.82523,
     "geom:longitude":13.043654,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903168,
-    "wof:geomhash":"5514c7764d5abb2a34b8f8cf58758d52",
+    "wof:geomhash":"6c9847ce19ef0cba85063d37f737b3d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092149039
         }
     ],
     "wof:id":1092149039,
-    "wof:lastmodified":1473985101,
+    "wof:lastmodified":1496894530,
     "wof:name":"Hort Itzling",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

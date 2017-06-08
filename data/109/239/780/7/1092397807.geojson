@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4054384232,47.2779273987,11.4054384232,47.2779273987",
     "geom:latitude":47.277927,
     "geom:longitude":11.405438,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914319,
-    "wof:geomhash":"673b4bd124e96b3246dadb4b1b8c5c57",
+    "wof:geomhash":"5daf72432333744003312cdab5e76c67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092397807
         }
     ],
     "wof:id":1092397807,
-    "wof:lastmodified":1473984723,
+    "wof:lastmodified":1496899197,
     "wof:name":"Brandmaier Gabriele",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

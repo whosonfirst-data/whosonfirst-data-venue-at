@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5795621872,47.1521759033,15.5795621872,47.1521759033",
     "geom:latitude":47.152176,
     "geom:longitude":15.579562,
@@ -23,17 +24,33 @@
     "sg:postcode":"8063",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839209,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_159D6ho2ZjM833ipgwbK15_47.152176_15.579562@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899225,
-    "wof:geomhash":"29bdfc349c655a96dbcdb74a95e2f93a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03198fce23549027a4933237c954745a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839209,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092067853
+        }
+    ],
     "wof:id":1092067853,
-    "wof:lastmodified":1473984848,
+    "wof:lastmodified":1496911967,
     "wof:name":"Gasthaus Nicklwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

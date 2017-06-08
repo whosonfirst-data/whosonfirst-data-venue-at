@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9930696487,47.7065811157,15.9930696487,47.7065811157",
     "geom:latitude":47.706581,
     "geom:longitude":15.99307,
@@ -31,17 +32,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q41kaGl0f8LndQRblyEvq_47.706581_15.993070@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908477,
-    "wof:geomhash":"e32f06671306fc76fa25bc9449748447",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cd5280211fd4d774bd2c3a7b21125a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092267089
+        }
+    ],
     "wof:id":1092267089,
-    "wof:lastmodified":1473984680,
+    "wof:lastmodified":1496885871,
     "wof:name":"Hans Riegler GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

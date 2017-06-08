@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0790081024,47.7841682434,13.0790081024,47.7841682434",
     "geom:latitude":47.784168,
     "geom:longitude":13.079008,
@@ -24,12 +25,14 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
-        85898461,
-        102049779,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681,
+        85898461,
+        101748065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,27 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473897831,
-    "wof:geomhash":"bec39c4d5cef2eebc68a1c7bc0b08a99",
+    "wof:geomhash":"955a342407dc37dba7a3888e93431855",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
-            "neighbourhood_id":85898461,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092032611
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
-            "neighbourhood_id":85898469,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
+            "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092032611
         }
     ],
     "wof:id":1092032611,
-    "wof:lastmodified":1473983836,
+    "wof:lastmodified":1496922913,
     "wof:name":"Putzhammer Alexander Ing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

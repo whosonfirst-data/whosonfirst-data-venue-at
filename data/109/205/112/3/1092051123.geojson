@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8047800064,47.3425102234,12.8047800064,47.3425102234",
     "geom:latitude":47.34251,
     "geom:longitude":12.80478,
@@ -29,17 +30,33 @@
     "sg:province":"Salzburg",
     "sg:website":"schloss-prielau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6meogNUHiKWUCQXTAeADYK_47.342510_12.804780@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898553,
-    "wof:geomhash":"fdf4935b4fb933c4579350458d652d42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"292a0d3ce7a886b09ba033cc2cfb8082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092051123
+        }
+    ],
     "wof:id":1092051123,
-    "wof:lastmodified":1473983509,
+    "wof:lastmodified":1496896520,
     "wof:name":"Schlo\u00df Prielau Hotel & Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5953035355,47.9469032288,13.5953035355,47.9469032288",
     "geom:latitude":47.946903,
     "geom:longitude":13.595304,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836447,
+        85632785,
+        101833161,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OmQz14dDn3kIR7dFTCNz3_47.946903_13.595304@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913595,
-    "wof:geomhash":"948193b862ad20207a68c288c0025cfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9eb6ca7cb9558e8df5d4c9ce37db2679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836447,
+            "locality_id":101833161,
+            "region_id":85681677,
+            "venue_id":1092383087
+        }
+    ],
     "wof:id":1092383087,
-    "wof:lastmodified":1473984134,
+    "wof:lastmodified":1496891318,
     "wof:name":"Pizzeria Castiglione",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2495336533,48.018245697,13.2495336533,48.018245697",
     "geom:latitude":48.018246,
     "geom:longitude":13.249534,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834745,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7goIYXMqGNoa4qcj5k6rWP_48.018246_13.249534@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908393,
-    "wof:geomhash":"72e42c9e6c216aca9854357a24551293",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a390e944bf6352b799baa18fbb40f0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834745,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092265231
+        }
+    ],
     "wof:id":1092265231,
-    "wof:lastmodified":1473984451,
+    "wof:lastmodified":1496882417,
     "wof:name":"Alfred Werdecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

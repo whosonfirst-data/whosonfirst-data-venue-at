@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1816291809,48.0702476501,13.1816291809,48.0702476501",
     "geom:latitude":48.070248,
     "geom:longitude":13.181629,
@@ -32,17 +33,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834763,
+        85632785,
+        101785727,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66WFbc0jyvt2J6Jo7tL8oK_48.070248_13.181629@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917000,
-    "wof:geomhash":"7dc0bb8f72410db8a1c70a0e166c1d70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a883f2dec1db0fe25c4a17d457083658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834763,
+            "locality_id":101785727,
+            "region_id":85681677,
+            "venue_id":1092453737
+        }
+    ],
     "wof:id":1092453737,
-    "wof:lastmodified":1473983350,
+    "wof:lastmodified":1496882525,
     "wof:name":"Mayr KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

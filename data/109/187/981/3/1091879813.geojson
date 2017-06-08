@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7524776459,47.4130516052,9.7524776459,47.4130516052",
     "geom:latitude":47.413052,
     "geom:longitude":9.752478,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891132,
-    "wof:geomhash":"fad440202a988ea02c5b482ec4882511",
+    "wof:geomhash":"d6976bd40d62495ed71dd4d1887304f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091879813
         }
     ],
     "wof:id":1091879813,
-    "wof:lastmodified":1473985230,
+    "wof:lastmodified":1496900734,
     "wof:name":"Walter Maccani Ges.m.b.H. & Co",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

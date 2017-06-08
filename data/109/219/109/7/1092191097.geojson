@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2147426605,47.4321708679,12.2147426605,47.4321708679",
     "geom:latitude":47.432171,
     "geom:longitude":12.214743,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837381,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Zy46an47Wduse8XOZQfBP_47.432171_12.214743@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905073,
-    "wof:geomhash":"85455d0916431dca00435aecbbfa2587",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83d0d3d1269336f17b821a895ea7ffea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837381,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092191097
+        }
+    ],
     "wof:id":1092191097,
-    "wof:lastmodified":1473983552,
+    "wof:lastmodified":1496897455,
     "wof:name":"JOHANN ST\u00d6CKL LANDMASCHINEN GESMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

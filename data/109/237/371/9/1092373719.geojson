@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3942966461,47.3765335083,13.3942966461,47.3765335083",
     "geom:latitude":47.376534,
     "geom:longitude":13.394297,
@@ -23,17 +24,33 @@
     "sg:postcode":"5542",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837005,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4py6VTEFwEeZYXXOIF8Y1m_47.376534_13.394297@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913180,
-    "wof:geomhash":"f52060103044b44647edb1a92308130e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b93a896e7ff3591fcd454bd96e1fd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837005,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092373719
+        }
+    ],
     "wof:id":1092373719,
-    "wof:lastmodified":1473984253,
+    "wof:lastmodified":1496893912,
     "wof:name":"Scharfetthof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

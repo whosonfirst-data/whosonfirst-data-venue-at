@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1502351761,48.1420707703,15.1502351761,48.1420707703",
     "geom:latitude":48.142071,
     "geom:longitude":15.150235,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836959,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xk5h6lIyezUKbX7Cgjluh_48.142071_15.150235@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895410,
-    "wof:geomhash":"b5794b2c21d154211ffe3d372a646c28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c94d280999795ec5e0c6280e6446cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836959,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091973937
+        }
+    ],
     "wof:id":1091973937,
-    "wof:lastmodified":1473984173,
+    "wof:lastmodified":1496893541,
     "wof:name":"WOLF GRAF",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

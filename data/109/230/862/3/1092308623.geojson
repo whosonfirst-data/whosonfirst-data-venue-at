@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8428115845,47.8534469604,16.8428115845,47.8534469604",
     "geom:latitude":47.853447,
     "geom:longitude":16.842812,
@@ -32,17 +33,34 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838607,
+        85632785,
+        101785757,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lrlXIHrsDIp4LDavZUAsR_47.853447_16.842812@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910300,
-    "wof:geomhash":"08393364760a87a7e7a52463e4ad08ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f019820d3a34e829506485d7eef8cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838607,
+            "locality_id":101785757,
+            "region_id":85681651,
+            "venue_id":1092308623
+        }
+    ],
     "wof:id":1092308623,
-    "wof:lastmodified":1473985226,
+    "wof:lastmodified":1496908675,
     "wof:name":"Johann Zwinger Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

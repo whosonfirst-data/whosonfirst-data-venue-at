@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4973573685,46.7977676392,13.4973573685,46.7977676392",
     "geom:latitude":46.797768,
     "geom:longitude":13.497357,
@@ -23,17 +24,34 @@
     "sg:postcode":"9800",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838301,
+        85632785,
+        101790155,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BHJJpBzMSMCCRgJBRc79K_46.797768_13.497357@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888880,
-    "wof:geomhash":"9aac674a513f350575bdd0090845c47c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14a33fac9edfd389c7d09cf7abdb46ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":101790155,
+            "region_id":85681655,
+            "venue_id":1091831891
+        }
+    ],
     "wof:id":1091831891,
-    "wof:lastmodified":1473983670,
+    "wof:lastmodified":1496907188,
     "wof:name":"Bankomat d BKS-Bank f K\u00e4rnten u Steiermark AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

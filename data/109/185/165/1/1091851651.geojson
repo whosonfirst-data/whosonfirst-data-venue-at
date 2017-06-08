@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9030399323,48.193321228,14.9030399323,48.193321228",
     "geom:latitude":48.193321,
     "geom:longitude":14.90304,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836181,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vdztqfMP29vOzf75bbYFn_48.193321_14.903040@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889789,
-    "wof:geomhash":"a3138dc8008b8bc9896848a25c2af32f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ba2704383b16b99601b6062380d9933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836181,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091851651
+        }
+    ],
     "wof:id":1091851651,
-    "wof:lastmodified":1473983572,
+    "wof:lastmodified":1496889913,
     "wof:name":"Franz Gebetsberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

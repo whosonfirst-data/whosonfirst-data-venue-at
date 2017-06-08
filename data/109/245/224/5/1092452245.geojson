@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0751895905,47.823589325,13.0751895905,47.823589325",
     "geom:latitude":47.823589,
     "geom:longitude":13.07519,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916935,
-    "wof:geomhash":"347cd7e1bb89332aa4a5fbbd3093021c",
+    "wof:geomhash":"52f1b321b3e4dfcbd2ff5b00021ea826",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092452245
         }
     ],
     "wof:id":1092452245,
-    "wof:lastmodified":1473983320,
+    "wof:lastmodified":1496894437,
     "wof:name":"Seitenscheitel Fris\u00f6r",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

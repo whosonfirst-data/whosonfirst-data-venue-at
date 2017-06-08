@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0164146423,47.3123512268,16.0164146423,47.3123512268",
     "geom:latitude":47.312351,
     "geom:longitude":16.016415,
@@ -33,17 +34,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839431,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pyeCyPpFmOOJhgo7oIBVv_47.312351_16.016415@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905097,
-    "wof:geomhash":"a32b9d289f4f0cb28d95d977d7990d77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68c27ed171ae9906bf119780d7efd7bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839431,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092191727
+        }
+    ],
     "wof:id":1092191727,
-    "wof:lastmodified":1473983745,
+    "wof:lastmodified":1496914218,
     "wof:name":"H. Handler Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

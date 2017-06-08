@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4653987885,48.2635726929,16.4653987885,48.2635726929",
     "geom:latitude":48.263573,
     "geom:longitude":16.465399,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889449,
-    "wof:geomhash":"d6fc65e2e40bb4a1349efe959cb53c72",
+    "wof:geomhash":"ad9780598315032b3ecfe7e84ec75f42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091844355
         }
     ],
     "wof:id":1091844355,
-    "wof:lastmodified":1473984134,
+    "wof:lastmodified":1496928569,
     "wof:name":"ASPHALT & BETON GmbH Nfg OHG",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

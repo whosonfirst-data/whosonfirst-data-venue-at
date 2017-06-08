@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.813378334,47.2216644287,9.813378334,47.2216644287",
     "geom:latitude":47.221664,
     "geom:longitude":9.813378,
@@ -23,17 +24,33 @@
     "sg:postcode":"6721",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838065,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63m0pTo2TYoflgn8STLYjd_47.221664_9.813378@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897779,
-    "wof:geomhash":"39f09e211f8629a7f74ed0222e836882",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c9d8570671d877af6fa33ccf7c1fba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838065,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092031249
+        }
+    ],
     "wof:id":1092031249,
-    "wof:lastmodified":1473983561,
+    "wof:lastmodified":1496901804,
     "wof:name":"Handelsagentur Dobler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

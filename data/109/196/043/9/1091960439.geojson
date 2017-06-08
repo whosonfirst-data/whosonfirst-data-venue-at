@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1830291748,47.2582550049,10.1830291748,47.2582550049",
     "geom:latitude":47.258255,
     "geom:longitude":10.183029,
@@ -24,17 +25,33 @@
     "sg:province":"Vorarlberg",
     "sg:website":"http://www.walserberg.at/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838087,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_174uRdmToc91aLGFlOwa7F_47.258255_10.183029@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894840,
-    "wof:geomhash":"02ac12eebaec58523383f7073dbe5943",
-    "wof:hierarchy":[],
+    "wof:geomhash":"220d1399cfffb2f13be53786c5ee68ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838087,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091960439
+        }
+    ],
     "wof:id":1091960439,
-    "wof:lastmodified":1473983376,
+    "wof:lastmodified":1496901874,
     "wof:name":"Hotel Walserberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

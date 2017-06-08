@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8239088058,47.9813766479,13.8239088058,47.9813766479",
     "geom:latitude":47.981377,
     "geom:longitude":13.823909,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835143,
+        85632785,
+        101785623,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JQYdNgPjWwhxsQNcGv7L8_47.981377_13.823909@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913663,
-    "wof:geomhash":"fe3ebd98e712e8aadd3fc72e144ef379",
-    "wof:hierarchy":[],
+    "wof:geomhash":"819950d8b3b5b778dd2b43d582b0feae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835143,
+            "locality_id":101785623,
+            "region_id":85681677,
+            "venue_id":1092384617
+        }
+    ],
     "wof:id":1092384617,
-    "wof:lastmodified":1473984457,
+    "wof:lastmodified":1496885045,
     "wof:name":"Schabanack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

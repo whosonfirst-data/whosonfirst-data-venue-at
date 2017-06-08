@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5434608459,47.8507118225,16.5434608459,47.8507118225",
     "geom:latitude":47.850712,
     "geom:longitude":16.543461,
@@ -23,17 +24,33 @@
     "sg:postcode":"7000",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m3rXR2ryRLiLkyXZ42ph5_47.850712_16.543461@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473902892,
-    "wof:geomhash":"a868b377b3aebbdb2dc9555c16c5f490",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ace67d6a546da15afb245ce5057f14bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092143251
+        }
+    ],
     "wof:id":1092143251,
-    "wof:lastmodified":1473984017,
+    "wof:lastmodified":1496908799,
     "wof:name":"MONDWERK grafik.typographie.illustration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

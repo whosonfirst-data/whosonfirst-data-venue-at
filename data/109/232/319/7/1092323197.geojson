@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.604598999,47.2431297302,9.604598999,47.2431297302",
     "geom:latitude":47.24313,
     "geom:longitude":9.604599,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910935,
-    "wof:geomhash":"ef73dfe2aaa0a222d91a29020f3bb127",
+    "wof:geomhash":"ef287026c0a1217a99e0da92d745d705",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092323197
         }
     ],
     "wof:id":1092323197,
-    "wof:lastmodified":1473984159,
+    "wof:lastmodified":1496900949,
     "wof:name":"Seinader Gerhard",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

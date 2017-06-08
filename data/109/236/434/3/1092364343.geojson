@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2720365524,47.2595558167,11.2720365524,47.2595558167",
     "geom:latitude":47.259556,
     "geom:longitude":11.272037,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912726,
-    "wof:geomhash":"723e738dca4efd0f86c618bd192bde74",
+    "wof:geomhash":"f5c1671dcbba5b9e9f9d934158317f7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092364343
         }
     ],
     "wof:id":1092364343,
-    "wof:lastmodified":1473984348,
+    "wof:lastmodified":1496898652,
     "wof:name":"G\u00e4stehaus Gattringer",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

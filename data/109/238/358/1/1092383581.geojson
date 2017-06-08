@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7607936859,48.5454483032,16.7607936859,48.5454483032",
     "geom:latitude":48.545448,
     "geom:longitude":16.760794,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836973,
+        85632785,
+        101782227,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wBZFckxNLMAmjSAotfvLu_48.545448_16.760794@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913621,
-    "wof:geomhash":"4e48d65751642f0deb5203d87712f48a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b83297bba76c395d6b22f24c639998a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836973,
+            "locality_id":101782227,
+            "region_id":85681671,
+            "venue_id":1092383581
+        }
+    ],
     "wof:id":1092383581,
-    "wof:lastmodified":1473984198,
+    "wof:lastmodified":1496893591,
     "wof:name":"Pizzeria La Volta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

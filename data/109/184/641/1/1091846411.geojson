@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8411464691,46.8220024109,14.8411464691,46.8220024109",
     "geom:latitude":46.822002,
     "geom:longitude":14.841146,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"bm-mueller.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        101790087,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h0qHXj1OzCS7KepmNA0Ta_46.822002_14.841146@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889531,
-    "wof:geomhash":"e728034b99fbfcd03a25e6992cb499e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"862cab1d48b87445a4f200885eb491be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":101790087,
+            "region_id":85681655,
+            "venue_id":1091846411
+        }
+    ],
     "wof:id":1091846411,
-    "wof:lastmodified":1473984405,
+    "wof:lastmodified":1496905225,
     "wof:name":"M\u00fcller Johann GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

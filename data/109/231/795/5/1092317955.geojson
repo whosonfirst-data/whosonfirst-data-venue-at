@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4994859695,47.2742767334,11.4994859695,47.2742767334",
     "geom:latitude":47.274277,
     "geom:longitude":11.499486,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910714,
-    "wof:geomhash":"c13fc5bb16512888244b821c20aa3d6e",
+    "wof:geomhash":"85ac943ec5681b3268a9bcd2cd5a7bcc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092317955
         }
     ],
     "wof:id":1092317955,
-    "wof:lastmodified":1473985116,
+    "wof:lastmodified":1496898706,
     "wof:name":"Derfeser Betriebs GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

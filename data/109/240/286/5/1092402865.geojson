@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4266624451,48.3869018555,16.4266624451,48.3869018555",
     "geom:latitude":48.386902,
     "geom:longitude":16.426662,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835941,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x2IkpCRRYx4wqmM5qioC9_48.386902_16.426662@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914533,
-    "wof:geomhash":"00e4b8ad2900ea3a277b1aac2bdec6ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbddd72540d50fb05f89b47c837462d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108835941,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092402865
+        }
+    ],
     "wof:id":1092402865,
-    "wof:lastmodified":1473983909,
+    "wof:lastmodified":1496889005,
     "wof:name":"Liebermann Susanna - PR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

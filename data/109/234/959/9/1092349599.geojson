@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4998235703,47.0893783569,15.4998235703,47.0893783569",
     "geom:latitude":47.089378,
     "geom:longitude":15.499824,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912051,
-    "wof:geomhash":"26208dea545c6ad6b6a2e536c71fe3cf",
+    "wof:geomhash":"79d39b63d2858ca81f31274a4e4ee25a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092349599
         }
     ],
     "wof:id":1092349599,
-    "wof:lastmodified":1473985154,
+    "wof:lastmodified":1496934416,
     "wof:name":"MS-Musikagentur",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

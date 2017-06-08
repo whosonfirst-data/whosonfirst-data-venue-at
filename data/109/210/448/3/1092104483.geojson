@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.490278244,48.2155838013,16.490278244,48.2155838013",
     "geom:latitude":48.215584,
     "geom:longitude":16.490278,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901039,
-    "wof:geomhash":"a0c48b2a8c535841f756c0c24147ae1d",
+    "wof:geomhash":"4b81e1253b4972231c0c47a300a9e77e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092104483
         }
     ],
     "wof:id":1092104483,
-    "wof:lastmodified":1473984193,
+    "wof:lastmodified":1496902346,
     "wof:name":"Hascha Thomas Dr GesmbH",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3974552155,47.2551231384,11.3974552155,47.2551231384",
     "geom:latitude":47.255123,
     "geom:longitude":11.397455,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899813,
-    "wof:geomhash":"e7a802034289613791d712ea0fdeeb8e",
+    "wof:geomhash":"ad0f9e7dd6047ebfc3d49ae7973b6c13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092081095
         }
     ],
     "wof:id":1092081095,
-    "wof:lastmodified":1473983558,
+    "wof:lastmodified":1496899317,
     "wof:name":"Riese Haymon",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

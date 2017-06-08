@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5424823761,47.8463287354,16.5424823761,47.8463287354",
     "geom:latitude":47.846329,
     "geom:longitude":16.542482,
@@ -33,17 +34,34 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833097,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Rbq100GcUJKRsdUzzUNRO_47.846329_16.542482@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888999,
-    "wof:geomhash":"63b1347f73a5080bba2291572e39727d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9088e6773f26cd52a2f2b6b9af1bcdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833097,
+            "region_id":85681651,
+            "venue_id":1091834099
+        }
+    ],
     "wof:id":1091834099,
-    "wof:lastmodified":1473984107,
+    "wof:lastmodified":1496908853,
     "wof:name":"ALLIANZ ELEMENTAR VERSICHERUNGS AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

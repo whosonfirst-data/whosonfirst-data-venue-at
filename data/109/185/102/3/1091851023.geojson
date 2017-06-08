@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3857479095,48.2980766296,16.3857479095,48.2980766296",
     "geom:latitude":48.298077,
     "geom:longitude":16.385748,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898395,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889764,
-    "wof:geomhash":"3045d854a4b0334720658c6f81e1b343",
+    "wof:geomhash":"d2f480a1355f4fef5dd80e5a844da5ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898395,
             "region_id":85681667,
             "venue_id":1091851023
         }
     ],
     "wof:id":1091851023,
-    "wof:lastmodified":1473983516,
+    "wof:lastmodified":1496904533,
     "wof:name":"Wehofer Bau GmbH",
     "wof:parent_id":85898395,
     "wof:placetype":"venue",

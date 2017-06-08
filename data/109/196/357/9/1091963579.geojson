@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5154981613,47.2804450989,11.5154981613,47.2804450989",
     "geom:latitude":47.280445,
     "geom:longitude":11.515498,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894972,
-    "wof:geomhash":"a903b0577213a6b3b7a78c5a09386a96",
+    "wof:geomhash":"5fb7324e7b5a9987205155835eadbfda",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091963579
         }
     ],
     "wof:id":1091963579,
-    "wof:lastmodified":1473983876,
+    "wof:lastmodified":1496898711,
     "wof:name":"Gombocz Gerhard Mag",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

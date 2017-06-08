@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3591108322,47.1285476685,14.3591108322,47.1285476685",
     "geom:latitude":47.128548,
     "geom:longitude":14.359111,
@@ -32,17 +33,33 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838837,
+        85632785,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KYlmluiQulnlpt0Xf3n8L_47.128548_14.359111@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908381,
-    "wof:geomhash":"47bad67c2a8e7f7bdd671579ddef9197",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30217cbb9d633c29ba33840328da9505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838837,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092264931
+        }
+    ],
     "wof:id":1092264931,
-    "wof:lastmodified":1473984411,
+    "wof:lastmodified":1496909536,
     "wof:name":"IBS AUSTRIA GES.MBH UND HANDELS-GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

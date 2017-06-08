@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4098834991,48.1079597473,16.4098834991,48.1079597473",
     "geom:latitude":48.10796,
     "geom:longitude":16.409883,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900041,
-    "wof:geomhash":"0f566552a6a10d60801f9c2bbd4826a6",
+    "wof:geomhash":"2df04794a783baf732229387136d8fd1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092086161
         }
     ],
     "wof:id":1092086161,
-    "wof:lastmodified":1473984629,
+    "wof:lastmodified":1496883066,
     "wof:name":"G.T.M. Gitter Tore Montagen GmbH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

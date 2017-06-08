@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3673725128,48.2565727234,16.3673725128,48.2565727234",
     "geom:latitude":48.256573,
     "geom:longitude":16.367373,
@@ -36,10 +37,13 @@
     "sg:website":"duplex.co.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +51,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901963,
-    "wof:geomhash":"709336b24a2bc91fa7baec59ccfca94c",
+    "wof:geomhash":"ce2a0801e304b7f23cd16ba800a42a98",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092124117
         }
     ],
     "wof:id":1092124117,
-    "wof:lastmodified":1473984352,
+    "wof:lastmodified":1496904989,
     "wof:name":"Duplex Feuerungstechnik GesmbH",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

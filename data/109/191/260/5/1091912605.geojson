@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2032585144,48.3359489441,16.2032585144,48.3359489441",
     "geom:latitude":48.335949,
     "geom:longitude":16.203259,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835345,
+        85632785,
+        101754233,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AQ6bLyAJvrH98ADoHkshM_48.335949_16.203259@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892667,
-    "wof:geomhash":"0daea77418b8bf97a78f0f98cf727d85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"955ee32e9a1aa81a7ea17535595e8386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835345,
+            "locality_id":101754233,
+            "region_id":85681671,
+            "venue_id":1091912605
+        }
+    ],
     "wof:id":1091912605,
-    "wof:lastmodified":1473983572,
+    "wof:lastmodified":1496886190,
     "wof:name":"Beck Hartmut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

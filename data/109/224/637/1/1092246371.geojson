@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1990633011,47.3142662048,11.1990633011,47.3142662048",
     "geom:latitude":47.314266,
     "geom:longitude":11.199063,
@@ -23,17 +24,33 @@
     "sg:postcode":"6103",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837699,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_389LEhVE6y9vkH7MkHFEZa_47.314266_11.199063@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907556,
-    "wof:geomhash":"329341e6d945f9080f96ec057cb4e803",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c0c4864df10ad69347bf15d8d788f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837699,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092246371
+        }
+    ],
     "wof:id":1092246371,
-    "wof:lastmodified":1473984648,
+    "wof:lastmodified":1496899657,
     "wof:name":"Rath Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

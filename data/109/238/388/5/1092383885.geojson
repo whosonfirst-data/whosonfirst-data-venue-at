@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2282619476,48.1382675171,14.2282619476,48.1382675171",
     "geom:latitude":48.138268,
     "geom:longitude":14.228262,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835547,
+        85632785,
+        101784531,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5k64HiUDxIcriXCtIaivKF_48.138268_14.228262@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913634,
-    "wof:geomhash":"75089b5cc73c6ba9de77902de85e4872",
-    "wof:hierarchy":[],
+    "wof:geomhash":"787b015dee827b6f059fe62ebcd4b48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835547,
+            "locality_id":101784531,
+            "region_id":85681677,
+            "venue_id":1092383885
+        }
+    ],
     "wof:id":1092383885,
-    "wof:lastmodified":1473984192,
+    "wof:lastmodified":1496887257,
     "wof:name":"Pizzeria Restaurant Luna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

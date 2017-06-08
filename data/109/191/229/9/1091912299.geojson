@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7071838379,47.1059379578,15.7071838379,47.1059379578",
     "geom:latitude":47.105938,
     "geom:longitude":15.707184,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838867,
+        85632785,
+        101789137,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_458fHZ2drxMoJ1hoYIuwI3_47.105938_15.707184@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892650,
-    "wof:geomhash":"7277fe63b9d059b659b29418d890a471",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b4ed04e97e7bc6aef04dcebf5653b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838867,
+            "locality_id":101789137,
+            "region_id":85681687,
+            "venue_id":1091912299
+        }
+    ],
     "wof:id":1091912299,
-    "wof:lastmodified":1473983483,
+    "wof:lastmodified":1496909745,
     "wof:name":"ACP IT Consult GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

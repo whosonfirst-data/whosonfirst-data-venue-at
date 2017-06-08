@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2380132675,46.6313400269,14.2380132675,46.6313400269",
     "geom:latitude":46.63134,
     "geom:longitude":14.238013,
@@ -29,10 +30,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898504,
-    "wof:geomhash":"a5c6a14ce21a613c41857031064da937",
+    "wof:geomhash":"4e57f0518cda45484a6908dc15929074",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092049889
         }
     ],
     "wof:id":1092049889,
-    "wof:lastmodified":1473984553,
+    "wof:lastmodified":1496906398,
     "wof:name":"Hotel-Restaurant Jerolitsch",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

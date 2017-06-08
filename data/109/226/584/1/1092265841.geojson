@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9216537476,46.5588226318,13.9216537476,46.5588226318",
     "geom:latitude":46.558823,
     "geom:longitude":13.921654,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838339,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qjkl5MtjAuooSaFnC8S23_46.558823_13.921654@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908420,
-    "wof:geomhash":"a087aae849a3079616a0db908416771a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ea0128c6e5cd806ae13f28cabb2bd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265841
+        }
+    ],
     "wof:id":1092265841,
-    "wof:lastmodified":1473984490,
+    "wof:lastmodified":1496907374,
     "wof:name":"Walter Hassler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

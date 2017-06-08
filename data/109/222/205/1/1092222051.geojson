@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4500284195,47.2483253479,11.4500284195,47.2483253479",
     "geom:latitude":47.248325,
     "geom:longitude":11.450028,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906484,
-    "wof:geomhash":"aee40091b352c7852938671a0c2255c1",
+    "wof:geomhash":"2e23d3ce4324310a21a0c11d4bf0cd5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092222051
         }
     ],
     "wof:id":1092222051,
-    "wof:lastmodified":1473983817,
+    "wof:lastmodified":1496898023,
     "wof:name":"Schlechl Bernhard",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.49036026,48.2133216858,14.49036026,48.2133216858",
     "geom:latitude":48.213322,
     "geom:longitude":14.49036,
@@ -37,10 +38,12 @@
     "sg:website":"salvagnini.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +51,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914194,
-    "wof:geomhash":"fb237cd26ba82c63759cab1ee3952536",
+    "wof:geomhash":"50b60dc76a80160fa0f5b6d4f1565985",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092394853
         }
     ],
     "wof:id":1092394853,
-    "wof:lastmodified":1473984087,
+    "wof:lastmodified":1496886556,
     "wof:name":"Salvagnini Maschinenbau GmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9869337082,48.7614021301,14.9869337082,48.7614021301",
     "geom:latitude":48.761402,
     "geom:longitude":14.986934,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"reifencenter.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108835467,
+        85633105,
+        101831939,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T6NeIwu99UT3b9xBzytIC_48.761402_14.986934@1306268249"
     },
     "wof:country":"AT",
     "wof:created":1473894581,
-    "wof:geomhash":"2941b5bf83defef3fe81fa099e73d5f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"619e95e05eae52c1d2a428c7aae2e0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108835467,
+            "locality_id":101831939,
+            "region_id":85682415,
+            "venue_id":1091954707
+        }
+    ],
     "wof:id":1091954707,
-    "wof:lastmodified":1473984524,
+    "wof:lastmodified":1496886774,
     "wof:name":"Czech Erich Reifencenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

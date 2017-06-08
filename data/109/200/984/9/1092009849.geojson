@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1576356888,48.6071929932,15.1576356888,48.6071929932",
     "geom:latitude":48.607193,
     "geom:longitude":15.157636,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.8ung.at/bfz/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836883,
+        85632785,
+        101782235,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ro2FO5oYCrNyMLiLnzasB_48.607193_15.157636@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896938,
-    "wof:geomhash":"c09f9a62be195cb4890a3719f3f2ba18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ac93237299b6dab262feac5f39d793b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836883,
+            "locality_id":101782235,
+            "region_id":85681671,
+            "venue_id":1092009849
+        }
+    ],
     "wof:id":1092009849,
-    "wof:lastmodified":1473985099,
+    "wof:lastmodified":1496893241,
     "wof:name":"B\u00fcrgerforum Zwettl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

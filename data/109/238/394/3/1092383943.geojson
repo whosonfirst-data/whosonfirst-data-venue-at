@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5302324295,46.8164253235,13.5302324295,46.8164253235",
     "geom:latitude":46.816425,
     "geom:longitude":13.530232,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838299,
+        85632785,
+        101790151,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sQFZIaazSrDvdmubBfPPJ_46.816425_13.530232@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913636,
-    "wof:geomhash":"92eb45eed7e8173957342bdf3e5ba3e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"067e401742a6ab92a585f523b505c452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838299,
+            "locality_id":101790151,
+            "region_id":85681655,
+            "venue_id":1092383943
+        }
+    ],
     "wof:id":1092383943,
-    "wof:lastmodified":1473984229,
+    "wof:lastmodified":1496907075,
     "wof:name":"Pizzeria Ristorante Napoli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

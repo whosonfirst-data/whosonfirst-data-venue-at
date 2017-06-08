@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9275360107,47.1599311829,10.9275360107,47.1599311829",
     "geom:latitude":47.159931,
     "geom:longitude":10.927536,
@@ -28,17 +29,33 @@
     "sg:postcode":"6441",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837455,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qql1T7q0Q2pUZuJOTnH0d_47.159931_10.927536@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914583,
-    "wof:geomhash":"7b4cba12a2319c65102b3db99a6337a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd8e4fbafda8d86b423d8a3e48bf2821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837455,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092404001
+        }
+    ],
     "wof:id":1092404001,
-    "wof:lastmodified":1473984077,
+    "wof:lastmodified":1496897979,
     "wof:name":"JOHANNES REGENSBURGER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

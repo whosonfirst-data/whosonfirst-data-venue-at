@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2390851974,47.9391365051,13.2390851974,47.9391365051",
     "geom:latitude":47.939137,
     "geom:longitude":13.239085,
@@ -33,17 +34,33 @@
         "reconstruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lCUFwxT8xByrU5cLooNSH_47.939137_13.239085@1306268249"
     },
     "wof:country":"AT",
     "wof:created":1473894533,
-    "wof:geomhash":"bf1771240cde8f37c6fe36a54e6e2b27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db5c5670cbc7fe0eeed1123586a4c957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091953739
+        }
+    ],
     "wof:id":1091953739,
-    "wof:lastmodified":1473984231,
+    "wof:lastmodified":1496895548,
     "wof:name":"KAWE Kanalsanierung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

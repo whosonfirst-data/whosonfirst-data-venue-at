@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8290681839,48.2351608276,13.8290681839,48.2351608276",
     "geom:latitude":48.235161,
     "geom:longitude":13.829068,
@@ -31,17 +32,34 @@
         "drink"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835183,
+        85632785,
+        101784569,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PpmI4AlmDX0RtuC1K9pjp_48.235161_13.829068@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897097,
-    "wof:geomhash":"0070e8141f36847a523356fee773e1ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee303e89442a2f7636e71ec9905283f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835183,
+            "locality_id":101784569,
+            "region_id":85681677,
+            "venue_id":1092013807
+        }
+    ],
     "wof:id":1092013807,
-    "wof:lastmodified":1473983628,
+    "wof:lastmodified":1496885329,
     "wof:name":"BRAUEREI GRIESKIRCHEN AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

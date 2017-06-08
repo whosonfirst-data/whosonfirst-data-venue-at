@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3538398743,48.3231124878,16.3538398743,48.3231124878",
     "geom:latitude":48.323112,
     "geom:longitude":16.35384,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898395,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915422,
-    "wof:geomhash":"a90529bc1a526535d1ba8da779a3c922",
+    "wof:geomhash":"fc5101c57b34a081ea4b7ed4a05253b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898395,
             "region_id":85681667,
             "venue_id":1092419473
         }
     ],
     "wof:id":1092419473,
-    "wof:lastmodified":1473985149,
+    "wof:lastmodified":1496893438,
     "wof:name":"screen project Filmproduktion GesmbH",
     "wof:parent_id":85898395,
     "wof:placetype":"venue",

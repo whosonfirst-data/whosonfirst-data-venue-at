@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5160675049,48.2132797241,16.5160675049,48.2132797241",
     "geom:latitude":48.21328,
     "geom:longitude":16.516068,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892044,
-    "wof:geomhash":"de4b270c8aea313c44eb0e2de0c86478",
+    "wof:geomhash":"5d83e2a203f0dcbb6ee225dd9163ffcb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091899025
         }
     ],
     "wof:id":1091899025,
-    "wof:lastmodified":1473985153,
+    "wof:lastmodified":1496904743,
     "wof:name":"Kornherr Franz",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

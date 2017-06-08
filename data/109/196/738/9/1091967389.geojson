@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7858161926,47.7636146545,16.7858161926,47.7636146545",
     "geom:latitude":47.763615,
     "geom:longitude":16.785816,
@@ -28,17 +29,33 @@
     "sg:postcode":"7142",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838513,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o27862otshvWozTX6iRNx_47.763615_16.785816@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895127,
-    "wof:geomhash":"dd289d7315cd67288e831bab461946c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c173142c12731ae8c0698491b9942efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838513,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091967389
+        }
+    ],
     "wof:id":1091967389,
-    "wof:lastmodified":1473984439,
+    "wof:lastmodified":1496908307,
     "wof:name":"Seerestaurant Haider Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

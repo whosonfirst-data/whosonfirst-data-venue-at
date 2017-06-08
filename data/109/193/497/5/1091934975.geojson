@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4688673019,48.2163658142,14.4688673019,48.2163658142",
     "geom:latitude":48.216366,
     "geom:longitude":14.468867,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893722,
-    "wof:geomhash":"f4f4ed609ee2ca133b93cc7b602b18bc",
+    "wof:geomhash":"b1d94277c78930dd2106e041d341c6a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091934975
         }
     ],
     "wof:id":1091934975,
-    "wof:lastmodified":1473984375,
+    "wof:lastmodified":1496887075,
     "wof:name":"Strasser Steinbau GmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

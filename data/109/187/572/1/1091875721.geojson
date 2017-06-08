@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4771442413,48.2083053589,16.4771442413,48.2083053589",
     "geom:latitude":48.208305,
     "geom:longitude":16.477144,
@@ -30,10 +31,13 @@
     "sg:website":"dachs.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +45,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890936,
-    "wof:geomhash":"eabe6a9e9565a1ebae3975384d7d8131",
+    "wof:geomhash":"fedd2711d2071b1524c6f061caf77428",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091875721
         }
     ],
     "wof:id":1091875721,
-    "wof:lastmodified":1473984380,
+    "wof:lastmodified":1496903502,
     "wof:name":"DACHS-Verlag GmbH",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8478164673,47.2166595459,14.8478164673,47.2166595459",
     "geom:latitude":47.21666,
     "geom:longitude":14.847816,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"http://members.magnet.at/gasthof.neumann",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839403,
+        85632785,
+        101834225,
+        102049739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dAEZEIANOd2c7vM2MNZRU_47.216660_14.847816@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894828,
-    "wof:geomhash":"bfedffa4c9c9b297f5fc9afbbade5dfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"324d04c98200998559f8543b467ac6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049739,
+            "localadmin_id":1108839403,
+            "locality_id":101834225,
+            "region_id":85681687,
+            "venue_id":1091960123
+        }
+    ],
     "wof:id":1091960123,
-    "wof:lastmodified":1473983336,
+    "wof:lastmodified":1496910466,
     "wof:name":"Gasthof Neumann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

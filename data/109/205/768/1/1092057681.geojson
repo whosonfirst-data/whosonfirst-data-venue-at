@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3932323456,47.7415618896,16.3932323456,47.7415618896",
     "geom:latitude":47.741562,
     "geom:longitude":16.393232,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"www.bieberle.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838419,
+        85632785,
+        101833073,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10XBA7LQKkRopx3NmLpGgI_47.741562_16.393232@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898814,
-    "wof:geomhash":"c1feec786741ac6ca10581a7616d055e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c573a925b43871d229a62b0186e3459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838419,
+            "locality_id":101833073,
+            "region_id":85681651,
+            "venue_id":1092057681
+        }
+    ],
     "wof:id":1092057681,
-    "wof:lastmodified":1473984606,
+    "wof:lastmodified":1496907856,
     "wof:name":"Bieberle Alfred Ing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

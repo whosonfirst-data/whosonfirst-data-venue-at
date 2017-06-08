@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6849002838,47.3555641174,9.6849002838,47.3555641174",
     "geom:latitude":47.355564,
     "geom:longitude":9.6849,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"martinek.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_496vb9gg6KqcgAgPxExWaJ_47.355564_9.684900@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905277,
-    "wof:geomhash":"8a4e732969ea90f421766a7211fd0a04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"048140bc58c97a7e038297e8e16fd879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1092195865
+        }
+    ],
     "wof:id":1092195865,
-    "wof:lastmodified":1473984625,
+    "wof:lastmodified":1496901115,
     "wof:name":"Martinek GmbH Messtechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

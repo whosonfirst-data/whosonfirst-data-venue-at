@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6445732117,47.8958625793,16.6445732117,47.8958625793",
     "geom:latitude":47.895863,
     "geom:longitude":16.644573,
@@ -23,17 +24,34 @@
     "sg:postcode":"7082",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838469,
+        85632785,
+        101785629,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i6FEMcQzymp84x22SrC60_47.895863_16.644573@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473915182,
-    "wof:geomhash":"d290760a0341c57a08fb9005b479edb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbbe1b021ce4e450e4a5faa2f40ef614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838469,
+            "locality_id":101785629,
+            "region_id":85681651,
+            "venue_id":1092414315
+        }
+    ],
     "wof:id":1092414315,
-    "wof:lastmodified":1473984228,
+    "wof:lastmodified":1496908084,
     "wof:name":"Feuerwehr Donnerskirchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8440132141,46.5943374634,13.8440132141,46.5943374634",
     "geom:latitude":46.594337,
     "geom:longitude":13.844013,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906277,
-    "wof:geomhash":"1486dc4508a1ba8f8cb693d17e794f73",
+    "wof:geomhash":"fcbb4bae6f09d689b81e41ffcee52b43",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092216961
         }
     ],
     "wof:id":1092216961,
-    "wof:lastmodified":1473984809,
+    "wof:lastmodified":1496905996,
     "wof:name":"Paul Rudolf GesmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

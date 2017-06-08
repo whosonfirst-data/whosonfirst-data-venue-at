@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0217027664,46.8939285278,13.0217027664,46.8939285278",
     "geom:latitude":46.893929,
     "geom:longitude":13.021703,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"kfz-thorer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838303,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FGWYlWV9PFm74TjxEs2No_46.893929_13.021703@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911824,
-    "wof:geomhash":"c1f70051bdebe77db8396772d0ce028d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9f87bbd5d73e4e7b94a201288fedb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838303,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092344345
+        }
+    ],
     "wof:id":1092344345,
-    "wof:lastmodified":1473984244,
+    "wof:lastmodified":1496907230,
     "wof:name":"Thorer Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

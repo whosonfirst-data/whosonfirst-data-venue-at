@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9732398987,47.3812408447,15.9732398987,47.3812408447",
     "geom:latitude":47.381241,
     "geom:longitude":15.97324,
@@ -22,17 +23,33 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.styrianbrass.htb.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839427,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QbkrbzzODdPM0PbRJsIVh_47.381241_15.973240@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473888358,
-    "wof:geomhash":"edbf92342268d63dff6339c631ffefa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9aef781c39f1ee6753b82e1c839eabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839427,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091820199
+        }
+    ],
     "wof:id":1091820199,
-    "wof:lastmodified":1473983407,
+    "wof:lastmodified":1496914200,
     "wof:name":"STYRIANBRASS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

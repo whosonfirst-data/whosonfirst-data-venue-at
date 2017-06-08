@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2857666016,47.9498519897,16.2857666016,47.9498519897",
     "geom:latitude":47.949852,
     "geom:longitude":16.285767,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"beatweb.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834909,
+        85632785,
+        101785713,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5otxao1A9X7eFIij0UdGqj_47.949852_16.285767@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892645,
-    "wof:geomhash":"21998e398dc5b7ddb1eece6d93d49bd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5659a9e6627670870ac3000b56ed20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108834909,
+            "locality_id":101785713,
+            "region_id":85681671,
+            "venue_id":1091912245
+        }
+    ],
     "wof:id":1091912245,
-    "wof:lastmodified":1473983495,
+    "wof:lastmodified":1496883505,
     "wof:name":"Beatweb.at",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

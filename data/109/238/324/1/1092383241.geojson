@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9096746445,48.2298927307,13.9096746445,48.2298927307",
     "geom:latitude":48.229893,
     "geom:longitude":13.909675,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835169,
+        85632785,
+        101833237,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wnp2to8we7dbMjn4hjOqv_48.229893_13.909675@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913603,
-    "wof:geomhash":"3c2dcd64e0acc037168d430d71a6ed07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f056ecf2a53d7752d06d748169194215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835169,
+            "locality_id":101833237,
+            "region_id":85681677,
+            "venue_id":1092383241
+        }
+    ],
     "wof:id":1092383241,
-    "wof:lastmodified":1473984166,
+    "wof:lastmodified":1496885247,
     "wof:name":"Pizzeria Dolce Vita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

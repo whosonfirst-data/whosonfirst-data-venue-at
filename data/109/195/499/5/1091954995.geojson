@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.463262558,48.2668037415,16.463262558,48.2668037415",
     "geom:latitude":48.266804,
     "geom:longitude":16.463263,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894600,
-    "wof:geomhash":"6a81422baf6c830ce97ea8ae1884f143",
+    "wof:geomhash":"a0e75388af38ec58198c98e579dda42e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091954995
         }
     ],
     "wof:id":1091954995,
-    "wof:lastmodified":1473984629,
+    "wof:lastmodified":1496904112,
     "wof:name":"NIKO-BOCCO Trading HandelsgesmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

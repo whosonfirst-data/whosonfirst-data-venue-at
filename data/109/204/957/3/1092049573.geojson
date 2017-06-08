@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9645032883,47.7811927795,12.9645032883,47.7811927795",
     "geom:latitude":47.781193,
     "geom:longitude":12.964503,
@@ -29,10 +30,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904373,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898491,
-    "wof:geomhash":"c489ff16f164bf7f072e9852f222841f",
+    "wof:geomhash":"fed98ace2ae6a1f6a783820b657f0240",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85904373,
             "region_id":85681681,
             "venue_id":1092049573
         }
     ],
     "wof:id":1092049573,
-    "wof:lastmodified":1473984505,
+    "wof:lastmodified":1496895741,
     "wof:name":"Hotel-Pension Gerl",
     "wof:parent_id":85904373,
     "wof:placetype":"venue",

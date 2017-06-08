@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4208393097,48.2985305786,16.4208393097,48.2985305786",
     "geom:latitude":48.298531,
     "geom:longitude":16.420839,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895193,
-    "wof:geomhash":"76cb78b6eeee4f2d752ffbe4305c666c",
+    "wof:geomhash":"88f5e868ebdfd1633bfdf77fd28dc427",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1091969013
         }
     ],
     "wof:id":1091969013,
-    "wof:lastmodified":1473984770,
+    "wof:lastmodified":1496902669,
     "wof:name":"China Restaurant Sonne",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

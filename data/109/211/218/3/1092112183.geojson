@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.369058609,48.1103057861,16.369058609,48.1103057861",
     "geom:latitude":48.110306,
     "geom:longitude":16.369059,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901392,
-    "wof:geomhash":"fbbe27bac0fb8a265b0d87568271a202",
+    "wof:geomhash":"cd180906b005addfc3057f4d7702419f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092112183
         }
     ],
     "wof:id":1092112183,
-    "wof:lastmodified":1473983821,
+    "wof:lastmodified":1496888735,
     "wof:name":"Holzbau Suchentrunk GmbH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

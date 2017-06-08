@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4405956268,48.3433837891,14.4405956268,48.3433837891",
     "geom:latitude":48.343384,
     "geom:longitude":14.440596,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"mea-solar.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836145,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mA3rLMBiteO3WC9p3tkc9_48.343384_14.440596@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892842,
-    "wof:geomhash":"0e1baddd341bec08688d3f1a5085bdc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f8684ffb406a20225cc1bb1c86feed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836145,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091916213
+        }
+    ],
     "wof:id":1091916213,
-    "wof:lastmodified":1473984183,
+    "wof:lastmodified":1496889761,
     "wof:name":"MEA-Solaranlagen Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

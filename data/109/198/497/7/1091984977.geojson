@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3685865402,47.2277984619,11.3685865402,47.2277984619",
     "geom:latitude":47.227798,
     "geom:longitude":11.368587,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895895,
-    "wof:geomhash":"562c776ade16f151603b7282b02e013a",
+    "wof:geomhash":"b9a40970a179758cb600416395c816f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091984977
         }
     ],
     "wof:id":1091984977,
-    "wof:lastmodified":1473983993,
+    "wof:lastmodified":1496898474,
     "wof:name":"Schumacher Wolfgang Dipl-Ing",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

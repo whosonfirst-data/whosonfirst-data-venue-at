@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0415802002,47.0663909912,14.0415802002,47.0663909912",
     "geom:latitude":47.066391,
     "geom:longitude":14.04158,
@@ -33,17 +34,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838787,
+        85632785,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EboFeTwLuVCGugvjAn5xH_47.066391_14.041580@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892634,
-    "wof:geomhash":"bf4c6cce52caed1587282dcb5657623d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eed998565cbc0275074dff3619871fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838787,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091912005
+        }
+    ],
     "wof:id":1091912005,
-    "wof:lastmodified":1473983408,
+    "wof:lastmodified":1496909314,
     "wof:name":"Snowboardschule Suli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7715597153,48.0357055664,15.7715597153,48.0357055664",
     "geom:latitude":48.035706,
     "geom:longitude":15.77156,
@@ -32,17 +33,34 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836661,
+        85632785,
+        101844589,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WTawD54XRyPzeksWVrIjc_48.035706_15.771560@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889208,
-    "wof:geomhash":"da4842789a065b30802cb4f1138d9c75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3f90a53b298935293b448a27afe7f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108836661,
+            "locality_id":101844589,
+            "region_id":85681671,
+            "venue_id":1091838505
+        }
+    ],
     "wof:id":1091838505,
-    "wof:lastmodified":1473985091,
+    "wof:lastmodified":1496892587,
     "wof:name":"Schwarz Raumausstattung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

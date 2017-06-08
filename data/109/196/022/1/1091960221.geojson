@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7240886688,47.2425422668,10.7240886688,47.2425422668",
     "geom:latitude":47.242542,
     "geom:longitude":10.724089,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.winkler-imst.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RI0RDW6CnD4avoR53szBo_47.242542_10.724089@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894832,
-    "wof:geomhash":"e932dd1b6a657b98bb4f12a439619040",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3022561139151a3b7a43e07d6d6cf329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091960221
+        }
+    ],
     "wof:id":1091960221,
-    "wof:lastmodified":1473983372,
+    "wof:lastmodified":1496898366,
     "wof:name":"Appartements Winkler Imst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

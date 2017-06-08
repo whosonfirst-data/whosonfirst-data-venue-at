@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0755577087,47.3059387207,11.0755577087,47.3059387207",
     "geom:latitude":47.305939,
     "geom:longitude":11.075558,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        101834219,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CRxhnCfriyf8BQaOmpAsu_47.305939_11.075558@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913653,
-    "wof:geomhash":"fc4a249eb083ee2f66bf0f4ecee1af0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56791e7b6ffa1fc765669522637c590a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":101834219,
+            "region_id":85681661,
+            "venue_id":1092384377
+        }
+    ],
     "wof:id":1092384377,
-    "wof:lastmodified":1473984395,
+    "wof:lastmodified":1496898792,
     "wof:name":"Pizzeria-Ristorante Dal'Benedetto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5931386948,47.3783950806,12.5931386948,47.3783950806",
     "geom:latitude":47.378395,
     "geom:longitude":12.593139,
@@ -23,17 +24,33 @@
     "sg:postcode":"5754",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UY09MPxGhXa1DVCv2eG8i_47.378395_12.593139@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896385,
-    "wof:geomhash":"397a83050231f11623c32a689cb9e0bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94724db891585235105d1652aa88e1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091996393
+        }
+    ],
     "wof:id":1091996393,
-    "wof:lastmodified":1473984616,
+    "wof:lastmodified":1496896196,
     "wof:name":"Bundesschullandheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3988008499,47.261592865,11.3988008499,47.261592865",
     "geom:latitude":47.261593,
     "geom:longitude":11.398801,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904872,
-    "wof:geomhash":"2af83b4aa50172aef3ca653267e78bd9",
+    "wof:geomhash":"c30db419fb3d3ee5b73e33f48bb1e39e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092186483
         }
     ],
     "wof:id":1092186483,
-    "wof:lastmodified":1473984656,
+    "wof:lastmodified":1496925973,
     "wof:name":"Planlogistik GmbH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5598917007,47.4928741455,10.5598917007,47.4928741455",
     "geom:latitude":47.492874,
     "geom:longitude":10.559892,
@@ -29,17 +30,33 @@
     "sg:province":"Tirol",
     "sg:website":"www.tyrol-haldenseee.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837819,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Na7TEyWOXIeRLFTbqMHRW_47.492874_10.559892@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898468,
-    "wof:geomhash":"296f21704f516e6476789c0bf8906117",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c44efb0f8f1c8aa06d0c7e76c6e9f569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837819,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048909
+        }
+    ],
     "wof:id":1092048909,
-    "wof:lastmodified":1473984307,
+    "wof:lastmodified":1496900075,
     "wof:name":"Hotel Tyrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

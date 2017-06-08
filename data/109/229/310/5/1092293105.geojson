@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9172868729,47.4447517395,9.9172868729,47.4447517395",
     "geom:latitude":47.444752,
     "geom:longitude":9.917287,
@@ -23,17 +24,33 @@
     "sg:postcode":"6951",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837993,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VOD8KKGf7pzloDAoY7CAO_47.444752_9.917287@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909576,
-    "wof:geomhash":"5b09e1de7731f4cb70c89dc0ca04e776",
-    "wof:hierarchy":[],
+    "wof:geomhash":"917745b3e712697188ae7cd7008978b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837993,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092293105
+        }
+    ],
     "wof:id":1092293105,
-    "wof:lastmodified":1473984054,
+    "wof:lastmodified":1496901332,
     "wof:name":"Fehr Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

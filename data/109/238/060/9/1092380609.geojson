@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2352571487,47.4453277588,12.2352571487,47.4453277588",
     "geom:latitude":47.445328,
     "geom:longitude":12.235257,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TNqwZl0EjhovMn7UzHUMb_47.445328_12.235257@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913474,
-    "wof:geomhash":"1bf6ed66cd2ea6ca220395d3d6891bb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"397f837efdf21f13071e09548c529af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092380609
+        }
+    ],
     "wof:id":1092380609,
-    "wof:lastmodified":1473983425,
+    "wof:lastmodified":1496897260,
     "wof:name":"Physiotherapie Physio Vital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

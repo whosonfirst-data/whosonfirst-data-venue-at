@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5153522491,48.2099113464,16.5153522491,48.2099113464",
     "geom:latitude":48.209911,
     "geom:longitude":16.515352,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914475,
-    "wof:geomhash":"721c1c82b1df4f5d78f196a6c071b102",
+    "wof:geomhash":"ddbfff07ce211190e34b1300cc81e482",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092401435
         }
     ],
     "wof:id":1092401435,
-    "wof:lastmodified":1473983584,
+    "wof:lastmodified":1496928356,
     "wof:name":"Skorecz Mischa",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

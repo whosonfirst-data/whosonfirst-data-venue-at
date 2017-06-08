@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8648099899,46.8177032471,13.8648099899,46.8177032471",
     "geom:latitude":46.817703,
     "geom:longitude":13.86481,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838135,
+        85632785,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rlnLx40WgfwEz4i11fvb1_46.817703_13.864810@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908406,
-    "wof:geomhash":"02f819159fca69ecf7924e2d6431b063",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7d3c50be0a26c08231a23f3c8a72fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838135,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265505
+        }
+    ],
     "wof:id":1092265505,
-    "wof:lastmodified":1473984467,
+    "wof:lastmodified":1496905498,
     "wof:name":"Franz Schiestl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.434967041,47.3652992249,13.434967041,47.3652992249",
     "geom:latitude":47.365299,
     "geom:longitude":13.434967,
@@ -23,17 +24,33 @@
     "sg:postcode":"5541",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836989,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KCbdJacpqboQ40U8ZA2Ei_47.365299_13.434967@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909830,
-    "wof:geomhash":"2d7d6143abbd8f5f8015436e9c965d84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d33c6b3ecf715ca00cebcad5e991ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836989,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092298895
+        }
+    ],
     "wof:id":1092298895,
-    "wof:lastmodified":1473985207,
+    "wof:lastmodified":1496893680,
     "wof:name":"Appartement Zauchtalerhof Fam Herzgsell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1795520782,48.3335113525,14.1795520782,48.3335113525",
     "geom:latitude":48.333511,
     "geom:longitude":14.179552,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85904371,
-        102049847
+        102191581,
+        1108836395,
+        85632785,
+        101784615,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888057,
-    "wof:geomhash":"f012cffb7ae77a43072324455af34bdb",
+    "wof:geomhash":"2ef7469cc19822018ac5cc90f7e6d6d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836395,
+            "locality_id":101784615,
             "neighbourhood_id":85904371,
             "region_id":85681677,
             "venue_id":1091813311
         }
     ],
     "wof:id":1091813311,
-    "wof:lastmodified":1473984018,
+    "wof:lastmodified":1496890882,
     "wof:name":"Josef Hundsberger",
     "wof:parent_id":85904371,
     "wof:placetype":"venue",

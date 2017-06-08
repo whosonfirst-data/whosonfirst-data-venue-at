@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7625398636,48.0383682251,15.7625398636,48.0383682251",
     "geom:latitude":48.038368,
     "geom:longitude":15.76254,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836661,
+        85632785,
+        101844589,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BZHWECmj3e9rYKdztQGhH_48.038368_15.762540@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913643,
-    "wof:geomhash":"3e91d6974603f11d8796b8b3d5dc37d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3c893041151d6441eb37a44075ed575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108836661,
+            "locality_id":101844589,
+            "region_id":85681671,
+            "venue_id":1092384107
+        }
+    ],
     "wof:id":1092384107,
-    "wof:lastmodified":1473984295,
+    "wof:lastmodified":1496892579,
     "wof:name":"Pizzeria Topolino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

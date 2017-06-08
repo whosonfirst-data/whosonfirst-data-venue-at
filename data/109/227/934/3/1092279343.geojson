@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.669626236,47.2832565308,11.669626236,47.2832565308",
     "geom:latitude":47.283257,
     "geom:longitude":11.669626,
@@ -23,17 +24,33 @@
     "sg:postcode":"6133",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837715,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64Ocd0heWJLCfqcP6d9jrN_47.283257_11.669626@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473908995,
-    "wof:geomhash":"9c84e67ba7c1ac38fbc0fffc0e742bcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80c9e1f1cfb10db707ea71ffb9ba3c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837715,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092279343
+        }
+    ],
     "wof:id":1092279343,
-    "wof:lastmodified":1473985303,
+    "wof:lastmodified":1496899741,
     "wof:name":"Heim Andreas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.148226738,46.6631011963,14.148226738,46.6631011963",
     "geom:latitude":46.663101,
     "geom:longitude":14.148227,
@@ -23,17 +24,33 @@
     "sg:postcode":"9062",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838185,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N8Q18aqD4uP1gJXGH7mkk_46.663101_14.148227@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900927,
-    "wof:geomhash":"3ee9f0dd1fc715b68a907fc22590733a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a870ca0c7a3188a6d2086f47d9bf9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838185,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092102321
+        }
+    ],
     "wof:id":1092102321,
-    "wof:lastmodified":1473983693,
+    "wof:lastmodified":1496906453,
     "wof:name":"Golfanlagen Moosburg-P\u00f6rtschach-Krumpendorf GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

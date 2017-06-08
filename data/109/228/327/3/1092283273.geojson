@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3471755981,47.87241745,16.3471755981,47.87241745",
     "geom:latitude":47.872417,
     "geom:longitude":16.347176,
@@ -32,17 +33,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838577,
+        85632785,
+        101785631,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04wSfUK3FROOaeOozbngfp_47.872417_16.347176@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909174,
-    "wof:geomhash":"d71f004c4538d262d565d73e017f42c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17aa3ebe1bf645521fd38854bc928a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838577,
+            "locality_id":101785631,
+            "region_id":85681651,
+            "venue_id":1092283273
+        }
+    ],
     "wof:id":1092283273,
-    "wof:lastmodified":1473983966,
+    "wof:lastmodified":1496886244,
     "wof:name":"Gass GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

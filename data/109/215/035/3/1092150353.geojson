@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6442527771,47.2826423645,9.6442527771,47.2826423645",
     "geom:latitude":47.282642,
     "geom:longitude":9.644253,
@@ -23,17 +24,34 @@
     "sg:postcode":"6830",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838021,
+        85632785,
+        101827459,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28KAZxbdjr3qWlkcjR8Ite_47.282642_9.644253@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903228,
-    "wof:geomhash":"3725a09429195c56d41620c169763a48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fa2d6920fe18dc99c2892200b98e745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":101827459,
+            "region_id":85681649,
+            "venue_id":1092150353
+        }
+    ],
     "wof:id":1092150353,
-    "wof:lastmodified":1473983383,
+    "wof:lastmodified":1496901653,
     "wof:name":"Gourmet Club Vorarlberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

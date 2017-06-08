@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.003663063,48.0231819153,14.003663063,48.0231819153",
     "geom:latitude":48.023182,
     "geom:longitude":14.003663,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.poellhuber.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836545,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZYXj8XHYdMfIPZo14I4BY_48.023182_14.003663@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895763,
-    "wof:geomhash":"a96c785d0d2bf5a74ba73c4a27608052",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02f9dea1da7d430768da6e80409d4b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836545,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091981629
+        }
+    ],
     "wof:id":1091981629,
-    "wof:lastmodified":1473983403,
+    "wof:lastmodified":1496891561,
     "wof:name":"P\u00f6llhuber Schweiss - Service Austria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

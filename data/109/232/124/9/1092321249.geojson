@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.40076828,48.1377296448,16.40076828,48.1377296448",
     "geom:latitude":48.13773,
     "geom:longitude":16.400768,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910856,
-    "wof:geomhash":"b23124567b65806267f05b6a5f8cc5a7",
+    "wof:geomhash":"b40aa01e8da534bb65bc21acd045aea2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092321249
         }
     ],
     "wof:id":1092321249,
-    "wof:lastmodified":1473983601,
+    "wof:lastmodified":1496903164,
     "wof:name":"F\u00fcrst Herbert GesmbH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

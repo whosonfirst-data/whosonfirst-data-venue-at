@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7773447037,47.6205291748,13.7773447037,47.6205291748",
     "geom:latitude":47.620529,
     "geom:longitude":13.777345,
@@ -23,17 +24,33 @@
     "sg:postcode":"8990",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838965,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53R2un4LV21RWI9D8OcxJn_47.620529_13.777345@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896391,
-    "wof:geomhash":"713ba268e39b1ac56fa34e4e9855c367",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a1eee487861ebdf5752f59ea5304268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838965,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091996495
+        }
+    ],
     "wof:id":1091996495,
-    "wof:lastmodified":1473984632,
+    "wof:lastmodified":1496910559,
     "wof:name":"Jugendhaus d Landes Steiermark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

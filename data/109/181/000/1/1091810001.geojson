@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4831371307,47.489025116,14.4831371307,47.489025116",
     "geom:latitude":47.489025,
     "geom:longitude":14.483137,
@@ -33,17 +34,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838887,
+        85632785,
+        101844561,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S14cmR7VtVJfrQ8IrqKJr_47.489025_14.483137@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473887914,
-    "wof:geomhash":"fb5add3801b93372aea3e3df9420337a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d0aa2e886a68242edf15386adccf727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838887,
+            "locality_id":101844561,
+            "region_id":85681687,
+            "venue_id":1091810001
+        }
+    ],
     "wof:id":1091810001,
-    "wof:lastmodified":1473983303,
+    "wof:lastmodified":1496909875,
     "wof:name":"Kurt Stranimaier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.514213562,48.2151679993,16.514213562,48.2151679993",
     "geom:latitude":48.215168,
     "geom:longitude":16.514214,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898676,
-    "wof:geomhash":"ab96af6fdf9217c42d3b5b064b601aaf",
+    "wof:geomhash":"49e52c76167997da0f1758beaf7accc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092054395
         }
     ],
     "wof:id":1092054395,
-    "wof:lastmodified":1473984142,
+    "wof:lastmodified":1496903039,
     "wof:name":"Institut f\u00fcr Hypnoseforschung Pissinger Franz jun",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9710597992,48.4928512573,13.9710597992,48.4928512573",
     "geom:latitude":48.492851,
     "geom:longitude":13.97106,
@@ -32,17 +33,33 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835713,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51sIGHQ6AHBoq5XIl80juV_48.492851_13.971060@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915942,
-    "wof:geomhash":"f0dd05d394eefa0cbfbdd82d7cf84248",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65140a7164d511af136890f5cefec554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835713,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092430721
+        }
+    ],
     "wof:id":1092430721,
-    "wof:lastmodified":1473983431,
+    "wof:lastmodified":1496888049,
     "wof:name":"Manfred Lindorfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

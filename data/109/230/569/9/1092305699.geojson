@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3692893982,47.2648582458,11.3692893982,47.2648582458",
     "geom:latitude":47.264858,
     "geom:longitude":11.369289,
@@ -24,11 +25,14 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
+        85904347,
+        102191581,
+        1108837687,
         85632785,
-        85904367,
+        101748061,
         102049723,
-        85904347
+        85681661,
+        85904367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,27 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473910171,
-    "wof:geomhash":"308cca2f873b9d39658fcbb5807dddda",
+    "wof:geomhash":"418dcf1d5e8561195d67a90b95b851f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85904367,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092305699
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85904347,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1092305699
         }
     ],
     "wof:id":1092305699,
-    "wof:lastmodified":1473984661,
+    "wof:lastmodified":1496926018,
     "wof:name":"KSB \u00f6sterreich GesmbH",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

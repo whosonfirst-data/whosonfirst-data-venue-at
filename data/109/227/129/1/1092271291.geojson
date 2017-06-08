@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2797803879,48.2173500061,14.2797803879,48.2173500061",
     "geom:latitude":48.21735,
     "geom:longitude":14.27978,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898417,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908652,
-    "wof:geomhash":"fb53ce9b004e3fbe1181747f3e37c602",
+    "wof:geomhash":"aa08b1318563f8aa25ce6ca686df33ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898417,
             "region_id":85681677,
             "venue_id":1092271291
         }
     ],
     "wof:id":1092271291,
-    "wof:lastmodified":1473983674,
+    "wof:lastmodified":1496887018,
     "wof:name":"Elektro Harrer GesmbH",
     "wof:parent_id":85898417,
     "wof:placetype":"venue",

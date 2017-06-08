@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5001716614,48.2852783203,16.5001716614,48.2852783203",
     "geom:latitude":48.285278,
     "geom:longitude":16.500172,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898401,
-        102049891
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894880,
-    "wof:geomhash":"8b9a7d80d365ae40eefad40ba00078b3",
+    "wof:geomhash":"9369e2c2ad478e97bc5f51014d688277",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049891,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898401,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091961491
         }
     ],
     "wof:id":1091961491,
-    "wof:lastmodified":1473983528,
+    "wof:lastmodified":1496902526,
     "wof:name":"Reitsportzentrum Sportunion Reit- und Fahrverein St Stephan",
     "wof:parent_id":85898401,
     "wof:placetype":"venue",

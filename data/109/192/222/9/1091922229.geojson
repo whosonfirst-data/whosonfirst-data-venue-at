@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3376560211,48.1415977478,16.3376560211,48.1415977478",
     "geom:latitude":48.141598,
     "geom:longitude":16.337656,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893077,
-    "wof:geomhash":"89761cb2c27f0121b8dcf98c5b226258",
+    "wof:geomhash":"bb00e225100110c782171f105d0a5c22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091922229
         }
     ],
     "wof:id":1091922229,
-    "wof:lastmodified":1473983713,
+    "wof:lastmodified":1496927905,
     "wof:name":"Panalpina Welttransport GesmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

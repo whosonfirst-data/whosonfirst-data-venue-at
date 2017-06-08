@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1195383072,47.6758308411,13.1195383072,47.6758308411",
     "geom:latitude":47.675831,
     "geom:longitude":13.119538,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"hasag.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837091,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6m4Y4p2uw0xGkYzrAMNoER_47.675831_13.119538@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889503,
-    "wof:geomhash":"04a253672d59b0119066f4524130eafd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a179970888bf1073f3b60afa0033d9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837091,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091845689
+        }
+    ],
     "wof:id":1091845689,
-    "wof:lastmodified":1473984374,
+    "wof:lastmodified":1496895049,
     "wof:name":"HASAG Service GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

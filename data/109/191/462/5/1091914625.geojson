@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3560304642,47.8639183044,13.3560304642,47.8639183044",
     "geom:latitude":47.863918,
     "geom:longitude":13.35603,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836511,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wP97kbpZimYV0yFQRPmzo_47.863918_13.356030@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892777,
-    "wof:geomhash":"c14e4170914d7be4807baef2f53c0877",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a823b15b74227e9e1536309764440b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836511,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091914625
+        }
+    ],
     "wof:id":1091914625,
-    "wof:lastmodified":1473983904,
+    "wof:lastmodified":1496891417,
     "wof:name":"Mediconsult medizinische Software GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

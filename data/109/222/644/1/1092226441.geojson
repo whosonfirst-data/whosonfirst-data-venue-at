@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0408554077,47.7706565857,13.0408554077,47.7706565857",
     "geom:latitude":47.770657,
     "geom:longitude":13.040855,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906680,
-    "wof:geomhash":"b50ba46fda10cce54204ba262ec02616",
+    "wof:geomhash":"9cec32ad897f9b346103edc2187fdf2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1092226441
         }
     ],
     "wof:id":1092226441,
-    "wof:lastmodified":1473984906,
+    "wof:lastmodified":1496894528,
     "wof:name":"Jungwirth Paul Bmstr Ing",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

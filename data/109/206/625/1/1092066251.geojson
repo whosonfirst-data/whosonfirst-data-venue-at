@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9867515564,47.7644805908,16.9867515564,47.7644805908",
     "geom:latitude":47.764481,
     "geom:longitude":16.986752,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"gasthaus-hautzinger",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838657,
+        85632785,
+        101786829,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uQsE0yl1hvGImUpinX3PA_47.764481_16.986752@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899152,
-    "wof:geomhash":"2ce2bbdfdd220a7b510cd4bd9613d32b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3119b6d749b1998af34bce6d378160b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838657,
+            "locality_id":101786829,
+            "region_id":85681651,
+            "venue_id":1092066251
+        }
+    ],
     "wof:id":1092066251,
-    "wof:lastmodified":1473984513,
+    "wof:lastmodified":1496909020,
     "wof:name":"Gasthaus Hautzinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

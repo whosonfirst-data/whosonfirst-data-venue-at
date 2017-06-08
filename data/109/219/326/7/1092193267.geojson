@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3233680725,47.9532279968,14.3233680725,47.9532279968",
     "geom:latitude":47.953228,
     "geom:longitude":14.323368,
@@ -36,17 +37,33 @@
     ],
     "sg:website":"www.phytopharma.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836127,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uyJlhdkMWxZ4W3favYMKM_47.953228_14.323368@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905161,
-    "wof:geomhash":"534942dac6c94f814f376ceb24f5fa21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff20927f7a9d6b14050e6be983bcac40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836127,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092193267
+        }
+    ],
     "wof:id":1092193267,
-    "wof:lastmodified":1473984085,
+    "wof:lastmodified":1496889657,
     "wof:name":"Phytopharma GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

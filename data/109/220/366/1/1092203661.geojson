@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0699291229,47.0524215698,16.0699291229,47.0524215698",
     "geom:latitude":47.052422,
     "geom:longitude":16.069929,
@@ -32,17 +33,34 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839227,
+        85632785,
+        101789015,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RTdizlJhG1oxM6l1O02BA_47.052422_16.069929@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905688,
-    "wof:geomhash":"21555272a0270ef46b130dca1dce84a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b7409f5ff727810d6bfbaa789ccf2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839227,
+            "locality_id":101789015,
+            "region_id":85681687,
+            "venue_id":1092203661
+        }
+    ],
     "wof:id":1092203661,
-    "wof:lastmodified":1473984129,
+    "wof:lastmodified":1496912076,
     "wof:name":"Karl Urschler GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.276517868,47.2307472229,11.276517868,47.2307472229",
     "geom:latitude":47.230747,
     "geom:longitude":11.276518,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900922,
-    "wof:geomhash":"659c85ef0f3a999541c76c7121bb71ba",
+    "wof:geomhash":"63b61884beac95a86c5b2c54de1ef14e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092102203
         }
     ],
     "wof:id":1092102203,
-    "wof:lastmodified":1473983712,
+    "wof:lastmodified":1496898028,
     "wof:name":"Hansj\u00f6rg Wolf",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

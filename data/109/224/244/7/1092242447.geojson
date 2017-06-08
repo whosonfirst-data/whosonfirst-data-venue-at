@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4858407974,47.278427124,11.4858407974,47.278427124",
     "geom:latitude":47.278427,
     "geom:longitude":11.485841,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907382,
-    "wof:geomhash":"944612fd1ec67dc987d996a158af3057",
+    "wof:geomhash":"e57631e1f8b40f2bf30925055d1c10e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092242447
         }
     ],
     "wof:id":1092242447,
-    "wof:lastmodified":1473983940,
+    "wof:lastmodified":1496898744,
     "wof:name":"Gombocz Walter",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

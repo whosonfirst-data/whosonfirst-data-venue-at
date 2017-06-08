@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8750896454,47.2940483093,11.8750896454,47.2940483093",
     "geom:latitude":47.294048,
     "geom:longitude":11.87509,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837879,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LzGmZuZA2E7VahfiQ4dOM_47.294048_11.875090@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473916999,
-    "wof:geomhash":"3834a2988330faa6164944d21b73adad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f69c3d22167ad8b1b3ff84e561ef981e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837879,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092453717
+        }
+    ],
     "wof:id":1092453717,
-    "wof:lastmodified":1473983360,
+    "wof:lastmodified":1496900389,
     "wof:name":"Tischlerei Klausner KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

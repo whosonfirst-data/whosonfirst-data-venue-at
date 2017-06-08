@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2420711517,47.8385238647,16.2420711517,47.8385238647",
     "geom:latitude":47.838524,
     "geom:longitude":16.242071,
@@ -31,17 +32,34 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cu7OVLEfUfIBG5mXXQrSm_47.838524_16.242071@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911702,
-    "wof:geomhash":"8d6603cf6b319ea95b7e123d9bcb587c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb8bf442fe364416ce403c5f803d53ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1092341723
+        }
+    ],
     "wof:id":1092341723,
-    "wof:lastmodified":1473983616,
+    "wof:lastmodified":1496884084,
     "wof:name":"GEBR.NEMETZ MASCHINENBAU GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

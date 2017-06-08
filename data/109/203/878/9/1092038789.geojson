@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.500919342,47.9062004089,13.500919342,47.9062004089",
     "geom:latitude":47.9062,
     "geom:longitude":13.500919,
@@ -36,17 +37,33 @@
     ],
     "sg:website":"members.aon.at/goeschl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836421,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VqGTGmJzbHyDCrncbTUMG_47.906200_13.500919@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473898080,
-    "wof:geomhash":"e09524ea69a915004ddae807d12175ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aae112d33d35ab74a10f1b9b4302fae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836421,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092038789
+        }
+    ],
     "wof:id":1092038789,
-    "wof:lastmodified":1473984892,
+    "wof:lastmodified":1496890975,
     "wof:name":"G\u00f6schl Martin Reinigungstechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

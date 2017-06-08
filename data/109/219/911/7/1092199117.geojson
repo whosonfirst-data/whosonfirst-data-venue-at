@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8475036621,47.2144622803,14.8475036621,47.2144622803",
     "geom:latitude":47.214462,
     "geom:longitude":14.847504,
@@ -31,17 +32,33 @@
         "case"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838951,
+        85632785,
+        102049739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aa5ziAhsAWhRLvU1TASLN_47.214462_14.847504@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905409,
-    "wof:geomhash":"d2ed1880fb123f5c38bf9add7aa1057a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"160c392327984e3b7db6bf309971a15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049739,
+            "localadmin_id":1108838951,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092199117
+        }
+    ],
     "wof:id":1092199117,
-    "wof:lastmodified":1473985270,
+    "wof:lastmodified":1496910464,
     "wof:name":"Hubert Schwarz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

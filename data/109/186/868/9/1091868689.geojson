@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7575416565,48.3566474915,15.7575416565,48.3566474915",
     "geom:latitude":48.356647,
     "geom:longitude":15.757542,
@@ -35,17 +36,34 @@
     ],
     "sg:website":"hydro-ing.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836849,
+        85632785,
+        101783341,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xtwIOYqK5F0M1ugUf0GCi_48.356647_15.757542@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890599,
-    "wof:geomhash":"a28c679e9eead81bf599edf6b996c4d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e78455f563ddb1f1f97c059d5574ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836849,
+            "locality_id":101783341,
+            "region_id":85681671,
+            "venue_id":1091868689
+        }
+    ],
     "wof:id":1091868689,
-    "wof:lastmodified":1473985295,
+    "wof:lastmodified":1496893030,
     "wof:name":"Hydro Ingenieure TERRACOMP GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

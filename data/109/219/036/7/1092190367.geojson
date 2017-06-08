@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5676298141,47.8570289612,15.5676298141,47.8570289612",
     "geom:latitude":47.857029,
     "geom:longitude":15.56763,
@@ -36,17 +37,34 @@
         "lift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836245,
+        85632785,
+        101785681,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x5JKbDeeXlcyUNCl1hqKb_47.857029_15.567630@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905041,
-    "wof:geomhash":"90c374a743889afcc4c57dd3e4ae5e11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30f523fccf30e80dd5f3fb522abe80bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108836245,
+            "locality_id":101785681,
+            "region_id":85681671,
+            "venue_id":1092190367
+        }
+    ],
     "wof:id":1092190367,
-    "wof:lastmodified":1473983397,
+    "wof:lastmodified":1496890169,
     "wof:name":"Seilservice Buchmayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

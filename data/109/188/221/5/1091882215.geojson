@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2097377777,47.1313323975,10.2097377777,47.1313323975",
     "geom:latitude":47.131332,
     "geom:longitude":10.209738,
@@ -31,17 +32,33 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sw5WXsdjcaEEqyOxMmd2G_47.131332_10.209738@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891227,
-    "wof:geomhash":"f0fb80dd418c06f6b74b2cdcebb87e60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1180e8301665af23d7eed06adfaea858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091882215
+        }
+    ],
     "wof:id":1091882215,
-    "wof:lastmodified":1473983815,
+    "wof:lastmodified":1496896912,
     "wof:name":"ARLBERG HOSPIZ HOTEL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

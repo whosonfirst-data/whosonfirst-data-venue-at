@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1895017624,47.4224319458,12.1895017624,47.4224319458",
     "geom:latitude":47.422432,
     "geom:longitude":12.189502,
@@ -23,17 +24,33 @@
     "sg:postcode":"6363",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837381,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q5EMYro1Xom0kev201lJh_47.422432_12.189502@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893570,
-    "wof:geomhash":"56d33f065d7942b3c79b7226bf875cb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e082b46cf820c3e37c0ce3a4dc93c91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837381,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091931493
+        }
+    ],
     "wof:id":1091931493,
-    "wof:lastmodified":1473983691,
+    "wof:lastmodified":1496897435,
     "wof:name":"Sportverein Westendorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

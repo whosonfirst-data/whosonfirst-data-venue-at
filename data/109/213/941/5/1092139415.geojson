@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3730077744,47.2249221802,11.3730077744,47.2249221802",
     "geom:latitude":47.224922,
     "geom:longitude":11.373008,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902706,
-    "wof:geomhash":"b28d7449fb5544878d75c14ea7a22a49",
+    "wof:geomhash":"55c4eecb5cc5ad376e2b33e78a9e0ce6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092139415
         }
     ],
     "wof:id":1092139415,
-    "wof:lastmodified":1473985138,
+    "wof:lastmodified":1496898474,
     "wof:name":"Erwachsenenschule Mutters",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

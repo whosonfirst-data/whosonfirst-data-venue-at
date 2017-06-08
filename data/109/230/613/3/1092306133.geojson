@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5475177765,48.1915245056,14.5475177765,48.1915245056",
     "geom:latitude":48.191525,
     "geom:longitude":14.547518,
@@ -31,17 +32,33 @@
         "metalwork"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836861,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UYD81Cm6do7Y6YbsZPZiw_48.191525_14.547518@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910197,
-    "wof:geomhash":"fa84563ab219172bbeb3eca68115b44d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"817119cc68e7d7268263c376c855cc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836861,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092306133
+        }
+    ],
     "wof:id":1092306133,
-    "wof:lastmodified":1473984681,
+    "wof:lastmodified":1496893081,
     "wof:name":"Walter Kirschbichler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

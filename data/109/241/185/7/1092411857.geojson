@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4941196442,48.5013504028,14.4941196442,48.5013504028",
     "geom:latitude":48.50135,
     "geom:longitude":14.49412,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"thermo-as.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835061,
+        85632785,
+        101783375,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I0kfzXHufeXpcf9grjhMn_48.501350_14.494120@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473914977,
-    "wof:geomhash":"768a18b42868865c0fc9965b22bbbf5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66612e604959d5a88c97edf04b7120ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835061,
+            "locality_id":101783375,
+            "region_id":85681677,
+            "venue_id":1092411857
+        }
+    ],
     "wof:id":1092411857,
-    "wof:lastmodified":1473983690,
+    "wof:lastmodified":1496884389,
     "wof:name":"Thermo AS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

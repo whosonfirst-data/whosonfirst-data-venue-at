@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3576698303,47.2659339905,11.3576698303,47.2659339905",
     "geom:latitude":47.265934,
     "geom:longitude":11.35767,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906546,
-    "wof:geomhash":"28bafe2511c92560be21e9daea0519b3",
+    "wof:geomhash":"2480d05dc49fb32bb30665f735ebbe4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092223313
         }
     ],
     "wof:id":1092223313,
-    "wof:lastmodified":1473984059,
+    "wof:lastmodified":1496899553,
     "wof:name":"Wieser Gerhard",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

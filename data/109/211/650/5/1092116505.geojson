@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3495883942,47.2631721497,11.3495883942,47.2631721497",
     "geom:latitude":47.263172,
     "geom:longitude":11.349588,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901597,
-    "wof:geomhash":"a87fe5eb52bc517c114c3929c52eb473",
+    "wof:geomhash":"e08f9df2bd984032fd21d5d42530a159",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092116505
         }
     ],
     "wof:id":1092116505,
-    "wof:lastmodified":1473984745,
+    "wof:lastmodified":1496899360,
     "wof:name":"Fraidl Dietmar Dr",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

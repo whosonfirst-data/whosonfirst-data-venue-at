@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.407456398,47.2844543457,11.407456398,47.2844543457",
     "geom:latitude":47.284454,
     "geom:longitude":11.407456,
@@ -33,10 +34,13 @@
     "sg:website":"wellments.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889103,
-    "wof:geomhash":"0b5385066f9b17fc7e1f0f7dd6c21d44",
+    "wof:geomhash":"10fed38829dcfa933da75e165c592ec8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1091836535
         }
     ],
     "wof:id":1091836535,
-    "wof:lastmodified":1473984595,
+    "wof:lastmodified":1496899516,
     "wof:name":"CURA-Marketing GmbH",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

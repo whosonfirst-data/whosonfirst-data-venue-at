@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2010593414,48.0136566162,16.2010593414,48.0136566162",
     "geom:latitude":48.013657,
     "geom:longitude":16.201059,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896494,
-    "wof:geomhash":"598b6e2d86cacd05c00b12688e978393",
+    "wof:geomhash":"cdd0d468198724aca67598f5012eddd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1091999055
         }
     ],
     "wof:id":1091999055,
-    "wof:lastmodified":1473985059,
+    "wof:lastmodified":1496886049,
     "wof:name":"Technix Internet Services GmbH",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

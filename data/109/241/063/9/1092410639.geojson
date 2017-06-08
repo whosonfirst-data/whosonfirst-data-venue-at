@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5624141693,47.1169166565,15.5624141693,47.1169166565",
     "geom:latitude":47.116917,
     "geom:longitude":15.562414,
@@ -23,17 +24,33 @@
     "sg:postcode":"8063",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839209,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71Pi0XZGfUrVjX5zo74mSZ_47.116917_15.562414@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914906,
-    "wof:geomhash":"3acd1bfefd73adcced88dd1258fbb664",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41afd6540cdbe42e289eb87bdbc00561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839209,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092410639
+        }
+    ],
     "wof:id":1092410639,
-    "wof:lastmodified":1473983450,
+    "wof:lastmodified":1496911969,
     "wof:name":"Exakt Montagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

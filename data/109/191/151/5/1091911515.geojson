@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7093143463,47.9177207947,14.7093143463,47.9177207947",
     "geom:latitude":47.917721,
     "geom:longitude":14.709314,
@@ -33,17 +34,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836101,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LSb6jO5mwvtFi15e4jp0F_47.917721_14.709314@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892606,
-    "wof:geomhash":"3aa98f89599a2f5d4f2e89aece3ee0d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"581283e567048d29da1d51d82c20a54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836101,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091911515
+        }
+    ],
     "wof:id":1091911515,
-    "wof:lastmodified":1473983312,
+    "wof:lastmodified":1496889505,
     "wof:name":"Schischule Forsteralm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

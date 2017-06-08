@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8895149231,48.1230735779,14.8895149231,48.1230735779",
     "geom:latitude":48.123074,
     "geom:longitude":14.889515,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101784475,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PZHiLKXgS5MhNjeYhOP1C_48.123074_14.889515@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913573,
-    "wof:geomhash":"84e45cb8a507403c53baa38a2c9b5c5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdcb50c5e2a5dd00a522e7fe5a09c6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101784475,
+            "region_id":85681671,
+            "venue_id":1092382709
+        }
+    ],
     "wof:id":1092382709,
-    "wof:lastmodified":1473984012,
+    "wof:lastmodified":1496883402,
     "wof:name":"Pizza Treff (Zustelldienst)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

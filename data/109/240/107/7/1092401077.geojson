@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5941953659,47.2241172791,9.5941953659,47.2241172791",
     "geom:latitude":47.224117,
     "geom:longitude":9.594195,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914460,
-    "wof:geomhash":"8024a0f50e749ad5449aa60c2fb63d19",
+    "wof:geomhash":"33ef6ee01a1cf936f05956dbeb6feca2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092401077
         }
     ],
     "wof:id":1092401077,
-    "wof:lastmodified":1473983531,
+    "wof:lastmodified":1496900989,
     "wof:name":"Sattler Krista Dr",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

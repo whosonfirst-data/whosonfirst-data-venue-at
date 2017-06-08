@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1784744263,48.207485199,16.1784744263,48.207485199",
     "geom:latitude":48.207485,
     "geom:longitude":16.178474,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898757,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898056,
-    "wof:geomhash":"c11c29f31d9d04215fd0926c643a0c44",
+    "wof:geomhash":"058aaeb2616ef7526fd32ff6391e9156",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898757,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092038105
         }
     ],
     "wof:id":1092038105,
-    "wof:lastmodified":1473984815,
+    "wof:lastmodified":1496888162,
     "wof:name":"Stadtheuriger",
     "wof:parent_id":85898757,
     "wof:placetype":"venue",

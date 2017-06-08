@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7317218781,46.705696106,14.7317218781,46.705696106",
     "geom:latitude":46.705696,
     "geom:longitude":14.731722,
@@ -33,17 +34,34 @@
         "fitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838121,
+        85632785,
+        101912483,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QyMTo99GbMyDxYNygzOxN_46.705696_14.731722@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889221,
-    "wof:geomhash":"4e47e76bdb215d7e6cc5aaaff1210faa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21e0edfbfc94b235921d358a78302bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838121,
+            "locality_id":101912483,
+            "region_id":85681655,
+            "venue_id":1091838833
+        }
+    ],
     "wof:id":1091838833,
-    "wof:lastmodified":1473985157,
+    "wof:lastmodified":1496905351,
     "wof:name":"Franz Suette Installationen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

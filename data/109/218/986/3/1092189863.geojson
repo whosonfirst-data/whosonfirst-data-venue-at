@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3956851959,46.839641571,14.3956851959,46.839641571",
     "geom:latitude":46.839642,
     "geom:longitude":14.395685,
@@ -31,17 +32,33 @@
         "item"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838235,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oJjcoopRALRrwbftfJiX9_46.839642_14.395685@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905018,
-    "wof:geomhash":"be117179982d3d263e27822ca14c5bbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eff680f5bb544ecfbfc707618dc9b2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838235,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092189863
+        }
+    ],
     "wof:id":1092189863,
-    "wof:lastmodified":1473985237,
+    "wof:lastmodified":1496906668,
     "wof:name":"Druckagentur Trojacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

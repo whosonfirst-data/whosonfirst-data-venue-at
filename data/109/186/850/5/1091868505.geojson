@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2428588867,47.8120193481,16.2428588867,47.8120193481",
     "geom:latitude":47.812019,
     "geom:longitude":16.242859,
@@ -31,17 +32,34 @@
         "binding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J4tR30kULfFn07hRFJ1kn_47.812019_16.242859@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890591,
-    "wof:geomhash":"7f1fd7232cb170ecf48b5e238b1a9c81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dedb93ca0531a1be429e2299734b120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1091868505
+        }
+    ],
     "wof:id":1091868505,
-    "wof:lastmodified":1473985212,
+    "wof:lastmodified":1496884070,
     "wof:name":"Josef Wladika",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1914262772,47.3180160522,13.1914262772,47.3180160522",
     "geom:latitude":47.318016,
     "geom:longitude":13.191426,
@@ -23,17 +24,33 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Fpe2WzFnXzkgWty2GPJrc_47.318016_13.191426@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899445,
-    "wof:geomhash":"da61cc6e2c1c8a2b0b9f97c59cc7da9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bda8ca22e923cd44a27cbae048722f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092073369
+        }
+    ],
     "wof:id":1092073369,
-    "wof:lastmodified":1473983916,
+    "wof:lastmodified":1496894097,
     "wof:name":"Gasthof Liechtensteinklamm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

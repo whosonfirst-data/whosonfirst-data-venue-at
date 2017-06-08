@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4058761597,48.1418113708,16.4058761597,48.1418113708",
     "geom:latitude":48.141811,
     "geom:longitude":16.405876,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891227,
-    "wof:geomhash":"31aceb9133d080c5cf250fb665b68fe8",
+    "wof:geomhash":"37c2aa5fb07dbaa018281573c6285151",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1091882199
         }
     ],
     "wof:id":1091882199,
-    "wof:lastmodified":1473983801,
+    "wof:lastmodified":1496928551,
     "wof:name":"OBERLAA KONDITOREI GMBH & CO. KG",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

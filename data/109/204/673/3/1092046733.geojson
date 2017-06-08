@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.42786026,47.4099235535,12.42786026,47.4099235535",
     "geom:latitude":47.409924,
     "geom:longitude":12.42786,
@@ -28,17 +29,33 @@
     "sg:postcode":"6370",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837691,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17Xhq9pY0cqzkOL0MBPnJl_47.409924_12.427860@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898382,
-    "wof:geomhash":"b4b64bc373102286834cd5b44912482d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42592d69649640076f4bc51ecc75a3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837691,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092046733
+        }
+    ],
     "wof:id":1092046733,
-    "wof:lastmodified":1473983953,
+    "wof:lastmodified":1496899590,
     "wof:name":"Hotel Gasthof Hechenmoos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

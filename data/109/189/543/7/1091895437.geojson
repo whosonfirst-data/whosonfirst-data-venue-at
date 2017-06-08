@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1404752731,48.0645599365,15.1404752731,48.0645599365",
     "geom:latitude":48.06456,
     "geom:longitude":15.140475,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835333,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ozCESdmeximnJsrjQ0OhA_48.064560_15.140475@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891858,
-    "wof:geomhash":"da04c5d2d92ecf94da49f25d9e5b6cfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f95d4a3f36c157825cd84a87738db323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835333,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091895437
+        }
+    ],
     "wof:id":1091895437,
-    "wof:lastmodified":1473984575,
+    "wof:lastmodified":1496886154,
     "wof:name":"Mayer Sepp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

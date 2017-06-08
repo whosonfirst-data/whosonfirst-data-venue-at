@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3704376221,46.632183075,14.3704376221,46.632183075",
     "geom:latitude":46.632183,
     "geom:longitude":14.370438,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903837,
-    "wof:geomhash":"b0820647e5b66d8b26a2101efaea71c9",
+    "wof:geomhash":"2311ce262ad0c2c0064df71b574f57a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092163589
         }
     ],
     "wof:id":1092163589,
-    "wof:lastmodified":1473984007,
+    "wof:lastmodified":1496905822,
     "wof:name":"RKG Photovoltaik GmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

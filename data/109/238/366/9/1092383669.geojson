@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2509469986,47.4501075745,12.2509469986,47.4501075745",
     "geom:latitude":47.450108,
     "geom:longitude":12.250947,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XH27BYEvRBMOJVStbp1dx_47.450108_12.250947@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913624,
-    "wof:geomhash":"9faf77c304e51344044d23ece31d71cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2529a0a34f22f747a4601bbf1eeb5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092383669
+        }
+    ],
     "wof:id":1092383669,
-    "wof:lastmodified":1473984199,
+    "wof:lastmodified":1496897259,
     "wof:name":"Pizzeria Massimo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

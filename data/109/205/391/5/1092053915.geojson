@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8727216721,47.3520317078,11.8727216721,47.3520317078",
     "geom:latitude":47.352032,
     "geom:longitude":11.872722,
@@ -32,17 +33,33 @@
         "hunting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837873,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HUIyjTYWyRGBtZ6I2dVgo_47.352032_11.872722@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898659,
-    "wof:geomhash":"1407dc00ee44c9f8406165d2a72314dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4004e372fdf5aa7b9df1448296848603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837873,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092053915
+        }
+    ],
     "wof:id":1092053915,
-    "wof:lastmodified":1473984084,
+    "wof:lastmodified":1496900333,
     "wof:name":"Zillertaler Lodenerzeugung David Kreutner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

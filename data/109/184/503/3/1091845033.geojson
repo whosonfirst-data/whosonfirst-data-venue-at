@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4752960205,48.2911529541,16.4752960205,48.2911529541",
     "geom:latitude":48.291153,
     "geom:longitude":16.475296,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889476,
-    "wof:geomhash":"8e7ed3e07896bcc6b8e1860d42d4d105",
+    "wof:geomhash":"eb86a39e51e5b1e694c8b06417f83146",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091845033
         }
     ],
     "wof:id":1091845033,
-    "wof:lastmodified":1473984235,
+    "wof:lastmodified":1496890138,
     "wof:name":"MIPO Bau- u HandelsgesmbH",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9708366394,47.7837638855,12.9708366394,47.7837638855",
     "geom:latitude":47.783764,
     "geom:longitude":12.970837,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904373,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896913,
-    "wof:geomhash":"8dd615fcd0c77b6ec93666e3189f9af9",
+    "wof:geomhash":"51dae55db408f76ba332ee0ff18c569f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85904373,
             "region_id":85681681,
             "venue_id":1092009183
         }
     ],
     "wof:id":1092009183,
-    "wof:lastmodified":1473985020,
+    "wof:lastmodified":1496895753,
     "wof:name":"Eurodima Diamanttechnik GesmbH",
     "wof:parent_id":85904373,
     "wof:placetype":"venue",

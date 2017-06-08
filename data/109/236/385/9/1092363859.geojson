@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8278570175,47.2781944275,12.8278570175,47.2781944275",
     "geom:latitude":47.278194,
     "geom:longitude":12.827857,
@@ -23,17 +24,33 @@
     "sg:postcode":"5671",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ovK8CqYMfJZR2huTYRC9C_47.278194_12.827857@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912701,
-    "wof:geomhash":"11f84e7cffe863819f34c8a0bc2e08e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8418f08576d13bbe87175ccdc63f5daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092363859
+        }
+    ],
     "wof:id":1092363859,
-    "wof:lastmodified":1473984202,
+    "wof:lastmodified":1496895895,
     "wof:name":"Ginzhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

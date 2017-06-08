@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4738044739,48.2053947449,14.4738044739,48.2053947449",
     "geom:latitude":48.205395,
     "geom:longitude":14.473804,
@@ -36,10 +37,12 @@
     "sg:website":"physiotron.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911074,
-    "wof:geomhash":"c5692280271215ecd6ec71fe559ab3cb",
+    "wof:geomhash":"91641450ffbb5ebdb70bedff5ede2929",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092326381
         }
     ],
     "wof:id":1092326381,
-    "wof:lastmodified":1473984931,
+    "wof:lastmodified":1496887088,
     "wof:name":"EFP Elektronik GmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

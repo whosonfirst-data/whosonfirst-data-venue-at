@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5683164597,47.5729255676,12.5683164597,47.5729255676",
     "geom:latitude":47.572926,
     "geom:longitude":12.568316,
@@ -23,17 +24,33 @@
     "sg:postcode":"6384",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837693,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gIsqwUvlsdM8T8peBfbQE_47.572926_12.568316@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914130,
-    "wof:geomhash":"d27527620c9cbaf14422b66a4a423568",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbab9a3de213b1b4dc00d0b416f96be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837693,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092393335
+        }
+    ],
     "wof:id":1092393335,
-    "wof:lastmodified":1473983771,
+    "wof:lastmodified":1496899608,
     "wof:name":"Postamt 6384 Waidring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

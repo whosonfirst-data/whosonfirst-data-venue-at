@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7237272263,48.2730026245,13.7237272263,48.2730026245",
     "geom:latitude":48.273003,
     "geom:longitude":13.723727,
@@ -33,17 +34,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835205,
+        85632785,
+        101784575,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5idGfnxvTgVIMimEMN8mcB_48.273003_13.723727@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905816,
-    "wof:geomhash":"d72ed3f208e1b0c1370d9bb447749501",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e56c1a6bdf5167fa51cb9714c404524e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835205,
+            "locality_id":101784575,
+            "region_id":85681677,
+            "venue_id":1092206719
+        }
+    ],
     "wof:id":1092206719,
-    "wof:lastmodified":1473984763,
+    "wof:lastmodified":1496885443,
     "wof:name":"Johann Leeb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

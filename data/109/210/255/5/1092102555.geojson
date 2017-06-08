@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1850795746,47.9286308289,16.1850795746,47.9286308289",
     "geom:latitude":47.928631,
     "geom:longitude":16.18508,
@@ -35,17 +36,34 @@
         "handling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835315,
+        85632785,
+        101833189,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZYJKV683GQ3Y4QQkYqCYR_47.928631_16.185080@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900937,
-    "wof:geomhash":"4a93e05aef07f67c018c22ca338e8647",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f81264d8033ba2dc59f5f1bfc9d4e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835315,
+            "locality_id":101833189,
+            "region_id":85681671,
+            "venue_id":1092102555
+        }
+    ],
     "wof:id":1092102555,
-    "wof:lastmodified":1473983750,
+    "wof:lastmodified":1496891897,
     "wof:name":"INTERHYDRAULIK FERTIGUNGS GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

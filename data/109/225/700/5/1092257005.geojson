@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1022701263,47.3620910645,15.1022701263,47.3620910645",
     "geom:latitude":47.362091,
     "geom:longitude":15.10227,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898553,
-        102049769
+        102191581,
+        1108839009,
+        85632785,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908018,
-    "wof:geomhash":"41e1f3d2a3126736495254b7d5fa3bc2",
+    "wof:geomhash":"11d09920edc08f822a7b526e19bc5b74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":-1,
             "neighbourhood_id":85898553,
             "region_id":85681687,
             "venue_id":1092257005
         }
     ],
     "wof:id":1092257005,
-    "wof:lastmodified":1473984974,
+    "wof:lastmodified":1496910791,
     "wof:name":"Kr\u00f6ll Gottfried",
     "wof:parent_id":85898553,
     "wof:placetype":"venue",

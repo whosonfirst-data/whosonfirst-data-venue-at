@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1732416153,46.6004524231,14.1732416153,46.6004524231",
     "geom:latitude":46.600452,
     "geom:longitude":14.173242,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838183,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c9ghJYYKetnYq5J5RxNjp_46.600452_14.173242@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898891,
-    "wof:geomhash":"8820af25f43b939a7a4aad4d203803c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f489d57e0506395501beebc8edae247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838183,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092059785
+        }
+    ],
     "wof:id":1092059785,
-    "wof:lastmodified":1473985208,
+    "wof:lastmodified":1496906447,
     "wof:name":"Edgar Severin Santer GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

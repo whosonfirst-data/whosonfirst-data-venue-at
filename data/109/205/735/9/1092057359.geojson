@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3484992981,47.7797851562,13.3484992981,47.7797851562",
     "geom:latitude":47.779785,
     "geom:longitude":13.348499,
@@ -23,17 +24,33 @@
     "sg:postcode":"5340",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837175,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71timZiEGanLaFIsAAHlvK_47.779785_13.348499@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898802,
-    "wof:geomhash":"38d6d185f515e6e93660d089a466c303",
-    "wof:hierarchy":[],
+    "wof:geomhash":"931fe9aa68fd9ff1b4cba1c39e193fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837175,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092057359
+        }
+    ],
     "wof:id":1092057359,
-    "wof:lastmodified":1473984586,
+    "wof:lastmodified":1496895649,
     "wof:name":"Haslauer METALLBAU GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

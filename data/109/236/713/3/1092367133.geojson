@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0016202927,46.9665718079,11.0016202927,46.9665718079",
     "geom:latitude":46.966572,
     "geom:longitude":11.00162,
@@ -23,17 +24,33 @@
     "sg:postcode":"6450",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837447,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CxJ4LlsVn4cAloMLgjY9n_46.966572_11.001620@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912862,
-    "wof:geomhash":"b9e79819342708ead2586974d9668d24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b11dfd9293a174f6fcdc3b54871b6de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837447,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092367133
+        }
+    ],
     "wof:id":1092367133,
-    "wof:lastmodified":1473984952,
+    "wof:lastmodified":1496897933,
     "wof:name":"Haus Wiesenblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

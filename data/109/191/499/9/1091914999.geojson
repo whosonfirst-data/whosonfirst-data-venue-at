@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6967105865,47.9065971375,16.6967105865,47.9065971375",
     "geom:latitude":47.906597,
     "geom:longitude":16.696711,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838761,
+        85632785,
+        101785641,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1huTjrChBv5h41gJ9By7wW_47.906597_16.696711@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892790,
-    "wof:geomhash":"ca91e4a6ffff36164cbc2d8c1040405c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef18211f9504e50f5d919fdd7ebe180d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838761,
+            "locality_id":101785641,
+            "region_id":85681651,
+            "venue_id":1091914999
+        }
+    ],
     "wof:id":1091914999,
-    "wof:lastmodified":1473983945,
+    "wof:lastmodified":1496909257,
     "wof:name":"Pickem GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

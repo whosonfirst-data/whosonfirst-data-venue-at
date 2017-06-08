@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6810760498,47.3948822021,12.6810760498,47.3948822021",
     "geom:latitude":47.394882,
     "geom:longitude":12.681076,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.berghotel.at/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UGEaU7jMb1oR5KrmA2hBj_47.394882_12.681076@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894836,
-    "wof:geomhash":"8f25c88a92b1c1a4b8503b7ace1bb83b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1f83ddce764ffc0d8697e8b628318fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091960335
+        }
+    ],
     "wof:id":1091960335,
-    "wof:lastmodified":1473983359,
+    "wof:lastmodified":1496896248,
     "wof:name":"Hotel Berghotel Seidl-Alm, Saalbach Hinterglemm, Austria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

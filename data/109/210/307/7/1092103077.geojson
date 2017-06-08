@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4548215866,47.5137023926,12.4548215866,47.5137023926",
     "geom:latitude":47.513702,
     "geom:longitude":12.454822,
@@ -32,17 +33,33 @@
         "granite"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xjJousnlYZSg1SqACmJKq_47.513702_12.454822@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900962,
-    "wof:geomhash":"113733cbadc59979996efc49bd10ed9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdc0e6df19c024f3a540ed90105b3636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092103077
+        }
+    ],
     "wof:id":1092103077,
-    "wof:lastmodified":1473983913,
+    "wof:lastmodified":1496897376,
     "wof:name":"Hermann Leitner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

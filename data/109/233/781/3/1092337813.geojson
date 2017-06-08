@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0745172501,48.1831283569,14.0745172501,48.1831283569",
     "geom:latitude":48.183128,
     "geom:longitude":14.074517,
@@ -33,17 +34,34 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SAbhN09sv9Oau3OCeoCGL_48.183128_14.074517@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911539,
-    "wof:geomhash":"ddad47e5f1601b5aae47081c4dd10624",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dfc79d785378d90f6f08ad0d57561b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092337813
+        }
+    ],
     "wof:id":1092337813,
-    "wof:lastmodified":1473985240,
+    "wof:lastmodified":1496881809,
     "wof:name":"BUDERUS AUSTRIA HEIZTECHNIK GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

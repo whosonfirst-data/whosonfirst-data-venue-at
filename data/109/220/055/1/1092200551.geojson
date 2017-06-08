@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1882276535,48.0102996826,13.1882276535,48.0102996826",
     "geom:latitude":48.0103,
     "geom:longitude":13.188228,
@@ -31,17 +32,33 @@
         "ceiling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834747,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xWPd1lPorsu29vTZ6gSns_48.010300_13.188228@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905483,
-    "wof:geomhash":"31d38fc4ba92f7d9e2d17df6ac9cbf32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd6da2b4e96b7c711ac98f4d88785213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834747,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092200551
+        }
+    ],
     "wof:id":1092200551,
-    "wof:lastmodified":1473983397,
+    "wof:lastmodified":1496882431,
     "wof:name":"Friedrich Hohenauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

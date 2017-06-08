@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4986991882,46.8334655762,13.4986991882,46.8334655762",
     "geom:latitude":46.833466,
     "geom:longitude":13.498699,
@@ -23,17 +24,33 @@
     "sg:postcode":"9851",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838299,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XLRW5qG63ElqDr2CZYhlG_46.833466_13.498699@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906770,
-    "wof:geomhash":"3e36171673c2a7c4e9ad170b9a17d139",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bb343713fe171aa987e94c9c2d3f328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838299,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092228763
+        }
+    ],
     "wof:id":1092228763,
-    "wof:lastmodified":1473985287,
+    "wof:lastmodified":1496907109,
     "wof:name":"Auer Telekommunikation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7663326263,47.1978530884,9.7663326263,47.1978530884",
     "geom:latitude":47.197853,
     "geom:longitude":9.766333,
@@ -31,17 +32,34 @@
         "catering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838073,
+        85632785,
+        101827445,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iYbcNwY9wdBNl89uReEgr_47.197853_9.766333@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905427,
-    "wof:geomhash":"78fc9bbad994e6b7986ef3d661663a58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"356c9020def35c3b91bcf7de931c3679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838073,
+            "locality_id":101827445,
+            "region_id":85681649,
+            "venue_id":1092199433
+        }
+    ],
     "wof:id":1092199433,
-    "wof:lastmodified":1473985291,
+    "wof:lastmodified":1496901836,
     "wof:name":"AS-Catering und Partyservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6159915924,47.2720298767,9.6159915924,47.2720298767",
     "geom:latitude":47.27203,
     "geom:longitude":9.615992,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889924,
-    "wof:geomhash":"29b197295484f4a4384019bbdbed3314",
+    "wof:geomhash":"9a2ea70042901a6d2cf1df0d2d7cf83d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091854873
         }
     ],
     "wof:id":1091854873,
-    "wof:lastmodified":1473984271,
+    "wof:lastmodified":1496901667,
     "wof:name":"Sch\u00f6ps Richard & Co AG",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

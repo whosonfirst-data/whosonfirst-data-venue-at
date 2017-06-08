@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7472381592,47.2869758606,12.7472381592,47.2869758606",
     "geom:latitude":47.286976,
     "geom:longitude":12.747238,
@@ -23,17 +24,33 @@
     "sg:postcode":"5721",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IQorUCN6VhiiPxH1kdwjY_47.286976_12.747238@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899477,
-    "wof:geomhash":"aaf0959060700f7dfa5c8569331e38d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1a101f55b72e1f744f1f5bf349ad73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092074183
+        }
+    ],
     "wof:id":1092074183,
-    "wof:lastmodified":1473984080,
+    "wof:lastmodified":1496896145,
     "wof:name":"Gasthof Schett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

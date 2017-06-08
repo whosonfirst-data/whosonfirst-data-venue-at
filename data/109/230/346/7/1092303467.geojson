@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4081859589,47.2822265625,11.4081859589,47.2822265625",
     "geom:latitude":47.282227,
     "geom:longitude":11.408186,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910062,
-    "wof:geomhash":"2fc26dbef86d25e35608b795798303f0",
+    "wof:geomhash":"e7a73a1a335ca76acc908d4cf005fdd4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092303467
         }
     ],
     "wof:id":1092303467,
-    "wof:lastmodified":1473984170,
+    "wof:lastmodified":1496899348,
     "wof:name":"Pfretschner Paul Dipl-Ing",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

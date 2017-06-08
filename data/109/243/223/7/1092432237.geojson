@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.321852684,46.6034889221,14.321852684,46.6034889221",
     "geom:latitude":46.603489,
     "geom:longitude":14.321853,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898261,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916014,
-    "wof:geomhash":"fb76cd751070051e875abe1160f0e130",
+    "wof:geomhash":"5efc8b8e0d14062231773d97cac3c58c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898261,
             "region_id":85681655,
             "venue_id":1092432237
         }
     ],
     "wof:id":1092432237,
-    "wof:lastmodified":1473983704,
+    "wof:lastmodified":1496905614,
     "wof:name":"SORGO ANLAGENBAU",
     "wof:parent_id":85898261,
     "wof:placetype":"venue",

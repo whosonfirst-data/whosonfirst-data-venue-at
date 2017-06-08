@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1692886353,46.9889678955,13.1692886353,46.9889678955",
     "geom:latitude":46.988968,
     "geom:longitude":13.169289,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://www.lassl.de",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838351,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P7Le1kAvVUKUuCjESdgpe_46.988968_13.169289@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894832,
-    "wof:geomhash":"bd890639d08765fc93ca99cf7361bbc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e64b03eea11317109d43f8d134ebdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838351,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091960213
+        }
+    ],
     "wof:id":1091960213,
-    "wof:lastmodified":1473983346,
+    "wof:lastmodified":1496907438,
     "wof:name":"Appartementhaus K. Lassl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

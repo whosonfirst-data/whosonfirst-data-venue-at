@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3997783661,47.5075416565,12.3997783661,47.5075416565",
     "geom:latitude":47.507542,
     "geom:longitude":12.399778,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"egger.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TaUIwCnYbLfPEcq5ZwE7M_47.507542_12.399778@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905691,
-    "wof:geomhash":"5bc20b55fed1378284993d66e6b1c957",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43a3a93f09062222830253a6f863e88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092203747
+        }
+    ],
     "wof:id":1092203747,
-    "wof:lastmodified":1473984170,
+    "wof:lastmodified":1496897402,
     "wof:name":"Fritz Egger GmbH & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

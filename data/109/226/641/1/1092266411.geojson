@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7571706772,47.3904914856,11.7571706772,47.3904914856",
     "geom:latitude":47.390491,
     "geom:longitude":11.757171,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837877,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54SHvTMYlckFcb1Jk7jWcU_47.390491_11.757171@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908446,
-    "wof:geomhash":"c21c3267f011cdfb3a4fcf585d31efdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91b3bd3e4fd57f5d67eb6df9e687d5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837877,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092266411
+        }
+    ],
     "wof:id":1092266411,
-    "wof:lastmodified":1473984575,
+    "wof:lastmodified":1496900381,
     "wof:name":"TIWAG TIROLER WASSERKRAFT AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3108415604,47.4488182068,12.3108415604,47.4488182068",
     "geom:latitude":47.448818,
     "geom:longitude":12.310842,
@@ -23,17 +24,34 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        101834287,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bjuHYFMSTsys3EeitGbrv_47.448818_12.310842@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888407,
-    "wof:geomhash":"798665a2954e13ce56315522e8949394",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5838eab1cb24c2a90e3d9350d88eb972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":101834287,
+            "region_id":85681661,
+            "venue_id":1091821269
+        }
+    ],
     "wof:id":1091821269,
-    "wof:lastmodified":1473983658,
+    "wof:lastmodified":1496899095,
     "wof:name":"Bahnhof Kirchberg i Tirol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

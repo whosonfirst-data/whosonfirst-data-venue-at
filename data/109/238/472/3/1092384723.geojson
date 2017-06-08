@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4436101913,47.5571060181,12.4436101913,47.5571060181",
     "geom:latitude":47.557106,
     "geom:longitude":12.44361,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        101833057,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D9jH1flSSbJQsCigVJS6z_47.557106_12.443610@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913667,
-    "wof:geomhash":"527db0cc55a94b8db8c24d5920a36790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0b9044dd74cee269fb0758f7158bcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":101833057,
+            "region_id":85681661,
+            "venue_id":1092384723
+        }
+    ],
     "wof:id":1092384723,
-    "wof:lastmodified":1473984469,
+    "wof:lastmodified":1496897080,
     "wof:name":"Pizzeria Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4945068359,47.3502235413,13.4945068359,47.3502235413",
     "geom:latitude":47.350224,
     "geom:longitude":13.494507,
@@ -23,17 +24,33 @@
     "sg:postcode":"5550",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837025,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6txMv8hyOMzsFLjUBJAWvJ_47.350224_13.494507@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913122,
-    "wof:geomhash":"388a8228383a5b7de6c600a8d2cf063c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7780de9b05838e1acc1e1196da990f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837025,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092372313
+        }
+    ],
     "wof:id":1092372313,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496894032,
     "wof:name":"Pension Stieglerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

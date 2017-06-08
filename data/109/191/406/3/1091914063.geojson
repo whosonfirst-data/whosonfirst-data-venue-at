@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9750843048,48.6473808289,13.9750843048,48.6473808289",
     "geom:latitude":48.647381,
     "geom:longitude":13.975084,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835711,
+        85632785,
+        101782219,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bb6gFZHxKmTeZCYsVYqP8_48.647381_13.975084@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892746,
-    "wof:geomhash":"2707fe346793ec5cd4e2a0d0a48c9c2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64aa99e1e1166e55479c0eadf0d93b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835711,
+            "locality_id":101782219,
+            "region_id":85681677,
+            "venue_id":1091914063
+        }
+    ],
     "wof:id":1091914063,
-    "wof:lastmodified":1473983840,
+    "wof:lastmodified":1496888035,
     "wof:name":"Information Engineering GmbH - Erik M Pillinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

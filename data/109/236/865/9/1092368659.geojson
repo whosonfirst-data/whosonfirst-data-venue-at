@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0677318573,47.7456207275,13.0677318573,47.7456207275",
     "geom:latitude":47.745621,
     "geom:longitude":13.067732,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912944,
-    "wof:geomhash":"133f3668d414b0b3fcf50b17c79b509c",
+    "wof:geomhash":"3f4a0aee46f8953b54b00e42524d5288",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1092368659
         }
     ],
     "wof:id":1092368659,
-    "wof:lastmodified":1473985203,
+    "wof:lastmodified":1496895177,
     "wof:name":"Landhaus Wenger",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

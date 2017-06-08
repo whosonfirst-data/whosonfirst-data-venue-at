@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8872308731,47.3984031677,10.8872308731,47.3984031677",
     "geom:latitude":47.398403,
     "geom:longitude":10.887231,
@@ -33,17 +34,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44bVdkQe5rSKsv25DQK8Sm_47.398403_10.887231@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892609,
-    "wof:geomhash":"67c166e2e3a15e38a0d111f0710c4013",
-    "wof:hierarchy":[],
+    "wof:geomhash":"275f253498bd7c8da168f152a4702354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091911593
+        }
+    ],
     "wof:id":1091911593,
-    "wof:lastmodified":1473983335,
+    "wof:lastmodified":1496899866,
     "wof:name":"Schischule Lermoos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

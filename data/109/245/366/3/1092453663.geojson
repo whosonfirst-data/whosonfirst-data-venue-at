@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2236156464,47.809135437,16.2236156464,47.809135437",
     "geom:latitude":47.809135,
     "geom:longitude":16.223616,
@@ -33,17 +34,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34qAThTlBhlmsK5ICD5MoB_47.809135_16.223616@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473916998,
-    "wof:geomhash":"3b2e84c3fd5bde6bf6a300164b269c01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d37f2f6c1444801f745ba9750c52905a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1092453663
+        }
+    ],
     "wof:id":1092453663,
-    "wof:lastmodified":1473983341,
+    "wof:lastmodified":1496883911,
     "wof:name":"Friedrich Raidl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

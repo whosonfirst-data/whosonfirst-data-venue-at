@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4640483856,47.3846702576,13.4640483856,47.3846702576",
     "geom:latitude":47.38467,
     "geom:longitude":13.464048,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837025,
+        85632785,
+        101844511,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pM16dUYvxlNrLDIxNs0Nj_47.384670_13.464048@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913625,
-    "wof:geomhash":"3a1e79f1fd5148ae838239498900129c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"050ccaaabae7bd14e2803d9f393a2d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837025,
+            "locality_id":101844511,
+            "region_id":85681681,
+            "venue_id":1092383697
+        }
+    ],
     "wof:id":1092383697,
-    "wof:lastmodified":1473984188,
+    "wof:lastmodified":1496894035,
     "wof:name":"Pizzeria Montana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

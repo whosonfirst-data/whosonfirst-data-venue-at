@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5090656281,47.2831916809,11.5090656281,47.2831916809",
     "geom:latitude":47.283192,
     "geom:longitude":11.509066,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891915,
-    "wof:geomhash":"7985a32cd09759c77e88920f256af3f3",
+    "wof:geomhash":"a34a4b675b26fe6e222098b2b73aad17",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091896663
         }
     ],
     "wof:id":1091896663,
-    "wof:lastmodified":1473984877,
+    "wof:lastmodified":1496898728,
     "wof:name":"Sauna Kurhaus",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

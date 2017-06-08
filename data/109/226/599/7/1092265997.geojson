@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5336322784,48.2428474426,14.5336322784,48.2428474426",
     "geom:latitude":48.242847,
     "geom:longitude":14.533632,
@@ -32,17 +33,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835527,
+        85632785,
+        101833219,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YDAuWCGWo4RXYf4DzlJ9G_48.242847_14.533632@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908426,
-    "wof:geomhash":"53755be8542bc12ff5c6b4dfc8360411",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5940c5341a2c11c5244bbc2cb86dcd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":101833219,
+            "region_id":85681677,
+            "venue_id":1092265997
+        }
+    ],
     "wof:id":1092265997,
-    "wof:lastmodified":1473984510,
+    "wof:lastmodified":1496887554,
     "wof:name":"Ernst Haslinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

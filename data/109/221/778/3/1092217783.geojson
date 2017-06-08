@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4988956451,47.1114044189,15.4988956451,47.1114044189",
     "geom:latitude":47.111404,
     "geom:longitude":15.498896,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906318,
-    "wof:geomhash":"7195ad763513bb87a93e139f1b47cbe4",
+    "wof:geomhash":"2cf29145a4da1cf1115ab3e5d75b2cc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092217783
         }
     ],
     "wof:id":1092217783,
-    "wof:lastmodified":1473984918,
+    "wof:lastmodified":1496913070,
     "wof:name":"Tank Roth",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

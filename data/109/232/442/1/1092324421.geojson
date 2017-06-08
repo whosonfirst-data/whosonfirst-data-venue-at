@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3657150269,48.2602348328,16.3657150269,48.2602348328",
     "geom:latitude":48.260235,
     "geom:longitude":16.365715,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910988,
-    "wof:geomhash":"37fc27b1c9c4c5ae8ce77e341a0e9c68",
+    "wof:geomhash":"95f576d63f460719f1503cec41d3a9d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092324421
         }
     ],
     "wof:id":1092324421,
-    "wof:lastmodified":1473984422,
+    "wof:lastmodified":1496902062,
     "wof:name":"Holy Manfred",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

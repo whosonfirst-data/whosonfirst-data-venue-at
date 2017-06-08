@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6393222809,47.2744064331,9.6393222809,47.2744064331",
     "geom:latitude":47.274406,
     "geom:longitude":9.639322,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897089,
-    "wof:geomhash":"d2cd6e73b8a197f1469d6379c2c329dc",
+    "wof:geomhash":"8fbb049bb0e7c55150aefa7694e70b99",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092013625
         }
     ],
     "wof:id":1092013625,
-    "wof:lastmodified":1473983609,
+    "wof:lastmodified":1496901657,
     "wof:name":"Gopp Hannes",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

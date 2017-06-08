@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2809791565,47.3414993286,13.2809791565,47.3414993286",
     "geom:latitude":47.341499,
     "geom:longitude":13.280979,
@@ -23,17 +24,33 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09E0yeFjJqS4zEd4Tav7fn_47.341499_13.280979@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909737,
-    "wof:geomhash":"4e5b1866d55dc9057bd4729bfdb582d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dee169427a210a162fc6b691abdf8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092296707
+        }
+    ],
     "wof:id":1092296707,
-    "wof:lastmodified":1473984846,
+    "wof:lastmodified":1496894172,
     "wof:name":"Landhof Kreuzsal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3764038086,47.4552955627,16.3764038086,47.4552955627",
     "geom:latitude":47.455296,
     "geom:longitude":16.376404,
@@ -23,17 +24,33 @@
     "sg:postcode":"7371",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838409,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QjcTLbkACMIkhyzgN5jtR_47.455296_16.376404@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899704,
-    "wof:geomhash":"4c80c3791e1e37b3cb969be00f02ec71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c60a8242aa66f9d7cad5a56f4529fe2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838409,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092078767
+        }
+    ],
     "wof:id":1092078767,
-    "wof:lastmodified":1473984954,
+    "wof:lastmodified":1496907800,
     "wof:name":"Lang Emil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

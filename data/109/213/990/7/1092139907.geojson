@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4945497513,47.1112709045,15.4945497513,47.1112709045",
     "geom:latitude":47.111271,
     "geom:longitude":15.49455,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902732,
-    "wof:geomhash":"59f3e1e0f09ec6ef0cb80c2233aacf1b",
+    "wof:geomhash":"da901b603490e1ae9d42ca525274c97e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092139907
         }
     ],
     "wof:id":1092139907,
-    "wof:lastmodified":1473985233,
+    "wof:lastmodified":1496934362,
     "wof:name":"Kirschner Oliver",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

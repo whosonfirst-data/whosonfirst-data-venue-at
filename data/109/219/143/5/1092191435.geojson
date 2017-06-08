@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3384647369,48.1403312683,16.3384647369,48.1403312683",
     "geom:latitude":48.140331,
     "geom:longitude":16.338465,
@@ -35,10 +36,13 @@
     "sg:website":"ultrafilter.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905087,
-    "wof:geomhash":"bc735b483d11cb1731d2b872ee0490a5",
+    "wof:geomhash":"10a1079e7d81a6bee106022477e7e1ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092191435
         }
     ],
     "wof:id":1092191435,
-    "wof:lastmodified":1473983685,
+    "wof:lastmodified":1496903195,
     "wof:name":"Ultrafilter GmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

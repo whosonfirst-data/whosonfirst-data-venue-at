@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.495759964,47.0886230469,15.495759964,47.0886230469",
     "geom:latitude":47.088623,
     "geom:longitude":15.49576,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902018,
-    "wof:geomhash":"c6c8ef89114a84d9b096bfd2f1fa41f8",
+    "wof:geomhash":"94ef7f1996471d494ef0ce169905ccb8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092125391
         }
     ],
     "wof:id":1092125391,
-    "wof:lastmodified":1473984402,
+    "wof:lastmodified":1496913136,
     "wof:name":"Prammer Martha",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

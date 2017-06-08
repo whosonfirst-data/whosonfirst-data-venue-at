@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5095081329,48.6168403625,14.5095081329,48.6168403625",
     "geom:latitude":48.61684,
     "geom:longitude":14.509508,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835081,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D6ZNb0oF963iTPTRXH3fj_48.616840_14.509508@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897084,
-    "wof:geomhash":"9028b6053d2da0e70b9e75189cfd2f61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8c59d06adadcfaac4531ee5912f70f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835081,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092013507
+        }
+    ],
     "wof:id":1092013507,
-    "wof:lastmodified":1473983571,
+    "wof:lastmodified":1496884494,
     "wof:name":"Josef Fleischanderl GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0679206848,47.7492103577,13.0679206848,47.7492103577",
     "geom:latitude":47.74921,
     "geom:longitude":13.067921,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895508,
-    "wof:geomhash":"1f75db2f4f61d76ccf7aaa5343297397",
+    "wof:geomhash":"8fb29f66fad9187278c5530a467cf6bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1091976275
         }
     ],
     "wof:id":1091976275,
-    "wof:lastmodified":1473984690,
+    "wof:lastmodified":1496895178,
     "wof:name":"GA Anlagenobjekte GesmbH",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

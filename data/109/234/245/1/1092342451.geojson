@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1351947784,47.8230552673,13.1351947784,47.8230552673",
     "geom:latitude":47.823055,
     "geom:longitude":13.135195,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911731,
-    "wof:geomhash":"2ee9b6eaa0288bb9e686008b82302e4f",
+    "wof:geomhash":"3dbbb5069a060f2aa5ac9841940c236c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092342451
         }
     ],
     "wof:id":1092342451,
-    "wof:lastmodified":1473983727,
+    "wof:lastmodified":1496895466,
     "wof:name":"B\u00e4uml Thomas",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

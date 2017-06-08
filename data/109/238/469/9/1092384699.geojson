@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3499193192,47.8555221558,13.3499193192,47.8555221558",
     "geom:latitude":47.855522,
     "geom:longitude":13.349919,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836451,
+        85632785,
+        101785673,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06gCz9eJk5iBeKxilIn4iU_47.855522_13.349919@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913666,
-    "wof:geomhash":"403bc4eaf1da7e146dba91a854ea2f78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5eae6341818bd3b62a25dd023603b881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836451,
+            "locality_id":101785673,
+            "region_id":85681677,
+            "venue_id":1092384699
+        }
+    ],
     "wof:id":1092384699,
-    "wof:lastmodified":1473984465,
+    "wof:lastmodified":1496891128,
     "wof:name":"Vini e Panini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

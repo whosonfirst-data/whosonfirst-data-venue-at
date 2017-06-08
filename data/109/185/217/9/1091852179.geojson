@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8828926086,47.2328796387,11.8828926086,47.2328796387",
     "geom:latitude":47.23288,
     "geom:longitude":11.882893,
@@ -29,17 +30,34 @@
     "sg:province":"Tirol",
     "sg:website":"www.zillertal-bier.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837721,
+        85632785,
+        101789123,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pFzsJB3nBwKziCaqtJEYI_47.232880_11.882893@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889812,
-    "wof:geomhash":"f84113aedd7a30262562f6b4df1fa498",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07cf484c68cb703940418087bb822674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837721,
+            "locality_id":101789123,
+            "region_id":85681661,
+            "venue_id":1091852179
+        }
+    ],
     "wof:id":1091852179,
-    "wof:lastmodified":1473983713,
+    "wof:lastmodified":1496899754,
     "wof:name":"Brauhaus Simon Strasser Zillertaler Bier - Hotel Br\u00e4u GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

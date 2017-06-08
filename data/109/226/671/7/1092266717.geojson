@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6720790863,47.1838569641,14.6720790863,47.1838569641",
     "geom:latitude":47.183857,
     "geom:longitude":14.672079,
@@ -32,17 +33,34 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839395,
+        85632785,
+        101834249,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AehbaaOJwdM85mcupsTLM_47.183857_14.672079@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908461,
-    "wof:geomhash":"5e8d2de08d904d9340721610aa439a41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b288855d9a985f3f24883f57c97d430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839395,
+            "locality_id":101834249,
+            "region_id":85681687,
+            "venue_id":1092266717
+        }
+    ],
     "wof:id":1092266717,
-    "wof:lastmodified":1473984600,
+    "wof:lastmodified":1496913967,
     "wof:name":"Elektro Bauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

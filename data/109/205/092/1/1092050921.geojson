@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8976745605,47.202999115,10.8976745605,47.202999115",
     "geom:latitude":47.202999,
     "geom:longitude":10.897675,
@@ -29,17 +30,34 @@
     "sg:province":"Tirol",
     "sg:website":"posthotel-kassl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837435,
+        85632785,
+        101789041,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gzhJpSaB4XfVgF70KTP0a_47.202999_10.897675@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898546,
-    "wof:geomhash":"0835e65867f3f2b8daa20e06c7ca2c22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b756d7b15c46e3e0037323460a86d6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837435,
+            "locality_id":101789041,
+            "region_id":85681661,
+            "venue_id":1092050921
+        }
+    ],
     "wof:id":1092050921,
-    "wof:lastmodified":1473983489,
+    "wof:lastmodified":1496897852,
     "wof:name":"Posthotel Kassl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

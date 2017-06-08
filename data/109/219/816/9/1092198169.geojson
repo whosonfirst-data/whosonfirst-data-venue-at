@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9606561661,47.291179657,12.9606561661,47.291179657",
     "geom:latitude":47.29118,
     "geom:longitude":12.960656,
@@ -23,17 +24,33 @@
     "sg:postcode":"5660",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837241,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YrDIU1P1XLQzzwJGrNrdb_47.291180_12.960656@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905372,
-    "wof:geomhash":"7a66d97c784d18392a48395249ce3bc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be57af53e5910d2894a09a35726b96cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837241,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092198169
+        }
+    ],
     "wof:id":1092198169,
-    "wof:lastmodified":1473985136,
+    "wof:lastmodified":1496896368,
     "wof:name":"Holzbau Rainer KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

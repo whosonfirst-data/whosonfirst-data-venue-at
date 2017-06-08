@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0561933517,46.5476112366,14.0561933517,46.5476112366",
     "geom:latitude":46.547611,
     "geom:longitude":14.056193,
@@ -33,17 +34,33 @@
         "ton-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838353,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P6BYuUmOEnMO8Utvaa3bV_46.547611_14.056193@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907703,
-    "wof:geomhash":"e700e65f7048a85e4dd941e5033a0720",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13a71035d27ea1e9be92eec97684c122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838353,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092249471
+        }
+    ],
     "wof:id":1092249471,
-    "wof:lastmodified":1473985231,
+    "wof:lastmodified":1496907446,
     "wof:name":"Light & Sound Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

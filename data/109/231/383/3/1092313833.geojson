@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.313375473,46.6540908813,14.313375473,46.6540908813",
     "geom:latitude":46.654091,
     "geom:longitude":14.313375,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910534,
-    "wof:geomhash":"666359e6098e4224bbe5da8b40abc9a3",
+    "wof:geomhash":"8d3c79f3add70e45985aab714224a677",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1092313833
         }
     ],
     "wof:id":1092313833,
-    "wof:lastmodified":1473984258,
+    "wof:lastmodified":1496905608,
     "wof:name":"DENZEL Kundencenter",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

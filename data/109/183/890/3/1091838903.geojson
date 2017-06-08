@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1667003632,47.4500007629,12.1667003632,47.4500007629",
     "geom:latitude":47.450001,
     "geom:longitude":12.1667,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"pletzer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HDiotXTnFtNKgWFIay9hG_47.450001_12.166700@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889224,
-    "wof:geomhash":"16be8f0221430488f5ad2ea2a2c20b51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95b9e6ab234f831f164259a899abf34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091838903
+        }
+    ],
     "wof:id":1091838903,
-    "wof:lastmodified":1473985222,
+    "wof:lastmodified":1496896995,
     "wof:name":"Pletzer Anton GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

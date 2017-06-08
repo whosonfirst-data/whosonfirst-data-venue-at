@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6560401917,47.4638442993,16.6560401917,47.4638442993",
     "geom:latitude":47.463844,
     "geom:longitude":16.65604,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38do1Qupm3cNS6Gxju8JTs_47.463844_16.656040@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892968,
-    "wof:geomhash":"fb3c6ee6aec1a733db51d382390da205",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d25f80a7ab779951eac306090d3e5114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091919445
+        }
+    ],
     "wof:id":1091919445,
-    "wof:lastmodified":1473984806,
+    "wof:lastmodified":1496909130,
     "wof:name":"Grenz\u00fcbertrittstelle Lutzmannsburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

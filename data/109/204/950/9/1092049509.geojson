@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2082023621,48.0021972656,16.2082023621,48.0021972656",
     "geom:latitude":48.002197,
     "geom:longitude":16.208202,
@@ -29,10 +30,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898489,
-    "wof:geomhash":"d37af8fcb3a3d88fe070d93209af76bd",
+    "wof:geomhash":"1b3ca687ad1c245f134839f1aebb1c90",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092049509
         }
     ],
     "wof:id":1092049509,
-    "wof:lastmodified":1473984492,
+    "wof:lastmodified":1496886042,
     "wof:name":"Hotel-Pension Almschl\u00f6ssl",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

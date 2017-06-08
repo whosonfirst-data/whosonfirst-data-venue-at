@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4308271408,47.9289512634,14.4308271408,47.9289512634",
     "geom:latitude":47.928951,
     "geom:longitude":14.430827,
@@ -31,17 +32,33 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836109,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VoSP8K0EsA37x7kWZY9Eq_47.928951_14.430827@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889243,
-    "wof:geomhash":"d9146562568e2ccbc1587ecc45bf150d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1a32ba170fa07aeccd95c88aaaf489a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836109,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091839315
+        }
+    ],
     "wof:id":1091839315,
-    "wof:lastmodified":1473985314,
+    "wof:lastmodified":1496889555,
     "wof:name":"Zeilermayr OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8927736282,47.2294235229,11.8927736282,47.2294235229",
     "geom:latitude":47.229424,
     "geom:longitude":11.892774,
@@ -23,17 +24,33 @@
     "sg:postcode":"6280",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837721,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A4SK2bTtS4arkCoMhdaa4_47.229424_11.892774@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906269,
-    "wof:geomhash":"a953e0a07e82f156db94b51a42e8a594",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15453e37999bca16e43bdae2044ce96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837721,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092216777
+        }
+    ],
     "wof:id":1092216777,
-    "wof:lastmodified":1473984778,
+    "wof:lastmodified":1496899769,
     "wof:name":"OMV AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

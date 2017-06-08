@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5853843689,47.2294273376,9.5853843689,47.2294273376",
     "geom:latitude":47.229427,
     "geom:longitude":9.585384,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889325,
-    "wof:geomhash":"9329afb658f82ea0825851f38f069dce",
+    "wof:geomhash":"61c9d82b7a242095891542c8d9c7a139",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091841383
         }
     ],
     "wof:id":1091841383,
-    "wof:lastmodified":1473983550,
+    "wof:lastmodified":1496900931,
     "wof:name":"Kapeller Herbert Bmstr",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

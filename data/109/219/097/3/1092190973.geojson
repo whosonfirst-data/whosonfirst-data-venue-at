@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0978431702,48.6268920898,16.0978431702,48.6268920898",
     "geom:latitude":48.626892,
     "geom:longitude":16.097843,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836167,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TQOs7v8zsgmpLvSVfRSx6_48.626892_16.097843@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905068,
-    "wof:geomhash":"bb6a7a484d5e0ea9d37b3e1db58d2b81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b71f5583d1d53f7eafb779903514991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108836167,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092190973
+        }
+    ],
     "wof:id":1092190973,
-    "wof:lastmodified":1473983478,
+    "wof:lastmodified":1496889852,
     "wof:name":"Robert Schuster Fahrzeuge und Landmaschinen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

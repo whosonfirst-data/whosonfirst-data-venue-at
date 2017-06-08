@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2935905457,47.2420196533,10.2935905457,47.2420196533",
     "geom:latitude":47.24202,
     "geom:longitude":10.293591,
@@ -32,17 +33,33 @@
         "underground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837775,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HuwnpGgz6W1JTORo6161F_47.242020_10.293591@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905704,
-    "wof:geomhash":"89dd9a5d8550b8528c92ac0cb2b86bc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"773bf3280b253ffe7adf5ede0bbfaa6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837775,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092204025
+        }
+    ],
     "wof:id":1092204025,
-    "wof:lastmodified":1473984241,
+    "wof:lastmodified":1496899949,
     "wof:name":"Blaas Transporte und Erdarbeiten GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

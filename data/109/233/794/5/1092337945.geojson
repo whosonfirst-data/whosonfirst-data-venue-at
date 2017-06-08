@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7259464264,48.131477356,13.7259464264,48.131477356",
     "geom:latitude":48.131477,
     "geom:longitude":13.725946,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835177,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Fljg2n76X3N7hBVvInWJV_48.131477_13.725946@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911544,
-    "wof:geomhash":"3346d74749abd4842b8622da84736a84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f103e83d24af95664ce8962059919be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835177,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092337945
+        }
+    ],
     "wof:id":1092337945,
-    "wof:lastmodified":1473985250,
+    "wof:lastmodified":1496885308,
     "wof:name":"GEA HAPPEL GMBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

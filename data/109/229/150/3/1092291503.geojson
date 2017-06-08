@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.232626915,47.4493255615,12.232626915,47.4493255615",
     "geom:latitude":47.449326,
     "geom:longitude":12.232627,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cU1LldwlclAzYKnjSqmiP_47.449326_12.232627@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909507,
-    "wof:geomhash":"6ce871d0dcdf3ff2268ac8a5240592e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebd161be74767614fd4614d63d865565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092291503
+        }
+    ],
     "wof:id":1092291503,
-    "wof:lastmodified":1473983667,
+    "wof:lastmodified":1496897247,
     "wof:name":"Appartement Laiminger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

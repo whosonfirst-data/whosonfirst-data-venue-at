@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.311662674,47.4009971619,12.311662674,47.4009971619",
     "geom:latitude":47.400997,
     "geom:longitude":12.311663,
@@ -23,17 +24,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uI0uYIHEZO3iKdcunoIBs_47.400997_12.311663@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902705,
-    "wof:geomhash":"706300f960780cb12c66a764a31d1e8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"339d661d943bb1a2077d01b6153cc890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092139393
+        }
+    ],
     "wof:id":1092139393,
-    "wof:lastmodified":1473985145,
+    "wof:lastmodified":1496899100,
     "wof:name":"Erwachsenenschule Kirchberg in Tirol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

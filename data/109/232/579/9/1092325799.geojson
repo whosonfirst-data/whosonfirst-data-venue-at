@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7596559525,46.9764862061,15.7596559525,46.9764862061",
     "geom:latitude":46.976486,
     "geom:longitude":15.759656,
@@ -23,17 +24,33 @@
     "sg:postcode":"8324",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839245,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00Q5Ne4X04mLW9y57Cfog3_46.976486_15.759656@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473911047,
-    "wof:geomhash":"bd4a27b190cfd9d4a03ee261116516ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d03ca0dccef33430fed4fabd15d10fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839245,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092325799
+        }
+    ],
     "wof:id":1092325799,
-    "wof:lastmodified":1473984792,
+    "wof:lastmodified":1496912168,
     "wof:name":"KFZ Aufbereitung RIGO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

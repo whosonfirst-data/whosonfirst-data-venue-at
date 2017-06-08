@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3557033539,48.2740783691,16.3557033539,48.2740783691",
     "geom:latitude":48.274078,
     "geom:longitude":16.355703,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898317,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906719,
-    "wof:geomhash":"bb708ec209eb43e5de97599e63277803",
+    "wof:geomhash":"7ede5db9233a72061eb09845832e2f3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898317,
             "region_id":85681667,
             "venue_id":1092227501
         }
     ],
     "wof:id":1092227501,
-    "wof:lastmodified":1473985095,
+    "wof:lastmodified":1496929025,
     "wof:name":"WBC Consult WohnbaugesmbH",
     "wof:parent_id":85898317,
     "wof:placetype":"venue",

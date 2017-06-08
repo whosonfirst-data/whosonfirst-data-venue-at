@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7561044693,47.1491584778,9.7561044693,47.1491584778",
     "geom:latitude":47.149158,
     "geom:longitude":9.756104,
@@ -28,17 +29,33 @@
     "sg:postcode":"6707",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837915,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kcR3P25CM7ATjqcXeMAsF_47.149158_9.756104@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898366,
-    "wof:geomhash":"aa5007feec8d80bc86fd7f7bd52eea54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c2b5bed9f77e8477aa6a4e2dd3fed5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837915,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092046285
+        }
+    ],
     "wof:id":1092046285,
-    "wof:lastmodified":1473983902,
+    "wof:lastmodified":1496900698,
     "wof:name":"Hotel Dunza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

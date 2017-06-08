@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4073028564,47.9750518799,16.4073028564,47.9750518799",
     "geom:latitude":47.975052,
     "geom:longitude":16.407303,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"mannhal.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835383,
+        85632785,
+        101833185,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aqzv4qyUh0CBayd6xyR2K_47.975052_16.407303@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910761,
-    "wof:geomhash":"2a4efaf685e3685eef97cf1bb571ae60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4c26fd11a42be17844fb239dfc45805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835383,
+            "locality_id":101833185,
+            "region_id":85681671,
+            "venue_id":1092319159
+        }
+    ],
     "wof:id":1092319159,
-    "wof:lastmodified":1473985324,
+    "wof:lastmodified":1496886442,
     "wof:name":"Mannhal Automations Friedrich Mannhal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

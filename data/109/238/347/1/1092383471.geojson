@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3170642853,47.7730026245,15.3170642853,47.7730026245",
     "geom:latitude":47.773003,
     "geom:longitude":15.317064,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839309,
+        85632785,
+        101785601,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AUU68gDVTcTawme7IXUVS_47.773003_15.317064@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913616,
-    "wof:geomhash":"08720bf2d01718d61e79dd63883809bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d58067ff14964be68c1ef4805a42dd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839309,
+            "locality_id":101785601,
+            "region_id":85681687,
+            "venue_id":1092383471
+        }
+    ],
     "wof:id":1092383471,
-    "wof:lastmodified":1473984198,
+    "wof:lastmodified":1496912728,
     "wof:name":"Pizzeria Italia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

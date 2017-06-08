@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1372337341,47.3687591553,11.1372337341,47.3687591553",
     "geom:latitude":47.368759,
     "geom:longitude":11.137234,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IrIy0YyHKnV3dhepn4DQs_47.368759_11.137234@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899386,
-    "wof:geomhash":"e7ead7e592b6785b7845e3764ee10c2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50a2615cfe425d5380e758860cfbce32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092071981
+        }
+    ],
     "wof:id":1092071981,
-    "wof:lastmodified":1473983669,
+    "wof:lastmodified":1496898448,
     "wof:name":"Gasthof Birkegg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

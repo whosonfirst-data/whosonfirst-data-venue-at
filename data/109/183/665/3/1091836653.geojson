@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8852577209,47.397315979,10.8852577209,47.397315979",
     "geom:latitude":47.397316,
     "geom:longitude":10.885258,
@@ -23,17 +24,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BxUy5tJmns14IpoRZgV8T_47.397316_10.885258@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889108,
-    "wof:geomhash":"fc444fbf45e062c66d3ce3f714fe55b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e64e8a2937438cbddda4d2d4630d3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091836653
+        }
+    ],
     "wof:id":1091836653,
-    "wof:lastmodified":1473984602,
+    "wof:lastmodified":1496899856,
     "wof:name":"Bar Rustika",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

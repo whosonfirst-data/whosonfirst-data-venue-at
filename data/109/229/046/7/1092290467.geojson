@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3950405121,48.1083564758,16.3950405121,48.1083564758",
     "geom:latitude":48.108356,
     "geom:longitude":16.395041,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909459,
-    "wof:geomhash":"fd964c154c57de79c4f34b3a8a72b2ce",
+    "wof:geomhash":"fabfbbd4ebdd464ac5e79809c81ecfac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092290467
         }
     ],
     "wof:id":1092290467,
-    "wof:lastmodified":1473983483,
+    "wof:lastmodified":1496883065,
     "wof:name":"St Nikolaus-Apotheke",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

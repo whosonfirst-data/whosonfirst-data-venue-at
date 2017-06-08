@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4130754471,47.2854652405,11.4130754471,47.2854652405",
     "geom:latitude":47.285465,
     "geom:longitude":11.413075,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915979,
-    "wof:geomhash":"cc3fdb439b93397c6d6e012ee52c313e",
+    "wof:geomhash":"80fd361f87a184bace24bfa4ce468ab0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092431545
         }
     ],
     "wof:id":1092431545,
-    "wof:lastmodified":1473983526,
+    "wof:lastmodified":1496899320,
     "wof:name":"Dornier Aerospace International (DASI) GmbH",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

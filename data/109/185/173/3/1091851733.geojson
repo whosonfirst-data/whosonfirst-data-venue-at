@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6481409073,48.1847496033,13.6481409073,48.1847496033",
     "geom:latitude":48.18475,
     "geom:longitude":13.648141,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835185,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OYPsZLc8utNpzdSrS1md2_48.184750_13.648141@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889792,
-    "wof:geomhash":"fd0ebc0eb52f0f553e8d7fc9e077cd91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82dae0cf4bcc41f656bfb59bcf3e814f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835185,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091851733
+        }
+    ],
     "wof:id":1091851733,
-    "wof:lastmodified":1473983637,
+    "wof:lastmodified":1496885380,
     "wof:name":"Herbert Lindner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

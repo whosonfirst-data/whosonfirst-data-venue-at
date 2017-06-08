@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.348649025,46.6841468811,14.348649025,46.6841468811",
     "geom:latitude":46.684147,
     "geom:longitude":14.348649,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898263,
-        102049679
+        102191581,
+        1108838181,
+        85632785,
+        101844431,
+        102049681,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896105,
-    "wof:geomhash":"b4f124d4be480c48f29032e782d38047",
+    "wof:geomhash":"261a21706fd37750d97f06e9a0678809",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049679,
+            "county_id":102049681,
+            "localadmin_id":1108838181,
+            "locality_id":101844431,
             "neighbourhood_id":85898263,
             "region_id":85681655,
             "venue_id":1091989959
         }
     ],
     "wof:id":1091989959,
-    "wof:lastmodified":1473984704,
+    "wof:lastmodified":1496906427,
     "wof:name":"Herrnhofer Installationen",
     "wof:parent_id":85898263,
     "wof:placetype":"venue",

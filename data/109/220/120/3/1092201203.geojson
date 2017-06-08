@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5228414536,47.0804634094,15.5228414536,47.0804634094",
     "geom:latitude":47.080463,
     "geom:longitude":15.522841,
@@ -34,10 +35,12 @@
     "sg:website":"naturkost.cc",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898571,
-        102049741
+        102191581,
+        1108839185,
+        85632785,
+        102049741,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905524,
-    "wof:geomhash":"d9ae898904935b0ec35d61f9436b91f9",
+    "wof:geomhash":"8ed305829ab826cf235687fbd407a38d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049741,
+            "localadmin_id":1108839185,
+            "locality_id":-1,
             "neighbourhood_id":85898571,
             "region_id":85681687,
             "venue_id":1092201203
         }
     ],
     "wof:id":1092201203,
-    "wof:lastmodified":1473983636,
+    "wof:lastmodified":1496911771,
     "wof:name":"Naturkost Handelsges.m.b.H.",
     "wof:parent_id":85898571,
     "wof:placetype":"venue",

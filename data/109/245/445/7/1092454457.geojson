@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2948532104,48.0064926147,16.2948532104,48.0064926147",
     "geom:latitude":48.006493,
     "geom:longitude":16.294853,
@@ -31,17 +32,33 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835275,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y9BM51hJuIiZtDnh40kZu_48.006493_16.294853@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917029,
-    "wof:geomhash":"3d57987aba3b27df6dfa580eaf40c0b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eec8f92d615190ddcb9c58631e335dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835275,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092454457
+        }
+    ],
     "wof:id":1092454457,
-    "wof:lastmodified":1473983464,
+    "wof:lastmodified":1496885757,
     "wof:name":"Peter K\u00f6stinger Trans-Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

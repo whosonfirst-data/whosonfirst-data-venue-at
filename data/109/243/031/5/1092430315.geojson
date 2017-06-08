@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3829174042,47.6073799133,16.3829174042,47.6073799133",
     "geom:latitude":47.60738,
     "geom:longitude":16.382917,
@@ -23,17 +24,33 @@
     "sg:postcode":"7332",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838587,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fT4M26Bg1DQV77grvZfok_47.607380_16.382917@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915922,
-    "wof:geomhash":"6ada24445c367538ded9e4e923d9d2b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50b6b4e02bc8c70a1866ed3606aa4863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838587,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092430315
+        }
+    ],
     "wof:id":1092430315,
-    "wof:lastmodified":1473983352,
+    "wof:lastmodified":1496908583,
     "wof:name":"RS-Fliesen Sch\u00f6ll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0384836197,48.4196815491,14.0384836197,48.4196815491",
     "geom:latitude":48.419682,
     "geom:longitude":14.038484,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"vox-coelestis.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835999,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5seq9rcTzQCik70K3LqJLL_48.419682_14.038484@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912142,
-    "wof:geomhash":"dcf0dd929098c8eb6610e9c378abf9e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"deab240498f944120326fdb344c92035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835999,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092351489
+        }
+    ],
     "wof:id":1092351489,
-    "wof:lastmodified":1473983403,
+    "wof:lastmodified":1496889183,
     "wof:name":"Vox Coelestis Orgelzentrum Reinhold Breslmayr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

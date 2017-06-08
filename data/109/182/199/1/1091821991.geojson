@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7004308701,46.5574684143,14.7004308701,46.5574684143",
     "geom:latitude":46.557468,
     "geom:longitude":14.700431,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838379,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NRGX2zCQpQCkxdePre6sx_46.557468_14.700431@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888436,
-    "wof:geomhash":"1c4a9fd920de7676d8dc416eacb3ce57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6a43acbbdec20362455e0880c8e4bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838379,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091821991
+        }
+    ],
     "wof:id":1091821991,
-    "wof:lastmodified":1473983835,
+    "wof:lastmodified":1496907680,
     "wof:name":"Holzbau Smretschnig GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

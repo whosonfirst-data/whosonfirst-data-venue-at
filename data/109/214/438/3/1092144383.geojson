@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9579296112,47.7934761047,12.9579296112,47.7934761047",
     "geom:latitude":47.793476,
     "geom:longitude":12.95793,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904373,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902950,
-    "wof:geomhash":"dd778afd708ba5ab0636ecca5ad8c964",
+    "wof:geomhash":"d4cc59d177c9f15afe745fafccaf93c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85904373,
             "region_id":85681681,
             "venue_id":1092144383
         }
     ],
     "wof:id":1092144383,
-    "wof:lastmodified":1473984197,
+    "wof:lastmodified":1496895771,
     "wof:name":"Urdl Toni",
     "wof:parent_id":85904373,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6404399872,47.4640235901,16.6404399872,47.4640235901",
     "geom:latitude":47.464024,
     "geom:longitude":16.64044,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UJ8YxYGQ2FZg17ptR3ZrC_47.464024_16.640440@1306268290"
     },
     "wof:country":"AT",
     "wof:created":1473907413,
-    "wof:geomhash":"bc2b696a650f1ebb150a39ee838534cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b7ed45627f139c0287b8f18541dd78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092243235
+        }
+    ],
     "wof:id":1092243235,
-    "wof:lastmodified":1473984093,
+    "wof:lastmodified":1496909128,
     "wof:name":"HOCH 3 - Kurt Rohrer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

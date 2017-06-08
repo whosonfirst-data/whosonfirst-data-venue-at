@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3145742416,47.5008964539,12.3145742416,47.5008964539",
     "geom:latitude":47.500896,
     "geom:longitude":12.314574,
@@ -23,17 +24,33 @@
     "sg:postcode":"6352",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837681,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kjhYFhNXPRiykoxVRdnlQ_47.500896_12.314574@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899915,
-    "wof:geomhash":"454d22fdd251d399ec06585b2d554170",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b337883373617445c34e8fc2dd51e046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837681,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092083395
+        }
+    ],
     "wof:id":1092083395,
-    "wof:lastmodified":1473984038,
+    "wof:lastmodified":1496899156,
     "wof:name":"Treichlhof Jausenstation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

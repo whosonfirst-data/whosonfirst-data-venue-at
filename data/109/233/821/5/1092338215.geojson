@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8664598465,48.0939826965,13.8664598465,48.0939826965",
     "geom:latitude":48.093983,
     "geom:longitude":13.86646,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911555,
-    "wof:geomhash":"40594f81d498af3cf869f923998236eb",
+    "wof:geomhash":"55d7410447d6caee76669e99460ec55f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1092338215
         }
     ],
     "wof:id":1092338215,
-    "wof:lastmodified":1473985251,
+    "wof:lastmodified":1496891629,
     "wof:name":"OTT PAUL GESMBH",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

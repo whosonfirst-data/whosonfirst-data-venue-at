@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1317014694,47.8577766418,13.1317014694,47.8577766418",
     "geom:latitude":47.857777,
     "geom:longitude":13.131701,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902350,
-    "wof:geomhash":"833b8597897a85c62c755732a0c6c3d9",
+    "wof:geomhash":"4f206dcd55a3b03b9eab9b2331b3710e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092131815
         }
     ],
     "wof:id":1092131815,
-    "wof:lastmodified":1473983731,
+    "wof:lastmodified":1496895300,
     "wof:name":"Radauer Johann",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

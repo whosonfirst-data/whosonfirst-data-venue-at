@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2162704468,47.4178886414,13.2162704468,47.4178886414",
     "geom:latitude":47.417889,
     "geom:longitude":13.21627,
@@ -32,17 +33,34 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        101844515,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JRhIRGINcDEkYpHw3ScZF_47.417889_13.216270@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889213,
-    "wof:geomhash":"7ac58bdd0f3f2aa01561a27b2b9b00a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"285370c7d2beaec22b14a371790c85f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":101844515,
+            "region_id":85681681,
+            "venue_id":1091838623
+        }
+    ],
     "wof:id":1091838623,
-    "wof:lastmodified":1473985101,
+    "wof:lastmodified":1496893797,
     "wof:name":"Herbert Lanzinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

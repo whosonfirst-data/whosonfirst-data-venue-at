@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5287322998,47.8363876343,16.5287322998,47.8363876343",
     "geom:latitude":47.836388,
     "geom:longitude":16.528732,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"kummer7000.at/fa/bau/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rNh03TmJXM5QysSPLzGBX_47.836388_16.528732@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905330,
-    "wof:geomhash":"629a6c5cc704d00f59b8305f5138b9d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48e669b59cd20bdfb141514fdf64dcb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092197089
+        }
+    ],
     "wof:id":1092197089,
-    "wof:lastmodified":1473984913,
+    "wof:lastmodified":1496908865,
     "wof:name":"Kummer Baumeister Ges.m.b.H. & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

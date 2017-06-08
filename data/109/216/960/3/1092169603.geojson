@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3965682983,48.1384353638,16.3965682983,48.1384353638",
     "geom:latitude":48.138435,
     "geom:longitude":16.396568,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904107,
-    "wof:geomhash":"43309ec4dc7fd9884a51fb668c370e44",
+    "wof:geomhash":"e9046663a059a0f5179e7ddfab5fd88a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092169603
         }
     ],
     "wof:id":1092169603,
-    "wof:lastmodified":1473985139,
+    "wof:lastmodified":1496902953,
     "wof:name":"Engelmeier Berta u Bruno",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

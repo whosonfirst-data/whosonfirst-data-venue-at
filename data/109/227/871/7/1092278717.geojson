@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0891399384,48.1885490417,14.0891399384,48.1885490417",
     "geom:latitude":48.188549,
     "geom:longitude":14.08914,
@@ -36,17 +37,34 @@
         "sludge"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836561,
+        85632785,
+        101754169,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d0Dv4XyeHlMwcTWk7b991_48.188549_14.089140@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473908970,
-    "wof:geomhash":"d91b7887c9ebf45f09cabea072089bd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18961f3ecbd107e6cec3d2467a92776e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836561,
+            "locality_id":101754169,
+            "region_id":85681677,
+            "venue_id":1092278717
+        }
+    ],
     "wof:id":1092278717,
-    "wof:lastmodified":1473985295,
+    "wof:lastmodified":1496891660,
     "wof:name":"Ness-Schneider GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

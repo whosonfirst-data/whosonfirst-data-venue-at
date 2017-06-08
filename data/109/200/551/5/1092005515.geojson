@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.216337204,48.0011100769,16.216337204,48.0011100769",
     "geom:latitude":48.00111,
     "geom:longitude":16.216337,
@@ -34,10 +35,12 @@
     "sg:website":"optimumdata.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896760,
-    "wof:geomhash":"0719bf1b0de1d8fe175a80fae42bf404",
+    "wof:geomhash":"9974f4de5fd1d3c4320a5ded2098c16e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092005515
         }
     ],
     "wof:id":1092005515,
-    "wof:lastmodified":1473984402,
+    "wof:lastmodified":1496886031,
     "wof:name":"Optimum Data EDV-Beratung Programmierung, Qualit\u00e4tssicherung AG",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

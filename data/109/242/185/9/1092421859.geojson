@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.471736908,48.2157096863,14.471736908,48.2157096863",
     "geom:latitude":48.21571,
     "geom:longitude":14.471737,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915527,
-    "wof:geomhash":"01c7c41715ea06a0d391283ec11d161d",
+    "wof:geomhash":"e1e38df2e121b98124982eb00c142781",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092421859
         }
     ],
     "wof:id":1092421859,
-    "wof:lastmodified":1473983715,
+    "wof:lastmodified":1496887063,
     "wof:name":"WAGNER GES.MBH & CO",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

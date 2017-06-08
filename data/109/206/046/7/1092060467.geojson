@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0221176147,48.1310119629,16.0221176147,48.1310119629",
     "geom:latitude":48.131012,
     "geom:longitude":16.022118,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836637,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vpfKLQf23jxs5hTJl6n5b_48.131012_16.022118@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898919,
-    "wof:geomhash":"a0c1f6569489d7c7bebce7445379fe1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0c7183a70b2ed0a69501836463716be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836637,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092060467
+        }
+    ],
     "wof:id":1092060467,
-    "wof:lastmodified":1473983513,
+    "wof:lastmodified":1496892122,
     "wof:name":"Michael Fischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

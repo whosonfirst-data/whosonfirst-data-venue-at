@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8862867355,47.2371063232,11.8862867355,47.2371063232",
     "geom:latitude":47.237106,
     "geom:longitude":11.886287,
@@ -23,17 +24,33 @@
     "sg:postcode":"6280",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837721,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hsmjWn0Ounqem2dLDnnZX_47.237106_11.886287@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897639,
-    "wof:geomhash":"639f46c2fefc43dcf02bc2bea16ae5f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c110fcddcd682edbb73a56448ad7ff28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837721,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092027873
+        }
+    ],
     "wof:id":1092027873,
-    "wof:lastmodified":1473984948,
+    "wof:lastmodified":1496899756,
     "wof:name":"Singer Hans Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

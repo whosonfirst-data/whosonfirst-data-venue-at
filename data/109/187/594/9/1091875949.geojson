@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2672214508,48.1888885498,16.2672214508,48.1888885498",
     "geom:latitude":48.188889,
     "geom:longitude":16.267221,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890945,
-    "wof:geomhash":"e7869157c2b85eddb06d0eb7291601e2",
+    "wof:geomhash":"2c61ed7a4b34d4e01799410c91490949",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091875949
         }
     ],
     "wof:id":1091875949,
-    "wof:lastmodified":1473984432,
+    "wof:lastmodified":1496928069,
     "wof:name":"Janmor - Austria Segeljachten u Segelzubeh\u00f6r",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

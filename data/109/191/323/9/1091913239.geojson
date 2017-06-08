@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2208824158,47.9249191284,16.2208824158,47.9249191284",
     "geom:latitude":47.924919,
     "geom:longitude":16.220882,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835733,
+        85632785,
+        101833205,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XJybdrel1WMxw1UXFF2EA_47.924919_16.220882@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892703,
-    "wof:geomhash":"b22fdaec0e4e20d733386d62d33f140c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"003b7145e14ebebaacdebee2a6668b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835733,
+            "locality_id":101833205,
+            "region_id":85681671,
+            "venue_id":1091913239
+        }
+    ],
     "wof:id":1091913239,
-    "wof:lastmodified":1473983695,
+    "wof:lastmodified":1496892366,
     "wof:name":"DVI Datenverarbeitung und Informationstechnik GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

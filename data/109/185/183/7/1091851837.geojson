@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2281417847,47.8944244385,14.2281417847,47.8944244385",
     "geom:latitude":47.894424,
     "geom:longitude":14.228142,
@@ -31,17 +32,34 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835245,
+        85632785,
+        101786813,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68j66itdPkNdpMyOX9tz8G_47.894424_14.228142@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889797,
-    "wof:geomhash":"64582b210abb258d94e07b07c9ec3b15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c084aee6589c405541e029a2b36f01f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835245,
+            "locality_id":101786813,
+            "region_id":85681677,
+            "venue_id":1091851837
+        }
+    ],
     "wof:id":1091851837,
-    "wof:lastmodified":1473983678,
+    "wof:lastmodified":1496885554,
     "wof:name":"Karl Lattner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3753738403,48.2348175049,14.3753738403,48.2348175049",
     "geom:latitude":48.234818,
     "geom:longitude":14.375374,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910465,
-    "wof:geomhash":"54fe5959dace8b326ba161e9a9d8b648",
+    "wof:geomhash":"df92a6b6bd66b6e542f8cb2ea9836813",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1092312121
         }
     ],
     "wof:id":1092312121,
-    "wof:lastmodified":1473983833,
+    "wof:lastmodified":1496881182,
     "wof:name":"ACL Handels GmbH",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

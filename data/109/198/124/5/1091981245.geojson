@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4803571701,48.5547561646,14.4803571701,48.5547561646",
     "geom:latitude":48.554756,
     "geom:longitude":14.480357,
@@ -31,17 +32,33 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835093,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AoBniSAWVDmGQ69KJNZnx_48.554756_14.480357@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895748,
-    "wof:geomhash":"76439099f0f7278337556ee3d25b396d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"974dc13d1a455055e00dfa83de759916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835093,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091981245
+        }
+    ],
     "wof:id":1091981245,
-    "wof:lastmodified":1473983304,
+    "wof:lastmodified":1496884552,
     "wof:name":"FRANZ STOCKINGER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

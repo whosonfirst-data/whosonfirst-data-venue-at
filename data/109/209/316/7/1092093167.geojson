@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.212978363,47.4312133789,12.212978363,47.4312133789",
     "geom:latitude":47.431213,
     "geom:longitude":12.212978,
@@ -23,17 +24,33 @@
     "sg:postcode":"6363",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837381,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YhB7BwiL1FsdRrY8MohOJ_47.431213_12.212978@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900431,
-    "wof:geomhash":"a4d8f2965becb709d882b45f6f52cc62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61060a25be3cddf934dc212634568074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837381,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092093167
+        }
+    ],
     "wof:id":1092093167,
-    "wof:lastmodified":1473983883,
+    "wof:lastmodified":1496897448,
     "wof:name":"Geschenks ABC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

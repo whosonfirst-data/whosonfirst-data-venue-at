@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7422618866,47.4140319824,9.7422618866,47.4140319824",
     "geom:latitude":47.414032,
     "geom:longitude":9.742262,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901850,
-    "wof:geomhash":"41aac29cd7f2d3c0b84dc0ff76cec01d",
+    "wof:geomhash":"860bf46714b9d5569b16ab3931300428",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092121879
         }
     ],
     "wof:id":1092121879,
-    "wof:lastmodified":1473983848,
+    "wof:lastmodified":1496900818,
     "wof:name":"Schmuck-Bestpreis-Paradies Siblik",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

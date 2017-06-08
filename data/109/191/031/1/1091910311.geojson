@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7267694473,47.4628334045,9.7267694473,47.4628334045",
     "geom:latitude":47.462833,
     "geom:longitude":9.726769,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"http://www.peterhahn.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837987,
+        85632785,
+        101827495,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JbCWP7436txMZLijthlrT_47.462833_9.726769@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892562,
-    "wof:geomhash":"f9438d591100c540225e467fdf59a605",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a7da03bde9b309db690cb13eaef1a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837987,
+            "locality_id":101827495,
+            "region_id":85681649,
+            "venue_id":1091910311
+        }
+    ],
     "wof:id":1091910311,
-    "wof:lastmodified":1473983327,
+    "wof:lastmodified":1496901269,
     "wof:name":"Peter Hahn Lauterach - \u00d6sterreich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

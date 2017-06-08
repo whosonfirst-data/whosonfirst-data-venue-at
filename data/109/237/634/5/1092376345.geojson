@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2758579254,48.1878547668,16.2758579254,48.1878547668",
     "geom:latitude":48.187855,
     "geom:longitude":16.275858,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913293,
-    "wof:geomhash":"8523ca43b57c323655735a19407b2f28",
+    "wof:geomhash":"a7f05b412e17b64242f13cf5ec511b29",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092376345
         }
     ],
     "wof:id":1092376345,
-    "wof:lastmodified":1473984755,
+    "wof:lastmodified":1496904456,
     "wof:name":"Personal-Beratung-\u00dcberlassung und SchulungsgesmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

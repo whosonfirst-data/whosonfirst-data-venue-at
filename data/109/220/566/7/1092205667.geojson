@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3362779617,47.4528312683,15.3362779617,47.4528312683",
     "geom:latitude":47.452831,
     "geom:longitude":15.336278,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"cts-austria.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839319,
+        85632785,
+        101834345,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HFE5GlnvVD8CJXEE9mZ2g_47.452831_15.336278@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905770,
-    "wof:geomhash":"f47e68ea0d7febc28e2f8710171d6bc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15dd7ff2d16fd94a38cb1c9273c8d7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839319,
+            "locality_id":101834345,
+            "region_id":85681687,
+            "venue_id":1092205667
+        }
+    ],
     "wof:id":1092205667,
-    "wof:lastmodified":1473984591,
+    "wof:lastmodified":1496912853,
     "wof:name":"CTS Complete Technical Solution GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2449913025,47.8163604736,16.2449913025,47.8163604736",
     "geom:latitude":47.81636,
     "geom:longitude":16.244991,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"tsg-wth.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834997,
+        85632785,
+        101833091,
+        102049795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YY241ig7LIK8jyYVxP4Io_47.816360_16.244991@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473893880,
-    "wof:geomhash":"0e1834618df3867a45300a337e8afc36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55c1eb8b522dc05329f8de3e2bb64cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049795,
+            "localadmin_id":1108834997,
+            "locality_id":101833091,
+            "region_id":85681671,
+            "venue_id":1091938687
+        }
+    ],
     "wof:id":1091938687,
-    "wof:lastmodified":1473984997,
+    "wof:lastmodified":1496884087,
     "wof:name":"TSG Wirtschaftstreuhand GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4193191528,48.095954895,16.4193191528,48.095954895",
     "geom:latitude":48.095955,
     "geom:longitude":16.419319,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906846,
-    "wof:geomhash":"f2d22a68eefbe01fb656b583a2b1180c",
+    "wof:geomhash":"347a39e6f05612df63ad10b47d240c2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092230665
         }
     ],
     "wof:id":1092230665,
-    "wof:lastmodified":1473983435,
+    "wof:lastmodified":1496886820,
     "wof:name":"Tenniscenter Khail",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

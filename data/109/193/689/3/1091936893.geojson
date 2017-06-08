@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2601146698,48.1818580627,16.2601146698,48.1818580627",
     "geom:latitude":48.181858,
     "geom:longitude":16.260115,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893804,
-    "wof:geomhash":"02d83ec37642c18fb161f15973807417",
+    "wof:geomhash":"62d79de04fd9857ffe1f1cee44e98721",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091936893
         }
     ],
     "wof:id":1091936893,
-    "wof:lastmodified":1473984687,
+    "wof:lastmodified":1496928553,
     "wof:name":"Intertreu Steuerberatungs GmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

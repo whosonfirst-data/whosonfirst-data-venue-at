@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2879638672,48.0199890137,14.2879638672,48.0199890137",
     "geom:latitude":48.019989,
     "geom:longitude":14.287964,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836129,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U67uoQ31AX4Y6wm6MX3x1_48.019989_14.287964@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905062,
-    "wof:geomhash":"248e3344273d7e019145fbb8091a7a56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7facc644c6d2be91de0b1c04575fa045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836129,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190777
+        }
+    ],
     "wof:id":1092190777,
-    "wof:lastmodified":1473983457,
+    "wof:lastmodified":1496889663,
     "wof:name":"Johann Ganglbauer Landtechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.271030426,47.44581604,12.271030426,47.44581604",
     "geom:latitude":47.445816,
     "geom:longitude":12.27103,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67UCBs435EIa4Lgj9Iah6a_47.445816_12.271030@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913258,
-    "wof:geomhash":"d12d245d998efd0e3fb19ba45af4772b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dd83d6a3ef60e1fdc2c8cde20d73c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092375435
+        }
+    ],
     "wof:id":1092375435,
-    "wof:lastmodified":1473984520,
+    "wof:lastmodified":1496897246,
     "wof:name":"Weberhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

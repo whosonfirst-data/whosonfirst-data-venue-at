@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6006298065,47.0379142761,10.6006298065,47.0379142761",
     "geom:latitude":47.037914,
     "geom:longitude":10.60063,
@@ -23,17 +24,34 @@
     "sg:postcode":"6534",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837331,
+        85632785,
+        101785591,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65FQg8csrOIdGL6s54g951_47.037914_10.600630@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912775,
-    "wof:geomhash":"1fbfd052e202844185d41b1b05bf9b38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cebf3c22a340fe7552dbddd05ae166f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837331,
+            "locality_id":101785591,
+            "region_id":85681661,
+            "venue_id":1092365473
+        }
+    ],
     "wof:id":1092365473,
-    "wof:lastmodified":1473984620,
+    "wof:lastmodified":1496896945,
     "wof:name":"Haus Aurora",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6098918915,47.3080406189,11.6098918915,47.3080406189",
     "geom:latitude":47.308041,
     "geom:longitude":11.609892,
@@ -23,17 +24,33 @@
     "sg:postcode":"6122",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837585,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GN2LC4if7mCIiAu56Mp91_47.308041_11.609892@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889744,
-    "wof:geomhash":"6da4ddca0204711ece3a425ed79581a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b22cce230a839a4e4b4d0624d3c695b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837585,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091850513
+        }
+    ],
     "wof:id":1091850513,
-    "wof:lastmodified":1473983373,
+    "wof:lastmodified":1496898593,
     "wof:name":"STRABAG AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

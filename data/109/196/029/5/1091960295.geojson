@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.673910141,47.8039093018,16.673910141,47.8039093018",
     "geom:latitude":47.803909,
     "geom:longitude":16.67391,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"http://www.bnet.co.at/rust/koelbl.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cPEltIyWJIQEGxc7dIQya_47.803909_16.673910@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894835,
-    "wof:geomhash":"a259af00c9acbefbd9f25e100f8b3aab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d956ec52fc9bfaa0d5a187941ad4ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1091960295
+        }
+    ],
     "wof:id":1091960295,
-    "wof:lastmodified":1473983365,
+    "wof:lastmodified":1496909075,
     "wof:name":"G\u00e4stehaus K\u00f6lbl - A 7071 Rust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

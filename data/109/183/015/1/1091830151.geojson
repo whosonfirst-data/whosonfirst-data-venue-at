@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9266080856,47.1400985718,10.9266080856,47.1400985718",
     "geom:latitude":47.140099,
     "geom:longitude":10.926608,
@@ -23,17 +24,34 @@
     "sg:postcode":"6441",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837455,
+        85632785,
+        101789049,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Un5OnLsWwl8dgMC66wscY_47.140099_10.926608@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888799,
-    "wof:geomhash":"ccb32db20dacac31720cff7a196cb1f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d513acca60baedf47554172d8fb252ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837455,
+            "locality_id":101789049,
+            "region_id":85681661,
+            "venue_id":1091830151
+        }
+    ],
     "wof:id":1091830151,
-    "wof:lastmodified":1473983303,
+    "wof:lastmodified":1496897974,
     "wof:name":"Sparkasse Imst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7866868973,47.4199066162,10.7866868973,47.4199066162",
     "geom:latitude":47.419907,
     "geom:longitude":10.786687,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837805,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NeSP2QJTX3RYbU0JnJAUd_47.419907_10.786687@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913659,
-    "wof:geomhash":"2b42f0bd36d2e507c2c322b17988c1db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"055b1bdc48f7d099a69bb3afa2b1fda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837805,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092384537
+        }
+    ],
     "wof:id":1092384537,
-    "wof:lastmodified":1473984427,
+    "wof:lastmodified":1496900022,
     "wof:name":"Ristorante Pizzeria Rossini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0094118118,47.4251747131,15.0094118118,47.4251747131",
     "geom:latitude":47.425175,
     "geom:longitude":15.009412,
@@ -33,17 +34,34 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838989,
+        85632785,
+        101787947,
+        102049769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NmeW4QF7BmDiI39zXdBm2_47.425175_15.009412@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905249,
-    "wof:geomhash":"d1fbd2ad4198bf53601a3a3acf2c0fb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"258ca2333163108b45e5dba4545c5cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838989,
+            "locality_id":101787947,
+            "region_id":85681687,
+            "venue_id":1092195233
+        }
+    ],
     "wof:id":1092195233,
-    "wof:lastmodified":1473984512,
+    "wof:lastmodified":1496910712,
     "wof:name":"Magerl Kunstschmiede u. Schlosserei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

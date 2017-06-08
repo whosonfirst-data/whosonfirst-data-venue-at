@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4316883087,48.2963943481,16.4316883087,48.2963943481",
     "geom:latitude":48.296394,
     "geom:longitude":16.431688,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893697,
-    "wof:geomhash":"2af49dc69ae8122d40fe519d7c80de23",
+    "wof:geomhash":"4299e3fba05e5b2e7ea53d1f87b58cff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1091934447
         }
     ],
     "wof:id":1091934447,
-    "wof:lastmodified":1473984293,
+    "wof:lastmodified":1496927949,
     "wof:name":"Jelinek Arthur",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

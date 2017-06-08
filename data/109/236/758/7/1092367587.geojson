@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4071788788,47.2840805054,11.4071788788,47.2840805054",
     "geom:latitude":47.284081,
     "geom:longitude":11.407179,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912883,
-    "wof:geomhash":"46b68ebee7c9bf21da561d0f31c06880",
+    "wof:geomhash":"19529d40b93869c64d17e2e2f219e31d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092367587
         }
     ],
     "wof:id":1092367587,
-    "wof:lastmodified":1473985034,
+    "wof:lastmodified":1496926034,
     "wof:name":"Hueber Anna",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

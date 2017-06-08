@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4085836411,47.230682373,11.4085836411,47.230682373",
     "geom:latitude":47.230682,
     "geom:longitude":11.408584,
@@ -25,10 +26,13 @@
     "sg:website":"wieser-reisen.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910406,
-    "wof:geomhash":"d7ddf4c34aa7da2bc9062ebc6874e36f",
+    "wof:geomhash":"83acf2304290b599557298ac9c7f2043",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092311029
         }
     ],
     "wof:id":1092311029,
-    "wof:lastmodified":1473983550,
+    "wof:lastmodified":1496899220,
     "wof:name":"Autoreisen Wieser GmbH",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

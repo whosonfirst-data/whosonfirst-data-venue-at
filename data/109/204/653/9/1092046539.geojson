@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6204767227,47.0534591675,10.6204767227,47.0534591675",
     "geom:latitude":47.053459,
     "geom:longitude":10.620477,
@@ -28,17 +29,33 @@
     "sg:postcode":"6533",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837285,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DQSAevTMQdugN66nXxz6D_47.053459_10.620477@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898375,
-    "wof:geomhash":"09041b518bcfc85d3cc4b51e70cbb849",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ed1694eb07fc07978f97d1420efcee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837285,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092046539
+        }
+    ],
     "wof:id":1092046539,
-    "wof:lastmodified":1473983911,
+    "wof:lastmodified":1496896665,
     "wof:name":"Hotel Garni am Sonnberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

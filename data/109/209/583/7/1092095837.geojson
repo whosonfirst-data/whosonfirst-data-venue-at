@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2695026398,48.1125717163,16.2695026398,48.1125717163",
     "geom:latitude":48.112572,
     "geom:longitude":16.269503,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900603,
-    "wof:geomhash":"19a0a0bd025df634d234b92c07a3b9d8",
+    "wof:geomhash":"106329e7ee815cfdd800e1c36f285830",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092095837
         }
     ],
     "wof:id":1092095837,
-    "wof:lastmodified":1473984393,
+    "wof:lastmodified":1496882721,
     "wof:name":"Schuster Otto",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8630332947,47.1589546204,11.8630332947,47.1589546204",
     "geom:latitude":47.158955,
     "geom:longitude":11.863033,
@@ -28,17 +29,33 @@
     "sg:postcode":"6290",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y5W8iYniYVTwERw9qYGMk_47.158955_11.863033@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898411,
-    "wof:geomhash":"c873163c6208f58423008d96dd3c680e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"525ffb82d1c48349de48253113be7af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092047381
+        }
+    ],
     "wof:id":1092047381,
-    "wof:lastmodified":1473984088,
+    "wof:lastmodified":1496900428,
     "wof:name":"Hotel Kumbichl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

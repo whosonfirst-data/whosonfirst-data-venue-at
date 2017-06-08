@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3815307617,47.601524353,12.3815307617,47.601524353",
     "geom:latitude":47.601524,
     "geom:longitude":12.381531,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837379,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jxpAHqiQlETGR6MHObVUB_47.601524_12.381531@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892760,
-    "wof:geomhash":"69b35c57e379cdef30049dde1c4cb006",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3d926c1613ec33f61e736ccf4bef399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837379,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091914279
+        }
+    ],
     "wof:id":1091914279,
-    "wof:lastmodified":1473983853,
+    "wof:lastmodified":1496897420,
     "wof:name":"Karat Software VertriebsgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

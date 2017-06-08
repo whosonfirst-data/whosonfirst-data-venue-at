@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8439731598,48.2533607483,13.8439731598,48.2533607483",
     "geom:latitude":48.253361,
     "geom:longitude":13.843973,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.at-a.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835183,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AsW851blAxRilIwx2qcB5_48.253361_13.843973@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911805,
-    "wof:geomhash":"979f90c111d00ee032ec5d24b3d40a42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e70e3c710e2b490b6e8982e6ce33af96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835183,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092343911
+        }
+    ],
     "wof:id":1092343911,
-    "wof:lastmodified":1473984078,
+    "wof:lastmodified":1496885323,
     "wof:name":"AT & A Anlagentechnik und Automation GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

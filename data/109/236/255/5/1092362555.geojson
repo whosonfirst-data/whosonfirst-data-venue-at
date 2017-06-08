@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0294218063,47.2245788574,12.0294218063,47.2245788574",
     "geom:latitude":47.224579,
     "geom:longitude":12.029422,
@@ -23,17 +24,33 @@
     "sg:postcode":"6281",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837867,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46s3KayisexSG0zAbH6tSw_47.224579_12.029422@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912632,
-    "wof:geomhash":"c09ae392f8e7490ee208453cdb2531e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"433866d6cad2b0cb95a5cf100e45b6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837867,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092362555
+        }
+    ],
     "wof:id":1092362555,
-    "wof:lastmodified":1473983906,
+    "wof:lastmodified":1496900326,
     "wof:name":"Ferienhof Gratzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

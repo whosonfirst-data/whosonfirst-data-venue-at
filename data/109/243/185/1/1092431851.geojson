@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5500392914,48.2037696838,16.5500392914,48.2037696838",
     "geom:latitude":48.20377,
     "geom:longitude":16.550039,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915992,
-    "wof:geomhash":"fe5c79d4346f0f8fa8880f55dc8294c0",
+    "wof:geomhash":"9fb105bb9591dfe38b224124eac3b637",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092431851
         }
     ],
     "wof:id":1092431851,
-    "wof:lastmodified":1473983674,
+    "wof:lastmodified":1496892148,
     "wof:name":"M\u00dcLLER & GARTNER OHG",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

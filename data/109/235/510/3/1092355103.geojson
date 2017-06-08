@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6084775925,47.2457084656,9.6084775925,47.2457084656",
     "geom:latitude":47.245708,
     "geom:longitude":9.608478,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912294,
-    "wof:geomhash":"34425571c04651a76c86419d6b01755f",
+    "wof:geomhash":"6cd2ff35ef381a098cae86221490b3d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092355103
         }
     ],
     "wof:id":1092355103,
-    "wof:lastmodified":1473984480,
+    "wof:lastmodified":1496900935,
     "wof:name":"Vorarlberger M\u00fchlen u Mischfutterwerke GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

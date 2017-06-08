@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2707767487,48.1176986694,16.2707767487,48.1176986694",
     "geom:latitude":48.117699,
     "geom:longitude":16.270777,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911773,
-    "wof:geomhash":"8af2b76c9c2aee6b2f918359ab401739",
+    "wof:geomhash":"5888d0e63e1fbb95afa7f479f1cce461",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092343395
         }
     ],
     "wof:id":1092343395,
-    "wof:lastmodified":1473983938,
+    "wof:lastmodified":1496885824,
     "wof:name":"KINNL METALL GMBH",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3668632507,46.6271934509,13.3668632507,46.6271934509",
     "geom:latitude":46.627193,
     "geom:longitude":13.366863,
@@ -31,17 +32,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838149,
+        85632785,
+        101790089,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04dnLWBKkMMwLmVkTFeShT_46.627193_13.366863@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890473,
-    "wof:geomhash":"f721c3ac27ed91f06a8fa8be1a970f3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdca38b9c4441a22bca0ecd02e235bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838149,
+            "locality_id":101790089,
+            "region_id":85681655,
+            "venue_id":1091865745
+        }
+    ],
     "wof:id":1091865745,
-    "wof:lastmodified":1473984699,
+    "wof:lastmodified":1496906253,
     "wof:name":"Albert Wiedenig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

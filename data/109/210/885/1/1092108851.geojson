@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7917461395,47.9172363281,13.7917461395,47.9172363281",
     "geom:latitude":47.917236,
     "geom:longitude":13.791746,
@@ -23,17 +24,34 @@
     "sg:postcode":"4810",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835131,
+        85632785,
+        101833135,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KrixP73kTJjOglfUQ4YOP_47.917236_13.791746@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901235,
-    "wof:geomhash":"62c31011aa796260f96b582e88b225ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6be4b8b20b57ad2d2aa0df5e06fa3fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835131,
+            "locality_id":101833135,
+            "region_id":85681677,
+            "venue_id":1092108851
+        }
+    ],
     "wof:id":1092108851,
-    "wof:lastmodified":1473985031,
+    "wof:lastmodified":1496884900,
     "wof:name":"Zahnambulatorium d Ober\u00f6sterr Gebietskrankenkasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

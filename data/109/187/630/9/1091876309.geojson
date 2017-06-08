@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2320013046,48.2511253357,13.2320013046,48.2511253357",
     "geom:latitude":48.251125,
     "geom:longitude":13.232001,
@@ -32,17 +33,34 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834707,
+        85632785,
+        101784469,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tEx1Df0YNbLvdWKqevAi0_48.251125_13.232001@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890968,
-    "wof:geomhash":"a69e89333fe9d99f1c0f49d561d60f4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8f9d26ff8e2cdde9609854dc871216b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834707,
+            "locality_id":101784469,
+            "region_id":85681677,
+            "venue_id":1091876309
+        }
+    ],
     "wof:id":1091876309,
-    "wof:lastmodified":1473984482,
+    "wof:lastmodified":1496882198,
     "wof:name":"Mattes Werkzeuge GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

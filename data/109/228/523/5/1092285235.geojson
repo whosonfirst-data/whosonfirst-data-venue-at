@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0819091797,47.327835083,16.0819091797,47.327835083",
     "geom:latitude":47.327835,
     "geom:longitude":16.081909,
@@ -32,17 +33,33 @@
         "husbandry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838507,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56WBCuya8rZir5nGJ90P8e_47.327835_16.081909@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909258,
-    "wof:geomhash":"291148ba44812252ed2bc520e5344a4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9381159946a86678891ad87ac862d29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838507,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092285235
+        }
+    ],
     "wof:id":1092285235,
-    "wof:lastmodified":1473984362,
+    "wof:lastmodified":1496908295,
     "wof:name":"Krutzler KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

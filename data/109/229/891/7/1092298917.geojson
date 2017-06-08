@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3110313416,47.4421958923,12.3110313416,47.4421958923",
     "geom:latitude":47.442196,
     "geom:longitude":12.311031,
@@ -23,17 +24,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wJnJc8zzekR2vM5PQeEsh_47.442196_12.311031@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909831,
-    "wof:geomhash":"ce7e45d2895fcbcff65ab144df6a7daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"653d1ad990ad536884f153ea022b6d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092298917
+        }
+    ],
     "wof:id":1092298917,
-    "wof:lastmodified":1473985208,
+    "wof:lastmodified":1496899105,
     "wof:name":"Kogler Albert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

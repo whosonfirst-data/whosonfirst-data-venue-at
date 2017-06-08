@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4155158997,47.2589225769,11.4155158997,47.2589225769",
     "geom:latitude":47.258923,
     "geom:longitude":11.415516,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891699,
-    "wof:geomhash":"858faeb98cf754f1a73aad1029cdf862",
+    "wof:geomhash":"e07b55a5ee55bd9e7c22deb7cddecb1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1091891509
         }
     ],
     "wof:id":1091891509,
-    "wof:lastmodified":1473983714,
+    "wof:lastmodified":1496899198,
     "wof:name":"Abacus Office Products",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

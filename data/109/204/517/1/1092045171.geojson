@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2553119659,47.1236114502,10.2553119659,47.1236114502",
     "geom:latitude":47.123611,
     "geom:longitude":10.255312,
@@ -28,17 +29,34 @@
     "sg:postcode":"6580",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        101826319,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SjddXy7P4Plbw3ruErsq8_47.123611_10.255312@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898325,
-    "wof:geomhash":"6b266e63f6b4ff84045b79d5eb553520",
-    "wof:hierarchy":[],
+    "wof:geomhash":"506d4df12a0ec9a216c58a495cc096cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":101826319,
+            "region_id":85681661,
+            "venue_id":1092045171
+        }
+    ],
     "wof:id":1092045171,
-    "wof:lastmodified":1473983751,
+    "wof:lastmodified":1496896908,
     "wof:name":"Gasthof Freisleben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5776786804,48.1107978821,14.5776786804,48.1107978821",
     "geom:latitude":48.110798,
     "geom:longitude":14.577679,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"heb.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835427,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22PTnwIX7eLOW4WkgoJbON_48.110798_14.577679@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896905,
-    "wof:geomhash":"d2e06889092c53f419d71122f0f5e17b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8976a106db8d9283b3e624059113e785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835427,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092008957
+        }
+    ],
     "wof:id":1092008957,
-    "wof:lastmodified":1473984987,
+    "wof:lastmodified":1496886581,
     "wof:name":"Halbmayr EDV-Beratung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

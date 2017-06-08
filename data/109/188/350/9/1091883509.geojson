@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3939208984,47.2624588013,11.3939208984,47.2624588013",
     "geom:latitude":47.262459,
     "geom:longitude":11.393921,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891291,
-    "wof:geomhash":"3c62012c989428ea3a04f9ee568b8ad2",
+    "wof:geomhash":"e9051e5909114eafc78b6ea64a21e2ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091883509
         }
     ],
     "wof:id":1091883509,
-    "wof:lastmodified":1473984113,
+    "wof:lastmodified":1496899184,
     "wof:name":"Baguette Bistro Betriebs-GmbH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

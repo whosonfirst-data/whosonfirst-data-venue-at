@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7253990173,47.1547584534,11.7253990173,47.1547584534",
     "geom:latitude":47.154758,
     "geom:longitude":11.725399,
@@ -33,17 +34,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837707,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yAOaflroY6vrXKcJDm262_47.154758_11.725399@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892609,
-    "wof:geomhash":"1c6a9a628fd39cebbe3ad664e3673da6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"639a6c754343da59cb22e22f71eb7f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837707,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091911589
+        }
+    ],
     "wof:id":1091911589,
-    "wof:lastmodified":1473983336,
+    "wof:lastmodified":1496899686,
     "wof:name":"Schischule Lanersbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

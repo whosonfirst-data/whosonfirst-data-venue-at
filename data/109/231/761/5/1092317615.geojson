@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.363073349,48.1116333008,16.363073349,48.1116333008",
     "geom:latitude":48.111633,
     "geom:longitude":16.363073,
@@ -25,10 +26,12 @@
     "sg:website":"toyfl.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910701,
-    "wof:geomhash":"1fe2cdd08077d6c18f774be6fb89d00b",
+    "wof:geomhash":"d4bf538073a4c58419e5091d26e564ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092317615
         }
     ],
     "wof:id":1092317615,
-    "wof:lastmodified":1473985046,
+    "wof:lastmodified":1496888735,
     "wof:name":"Toyota Toyfl",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5034713745,48.2119026184,16.5034713745,48.2119026184",
     "geom:latitude":48.211903,
     "geom:longitude":16.503471,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901103,
-    "wof:geomhash":"6c2e36f42270fa89957b36c92688a793",
+    "wof:geomhash":"72d3b5143ae628facf089c46e80ba151",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092105959
         }
     ],
     "wof:id":1092105959,
-    "wof:lastmodified":1473984509,
+    "wof:lastmodified":1496904962,
     "wof:name":"L\u00f6ffler Franz",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

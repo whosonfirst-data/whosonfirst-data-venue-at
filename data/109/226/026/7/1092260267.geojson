@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3814554214,47.229850769,11.3814554214,47.229850769",
     "geom:latitude":47.229851,
     "geom:longitude":11.381455,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908169,
-    "wof:geomhash":"7fea9b4a737a2b81bf41af8b0c41fbe8",
+    "wof:geomhash":"50bc452e0e9d8df337b82f12e5068954",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092260267
         }
     ],
     "wof:id":1092260267,
-    "wof:lastmodified":1473983358,
+    "wof:lastmodified":1496898474,
     "wof:name":"Tschopfer Werner",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

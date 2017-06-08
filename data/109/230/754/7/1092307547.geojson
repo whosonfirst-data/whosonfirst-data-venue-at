@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2992591858,48.6295509338,16.2992591858,48.6295509338",
     "geom:latitude":48.629551,
     "geom:longitude":16.299259,
@@ -32,17 +33,33 @@
         "stair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836247,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pp8LWtrO0zmBgcoCctDro_48.629551_16.299259@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910260,
-    "wof:geomhash":"a6e98b1bcf1e18856b9d7cf43c2af4a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"424fa7883671179a02fa873bff2e6f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836247,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092307547
+        }
+    ],
     "wof:id":1092307547,
-    "wof:lastmodified":1473985052,
+    "wof:lastmodified":1496890175,
     "wof:name":"Haslinger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

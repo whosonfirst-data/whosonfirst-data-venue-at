@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0105848312,46.9527282715,11.0105848312,46.9527282715",
     "geom:latitude":46.952728,
     "geom:longitude":11.010585,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.raphaela.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837447,
+        85632785,
+        101789045,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_247BYNF8rRjBw23lnVIYT3_46.952728_11.010585@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894827,
-    "wof:geomhash":"b2d734a170ec283ffe5be589fe39236b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c1050e19ee2e9217411bdfda24d2607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837447,
+            "locality_id":101789045,
+            "region_id":85681661,
+            "venue_id":1091960095
+        }
+    ],
     "wof:id":1091960095,
-    "wof:lastmodified":1473983334,
+    "wof:lastmodified":1496897932,
     "wof:name":"Garni Raphaela",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

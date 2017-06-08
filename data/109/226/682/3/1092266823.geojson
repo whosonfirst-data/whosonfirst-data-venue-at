@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6842756271,46.6918830872,13.6842756271,46.6918830872",
     "geom:latitude":46.691883,
     "geom:longitude":13.684276,
@@ -32,17 +33,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838119,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IaxAMmMunMrbnlrQ3Yt8P_46.691883_13.684276@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908466,
-    "wof:geomhash":"8728a771096658b837fe82dcc7e75085",
-    "wof:hierarchy":[],
+    "wof:geomhash":"196bf39662491fb3268795f2f201aaeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838119,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092266823
+        }
+    ],
     "wof:id":1092266823,
-    "wof:lastmodified":1473984623,
+    "wof:lastmodified":1496905312,
     "wof:name":"GF-TEC Elektrotechnik GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

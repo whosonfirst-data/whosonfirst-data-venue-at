@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3684711456,47.2647476196,11.3684711456,47.2647476196",
     "geom:latitude":47.264748,
     "geom:longitude":11.368471,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904367,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906300,
-    "wof:geomhash":"701f5573fe48a0ea2ad8e2c3da1d29cc",
+    "wof:geomhash":"c2be1b9df8773184c9556e88b11f8a87",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1092217307
         }
     ],
     "wof:id":1092217307,
-    "wof:lastmodified":1473984844,
+    "wof:lastmodified":1496899212,
     "wof:name":"Shell Austria GmbH",
     "wof:parent_id":85904367,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9123096466,48.342414856,15.9123096466,48.342414856",
     "geom:latitude":48.342415,
     "geom:longitude":15.91231,
@@ -32,17 +33,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835903,
+        85632785,
+        101783361,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xzRA35YUBaPnGz1Ynh1ij_48.342415_15.912310@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908432,
-    "wof:geomhash":"31d6ba57dc90727f45277889cf4e9faf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb17d166a690e0c3327ba43795b5b518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835903,
+            "locality_id":101783361,
+            "region_id":85681671,
+            "venue_id":1092266125
+        }
+    ],
     "wof:id":1092266125,
-    "wof:lastmodified":1473984535,
+    "wof:lastmodified":1496888819,
     "wof:name":"Zehetner Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

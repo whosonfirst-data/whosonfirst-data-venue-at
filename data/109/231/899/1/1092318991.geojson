@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5210103989,48.7203598022,15.5210103989,48.7203598022",
     "geom:latitude":48.72036,
     "geom:longitude":15.52101,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"salex.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835419,
+        85632785,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q3Vmsp7hVWqvnLv6zyOMN_48.720360_15.521010@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910755,
-    "wof:geomhash":"c5581f46a2a2091a2ccecb845789dd63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cba9fa2f1cefaeb7093a0526bc78ee46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835419,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092318991
+        }
+    ],
     "wof:id":1092318991,
-    "wof:lastmodified":1473985313,
+    "wof:lastmodified":1496886552,
     "wof:name":"Salex Enineering GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

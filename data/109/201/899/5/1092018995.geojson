@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0811452866,47.8508987427,13.0811452866,47.8508987427",
     "geom:latitude":47.850899,
     "geom:longitude":13.081145,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897309,
-    "wof:geomhash":"4303f53a0572d0dd89fd83e88de48240",
+    "wof:geomhash":"d7d4e2bd3a3c4b9f1c4f7d3732d9025d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092018995
         }
     ],
     "wof:id":1092018995,
-    "wof:lastmodified":1473984654,
+    "wof:lastmodified":1496895387,
     "wof:name":"Ebner Sebastian",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

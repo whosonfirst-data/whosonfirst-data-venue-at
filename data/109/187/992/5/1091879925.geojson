@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7611570358,46.8284950256,12.7611570358,46.8284950256",
     "geom:latitude":46.828495,
     "geom:longitude":12.761157,
@@ -23,17 +24,34 @@
     "sg:postcode":"9900",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837511,
+        85632785,
+        101834187,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74Z31cXpVIwKtvBqkq33TF_46.828495_12.761157@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891137,
-    "wof:geomhash":"0e091b7e3299c466dc308554606a3936",
-    "wof:hierarchy":[],
+    "wof:geomhash":"237d1127cd1ebdbd931e4cfd0cf60cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837511,
+            "locality_id":101834187,
+            "region_id":85681661,
+            "venue_id":1091879925
+        }
+    ],
     "wof:id":1091879925,
-    "wof:lastmodified":1473985242,
+    "wof:lastmodified":1496898228,
     "wof:name":"Brandschutz Geiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

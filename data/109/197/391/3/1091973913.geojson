@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9179019928,47.405292511,10.9179019928,47.405292511",
     "geom:latitude":47.405293,
     "geom:longitude":10.917902,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837813,
+        85632785,
+        101787859,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7abpjs7qpCHOgQKWXBHYTW_47.405293_10.917902@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895409,
-    "wof:geomhash":"bf2a69e3793f97ad73f6d0fd10be40a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"099cfba7f28e1edd0169c2433a30c29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837813,
+            "locality_id":101787859,
+            "region_id":85681661,
+            "venue_id":1091973913
+        }
+    ],
     "wof:id":1091973913,
-    "wof:lastmodified":1473984153,
+    "wof:lastmodified":1496900048,
     "wof:name":"TRANSPORT KERBER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

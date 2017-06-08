@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0644493103,47.7526016235,13.0644493103,47.7526016235",
     "geom:latitude":47.752602,
     "geom:longitude":13.064449,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911106,
-    "wof:geomhash":"3525019d3b4fa4fb718a4933761c7099",
+    "wof:geomhash":"34a51a790f71600694a5f6832dc5c5e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1092327251
         }
     ],
     "wof:id":1092327251,
-    "wof:lastmodified":1473985062,
+    "wof:lastmodified":1496895183,
     "wof:name":"Fasching Herbert",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

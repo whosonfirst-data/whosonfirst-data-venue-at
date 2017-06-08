@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6030931473,47.2410125732,9.6030931473,47.2410125732",
     "geom:latitude":47.241013,
     "geom:longitude":9.603093,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909240,
-    "wof:geomhash":"a0a7927e0bafa6d74a5fbfb5c373bab2",
+    "wof:geomhash":"4d3ef42cad9e97bc0fbe48df0f90b4bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092284765
         }
     ],
     "wof:id":1092284765,
-    "wof:lastmodified":1473984298,
+    "wof:lastmodified":1496900946,
     "wof:name":"Zahnambulatorium d Vorarlberger Gebietskrankenkasse",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

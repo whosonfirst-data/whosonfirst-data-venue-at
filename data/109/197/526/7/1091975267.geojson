@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5620708466,48.5703926086,16.5620708466,48.5703926086",
     "geom:latitude":48.570393,
     "geom:longitude":16.562071,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.isostar.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836627,
+        85632785,
+        101782249,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44LYp59RdbiaWf6L6vahnU_48.570393_16.562071@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895463,
-    "wof:geomhash":"929c436b74bac3922e2aa14544b4ac8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ceb9085caf3fa9039def6934518bcdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836627,
+            "locality_id":101782249,
+            "region_id":85681671,
+            "venue_id":1091975267
+        }
+    ],
     "wof:id":1091975267,
-    "wof:lastmodified":1473984477,
+    "wof:lastmodified":1496892031,
     "wof:name":"ISOSTAR - Energiebewu\u00dfte Bausysteme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3773784637,48.2993621826,16.3773784637,48.2993621826",
     "geom:latitude":48.299362,
     "geom:longitude":16.377378,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898395,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911612,
-    "wof:geomhash":"f141c4d6a086a41861030d8627c66ed5",
+    "wof:geomhash":"20f413af3d245c2dfbe4c3da46cfba63",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898395,
             "region_id":85681667,
             "venue_id":1092339581
         }
     ],
     "wof:id":1092339581,
-    "wof:lastmodified":1473985332,
+    "wof:lastmodified":1496886341,
     "wof:name":"diaSys B Mayerhofer GesmbH",
     "wof:parent_id":85898395,
     "wof:placetype":"venue",

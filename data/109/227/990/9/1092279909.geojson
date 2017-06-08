@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4626016617,47.2627601624,11.4626016617,47.2627601624",
     "geom:latitude":47.26276,
     "geom:longitude":11.462602,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909031,
-    "wof:geomhash":"f7ad7176d387d0f2bbb11a5b2450c6e5",
+    "wof:geomhash":"d241f99dd69a9bc9da9375abd5cf76cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092279909
         }
     ],
     "wof:id":1092279909,
-    "wof:lastmodified":1473985317,
+    "wof:lastmodified":1496898026,
     "wof:name":"Penz Klaus",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.070069313,47.8190116882,13.070069313,47.8190116882",
     "geom:latitude":47.819012,
     "geom:longitude":13.070069,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895570,
-    "wof:geomhash":"171c35deeaee69e9219cbabd081692e3",
+    "wof:geomhash":"8e0a1108972bf0e0e6a8fe6407aa5eed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1091977843
         }
     ],
     "wof:id":1091977843,
-    "wof:lastmodified":1473984941,
+    "wof:lastmodified":1496894504,
     "wof:name":"P\u00f6schl Immobilien",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

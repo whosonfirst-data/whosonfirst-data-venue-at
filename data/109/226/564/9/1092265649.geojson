@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3864269257,46.9643478394,14.3864269257,46.9643478394",
     "geom:latitude":46.964348,
     "geom:longitude":14.386427,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838211,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W5MJpXQppF1YRauzyCxEI_46.964348_14.386427@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908412,
-    "wof:geomhash":"44861fa4c7a5b6719919be145c046621",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49024cc3f0d953dce4875a8041b5607c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838211,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265649
+        }
+    ],
     "wof:id":1092265649,
-    "wof:lastmodified":1473984473,
+    "wof:lastmodified":1496906579,
     "wof:name":"Josef Schmiedler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

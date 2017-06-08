@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9077720642,47.0772857666,9.9077720642,47.0772857666",
     "geom:latitude":47.077286,
     "geom:longitude":9.907772,
@@ -31,17 +32,34 @@
         "aeronautic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838077,
+        85632785,
+        101827447,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IMknqAMyge0Phjwz6PE3f_47.077286_9.907772@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905044,
-    "wof:geomhash":"541b121c4f1a4bac686b0727223f059a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd6dcf27e523f9e1346e8085f752e3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838077,
+            "locality_id":101827447,
+            "region_id":85681649,
+            "venue_id":1092190427
+        }
+    ],
     "wof:id":1092190427,
-    "wof:lastmodified":1473983441,
+    "wof:lastmodified":1496901735,
     "wof:name":"GANTNER ELECTRONIC GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2582941055,47.5847702026,12.2582941055,47.5847702026",
     "geom:latitude":47.58477,
     "geom:longitude":12.258294,
@@ -23,17 +24,33 @@
     "sg:postcode":"6330",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eCQUGw8OXC0kLBKhKLuIv_47.584770_12.258294@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898960,
-    "wof:geomhash":"160ff8fb010073755397d5fc7cd3fbef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"902b7035a2bffd915f1638c556bfcf45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092061517
+        }
+    ],
     "wof:id":1092061517,
-    "wof:lastmodified":1473983674,
+    "wof:lastmodified":1496897600,
     "wof:name":"Alpengasthof Pfandlhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

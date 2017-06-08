@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8234586716,47.9826622009,13.8234586716,47.9826622009",
     "geom:latitude":47.982662,
     "geom:longitude":13.823459,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835143,
+        85632785,
+        101785623,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z9JLeg0zmS5X2zxCG0nH3_47.982662_13.823459@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913578,
-    "wof:geomhash":"a7fb044223bb1a2c995f64cf10156500",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85c5733ac3c54c063ca4cec999971b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835143,
+            "locality_id":101785623,
+            "region_id":85681677,
+            "venue_id":1092382817
+        }
+    ],
     "wof:id":1092382817,
-    "wof:lastmodified":1473984031,
+    "wof:lastmodified":1496885046,
     "wof:name":"Pizzeria Al Capone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

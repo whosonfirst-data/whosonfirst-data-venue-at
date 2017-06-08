@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5518312454,47.0997657776,15.5518312454,47.0997657776",
     "geom:latitude":47.099766,
     "geom:longitude":15.551831,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898571,
-        102049741
+        102191581,
+        1108839185,
+        85632785,
+        102049741,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908165,
-    "wof:geomhash":"058290b0f629536ab10c92eaf31b237f",
+    "wof:geomhash":"c30f2b4292443b032264e960999b0f5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049741,
+            "localadmin_id":1108839185,
+            "locality_id":-1,
             "neighbourhood_id":85898571,
             "region_id":85681687,
             "venue_id":1092260191
         }
     ],
     "wof:id":1092260191,
-    "wof:lastmodified":1473983360,
+    "wof:lastmodified":1496911769,
     "wof:name":"Transporte-Maninger GmbH",
     "wof:parent_id":85898571,
     "wof:placetype":"venue",

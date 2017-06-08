@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4461374283,47.1993293762,14.4461374283,47.1993293762",
     "geom:latitude":47.199329,
     "geom:longitude":14.446137,
@@ -23,17 +24,33 @@
     "sg:postcode":"8800",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839421,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YUQIawLwpd3XA0H715kpQ_47.199329_14.446137@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889047,
-    "wof:geomhash":"92792d69870c4499efd333efcadb2b64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0583dbaec49e0f31cb58ebfe0f0df99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839421,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091835203
+        }
+    ],
     "wof:id":1091835203,
-    "wof:lastmodified":1473984356,
+    "wof:lastmodified":1496914142,
     "wof:name":"Bankomat d Raiffeisenbank Judenburg regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

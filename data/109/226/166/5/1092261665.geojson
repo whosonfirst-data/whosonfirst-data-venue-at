@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2140254974,48.3331298828,16.2140254974,48.3331298828",
     "geom:latitude":48.33313,
     "geom:longitude":16.214025,
@@ -34,17 +35,34 @@
         "turned"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835345,
+        85632785,
+        101754233,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sfVOYSH6tzuK2sFdyMhTb_48.333130_16.214025@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908243,
-    "wof:geomhash":"953ad0441560bb31448811c3e8ee3992",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdf487172d1d23daa3d5810255f51b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835345,
+            "locality_id":101754233,
+            "region_id":85681671,
+            "venue_id":1092261665
+        }
+    ],
     "wof:id":1092261665,
-    "wof:lastmodified":1473983680,
+    "wof:lastmodified":1496886173,
     "wof:name":"Gerald Sch\u00e4ffert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

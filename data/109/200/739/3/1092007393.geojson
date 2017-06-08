@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2623634338,48.2635116577,13.2623634338,48.2635116577",
     "geom:latitude":48.263512,
     "geom:longitude":13.262363,
@@ -32,17 +33,33 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835639,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VrhJCNvfnCCL7eRfwmcq9_48.263512_13.262363@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896841,
-    "wof:geomhash":"1d89b6c5104e88f6049e75ba898804e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d45676e1b61f7957d44ce94b60104c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835639,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092007393
+        }
+    ],
     "wof:id":1092007393,
-    "wof:lastmodified":1473984725,
+    "wof:lastmodified":1496887771,
     "wof:name":"Mag. Hoeveler & Co Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

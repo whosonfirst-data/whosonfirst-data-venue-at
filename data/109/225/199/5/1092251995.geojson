@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8166332245,47.3287963867,12.8166332245,47.3287963867",
     "geom:latitude":47.328796,
     "geom:longitude":12.816633,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nujYb9oo6N3nhnXddkqmE_47.328796_12.816633@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907799,
-    "wof:geomhash":"58e7fb525376d254c5725648d3365db5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3f40d14437210b7da2f10c34f0abeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092251995
+        }
+    ],
     "wof:id":1092251995,
-    "wof:lastmodified":1473983827,
+    "wof:lastmodified":1496896456,
     "wof:name":"Verkehrsverein Thumersbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

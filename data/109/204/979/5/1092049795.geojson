@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4131088257,47.2332038879,11.4131088257,47.2332038879",
     "geom:latitude":47.233204,
     "geom:longitude":11.413109,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898500,
-    "wof:geomhash":"f8aad6e8cc058cfcda01f599610232fe",
+    "wof:geomhash":"733baa1ac91620a007430dd072c7508a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092049795
         }
     ],
     "wof:id":1092049795,
-    "wof:lastmodified":1473984566,
+    "wof:lastmodified":1496899512,
     "wof:name":"Hotel-Restaurant Batzenh\u00e4usl",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

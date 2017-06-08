@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6914138794,47.5331954956,10.6914138794,47.5331954956",
     "geom:latitude":47.533195,
     "geom:longitude":10.691414,
@@ -23,17 +24,33 @@
     "sg:postcode":"6600",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837765,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NJ5dny4tbzq6M776W2hNc_47.533195_10.691414@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899500,
-    "wof:geomhash":"0cc4c8c848beca149f36c39561ac72d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2db2d978f4d2afb6cabc85428d09a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837765,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092074683
+        }
+    ],
     "wof:id":1092074683,
-    "wof:lastmodified":1473984178,
+    "wof:lastmodified":1496899880,
     "wof:name":"Gasthof S\u00e4uling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

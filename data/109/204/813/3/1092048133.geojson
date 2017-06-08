@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4462842941,47.2528266907,11.4462842941,47.2528266907",
     "geom:latitude":47.252827,
     "geom:longitude":11.446284,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898438,
-    "wof:geomhash":"81aab0b38db1f286057dfd99e54cf28e",
+    "wof:geomhash":"f103f786af0da98e9002693ed5a3221b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092048133
         }
     ],
     "wof:id":1092048133,
-    "wof:lastmodified":1473984235,
+    "wof:lastmodified":1496898019,
     "wof:name":"Hotel Restaurant Aldranser Hof",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6398630142,47.8204917908,14.6398630142,47.8204917908",
     "geom:latitude":47.820492,
     "geom:longitude":14.639863,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836133,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YqJc21moyi4RF2IgMXb3H_47.820492_14.639863@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473887739,
-    "wof:geomhash":"dcaa06903d8097a045b2a66e3adb3766",
-    "wof:hierarchy":[],
+    "wof:geomhash":"863313130db4aa82e120800c878ae05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836133,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091806585
+        }
+    ],
     "wof:id":1091806585,
-    "wof:lastmodified":1473983760,
+    "wof:lastmodified":1496889693,
     "wof:name":"Oberforster Hermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

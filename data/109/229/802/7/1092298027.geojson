@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7790279388,47.5505371094,9.7790279388,47.5505371094",
     "geom:latitude":47.550537,
     "geom:longitude":9.779028,
@@ -23,17 +24,33 @@
     "sg:postcode":"6911",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837933,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lk3uq2Au8N5pRaBysnoAe_47.550537_9.779028@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909793,
-    "wof:geomhash":"08758254913f90d307f14729cf4bd745",
-    "wof:hierarchy":[],
+    "wof:geomhash":"842b39412f860e0f70db32d0b0e9a09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837933,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092298027
+        }
+    ],
     "wof:id":1092298027,
-    "wof:lastmodified":1473985111,
+    "wof:lastmodified":1496900892,
     "wof:name":"Sohlerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

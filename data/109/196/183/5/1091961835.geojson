@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3156929016,48.0799942017,16.3156929016,48.0799942017",
     "geom:latitude":48.079994,
     "geom:longitude":16.315693,
@@ -34,17 +35,34 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834869,
+        85632785,
+        101754185,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57ZP6mYJHyNTikBT1pf04e_48.079994_16.315693@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894898,
-    "wof:geomhash":"7a878f529b883dd5414dcf507a6b9f19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9cea879ffdc533f2b4d675d2f9b5f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108834869,
+            "locality_id":101754185,
+            "region_id":85681671,
+            "venue_id":1091961835
+        }
+    ],
     "wof:id":1091961835,
-    "wof:lastmodified":1473983590,
+    "wof:lastmodified":1496883130,
     "wof:name":"Kogler Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1263961792,47.5662536621,12.1263961792,47.5662536621",
     "geom:latitude":47.566254,
     "geom:longitude":12.126396,
@@ -28,17 +29,33 @@
     "sg:postcode":"6336",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837405,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41U1VPzI3Y0azFZ80p4vQd_47.566254_12.126396@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895142,
-    "wof:geomhash":"3e9b652da66d7bc2abbb0cd3da2af24a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"464daaa16e152f6c860f83574b817cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837405,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091967781
+        }
+    ],
     "wof:id":1091967781,
-    "wof:lastmodified":1473984555,
+    "wof:lastmodified":1496897734,
     "wof:name":"Tiroler Fliegerstube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

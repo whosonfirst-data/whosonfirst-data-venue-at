@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8480243683,47.0386734009,12.8480243683,47.0386734009",
     "geom:latitude":47.038673,
     "geom:longitude":12.848024,
@@ -33,17 +34,34 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838267,
+        85632785,
+        101911569,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IcXxukw06GFB0imzID6s0_47.038673_12.848024@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892617,
-    "wof:geomhash":"634ec3a783a42f89785f4b5fcd2f0655",
-    "wof:hierarchy":[],
+    "wof:geomhash":"771b81c7c286afbf3badc74f8ce230b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838267,
+            "locality_id":101911569,
+            "region_id":85681655,
+            "venue_id":1091911769
+        }
+    ],
     "wof:id":1091911769,
-    "wof:lastmodified":1473983369,
+    "wof:lastmodified":1496906892,
     "wof:name":"Schischule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0933904648,47.1771697998,13.0933904648,47.1771697998",
     "geom:latitude":47.17717,
     "geom:longitude":13.09339,
@@ -23,17 +24,33 @@
     "sg:postcode":"5630",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D22W6wX5nxwMcOKnrPFhk_47.177170_13.093390@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899419,
-    "wof:geomhash":"ecd51d4a266082eaac6afea98ae7875f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfde23e04c8804c8df2c06de8cb239fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092072701
+        }
+    ],
     "wof:id":1092072701,
-    "wof:lastmodified":1473983835,
+    "wof:lastmodified":1496893745,
     "wof:name":"Gasthof Haitzing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

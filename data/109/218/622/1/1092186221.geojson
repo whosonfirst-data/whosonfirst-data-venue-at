@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9993877411,46.6641769409,12.9993877411,46.6641769409",
     "geom:latitude":46.664177,
     "geom:longitude":12.999388,
@@ -32,17 +33,34 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838155,
+        85632785,
+        101790091,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nc9YRqnIK0JYIWyBp1p9L_46.664177_12.999388@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904860,
-    "wof:geomhash":"e86a9e69533a789b5b12547d9eb9f9e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59fb7c239f3b7fa17acd62274dbed9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838155,
+            "locality_id":101790091,
+            "region_id":85681655,
+            "venue_id":1092186221
+        }
+    ],
     "wof:id":1092186221,
-    "wof:lastmodified":1473984628,
+    "wof:lastmodified":1496906274,
     "wof:name":"Jakob Lederer Holzhandel und S\u00e4gewerke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

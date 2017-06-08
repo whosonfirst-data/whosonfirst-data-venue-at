@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5986347198,47.2592315674,9.5986347198,47.2592315674",
     "geom:latitude":47.259232,
     "geom:longitude":9.598635,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891520,
-    "wof:geomhash":"a7ecfc175884550b7afbc2e4d1ba5140",
+    "wof:geomhash":"72d779119a1084760d53f710309ee591",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091887397
         }
     ],
     "wof:id":1091887397,
-    "wof:lastmodified":1473984781,
+    "wof:lastmodified":1496900953,
     "wof:name":"Montfort B\u00e4ckerei Tiefenthaler GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

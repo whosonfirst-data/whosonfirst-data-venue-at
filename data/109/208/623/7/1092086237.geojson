@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2257347107,48.210975647,16.2257347107,48.210975647",
     "geom:latitude":48.210976,
     "geom:longitude":16.225735,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900044,
-    "wof:geomhash":"211624fa7c285c3d93be8bd13d80c9ec",
+    "wof:geomhash":"7ed5f9606eeca63e7820a79f4475786c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092086237
         }
     ],
     "wof:id":1092086237,
-    "wof:lastmodified":1473984657,
+    "wof:lastmodified":1496928934,
     "wof:name":"Kartalis Dimitrios",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

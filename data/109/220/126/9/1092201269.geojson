@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9423704147,48.2032470703,15.9423704147,48.2032470703",
     "geom:latitude":48.203247,
     "geom:longitude":15.94237,
@@ -32,17 +33,33 @@
         "dentistry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834989,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iNbiURkuNt72WZWsyuBQJ_48.203247_15.942370@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905528,
-    "wof:geomhash":"54534135f1f189561f72e0cc7c92d19b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d43a4ce617f36e9b79e8eb5692eb847e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834989,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092201269
+        }
+    ],
     "wof:id":1092201269,
-    "wof:lastmodified":1473983665,
+    "wof:lastmodified":1496883868,
     "wof:name":"EM Danzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

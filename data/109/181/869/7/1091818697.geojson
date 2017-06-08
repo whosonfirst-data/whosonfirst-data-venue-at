@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0179042816,47.4028816223,16.0179042816,47.4028816223",
     "geom:latitude":47.402882,
     "geom:longitude":16.017904,
@@ -22,17 +23,33 @@
     "sg:postcode":"8241",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839425,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CtAk1TtCLRkx6gKGONlTP_47.402882_16.017904@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888294,
-    "wof:geomhash":"7ac1b12003eb292ae9871ba74447d37c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b4c1bcbfbc89c8ac999c425e9eccefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839425,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091818697
+        }
+    ],
     "wof:id":1091818697,
-    "wof:lastmodified":1473985101,
+    "wof:lastmodified":1496914194,
     "wof:name":"Freiwillige Feuerwehr Kroisbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

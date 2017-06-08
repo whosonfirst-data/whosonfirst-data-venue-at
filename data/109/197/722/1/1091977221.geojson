@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2582473755,48.1935997009,16.2582473755,48.1935997009",
     "geom:latitude":48.1936,
     "geom:longitude":16.258247,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895542,
-    "wof:geomhash":"ff8113bf754cf460668c3e1a11ae1bb9",
+    "wof:geomhash":"9d34ef8b3ae828fd8caedcad7ea175bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091977221
         }
     ],
     "wof:id":1091977221,
-    "wof:lastmodified":1473984888,
+    "wof:lastmodified":1496904595,
     "wof:name":"Korner Dr Immobilien GesmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

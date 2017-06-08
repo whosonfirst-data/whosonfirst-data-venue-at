@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1334962845,47.669631958,13.1334962845,47.669631958",
     "geom:latitude":47.669632,
     "geom:longitude":13.133496,
@@ -31,17 +32,33 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837109,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MtOMGuD1YBTYxMx5yZM0B_47.669632_13.133496@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891238,
-    "wof:geomhash":"941710464acac2e95e52a2d63ae36f90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"232c8c18e29bed2e15148f9f91deab47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837109,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091882453
+        }
+    ],
     "wof:id":1091882453,
-    "wof:lastmodified":1473983892,
+    "wof:lastmodified":1496895169,
     "wof:name":"KURZENTRUM VIGAUN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

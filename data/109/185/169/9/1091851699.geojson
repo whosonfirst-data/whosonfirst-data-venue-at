@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4305458069,46.6400375366,14.4305458069,46.6400375366",
     "geom:latitude":46.640038,
     "geom:longitude":14.430546,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838191,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MAWFVSTLLm9FEIQZxpptx_46.640038_14.430546@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889791,
-    "wof:geomhash":"770d545dca12f98b4e8d3fae7bb92a63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5103126fbc1b8a2ef28daa5f17d63000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838191,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091851699
+        }
+    ],
     "wof:id":1091851699,
-    "wof:lastmodified":1473983592,
+    "wof:lastmodified":1496906476,
     "wof:name":"G\u00fcnter Reautschnig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

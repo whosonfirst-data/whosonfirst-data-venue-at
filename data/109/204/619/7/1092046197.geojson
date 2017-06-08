@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0263767242,46.8701171875,11.0263767242,46.8701171875",
     "geom:latitude":46.870117,
     "geom:longitude":11.026377,
@@ -28,17 +29,33 @@
     "sg:postcode":"6456",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837447,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oia4RgWkBzRB59Ut2nPn5_46.870117_11.026377@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898362,
-    "wof:geomhash":"f1cd004f0832dcc6ca389741e8c4e554",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bac8dee3c977fbaac7bc5f79983f9e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837447,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092046197
+        }
+    ],
     "wof:id":1092046197,
-    "wof:lastmodified":1473983875,
+    "wof:lastmodified":1496897940,
     "wof:name":"Hotel Crystal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

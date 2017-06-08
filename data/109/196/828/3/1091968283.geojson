@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2625427246,48.1776847839,16.2625427246,48.1776847839",
     "geom:latitude":48.177685,
     "geom:longitude":16.262543,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895161,
-    "wof:geomhash":"544b442a97de1c709344d8cc3da1c705",
+    "wof:geomhash":"a5f24b18114649e5e7f0cdcf5fb756d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091968283
         }
     ],
     "wof:id":1091968283,
-    "wof:lastmodified":1473984596,
+    "wof:lastmodified":1496902058,
     "wof:name":"Zur sch\u00f6nen Aussicht",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

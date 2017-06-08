@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8345403671,46.5997695923,13.8345403671,46.5997695923",
     "geom:latitude":46.59977,
     "geom:longitude":13.83454,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914294,
-    "wof:geomhash":"31517f83b2fa62ae4b7deb4dc2f86163",
+    "wof:geomhash":"89fc1b7e25576d22ac850d5594308f44",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092397195
         }
     ],
     "wof:id":1092397195,
-    "wof:lastmodified":1473984601,
+    "wof:lastmodified":1496906150,
     "wof:name":"Weber Dieter Dr",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

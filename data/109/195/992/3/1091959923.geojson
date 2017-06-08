@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7461862564,47.2355804443,10.7461862564,47.2355804443",
     "geom:latitude":47.23558,
     "geom:longitude":10.746186,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.de-na.com/GermanWine.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DdXBbQTDfa7LJt3a5hhH1_47.235580_10.746186@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894821,
-    "wof:geomhash":"5b0e48cae705199f39270a45a8c885fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0940fc961ee1c5c38398046cd7e8e129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1091959923
+        }
+    ],
     "wof:id":1091959923,
-    "wof:lastmodified":1473985330,
+    "wof:lastmodified":1496898367,
     "wof:name":"DeNa Weinreisen Italien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

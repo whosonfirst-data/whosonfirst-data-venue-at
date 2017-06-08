@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0726127625,47.0564880371,16.0726127625,47.0564880371",
     "geom:latitude":47.056488,
     "geom:longitude":16.072613,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839227,
+        85632785,
+        101789015,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lgZrGqC0r5plRtsoLDLVT_47.056488_16.072613@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913575,
-    "wof:geomhash":"5f7d218d6fcf4d971561109cb3ff60f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"693bf7de49a09cc3d0efcc6866380298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839227,
+            "locality_id":101789015,
+            "region_id":85681687,
+            "venue_id":1092382771
+        }
+    ],
     "wof:id":1092382771,
-    "wof:lastmodified":1473984022,
+    "wof:lastmodified":1496912067,
     "wof:name":"Pizzaria Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

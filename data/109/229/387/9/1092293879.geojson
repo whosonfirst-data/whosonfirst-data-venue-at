@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1464948654,47.4094352722,12.1464948654,47.4094352722",
     "geom:latitude":47.409435,
     "geom:longitude":12.146495,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EJJnCzkLjezSfsXvKRB3K_47.409435_12.146495@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909609,
-    "wof:geomhash":"1080a5b30aa159bdfe169f320009d511",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a01061b2f089e6e9e8e098043b4ed172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092293879
+        }
+    ],
     "wof:id":1092293879,
-    "wof:lastmodified":1473984294,
+    "wof:lastmodified":1496897004,
     "wof:name":"Ferienhof Siedler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9553518295,47.7643928528,13.9553518295,47.7643928528",
     "geom:latitude":47.764393,
     "geom:longitude":13.955352,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"ams-anlagen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835135,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65BMgrnpzeLEErsmvs3zyA_47.764393_13.955352@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910755,
-    "wof:geomhash":"b1b70a4bdbf52306e3db483ce3b7dc2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c64df6b8f3181354f9e37c1a06b19943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835135,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092319001
+        }
+    ],
     "wof:id":1092319001,
-    "wof:lastmodified":1473985313,
+    "wof:lastmodified":1496885003,
     "wof:name":"ams Anlagen Maschinen Service GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

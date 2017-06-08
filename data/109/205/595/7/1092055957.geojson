@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5067777634,47.2806243896,11.5067777634,47.2806243896",
     "geom:latitude":47.280624,
     "geom:longitude":11.506778,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898743,
-    "wof:geomhash":"3bd306b83076e206fe7e88e08854d37b",
+    "wof:geomhash":"744ef547b46cc4ef828d37009b0bb4d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092055957
         }
     ],
     "wof:id":1092055957,
-    "wof:lastmodified":1473984464,
+    "wof:lastmodified":1496898710,
     "wof:name":"Galerie St. Barbara",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

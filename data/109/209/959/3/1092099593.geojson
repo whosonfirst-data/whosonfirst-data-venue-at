@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5221614838,47.8418235779,16.5221614838,47.8418235779",
     "geom:latitude":47.841824,
     "geom:longitude":16.522161,
@@ -23,17 +24,34 @@
     "sg:postcode":"7000",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HWMHyAMLYazUeHExP7JGu_47.841824_16.522161@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900792,
-    "wof:geomhash":"e617205882c6ebb02232329ddf1e877b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12d6d2cd31c618f3de2b8779c9537e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092099593
+        }
+    ],
     "wof:id":1092099593,
-    "wof:lastmodified":1473985071,
+    "wof:lastmodified":1496908735,
     "wof:name":"Burgenl\u00e4ndische Hotel- Bau- u BetriebsgesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

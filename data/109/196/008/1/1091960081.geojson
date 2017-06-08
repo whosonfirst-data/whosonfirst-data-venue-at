@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5720491409,47.5292510986,12.5720491409,47.5292510986",
     "geom:latitude":47.529251,
     "geom:longitude":12.572049,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.pillerseehof.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837375,
+        85632785,
+        101785597,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_303kGFW8VOUEdJGwjZ7aEe_47.529251_12.572049@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894827,
-    "wof:geomhash":"11b6983c35ecb134aca493c4d702478d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a78cca67e91926c39bfe938d149925c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837375,
+            "locality_id":101785597,
+            "region_id":85681661,
+            "venue_id":1091960081
+        }
+    ],
     "wof:id":1091960081,
-    "wof:lastmodified":1473983325,
+    "wof:lastmodified":1496897411,
     "wof:name":"Familienhotel Pillerseehof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

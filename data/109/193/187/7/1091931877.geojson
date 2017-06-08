@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3928728104,47.2581558228,11.3928728104,47.2581558228",
     "geom:latitude":47.258156,
     "geom:longitude":11.392873,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893586,
-    "wof:geomhash":"3908e3cddeeaac6452f25529856bd56c",
+    "wof:geomhash":"f1d0956de8fb4abe53315eff743f2d8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091931877
         }
     ],
     "wof:id":1091931877,
-    "wof:lastmodified":1473983762,
+    "wof:lastmodified":1496899522,
     "wof:name":"Tiroler Eislaufverband",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

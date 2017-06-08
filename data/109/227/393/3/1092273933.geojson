@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2575626373,48.1388244629,16.2575626373,48.1388244629",
     "geom:latitude":48.138824,
     "geom:longitude":16.257563,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908763,
-    "wof:geomhash":"a8d962a424089a70811f831ec2251864",
+    "wof:geomhash":"234ef83042d34861243bf9559fb212fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092273933
         }
     ],
     "wof:id":1092273933,
-    "wof:lastmodified":1473984344,
+    "wof:lastmodified":1496904229,
     "wof:name":"Meyerhofer Michael",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

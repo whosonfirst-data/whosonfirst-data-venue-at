@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3717823029,47.2588729858,11.3717823029,47.2588729858",
     "geom:latitude":47.258873,
     "geom:longitude":11.371782,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903106,
-    "wof:geomhash":"08c7427ca9febad7d1a2307090dd9e70",
+    "wof:geomhash":"87ddba9e5f0cb32ef559ce58e2a3e093",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092147791
         }
     ],
     "wof:id":1092147791,
-    "wof:lastmodified":1473984825,
+    "wof:lastmodified":1496899361,
     "wof:name":"Kantine Cafe-Bistro",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

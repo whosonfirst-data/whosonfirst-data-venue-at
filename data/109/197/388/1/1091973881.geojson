@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1320428848,47.8579177856,13.1320428848,47.8579177856",
     "geom:latitude":47.857918,
     "geom:longitude":13.132043,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895408,
-    "wof:geomhash":"3b2317c2d93fe27c9c15b20c53426bee",
+    "wof:geomhash":"44446277c9bf5a4f2040a62afed6ebfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1091973881
         }
     ],
     "wof:id":1091973881,
-    "wof:lastmodified":1473984147,
+    "wof:lastmodified":1496895300,
     "wof:name":"SCHWINGENSCHL\u00d6GEL GMBH",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4765729904,47.0971183777,15.4765729904,47.0971183777",
     "geom:latitude":47.097118,
     "geom:longitude":15.476573,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895656,
-    "wof:geomhash":"9577d41a71a5e29569f62cd6a0a6bd98",
+    "wof:geomhash":"b4aff1270a1152e3ec685962a574f252",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1091979273
         }
     ],
     "wof:id":1091979273,
-    "wof:lastmodified":1473985156,
+    "wof:lastmodified":1496913479,
     "wof:name":"CTF Finanzierungsberatungs- und Betreiber GmbH",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

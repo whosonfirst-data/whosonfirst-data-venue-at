@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5175609589,48.2407951355,14.5175609589,48.2407951355",
     "geom:latitude":48.240795,
     "geom:longitude":14.517561,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906403,
-    "wof:geomhash":"493e4002ccf15d97ad36c87b03d4b2c3",
+    "wof:geomhash":"8f9cad75445955b380ef24df81f1f930",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092220145
         }
     ],
     "wof:id":1092220145,
-    "wof:lastmodified":1473983385,
+    "wof:lastmodified":1496887557,
     "wof:name":"Brixner Herbert",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

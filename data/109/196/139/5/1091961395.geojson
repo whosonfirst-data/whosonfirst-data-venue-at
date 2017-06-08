@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9459905624,46.6280822754,13.9459905624,46.6280822754",
     "geom:latitude":46.628082,
     "geom:longitude":13.945991,
@@ -23,17 +24,33 @@
     "sg:postcode":"9241",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838363,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CGakVX4GGcf6TAxaLhS4N_46.628082_13.945991@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894876,
-    "wof:geomhash":"a5deb12c41a5000de097e3eca85cfa6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e0555c3c1bb8f4155a106db46e7eb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838363,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091961395
+        }
+    ],
     "wof:id":1091961395,
-    "wof:lastmodified":1473983516,
+    "wof:lastmodified":1496907585,
     "wof:name":"Reiterhof Trabenig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

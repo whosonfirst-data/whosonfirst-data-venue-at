@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2585926056,48.1380577087,16.2585926056,48.1380577087",
     "geom:latitude":48.138058,
     "geom:longitude":16.258593,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913458,
-    "wof:geomhash":"1c78a15222a3f9cfe653257e80fdce9b",
+    "wof:geomhash":"38f9f14f8ecb53b2bc6b6bcad10ea2a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092380189
         }
     ],
     "wof:id":1092380189,
-    "wof:lastmodified":1473983389,
+    "wof:lastmodified":1496904370,
     "wof:name":"Mark Martina Dipl-PT",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

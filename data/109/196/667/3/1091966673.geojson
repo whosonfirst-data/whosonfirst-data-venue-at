@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1565208435,47.0116653442,11.1565208435,47.0116653442",
     "geom:latitude":47.011665,
     "geom:longitude":11.156521,
@@ -28,17 +29,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1irnXWUgypY6fwd9BfXIEX_47.011665_11.156521@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895099,
-    "wof:geomhash":"45350903f8259c0ef7d11776d1ac7748",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ace879925d5bcdb6acd6913bf99ee5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091966673
+        }
+    ],
     "wof:id":1091966673,
-    "wof:lastmodified":1473984335,
+    "wof:lastmodified":1496898557,
     "wof:name":"Restaurant Wilde Grube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

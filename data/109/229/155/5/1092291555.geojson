@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2925424576,47.1050338745,11.2925424576,47.1050338745",
     "geom:latitude":47.105034,
     "geom:longitude":11.292542,
@@ -23,17 +24,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54iiOYsZgn2OFHbt9qaQQK_47.105034_11.292542@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909509,
-    "wof:geomhash":"ea31cc0252b8f462b97836654ac02937",
-    "wof:hierarchy":[],
+    "wof:geomhash":"738eef742992bd57be6c27cad2b360ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092291555
+        }
+    ],
     "wof:id":1092291555,
-    "wof:lastmodified":1473983713,
+    "wof:lastmodified":1496898539,
     "wof:name":"Appartement Ribis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

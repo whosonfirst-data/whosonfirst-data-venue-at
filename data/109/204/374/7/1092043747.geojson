@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1566181183,48.3524856567,14.1566181183,48.3524856567",
     "geom:latitude":48.352486,
     "geom:longitude":14.156618,
@@ -36,17 +37,34 @@
         "tank-type"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836415,
+        85632785,
+        101784619,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hYoXffVi97wuQ9qwByeDJ_48.352486_14.156618@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898275,
-    "wof:geomhash":"3702fdc36060b5d0482f45f406e2e491",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4727f628f03150ef3367a34200747f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836415,
+            "locality_id":101784619,
+            "region_id":85681677,
+            "venue_id":1092043747
+        }
+    ],
     "wof:id":1092043747,
-    "wof:lastmodified":1473983475,
+    "wof:lastmodified":1496890947,
     "wof:name":"SOLARTEAM Beratungs- und Verkaufs GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

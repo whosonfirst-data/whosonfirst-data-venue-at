@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3873748779,47.6227416992,12.3873748779,47.6227416992",
     "geom:latitude":47.622742,
     "geom:longitude":12.387375,
@@ -28,17 +29,33 @@
     "sg:postcode":"6345",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837379,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Fb5bO1GW4Fna1FbgxoAt1_47.622742_12.387375@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895104,
-    "wof:geomhash":"86f0338584ad4476a202073e708f1cb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0916af7062aa901cc869f70cdd487002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837379,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091966785
+        }
+    ],
     "wof:id":1091966785,
-    "wof:lastmodified":1473984368,
+    "wof:lastmodified":1496897422,
     "wof:name":"Restaurant Zum Fischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

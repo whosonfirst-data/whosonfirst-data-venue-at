@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.696387291,47.2902336121,12.696387291,47.2902336121",
     "geom:latitude":47.290234,
     "geom:longitude":12.696387,
@@ -23,17 +24,33 @@
     "sg:postcode":"5721",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DT2kYFosMLfRg6iHng5nD_47.290234_12.696387@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899940,
-    "wof:geomhash":"a33b0876652c313277768043c4d60f1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db349bcede45f353066695eb2c5d8c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092083883
+        }
+    ],
     "wof:id":1092083883,
-    "wof:lastmodified":1473984144,
+    "wof:lastmodified":1496896144,
     "wof:name":"Weidachhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

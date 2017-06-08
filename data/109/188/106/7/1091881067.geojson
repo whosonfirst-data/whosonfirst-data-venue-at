@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.225610733,47.9359397888,16.225610733,47.9359397888",
     "geom:latitude":47.93594,
     "geom:longitude":16.225611,
@@ -37,17 +38,34 @@
         "brick"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835733,
+        85632785,
+        101833205,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YYuMiHH3cDYTVeL7jmzZ7_47.935940_16.225611@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891183,
-    "wof:geomhash":"847159ba91bc6dcc69a436de9887bcd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e05cdd90400c2b6dadbc55ee24d763a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835733,
+            "locality_id":101833205,
+            "region_id":85681671,
+            "venue_id":1091881067
+        }
+    ],
     "wof:id":1091881067,
-    "wof:lastmodified":1473983613,
+    "wof:lastmodified":1496892394,
     "wof:name":"Mayer Transporte GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

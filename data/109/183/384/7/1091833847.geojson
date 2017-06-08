@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3121929169,48.0478897095,16.3121929169,48.0478897095",
     "geom:latitude":48.04789,
     "geom:longitude":16.312193,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836951,
+        85632785,
+        101754173,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3owVjvqFcFmgMQLaQqEA2p_48.047890_16.312193@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888990,
-    "wof:geomhash":"0f219bc2e3ed3fa6349d3a0b1a4502ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d557b1eac4170ffc9054bbb2b3e0bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836951,
+            "locality_id":101754173,
+            "region_id":85681671,
+            "venue_id":1091833847
+        }
+    ],
     "wof:id":1091833847,
-    "wof:lastmodified":1473984071,
+    "wof:lastmodified":1496893512,
     "wof:name":"RAIFFEISENKASSE GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

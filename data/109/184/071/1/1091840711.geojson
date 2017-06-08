@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8792762756,47.403629303,10.8792762756,47.403629303",
     "geom:latitude":47.403629,
     "geom:longitude":10.879276,
@@ -23,17 +24,33 @@
     "sg:postcode":"6631",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zH4QdCxnQE2aMBYMtvxK3_47.403629_10.879276@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889299,
-    "wof:geomhash":"49969bd8669245e040b9f4607c7dd401",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9479daeddf1380fab8cf92a4e9dfbccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091840711
+        }
+    ],
     "wof:id":1091840711,
-    "wof:lastmodified":1473983412,
+    "wof:lastmodified":1496899853,
     "wof:name":"Bader Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

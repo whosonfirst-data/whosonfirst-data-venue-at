@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2687168121,48.1778640747,16.2687168121,48.1778640747",
     "geom:latitude":48.177864,
     "geom:longitude":16.268717,
@@ -25,10 +26,13 @@
     "sg:website":"schober-real.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895594,
-    "wof:geomhash":"4d2bf24ae44a81dedcfd147acff24a37",
+    "wof:geomhash":"2190dfb04e73ef9aa710afdd78f5d4ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091978259
         }
     ],
     "wof:id":1091978259,
-    "wof:lastmodified":1473985018,
+    "wof:lastmodified":1496902539,
     "wof:name":"Schober Real Alexandra Schober",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

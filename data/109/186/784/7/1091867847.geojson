@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6448354721,47.0012321472,12.6448354721,47.0012321472",
     "geom:latitude":47.001232,
     "geom:longitude":12.644835,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.bnet.at/hs-kals/index.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837505,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0usH8qWry0Emc7sKv0nVVo_47.001232_12.644835@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890564,
-    "wof:geomhash":"a148c196d7587e11b7f936e608328d60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ceda0b2d7a9553b209b05e6524bb9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837505,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091867847
+        }
+    ],
     "wof:id":1091867847,
-    "wof:lastmodified":1473985117,
+    "wof:lastmodified":1496898111,
     "wof:name":"HS Kals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

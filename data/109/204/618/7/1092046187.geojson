@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2725963593,48.187877655,16.2725963593,48.187877655",
     "geom:latitude":48.187878,
     "geom:longitude":16.272596,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898362,
-    "wof:geomhash":"f591813ac6d8911b5b87fccb2db021e6",
+    "wof:geomhash":"5f978d376f675c34c340fb7c1c53f6d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092046187
         }
     ],
     "wof:id":1092046187,
-    "wof:lastmodified":1473983869,
+    "wof:lastmodified":1496928432,
     "wof:name":"Hotel Cortina",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

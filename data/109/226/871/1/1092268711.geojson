@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4647006989,48.1960678101,16.4647006989,48.1960678101",
     "geom:latitude":48.196068,
     "geom:longitude":16.464701,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898297,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908543,
-    "wof:geomhash":"3483588b0c12a58bf9d725e66ee76f20",
+    "wof:geomhash":"c3fab407cf5bd191be75ccca60483645",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898297,
             "region_id":85681667,
             "venue_id":1092268711
         }
     ],
     "wof:id":1092268711,
-    "wof:lastmodified":1473984932,
+    "wof:lastmodified":1496928353,
     "wof:name":"WIENSTROM GmbH - Kraftwerk Donaustadt",
     "wof:parent_id":85898297,
     "wof:placetype":"venue",

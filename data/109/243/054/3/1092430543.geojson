@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9410085678,48.3127593994,13.9410085678,48.3127593994",
     "geom:latitude":48.312759,
     "geom:longitude":13.941009,
@@ -32,17 +33,33 @@
         "floating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835049,
+        85632785,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38RR0hrLdos1bS6eE3lAtt_48.312759_13.941009@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915935,
-    "wof:geomhash":"fe384edb2b5976f470469be7cf572e3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a45ebc3e4c1830759ac0173ea5709624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835049,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092430543
+        }
+    ],
     "wof:id":1092430543,
-    "wof:lastmodified":1473983369,
+    "wof:lastmodified":1496884340,
     "wof:name":"Max Breitwieser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

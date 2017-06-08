@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.516699791,47.2867240906,12.516699791,47.2867240906",
     "geom:latitude":47.286724,
     "geom:longitude":12.5167,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"rc-design.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837239,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uriFlYri4fJwUJGJ9Sf63_47.286724_12.516700@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473902978,
-    "wof:geomhash":"49c38ca6483dece21249f22e30b1f27d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09c6f03cf7c506c6b26ac4c5f5f39b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837239,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092145021
+        }
+    ],
     "wof:id":1092145021,
-    "wof:lastmodified":1473984314,
+    "wof:lastmodified":1496896360,
     "wof:name":"Werbegrafik RC-Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

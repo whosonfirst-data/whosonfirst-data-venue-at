@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1423988342,47.3705444336,11.1423988342,47.3705444336",
     "geom:latitude":47.370544,
     "geom:longitude":11.142399,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YuOG1oya69Wf2ntKcewcQ_47.370544_11.142399@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473912988,
-    "wof:geomhash":"d2c420100273baefd373fca754642f14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7395cb7d2ca86ff09d3aa821bc9c62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092369359
+        }
+    ],
     "wof:id":1092369359,
-    "wof:lastmodified":1473985268,
+    "wof:lastmodified":1496898445,
     "wof:name":"Neuner Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

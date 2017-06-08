@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0527601242,47.2326202393,12.0527601242,47.2326202393",
     "geom:latitude":47.23262,
     "geom:longitude":12.05276,
@@ -23,17 +24,33 @@
     "sg:postcode":"6281",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837867,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qmPJeW3J4DGYpB6baqZoB_47.232620_12.052760@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899611,
-    "wof:geomhash":"543c5ebae11617b1d74a8bbaf1f99c31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a469ab97cf8595737bb3c42c03409f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837867,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092076771
+        }
+    ],
     "wof:id":1092076771,
-    "wof:lastmodified":1473984549,
+    "wof:lastmodified":1496900320,
     "wof:name":"Grubachhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

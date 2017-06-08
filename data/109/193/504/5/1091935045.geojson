@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5708446503,47.282787323,11.5708446503,47.282787323",
     "geom:latitude":47.282787,
     "geom:longitude":11.570845,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"steinmetz-wildauer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837637,
+        85632785,
+        101873989,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74INJARED2Zx4kyj5cCjE7_47.282787_11.570845@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893725,
-    "wof:geomhash":"6e258eb9d06268c866b542ac4cb9fce7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d06eef60a2c1ea1ddaebf391d865dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837637,
+            "locality_id":101873989,
+            "region_id":85681661,
+            "venue_id":1091935045
+        }
+    ],
     "wof:id":1091935045,
-    "wof:lastmodified":1473984399,
+    "wof:lastmodified":1496898888,
     "wof:name":"Wildauer KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

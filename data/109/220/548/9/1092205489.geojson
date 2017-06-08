@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2633228302,48.1102485657,16.2633228302,48.1102485657",
     "geom:latitude":48.110249,
     "geom:longitude":16.263323,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905763,
-    "wof:geomhash":"40c7d2bb463d94d0812dd49c671812af",
+    "wof:geomhash":"b64b55062650a39c4abfc1ad5b7d8f18",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092205489
         }
     ],
     "wof:id":1092205489,
-    "wof:lastmodified":1473984554,
+    "wof:lastmodified":1496882733,
     "wof:name":"Regen Maschinenservice Ges.m.b.H.",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

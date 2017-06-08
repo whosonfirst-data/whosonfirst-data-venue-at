@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2561740875,48.1494445801,16.2561740875,48.1494445801",
     "geom:latitude":48.149445,
     "geom:longitude":16.256174,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904367,
-    "wof:geomhash":"a80d8baede8c0b6c7f6112047de15146",
+    "wof:geomhash":"39457f421129115a87a9b86724faf4a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092175645
         }
     ],
     "wof:id":1092175645,
-    "wof:lastmodified":1473984478,
+    "wof:lastmodified":1496903663,
     "wof:name":"EMMA Otto",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

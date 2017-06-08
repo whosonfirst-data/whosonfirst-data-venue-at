@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4227361679,47.5223083496,12.4227361679,47.5223083496",
     "geom:latitude":47.522308,
     "geom:longitude":12.422736,
@@ -32,17 +33,34 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        101833055,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Lr1m2vma5FoqhWmMMg4K7_47.522308_12.422736@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905685,
-    "wof:geomhash":"8ab45d4076233f2a73a72cab246a7b11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db55eaa40bb612f0e492efabe90f63aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":101833055,
+            "region_id":85681661,
+            "venue_id":1092203593
+        }
+    ],
     "wof:id":1092203593,
-    "wof:lastmodified":1473984133,
+    "wof:lastmodified":1496897393,
     "wof:name":"Huber-Kamin GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

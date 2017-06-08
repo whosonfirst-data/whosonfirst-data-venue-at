@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6364002228,46.9959259033,12.6364002228,46.9959259033",
     "geom:latitude":46.995926,
     "geom:longitude":12.6364,
@@ -23,17 +24,33 @@
     "sg:postcode":"9981",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837505,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TuTHX86AOhL4ItsN1jI77_46.995926_12.636400@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899509,
-    "wof:geomhash":"20c12e06b64c8d36d2fa2f41086b32d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e12bead76cec8b7f77f57be0e4b95ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837505,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092074939
+        }
+    ],
     "wof:id":1092074939,
-    "wof:lastmodified":1473984222,
+    "wof:lastmodified":1496898115,
     "wof:name":"Gasthof Waldheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

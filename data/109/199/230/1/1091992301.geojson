@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4159860611,48.0908508301,14.4159860611,48.0908508301",
     "geom:latitude":48.090851,
     "geom:longitude":14.415986,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"schlossgangl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836097,
+        85632785,
+        101874027,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uv1a7BZwndh2nihKqtQOq_48.090851_14.415986@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896207,
-    "wof:geomhash":"6f2c7aedd7bd6e8de215f691c520c0bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41718a38da759d4afaf5f0597fcc11a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836097,
+            "locality_id":101874027,
+            "region_id":85681677,
+            "venue_id":1091992301
+        }
+    ],
     "wof:id":1091992301,
-    "wof:lastmodified":1473983700,
+    "wof:lastmodified":1496889499,
     "wof:name":"Schlo\u00dfgangl GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

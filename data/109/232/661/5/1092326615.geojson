@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3675432205,47.2690048218,11.3675432205,47.2690048218",
     "geom:latitude":47.269005,
     "geom:longitude":11.367543,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904367,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911082,
-    "wof:geomhash":"931ef7bb7dbe4790e62ae158a833f21c",
+    "wof:geomhash":"7471323566761d6544b112a8a332f289",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1092326615
         }
     ],
     "wof:id":1092326615,
-    "wof:lastmodified":1473984973,
+    "wof:lastmodified":1496899416,
     "wof:name":"Rauch Maria Mag",
     "wof:parent_id":85904367,
     "wof:placetype":"venue",

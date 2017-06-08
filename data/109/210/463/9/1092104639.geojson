@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5198993683,48.2150764465,16.5198993683,48.2150764465",
     "geom:latitude":48.215076,
     "geom:longitude":16.519899,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901045,
-    "wof:geomhash":"14e511c38aabd9acc5098ff8c74c29fd",
+    "wof:geomhash":"3f37bacea2f679809665e6faf96534e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092104639
         }
     ],
     "wof:id":1092104639,
-    "wof:lastmodified":1473984237,
+    "wof:lastmodified":1496902805,
     "wof:name":"Peter Wedorn",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7106876373,48.0665817261,13.7106876373,48.0665817261",
     "geom:latitude":48.066582,
     "geom:longitude":13.710688,
@@ -23,17 +24,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.peneder.at/komplettbau/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836427,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZUiWK7fsleQgMD6fwaXRw_48.066582_13.710688@1306268319"
     },
     "wof:country":"AT",
     "wof:created":1473916303,
-    "wof:geomhash":"e6b77980877632a17dbd8d4476d518ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7167d5929eb777bbb94a817cdf65be1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836427,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092438577
+        }
+    ],
     "wof:id":1092438577,
-    "wof:lastmodified":1473985142,
+    "wof:lastmodified":1496891030,
     "wof:name":"Fast Forward Komplettbau von Peneder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

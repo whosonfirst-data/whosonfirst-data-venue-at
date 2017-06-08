@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7803926468,47.5371360779,9.7803926468,47.5371360779",
     "geom:latitude":47.537136,
     "geom:longitude":9.780393,
@@ -23,17 +24,33 @@
     "sg:postcode":"6911",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837933,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WIAnWl9tDbCf7xCzlmgwZ_47.537136_9.780393@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899492,
-    "wof:geomhash":"923ab9438a8c8d95369e05812cbc7b03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5215a3f0b7b86c3f91c4685ee1187ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837933,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092074479
+        }
+    ],
     "wof:id":1092074479,
-    "wof:lastmodified":1473984144,
+    "wof:lastmodified":1496900891,
     "wof:name":"Gasthof Sonnenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

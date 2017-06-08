@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1333646774,47.4132843018,12.1333646774,47.4132843018",
     "geom:latitude":47.413284,
     "geom:longitude":12.133365,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IITW8E8PKOtfB8xvSHf1P_47.413284_12.133365@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898852,
-    "wof:geomhash":"4e7c6e93ca36778db820cb41dc6c0d55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"682edbe811aead74366bac5f9ca5392c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092058687
+        }
+    ],
     "wof:id":1092058687,
-    "wof:lastmodified":1473984815,
+    "wof:lastmodified":1496897001,
     "wof:name":"Sulzenbacher Der Gartengestalter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8495378494,47.1601791382,11.8495378494,47.1601791382",
     "geom:latitude":47.160179,
     "geom:longitude":11.849538,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"eberl-sauna.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        101789121,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MI9uDvUYjB15kaUcCCVKU_47.160179_11.849538@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891912,
-    "wof:geomhash":"716144c0acdde7f228e45b97dbef6fdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e25a488f5d4d53bbbc90c31ecf96cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":101789121,
+            "region_id":85681661,
+            "venue_id":1091896585
+        }
+    ],
     "wof:id":1091896585,
-    "wof:lastmodified":1473984850,
+    "wof:lastmodified":1496900440,
     "wof:name":"Eberl-Sauna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0960979462,48.5859527588,16.0960979462,48.5859527588",
     "geom:latitude":48.585953,
     "geom:longitude":16.096098,
@@ -23,17 +24,33 @@
     "sg:postcode":"2020",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xy0sOEZQ4YYHZBMH3f5tO_48.585953_16.096098@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915364,
-    "wof:geomhash":"19514d3eacbfbeb17de25249e217d134",
-    "wof:hierarchy":[],
+    "wof:geomhash":"693d0c044fdcc158d7ecf945508289e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092417963
+        }
+    ],
     "wof:id":1092417963,
-    "wof:lastmodified":1473984976,
+    "wof:lastmodified":1496886289,
     "wof:name":"Freiwillige Feuerwehr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

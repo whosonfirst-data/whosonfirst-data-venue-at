@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1297836304,46.7419433594,13.1297836304,46.7419433594",
     "geom:latitude":46.741943,
     "geom:longitude":13.129784,
@@ -34,17 +35,33 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838253,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a5hl33pXUhT7SjHDcVYAn_46.741943_13.129784@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910237,
-    "wof:geomhash":"4a5d209371401e008daa5cbaa052a8fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d185e195dc2aa7d829fd377fc0f16520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838253,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092306983
+        }
+    ],
     "wof:id":1092306983,
-    "wof:lastmodified":1473984938,
+    "wof:lastmodified":1496906834,
     "wof:name":"Hubert Brandst\u00e4tter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

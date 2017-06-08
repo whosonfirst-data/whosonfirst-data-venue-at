@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6400508881,47.8959693909,16.6400508881,47.8959693909",
     "geom:latitude":47.895969,
     "geom:longitude":16.640051,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838469,
+        85632785,
+        101785629,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iRizgl8vpMVy5w1ZOecAL_47.895969_16.640051@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905790,
-    "wof:geomhash":"dd07dea0bf0af7cad6cf52cb8d5fbb77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf289da99123438b73e8364e907a3034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838469,
+            "locality_id":101785629,
+            "region_id":85681651,
+            "venue_id":1092206093
+        }
+    ],
     "wof:id":1092206093,
-    "wof:lastmodified":1473984721,
+    "wof:lastmodified":1496908084,
     "wof:name":"RALF FELDMANN GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

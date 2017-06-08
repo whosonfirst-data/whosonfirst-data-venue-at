@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7233524323,47.2156295776,9.7233524323,47.2156295776",
     "geom:latitude":47.21563,
     "geom:longitude":9.723352,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838039,
+        85632785,
+        101911805,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aSFxwOOmScVcv5D0Qib6C_47.215630_9.723352@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906401,
-    "wof:geomhash":"f4830879177aca920fc290747e03866f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e8534d80be5f9e724624fe71dd4da27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838039,
+            "locality_id":101911805,
+            "region_id":85681649,
+            "venue_id":1092220091
+        }
+    ],
     "wof:id":1092220091,
-    "wof:lastmodified":1473983355,
+    "wof:lastmodified":1496901706,
     "wof:name":"Berchtel Taxi - Mietwagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2679290771,48.2673797607,16.2679290771,48.2673797607",
     "geom:latitude":48.26738,
     "geom:longitude":16.267929,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898387,
-        102049867
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895984,
-    "wof:geomhash":"f0af50a6a20201ace6588983300de2cd",
+    "wof:geomhash":"657b3c913e21637db7be87ed3ec821b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049867,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898387,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091987257
         }
     ],
     "wof:id":1091987257,
-    "wof:lastmodified":1473984326,
+    "wof:lastmodified":1496882833,
     "wof:name":"Austro-Federkerne Orlik",
     "wof:parent_id":85898387,
     "wof:placetype":"venue",

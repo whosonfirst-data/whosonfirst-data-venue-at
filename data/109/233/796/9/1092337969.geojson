@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0657711029,48.4041976929,14.0657711029,48.4041976929",
     "geom:latitude":48.404198,
     "geom:longitude":14.065771,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835999,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XeHTsjngfN9GGu3D4lcko_48.404198_14.065771@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911545,
-    "wof:geomhash":"7222bf5e33dfb165e75095bf8b58ef11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d100063037cca4abf731c8a209fc6207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835999,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092337969
+        }
+    ],
     "wof:id":1092337969,
-    "wof:lastmodified":1473985222,
+    "wof:lastmodified":1496889188,
     "wof:name":"HAUSER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

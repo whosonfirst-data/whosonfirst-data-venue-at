@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.517036438,47.8439674377,16.517036438,47.8439674377",
     "geom:latitude":47.843967,
     "geom:longitude":16.517036,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"partyservice-por.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ai9432UaJDdUd852uHrko_47.843967_16.517036@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912533,
-    "wof:geomhash":"290c4a0484717bb0818c742800e1a11f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70894ad8f370cd4368592df2b5826d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092360401
+        }
+    ],
     "wof:id":1092360401,
-    "wof:lastmodified":1473983420,
+    "wof:lastmodified":1496908785,
     "wof:name":"Partyservice Por & Pichler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

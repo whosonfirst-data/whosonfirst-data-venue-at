@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.237701416,48.3875579834,16.237701416,48.3875579834",
     "geom:latitude":48.387558,
     "geom:longitude":16.237701,
@@ -31,17 +32,34 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835821,
+        85632785,
+        101834151,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HFstEIgrXRgndI8w0xbjh_48.387558_16.237701@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895749,
-    "wof:geomhash":"9dee4cc2e12d33ebb2cfcc22944819a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14bcb60ad794fd2524e816b25ee56b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108835821,
+            "locality_id":101834151,
+            "region_id":85681671,
+            "venue_id":1091981285
+        }
+    ],
     "wof:id":1091981285,
-    "wof:lastmodified":1473983317,
+    "wof:lastmodified":1496882943,
     "wof:name":"INTERAD VERTRIEBSGESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

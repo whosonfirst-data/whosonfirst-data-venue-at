@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2607707977,48.1124305725,16.2607707977,48.1124305725",
     "geom:latitude":48.112431,
     "geom:longitude":16.260771,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906784,
-    "wof:geomhash":"c33702ef75d91642d19e198235e49274",
+    "wof:geomhash":"d62dcc3783a80cf6aede9ae10c9c2f16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092229141
         }
     ],
     "wof:id":1092229141,
-    "wof:lastmodified":1473985312,
+    "wof:lastmodified":1496885837,
     "wof:name":"IN Consult",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.170630455,47.5831260681,12.170630455,47.5831260681",
     "geom:latitude":47.583126,
     "geom:longitude":12.17063,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.sparkasse-kufstein.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OYmsCayu6nr4fL9v8Dle0_47.583126_12.170630@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915502,
-    "wof:geomhash":"ca890b72d0b6e90f802957cfa9b82234",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09bbea008db2d3613ae5184586362a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1092421185
+        }
+    ],
     "wof:id":1092421185,
-    "wof:lastmodified":1473983548,
+    "wof:lastmodified":1496897686,
     "wof:name":"Sparkasse Kufstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

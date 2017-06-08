@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4020900726,48.1374778748,16.4020900726,48.1374778748",
     "geom:latitude":48.137478,
     "geom:longitude":16.40209,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902280,
-    "wof:geomhash":"989517a2d781c23c433ea95976bba5e6",
+    "wof:geomhash":"61112542eccc4e42650465ac8f314894",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092130291
         }
     ],
     "wof:id":1092130291,
-    "wof:lastmodified":1473983377,
+    "wof:lastmodified":1496928673,
     "wof:name":"Staudner Florian",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

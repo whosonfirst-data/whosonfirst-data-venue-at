@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4057693481,48.0219345093,14.4057693481,48.0219345093",
     "geom:latitude":48.021935,
     "geom:longitude":14.405769,
@@ -32,17 +33,34 @@
         "glazings"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836103,
+        85632785,
+        101913431,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G7zC8duSPqMuliif7U5yO_48.021935_14.405769@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910211,
-    "wof:geomhash":"43c23ae5cb9cab41aa8a6edaea56ecbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98a146e5fee40529be5ecfb118dc0a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836103,
+            "locality_id":101913431,
+            "region_id":85681677,
+            "venue_id":1092306463
+        }
+    ],
     "wof:id":1092306463,
-    "wof:lastmodified":1473984801,
+    "wof:lastmodified":1496889516,
     "wof:name":"Glaserei und Sonnenschutz Brucker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

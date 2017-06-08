@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7105150223,47.0608024597,14.7105150223,47.0608024597",
     "geom:latitude":47.060802,
     "geom:longitude":14.710515,
@@ -32,17 +33,33 @@
         "implement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838939,
+        85632785,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EdcCRTTMR7diyxxD833Zl_47.060802_14.710515@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905056,
-    "wof:geomhash":"8f1d169679a973f9c80fcc2de7abb295",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15531f3ad7642dff9c8fe5571016f750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108838939,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092190605
+        }
+    ],
     "wof:id":1092190605,
-    "wof:lastmodified":1473983446,
+    "wof:lastmodified":1496910406,
     "wof:name":"Johann Greimel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

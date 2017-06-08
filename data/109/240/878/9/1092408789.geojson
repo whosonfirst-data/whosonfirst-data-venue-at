@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1342010498,47.1467285156,16.1342010498,47.1467285156",
     "geom:latitude":47.146729,
     "geom:longitude":16.134201,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"glaser.freitag.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838641,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17emC9CF59miBt40dvvzFv_47.146729_16.134201@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914799,
-    "wof:geomhash":"bd01a949d6e1b3f8c949815be80dc220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6cf524047984ea93aca89269b07b53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838641,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092408789
+        }
+    ],
     "wof:id":1092408789,
-    "wof:lastmodified":1473984936,
+    "wof:lastmodified":1496908958,
     "wof:name":"Glaser & Freitag Maschinenputz Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

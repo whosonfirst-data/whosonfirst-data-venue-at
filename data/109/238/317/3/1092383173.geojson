@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.881570816,47.3503112793,9.881570816,47.3503112793",
     "geom:latitude":47.350311,
     "geom:longitude":9.881571,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838009,
+        85632785,
+        101766259,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KfRF8jQ12tKO6mJjqSjPR_47.350311_9.881571@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913598,
-    "wof:geomhash":"1fa3eca7da3d8dd41ec3fb053d559d3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7471ab36cced522fbdb097bb069e7b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838009,
+            "locality_id":101766259,
+            "region_id":85681649,
+            "venue_id":1092383173
+        }
+    ],
     "wof:id":1092383173,
-    "wof:lastmodified":1473984139,
+    "wof:lastmodified":1496901510,
     "wof:name":"Pizzeria Da Sandro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

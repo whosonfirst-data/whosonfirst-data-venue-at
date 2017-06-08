@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0021743774,46.9774932861,16.0021743774,46.9774932861",
     "geom:latitude":46.977493,
     "geom:longitude":16.002174,
@@ -23,17 +24,33 @@
     "sg:postcode":"8361",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839261,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TXwpiX5K33A4xuuLMv6P9_46.977493_16.002174@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890602,
-    "wof:geomhash":"5682eae7543820bb68094e6abbb75a24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fca052d2e8f489752d94fbc2e7a743a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839261,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091868761
+        }
+    ],
     "wof:id":1091868761,
-    "wof:lastmodified":1473985281,
+    "wof:lastmodified":1496912326,
     "wof:name":"Bauernprodukte Thurner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

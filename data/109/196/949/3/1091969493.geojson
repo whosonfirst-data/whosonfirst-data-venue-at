@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3697319031,48.2428207397,16.3697319031,48.2428207397",
     "geom:latitude":48.242821,
     "geom:longitude":16.369732,
@@ -24,13 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898647,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898363,
-        85898647
+        85681667,
+        85898363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473895218,
-    "wof:geomhash":"ba61ead752c0080a62e3a212b7a77e88",
+    "wof:geomhash":"e1d4dae17f2f079e3b691c248adc852c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898363,
+            "neighbourhood_id":85898647,
             "region_id":85681667,
             "venue_id":1091969493
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898647,
+            "neighbourhood_id":85898363,
             "region_id":85681667,
             "venue_id":1091969493
         }
     ],
     "wof:id":1091969493,
-    "wof:lastmodified":1473984921,
+    "wof:lastmodified":1496927868,
     "wof:name":"China-Restaurant Lotos-Garten",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7342662811,47.9585266113,16.7342662811,47.9585266113",
     "geom:latitude":47.958527,
     "geom:longitude":16.734266,
@@ -24,17 +25,33 @@
     "sg:province":"Burgenland",
     "sg:website":"schreiber-security.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108839433,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nBb7XZq2CnlscKkgDg0sd_47.958527_16.734266@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913840,
-    "wof:geomhash":"152efe69eefed33e8a8d384e5020b2f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"980427f3ef0b3261e0795877903965b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108839433,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092387741
+        }
+    ],
     "wof:id":1092387741,
-    "wof:lastmodified":1473985180,
+    "wof:lastmodified":1496914223,
     "wof:name":"Schreiber WarenhandelsgmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

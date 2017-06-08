@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2627468109,48.1047897339,16.2627468109,48.1047897339",
     "geom:latitude":48.10479,
     "geom:longitude":16.262747,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911731,
-    "wof:geomhash":"62ea25ba648f4897464c74e69a27dc4e",
+    "wof:geomhash":"67a9ee49c49a9a7853dc31c2fa899778",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092342439
         }
     ],
     "wof:id":1092342439,
-    "wof:lastmodified":1473983740,
+    "wof:lastmodified":1496882722,
     "wof:name":"Bielesz Gerhard Ing GmbH",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

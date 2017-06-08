@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6830663681,48.4748077393,15.6830663681,48.4748077393",
     "geom:latitude":48.474808,
     "geom:longitude":15.683066,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835935,
+        85632785,
+        101783391,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31uVhpjnFBtQfORtZjZg8m_48.474808_15.683066@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898613,
-    "wof:geomhash":"54c2ca3aac07645d02d55f4a1560f766",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f66e6fdbdb500a28a31503ccf225103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835935,
+            "locality_id":101783391,
+            "region_id":85681671,
+            "venue_id":1092052615
+        }
+    ],
     "wof:id":1092052615,
-    "wof:lastmodified":1473983821,
+    "wof:lastmodified":1496888971,
     "wof:name":"EDUARD SACHSENEDER GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

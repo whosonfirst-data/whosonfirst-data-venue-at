@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3717470169,48.2779388428,13.3717470169,48.2779388428",
     "geom:latitude":48.277939,
     "geom:longitude":13.371747,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"steininger-haustechnik.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835701,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Dt2TjACwWr9AEC1sDgs4A_48.277939_13.371747@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905097,
-    "wof:geomhash":"37de5ac6d3f01d7a96435d4f4898127e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a0feca8bc552ad86d081e083b294162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835701,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092191731
+        }
+    ],
     "wof:id":1092191731,
-    "wof:lastmodified":1473983779,
+    "wof:lastmodified":1496888026,
     "wof:name":"Haustechnik Steininger GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

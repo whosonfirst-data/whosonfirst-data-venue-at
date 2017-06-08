@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2593631744,47.4392127991,16.2593631744,47.4392127991",
     "geom:latitude":47.439213,
     "geom:longitude":16.259363,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838653,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wUCK0fD4XwkDaheROXS8W_47.439213_16.259363@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897083,
-    "wof:geomhash":"1eac4243006e69ce3cc71f76f3b213fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36c94ae9b35209b59cfa0730e95d517d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838653,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092013455
+        }
+    ],
     "wof:id":1092013455,
-    "wof:lastmodified":1473983581,
+    "wof:lastmodified":1496909015,
     "wof:name":"Heide Schranz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

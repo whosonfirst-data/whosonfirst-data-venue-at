@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6602649689,47.1907653809,9.6602649689,47.1907653809",
     "geom:latitude":47.190765,
     "geom:longitude":9.660265,
@@ -23,17 +24,33 @@
     "sg:postcode":"6710",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838015,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Q9zadUiIONM7JMp6oXijp_47.190765_9.660265@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916167,
-    "wof:geomhash":"c3bbded7d1ad9ca6f4c587178990541d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd80c449ca24b28777c6161d86207e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838015,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092435673
+        }
+    ],
     "wof:id":1092435673,
-    "wof:lastmodified":1473984592,
+    "wof:lastmodified":1496901594,
     "wof:name":"PMS-Card Gassner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

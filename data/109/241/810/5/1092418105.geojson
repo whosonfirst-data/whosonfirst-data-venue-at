@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.252620697,47.0685806274,16.252620697,47.0685806274",
     "geom:latitude":47.068581,
     "geom:longitude":16.252621,
@@ -23,17 +24,33 @@
     "sg:postcode":"7542",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838757,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14N0XSUkcl7XbotBrUPZDW_47.068581_16.252621@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915370,
-    "wof:geomhash":"73855db6ea274314f87ef5c61afe7a07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e37fc61cad7c658375bb9ce9a665391d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838757,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092418105
+        }
+    ],
     "wof:id":1092418105,
-    "wof:lastmodified":1473985025,
+    "wof:lastmodified":1496909231,
     "wof:name":"Ortsfeuerwehr Gerersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3859176636,47.239025116,11.3859176636,47.239025116",
     "geom:latitude":47.239025,
     "geom:longitude":11.385918,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908166,
-    "wof:geomhash":"421d776a07c163f191a1c15997457859",
+    "wof:geomhash":"157c1bb81cb381d55d5d9285ad86cd23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092260211
         }
     ],
     "wof:id":1092260211,
-    "wof:lastmodified":1473983333,
+    "wof:lastmodified":1496898478,
     "wof:name":"Triendl Michael",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

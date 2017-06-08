@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2345666885,47.8176994324,13.2345666885,47.8176994324",
     "geom:latitude":47.817699,
     "geom:longitude":13.234567,
@@ -23,17 +24,33 @@
     "sg:postcode":"5322",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837151,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IuShO3NiGnUpkNmWH9xCr_47.817699_13.234567@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908858,
-    "wof:geomhash":"9ed4510e268ccc8c33be4c1a17048d9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63283ba10e6fac59c1ca1a7dea347ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837151,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092276087
+        }
+    ],
     "wof:id":1092276087,
-    "wof:lastmodified":1473984909,
+    "wof:lastmodified":1496895431,
     "wof:name":"St\u00f6llinger Mechatronik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

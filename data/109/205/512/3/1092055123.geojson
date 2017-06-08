@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3997554779,48.1361427307,16.3997554779,48.1361427307",
     "geom:latitude":48.136143,
     "geom:longitude":16.399755,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898703,
-    "wof:geomhash":"cb9a05e93b8c339cd1e31f5ce7860ee9",
+    "wof:geomhash":"979143fc912420af27da69f7caf83463",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092055123
         }
     ],
     "wof:id":1092055123,
-    "wof:lastmodified":1473984302,
+    "wof:lastmodified":1496928424,
     "wof:name":"Mazur Hans GesmbH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

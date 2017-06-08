@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.214717865,48.0040473938,16.214717865,48.0040473938",
     "geom:latitude":48.004047,
     "geom:longitude":16.214718,
@@ -29,10 +30,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898488,
-    "wof:geomhash":"a9e7b1bb6b49ca0d5b29a15adcc310c9",
+    "wof:geomhash":"7e4c3297b9b19f4abf770321b69da52f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092049463
         }
     ],
     "wof:id":1092049463,
-    "wof:lastmodified":1473984468,
+    "wof:lastmodified":1496886054,
     "wof:name":"Hotel-Gasthof Martinek",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

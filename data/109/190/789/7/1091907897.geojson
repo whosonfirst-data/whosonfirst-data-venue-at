@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3670978546,48.2607040405,16.3670978546,48.2607040405",
     "geom:latitude":48.260704,
     "geom:longitude":16.367098,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892467,
-    "wof:geomhash":"c609b5d676e12175239c8b1db9774e41",
+    "wof:geomhash":"3e307a2067a69faabce1aa50399a0d05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1091907897
         }
     ],
     "wof:id":1091907897,
-    "wof:lastmodified":1473985018,
+    "wof:lastmodified":1496927688,
     "wof:name":"Ferroco Maschinenhandel Ing Rudolf Ferro GesmbH",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

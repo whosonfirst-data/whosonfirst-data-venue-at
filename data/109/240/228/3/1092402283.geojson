@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8368244171,46.5994873047,13.8368244171,46.5994873047",
     "geom:latitude":46.599487,
     "geom:longitude":13.836824,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914509,
-    "wof:geomhash":"7b79f36b5351d4984533cac7bebcbf5b",
+    "wof:geomhash":"2dcdc10d0289b1966480fd89c62c33e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092402283
         }
     ],
     "wof:id":1092402283,
-    "wof:lastmodified":1473983794,
+    "wof:lastmodified":1496906083,
     "wof:name":"Zingerle Helmut Dr",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0705432892,47.7753486633,13.0705432892,47.7753486633",
     "geom:latitude":47.775349,
     "geom:longitude":13.070543,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909144,
-    "wof:geomhash":"1907292ecedfa70d490ace2c01d4fc4b",
+    "wof:geomhash":"29b81032efa70c258357926bcc28f451",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092282565
         }
     ],
     "wof:id":1092282565,
-    "wof:lastmodified":1473983774,
+    "wof:lastmodified":1496894389,
     "wof:name":"Spresso mat Verleih GmbH",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

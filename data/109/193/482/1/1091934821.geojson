@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1720523834,47.5829086304,12.1720523834,47.5829086304",
     "geom:latitude":47.582909,
     "geom:longitude":12.172052,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"schilcher.kufnet.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834309,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YdeZkFEL7XuG3tfNEMPNX_47.582909_12.172052@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893716,
-    "wof:geomhash":"7ac86b107a282e3dda5a2664666be8d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"555ddfbf9e886033999c2d678d752389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834309,
+            "region_id":85681661,
+            "venue_id":1091934821
+        }
+    ],
     "wof:id":1091934821,
-    "wof:lastmodified":1473984341,
+    "wof:lastmodified":1496897694,
     "wof:name":"Schilcher OEG Steinmetzbetrieb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

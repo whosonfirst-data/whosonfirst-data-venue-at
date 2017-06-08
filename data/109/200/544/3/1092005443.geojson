@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1105394363,48.0997848511,14.1105394363,48.0997848511",
     "geom:latitude":48.099785,
     "geom:longitude":14.110539,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"gmt.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836577,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e3askdDZZY5okqNcxlCEM_48.099785_14.110539@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896755,
-    "wof:geomhash":"f0d610340d8d1d6aee88d2da980a94d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c127b2ed795878e67bb5fb04b26f496e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836577,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092005443
+        }
+    ],
     "wof:id":1092005443,
-    "wof:lastmodified":1473984383,
+    "wof:lastmodified":1496891749,
     "wof:name":"Gatterbauer Messtechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

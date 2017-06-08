@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8156051636,48.6070213318,16.8156051636,48.6070213318",
     "geom:latitude":48.607021,
     "geom:longitude":16.815605,
@@ -31,17 +32,33 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836885,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BVo51c7c5uPjvAW9BI9DN_48.607021_16.815605@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914880,
-    "wof:geomhash":"88f880a389f6eb73b022b6f8d4f4d256",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bdb2c7e6f0b7e2115c46657743180aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836885,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092410051
+        }
+    ],
     "wof:id":1092410051,
-    "wof:lastmodified":1473983377,
+    "wof:lastmodified":1496893309,
     "wof:name":"Metallbau Weiss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

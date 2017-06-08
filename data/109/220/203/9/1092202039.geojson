@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5307559967,46.7393074036,14.5307559967,46.7393074036",
     "geom:latitude":46.739307,
     "geom:longitude":14.530756,
@@ -32,17 +33,33 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838203,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hxbLDSXNeJsAs2rVRAD1o_46.739307_14.530756@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905577,
-    "wof:geomhash":"7dcf7e321d349e834c7ee16560998a7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49eca01fef37924b437c5cdedb9a34ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838203,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092202039
+        }
+    ],
     "wof:id":1092202039,
-    "wof:lastmodified":1473983839,
+    "wof:lastmodified":1496906554,
     "wof:name":"DONAU-CHEMIE AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

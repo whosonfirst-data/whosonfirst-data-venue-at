@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.494383812,47.1065826416,15.494383812,47.1065826416",
     "geom:latitude":47.106583,
     "geom:longitude":15.494384,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894893,
-    "wof:geomhash":"98cb1de14477aa752636d00f7c3803fd",
+    "wof:geomhash":"72a0901aaaa2c7f263552e8f57f9585d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1091961697
         }
     ],
     "wof:id":1091961697,
-    "wof:lastmodified":1473983558,
+    "wof:lastmodified":1496913373,
     "wof:name":"Sunshine Ranch",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

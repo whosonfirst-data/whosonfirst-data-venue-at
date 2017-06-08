@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3574466705,47.1741714478,16.3574466705,47.1741714478",
     "geom:latitude":47.174171,
     "geom:longitude":16.357447,
@@ -23,17 +24,33 @@
     "sg:postcode":"7512",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838759,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EFtk4TB1q5JMZAqHS2r3C_47.174171_16.357447@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915755,
-    "wof:geomhash":"5d1fbbcb417acfa8236bb4f40111cd90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd81ef66490b07a0f8688f35dfd09f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838759,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092426509
+        }
+    ],
     "wof:id":1092426509,
-    "wof:lastmodified":1473984529,
+    "wof:lastmodified":1496909241,
     "wof:name":"Landauer Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

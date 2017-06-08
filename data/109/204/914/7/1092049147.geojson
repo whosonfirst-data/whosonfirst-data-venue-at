@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0370798111,46.8841934204,11.0370798111,46.8841934204",
     "geom:latitude":46.884193,
     "geom:longitude":11.03708,
@@ -29,17 +30,33 @@
     "sg:province":"Tirol",
     "sg:website":"www.wurmkogel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837447,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rFkDDZbyonbC0HZYZgeP8_46.884193_11.037080@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898476,
-    "wof:geomhash":"4cdafec50aca9426f7ce5a73ccd7afda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a3fc2b58b9b25e0d60b83886fae5519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837447,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092049147
+        }
+    ],
     "wof:id":1092049147,
-    "wof:lastmodified":1473984351,
+    "wof:lastmodified":1496897944,
     "wof:name":"Hotel Wurmkogel GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

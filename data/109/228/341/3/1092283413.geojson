@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5036687851,47.2798347473,11.5036687851,47.2798347473",
     "geom:latitude":47.279835,
     "geom:longitude":11.503669,
@@ -35,10 +36,13 @@
     "sg:website":"dibit.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909179,
-    "wof:geomhash":"dc3d8b9dda7ff5f1ed4ab0a76438401e",
+    "wof:geomhash":"8dd873e90897b09e262d1198967740ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092283413
         }
     ],
     "wof:id":1092283413,
-    "wof:lastmodified":1473983976,
+    "wof:lastmodified":1496898723,
     "wof:name":"DIBIT Messtechnik GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

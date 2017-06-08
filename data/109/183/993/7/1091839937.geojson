@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0838794708,47.8332176208,13.0838794708,47.8332176208",
     "geom:latitude":47.833218,
     "geom:longitude":13.083879,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889268,
-    "wof:geomhash":"44878180fc4825dd05b428e5ee47d4ef",
+    "wof:geomhash":"ff5cb3736f6131e7aa190f386004d440",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1091839937
         }
     ],
     "wof:id":1091839937,
-    "wof:lastmodified":1473985309,
+    "wof:lastmodified":1496895385,
     "wof:name":"Bautec Schwarzl GmbH",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

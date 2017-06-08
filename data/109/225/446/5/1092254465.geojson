@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4208431244,48.2957458496,16.4208431244,48.2957458496",
     "geom:latitude":48.295746,
     "geom:longitude":16.420843,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907901,
-    "wof:geomhash":"1f2b3cbe93ed0c6c786cbdf47387526c",
+    "wof:geomhash":"a64b3e4b7321a4c3cebfecafd7f64812",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092254465
         }
     ],
     "wof:id":1092254465,
-    "wof:lastmodified":1473984379,
+    "wof:lastmodified":1496903186,
     "wof:name":"Delic Mitar KEG",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

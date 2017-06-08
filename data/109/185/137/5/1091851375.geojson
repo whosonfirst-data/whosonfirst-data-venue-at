@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2611656189,47.0722846985,11.2611656189,47.0722846985",
     "geom:latitude":47.072285,
     "geom:longitude":11.261166,
@@ -23,17 +24,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21drUpJbNjMRvC3sZB8hiV_47.072285_11.261166@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889778,
-    "wof:geomhash":"dc55ca8b6c4bf9df66428b392e3e0a25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"909908fd920ee2d84721bd56cb052850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091851375
+        }
+    ],
     "wof:id":1091851375,
-    "wof:lastmodified":1473983534,
+    "wof:lastmodified":1496898536,
     "wof:name":"Alpenpension Pfurtscheller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

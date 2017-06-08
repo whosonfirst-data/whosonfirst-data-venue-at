@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4790344238,47.5036087036,12.4790344238,47.5036087036",
     "geom:latitude":47.503609,
     "geom:longitude":12.479034,
@@ -33,17 +34,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G3Ariy0A8mBNTiWMDi7iY_47.503609_12.479034@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892605,
-    "wof:geomhash":"25ac827edfdb6d562af17e58f2551d60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9417bc43bebd5d358f92276f97c7b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091911501
+        }
+    ],
     "wof:id":1091911501,
-    "wof:lastmodified":1473983310,
+    "wof:lastmodified":1496897378,
     "wof:name":"Schischule Eichenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

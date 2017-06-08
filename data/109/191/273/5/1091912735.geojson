@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.660607338,47.4413375854,9.660607338,47.4413375854",
     "geom:latitude":47.441338,
     "geom:longitude":9.660607,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TUCTjVZdWnUpQyfFL5KVh_47.441338_9.660607@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892673,
-    "wof:geomhash":"ad2caab3a97e0bc8abce3f89c8d7ae15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b7dfa93a21badf2dcf25d48e32c3dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091912735
+        }
+    ],
     "wof:id":1091912735,
-    "wof:lastmodified":1473983629,
+    "wof:lastmodified":1496901436,
     "wof:name":"BYTEWISE Software GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

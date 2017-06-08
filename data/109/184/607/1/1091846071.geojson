@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7479562759,47.4138374329,9.7479562759,47.4138374329",
     "geom:latitude":47.413837,
     "geom:longitude":9.747956,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889518,
-    "wof:geomhash":"6f05d07b36f3720fb8af06f1fff1378f",
+    "wof:geomhash":"75ba10c0613c2b11583b6d9d006d05f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091846071
         }
     ],
     "wof:id":1091846071,
-    "wof:lastmodified":1473984375,
+    "wof:lastmodified":1496900832,
     "wof:name":"GARTENSTADT Wohnbau GmbH & Co KG",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

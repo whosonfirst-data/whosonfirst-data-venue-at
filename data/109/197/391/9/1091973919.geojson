@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7134437561,46.5510826111,13.7134437561,46.5510826111",
     "geom:latitude":46.551083,
     "geom:longitude":13.713444,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838323,
+        85632785,
+        101790107,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tsxgujqmMuv3PSJsPFyIA_46.551083_13.713444@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895409,
-    "wof:geomhash":"4e5679481ee55cb5653198b2acbc643e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"589851877f68944066d097bff55b4dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838323,
+            "locality_id":101790107,
+            "region_id":85681655,
+            "venue_id":1091973919
+        }
+    ],
     "wof:id":1091973919,
-    "wof:lastmodified":1473984170,
+    "wof:lastmodified":1496907306,
     "wof:name":"TREU SPEDITIONSGESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

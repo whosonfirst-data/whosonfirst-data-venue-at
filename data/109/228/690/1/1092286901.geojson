@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2239055634,48.2091369629,16.2239055634,48.2091369629",
     "geom:latitude":48.209137,
     "geom:longitude":16.223906,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909322,
-    "wof:geomhash":"d18031b64d7da8e17bcc73cefbdd7cfa",
+    "wof:geomhash":"6965117cf770711a7b17b577ce91ac12",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092286901
         }
     ],
     "wof:id":1092286901,
-    "wof:lastmodified":1473984751,
+    "wof:lastmodified":1496902323,
     "wof:name":"Beer Monika Antiquit\u00e4tenhandel KEG",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

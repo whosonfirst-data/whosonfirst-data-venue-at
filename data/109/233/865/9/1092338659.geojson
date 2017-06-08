@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4052753448,47.0364303589,15.4052753448,47.0364303589",
     "geom:latitude":47.03643,
     "geom:longitude":15.405275,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911574,
-    "wof:geomhash":"55b2fba24b5ae080258c7c6fae77f2fa",
+    "wof:geomhash":"ae318b8600c2b25c9f5dfe76ea0615da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1092338659
         }
     ],
     "wof:id":1092338659,
-    "wof:lastmodified":1473985310,
+    "wof:lastmodified":1496913011,
     "wof:name":"Fleischer Rudolf KG",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

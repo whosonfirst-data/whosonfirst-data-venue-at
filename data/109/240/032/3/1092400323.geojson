@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4894208908,47.1052093506,15.4894208908,47.1052093506",
     "geom:latitude":47.105209,
     "geom:longitude":15.489421,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914429,
-    "wof:geomhash":"a7d9175be84b4f62590bcc6d5f93aac2",
+    "wof:geomhash":"ce2fe2c4350c1ebf22b3b9ee8856e349",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092400323
         }
     ],
     "wof:id":1092400323,
-    "wof:lastmodified":1473983393,
+    "wof:lastmodified":1496913453,
     "wof:name":"Ornig Edith Dr",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

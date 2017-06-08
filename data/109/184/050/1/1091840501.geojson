@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5758371353,48.5058670044,15.5758371353,48.5058670044",
     "geom:latitude":48.505867,
     "geom:longitude":15.575837,
@@ -23,17 +24,33 @@
     "sg:postcode":"3550",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835935,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FKWMv2pRijfe6KSJrME6c_48.505867_15.575837@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889291,
-    "wof:geomhash":"8a2fbe6165bf2c67039adc986053e1a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d0bb2370c20262d7e846d90a04f4bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835935,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091840501
+        }
+    ],
     "wof:id":1091840501,
-    "wof:lastmodified":1473983375,
+    "wof:lastmodified":1496888945,
     "wof:name":"entfeuchter.at.gmbh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4890441895,48.2147521973,16.4890441895,48.2147521973",
     "geom:latitude":48.214752,
     "geom:longitude":16.489044,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898795,
-    "wof:geomhash":"2a31368f1fd00366d5f6bee053d1eb0b",
+    "wof:geomhash":"e2c2285f982ee981a8e1294189fe219b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092057169
         }
     ],
     "wof:id":1092057169,
-    "wof:lastmodified":1473984597,
+    "wof:lastmodified":1496928440,
     "wof:name":"Rainer Garage BetriebsgesmbH",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

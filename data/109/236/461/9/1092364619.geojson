@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.890581131,47.3770294189,10.890581131,47.3770294189",
     "geom:latitude":47.377029,
     "geom:longitude":10.890581,
@@ -23,17 +24,33 @@
     "sg:postcode":"6633",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837801,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00L0PbuZyTaGS3656rb3BO_47.377029_10.890581@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912740,
-    "wof:geomhash":"738c99dfa861c4becf0b94dd497411da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13cdcf55ebe20af04eee6209b6afc875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837801,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092364619
+        }
+    ],
     "wof:id":1092364619,
-    "wof:lastmodified":1473984453,
+    "wof:lastmodified":1496900006,
     "wof:name":"G\u00e4stehaus Panorama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

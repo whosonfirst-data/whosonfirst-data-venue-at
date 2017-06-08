@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6168193817,47.059589386,13.6168193817,47.059589386",
     "geom:latitude":47.059589,
     "geom:longitude":13.616819,
@@ -24,17 +25,34 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.computerhotel.com/seminar/index.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838293,
+        85632785,
+        101912381,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_353lVnwjBKXC1MB8mgam9P_47.059589_13.616819@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894821,
-    "wof:geomhash":"947080a2b31265e71138e724daa6a159",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c1c4a8f84680a2ad5798ca5a99d79f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838293,
+            "locality_id":101912381,
+            "region_id":85681655,
+            "venue_id":1091959919
+        }
+    ],
     "wof:id":1091959919,
-    "wof:lastmodified":1473985331,
+    "wof:lastmodified":1496894273,
     "wof:name":"Computerhotel\u00b4 Hutter, Seminarhotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

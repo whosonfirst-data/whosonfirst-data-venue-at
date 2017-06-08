@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6238899231,47.2891387939,9.6238899231,47.2891387939",
     "geom:latitude":47.289139,
     "geom:longitude":9.62389,
@@ -23,17 +24,33 @@
     "sg:postcode":"6830",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838021,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QJUCaeCU2zWKufj083af4_47.289139_9.623890@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913767,
-    "wof:geomhash":"897cf1940e1dcaeaf6c41d2795af1479",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46ccf15af6e470997140bb9c592f59e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092386711
+        }
+    ],
     "wof:id":1092386711,
-    "wof:lastmodified":1473984934,
+    "wof:lastmodified":1496901665,
     "wof:name":"Reiter GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

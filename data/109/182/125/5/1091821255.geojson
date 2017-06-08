@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7779932022,47.3884239197,11.7779932022,47.3884239197",
     "geom:latitude":47.388424,
     "geom:longitude":11.777993,
@@ -23,17 +24,34 @@
     "sg:postcode":"6200",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837877,
+        85632785,
+        101787875,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lcIKn0wA49aniEt5Rgh66_47.388424_11.777993@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888407,
-    "wof:geomhash":"ad4e12be75687deee2b39bababb99be3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b6378ba1af7d6dac8af5f43985de37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837877,
+            "locality_id":101787875,
+            "region_id":85681661,
+            "venue_id":1091821255
+        }
+    ],
     "wof:id":1091821255,
-    "wof:lastmodified":1473983640,
+    "wof:lastmodified":1496900353,
     "wof:name":"Bahnhof Jenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

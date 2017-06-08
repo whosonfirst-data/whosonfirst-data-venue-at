@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3472414017,47.2686958313,11.3472414017,47.2686958313",
     "geom:latitude":47.268696,
     "geom:longitude":11.347241,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907060,
-    "wof:geomhash":"21b68a38f62a0d2c2099e738e100e347",
+    "wof:geomhash":"eef8b5d372b574d9a4b514417cc047cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092235229
         }
     ],
     "wof:id":1092235229,
-    "wof:lastmodified":1473984430,
+    "wof:lastmodified":1496899273,
     "wof:name":"RUKA-Mariacher Textilfachhandel KEG",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

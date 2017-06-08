@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3189811707,47.0583305359,16.3189811707,47.0583305359",
     "geom:latitude":47.058331,
     "geom:longitude":16.318981,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"hruby.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838483,
+        85632785,
+        101789059,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IR0CJyRKH2Otiy5x18ypF_47.058331_16.318981@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896484,
-    "wof:geomhash":"be63cac8f15f5d1bdfa435a54befb7c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48c7920eba7e696356234686572c3ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838483,
+            "locality_id":101789059,
+            "region_id":85681651,
+            "venue_id":1091998823
+        }
+    ],
     "wof:id":1091998823,
-    "wof:lastmodified":1473985005,
+    "wof:lastmodified":1496908118,
     "wof:name":"EDV HRUBY - Ing. Wolfgang Hruby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

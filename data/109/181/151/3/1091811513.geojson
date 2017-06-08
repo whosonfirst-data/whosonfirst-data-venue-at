@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8637857437,47.6941184998,15.8637857437,47.6941184998",
     "geom:latitude":47.694118,
     "geom:longitude":15.863786,
@@ -32,17 +33,34 @@
         "purpose"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836841,
+        85632785,
+        101833077,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ob2McYs5Y01jqf7rDp50B_47.694118_15.863786@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473887978,
-    "wof:geomhash":"9b6d9611517bbd85ef432d83b60a5bf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58b379c6e4660bb042ee83a8df03b31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108836841,
+            "locality_id":101833077,
+            "region_id":85681671,
+            "venue_id":1091811513
+        }
+    ],
     "wof:id":1091811513,
-    "wof:lastmodified":1473983632,
+    "wof:lastmodified":1496893011,
     "wof:name":"Mag. Peter Waitzbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

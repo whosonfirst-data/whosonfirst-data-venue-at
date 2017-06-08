@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4238758087,48.0412063599,14.4238758087,48.0412063599",
     "geom:latitude":48.041206,
     "geom:longitude":14.423876,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ie530uWNbScYckOM95nm5_48.041206_14.423876@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913532,
-    "wof:geomhash":"475db790991f3630f8f782583182bf64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da9ce2b040e40cae77706da71663b78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1092382107
+        }
+    ],
     "wof:id":1092382107,
-    "wof:lastmodified":1473983823,
+    "wof:lastmodified":1496881707,
     "wof:name":"Bella Italia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

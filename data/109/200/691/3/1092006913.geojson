@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4139938354,48.0923805237,16.4139938354,48.0923805237",
     "geom:latitude":48.092381,
     "geom:longitude":16.413994,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"rentaplant.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835473,
+        85632785,
+        101754209,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03rlb45p9D5B8S4wPptuge_48.092381_16.413994@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896822,
-    "wof:geomhash":"a0ed2173ca55544af14c63783129669b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53eb7ddc64216037ace8b74f8dd724f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108835473,
+            "locality_id":101754209,
+            "region_id":85681671,
+            "venue_id":1092006913
+        }
+    ],
     "wof:id":1092006913,
-    "wof:lastmodified":1473984629,
+    "wof:lastmodified":1496886821,
     "wof:name":"der pflanzenverleih - rent a plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

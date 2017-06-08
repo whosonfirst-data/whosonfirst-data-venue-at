@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1049785614,47.1720161438,13.1049785614,47.1720161438",
     "geom:latitude":47.172016,
     "geom:longitude":13.104979,
@@ -28,17 +29,34 @@
     "sg:postcode":"5630",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        101789117,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LgYwNSqR4QqFbZllLckDp_47.172016_13.104979@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898549,
-    "wof:geomhash":"6793deecfa54c46f6c76d6f12a8d3b5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"875ae3e208cf222f13297ad81425135d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":101789117,
+            "region_id":85681681,
+            "venue_id":1092050993
+        }
+    ],
     "wof:id":1092050993,
-    "wof:lastmodified":1473983480,
+    "wof:lastmodified":1496893728,
     "wof:name":"Restaurant Austria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

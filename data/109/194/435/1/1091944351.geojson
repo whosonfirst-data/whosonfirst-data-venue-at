@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2713651657,47.2283782959,11.2713651657,47.2283782959",
     "geom:latitude":47.228378,
     "geom:longitude":11.271365,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894124,
-    "wof:geomhash":"9d41d54281be7b25b3cc0666c4ba334c",
+    "wof:geomhash":"cee4857db3a5761cf37096b5afbf5b7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1091944351
         }
     ],
     "wof:id":1091944351,
-    "wof:lastmodified":1473984132,
+    "wof:lastmodified":1496898027,
     "wof:name":"Titlbach Peter",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5038080215,46.8937187195,10.5038080215,46.8937187195",
     "geom:latitude":46.893719,
     "geom:longitude":10.503808,
@@ -28,17 +29,34 @@
     "sg:postcode":"6543",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837311,
+        85632785,
+        101790159,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d9iQXSiixFuhVe9LV4BIq_46.893719_10.503808@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895092,
-    "wof:geomhash":"a24d245d878883ed642c801038f311ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"799c5cbf9c05a31ae16af8b69bd19763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837311,
+            "locality_id":101790159,
+            "region_id":85681661,
+            "venue_id":1091966473
+        }
+    ],
     "wof:id":1091966473,
-    "wof:lastmodified":1473984315,
+    "wof:lastmodified":1496896821,
     "wof:name":"Restaurant Stadlwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5027189255,47.2798728943,11.5027189255,47.2798728943",
     "geom:latitude":47.279873,
     "geom:longitude":11.502719,
@@ -33,10 +34,13 @@
     "sg:website":"keim.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915645,
-    "wof:geomhash":"d3fd213084be1ce0deb51e095b228ffb",
+    "wof:geomhash":"3c5d657f488927c74942ac0bac81ae29",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092424289
         }
     ],
     "wof:id":1092424289,
-    "wof:lastmodified":1473984161,
+    "wof:lastmodified":1496898706,
     "wof:name":"Keim GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

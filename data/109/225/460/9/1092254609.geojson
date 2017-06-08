@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7643632889,47.4110603333,9.7643632889,47.4110603333",
     "geom:latitude":47.41106,
     "geom:longitude":9.764363,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907907,
-    "wof:geomhash":"b71d31ac084652a460b01815577cac60",
+    "wof:geomhash":"ac33f2ea043708e7083cc8c54e1bfc58",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092254609
         }
     ],
     "wof:id":1092254609,
-    "wof:lastmodified":1473984409,
+    "wof:lastmodified":1496900756,
     "wof:name":"D\u00fcnser Transporte KG",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

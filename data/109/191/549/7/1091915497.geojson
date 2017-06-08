@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.515294075,48.3686523438,14.515294075,48.3686523438",
     "geom:latitude":48.368652,
     "geom:longitude":14.515294,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835067,
+        85632785,
+        101833271,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yrd6Wd2ByBL1bRAWIqoHR_48.368652_14.515294@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892810,
-    "wof:geomhash":"4a9814f989df6b88a588a87c17891801",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d996c4b1ade527777355c45c827fb157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835067,
+            "locality_id":101833271,
+            "region_id":85681677,
+            "venue_id":1091915497
+        }
+    ],
     "wof:id":1091915497,
-    "wof:lastmodified":1473984002,
+    "wof:lastmodified":1496884462,
     "wof:name":"Simulation & Control Software Development GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

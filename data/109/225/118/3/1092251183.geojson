@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4092731476,47.189365387,16.4092731476,47.189365387",
     "geom:latitude":47.189365,
     "geom:longitude":16.409273,
@@ -23,17 +24,33 @@
     "sg:postcode":"7474",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838517,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AUiNHxOz5WZ8v9rD46km8_47.189365_16.409273@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907768,
-    "wof:geomhash":"7af70e3f82a2105154d42c986152fd44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b68310e1f8fe19585e82a4553897f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838517,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092251183
+        }
+    ],
     "wof:id":1092251183,
-    "wof:lastmodified":1473983530,
+    "wof:lastmodified":1496908328,
     "wof:name":"Tourismusinformation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

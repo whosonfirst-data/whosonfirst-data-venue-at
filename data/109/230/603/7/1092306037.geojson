@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4789333344,48.557800293,14.4789333344,48.557800293",
     "geom:latitude":48.5578,
     "geom:longitude":14.478933,
@@ -31,17 +32,33 @@
         "metalwork"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835093,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SfEyCH3Vku0Tl1VvdzkX6_48.557800_14.478933@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910193,
-    "wof:geomhash":"3cf7c6f40fade2d41f2bd1366aac56e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94c083d589b4e594363e873b92af196d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835093,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092306037
+        }
+    ],
     "wof:id":1092306037,
-    "wof:lastmodified":1473984673,
+    "wof:lastmodified":1496884553,
     "wof:name":"Hubert Wirtl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

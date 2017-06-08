@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2676773071,48.1886520386,16.2676773071,48.1886520386",
     "geom:latitude":48.188652,
     "geom:longitude":16.267677,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915417,
-    "wof:geomhash":"e582144635ce58321fd442721027ec20",
+    "wof:geomhash":"d08553f5ebc3bd95b08e84392061edfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092419365
         }
     ],
     "wof:id":1092419365,
-    "wof:lastmodified":1473985157,
+    "wof:lastmodified":1496928061,
     "wof:name":"PS Film-Wien",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

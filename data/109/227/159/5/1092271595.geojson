@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1989431381,47.3150787354,11.1989431381,47.3150787354",
     "geom:latitude":47.315079,
     "geom:longitude":11.198943,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"www.elektro-norz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837699,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mhB2tcEr39g32yoQhOfxQ_47.315079_11.198943@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908665,
-    "wof:geomhash":"babddb8c8980a85a6f39c3164d7082ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"069f8c1e3394e42ee6b6d045e9c1f995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837699,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092271595
+        }
+    ],
     "wof:id":1092271595,
-    "wof:lastmodified":1473983780,
+    "wof:lastmodified":1496899653,
     "wof:name":"Elektro Norz GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

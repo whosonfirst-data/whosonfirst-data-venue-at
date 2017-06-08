@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1279888153,47.3628578186,11.1279888153,47.3628578186",
     "geom:latitude":47.362858,
     "geom:longitude":11.127989,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ch2jld7p1hzE22NLAfk72_47.362858_11.127989@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913242,
-    "wof:geomhash":"0e8d8328a561d93b56d50d796c4e10c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de4223212f4cf66835af468aaa92cbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092375147
+        }
+    ],
     "wof:id":1092375147,
-    "wof:lastmodified":1473984510,
+    "wof:lastmodified":1496898445,
     "wof:name":"Vendlhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

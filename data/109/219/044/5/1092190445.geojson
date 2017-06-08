@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4099283218,48.7957305908,15.4099283218,48.7957305908",
     "geom:latitude":48.795731,
     "geom:longitude":15.409928,
@@ -31,17 +32,34 @@
         "aeronautic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835395,
+        85632785,
+        101782265,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iDSsapXbgMiGo2xuFSBp2_48.795731_15.409928@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905045,
-    "wof:geomhash":"9ddd6f90bfd276e8dc33ac836a0f949c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a628b0c62d6a8fb6933d2944c41da990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835395,
+            "locality_id":101782265,
+            "region_id":85681671,
+            "venue_id":1092190445
+        }
+    ],
     "wof:id":1092190445,
-    "wof:lastmodified":1473983421,
+    "wof:lastmodified":1496886470,
     "wof:name":"TEST-FUCHS ING. FRITZ FUCHS GES.M.B.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3042297363,47.5135917664,12.3042297363,47.5135917664",
     "geom:latitude":47.513592,
     "geom:longitude":12.30423,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.tirol.com/alpenblockhaus/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837681,
+        85632785,
+        101787951,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PefqeTbRNRzgrYHdKeHQJ_47.513592_12.304230@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895465,
-    "wof:geomhash":"ea9edcaa03ebef807604f953634fce30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2707af61b27a7facc7048362235d1a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837681,
+            "locality_id":101787951,
+            "region_id":85681661,
+            "venue_id":1091975359
+        }
+    ],
     "wof:id":1091975359,
-    "wof:lastmodified":1473984475,
+    "wof:lastmodified":1496899163,
     "wof:name":"Tiroler Alpen Blockhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

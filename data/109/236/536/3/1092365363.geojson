@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.260137558,47.0724334717,11.260137558,47.0724334717",
     "geom:latitude":47.072433,
     "geom:longitude":11.260138,
@@ -23,17 +24,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_436kT5HJgHlVvDjIK6Azcx_47.072433_11.260138@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912771,
-    "wof:geomhash":"5826beca0e138500eaae77ee58128ce1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf46c8bdbd65804b1ab5f086d146f3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092365363
+        }
+    ],
     "wof:id":1092365363,
-    "wof:lastmodified":1473984579,
+    "wof:lastmodified":1496898548,
     "wof:name":"Haus am Gletscher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

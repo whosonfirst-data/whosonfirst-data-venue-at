@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3766021729,47.2300491333,11.3766021729,47.2300491333",
     "geom:latitude":47.230049,
     "geom:longitude":11.376602,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898496,
-    "wof:geomhash":"508c135392ca211995d75599bb2b4364",
+    "wof:geomhash":"57b32dce336faa83d83566854ad830cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092049683
         }
     ],
     "wof:id":1092049683,
-    "wof:lastmodified":1473984547,
+    "wof:lastmodified":1496898472,
     "wof:name":"Hotel-Pension Seppl",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

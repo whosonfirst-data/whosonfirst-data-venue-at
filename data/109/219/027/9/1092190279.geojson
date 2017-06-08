@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2510890961,48.1782493591,16.2510890961,48.1782493591",
     "geom:latitude":48.178249,
     "geom:longitude":16.251089,
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +45,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905037,
-    "wof:geomhash":"913bad380579761455f8a98f86c0721a",
+    "wof:geomhash":"a35503b7c61fcad6c2cd0bd71a1d214c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092190279
         }
     ],
     "wof:id":1092190279,
-    "wof:lastmodified":1473983422,
+    "wof:lastmodified":1496903214,
     "wof:name":"ORF \u00d6STERR. RUNDFUNK",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

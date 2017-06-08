@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0619449615,48.0007705688,13.0619449615,48.0007705688",
     "geom:latitude":48.000771,
     "geom:longitude":13.061945,
@@ -23,17 +24,33 @@
     "sg:postcode":"5165",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837117,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QdUuQ3WEDugR7gZ1RhYWk_48.000771_13.061945@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911900,
-    "wof:geomhash":"1bf906fa6312de77b7f0de86d93100ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bab4e044d11a7fb93e413c83c28567c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837117,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092346321
+        }
+    ],
     "wof:id":1092346321,
-    "wof:lastmodified":1473984599,
+    "wof:lastmodified":1496895227,
     "wof:name":"Maislinger-Gulewicz KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0894908905,48.3112373352,16.0894908905,48.3112373352",
     "geom:latitude":48.311237,
     "geom:longitude":16.089491,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71IFe90QR1EL1us0L4hz63_48.311237_16.089491@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914528,
-    "wof:geomhash":"900daf7841fcddece9e1cd54afa7317a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"410fda52b78f3fe9ffa947a1d9d851ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092402721
+        }
+    ],
     "wof:id":1092402721,
-    "wof:lastmodified":1473983872,
+    "wof:lastmodified":1496893163,
     "wof:name":"HHPR Heinz Heisters Public Relations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

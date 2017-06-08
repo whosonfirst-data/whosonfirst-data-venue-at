@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1176290512,48.1930503845,14.1176290512,48.1930503845",
     "geom:latitude":48.19305,
     "geom:longitude":14.117629,
@@ -33,17 +34,34 @@
         "instrument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836561,
+        85632785,
+        101754169,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IjBhOdDg2WikLrynQFy1E_48.193050_14.117629@1306268273"
     },
     "wof:country":"AT",
     "wof:created":1473902076,
-    "wof:geomhash":"7f33e4be275b0a0d307d168b08a05e27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65d71aed6bdb86040061c225953ad8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836561,
+            "locality_id":101754169,
+            "region_id":85681677,
+            "venue_id":1092126741
+        }
+    ],
     "wof:id":1092126741,
-    "wof:lastmodified":1473984662,
+    "wof:lastmodified":1496891660,
     "wof:name":"WIPF - AUSTRIA GES.MBH & CO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

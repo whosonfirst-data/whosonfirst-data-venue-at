@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2867879868,46.6458892822,14.2867879868,46.6458892822",
     "geom:latitude":46.645889,
     "geom:longitude":14.286788,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910211,
-    "wof:geomhash":"7aa12208c02544895cec5f1b5125b8f5",
+    "wof:geomhash":"90ad9d0bcb6791791083b4247bc8b84a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092306475
         }
     ],
     "wof:id":1092306475,
-    "wof:lastmodified":1473984794,
+    "wof:lastmodified":1496905923,
     "wof:name":"Helmut Manessinger",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

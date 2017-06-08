@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2650527954,48.1520080566,16.2650527954,48.1520080566",
     "geom:latitude":48.152008,
     "geom:longitude":16.265053,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902286,
-    "wof:geomhash":"5ef9c4693ded9b9cc577c258c1f31a0a",
+    "wof:geomhash":"76d9f3bca47d6612bc039b0b745db892",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092130435
         }
     ],
     "wof:id":1092130435,
-    "wof:lastmodified":1473983425,
+    "wof:lastmodified":1496902118,
     "wof:name":"Antares Handels GmbH",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

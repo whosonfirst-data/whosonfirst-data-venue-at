@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8262853622,47.2858848572,12.8262853622,47.2858848572",
     "geom:latitude":47.285885,
     "geom:longitude":12.826285,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"strauss-metall.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ts9CtySLsIxKZOo1rXo0X_47.285885_12.826285@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473892107,
-    "wof:geomhash":"32943aa2f53fc99a315c500c904ffc77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa1a118fec34f57b4cc4d1024ea4675c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091899913
+        }
+    ],
     "wof:id":1091899913,
-    "wof:lastmodified":1473985271,
+    "wof:lastmodified":1496895886,
     "wof:name":"Strau\u00df Metall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

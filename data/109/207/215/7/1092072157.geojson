@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4096918106,46.6993141174,13.4096918106,46.6993141174",
     "geom:latitude":46.699314,
     "geom:longitude":13.409692,
@@ -23,17 +24,33 @@
     "sg:postcode":"9714",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838355,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3py78TuMS4a8l8TO62dQzN_46.699314_13.409692@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899394,
-    "wof:geomhash":"8c7f665014aa0d2192b1e7d764eed17d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"879dc6bdd928ca2e632b61baa1c1879a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838355,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092072157
+        }
+    ],
     "wof:id":1092072157,
-    "wof:lastmodified":1473983740,
+    "wof:lastmodified":1496907458,
     "wof:name":"Gasthof Dolomitenblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

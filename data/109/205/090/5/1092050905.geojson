@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4964437485,47.1113357544,15.4964437485,47.1113357544",
     "geom:latitude":47.111336,
     "geom:longitude":15.496444,
@@ -29,10 +30,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898545,
-    "wof:geomhash":"40ce894448325fdb55c9a304460e87ab",
+    "wof:geomhash":"c29a44e4d9e71f756d08e5c08c3551fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092050905
         }
     ],
     "wof:id":1092050905,
-    "wof:lastmodified":1473983474,
+    "wof:lastmodified":1496913373,
     "wof:name":"Plank G\u00e4stehaus",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

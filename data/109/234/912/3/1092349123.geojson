@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4798173904,48.2139625549,14.4798173904,48.2139625549",
     "geom:latitude":48.213963,
     "geom:longitude":14.479817,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912031,
-    "wof:geomhash":"717581ed8ad141fa925badc29219f2da",
+    "wof:geomhash":"d13f9a9da712afc56e28c268c90bd349",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092349123
         }
     ],
     "wof:id":1092349123,
-    "wof:lastmodified":1473985059,
+    "wof:lastmodified":1496887077,
     "wof:name":"Museum Lauriacum",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

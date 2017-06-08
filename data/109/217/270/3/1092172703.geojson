@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0611658096,47.862247467,13.0611658096,47.862247467",
     "geom:latitude":47.862247,
     "geom:longitude":13.061166,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904359,
-        102049799
+        102191581,
+        1108837115,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904239,
-    "wof:geomhash":"33b15e83367fc9ffe097f8e38cb2d862",
+    "wof:geomhash":"fb9165042b97f082922edea445d2bf5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":-1,
             "neighbourhood_id":85904359,
             "region_id":85681681,
             "venue_id":1092172703
         }
     ],
     "wof:id":1092172703,
-    "wof:lastmodified":1473983877,
+    "wof:lastmodified":1496895273,
     "wof:name":"ADEG Aktiv Markt",
     "wof:parent_id":85904359,
     "wof:placetype":"venue",

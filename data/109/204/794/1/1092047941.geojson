@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.4113359451,47.1474647522,10.4113359451,47.1474647522",
     "geom:latitude":47.147465,
     "geom:longitude":10.411336,
@@ -28,17 +29,33 @@
     "sg:postcode":"6572",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837291,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TT4R2rCqZyShQtNQbUUWF_47.147465_10.411336@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898431,
-    "wof:geomhash":"2cc4b5f610f5bad214c325c26fca8d54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"999c1936863cad1f400eb312917e093a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837291,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092047941
+        }
+    ],
     "wof:id":1092047941,
-    "wof:lastmodified":1473984190,
+    "wof:lastmodified":1496896724,
     "wof:name":"Hotel Pezina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

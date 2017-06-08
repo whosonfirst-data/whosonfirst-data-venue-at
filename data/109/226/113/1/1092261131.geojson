@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2046413422,48.0111694336,16.2046413422,48.0111694336",
     "geom:latitude":48.011169,
     "geom:longitude":16.204641,
@@ -30,10 +31,12 @@
     "sg:website":"sacher-baden.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908209,
-    "wof:geomhash":"6098ed1162bb795e5379a24efd80c3ab",
+    "wof:geomhash":"a6be90ea4eae61ca8437f561fe9c761e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092261131
         }
     ],
     "wof:id":1092261131,
-    "wof:lastmodified":1473983544,
+    "wof:lastmodified":1496886030,
     "wof:name":"Hotel Sacher, Baden",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

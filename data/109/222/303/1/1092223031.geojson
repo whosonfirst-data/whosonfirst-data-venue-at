@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5219717026,48.4236030579,13.5219717026,48.4236030579",
     "geom:latitude":48.423603,
     "geom:longitude":13.521972,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836079,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JetZvw1p6YWYo75r8xMJf_48.423603_13.521972@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906535,
-    "wof:geomhash":"8da26536a9dcfbb7767c9bd3b29f2596",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48fdb1536be6654323b9d3b29a9f2017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836079,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092223031
+        }
+    ],
     "wof:id":1092223031,
-    "wof:lastmodified":1473984055,
+    "wof:lastmodified":1496889410,
     "wof:name":"Taxi-Mietwagen Piffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

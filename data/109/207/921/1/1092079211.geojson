@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3307628632,46.6537361145,14.3307628632,46.6537361145",
     "geom:latitude":46.653736,
     "geom:longitude":14.330763,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899723,
-    "wof:geomhash":"e1931f5a977956d1e99da000340308e9",
+    "wof:geomhash":"dc999c7ea450911ae13a8be66ae4455a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1092079211
         }
     ],
     "wof:id":1092079211,
-    "wof:lastmodified":1473985004,
+    "wof:lastmodified":1496905818,
     "wof:name":"Lutschounigg Karl",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

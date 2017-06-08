@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8855314255,47.2284584045,11.8855314255,47.2284584045",
     "geom:latitude":47.228458,
     "geom:longitude":11.885531,
@@ -32,17 +33,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837721,
+        85632785,
+        101789123,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GqPXJJn4uHdVvec9QUHeE_47.228458_11.885531@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905811,
-    "wof:geomhash":"6523e81c350c1f3b658fa38c15fae5b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b13a49d8ac905a15441b980d50de7c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837721,
+            "locality_id":101789123,
+            "region_id":85681661,
+            "venue_id":1092206611
+        }
+    ],
     "wof:id":1092206611,
-    "wof:lastmodified":1473984757,
+    "wof:lastmodified":1496899774,
     "wof:name":"Anton Wegscheider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

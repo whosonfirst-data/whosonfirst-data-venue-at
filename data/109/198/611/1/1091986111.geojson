@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5051584244,47.2806625366,11.5051584244,47.2806625366",
     "geom:latitude":47.280663,
     "geom:longitude":11.505158,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895938,
-    "wof:geomhash":"ec25cf181c4c1b2b3501e0648e9ede2d",
+    "wof:geomhash":"cf50298aad5e68dc9ba7a887de3844ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091986111
         }
     ],
     "wof:id":1091986111,
-    "wof:lastmodified":1473984215,
+    "wof:lastmodified":1496898704,
     "wof:name":"Daz Peter",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

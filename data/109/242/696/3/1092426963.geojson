@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1755714417,47.4936599731,13.1755714417,47.4936599731",
     "geom:latitude":47.49366,
     "geom:longitude":13.175571,
@@ -23,17 +24,33 @@
     "sg:postcode":"5451",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837041,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zdCuG4cD8Xld6WJHUMwhu_47.493660_13.175571@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915778,
-    "wof:geomhash":"b17713f2a054f101832a5604b825772e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"885d95e708d6092957f7627ab3d9ce82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837041,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092426963
+        }
+    ],
     "wof:id":1092426963,
-    "wof:lastmodified":1473984611,
+    "wof:lastmodified":1496894186,
     "wof:name":"Obauer Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7910881042,46.9633674622,14.7910881042,46.9633674622",
     "geom:latitude":46.963367,
     "geom:longitude":14.791088,
@@ -33,17 +34,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838393,
+        85632785,
+        101788971,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03kdH9MukWMlopymDHMyhK_46.963367_14.791088@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905816,
-    "wof:geomhash":"fe91c7e4902983d3785c16c64d3a7694",
-    "wof:hierarchy":[],
+    "wof:geomhash":"347975c37a14d636a89382fe283bd2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838393,
+            "locality_id":101788971,
+            "region_id":85681655,
+            "venue_id":1092206731
+        }
+    ],
     "wof:id":1092206731,
-    "wof:lastmodified":1473984759,
+    "wof:lastmodified":1496907758,
     "wof:name":"Max Sixt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

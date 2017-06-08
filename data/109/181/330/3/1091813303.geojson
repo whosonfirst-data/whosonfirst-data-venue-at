@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4666347504,48.2673683167,16.4666347504,48.2673683167",
     "geom:latitude":48.267368,
     "geom:longitude":16.466635,
@@ -25,10 +26,13 @@
     "sg:website":"www.fuss.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888057,
-    "wof:geomhash":"2af9de3898d61400bf213f1e7fa992cb",
+    "wof:geomhash":"0a31dab24f8bedf27dd11883d7138425",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091813303
         }
     ],
     "wof:id":1091813303,
-    "wof:lastmodified":1473983996,
+    "wof:lastmodified":1496903011,
     "wof:name":"Hermann Fuss & S\u00f6hne Holzkonstruktionen Ges.m.b.H.",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6567668915,47.4338226318,9.6567668915,47.4338226318",
     "geom:latitude":47.433823,
     "geom:longitude":9.656767,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78VK7ioClp9nflKzPBFA0p_47.433823_9.656767@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892730,
-    "wof:geomhash":"3a0a03674cdc837346c3e5b5dd861f7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f4c96246871840a76c1c95074b56046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091913629
+        }
+    ],
     "wof:id":1091913629,
-    "wof:lastmodified":1473983779,
+    "wof:lastmodified":1496901415,
     "wof:name":"G & G Lauterer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0749187469,47.2990913391,11.0749187469,47.2990913391",
     "geom:latitude":47.299091,
     "geom:longitude":11.074919,
@@ -23,17 +24,34 @@
     "sg:postcode":"6405",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837569,
+        85632785,
+        101834223,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jmeoQVRA21MA1g7V5PKgC_47.299091_11.074919@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473898023,
-    "wof:geomhash":"c105d8897cf05e9fae60a168e13954fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edc1266cf6889c8ea569914f592d567f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837569,
+            "locality_id":101834223,
+            "region_id":85681661,
+            "venue_id":1092037225
+        }
+    ],
     "wof:id":1092037225,
-    "wof:lastmodified":1473984632,
+    "wof:lastmodified":1496898506,
     "wof:name":"MHD Mobiler Hausmeister Dienst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1252355576,47.0974807739,13.1252355576,47.0974807739",
     "geom:latitude":47.097481,
     "geom:longitude":13.125236,
@@ -23,17 +24,33 @@
     "sg:postcode":"5640",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dSjD0n57E4QQ52wuDw2CU_47.097481_13.125236@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912706,
-    "wof:geomhash":"0074e803775b34ee8bf9048c093cb723",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52cadb56cda6b78c7be748e0a803de1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092363971
+        }
+    ],
     "wof:id":1092363971,
-    "wof:lastmodified":1473984223,
+    "wof:lastmodified":1496893750,
     "wof:name":"Gruber Herbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

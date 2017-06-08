@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3935098648,47.3502464294,13.3935098648,47.3502464294",
     "geom:latitude":47.350246,
     "geom:longitude":13.39351,
@@ -33,17 +34,33 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837005,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WAaOety3QIdgFPBOi4hV0_47.350246_13.393510@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889001,
-    "wof:geomhash":"677cb97771507654370b45356bdac0b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06368d28509c5ba891bda169e4ad6c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837005,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091834125
+        }
+    ],
     "wof:id":1091834125,
-    "wof:lastmodified":1473984110,
+    "wof:lastmodified":1496893913,
     "wof:name":"AXA VERSICHERUNG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

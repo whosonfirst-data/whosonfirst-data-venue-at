@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4043731689,48.1423835754,16.4043731689,48.1423835754",
     "geom:latitude":48.142384,
     "geom:longitude":16.404373,
@@ -23,10 +24,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912555,
-    "wof:geomhash":"957773a0a0abd3b7e9439be883114bd0",
+    "wof:geomhash":"860aba73478a6d2f91603b766e99af48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092360953
         }
     ],
     "wof:id":1092360953,
-    "wof:lastmodified":1473983511,
+    "wof:lastmodified":1496904322,
     "wof:name":"ALFA PENSION - Kurpension Oberlaa",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

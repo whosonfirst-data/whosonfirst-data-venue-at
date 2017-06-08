@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8608112335,46.8185005188,15.8608112335,46.8185005188",
     "geom:latitude":46.818501,
     "geom:longitude":15.860811,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"www.zidek.cc",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839333,
+        85632785,
+        102049687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cn0NSATDHBDc3kjKUi14W_46.818501_15.860811@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914800,
-    "wof:geomhash":"3ef3c70e3d67570969fb5d0f280318af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc725e118ba5868b167d6b652905505b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049687,
+            "localadmin_id":1108839333,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092408811
+        }
+    ],
     "wof:id":1092408811,
-    "wof:lastmodified":1473984961,
+    "wof:lastmodified":1496913625,
     "wof:name":"Klaus Zidek GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

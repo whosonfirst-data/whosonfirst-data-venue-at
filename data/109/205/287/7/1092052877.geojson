@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8262815475,48.3392181396,14.8262815475,48.3392181396",
     "geom:latitude":48.339218,
     "geom:longitude":14.826282,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835599,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DZnBTw3riwy7Bta1P1o7v_48.339218_14.826282@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898621,
-    "wof:geomhash":"29390ff6cff4aa5c60009d744f033955",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7674bc09cacf6c0aade97c3e456ee839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835599,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092052877
+        }
+    ],
     "wof:id":1092052877,
-    "wof:lastmodified":1473983867,
+    "wof:lastmodified":1496887581,
     "wof:name":"PABNEU REISINGER GES.MH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

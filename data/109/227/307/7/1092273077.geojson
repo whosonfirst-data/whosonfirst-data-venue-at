@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2122917175,48.2089347839,16.2122917175,48.2089347839",
     "geom:latitude":48.208935,
     "geom:longitude":16.212292,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908728,
-    "wof:geomhash":"5cfea9556e95372bd19d00e3f9b33cc9",
+    "wof:geomhash":"a5d4366cbfc1611c023a831ec5b7fbc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092273077
         }
     ],
     "wof:id":1092273077,
-    "wof:lastmodified":1473984098,
+    "wof:lastmodified":1496902323,
     "wof:name":"Hohla Karl",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4127941132,48.301448822,16.4127941132,48.301448822",
     "geom:latitude":48.301449,
     "geom:longitude":16.412794,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911799,
-    "wof:geomhash":"395b010a43e6bc4152c622fa4de93b4d",
+    "wof:geomhash":"f3fafc2512917a8905bdad7959044be6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092343757
         }
     ],
     "wof:id":1092343757,
-    "wof:lastmodified":1473984016,
+    "wof:lastmodified":1496903490,
     "wof:name":"Neumann Me\u00dfger\u00e4te GmbH",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

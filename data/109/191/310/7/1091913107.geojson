@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6586904526,47.429561615,9.6586904526,47.429561615",
     "geom:latitude":47.429562,
     "geom:longitude":9.65869,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zUYpxQpQjqrnFs9xBd7Ah_47.429562_9.658690@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892696,
-    "wof:geomhash":"b97a66d7f0179f13dad15bf07b6b207d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd6074c1faecd46cd519a706a2185337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091913107
+        }
+    ],
     "wof:id":1091913107,
-    "wof:lastmodified":1473983673,
+    "wof:lastmodified":1496901436,
     "wof:name":"DATEC Datentechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

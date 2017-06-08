@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1373615265,47.3665733337,11.1373615265,47.3665733337",
     "geom:latitude":47.366573,
     "geom:longitude":11.137362,
@@ -33,17 +34,33 @@
         "plaster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HfDM7SgV587P7PUe7Iroh_47.366573_11.137362@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896362,
-    "wof:geomhash":"8e34c65112857c47fa668d148de5233c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb020e013da0b9eadf9d78b14c572ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091995789
+        }
+    ],
     "wof:id":1091995789,
-    "wof:lastmodified":1473984441,
+    "wof:lastmodified":1496898422,
     "wof:name":"BZ Bau - Bernhard Zunk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

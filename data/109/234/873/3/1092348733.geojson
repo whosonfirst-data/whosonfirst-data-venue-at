@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3775529861,48.2061538696,14.3775529861,48.2061538696",
     "geom:latitude":48.206154,
     "geom:longitude":14.377553,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898437,
-        102049847
+        102191581,
+        1108835545,
+        85632785,
+        101784539,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912012,
-    "wof:geomhash":"dfad2c5f7fd21001a322cdc024222113",
+    "wof:geomhash":"af67aa9489506ef7f0fffe960afbb881",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835545,
+            "locality_id":101784539,
             "neighbourhood_id":85898437,
             "region_id":85681677,
             "venue_id":1092348733
         }
     ],
     "wof:id":1092348733,
-    "wof:lastmodified":1473984999,
+    "wof:lastmodified":1496887232,
     "wof:name":"Chorherrenstift",
     "wof:parent_id":85898437,
     "wof:placetype":"venue",

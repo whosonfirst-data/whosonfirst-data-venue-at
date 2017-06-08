@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.4204397202,47.1362228394,10.4204397202,47.1362228394",
     "geom:latitude":47.136223,
     "geom:longitude":10.42044,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837291,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CSNfiFxzYNfSyz4P1VDsg_47.136223_10.420440@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897051,
-    "wof:geomhash":"442f1460a197381fb6bc60de9d13dd49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5600ecc33b51d17356b0fd179badc061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837291,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092012685
+        }
+    ],
     "wof:id":1092012685,
-    "wof:lastmodified":1473983458,
+    "wof:lastmodified":1496896725,
     "wof:name":"Hubert Matt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

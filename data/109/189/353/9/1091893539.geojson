@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4686908722,48.2577438354,16.4686908722,48.2577438354",
     "geom:latitude":48.257744,
     "geom:longitude":16.468691,
@@ -25,10 +26,13 @@
     "sg:website":"schadenlogistik.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891785,
-    "wof:geomhash":"bed1344bd254d83b98bedda01a189661",
+    "wof:geomhash":"95c7ded2ac5ad5609790959b87c13bf2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091893539
         }
     ],
     "wof:id":1091893539,
-    "wof:lastmodified":1473984164,
+    "wof:lastmodified":1496928570,
     "wof:name":"Carlog Schadenlogistik GesmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

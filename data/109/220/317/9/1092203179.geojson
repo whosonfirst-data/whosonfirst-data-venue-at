@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4913387299,47.2754249573,12.4913387299,47.2754249573",
     "geom:latitude":47.275425,
     "geom:longitude":12.491339,
@@ -34,17 +35,33 @@
         "childrens"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837221,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aKy7wqXqaWDX8ULuJYIMb_47.275425_12.491339@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905649,
-    "wof:geomhash":"0c615aac5ef2ad45b4e606a9f91abc91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6717d1ce9efde7f3b1d9fb7d47e3428d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837221,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092203179
+        }
+    ],
     "wof:id":1092203179,
-    "wof:lastmodified":1473984004,
+    "wof:lastmodified":1496896099,
     "wof:name":"Tischlerei Entleitner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

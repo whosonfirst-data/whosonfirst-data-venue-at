@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3792238235,48.0448417664,14.3792238235,48.0448417664",
     "geom:latitude":48.044842,
     "geom:longitude":14.379224,
@@ -32,17 +33,34 @@
         "technology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u92ZlBCeADnhOhWxVhi1W_48.044842_14.379224@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895799,
-    "wof:geomhash":"df3c5c67fea43a862545daef0c9ba66d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5879f201440d440bdd8b7f5a1f0c9e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1091982599
+        }
+    ],
     "wof:id":1091982599,
-    "wof:lastmodified":1473983526,
+    "wof:lastmodified":1496881633,
     "wof:name":"BMD SYSTEMHAUS GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

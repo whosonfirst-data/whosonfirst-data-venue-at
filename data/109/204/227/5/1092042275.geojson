@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2740335464,46.6606521606,14.2740335464,46.6606521606",
     "geom:latitude":46.660652,
     "geom:longitude":14.274034,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898217,
-    "wof:geomhash":"1dbc3ab8c86f927f432723a655704cc9",
+    "wof:geomhash":"f1b35d24ba679fd50a638697ac917272",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092042275
         }
     ],
     "wof:id":1092042275,
-    "wof:lastmodified":1473983318,
+    "wof:lastmodified":1496905584,
     "wof:name":"BAUMDIENSTE SADJINA",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

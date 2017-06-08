@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0165157318,47.5151443481,12.0165157318,47.5151443481",
     "geom:latitude":47.515144,
     "geom:longitude":12.016516,
@@ -23,17 +24,33 @@
     "sg:postcode":"6300",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837273,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j4bSxSzIa2xRJGxPsci7d_47.515144_12.016516@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909655,
-    "wof:geomhash":"96fb56fa904134992d84c2a044e17e34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f30ff9da2aec71625195d2dc001cc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837273,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092294995
+        }
+    ],
     "wof:id":1092294995,
-    "wof:lastmodified":1473984479,
+    "wof:lastmodified":1496896596,
     "wof:name":"Hagerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

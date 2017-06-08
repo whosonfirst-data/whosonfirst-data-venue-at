@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9161109924,47.4382095337,15.9161109924,47.4382095337",
     "geom:latitude":47.43821,
     "geom:longitude":15.916111,
@@ -23,17 +24,33 @@
     "sg:postcode":"8251",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839095,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64We2XrkmvBw3WM3zHAkW4_47.438210_15.916111@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899539,
-    "wof:geomhash":"825e04392a14db90b32d9669fd707df0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a44821837b8df85c2a0ff3582d1e761f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839095,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092075567
+        }
+    ],
     "wof:id":1092075567,
-    "wof:lastmodified":1473984265,
+    "wof:lastmodified":1496911312,
     "wof:name":"Gasthof zum Kirchenwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

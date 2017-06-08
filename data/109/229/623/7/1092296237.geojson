@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.937579155,47.2919273376,10.937579155,47.2919273376",
     "geom:latitude":47.291927,
     "geom:longitude":10.937579,
@@ -23,17 +24,33 @@
     "sg:postcode":"6416",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837433,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b9EUAYy9CToJ6Vg0KBaxk_47.291927_10.937579@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909709,
-    "wof:geomhash":"edb0fd9cfd4f38a0146742232fdbfe0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a6eed0774bf551e52919b5f1708c497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837433,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092296237
+        }
+    ],
     "wof:id":1092296237,
-    "wof:lastmodified":1473984762,
+    "wof:lastmodified":1496897829,
     "wof:name":"Kastlehof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

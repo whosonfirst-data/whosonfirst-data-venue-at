@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8861284256,48.0853843689,13.8861284256,48.0853843689",
     "geom:latitude":48.085384,
     "geom:longitude":13.886128,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891847,
-    "wof:geomhash":"c00418d510bdf4bc8f0ca4eb32373b1b",
+    "wof:geomhash":"45eb2066ac553ede6579179e32ec950f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1091895175
         }
     ],
     "wof:id":1091895175,
-    "wof:lastmodified":1473984493,
+    "wof:lastmodified":1496891758,
     "wof:name":"Buchinger Schotterwerk GmbH",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

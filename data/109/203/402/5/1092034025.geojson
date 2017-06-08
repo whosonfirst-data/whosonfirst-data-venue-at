@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7435922623,47.2608032227,15.7435922623,47.2608032227",
     "geom:latitude":47.260803,
     "geom:longitude":15.743592,
@@ -32,17 +33,33 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839365,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Vtn4QOQN6PLa4POY1ZgX0_47.260803_15.743592@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897887,
-    "wof:geomhash":"7d4c6e4b1694ebc242aefa0d92abdf6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb2bc0d37e0afcf3f659550b1199b08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839365,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092034025
+        }
+    ],
     "wof:id":1092034025,
-    "wof:lastmodified":1473984107,
+    "wof:lastmodified":1496913807,
     "wof:name":"Hans Bauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5218219757,46.8190422058,13.5218219757,46.8190422058",
     "geom:latitude":46.819042,
     "geom:longitude":13.521822,
@@ -31,17 +32,34 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838299,
+        85632785,
+        101790151,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GwI6cKoEDRgAenppA2qs5_46.819042_13.521822@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905282,
-    "wof:geomhash":"89d1f941687c078fc98e5bf4bb3ae63f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cb6c81907427ac1454ea813afdfd863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838299,
+            "locality_id":101790151,
+            "region_id":85681655,
+            "venue_id":1092195957
+        }
+    ],
     "wof:id":1092195957,
-    "wof:lastmodified":1473984656,
+    "wof:lastmodified":1496907070,
     "wof:name":"Franz Guggenbichler GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

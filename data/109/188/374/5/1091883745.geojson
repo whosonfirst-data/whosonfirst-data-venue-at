@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4022712708,48.1377182007,16.4022712708,48.1377182007",
     "geom:latitude":48.137718,
     "geom:longitude":16.402271,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891300,
-    "wof:geomhash":"cdb34a6e1820aca84f4cf0a21be7a42d",
+    "wof:geomhash":"4cb3f051e1f53fe07a5dca4c8140173b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1091883745
         }
     ],
     "wof:id":1091883745,
-    "wof:lastmodified":1473984120,
+    "wof:lastmodified":1496902718,
     "wof:name":"Birgfellner Fred",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

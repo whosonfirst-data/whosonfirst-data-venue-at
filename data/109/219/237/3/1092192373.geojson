@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0760793686,47.7991218567,13.0760793686,47.7991218567",
     "geom:latitude":47.799122,
     "geom:longitude":13.076079,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898501,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905122,
-    "wof:geomhash":"0ea0b778ef6d3d3d26e61ad55cbea203",
+    "wof:geomhash":"69f3e4a4558c46bce0a0a4862e64656f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898501,
             "region_id":85681681,
             "venue_id":1092192373
         }
     ],
     "wof:id":1092192373,
-    "wof:lastmodified":1473983949,
+    "wof:lastmodified":1496894564,
     "wof:name":"Stolle Gerd Ing",
     "wof:parent_id":85898501,
     "wof:placetype":"venue",

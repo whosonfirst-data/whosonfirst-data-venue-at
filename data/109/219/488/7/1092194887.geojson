@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9075183868,48.2899284363,15.9075183868,48.2899284363",
     "geom:latitude":48.289928,
     "geom:longitude":15.907518,
@@ -32,17 +33,34 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835035,
+        85632785,
+        101912341,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41EQ5CDOHIyYYlmr4CRYau_48.289928_15.907518@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905236,
-    "wof:geomhash":"aaaf928c3e9473c01752feefd48538c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66f1e7dd8c2f259bb9f45c10cee9d63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835035,
+            "locality_id":101912341,
+            "region_id":85681671,
+            "venue_id":1092194887
+        }
+    ],
     "wof:id":1092194887,
-    "wof:lastmodified":1473984493,
+    "wof:lastmodified":1496892015,
     "wof:name":"Franz Haselmayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

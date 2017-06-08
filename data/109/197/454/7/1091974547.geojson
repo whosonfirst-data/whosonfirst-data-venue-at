@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8813295364,47.353313446,9.8813295364,47.353313446",
     "geom:latitude":47.353313,
     "geom:longitude":9.88133,
@@ -35,17 +36,34 @@
         "roof"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838009,
+        85632785,
+        101766259,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Hp6ckRd3rGombsjkd83C9_47.353313_9.881330@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895434,
-    "wof:geomhash":"da395b553632902064ed61f14d1d2057",
-    "wof:hierarchy":[],
+    "wof:geomhash":"664159cb1b3625e3f773f17d5811b5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838009,
+            "locality_id":101766259,
+            "region_id":85681649,
+            "venue_id":1091974547
+        }
+    ],
     "wof:id":1091974547,
-    "wof:lastmodified":1473984278,
+    "wof:lastmodified":1496901510,
     "wof:name":"Albert Hager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

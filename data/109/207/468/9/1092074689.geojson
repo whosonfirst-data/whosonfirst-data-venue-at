@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3333749771,46.9153938293,12.3333749771,46.9153938293",
     "geom:latitude":46.915394,
     "geom:longitude":12.333375,
@@ -23,17 +24,33 @@
     "sg:postcode":"9963",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837527,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UAlqB7qcAn4GBEYqPG9Gt_46.915394_12.333375@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899500,
-    "wof:geomhash":"40c1e5410023cb11a6472fbe24a57419",
-    "wof:hierarchy":[],
+    "wof:geomhash":"840e343104b815083ef4592f1d67af00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837527,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092074689
+        }
+    ],
     "wof:id":1092074689,
-    "wof:lastmodified":1473984192,
+    "wof:lastmodified":1496898300,
     "wof:name":"Gasthof Tandlerstubn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2696399689,47.4486999512,15.2696399689,47.4486999512",
     "geom:latitude":47.4487,
     "geom:longitude":15.26964,
@@ -31,17 +32,34 @@
         "energy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839319,
+        85632785,
+        101834339,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XY1s2R5zubz8c7trb84ZU_47.448700_15.269640@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908932,
-    "wof:geomhash":"87b9a653b757a459217c722059282439",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cb10c722afacd82ff763d8d8167692f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839319,
+            "locality_id":101834339,
+            "region_id":85681687,
+            "venue_id":1092277815
+        }
+    ],
     "wof:id":1092277815,
-    "wof:lastmodified":1473985163,
+    "wof:lastmodified":1496912846,
     "wof:name":"LINDE GAS GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

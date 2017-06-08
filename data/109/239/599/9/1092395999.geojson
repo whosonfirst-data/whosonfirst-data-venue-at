@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.344326973,48.3339805603,14.344326973,48.3339805603",
     "geom:latitude":48.333981,
     "geom:longitude":14.344327,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898427,
-        102049853
+        102191581,
+        1108836411,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914248,
-    "wof:geomhash":"fa380629b0830c2a98ddfea1c89d2762",
+    "wof:geomhash":"ec84ee64fe4aa230a15ac0c941a03e8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049853,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":-1,
             "neighbourhood_id":85898427,
             "region_id":85681677,
             "venue_id":1092395999
         }
     ],
     "wof:id":1092395999,
-    "wof:lastmodified":1473984486,
+    "wof:lastmodified":1496889758,
     "wof:name":"Bergmann Christian Dr",
     "wof:parent_id":85898427,
     "wof:placetype":"venue",

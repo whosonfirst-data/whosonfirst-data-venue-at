@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7964630127,48.0005264282,13.7964630127,48.0005264282",
     "geom:latitude":48.000526,
     "geom:longitude":13.796463,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835143,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FX0y4E0n3nLfKDqiW4HgS_48.000526_13.796463@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911570,
-    "wof:geomhash":"55d9c2a051667eeeea0bd117d5496875",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9e26517247c12706cd1f91b7f00e852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835143,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092338573
+        }
+    ],
     "wof:id":1092338573,
-    "wof:lastmodified":1473985287,
+    "wof:lastmodified":1496885077,
     "wof:name":"LINSINGER MASCHINENBAU GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

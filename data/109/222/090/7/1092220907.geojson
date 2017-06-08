@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8222904205,48.0276374817,13.8222904205,48.0276374817",
     "geom:latitude":48.027637,
     "geom:longitude":13.82229,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835153,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PAOaxOPxu7BtwXDjdyHPA_48.027637_13.822290@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906436,
-    "wof:geomhash":"8dadbb459f80f13c89b13d94154d77e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"469f22de01a87deb065e3b0802241a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835153,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092220907
+        }
+    ],
     "wof:id":1092220907,
-    "wof:lastmodified":1473983510,
+    "wof:lastmodified":1496885129,
     "wof:name":"Hofmann Hans-Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

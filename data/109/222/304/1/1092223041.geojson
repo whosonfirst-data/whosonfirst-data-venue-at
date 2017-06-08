@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0819396973,47.7288398743,16.0819396973,47.7288398743",
     "geom:latitude":47.72884,
     "geom:longitude":16.08194,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835465,
+        85632785,
+        101786761,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TaPap54yxNoFOcCq97Bjl_47.728840_16.081940@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906535,
-    "wof:geomhash":"a9838edaef8269c57a2dcff776b44792",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ede08144bd2aa04cf8f2fd6826591965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835465,
+            "locality_id":101786761,
+            "region_id":85681671,
+            "venue_id":1092223041
+        }
+    ],
     "wof:id":1092223041,
-    "wof:lastmodified":1473984055,
+    "wof:lastmodified":1496886715,
     "wof:name":"Taxi-Ruf-Jahrmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

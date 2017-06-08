@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3085727692,48.3644523621,16.3085727692,48.3644523621",
     "geom:latitude":48.364452,
     "geom:longitude":16.308573,
@@ -34,17 +35,33 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836331,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P608YDKZAzXZY3Oz7IoGS_48.364452_16.308573@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905475,
-    "wof:geomhash":"9e8e1279d1f4a73abd5d877a268d7ed5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9be2f9a26ca5b4a45852ebcb01f690a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836331,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092200347
+        }
+    ],
     "wof:id":1092200347,
-    "wof:lastmodified":1473983392,
+    "wof:lastmodified":1496890610,
     "wof:name":"Breyer Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

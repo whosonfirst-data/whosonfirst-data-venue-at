@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0725841522,47.7325744629,13.0725841522,47.7325744629",
     "geom:latitude":47.732574,
     "geom:longitude":13.072584,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892816,
-    "wof:geomhash":"c3d27f5a4d1b640c11bc31bbcc2f002b",
+    "wof:geomhash":"ad314b86f31fbed3534a4931f78417a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1091915661
         }
     ],
     "wof:id":1091915661,
-    "wof:lastmodified":1473984039,
+    "wof:lastmodified":1496895176,
     "wof:name":"Sony NetServices GesmbH",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

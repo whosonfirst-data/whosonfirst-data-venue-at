@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3865442276,47.3692092896,13.3865442276,47.3692092896",
     "geom:latitude":47.369209,
     "geom:longitude":13.386544,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"dpd.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837005,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RqAIrI2udHHPlMaWAemIo_47.369209_13.386544@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912311,
-    "wof:geomhash":"4466acf65ef4a4c8c7dd64f38a639d73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd5122634d227a73b76385362def62b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837005,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092355473
+        }
+    ],
     "wof:id":1092355473,
-    "wof:lastmodified":1473984503,
+    "wof:lastmodified":1496893942,
     "wof:name":"DPD Depot 620 Lagermax Paketdienst GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

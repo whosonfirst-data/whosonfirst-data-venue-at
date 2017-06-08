@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0442657471,47.9964866638,16.0442657471,47.9964866638",
     "geom:latitude":47.996487,
     "geom:longitude":16.044266,
@@ -32,17 +33,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836187,
+        85632785,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P39bP9HULYzedtweoyH5B_47.996487_16.044266@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905100,
-    "wof:geomhash":"93e07bebf220c0f7a52ecb02c40949e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"824caf275b4cdb1007f4b4798c0d088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836187,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092191803
+        }
+    ],
     "wof:id":1092191803,
-    "wof:lastmodified":1473983788,
+    "wof:lastmodified":1496889935,
     "wof:name":"E & W Klos GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

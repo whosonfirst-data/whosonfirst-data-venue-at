@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0606851578,47.7592124939,13.0606851578,47.7592124939",
     "geom:latitude":47.759212,
     "geom:longitude":13.060685,
@@ -29,10 +30,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898483,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898345,
-    "wof:geomhash":"7f8cb16cac59f3829d72813f492fd297",
+    "wof:geomhash":"fb2b08351dfe99b2d4a418c1244a68a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898483,
             "region_id":85681681,
             "venue_id":1092045727
         }
     ],
     "wof:id":1092045727,
-    "wof:lastmodified":1473983823,
+    "wof:lastmodified":1496895180,
     "wof:name":"Hotel am Tiergarten",
     "wof:parent_id":85898483,
     "wof:placetype":"venue",

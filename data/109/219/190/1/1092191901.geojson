@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5804300308,48.2662162781,13.5804300308,48.2662162781",
     "geom:latitude":48.266216,
     "geom:longitude":13.58043,
@@ -32,17 +33,33 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835693,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4msOuoHWXwqxDner1BlIXU_48.266216_13.580430@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905103,
-    "wof:geomhash":"815b776aa6315bc59fbd21398d3ec88d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3518fb99949fa1c31617ee051790314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835693,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092191901
+        }
+    ],
     "wof:id":1092191901,
-    "wof:lastmodified":1473983810,
+    "wof:lastmodified":1496887993,
     "wof:name":"Gottfried Scheuringer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

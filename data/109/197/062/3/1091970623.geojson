@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3366880417,47.4585876465,15.3366880417,47.4585876465",
     "geom:latitude":47.458588,
     "geom:longitude":15.336688,
@@ -23,17 +24,33 @@
     "sg:postcode":"8605",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839319,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KON26FiWKEXeYGg9THD66_47.458588_15.336688@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895268,
-    "wof:geomhash":"537662970f2aa852a297cafdd52063eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e645c07fff050c61a92ee14e7ea21136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839319,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091970623
+        }
+    ],
     "wof:id":1091970623,
-    "wof:lastmodified":1473983456,
+    "wof:lastmodified":1496912879,
     "wof:name":"Restaurant Poseidon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

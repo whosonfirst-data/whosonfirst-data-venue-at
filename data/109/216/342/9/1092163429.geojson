@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6709804535,47.4692001343,9.6709804535,47.4692001343",
     "geom:latitude":47.4692,
     "geom:longitude":9.67098,
@@ -23,17 +24,34 @@
     "sg:postcode":"6971",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837945,
+        85632785,
+        101827479,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41fcPc7k2cbWJd71LbicFN_47.469200_9.670980@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903831,
-    "wof:geomhash":"5b30c725fa368ab7e25de9790bd71ece",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c41d955f17c1ff1c807615849175d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837945,
+            "locality_id":101827479,
+            "region_id":85681649,
+            "venue_id":1092163429
+        }
+    ],
     "wof:id":1092163429,
-    "wof:lastmodified":1473984007,
+    "wof:lastmodified":1496901014,
     "wof:name":"BIOSTROM Erzeugungs-GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

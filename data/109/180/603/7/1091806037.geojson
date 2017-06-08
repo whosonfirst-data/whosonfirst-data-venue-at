@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5495653152,47.142490387,15.5495653152,47.142490387",
     "geom:latitude":47.14249,
     "geom:longitude":15.549565,
@@ -32,17 +33,33 @@
         "vehicle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839181,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SLwl6TMcaprMrHxZjpv1n_47.142490_15.549565@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473887707,
-    "wof:geomhash":"52373bd7308481db08b933d9618f1750",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a65b9ec14d175cd7f58cb1918f32c6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839181,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091806037
+        }
+    ],
     "wof:id":1091806037,
-    "wof:lastmodified":1473983623,
+    "wof:lastmodified":1496911738,
     "wof:name":"Ing. G\u00fcnther Lederhilger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

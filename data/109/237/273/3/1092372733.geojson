@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3175420761,47.4543495178,12.3175420761,47.4543495178",
     "geom:latitude":47.45435,
     "geom:longitude":12.317542,
@@ -23,17 +24,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16UswD2dv4vjw1TdQztcmq_47.454350_12.317542@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913140,
-    "wof:geomhash":"1160f3e4d06bb35b33806b79ce9759da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f167a4aa121e51960c480e207584f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092372733
+        }
+    ],
     "wof:id":1092372733,
-    "wof:lastmodified":1473984044,
+    "wof:lastmodified":1496899126,
     "wof:name":"Pension Wieshof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

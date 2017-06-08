@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.209859848,48.0067176819,16.209859848,48.0067176819",
     "geom:latitude":48.006718,
     "geom:longitude":16.20986,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907742,
-    "wof:geomhash":"222ba7521807be84db3a7f0177284f43",
+    "wof:geomhash":"cd81a64b59ce0cad8dcec7f7ca82a2b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092250495
         }
     ],
     "wof:id":1092250495,
-    "wof:lastmodified":1473983439,
+    "wof:lastmodified":1496886052,
     "wof:name":"Ipema - Marquardt Werkzeuge Ges.m.b.H. & Co KG",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

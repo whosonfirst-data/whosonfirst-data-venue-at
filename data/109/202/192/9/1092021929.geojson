@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2470703125,48.0868873596,16.2470703125,48.0868873596",
     "geom:latitude":48.086887,
     "geom:longitude":16.24707,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897420,
-    "wof:geomhash":"60042799e81e0581ff647adf96f78f3e",
+    "wof:geomhash":"bab7965b78ca781cf88b7ae6da45b552",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092021929
         }
     ],
     "wof:id":1092021929,
-    "wof:lastmodified":1473983697,
+    "wof:lastmodified":1496891993,
     "wof:name":"Pfarramt Hinterbr\u00fchl",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

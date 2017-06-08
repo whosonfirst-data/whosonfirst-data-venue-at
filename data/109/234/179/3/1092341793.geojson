@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4022541046,48.2011833191,15.4022541046,48.2011833191",
     "geom:latitude":48.201183,
     "geom:longitude":15.402254,
@@ -31,17 +32,34 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835017,
+        85632785,
+        101784561,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MEm7Aum5IXi8Q3kYnOOOZ_48.201183_15.402254@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911705,
-    "wof:geomhash":"6ea3c66d38fb725e797cb2a7e7da3034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ce92945117abcbc4aa38c2ecece158c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835017,
+            "locality_id":101784561,
+            "region_id":85681671,
+            "venue_id":1092341793
+        }
+    ],
     "wof:id":1092341793,
-    "wof:lastmodified":1473983617,
+    "wof:lastmodified":1496884208,
     "wof:name":"RAUBAL GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8198747635,47.9839096069,13.8198747635,47.9839096069",
     "geom:latitude":47.98391,
     "geom:longitude":13.819875,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835143,
+        85632785,
+        101785623,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XJAj0UJJV4MYu7YEQkUwy_47.983910_13.819875@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906483,
-    "wof:geomhash":"b69bab1f4ccdb0a3f0bd0a3127588278",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32652e64fd8855c3850d64dcfebbf4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835143,
+            "locality_id":101785623,
+            "region_id":85681677,
+            "venue_id":1092222033
+        }
+    ],
     "wof:id":1092222033,
-    "wof:lastmodified":1473983830,
+    "wof:lastmodified":1496885054,
     "wof:name":"Scheubmayr GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

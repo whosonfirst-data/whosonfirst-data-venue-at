@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3647222519,46.6323928833,14.3647222519,46.6323928833",
     "geom:latitude":46.632393,
     "geom:longitude":14.364722,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889595,
-    "wof:geomhash":"8984584b0a9775f9e2066a19bc2d6e8c",
+    "wof:geomhash":"87b472f570a9232d34f1dcaaace87de6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1091847521
         }
     ],
     "wof:id":1091847521,
-    "wof:lastmodified":1473984761,
+    "wof:lastmodified":1496905589,
     "wof:name":"Bio-Bau u Verputz GesmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

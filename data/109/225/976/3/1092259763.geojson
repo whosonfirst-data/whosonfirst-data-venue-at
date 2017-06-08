@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4974098206,47.4072189331,16.4974098206,47.4072189331",
     "geom:latitude":47.407219,
     "geom:longitude":16.49741,
@@ -23,17 +24,33 @@
     "sg:postcode":"7443",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838487,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ouPmmhF4ZFJaxuT5G7KVO_47.407219_16.497410@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908146,
-    "wof:geomhash":"d7cd636446d85fa0f747200b86cf95d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"255c38cf0511d4ef958baa32ec7ee734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838487,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092259763
+        }
+    ],
     "wof:id":1092259763,
-    "wof:lastmodified":1473985239,
+    "wof:lastmodified":1496908158,
     "wof:name":"STG Silotransport GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

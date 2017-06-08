@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6550788879,47.4175796509,9.6550788879,47.4175796509",
     "geom:latitude":47.41758,
     "geom:longitude":9.655079,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"elektro-fitz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tY233dALZGzKwcdqVKFbF_47.417580_9.655079@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907743,
-    "wof:geomhash":"33b4554ff3eb26d78be3bd3e5bb32422",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc43e6f75514b237fefa60e3e05233da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1092250513
+        }
+    ],
     "wof:id":1092250513,
-    "wof:lastmodified":1473983440,
+    "wof:lastmodified":1496901441,
     "wof:name":"Fitz Elektro & Antriebstechnik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

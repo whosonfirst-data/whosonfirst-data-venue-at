@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5089006424,47.2812423706,11.5089006424,47.2812423706",
     "geom:latitude":47.281242,
     "geom:longitude":11.508901,
@@ -25,10 +26,13 @@
     "sg:website":"globoreisen.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894712,
-    "wof:geomhash":"15c954dbe82bc1d2cbae120ce8493e94",
+    "wof:geomhash":"e1625a8403d0b18ebf0108991f270382",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091957381
         }
     ],
     "wof:id":1091957381,
-    "wof:lastmodified":1473985034,
+    "wof:lastmodified":1496898704,
     "wof:name":"Globo Reisen",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

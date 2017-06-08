@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2296085358,47.9797096252,13.2296085358,47.9797096252",
     "geom:latitude":47.97971,
     "geom:longitude":13.229609,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.isolith.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837183,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eLaqwD66YHzzXwBVd4N0I_47.979710_13.229609@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895465,
-    "wof:geomhash":"2535b9b5fd0657e83b37cbdadc4b849a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14c92cfcffa0f144e366b4923cba1de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837183,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091975339
+        }
+    ],
     "wof:id":1091975339,
-    "wof:lastmodified":1473984473,
+    "wof:lastmodified":1496895674,
     "wof:name":"ISOLITH Leichtbauplattenwerk N. Hattinger Ges.m.b.H..eintrag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0246772766,48.1750946045,14.0246772766,48.1750946045",
     "geom:latitude":48.175095,
     "geom:longitude":14.024677,
@@ -32,17 +33,34 @@
         "agent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o6NOgrtLWGKkFWh0OqMhZ_48.175095_14.024677@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473888226,
-    "wof:geomhash":"6d8bb67d1b2742328e54b00f6ba15ceb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87ddbf44928fcf7c363a6def21cce595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1091817175
+        }
+    ],
     "wof:id":1091817175,
-    "wof:lastmodified":1473984888,
+    "wof:lastmodified":1496881804,
     "wof:name":"OGRIS Pharma Vertriebs-Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

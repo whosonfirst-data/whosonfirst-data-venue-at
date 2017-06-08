@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3802204132,47.2527084351,11.3802204132,47.2527084351",
     "geom:latitude":47.252708,
     "geom:longitude":11.38022,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903367,
-    "wof:geomhash":"687093d99193f41ba56197b913f8ed53",
+    "wof:geomhash":"8ee0991ddb9b3b52beb1fe2ad34f25c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092153389
         }
     ],
     "wof:id":1092153389,
-    "wof:lastmodified":1473983994,
+    "wof:lastmodified":1496899219,
     "wof:name":"Der Anker Allgemeine Versicherung AG-LdsDion f Tirol",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.404255867,48.5148277283,14.404255867,48.5148277283",
     "geom:latitude":48.514828,
     "geom:longitude":14.404256,
@@ -23,17 +24,33 @@
     "sg:postcode":"4242",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835069,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hpcuj8x2H4XGOMXfJnMfE_48.514828_14.404256@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915970,
-    "wof:geomhash":"654069e229523eab66bbbf449bef50fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dda548015a0c033d9afc0403dd78999a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835069,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092431317
+        }
+    ],
     "wof:id":1092431317,
-    "wof:lastmodified":1473983523,
+    "wof:lastmodified":1496884466,
     "wof:name":"Flugplatz Freistadt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

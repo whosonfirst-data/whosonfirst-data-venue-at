@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2679977417,48.1335906982,16.2679977417,48.1335906982",
     "geom:latitude":48.133591,
     "geom:longitude":16.267998,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911638,
-    "wof:geomhash":"13967fdfdfc291fdb04be2ed7b9ce131",
+    "wof:geomhash":"9da5d28f53ae0264d271a91f28d9ec09",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092340325
         }
     ],
     "wof:id":1092340325,
-    "wof:lastmodified":1473983397,
+    "wof:lastmodified":1496885823,
     "wof:name":"Hauser M. Medizintechnik",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

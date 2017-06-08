@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6566982269,48.6635398865,15.6566982269,48.6635398865",
     "geom:latitude":48.66354,
     "geom:longitude":15.656698,
@@ -23,17 +24,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.horn.volksbank.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835915,
+        85632785,
+        101782263,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rkM7g1ipnN1DDR0HcLAyY_48.663540_15.656698@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915502,
-    "wof:geomhash":"1100dffc1aa968f69934e38387bd4e48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06c6cc0ef7116d49d4e64b5c8ea41116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835915,
+            "locality_id":101782263,
+            "region_id":85681671,
+            "venue_id":1092421191
+        }
+    ],
     "wof:id":1092421191,
-    "wof:lastmodified":1473983558,
+    "wof:lastmodified":1496888894,
     "wof:name":"Volksbank Horn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

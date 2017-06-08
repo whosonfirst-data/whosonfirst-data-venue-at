@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.445101738,47.327129364,13.445101738,47.327129364",
     "geom:latitude":47.327129,
     "geom:longitude":13.445102,
@@ -28,17 +29,33 @@
     "sg:postcode":"5541",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836989,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kI2nXSOs2rnNhCh73QG0r_47.327129_13.445102@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898446,
-    "wof:geomhash":"61ed4130e9fcf06af8ae709a6f193369",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da83614e8db61c2c44811ccce5bc67a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836989,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092048331
+        }
+    ],
     "wof:id":1092048331,
-    "wof:lastmodified":1473984223,
+    "wof:lastmodified":1496893673,
     "wof:name":"Hotel Scheffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

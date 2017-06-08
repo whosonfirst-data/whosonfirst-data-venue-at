@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1080112457,47.313949585,11.1080112457,47.313949585",
     "geom:latitude":47.31395,
     "geom:longitude":11.108011,
@@ -23,17 +24,33 @@
     "sg:postcode":"6410",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pKWylj09GbAEUsbZyamtv_47.313950_11.108011@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892570,
-    "wof:geomhash":"e6a17154b401b5bb860c756c6ee41766",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a23ad4c2ac4f8aa8d0d35e6048c30d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091910541
+        }
+    ],
     "wof:id":1091910541,
-    "wof:lastmodified":1473983327,
+    "wof:lastmodified":1496898821,
     "wof:name":"Sicherheitsausbildungszentrum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

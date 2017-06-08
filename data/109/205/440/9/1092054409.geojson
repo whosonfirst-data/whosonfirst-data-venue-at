@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0801811218,47.9836807251,13.0801811218,47.9836807251",
     "geom:latitude":47.983681,
     "geom:longitude":13.080181,
@@ -23,17 +24,33 @@
     "sg:postcode":"5164",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837181,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zJQXcctwcg7prQvQCvYMm_47.983681_13.080181@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898677,
-    "wof:geomhash":"2e2e74af73f525d4593356afac5591b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be5c26779eccffe05fe638bb87d3774a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837181,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092054409
+        }
+    ],
     "wof:id":1092054409,
-    "wof:lastmodified":1473984133,
+    "wof:lastmodified":1496895657,
     "wof:name":"Milton Erickson Institut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

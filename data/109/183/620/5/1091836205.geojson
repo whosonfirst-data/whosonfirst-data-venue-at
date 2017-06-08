@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3584947586,46.7659645081,14.3584947586,46.7659645081",
     "geom:latitude":46.765965,
     "geom:longitude":14.358495,
@@ -23,17 +24,34 @@
     "sg:postcode":"9300",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838239,
+        85632785,
+        101790141,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bs6Ii3InKEaQfGKFickG4_46.765965_14.358495@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889091,
-    "wof:geomhash":"c3b69854f04c1a991e09e74bb9ada7e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cb5d5b8c64becea7a76e6ff86491e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838239,
+            "locality_id":101790141,
+            "region_id":85681655,
+            "venue_id":1091836205
+        }
+    ],
     "wof:id":1091836205,
-    "wof:lastmodified":1473984518,
+    "wof:lastmodified":1496906723,
     "wof:name":"Bankomat d PSK St Veit an der Glan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7619447708,47.2975387573,12.7619447708,47.2975387573",
     "geom:latitude":47.297539,
     "geom:longitude":12.761945,
@@ -31,17 +32,33 @@
         "geometer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gX0ojW1qpNBhWaHp583Qc_47.297539_12.761945@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900340,
-    "wof:geomhash":"8cfeebdbd6b61c6f87e5c5d17d2f8919",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f63dac8be368dafa7267268a105938bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092092007
+        }
+    ],
     "wof:id":1092092007,
-    "wof:lastmodified":1473983628,
+    "wof:lastmodified":1496896157,
     "wof:name":"Ebner Ulrich Ing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

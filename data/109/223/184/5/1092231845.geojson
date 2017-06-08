@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2637577057,48.1520385742,16.2637577057,48.1520385742",
     "geom:latitude":48.152039,
     "geom:longitude":16.263758,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906892,
-    "wof:geomhash":"d137e6afd013dfa2945809ef6e45f275",
+    "wof:geomhash":"cbf01c29d2025ffa990a5f9f567f1c60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092231845
         }
     ],
     "wof:id":1092231845,
-    "wof:lastmodified":1473983759,
+    "wof:lastmodified":1496927802,
     "wof:name":"Carat Christine Reiter & Comp GesmbH",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

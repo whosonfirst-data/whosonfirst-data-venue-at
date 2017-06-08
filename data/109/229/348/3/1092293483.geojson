@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8567724228,47.1621322632,11.8567724228,47.1621322632",
     "geom:latitude":47.162132,
     "geom:longitude":11.856772,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"ferienhof-brugger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        101789121,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CREipK2TSt8Hr2ClrOvVH_47.162132_11.856772@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909589,
-    "wof:geomhash":"e6490f3b0b9e8d9e6212c79c31ca88d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bbbff01416f9352fd10c71672a1a819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":101789121,
+            "region_id":85681661,
+            "venue_id":1092293483
+        }
+    ],
     "wof:id":1092293483,
-    "wof:lastmodified":1473984213,
+    "wof:lastmodified":1496900394,
     "wof:name":"Ferienhof Brugger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

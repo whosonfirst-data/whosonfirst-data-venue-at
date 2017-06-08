@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6152381897,47.4874725342,16.6152381897,47.4874725342",
     "geom:latitude":47.487473,
     "geom:longitude":16.615238,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838715,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rTjE1NckdXcoCtHupQMok_47.487473_16.615238@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473911031,
-    "wof:geomhash":"05104cc2ffd61f10e87aad608be479c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d5d1abd86d41a2ebd5a678994f72686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838715,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092325359
+        }
+    ],
     "wof:id":1092325359,
-    "wof:lastmodified":1473984690,
+    "wof:lastmodified":1496909171,
     "wof:name":"Horvath Stefan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

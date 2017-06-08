@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7886486053,46.8643264771,12.7886486053,46.8643264771",
     "geom:latitude":46.864326,
     "geom:longitude":12.788649,
@@ -28,17 +29,33 @@
     "sg:postcode":"9900",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837789,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12FRh13uOt1m2M64d8KeTM_46.864326_12.788649@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898566,
-    "wof:geomhash":"82280b34a7554a629a0998f49abe3545",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef22570b536d37bd8c0cf77690c66d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837789,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092051437
+        }
+    ],
     "wof:id":1092051437,
-    "wof:lastmodified":1473983588,
+    "wof:lastmodified":1496899985,
     "wof:name":"Sporthotel Hochlienz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

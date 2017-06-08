@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9388198853,46.7903518677,15.9388198853,46.7903518677",
     "geom:latitude":46.790352,
     "geom:longitude":15.93882,
@@ -32,17 +33,33 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839331,
+        85632785,
+        102049687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Vkl8DDiGOhvY9TDR0oPBq_46.790352_15.938820@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915944,
-    "wof:geomhash":"0fc72a462df6872d7903d659f019c0b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4df5f086ccfbb3484ac9be719452e5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049687,
+            "localadmin_id":1108839331,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092430759
+        }
+    ],
     "wof:id":1092430759,
-    "wof:lastmodified":1473983431,
+    "wof:lastmodified":1496913609,
     "wof:name":"Bodenverlegung Parkett u. Kunststoff Friedrich Neubauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

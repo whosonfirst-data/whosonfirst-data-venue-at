@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.220580101,46.6234817505,14.220580101,46.6234817505",
     "geom:latitude":46.623482,
     "geom:longitude":14.22058,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896397,
-    "wof:geomhash":"6bf814af32f4060e7dcb603e7668c856",
+    "wof:geomhash":"580be9fa43f2c50a855346ec75ed1a60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1091996681
         }
     ],
     "wof:id":1091996681,
-    "wof:lastmodified":1473984699,
+    "wof:lastmodified":1496906402,
     "wof:name":"Sch\u00fclerinnenheim d K\u00e4rntner Caritasverbandes",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

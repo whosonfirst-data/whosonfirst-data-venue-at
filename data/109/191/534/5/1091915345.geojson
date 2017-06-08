@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4487266541,48.2962036133,16.4487266541,48.2962036133",
     "geom:latitude":48.296204,
     "geom:longitude":16.448727,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892803,
-    "wof:geomhash":"7976afd35008bbd10b8b26393fd91753",
+    "wof:geomhash":"a748682dd061b3a1474559ffee9a334a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091915345
         }
     ],
     "wof:id":1091915345,
-    "wof:lastmodified":1473983989,
+    "wof:lastmodified":1496890132,
     "wof:name":"Schneider Brigitte GesmbH",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

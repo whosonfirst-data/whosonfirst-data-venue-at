@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9956474304,47.8027000427,15.9956474304,47.8027000427",
     "geom:latitude":47.8027,
     "geom:longitude":15.995647,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"schapfl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835929,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UuIl2pyZdCyHMKgqZWXZ8_47.802700_15.995647@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905253,
-    "wof:geomhash":"9e3ccd49c18e126092ee8d2481f6e573",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fa3f30cf1be40f41601de7e8a691e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835929,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092195331
+        }
+    ],
     "wof:id":1092195331,
-    "wof:lastmodified":1473984537,
+    "wof:lastmodified":1496888924,
     "wof:name":"Gerhard Schapfl KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

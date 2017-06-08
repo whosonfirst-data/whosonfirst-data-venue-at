@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9099330902,48.6076965332,16.9099330902,48.6076965332",
     "geom:latitude":48.607697,
     "geom:longitude":16.909933,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"oms.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835753,
+        85632785,
+        101782223,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dInKcPsYfEsoneCbL6OS9_48.607697_16.909933@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905473,
-    "wof:geomhash":"a337dceab01d22fe89e84fc944b304d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ba163e4c81b4a772a23c4bcebf90b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835753,
+            "locality_id":101782223,
+            "region_id":85681671,
+            "venue_id":1092200315
+        }
+    ],
     "wof:id":1092200315,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496888211,
     "wof:name":"OMS Leuchten GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

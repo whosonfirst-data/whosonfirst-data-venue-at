@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8337774277,48.5017318726,14.8337774277,48.5017318726",
     "geom:latitude":48.501732,
     "geom:longitude":14.833777,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"wahlmueller.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835083,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qrkEASLExbph7ekvG4BdQ_48.501732_14.833777@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889792,
-    "wof:geomhash":"a420b2efa52b3acb4e1ba2ed67ae2131",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6eff01b4ce14862c323559fe95b3ccdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835083,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091851741
+        }
+    ],
     "wof:id":1091851741,
-    "wof:lastmodified":1473983634,
+    "wof:lastmodified":1496884502,
     "wof:name":"Hermann Wahlm\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

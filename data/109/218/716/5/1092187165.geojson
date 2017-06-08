@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3607091904,47.1223564148,15.3607091904,47.1223564148",
     "geom:latitude":47.122356,
     "geom:longitude":15.360709,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904902,
-    "wof:geomhash":"1df0393e966422d8ee36265086406df7",
+    "wof:geomhash":"7f7cb74dd3c7f0435e6f304164e01d69",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092187165
         }
     ],
     "wof:id":1092187165,
-    "wof:lastmodified":1473984793,
+    "wof:lastmodified":1496911854,
     "wof:name":"Strasser-Lucawiecki Irene Dipl-Log",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

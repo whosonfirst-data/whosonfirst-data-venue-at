@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6723747253,47.8010406494,16.6723747253,47.8010406494",
     "geom:latitude":47.801041,
     "geom:longitude":16.672375,
@@ -23,17 +24,34 @@
     "sg:postcode":"7071",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838671,
+        85632785,
+        101785603,
+        102049793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fZB0otrRv5ZJJulFr77P3_47.801041_16.672375@1306268280"
     },
     "wof:country":"AT",
     "wof:created":1473904242,
-    "wof:geomhash":"7684b0d8ee3aa3334a6c0f1f1ff4ef60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77a33f12a764387f3f14ad0c7085b145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049793,
+            "localadmin_id":1108838671,
+            "locality_id":101785603,
+            "region_id":85681651,
+            "venue_id":1092172785
+        }
+    ],
     "wof:id":1092172785,
-    "wof:lastmodified":1473983890,
+    "wof:lastmodified":1496909076,
     "wof:name":"ADEG Aktiv Rust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3364639282,46.6160964966,14.3364639282,46.6160964966",
     "geom:latitude":46.616096,
     "geom:longitude":14.336464,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911855,
-    "wof:geomhash":"a3bf638db5b652d509a296fca02db34f",
+    "wof:geomhash":"b74b49362bd3c4d1ba62980e02a7d531",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092345145
         }
     ],
     "wof:id":1092345145,
-    "wof:lastmodified":1473984400,
+    "wof:lastmodified":1496905924,
     "wof:name":"ZIMMER MASCHINENBAU GES.MBH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

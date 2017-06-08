@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2411193848,47.448009491,12.2411193848,47.448009491",
     "geom:latitude":47.448009,
     "geom:longitude":12.241119,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7chkLFngdU6Po2Qp3mdfE0_47.448009_12.241119@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913100,
-    "wof:geomhash":"a7196dcffbd4f8874b8b5f2cb16f150d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b25da9d2c4c59314b2dcc81be5a843a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092371851
+        }
+    ],
     "wof:id":1092371851,
-    "wof:lastmodified":1473983836,
+    "wof:lastmodified":1496897253,
     "wof:name":"Pension Rosenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

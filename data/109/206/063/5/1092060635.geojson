@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5209503174,48.6939620972,15.5209503174,48.6939620972",
     "geom:latitude":48.693962,
     "geom:longitude":15.52095,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836299,
+        85632785,
+        102049901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p9al73iCMcCG2dJPqhNJB_48.693962_15.520950@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898926,
-    "wof:geomhash":"5429a4e8512861f3fccdb8c1b305aa61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b927c15d5a3adccd8d734debf56b7664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108836299,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092060635
+        }
+    ],
     "wof:id":1092060635,
-    "wof:lastmodified":1473983523,
+    "wof:lastmodified":1496890426,
     "wof:name":"Schachtner Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4061346054,47.2295532227,11.4061346054,47.2295532227",
     "geom:latitude":47.229553,
     "geom:longitude":11.406135,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913048,
-    "wof:geomhash":"1da44f9f697e8b29b7ee77faff64a163",
+    "wof:geomhash":"14eab6933d710a40bdc121662adece59",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092370659
         }
     ],
     "wof:id":1092370659,
-    "wof:lastmodified":1473983447,
+    "wof:lastmodified":1496899395,
     "wof:name":"Pension Gstrein Inh Edgar Gstrein",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

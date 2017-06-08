@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3182926178,47.4403114319,12.3182926178,47.4403114319",
     "geom:latitude":47.440311,
     "geom:longitude":12.318293,
@@ -23,17 +24,34 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        101834287,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IDdxxx4itUrb5QQyBVdlw_47.440311_12.318293@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909538,
-    "wof:geomhash":"fafeea9bf08903e8ce010621b2690ca1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99d55a18d64be8cfde1bee4233bceb35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":101834287,
+            "region_id":85681661,
+            "venue_id":1092292267
+        }
+    ],
     "wof:id":1092292267,
-    "wof:lastmodified":1473983865,
+    "wof:lastmodified":1496899120,
     "wof:name":"Appartmenthaus Gaisberghaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

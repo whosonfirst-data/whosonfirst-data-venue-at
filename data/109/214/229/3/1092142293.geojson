@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3734064102,47.224029541,11.3734064102,47.224029541",
     "geom:latitude":47.22403,
     "geom:longitude":11.373406,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902851,
-    "wof:geomhash":"155ccc2b01dab68efd3cb3fddaf169b4",
+    "wof:geomhash":"62645527ccdc8d3bdce08c81620f4861",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092142293
         }
     ],
     "wof:id":1092142293,
-    "wof:lastmodified":1473983846,
+    "wof:lastmodified":1496898470,
     "wof:name":"Graus Handels- u Werbeagentur",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

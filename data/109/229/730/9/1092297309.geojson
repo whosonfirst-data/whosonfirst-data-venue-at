@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6793193817,47.3179016113,9.6793193817,47.3179016113",
     "geom:latitude":47.317902,
     "geom:longitude":9.679319,
@@ -24,17 +25,33 @@
     "sg:province":"Vorarlberg",
     "sg:website":"peter-hof.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837943,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GMRL9gDGcHLgAUY49KeiO_47.317902_9.679319@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909762,
-    "wof:geomhash":"1d135fe009a81b9fac43f1e9c383008a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4f279d13f1855405b4ad237b4188429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837943,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092297309
+        }
+    ],
     "wof:id":1092297309,
-    "wof:lastmodified":1473984986,
+    "wof:lastmodified":1496901013,
     "wof:name":"Peter-Hof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

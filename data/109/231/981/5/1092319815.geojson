@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3342838287,47.8667869568,16.3342838287,47.8667869568",
     "geom:latitude":47.866787,
     "geom:longitude":16.334284,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"wendelin.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836615,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F5KweSVBfUD7PpURe04wL_47.866787_16.334284@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910796,
-    "wof:geomhash":"63d724239e1947f4b8d324c14e5f7e81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"987c31aeb4b13af9d949c478fe973040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108836615,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092319815
+        }
+    ],
     "wof:id":1092319815,
-    "wof:lastmodified":1473985323,
+    "wof:lastmodified":1496891951,
     "wof:name":"Kfz Handel & Verschrottung Wendelin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.660399437,47.1644821167,14.660399437,47.1644821167",
     "geom:latitude":47.164482,
     "geom:longitude":14.660399,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839401,
+        85632785,
+        101834243,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yZojDg7vPDFPyxHZtBXFX_47.164482_14.660399@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906524,
-    "wof:geomhash":"1ba5078ee34147dffdc993108dd94829",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f30378d3c5febad5294132a6c4362ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839401,
+            "locality_id":101834243,
+            "region_id":85681687,
+            "venue_id":1092222835
+        }
+    ],
     "wof:id":1092222835,
-    "wof:lastmodified":1473984031,
+    "wof:lastmodified":1496913964,
     "wof:name":"Taxi Sam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

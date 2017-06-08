@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3975791931,48.1078491211,16.3975791931,48.1078491211",
     "geom:latitude":48.107849,
     "geom:longitude":16.397579,
@@ -34,10 +35,12 @@
     "sg:website":"belak .at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905128,
-    "wof:geomhash":"2febc2489690ec4af9d751dc9efef7d9",
+    "wof:geomhash":"34e560826ceb93b04f4f744a5f29a673",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092192529
         }
     ],
     "wof:id":1092192529,
-    "wof:lastmodified":1473983993,
+    "wof:lastmodified":1496883066,
     "wof:name":"Belak EGH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

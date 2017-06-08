@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9611358643,48.7535247803,15.9611358643,48.7535247803",
     "geom:latitude":48.753525,
     "geom:longitude":15.961136,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"druck-hofer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836817,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j9pqf0Df3ZBVMZE710y4d_48.753525_15.961136@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890928,
-    "wof:geomhash":"5f62db89418626f9caeabfea5c1311e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b92dca86c70e8116edc1c98515144f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108836817,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091875535
+        }
+    ],
     "wof:id":1091875535,
-    "wof:lastmodified":1473984340,
+    "wof:lastmodified":1496892930,
     "wof:name":"Hofer G\u00fcnther - Druckerei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

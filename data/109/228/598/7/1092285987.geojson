@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.854470253,46.6682510376,13.854470253,46.6682510376",
     "geom:latitude":46.668251,
     "geom:longitude":13.85447,
@@ -34,17 +35,33 @@
         "antenna"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838357,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J2bSIPJl6hnXg3gYPoH4m_46.668251_13.854470@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909285,
-    "wof:geomhash":"b63dc8d6d7b39fe50382e433cf64c4cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4eff1ead87ef687476f4b7326ab4b7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838357,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092285987
+        }
+    ],
     "wof:id":1092285987,
-    "wof:lastmodified":1473984547,
+    "wof:lastmodified":1496907464,
     "wof:name":"Elektro Moser Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

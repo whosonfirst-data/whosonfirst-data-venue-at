@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2046260834,48.3328399658,16.2046260834,48.3328399658",
     "geom:latitude":48.33284,
     "geom:longitude":16.204626,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"compnet.at/efuchs/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835345,
+        85632785,
+        101754233,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kXF7SUOIXhtiDCq2GsgdP_48.332840_16.204626@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473892129,
-    "wof:geomhash":"57941e2e705d984b77e159e2102ac0df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e5410ff3870025a9e0d0a38800c7ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835345,
+            "locality_id":101754233,
+            "region_id":85681671,
+            "venue_id":1091900245
+        }
+    ],
     "wof:id":1091900245,
-    "wof:lastmodified":1473983370,
+    "wof:lastmodified":1496886193,
     "wof:name":"Fuchs E Metallschlaucherzeugung GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5087842941,47.2824668884,11.5087842941,47.2824668884",
     "geom:latitude":47.282467,
     "geom:longitude":11.508784,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896630,
-    "wof:geomhash":"73145ee006a2d5b74ddac44e6a2e9383",
+    "wof:geomhash":"48546492b8bf0413d9dd6d54ffb301fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092002639
         }
     ],
     "wof:id":1092002639,
-    "wof:lastmodified":1473983870,
+    "wof:lastmodified":1496898709,
     "wof:name":"In-Shop",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

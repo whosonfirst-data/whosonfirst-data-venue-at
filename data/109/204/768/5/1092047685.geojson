@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6372528076,47.3923530579,12.6372528076,47.3923530579",
     "geom:latitude":47.392353,
     "geom:longitude":12.637253,
@@ -28,17 +29,34 @@
     "sg:postcode":"5753",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        101787917,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k75Ym536nAC6GuSaI6dl1_47.392353_12.637253@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898422,
-    "wof:geomhash":"1ad40b92d78760caf293f9a03192538e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac66d5bcf790e19da02dea0edd03c947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":101787917,
+            "region_id":85681681,
+            "venue_id":1092047685
+        }
+    ],
     "wof:id":1092047685,
-    "wof:lastmodified":1473984143,
+    "wof:lastmodified":1496896212,
     "wof:name":"Hotel Mitterer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

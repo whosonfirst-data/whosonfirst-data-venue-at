@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7803792953,47.5884475708,9.7803792953,47.5884475708",
     "geom:latitude":47.588448,
     "geom:longitude":9.780379,
@@ -23,17 +24,33 @@
     "sg:postcode":"6914",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837965,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NbNYPiB53xtYd52cwnPir_47.588448_9.780379@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897456,
-    "wof:geomhash":"96cbc5eccff11f5f9f8b4f9157fa597f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0351fa66030db65231c9309e6f4253df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837965,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092022899
+        }
+    ],
     "wof:id":1092022899,
-    "wof:lastmodified":1473983860,
+    "wof:lastmodified":1496901174,
     "wof:name":"Pfarramt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

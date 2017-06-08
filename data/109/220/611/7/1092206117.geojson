@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4263744354,48.1022148132,16.4263744354,48.1022148132",
     "geom:latitude":48.102215,
     "geom:longitude":16.426374,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905790,
-    "wof:geomhash":"2f939d224d7334fadce3b3b128fe0e53",
+    "wof:geomhash":"45196882765c5820dd0224046e556498",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092206117
         }
     ],
     "wof:id":1092206117,
-    "wof:lastmodified":1473984715,
+    "wof:lastmodified":1496892752,
     "wof:name":"AKS Arbeitsgesellschaft f\u00fcr Kranverleih und Spezialtransporte GmbH & Co KG",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

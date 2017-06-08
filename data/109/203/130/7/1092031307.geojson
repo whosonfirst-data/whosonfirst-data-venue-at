@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1289167404,47.8604278564,13.1289167404,47.8604278564",
     "geom:latitude":47.860428,
     "geom:longitude":13.128917,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897781,
-    "wof:geomhash":"804c9d9a952a351ad0e22259bc9ee25c",
+    "wof:geomhash":"4466bc84db328d2e3f5e7bcf95ab0d8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092031307
         }
     ],
     "wof:id":1092031307,
-    "wof:lastmodified":1473983562,
+    "wof:lastmodified":1496895295,
     "wof:name":"Hauser Manfred",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

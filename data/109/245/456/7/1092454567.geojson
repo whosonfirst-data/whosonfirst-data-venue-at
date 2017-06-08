@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0271482468,48.0202064514,13.0271482468,48.0202064514",
     "geom:latitude":48.020206,
     "geom:longitude":13.027148,
@@ -23,17 +24,33 @@
     "sg:postcode":"5152",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837121,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NswHjiRXkJiuuu9pTWc4S_48.020206_13.027148@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917034,
-    "wof:geomhash":"db4253e1934be82cb1a458139d9c014b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64b190f3ee29d7e64b901fd067957d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837121,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092454567
+        }
+    ],
     "wof:id":1092454567,
-    "wof:lastmodified":1473983510,
+    "wof:lastmodified":1496895255,
     "wof:name":"Friedrich Eder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

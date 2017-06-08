@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9672136307,47.7898521423,12.9672136307,47.7898521423",
     "geom:latitude":47.789852,
     "geom:longitude":12.967214,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904373,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890786,
-    "wof:geomhash":"6a0c80dfd05939c3fbe60d8171aef01c",
+    "wof:geomhash":"5d95d75f55cee2182ab195bfb77fa0d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85904373,
             "region_id":85681681,
             "venue_id":1091872541
         }
     ],
     "wof:id":1091872541,
-    "wof:lastmodified":1473983745,
+    "wof:lastmodified":1496895775,
     "wof:name":"Die Blume",
     "wof:parent_id":85904373,
     "wof:placetype":"venue",

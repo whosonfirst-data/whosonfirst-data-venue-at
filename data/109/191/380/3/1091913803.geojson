@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3175621033,47.9004631042,13.3175621033,47.9004631042",
     "geom:latitude":47.900463,
     "geom:longitude":13.317562,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836533,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pyEcqa4P9w8WbkLfqxmEL_47.900463_13.317562@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892736,
-    "wof:geomhash":"e54f5972917795a16268843bf24b5be6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"763c110060f72b5c8f27aa8eba626f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836533,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091913803
+        }
+    ],
     "wof:id":1091913803,
-    "wof:lastmodified":1473983785,
+    "wof:lastmodified":1496891515,
     "wof:name":"Haller & Haller OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

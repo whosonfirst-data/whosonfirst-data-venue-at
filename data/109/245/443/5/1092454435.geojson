@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6930027008,48.4181671143,15.6930027008,48.4181671143",
     "geom:latitude":48.418167,
     "geom:longitude":15.693003,
@@ -32,17 +33,33 @@
         "stainless"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835917,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qP8aXcJK850fMcOPX1P9w_48.418167_15.693003@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917029,
-    "wof:geomhash":"e7274a2315cfa26d0cfdd4e1d75506de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce8ba195757258c6a1038d2fb8306a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835917,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092454435
+        }
+    ],
     "wof:id":1092454435,
-    "wof:lastmodified":1473983459,
+    "wof:lastmodified":1496888910,
     "wof:name":"Josef Danner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

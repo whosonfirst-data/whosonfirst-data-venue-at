@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8217735291,48.0233230591,13.8217735291,48.0233230591",
     "geom:latitude":48.023323,
     "geom:longitude":13.821774,
@@ -33,17 +34,33 @@
         "working"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835153,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gy1gqA4HMe2UCHSmk3aTP_48.023323_13.821774@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897093,
-    "wof:geomhash":"65a38a704280ca428dfdb91d04006a26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ba1a40245bebb1613c6c4121f6bf8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835153,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092013723
+        }
+    ],
     "wof:id":1092013723,
-    "wof:lastmodified":1473983603,
+    "wof:lastmodified":1496885129,
     "wof:name":"Ing. Josef Sillipp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

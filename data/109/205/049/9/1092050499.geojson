@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7985019684,47.2997589111,12.7985019684,47.2997589111",
     "geom:latitude":47.299759,
     "geom:longitude":12.798502,
@@ -28,17 +29,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GbMKWwEgq7CaY1NhSZRIw_47.299759_12.798502@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898532,
-    "wof:geomhash":"d13e3c14b896d009117fb45c8a346bba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83eb5e983f955c136c55f1b42a7987a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092050499
+        }
+    ],
     "wof:id":1092050499,
-    "wof:lastmodified":1473983447,
+    "wof:lastmodified":1496896516,
     "wof:name":"Landhaus Zell am See",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

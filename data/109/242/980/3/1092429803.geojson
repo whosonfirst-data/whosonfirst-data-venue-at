@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.364616394,47.2611160278,11.364616394,47.2611160278",
     "geom:latitude":47.261116,
     "geom:longitude":11.364616,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915895,
-    "wof:geomhash":"00e85c4cfc7d9ae1abab707a3ef4cc0c",
+    "wof:geomhash":"9bce5ee71ba7e7260c439ea7bf60295a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092429803
         }
     ],
     "wof:id":1092429803,
-    "wof:lastmodified":1473985177,
+    "wof:lastmodified":1496899366,
     "wof:name":"Berchtold Hansj\u00f6rg",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

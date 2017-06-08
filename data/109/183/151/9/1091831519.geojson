@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.79936409,47.1742973328,9.79936409,47.1742973328",
     "geom:latitude":47.174297,
     "geom:longitude":9.799364,
@@ -23,17 +24,34 @@
     "sg:postcode":"6714",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        101827451,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i4mhQa1YHAwRpDMDsVznn_47.174297_9.799364@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888858,
-    "wof:geomhash":"661719aacf4e5aa5dfd06b0d4f949091",
-    "wof:hierarchy":[],
+    "wof:geomhash":"249b3b5bddc999646d50fce603571024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":101827451,
+            "region_id":85681649,
+            "venue_id":1091831519
+        }
+    ],
     "wof:id":1091831519,
-    "wof:lastmodified":1473983593,
+    "wof:lastmodified":1496901619,
     "wof:name":"Vorarlberger Volksbank reg GenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

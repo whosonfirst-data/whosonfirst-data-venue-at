@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3639945984,47.7668457031,13.3639945984,47.7668457031",
     "geom:latitude":47.766846,
     "geom:longitude":13.363995,
@@ -23,17 +24,34 @@
     "sg:postcode":"5340",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837175,
+        85632785,
+        101786783,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kYctWepY9Kw3JKx1R1vAX_47.766846_13.363995@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888942,
-    "wof:geomhash":"59d95ffdd388f734e4cb8965dce3851f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e84cbe6986eb55a362cf9a4d62d7fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837175,
+            "locality_id":101786783,
+            "region_id":85681681,
+            "venue_id":1091832769
+        }
+    ],
     "wof:id":1091832769,
-    "wof:lastmodified":1473983850,
+    "wof:lastmodified":1496895643,
     "wof:name":"Bankomat d Raiffeisenkasse St.Gilgen-Fuschl-Strobl regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

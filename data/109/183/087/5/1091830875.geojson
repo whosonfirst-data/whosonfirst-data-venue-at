@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1983394623,47.2737197876,11.1983394623,47.2737197876",
     "geom:latitude":47.27372,
     "geom:longitude":11.198339,
@@ -23,17 +24,34 @@
     "sg:postcode":"6401",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837677,
+        85632785,
+        101844491,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b7s8mtvl8tYmsJHWEB0xi_47.273720_11.198339@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888828,
-    "wof:geomhash":"63b43741ab34fbd5c337cb9501e69885",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ec9aaf62903b3983b7c884345640914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837677,
+            "locality_id":101844491,
+            "region_id":85681661,
+            "venue_id":1091830875
+        }
+    ],
     "wof:id":1091830875,
-    "wof:lastmodified":1473983405,
+    "wof:lastmodified":1496899091,
     "wof:name":"Tiroler Sparkasse Bank AG Innsbruck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

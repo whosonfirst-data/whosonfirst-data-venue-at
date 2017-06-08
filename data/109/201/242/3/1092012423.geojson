@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5825490952,48.1999702454,13.5825490952,48.1999702454",
     "geom:latitude":48.19997,
     "geom:longitude":13.582549,
@@ -35,17 +36,33 @@
         "gate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835637,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wv58wNFYLrK8OVI71GBuS_48.199970_13.582549@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897041,
-    "wof:geomhash":"4d4873687f44acd71f8c79be27e907e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1acd5c4333d816255626ff9d1e673503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835637,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092012423
+        }
+    ],
     "wof:id":1092012423,
-    "wof:lastmodified":1473983387,
+    "wof:lastmodified":1496887761,
     "wof:name":"Alois Raschhofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

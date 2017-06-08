@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5516796112,48.2007141113,16.5516796112,48.2007141113",
     "geom:latitude":48.200714,
     "geom:longitude":16.55168,
@@ -25,10 +26,13 @@
     "sg:website":"luksche.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888500,
-    "wof:geomhash":"54f7d11d500b82bad43c70731c1cd460",
+    "wof:geomhash":"3f85309498745e9e69231adbcf922e45",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091823441
         }
     ],
     "wof:id":1091823441,
-    "wof:lastmodified":1473984211,
+    "wof:lastmodified":1496892143,
     "wof:name":"Luksche Sanit\u00e4tshaus",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

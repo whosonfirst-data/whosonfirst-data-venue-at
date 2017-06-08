@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8591661453,47.1588630676,11.8591661453,47.1588630676",
     "geom:latitude":47.158863,
     "geom:longitude":11.859166,
@@ -23,17 +24,33 @@
     "sg:postcode":"6290",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63Ms6Zf0m7XHeRdU01w3Nr_47.158863_11.859166@1306268273"
     },
     "wof:country":"AT",
     "wof:created":1473902044,
-    "wof:geomhash":"86866985f2deb2323403f486c4c727ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0f06e63db60d7987dcad0dbd7d84d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092125931
+        }
+    ],
     "wof:id":1092125931,
-    "wof:lastmodified":1473984535,
+    "wof:lastmodified":1496900428,
     "wof:name":"Obst-Verwertungsanlage Stoanerbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5346469879,48.2134246826,16.5346469879,48.2134246826",
     "geom:latitude":48.213425,
     "geom:longitude":16.534647,
@@ -35,10 +36,13 @@
     "sg:website":"aradi.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890658,
-    "wof:geomhash":"b75f5e81a90ca7b9d79869bd1786b044",
+    "wof:geomhash":"a188c9c403d33706e3fd6748f8b01203",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091869943
         }
     ],
     "wof:id":1091869943,
-    "wof:lastmodified":1473985331,
+    "wof:lastmodified":1496927686,
     "wof:name":"Bauspenglerei Aradi",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

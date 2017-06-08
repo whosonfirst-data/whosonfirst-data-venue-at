@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8815402985,48.6956596375,13.8815402985,48.6956596375",
     "geom:latitude":48.69566,
     "geom:longitude":13.88154,
@@ -31,17 +32,33 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835961,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GSkylzSfEXbRRjcJ23PqM_48.695660_13.881540@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909365,
-    "wof:geomhash":"d46c476f22c9fbcbbd7f0706b382cb54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db653cf9b7d6831b602cd8ca46a0c0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835961,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092288041
+        }
+    ],
     "wof:id":1092288041,
-    "wof:lastmodified":1473985008,
+    "wof:lastmodified":1496889091,
     "wof:name":"Binder Bauges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

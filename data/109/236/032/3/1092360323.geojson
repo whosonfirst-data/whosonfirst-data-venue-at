@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0086956024,46.9252128601,16.0086956024,46.9252128601",
     "geom:latitude":46.925213,
     "geom:longitude":16.008696,
@@ -23,17 +24,33 @@
     "sg:postcode":"8350",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839261,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LgPJtQNFVy2G5fcIILZAj_46.925213_16.008696@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912529,
-    "wof:geomhash":"75162997034991dcb650809f31892bec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f04d6227965c7b3d6f434ecfa984146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839261,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092360323
+        }
+    ],
     "wof:id":1092360323,
-    "wof:lastmodified":1473983359,
+    "wof:lastmodified":1496912338,
     "wof:name":"Koch & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

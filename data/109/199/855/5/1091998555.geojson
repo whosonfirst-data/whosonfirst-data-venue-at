@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.45814991,46.6882286072,14.45814991,46.6882286072",
     "geom:latitude":46.688229,
     "geom:longitude":14.45815,
@@ -23,17 +24,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://www.inkaernten.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838199,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YbyrEmaZTEKlpO7bovZng_46.688229_14.458150@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896473,
-    "wof:geomhash":"a0c4ef430aaaf93e688009ba867609aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b03303284640f0e87ba1315fcad2994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838199,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091998555
+        }
+    ],
     "wof:id":1091998555,
-    "wof:lastmodified":1473984956,
+    "wof:lastmodified":1496906506,
     "wof:name":"inkaernten.at",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

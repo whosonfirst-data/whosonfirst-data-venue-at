@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.591375351,47.2723388672,9.591375351,47.2723388672",
     "geom:latitude":47.272339,
     "geom:longitude":9.591375,
@@ -23,17 +24,34 @@
     "sg:postcode":"6800",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25bjDKW1ikGCqgxeGJCRDH_47.272339_9.591375@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901192,
-    "wof:geomhash":"60301627c9eb1354f10cdba20bddd140",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea9f5090b906f985f75f1e42750affa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
+            "region_id":85681649,
+            "venue_id":1092107879
+        }
+    ],
     "wof:id":1092107879,
-    "wof:lastmodified":1473984800,
+    "wof:lastmodified":1496900973,
     "wof:name":"B\u00f6hler Abfall-Abluft-Abwasser-Umweltschutz GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

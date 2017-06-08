@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.857875824,46.6743507385,13.857875824,46.6743507385",
     "geom:latitude":46.674351,
     "geom:longitude":13.857876,
@@ -23,17 +24,33 @@
     "sg:postcode":"9521",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838357,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hMjovhcHPpkss3MxfW8Pe_46.674351_13.857876@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898993,
-    "wof:geomhash":"f2d6dc40007b2ea7ba624582e08f0cbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45ce3d989159f389f81ddf961d463928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838357,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092062265
+        }
+    ],
     "wof:id":1092062265,
-    "wof:lastmodified":1473983796,
+    "wof:lastmodified":1496907466,
     "wof:name":"Berggasthof Alpenblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

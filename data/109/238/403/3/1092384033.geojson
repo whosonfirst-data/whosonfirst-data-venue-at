@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3594665527,48.3364067078,14.3594665527,48.3364067078",
     "geom:latitude":48.336407,
     "geom:longitude":14.359467,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898427,
-        102049853
+        102191581,
+        1108836411,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913640,
-    "wof:geomhash":"0fa2ed0b848f6f96826b75497b64fe6b",
+    "wof:geomhash":"d71b9c9fc5f26e2c6282231270f9b985",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049853,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":-1,
             "neighbourhood_id":85898427,
             "region_id":85681677,
             "venue_id":1092384033
         }
     ],
     "wof:id":1092384033,
-    "wof:lastmodified":1473984264,
+    "wof:lastmodified":1496889754,
     "wof:name":"Pizzeria Santa Maria - Inh Pachner Heide",
     "wof:parent_id":85898427,
     "wof:placetype":"venue",

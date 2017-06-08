@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0057153702,47.8198814392,13.0057153702,47.8198814392",
     "geom:latitude":47.819881,
     "geom:longitude":13.005715,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898521,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        101913413,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901438,
-    "wof:geomhash":"4aa0e365534d08bac77f56fa79b1a6b8",
+    "wof:geomhash":"7da221c900da0ea48053f9eb7a5073fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101913413,
             "neighbourhood_id":85898521,
             "region_id":85681681,
             "venue_id":1092113153
         }
     ],
     "wof:id":1092113153,
-    "wof:lastmodified":1473983999,
+    "wof:lastmodified":1496895764,
     "wof:name":"Zollamt Salzburg - Zweigstelle Liefering-Bahn",
     "wof:parent_id":85898521,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3131999969,47.3509254456,13.3131999969,47.3509254456",
     "geom:latitude":47.350925,
     "geom:longitude":13.3132,
@@ -23,17 +24,33 @@
     "sg:postcode":"5602",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UmfjQiFOKnWNLSKPnre8A_47.350925_13.313200@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908205,
-    "wof:geomhash":"cc2d6f9d1ce022a8d4046482d23bc92e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8da79a83e39bcf28f844d07b4321e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092261025
+        }
+    ],
     "wof:id":1092261025,
-    "wof:lastmodified":1473983532,
+    "wof:lastmodified":1496894168,
     "wof:name":"\u00f6bster Rupert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

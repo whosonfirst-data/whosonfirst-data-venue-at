@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1352310181,47.3880844116,12.1352310181,47.3880844116",
     "geom:latitude":47.388084,
     "geom:longitude":12.135231,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lJozAAbrWcPM5BXLmEHNz_47.388084_12.135231@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906633,
-    "wof:geomhash":"57e7fa59326c6b3cacf3f3fc1ae32540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b0605b45c3c189ddcf1632467f451e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092225521
+        }
+    ],
     "wof:id":1092225521,
-    "wof:lastmodified":1473984625,
+    "wof:lastmodified":1496896986,
     "wof:name":"Wurzrainer & Auer OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6104803085,47.2477607727,9.6104803085,47.2477607727",
     "geom:latitude":47.247761,
     "geom:longitude":9.61048,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908246,
-    "wof:geomhash":"b56758710975dd6c29a2bd8e3e59ac9d",
+    "wof:geomhash":"490d596a9c203f96dbedc2c6350c53e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092261745
         }
     ],
     "wof:id":1092261745,
-    "wof:lastmodified":1473983713,
+    "wof:lastmodified":1496900909,
     "wof:name":"Colourbox T\u00e4towierstudio",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

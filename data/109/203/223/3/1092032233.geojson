@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4913520813,48.2591247559,16.4913520813,48.2591247559",
     "geom:latitude":48.259125,
     "geom:longitude":16.491352,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897817,
-    "wof:geomhash":"ddec3a3d800baf25d0871ad9b426958f",
+    "wof:geomhash":"453ffc7a17861c68b1003ee95ca5504e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092032233
         }
     ],
     "wof:id":1092032233,
-    "wof:lastmodified":1473983767,
+    "wof:lastmodified":1496902423,
     "wof:name":"Nadvornik Peter",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

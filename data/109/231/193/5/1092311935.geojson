@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7804536819,47.3818092346,11.7804536819,47.3818092346",
     "geom:latitude":47.381809,
     "geom:longitude":11.780454,
@@ -23,17 +24,33 @@
     "sg:postcode":"6200",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837853,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UB7zP46tPHehTALExQ2nG_47.381809_11.780454@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910457,
-    "wof:geomhash":"713e6383529a8b593074b3a41850d61f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85adce1bf440b7e4fcd5642258362667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837853,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092311935
+        }
+    ],
     "wof:id":1092311935,
-    "wof:lastmodified":1473983816,
+    "wof:lastmodified":1496900230,
     "wof:name":"Moser Christine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

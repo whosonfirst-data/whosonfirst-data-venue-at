@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.512421608,47.0911979675,15.512421608,47.0911979675",
     "geom:latitude":47.091198,
     "geom:longitude":15.512422,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898571,
-        102049741
+        102191581,
+        1108839185,
+        85632785,
+        102049741,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912971,
-    "wof:geomhash":"81789d984ae9bf7d15646646dbbe0831",
+    "wof:geomhash":"65fd2143af2703dcf39a88eaa4e1c32a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049741,
+            "localadmin_id":1108839185,
+            "locality_id":-1,
             "neighbourhood_id":85898571,
             "region_id":85681687,
             "venue_id":1092369151
         }
     ],
     "wof:id":1092369151,
-    "wof:lastmodified":1473985237,
+    "wof:lastmodified":1496911769,
     "wof:name":"Meister Alois",
     "wof:parent_id":85898571,
     "wof:placetype":"venue",

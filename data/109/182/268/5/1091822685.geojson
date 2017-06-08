@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0931987762,48.0068626404,13.0931987762,48.0068626404",
     "geom:latitude":48.006863,
     "geom:longitude":13.093199,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"huber-holz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834773,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LmFSzQUjNF5F7MdrB3tsD_48.006863_13.093199@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888466,
-    "wof:geomhash":"d9faf2c030d37fd08d62c04befc3cbe1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"763de0cca2c5c4d90a04c6ed036b6363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834773,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091822685
+        }
+    ],
     "wof:id":1091822685,
-    "wof:lastmodified":1473983987,
+    "wof:lastmodified":1496882561,
     "wof:name":"Huber Holz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

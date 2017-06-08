@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4334926605,48.4320716858,15.4334926605,48.4320716858",
     "geom:latitude":48.432072,
     "geom:longitude":15.433493,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.intervent.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835745,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OtscSREe1k4WWcPW65WZ3_48.432072_15.433493@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911606,
-    "wof:geomhash":"cd159566b9b3da72e0ccba60c24ad0d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faf3cc3d298acdfb707b7adcc228d030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835745,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092339427
+        }
+    ],
     "wof:id":1092339427,
-    "wof:lastmodified":1473985310,
+    "wof:lastmodified":1496888185,
     "wof:name":"INTERVENT HANDELS GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

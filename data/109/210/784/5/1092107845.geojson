@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2903814316,48.2097167969,14.2903814316,48.2097167969",
     "geom:latitude":48.209717,
     "geom:longitude":14.290381,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898417,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901190,
-    "wof:geomhash":"3712fa1bc8d19b70fb503c36abfca903",
+    "wof:geomhash":"a7c0872fd6d628612c42844171a84897",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898417,
             "region_id":85681677,
             "venue_id":1092107845
         }
     ],
     "wof:id":1092107845,
-    "wof:lastmodified":1473984803,
+    "wof:lastmodified":1496887024,
     "wof:name":"Bezirksabfallverband Linz-Land",
     "wof:parent_id":85898417,
     "wof:placetype":"venue",

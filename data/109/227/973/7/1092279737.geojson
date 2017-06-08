@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.652973175,47.2261886597,15.652973175,47.2261886597",
     "geom:latitude":47.226189,
     "geom:longitude":15.652973,
@@ -23,17 +24,33 @@
     "sg:postcode":"8160",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838919,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35mcsa1zivzAs9wcssfnxX_47.226189_15.652973@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909021,
-    "wof:geomhash":"99629bd63447521355211f580c51121e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"056e90703ebc86e468446a66b4537d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838919,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092279737
+        }
+    ],
     "wof:id":1092279737,
-    "wof:lastmodified":1473985317,
+    "wof:lastmodified":1496910205,
     "wof:name":"Maier Ernst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

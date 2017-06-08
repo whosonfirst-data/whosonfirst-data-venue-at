@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.9058189392,47.4464416504,11.9058189392,47.4464416504",
     "geom:latitude":47.446442,
     "geom:longitude":11.905819,
@@ -23,17 +24,34 @@
     "sg:postcode":"6240",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837399,
+        85632785,
+        101834315,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aNu09UqXMsVfNSN4LeZ86_47.446442_11.905819@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911505,
-    "wof:geomhash":"118185a8d009ef786dd5998142d25dab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c138d2e7ec0f07f6ab6f740c0c1c2649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837399,
+            "locality_id":101834315,
+            "region_id":85681661,
+            "venue_id":1092337279
+        }
+    ],
     "wof:id":1092337279,
-    "wof:lastmodified":1473985009,
+    "wof:lastmodified":1496899787,
     "wof:name":"Scita \u00f6sterreichische-Italienische HandelsgmbH L Rhomberg & Co, KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

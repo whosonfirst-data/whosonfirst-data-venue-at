@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4631729126,48.2654533386,16.4631729126,48.2654533386",
     "geom:latitude":48.265453,
     "geom:longitude":16.463173,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895959,
-    "wof:geomhash":"0d55f0249e88d821f9d5f714ae97027c",
+    "wof:geomhash":"16cce2773abca429cb8583852795bdf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091986609
         }
     ],
     "wof:id":1091986609,
-    "wof:lastmodified":1473984318,
+    "wof:lastmodified":1496904379,
     "wof:name":"Baustoff + Metall GesmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

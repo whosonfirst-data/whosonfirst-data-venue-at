@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5266342163,48.2399368286,14.5266342163,48.2399368286",
     "geom:latitude":48.239937,
     "geom:longitude":14.526634,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914025,
-    "wof:geomhash":"7b6fe8dede9df238c6329af2af1546b7",
+    "wof:geomhash":"e16466cdd0fa02271bab13954e74843a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092391439
         }
     ],
     "wof:id":1092391439,
-    "wof:lastmodified":1473983528,
+    "wof:lastmodified":1496887549,
     "wof:name":"Post Box",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

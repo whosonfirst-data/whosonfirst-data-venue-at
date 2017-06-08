@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6138343811,47.8033866882,16.6138343811,47.8033866882",
     "geom:latitude":47.803387,
     "geom:longitude":16.613834,
@@ -23,17 +24,34 @@
     "sg:postcode":"7062",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838677,
+        85632785,
+        101785647,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TKK9pqhrNSXEn299RHH9K_47.803387_16.613834@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906273,
-    "wof:geomhash":"92cb58e20c4e1dcbce858737f2d46830",
-    "wof:hierarchy":[],
+    "wof:geomhash":"346a347223bbb95ce1ec21752108fc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838677,
+            "locality_id":101785647,
+            "region_id":85681651,
+            "venue_id":1092216873
+        }
+    ],
     "wof:id":1092216873,
-    "wof:lastmodified":1473984799,
+    "wof:lastmodified":1496909097,
     "wof:name":"OMV AG-Tankstellen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

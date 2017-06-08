@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.701918602,46.5590782166,14.701918602,46.5590782166",
     "geom:latitude":46.559078,
     "geom:longitude":14.701919,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838379,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TkuFKP1UDOsdTbyPpqg03_46.559078_14.701919@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908406,
-    "wof:geomhash":"ed3fb790ea4e4e23a90e4208f93ac57f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6f76be204c2e53979ea7be480c78c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838379,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265523
+        }
+    ],
     "wof:id":1092265523,
-    "wof:lastmodified":1473984469,
+    "wof:lastmodified":1496907682,
     "wof:name":"Georg Wutte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

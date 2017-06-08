@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9643468857,48.1451721191,13.9643468857,48.1451721191",
     "geom:latitude":48.145172,
     "geom:longitude":13.964347,
@@ -23,17 +24,33 @@
     "sg:postcode":"4623",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836553,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17yfPDiIl2hV3IQOCAVsyt_48.145172_13.964347@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888402,
-    "wof:geomhash":"39f5627ab09361b882e0fcec3c6d93a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2cf562fb78f5afcf8947eb17a709f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836553,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091821199
+        }
+    ],
     "wof:id":1091821199,
-    "wof:lastmodified":1473983647,
+    "wof:lastmodified":1496891605,
     "wof:name":"Bahnhof Gunskirchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1497688293,47.3168716431,10.1497688293,47.3168716431",
     "geom:latitude":47.316872,
     "geom:longitude":10.149769,
@@ -23,17 +24,34 @@
     "sg:postcode":"6993",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        101828567,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tvyHoxwhGJ8Fc51wV84tn_47.316872_10.149769@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473906856,
-    "wof:geomhash":"591ea203f4266c1d174b02aa28e3703b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ee1ea89aa0abb91e512ee0bcf47d9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":101828567,
+            "region_id":85681649,
+            "venue_id":1092230917
+        }
+    ],
     "wof:id":1092230917,
-    "wof:lastmodified":1473983468,
+    "wof:lastmodified":1496901527,
     "wof:name":"Tennishallen Kleinwalsertaler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

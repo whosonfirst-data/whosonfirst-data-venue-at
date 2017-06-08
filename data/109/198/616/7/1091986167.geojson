@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3446722031,48.3553657532,14.3446722031,48.3553657532",
     "geom:latitude":48.355366,
     "geom:longitude":14.344672,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898427,
-        102049853
+        102191581,
+        1108836411,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895940,
-    "wof:geomhash":"af6cffeec1b387f08c8f607f84f11f86",
+    "wof:geomhash":"db89b70aa58be01e7a8b45bd5c21d05b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049853,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":-1,
             "neighbourhood_id":85898427,
             "region_id":85681677,
             "venue_id":1091986167
         }
     ],
     "wof:id":1091986167,
-    "wof:lastmodified":1473984201,
+    "wof:lastmodified":1496889714,
     "wof:name":"Haderer Gerhard",
     "wof:parent_id":85898427,
     "wof:placetype":"venue",

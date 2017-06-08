@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9405937195,47.7855644226,16.9405937195,47.7855644226",
     "geom:latitude":47.785564,
     "geom:longitude":16.940594,
@@ -23,17 +24,34 @@
     "sg:postcode":"7161",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838569,
+        85632785,
+        101785759,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yjRScfS41FJEb7MSh9UB7_47.785564_16.940594@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888936,
-    "wof:geomhash":"f7957f692a7be8fd52a4221aee5812df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20ca0bcc7ff4e7c7dd7b756fe7880683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838569,
+            "locality_id":101785759,
+            "region_id":85681651,
+            "venue_id":1091832751
+        }
+    ],
     "wof:id":1091832751,
-    "wof:lastmodified":1473983846,
+    "wof:lastmodified":1496908517,
     "wof:name":"Bankomat d Raiffeisenkasse St Andr\u00e4 regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

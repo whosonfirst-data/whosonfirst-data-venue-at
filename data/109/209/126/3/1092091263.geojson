@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9421463013,47.948261261,16.9421463013,47.948261261",
     "geom:latitude":47.948261,
     "geom:longitude":16.942146,
@@ -23,17 +24,33 @@
     "sg:postcode":"2424",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838713,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cTAiX11Jf4tnvE8nQXsl6_47.948261_16.942146@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900302,
-    "wof:geomhash":"cf436fad8f9e1655fc741af764a2949d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f65405923f187e5614ea7a66f9ada62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838713,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092091263
+        }
+    ],
     "wof:id":1092091263,
-    "wof:lastmodified":1473983504,
+    "wof:lastmodified":1496909160,
     "wof:name":"Friedrichshof Wohnungsgenossenschaft regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

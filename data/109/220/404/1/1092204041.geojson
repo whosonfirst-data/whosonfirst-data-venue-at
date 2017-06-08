@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8207759857,47.4456596375,9.8207759857,47.4456596375",
     "geom:latitude":47.44566,
     "geom:longitude":9.820776,
@@ -32,17 +33,34 @@
         "underground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837885,
+        85632785,
+        101765125,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n5frt9fFKR5jyPK5sEAZB_47.445660_9.820776@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905704,
-    "wof:geomhash":"769480c9357d6af1a0d25f44bee89250",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40f2fee4860c38025a467557c434311a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837885,
+            "locality_id":101765125,
+            "region_id":85681649,
+            "venue_id":1092204041
+        }
+    ],
     "wof:id":1092204041,
-    "wof:lastmodified":1473984245,
+    "wof:lastmodified":1496900469,
     "wof:name":"Herbert Raidel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

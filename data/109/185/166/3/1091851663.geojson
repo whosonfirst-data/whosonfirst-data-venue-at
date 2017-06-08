@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6513996124,48.3281211853,15.6513996124,48.3281211853",
     "geom:latitude":48.328121,
     "geom:longitude":15.6514,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836955,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Kn0vvAt5YnjI1dPEmzIac_48.328121_15.651400@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889789,
-    "wof:geomhash":"32900ad932a6a2c9654e7196809e055e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d587f3aa4d1d0d34469d7facb7cb1444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836955,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091851663
+        }
+    ],
     "wof:id":1091851663,
-    "wof:lastmodified":1473983589,
+    "wof:lastmodified":1496893534,
     "wof:name":"Franz Kopatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

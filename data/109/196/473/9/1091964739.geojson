@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5238571167,48.2145080566,16.5238571167,48.2145080566",
     "geom:latitude":48.214508,
     "geom:longitude":16.523857,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895026,
-    "wof:geomhash":"cc5eb0fc70a0ed3b892950c906b98786",
+    "wof:geomhash":"b0d8f09e0019cef7fcfbe743b3e13c3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091964739
         }
     ],
     "wof:id":1091964739,
-    "wof:lastmodified":1473984099,
+    "wof:lastmodified":1496903554,
     "wof:name":"M\u00fcllner Landgasthof",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

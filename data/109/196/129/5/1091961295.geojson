@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5329685211,47.8106231689,16.5329685211,47.8106231689",
     "geom:latitude":47.810623,
     "geom:longitude":16.532969,
@@ -23,17 +24,33 @@
     "sg:postcode":"7000",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cGwe0TlqFlnR8vL1py7Lc_47.810623_16.532969@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894873,
-    "wof:geomhash":"ed5d524422a9a82dcc26dd069e716e2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8600a7fd050da23c8fef42b8d42a89b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091961295
+        }
+    ],
     "wof:id":1091961295,
-    "wof:lastmodified":1473983483,
+    "wof:lastmodified":1496908827,
     "wof:name":"Reitanlage Wulkahof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

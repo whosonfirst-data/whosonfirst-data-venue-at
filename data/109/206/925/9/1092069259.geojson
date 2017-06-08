@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.9155197144,47.2606811523,11.9155197144,47.2606811523",
     "geom:latitude":47.260681,
     "geom:longitude":11.91552,
@@ -23,17 +24,33 @@
     "sg:postcode":"6274",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837849,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xCDguQrGSFuYdu1ZYMPkD_47.260681_11.915520@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899280,
-    "wof:geomhash":"6653e72d35c79bb039054b413fa9980e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5eb40624cb8115bdbd78d30692d5ddf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837849,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092069259
+        }
+    ],
     "wof:id":1092069259,
-    "wof:lastmodified":1473985067,
+    "wof:lastmodified":1496900220,
     "wof:name":"Gasthaus Talblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1607971191,46.9780464172,16.1607971191,46.9780464172",
     "geom:latitude":46.978046,
     "geom:longitude":16.160797,
@@ -33,17 +34,33 @@
         "excavator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838611,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NFWTPZJDvFgEhJYLpnFe3_46.978046_16.160797@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909174,
-    "wof:geomhash":"7fed7c7ffcd29a260e165a66322f8d55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41fc1e2025256ba9889e228bd6796be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838611,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092283277
+        }
+    ],
     "wof:id":1092283277,
-    "wof:lastmodified":1473983975,
+    "wof:lastmodified":1496908708,
     "wof:name":"BMV Deichgr\u00e4berei H. Peter Breitenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

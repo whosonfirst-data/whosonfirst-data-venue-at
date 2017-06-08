@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0895843506,47.3703765869,15.0895843506,47.3703765869",
     "geom:latitude":47.370377,
     "geom:longitude":15.089584,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898553,
-        102049769
+        102191581,
+        1108839009,
+        85632785,
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894621,
-    "wof:geomhash":"5cac2f57852e06b0339e300c60d8aeb0",
+    "wof:geomhash":"9251a085f23dc9cfe65038644b993a6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":-1,
             "neighbourhood_id":85898553,
             "region_id":85681687,
             "venue_id":1091955525
         }
     ],
     "wof:id":1091955525,
-    "wof:lastmodified":1473984730,
+    "wof:lastmodified":1496910781,
     "wof:name":"VIBORG GmbH - Servicecenter",
     "wof:parent_id":85898553,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4823703766,48.2814407349,14.4823703766,48.2814407349",
     "geom:latitude":48.281441,
     "geom:longitude":14.48237,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"ingenieurbuero-acs.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835605,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Fh2SG0egH2rNQK7YQaaXb_48.281441_14.482370@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906558,
-    "wof:geomhash":"7ef7f3fd255b673386289b8ad10428e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c79f703f44233fa1f3da436c81d31c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835605,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092223517
+        }
+    ],
     "wof:id":1092223517,
-    "wof:lastmodified":1473984146,
+    "wof:lastmodified":1496887645,
     "wof:name":"ACS Analytical Control Service GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

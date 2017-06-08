@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6879796982,46.8666038513,12.6879796982,46.8666038513",
     "geom:latitude":46.866604,
     "geom:longitude":12.68798,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837481,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S7OmL3C6Q6EwnZyBneRVs_46.866604_12.687980@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891866,
-    "wof:geomhash":"294725ad32c87cf2e8dc1108e5e2d8a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6059de35be1c2fe9e4f384074bfb40d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837481,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091895627
+        }
+    ],
     "wof:id":1091895627,
-    "wof:lastmodified":1473984619,
+    "wof:lastmodified":1496898077,
     "wof:name":"Staller Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

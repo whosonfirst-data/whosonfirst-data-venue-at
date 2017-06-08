@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2311134338,47.4435043335,12.2311134338,47.4435043335",
     "geom:latitude":47.443504,
     "geom:longitude":12.231113,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77QpMuRkmEiUG3G4HA2W1K_47.443504_12.231113@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473899957,
-    "wof:geomhash":"0662a70f2c84e7b698005ddaf9ccf624",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87ae241c5c9c3974ac90134843e63eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092084297
+        }
+    ],
     "wof:id":1092084297,
-    "wof:lastmodified":1473984222,
+    "wof:lastmodified":1496897250,
     "wof:name":"Wirtshaus am Brixenbachl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

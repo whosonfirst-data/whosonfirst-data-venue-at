@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4660272598,48.2220344543,14.4660272598,48.2220344543",
     "geom:latitude":48.222034,
     "geom:longitude":14.466027,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888460,
-    "wof:geomhash":"382da97cdbae00b56177a20ef28826e0",
+    "wof:geomhash":"080fd6687d21861d8244b20b24df9651",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091822555
         }
     ],
     "wof:id":1091822555,
-    "wof:lastmodified":1473983951,
+    "wof:lastmodified":1496887088,
     "wof:name":"Herbert B\u00f6berl Stahl- und Anlagenbau",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

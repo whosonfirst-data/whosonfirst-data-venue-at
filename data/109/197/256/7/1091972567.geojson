@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9055624008,48.1957702637,15.9055624008,48.1957702637",
     "geom:latitude":48.19577,
     "geom:longitude":15.905562,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"n.roteskreuz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834967,
+        85632785,
+        101833257,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XfA1busD2vFCBFnyA2KIw_48.195770_15.905562@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895355,
-    "wof:geomhash":"fd71c4ada0169ef7e8f82bed5cba163f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d6867bc6a62778113967efcf66dec21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834967,
+            "locality_id":101833257,
+            "region_id":85681671,
+            "venue_id":1091972567
+        }
+    ],
     "wof:id":1091972567,
-    "wof:lastmodified":1473983889,
+    "wof:lastmodified":1496883751,
     "wof:name":"Rotes Kreuz \u00d6sterr Bezirksstelle Neulengbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

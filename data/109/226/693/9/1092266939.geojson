@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0238876343,48.2244606018,14.0238876343,48.2244606018",
     "geom:latitude":48.224461,
     "geom:longitude":14.023888,
@@ -32,17 +33,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836543,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44idKR4E1Z1EuiN1gJIpCp_48.224461_14.023888@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908471,
-    "wof:geomhash":"9e98d71b1e8d88e92e38e1538c51d991",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d9dda4f0cf2794f994cf369fb72ef2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836543,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092266939
+        }
+    ],
     "wof:id":1092266939,
-    "wof:lastmodified":1473984654,
+    "wof:lastmodified":1496891557,
     "wof:name":"P & E Elektro Petermaier & Ecker OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

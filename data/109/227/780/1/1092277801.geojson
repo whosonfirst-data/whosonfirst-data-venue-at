@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0572910309,48.3185348511,16.0572910309,48.3185348511",
     "geom:latitude":48.318535,
     "geom:longitude":16.057291,
@@ -31,17 +32,34 @@
         "energy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        101833267,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sfBcIiCZv6ojxY0RQeIyN_48.318535_16.057291@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908932,
-    "wof:geomhash":"cf8b23fd54d7694f596f73dcb4473184",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f8ecf871e48a7789f63b26941cf89cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":101833267,
+            "region_id":85681671,
+            "venue_id":1092277801
+        }
+    ],
     "wof:id":1092277801,
-    "wof:lastmodified":1473985148,
+    "wof:lastmodified":1496893145,
     "wof:name":"EVN ENERGIE-VERSORGUNG NIEDER\u00d6STERREICH AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

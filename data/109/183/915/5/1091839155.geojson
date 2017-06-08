@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7001228333,48.4150924683,13.7001228333,48.4150924683",
     "geom:latitude":48.415092,
     "geom:longitude":13.700123,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"sageder.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835201,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XVfkJOf2QannErPOncSqL_48.415092_13.700123@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889234,
-    "wof:geomhash":"4da5158692af418daf522e0d657b34c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cafdc37e6a9cb3a903829c5c42ddeb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835201,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091839155
+        }
+    ],
     "wof:id":1091839155,
-    "wof:lastmodified":1473985250,
+    "wof:lastmodified":1496885426,
     "wof:name":"Josef Sageder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

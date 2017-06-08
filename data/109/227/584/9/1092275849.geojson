@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2718029022,47.2537651062,11.2718029022,47.2537651062",
     "geom:latitude":47.253765,
     "geom:longitude":11.271803,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908848,
-    "wof:geomhash":"eaa5d100e6b936eb76b3b8763c8d9259",
+    "wof:geomhash":"2d77c757f624ca6219dddad49f948078",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092275849
         }
     ],
     "wof:id":1092275849,
-    "wof:lastmodified":1473984800,
+    "wof:lastmodified":1496898649,
     "wof:name":"Elektro-Kommunikationstechnik Thaler GmbH",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

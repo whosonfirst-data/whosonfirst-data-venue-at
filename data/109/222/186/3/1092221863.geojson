@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8652496338,47.1570243835,11.8652496338,47.1570243835",
     "geom:latitude":47.157024,
     "geom:longitude":11.86525,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wlUbVpFQQqeB42059inqZ_47.157024_11.865250@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906475,
-    "wof:geomhash":"e5c6639174c4031b6171b1c0709727d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9567168cc3eb47a14e27a8f439257e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092221863
+        }
+    ],
     "wof:id":1092221863,
-    "wof:lastmodified":1473983780,
+    "wof:lastmodified":1496900404,
     "wof:name":"Reini's Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

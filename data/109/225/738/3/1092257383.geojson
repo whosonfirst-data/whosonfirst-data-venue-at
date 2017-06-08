@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4727210999,48.2048797607,14.4727210999,48.2048797607",
     "geom:latitude":48.20488,
     "geom:longitude":14.472721,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908035,
-    "wof:geomhash":"9829f70dfad11980135f1b8db7f47098",
+    "wof:geomhash":"09646995faf32640377d67bddb803322",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092257383
         }
     ],
     "wof:id":1092257383,
-    "wof:lastmodified":1473985022,
+    "wof:lastmodified":1496887078,
     "wof:name":"Lukas Matthias Transporte GesmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

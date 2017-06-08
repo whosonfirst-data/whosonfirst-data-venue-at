@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3300876617,48.1422996521,16.3300876617,48.1422996521",
     "geom:latitude":48.1423,
     "geom:longitude":16.330088,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910588,
-    "wof:geomhash":"6bff24726545b1d9a6e98a28b9bd2ef1",
+    "wof:geomhash":"fe7228092b59721a86e104e9a0d77e83",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092315077
         }
     ],
     "wof:id":1092315077,
-    "wof:lastmodified":1473984626,
+    "wof:lastmodified":1496903860,
     "wof:name":"Kopecky Harald K Neu- u Gebrauchtwagen",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

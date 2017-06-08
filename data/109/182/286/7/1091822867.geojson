@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4763832092,48.2165145874,14.4763832092,48.2165145874",
     "geom:latitude":48.216515,
     "geom:longitude":14.476383,
@@ -34,10 +35,12 @@
     "sg:website":"cemtec.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888473,
-    "wof:geomhash":"58c2bdf1d0526c50784d6e35bc73d242",
+    "wof:geomhash":"707142b9d392a034eeead22ab892da13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091822867
         }
     ],
     "wof:id":1091822867,
-    "wof:lastmodified":1473984045,
+    "wof:lastmodified":1496887081,
     "wof:name":"CEMTEC Cement and Mining Technology GmbH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

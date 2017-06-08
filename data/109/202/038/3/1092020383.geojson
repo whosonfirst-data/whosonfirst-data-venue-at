@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8579101562,47.9923286438,16.8579101562,47.9923286438",
     "geom:latitude":47.992329,
     "geom:longitude":16.85791,
@@ -23,17 +24,34 @@
     "sg:postcode":"7111",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838627,
+        85632785,
+        101785755,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lHORPGU6RHKkqCAawdl7r_47.992329_16.857910@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897358,
-    "wof:geomhash":"3625fd6b4bdc9732accc682650955c7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"181b09d284c4634bf1d2e9360c0b0be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838627,
+            "locality_id":101785755,
+            "region_id":85681651,
+            "venue_id":1092020383
+        }
+    ],
     "wof:id":1092020383,
-    "wof:lastmodified":1473983392,
+    "wof:lastmodified":1496908910,
     "wof:name":"Gendarmerieposten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

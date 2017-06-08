@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3969364166,47.2575874329,11.3969364166,47.2575874329",
     "geom:latitude":47.257587,
     "geom:longitude":11.396936,
@@ -25,10 +26,13 @@
     "sg:website":"www.degudent.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896849,
-    "wof:geomhash":"5c4d89c442f529433712ae7f7a071f49",
+    "wof:geomhash":"c18cfb7004718a0e7024cfe407c5b037",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092007615
         }
     ],
     "wof:id":1092007615,
-    "wof:lastmodified":1473984768,
+    "wof:lastmodified":1496899538,
     "wof:name":"DeguDent Austria Handels GmbH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

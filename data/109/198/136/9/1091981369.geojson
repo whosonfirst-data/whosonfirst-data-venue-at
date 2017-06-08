@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8411998749,46.5883903503,13.8411998749,46.5883903503",
     "geom:latitude":46.58839,
     "geom:longitude":13.8412,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895753,
-    "wof:geomhash":"6caf0d6c8a9ab1e51ce139ac4f875e4b",
+    "wof:geomhash":"918c638615de1d589ec153f071fbfa0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091981369
         }
     ],
     "wof:id":1091981369,
-    "wof:lastmodified":1473983331,
+    "wof:lastmodified":1496906062,
     "wof:name":"RUDOLF W. FREY AUTOHANDEL GMBH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

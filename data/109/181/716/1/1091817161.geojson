@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4144134521,48.0999565125,16.4144134521,48.0999565125",
     "geom:latitude":48.099957,
     "geom:longitude":16.414413,
@@ -34,10 +35,12 @@
     "sg:website":"part-personal.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888225,
-    "wof:geomhash":"eb77cebbdcc6cb8d822d3116ba28ddaf",
+    "wof:geomhash":"090bdb6f81f7bb20fd04caf276017341",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1091817161
         }
     ],
     "wof:id":1091817161,
-    "wof:lastmodified":1473984915,
+    "wof:lastmodified":1496886819,
     "wof:name":"part personal leasing GmbH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

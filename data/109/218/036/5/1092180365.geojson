@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4121732712,48.3504486084,14.4121732712,48.3504486084",
     "geom:latitude":48.350449,
     "geom:longitude":14.412173,
@@ -23,17 +24,34 @@
     "sg:postcode":"4210",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836149,
+        85632785,
+        101784613,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t3Wdt7l94EUEzKOVvTbEw_48.350449_14.412173@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904588,
-    "wof:geomhash":"3b4d4ca0d0a4382eaf001dcf5d07cce2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dcd1b62251314fa1bf5c88322b6675e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836149,
+            "locality_id":101784613,
+            "region_id":85681677,
+            "venue_id":1092180365
+        }
+    ],
     "wof:id":1092180365,
-    "wof:lastmodified":1473983435,
+    "wof:lastmodified":1496889811,
     "wof:name":"SPAR \u00d6sterreichische Warenhandels-AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.412525177,47.5409889221,13.412525177,47.5409889221",
     "geom:latitude":47.540989,
     "geom:longitude":13.412525,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837081,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HjSZThrIzFPkKjvGALH3q_47.540989_13.412525@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911558,
-    "wof:geomhash":"d980f7270e53bcdc4b35d127c31b5602",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eeb29e70adbc1238e3117f29b07fee54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837081,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092338297
+        }
+    ],
     "wof:id":1092338297,
-    "wof:lastmodified":1473985244,
+    "wof:lastmodified":1496894840,
     "wof:name":"SCHNITZHOFER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

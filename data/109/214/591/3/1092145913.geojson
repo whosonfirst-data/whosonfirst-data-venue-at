@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7518491745,47.4656600952,9.7518491745,47.4656600952",
     "geom:latitude":47.46566,
     "geom:longitude":9.751849,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903016,
-    "wof:geomhash":"a6eb1b591d07511b664530df223db0c8",
+    "wof:geomhash":"cc1e657e5a9d15457fedff7cf3ea2535",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092145913
         }
     ],
     "wof:id":1092145913,
-    "wof:lastmodified":1473984530,
+    "wof:lastmodified":1496901903,
     "wof:name":"Zimmermann Heinz",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

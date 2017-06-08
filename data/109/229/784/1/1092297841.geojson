@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4762630463,47.535446167,16.4762630463,47.535446167",
     "geom:latitude":47.535446,
     "geom:longitude":16.476263,
@@ -23,17 +24,33 @@
     "sg:postcode":"7344",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838445,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NFu5iAxQvfmq8RhkRzANb_47.535446_16.476263@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909786,
-    "wof:geomhash":"cc637f61009abe54b8898ef2d3898e7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2dd72ed93b1dc5732d3edbc2f31b50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838445,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092297841
+        }
+    ],
     "wof:id":1092297841,
-    "wof:lastmodified":1473985089,
+    "wof:lastmodified":1496907935,
     "wof:name":"Schr\u00f6dl Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

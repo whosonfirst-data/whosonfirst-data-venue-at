@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1706438065,47.4641723633,12.1706438065,47.4641723633",
     "geom:latitude":47.464172,
     "geom:longitude":12.170644,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34o6FocybJF9LAJ02tpV8L_47.464172_12.170644@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473914973,
-    "wof:geomhash":"1e858d96f683f2c301617e66484b289d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec1fbc92bc17dfe794a7551d1fd0a92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092411781
+        }
+    ],
     "wof:id":1092411781,
-    "wof:lastmodified":1473983699,
+    "wof:lastmodified":1496897011,
     "wof:name":"Sieberer Balthasar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

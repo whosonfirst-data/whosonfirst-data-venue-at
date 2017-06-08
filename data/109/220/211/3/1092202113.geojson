@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8534183502,47.1293563843,9.8534183502,47.1293563843",
     "geom:latitude":47.129356,
     "geom:longitude":9.853418,
@@ -32,17 +33,33 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837997,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_450AmkW2HEuZqbvyvhpCnu_47.129356_9.853418@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905580,
-    "wof:geomhash":"254988aa66c764bb139daa334f0f1912",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eab8bdb37d91a29084e8f546eda91016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837997,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092202113
+        }
+    ],
     "wof:id":1092202113,
-    "wof:lastmodified":1473983838,
+    "wof:lastmodified":1496901348,
     "wof:name":"SIKA-PLASTIMENT GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

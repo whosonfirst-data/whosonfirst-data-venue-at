@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6462488174,47.3479232788,9.6462488174,47.3479232788",
     "geom:latitude":47.347923,
     "geom:longitude":9.646249,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"www.finkzeit.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_062ZZPCO88JbABlAi4jeZd_47.347923_9.646249@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893732,
-    "wof:geomhash":"93ecc9203021f1de47023ce0dfcfe9ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b659399409267564735eb43e8e3d0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1091935255
+        }
+    ],
     "wof:id":1091935255,
-    "wof:lastmodified":1473984395,
+    "wof:lastmodified":1496900505,
     "wof:name":"Fink Zeitsysteme GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

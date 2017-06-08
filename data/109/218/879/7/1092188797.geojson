@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6375713348,48.0220947266,16.6375713348,48.0220947266",
     "geom:latitude":48.022095,
     "geom:longitude":16.637571,
@@ -32,17 +33,33 @@
         "adventure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836741,
+        85632785,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60dXDaynirk3kkABmkrVYg_48.022095_16.637571@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473904972,
-    "wof:geomhash":"07bae6a5d6229ade567592ce59305b4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c9d1d6b532500ef0fd8936f35d7be34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836741,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092188797
+        }
+    ],
     "wof:id":1092188797,
-    "wof:lastmodified":1473985052,
+    "wof:lastmodified":1496892562,
     "wof:name":"Paintball Dream Fields",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

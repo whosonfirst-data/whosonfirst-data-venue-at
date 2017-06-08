@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9915399551,47.2204704285,12.9915399551,47.2204704285",
     "geom:latitude":47.22047,
     "geom:longitude":12.99154,
@@ -31,17 +32,34 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837229,
+        85632785,
+        101789133,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mWpGE8IUGZ83iNsLTJcKG_47.220470_12.991540@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891188,
-    "wof:geomhash":"b527fce1002b370d9b5bfd4c4f4ec81a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e23e829994190621fc50ea7900ecfb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837229,
+            "locality_id":101789133,
+            "region_id":85681681,
+            "venue_id":1091881195
+        }
+    ],
     "wof:id":1091881195,
-    "wof:lastmodified":1473983639,
+    "wof:lastmodified":1496896166,
     "wof:name":"Kaiserer Bau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

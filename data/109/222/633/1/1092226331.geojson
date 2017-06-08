@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5101490021,47.1223983765,15.5101490021,47.1223983765",
     "geom:latitude":47.122398,
     "geom:longitude":15.510149,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906670,
-    "wof:geomhash":"3971593ca2480c61b0b9053e9f8ba913",
+    "wof:geomhash":"0b2acca901762ac7857f157b2e34b8b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092226331
         }
     ],
     "wof:id":1092226331,
-    "wof:lastmodified":1473984850,
+    "wof:lastmodified":1496913521,
     "wof:name":"IAP Industrieanlagen - PlanungsgesmbH",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

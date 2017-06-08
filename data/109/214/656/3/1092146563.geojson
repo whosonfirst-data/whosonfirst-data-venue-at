@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3046941757,48.9503440857,15.3046941757,48.9503440857",
     "geom:latitude":48.950344,
     "geom:longitude":15.304694,
@@ -23,17 +24,33 @@
     "sg:postcode":"3844",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836229,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0USKPeQxy8UFrM9UJhnyno_48.950344_15.304694@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473903051,
-    "wof:geomhash":"2fb50bfb325b974d9968c9e08abf8fc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"550ab8bba8c78982f8480b10d9879835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836229,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092146563
+        }
+    ],
     "wof:id":1092146563,
-    "wof:lastmodified":1473984638,
+    "wof:lastmodified":1496890101,
     "wof:name":"EDV-Services Hammerschmid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

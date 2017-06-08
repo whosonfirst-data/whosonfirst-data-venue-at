@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8175401688,47.2847557068,12.8175401688,47.2847557068",
     "geom:latitude":47.284756,
     "geom:longitude":12.81754,
@@ -28,17 +29,33 @@
     "sg:postcode":"5671",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N5Luzxh1pwXA8I5K0VL4M_47.284756_12.817540@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898339,
-    "wof:geomhash":"b1540560f824605e42590e30301a6ce4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f92ac837c6831fc147dd92c3dd2221c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092045579
+        }
+    ],
     "wof:id":1092045579,
-    "wof:lastmodified":1473983803,
+    "wof:lastmodified":1496895885,
     "wof:name":"Hotel Alpenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

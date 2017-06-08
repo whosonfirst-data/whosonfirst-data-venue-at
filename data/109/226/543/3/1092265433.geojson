@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6881408691,46.7136497498,13.6881408691,46.7136497498",
     "geom:latitude":46.71365,
     "geom:longitude":13.688141,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838341,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wEz8CbbOxnpbufT3jXlj0_46.713650_13.688141@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908402,
-    "wof:geomhash":"0b44cd120a8418a7dac5ab9bfe8ac365",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28857069267ad3674de5a91398b20e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838341,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265433
+        }
+    ],
     "wof:id":1092265433,
-    "wof:lastmodified":1473984474,
+    "wof:lastmodified":1496907413,
     "wof:name":"Elektrotechnik Gerber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

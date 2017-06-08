@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3500528336,47.5612564087,13.3500528336,47.5612564087",
     "geom:latitude":47.561256,
     "geom:longitude":13.350053,
@@ -23,17 +24,33 @@
     "sg:postcode":"5441",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837081,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4c5lrPjwKu26sfn3bPm6Nh_47.561256_13.350053@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913246,
-    "wof:geomhash":"7b6748930ba97f7e15d7fddd4cfcd898",
-    "wof:hierarchy":[],
+    "wof:geomhash":"211875baf5c864cadd89400ae9e623ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837081,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092375235
+        }
+    ],
     "wof:id":1092375235,
-    "wof:lastmodified":1473984509,
+    "wof:lastmodified":1496894881,
     "wof:name":"Voggenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

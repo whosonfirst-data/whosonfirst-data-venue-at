@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.360616684,47.8798561096,16.360616684,47.8798561096",
     "geom:latitude":47.879856,
     "geom:longitude":16.360617,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"fischer-horvath.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835359,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ENbXvTfz8hqgyvwc1fIfC_47.879856_16.360617@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896566,
-    "wof:geomhash":"32a2ad0194fe4818e0a01a5f526ec0ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dd8b0d3bfd07cdc74714a23a4af6981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835359,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092000965
+        }
+    ],
     "wof:id":1092000965,
-    "wof:lastmodified":1473983541,
+    "wof:lastmodified":1496886246,
     "wof:name":"Fischer-Horvath OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.491645813,48.2264633179,16.491645813,48.2264633179",
     "geom:latitude":48.226463,
     "geom:longitude":16.491646,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895065,
-    "wof:geomhash":"e54644ffe581a68fc16e729fb13647db",
+    "wof:geomhash":"da88cdef01e37f0ca87a888891e8d6a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1091965753
         }
     ],
     "wof:id":1091965753,
-    "wof:lastmodified":1473984191,
+    "wof:lastmodified":1496929419,
     "wof:name":"Restaurant Hopfengartl",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8955669403,47.384021759,10.8955669403,47.384021759",
     "geom:latitude":47.384022,
     "geom:longitude":10.895567,
@@ -31,17 +32,33 @@
         "bedroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837801,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QAr07newKuR7Rz9sbf6JE_47.384022_10.895567@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889796,
-    "wof:geomhash":"8681f3f241f138951fa2d03bc12726d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b99a68921609b46be7410b525b3e04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837801,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091851829
+        }
+    ],
     "wof:id":1091851829,
-    "wof:lastmodified":1473983647,
+    "wof:lastmodified":1496900002,
     "wof:name":"Josef Luttinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

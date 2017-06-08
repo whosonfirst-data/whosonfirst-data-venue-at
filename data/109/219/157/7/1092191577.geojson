@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4450492859,48.0414390564,14.4450492859,48.0414390564",
     "geom:latitude":48.041439,
     "geom:longitude":14.445049,
@@ -32,17 +33,34 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21MzOo0jKomqHNnXGMNgOO_48.041439_14.445049@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905092,
-    "wof:geomhash":"393dd8a82ada2df380187531b272faeb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f81288efc41f5ef1ca254f31dffba8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1092191577
+        }
+    ],
     "wof:id":1092191577,
-    "wof:lastmodified":1473983714,
+    "wof:lastmodified":1496881769,
     "wof:name":"Friedrich Jarosch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2730417252,48.3102493286,14.2730417252,48.3102493286",
     "geom:latitude":48.310249,
     "geom:longitude":14.273042,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898453,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892670,
-    "wof:geomhash":"cee0aac635989874198b0e4e1783284c",
+    "wof:geomhash":"a9e08769af7cf8e74db48701d9613b8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898453,
             "region_id":85681677,
             "venue_id":1091912677
         }
     ],
     "wof:id":1091912677,
-    "wof:lastmodified":1473983595,
+    "wof:lastmodified":1496881434,
     "wof:name":"BOI Beratungsunternehmen f Operations Research u Informationsverarbeitung GesmbH",
     "wof:parent_id":85898453,
     "wof:placetype":"venue",

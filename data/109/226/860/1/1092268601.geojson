@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1641521454,47.0228652954,15.1641521454,47.0228652954",
     "geom:latitude":47.022865,
     "geom:longitude":15.164152,
@@ -23,17 +24,33 @@
     "sg:postcode":"8570",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839361,
+        85632785,
+        102049717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D635Or3yF49d6V96ZLyUG_47.022865_15.164152@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908539,
-    "wof:geomhash":"63c714f2c34bbd45072a42cdbb07bf40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49953ba0477d877e548d01ee6b238bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108839361,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092268601
+        }
+    ],
     "wof:id":1092268601,
-    "wof:lastmodified":1473984946,
+    "wof:lastmodified":1496913766,
     "wof:name":"VERBUND-Austrian Hydro Power AG - Kraftwerk Arnstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7424907684,47.4125709534,9.7424907684,47.4125709534",
     "geom:latitude":47.412571,
     "geom:longitude":9.742491,
@@ -33,10 +34,12 @@
     "sg:website":"huberplan.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909367,
-    "wof:geomhash":"ae0fea75c921d2bf6d1cc6a64131aa41",
+    "wof:geomhash":"2beb4bce3ced4b681cf20b884f87ec2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092288109
         }
     ],
     "wof:id":1092288109,
-    "wof:lastmodified":1473985030,
+    "wof:lastmodified":1496900742,
     "wof:name":"Huber Planungsges.m.b.H.",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4944171906,47.4729919434,16.4944171906,47.4729919434",
     "geom:latitude":47.472992,
     "geom:longitude":16.494417,
@@ -23,17 +24,33 @@
     "sg:postcode":"7453",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838449,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MsQKTWvH8Cui11CPUuD99_47.472992_16.494417@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473894048,
-    "wof:geomhash":"0fcce46fb09a9cdf37bb4cb62204db62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f094a7cec20f22b5a46bdcf1f6e6abc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838449,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091942489
+        }
+    ],
     "wof:id":1091942489,
-    "wof:lastmodified":1473983853,
+    "wof:lastmodified":1496907975,
     "wof:name":"Glatz Stefan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1255187988,48.0214424133,14.1255187988,48.0214424133",
     "geom:latitude":48.021442,
     "geom:longitude":14.125519,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835257,
+        85632785,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rtioHLXBdaJEAsHODZ2SP_48.021442_14.125519@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895399,
-    "wof:geomhash":"90689334fc037572072b9fb9c0fd7aaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ec74c574743f1fb42e57b4d601a7860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835257,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091973725
+        }
+    ],
     "wof:id":1091973725,
-    "wof:lastmodified":1473984163,
+    "wof:lastmodified":1496885661,
     "wof:name":"HUMENBERGER-RIESENHUBER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

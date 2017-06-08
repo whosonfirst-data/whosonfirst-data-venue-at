@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9959039688,47.2319374084,12.9959039688,47.2319374084",
     "geom:latitude":47.231937,
     "geom:longitude":12.995904,
@@ -23,17 +24,34 @@
     "sg:postcode":"5661",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837229,
+        85632785,
+        101789133,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kOCDEsvPZHF3Qu544keXi_47.231937_12.995904@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895342,
-    "wof:geomhash":"3211095da04a397eccfd60145594c560",
-    "wof:hierarchy":[],
+    "wof:geomhash":"301bc11fc3388bb5a44eb12af8213acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837229,
+            "locality_id":101789133,
+            "region_id":85681681,
+            "venue_id":1091972215
+        }
+    ],
     "wof:id":1091972215,
-    "wof:lastmodified":1473983797,
+    "wof:lastmodified":1496896164,
     "wof:name":"Bergrettung Rauris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

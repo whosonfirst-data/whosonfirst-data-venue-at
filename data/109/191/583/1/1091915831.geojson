@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0740814209,48.1694488525,16.0740814209,48.1694488525",
     "geom:latitude":48.169449,
     "geom:longitude":16.074081,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836179,
+        85632785,
+        101833253,
+        102049867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h5ZOkcCLhSjKPNw69iL3y_48.169449_16.074081@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892822,
-    "wof:geomhash":"e74e35c4d2c4b150e78410f570dd467a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba2ae851ffbff2b5b15b443af2e9df26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108836179,
+            "locality_id":101833253,
+            "region_id":85681671,
+            "venue_id":1091915831
+        }
+    ],
     "wof:id":1091915831,
-    "wof:lastmodified":1473984096,
+    "wof:lastmodified":1496889907,
     "wof:name":"Systemhaus Ing G\u00fcnter Predl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

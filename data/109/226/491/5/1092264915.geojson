@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6015615463,47.3306007385,9.6015615463,47.3306007385",
     "geom:latitude":47.330601,
     "geom:longitude":9.601562,
@@ -32,17 +33,34 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837977,
+        85632785,
+        101827455,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ft91dlnOMGkXlNCotxnEK_47.330601_9.601562@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908381,
-    "wof:geomhash":"dcadb8c8fbb7d09dc92aada72e3675b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"406aa9625a4f2d325c4715bbe7b381b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837977,
+            "locality_id":101827455,
+            "region_id":85681649,
+            "venue_id":1092264915
+        }
+    ],
     "wof:id":1092264915,
-    "wof:lastmodified":1473984393,
+    "wof:lastmodified":1496901217,
     "wof:name":"ELEKTRO-MADLENER GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

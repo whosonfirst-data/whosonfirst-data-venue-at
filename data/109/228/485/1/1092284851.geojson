@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8125486374,48.2086982727,13.8125486374,48.2086982727",
     "geom:latitude":48.208698,
     "geom:longitude":13.812549,
@@ -32,17 +33,34 @@
         "cable-tv"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        101784571,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ih1vZFAZkxpuPk7cMnoJ8_48.208698_13.812549@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909244,
-    "wof:geomhash":"832c37b7679de4f042f66f6ca20687cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"778d7d4c07117bec2fac5b2600dbc3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":101784571,
+            "region_id":85681677,
+            "venue_id":1092284851
+        }
+    ],
     "wof:id":1092284851,
-    "wof:lastmodified":1473984303,
+    "wof:lastmodified":1496885281,
     "wof:name":"Ing. Friedrich Magauer KABEL-TV-ANLAGEN GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

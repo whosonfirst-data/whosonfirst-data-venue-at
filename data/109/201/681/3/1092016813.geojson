@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2799940109,47.994468689,13.2799940109,47.994468689",
     "geom:latitude":47.994469,
     "geom:longitude":13.279994,
@@ -23,17 +24,33 @@
     "sg:postcode":"5204",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837183,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZYchWvweHcJAWhDXP6HKA_47.994469_13.279994@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897223,
-    "wof:geomhash":"b54ecc5602c28d34a966f157d70bfd4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edcbf07a774f15882443460db848fdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837183,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092016813
+        }
+    ],
     "wof:id":1092016813,
-    "wof:lastmodified":1473984219,
+    "wof:lastmodified":1496895679,
     "wof:name":"Kranzinger Franz GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

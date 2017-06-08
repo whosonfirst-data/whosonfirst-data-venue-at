@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1429328918,48.0587158203,15.1429328918,48.0587158203",
     "geom:latitude":48.058716,
     "geom:longitude":15.142933,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835333,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LW5ma8xGiBzCLSZ3dHxpH_48.058716_15.142933@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889498,
-    "wof:geomhash":"97d81627d9f141b1eb67c0929d9b0692",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdfe89cf3fc244ace1b953e134b3b00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835333,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091845569
+        }
+    ],
     "wof:id":1091845569,
-    "wof:lastmodified":1473984319,
+    "wof:lastmodified":1496886145,
     "wof:name":"\u00dcbellacker Baustoffhandel GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4875869751,47.0912475586,15.4875869751,47.0912475586",
     "geom:latitude":47.091248,
     "geom:longitude":15.487587,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902842,
-    "wof:geomhash":"af23897f72e935a30f8b63a1209de459",
+    "wof:geomhash":"2ae834f9c1699d3314fb0c092303ac2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092142103
         }
     ],
     "wof:id":1092142103,
-    "wof:lastmodified":1473983752,
+    "wof:lastmodified":1496913137,
     "wof:name":"Flotzinger Benno",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

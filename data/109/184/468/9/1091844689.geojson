@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3466472626,47.1800498962,16.3466472626,47.1800498962",
     "geom:latitude":47.18005,
     "geom:longitude":16.346647,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838759,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GPtJPgh219gcIl8EIsJrv_47.180050_16.346647@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889462,
-    "wof:geomhash":"cb55bb3fa69473eb6a2cdfc25ec42a3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"090d7915d12839c3c6c5c166c47ac8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838759,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091844689
+        }
+    ],
     "wof:id":1091844689,
-    "wof:lastmodified":1473984198,
+    "wof:lastmodified":1496909235,
     "wof:name":"Guttmann & Co GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

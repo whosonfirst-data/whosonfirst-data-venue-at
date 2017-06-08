@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7683372498,48.6377105713,14.7683372498,48.6377105713",
     "geom:latitude":48.637711,
     "geom:longitude":14.768337,
@@ -33,17 +34,33 @@
         "glass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108836723,
+        85633105,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65mVWgOgmMoqSaYOD7V8yK_48.637711_14.768337@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900657,
-    "wof:geomhash":"294b8695a295028bf8fc17f5b3daeaea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d66b44047f62140cb3d7edf4f8b431d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108836723,
+            "locality_id":-1,
+            "region_id":85682415,
+            "venue_id":1092096919
+        }
+    ],
     "wof:id":1092096919,
-    "wof:lastmodified":1473984537,
+    "wof:lastmodified":1496892502,
     "wof:name":"Walter Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

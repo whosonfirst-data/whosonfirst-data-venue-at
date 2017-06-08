@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3273105621,47.0587234497,16.3273105621,47.0587234497",
     "geom:latitude":47.058723,
     "geom:longitude":16.327311,
@@ -31,17 +32,34 @@
         "agriculture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838483,
+        85632785,
+        101789059,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cu4APq5TZntEZTuAA2Aa3_47.058723_16.327311@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905077,
-    "wof:geomhash":"efe1e30266b5effdf8deda41e6e82219",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39ed92fe7fdd22af229ef8343ebffec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838483,
+            "locality_id":101789059,
+            "region_id":85681651,
+            "venue_id":1092191187
+        }
+    ],
     "wof:id":1092191187,
-    "wof:lastmodified":1473983546,
+    "wof:lastmodified":1496908124,
     "wof:name":"DR KARL DRASKOVICH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

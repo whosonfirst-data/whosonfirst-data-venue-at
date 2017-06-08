@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.243812561,48.0897216797,16.243812561,48.0897216797",
     "geom:latitude":48.089722,
     "geom:longitude":16.243813,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897860,
-    "wof:geomhash":"f8a023861e4b777c764d1d0a0d269012",
+    "wof:geomhash":"044b11d3811f72def6c43c3a250ef924",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092033381
         }
     ],
     "wof:id":1092033381,
-    "wof:lastmodified":1473983998,
+    "wof:lastmodified":1496891997,
     "wof:name":"Trade Company",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

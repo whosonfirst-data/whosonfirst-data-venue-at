@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8272819519,47.4488182068,9.8272819519,47.4488182068",
     "geom:latitude":47.448818,
     "geom:longitude":9.827282,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837885,
+        85632785,
+        101765125,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IHlftzDbtoUK1QXtqf35X_47.448818_9.827282@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892814,
-    "wof:geomhash":"27914fe50cd7f733c7a87e6f10e4bda3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"924529ddb6dd67aaece72a4a39a5cd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837885,
+            "locality_id":101765125,
+            "region_id":85681649,
+            "venue_id":1091915611
+        }
+    ],
     "wof:id":1091915611,
-    "wof:lastmodified":1473984036,
+    "wof:lastmodified":1496900471,
     "wof:name":"Software u Schulung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

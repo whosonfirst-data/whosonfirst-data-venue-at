@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2982177734,47.234992981,11.2982177734,47.234992981",
     "geom:latitude":47.234993,
     "geom:longitude":11.298218,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909657,
-    "wof:geomhash":"1e322d11fe3df81f0d05d1a96a075e48",
+    "wof:geomhash":"e399e85164499798e758b236d2f36c0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092295069
         }
     ],
     "wof:id":1092295069,
-    "wof:lastmodified":1473984491,
+    "wof:lastmodified":1496898044,
     "wof:name":"Hatzl Jane",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

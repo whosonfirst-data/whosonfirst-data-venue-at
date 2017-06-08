@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3769836426,47.8621711731,16.3769836426,47.8621711731",
     "geom:latitude":47.862171,
     "geom:longitude":16.376984,
@@ -31,17 +32,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838577,
+        85632785,
+        101785631,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KmpYSAI9fVxwuNbFSnfiW_47.862171_16.376984@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898807,
-    "wof:geomhash":"914bc0317d7b87fe7f15e23fde3e44b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c3f35c2fc1211a585a2174f987cbace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838577,
+            "locality_id":101785631,
+            "region_id":85681651,
+            "venue_id":1092057505
+        }
+    ],
     "wof:id":1092057505,
-    "wof:lastmodified":1473984593,
+    "wof:lastmodified":1496908551,
     "wof:name":"Mag. Roman Fuchs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

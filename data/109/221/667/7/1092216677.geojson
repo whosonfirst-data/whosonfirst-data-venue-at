@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7889547348,47.2997589111,12.7889547348,47.2997589111",
     "geom:latitude":47.299759,
     "geom:longitude":12.788955,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64ilDJ2rd68Qa5HEo0robh_47.299759_12.788955@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906265,
-    "wof:geomhash":"023ca49aa9193dbe419707ad63557373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f02ec604cb638bae5c881c51f78d9105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092216677
+        }
+    ],
     "wof:id":1092216677,
-    "wof:lastmodified":1473984757,
+    "wof:lastmodified":1496896455,
     "wof:name":"OMV AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

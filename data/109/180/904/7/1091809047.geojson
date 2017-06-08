@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6028470993,47.2669830322,9.6028470993,47.2669830322",
     "geom:latitude":47.266983,
     "geom:longitude":9.602847,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887871,
-    "wof:geomhash":"bdd1fd7be9124d718deb1bd6f8d9814d",
+    "wof:geomhash":"eec069c1126837918bee8d8af6fb1b60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091809047
         }
     ],
     "wof:id":1091809047,
-    "wof:lastmodified":1473984439,
+    "wof:lastmodified":1496900955,
     "wof:name":"Oksakowski + Partner ZiviltechnikergesmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

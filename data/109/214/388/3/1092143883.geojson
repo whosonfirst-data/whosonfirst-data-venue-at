@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4090709686,47.2842330933,11.4090709686,47.2842330933",
     "geom:latitude":47.284233,
     "geom:longitude":11.409071,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902928,
-    "wof:geomhash":"ac7afa29563a3488e24bf41266b67497",
+    "wof:geomhash":"e7313fc7221c3b5012112025a01ec909",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092143883
         }
     ],
     "wof:id":1092143883,
-    "wof:lastmodified":1473984139,
+    "wof:lastmodified":1496899218,
     "wof:name":"Sala Terrena",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

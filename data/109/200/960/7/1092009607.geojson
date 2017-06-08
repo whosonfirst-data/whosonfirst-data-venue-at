@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0717382431,47.7761306763,13.0717382431,47.7761306763",
     "geom:latitude":47.776131,
     "geom:longitude":13.071738,
@@ -23,10 +24,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896929,
-    "wof:geomhash":"39823b1c31300d3b0f90e767137446d2",
+    "wof:geomhash":"0c7b6748d057e504b44b7a8e021c91a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092009607
         }
     ],
     "wof:id":1092009607,
-    "wof:lastmodified":1473985055,
+    "wof:lastmodified":1496894518,
     "wof:name":"Bohn Handels GmbH",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8888349533,47.2134246826,10.8888349533,47.2134246826",
     "geom:latitude":47.213425,
     "geom:longitude":10.888835,
@@ -23,17 +24,33 @@
     "sg:postcode":"6433",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837435,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76eNgSey9P7Ot6gemgUeI0_47.213425_10.888835@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909798,
-    "wof:geomhash":"744f7680a2c1da1a63c919e679d37d1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"621c416ed0fff78a3008f075726232a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837435,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092298141
+        }
+    ],
     "wof:id":1092298141,
-    "wof:lastmodified":1473985123,
+    "wof:lastmodified":1496897836,
     "wof:name":"Sterner Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

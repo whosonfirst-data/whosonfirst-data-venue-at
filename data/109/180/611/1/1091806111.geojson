@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4315462112,47.9835281372,13.4315462112,47.9835281372",
     "geom:latitude":47.983528,
     "geom:longitude":13.431546,
@@ -23,17 +24,34 @@
     "sg:postcode":"4890",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836439,
+        85632785,
+        101785663,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zkOqBzN6gJO2PVOsGw5Ds_47.983528_13.431546@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473887711,
-    "wof:geomhash":"b6c6f05ed4a2efb7b9a9750ea0cdb6dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc0a75c8f685682bcbc7be62da6cafe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836439,
+            "locality_id":101785663,
+            "region_id":85681677,
+            "venue_id":1091806111
+        }
+    ],
     "wof:id":1091806111,
-    "wof:lastmodified":1473983615,
+    "wof:lastmodified":1496891062,
     "wof:name":"Brauerei Br\u00e4u am Berg Starzinger KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

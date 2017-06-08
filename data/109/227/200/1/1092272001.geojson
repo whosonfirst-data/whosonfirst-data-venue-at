@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4962100983,48.2540130615,16.4962100983,48.2540130615",
     "geom:latitude":48.254013,
     "geom:longitude":16.49621,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908683,
-    "wof:geomhash":"3e2ecfcb36f55c381303654fe7eadf25",
+    "wof:geomhash":"4302ff52e0ec4f29017b8cf7e5c0cba3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1092272001
         }
     ],
     "wof:id":1092272001,
-    "wof:lastmodified":1473983880,
+    "wof:lastmodified":1496902197,
     "wof:name":"ELEKTRO-KAINZ - Josef Kainz",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

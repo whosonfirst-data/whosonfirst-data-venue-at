@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5908041,47.2362251282,9.5908041,47.2362251282",
     "geom:latitude":47.236225,
     "geom:longitude":9.590804,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905294,
-    "wof:geomhash":"d0fe18f6f72909cf3f29ee3ec0740d64",
+    "wof:geomhash":"5815df5fde4ff06f93c7ffabe6342108",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092196263
         }
     ],
     "wof:id":1092196263,
-    "wof:lastmodified":1473984709,
+    "wof:lastmodified":1496900919,
     "wof:name":"Jakob Schnell Ges.m.b.H. & Co KG",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

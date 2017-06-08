@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.033000946,47.7025489807,16.033000946,47.7025489807",
     "geom:latitude":47.702549,
     "geom:longitude":16.033001,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        101833089,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cSHHA1RVbe4JsbgH0EJtP_47.702549_16.033001@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913649,
-    "wof:geomhash":"f358c15e065378c45b193def8e3aa46b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33f918f38acc7090a6d31c2a34375f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":101833089,
+            "region_id":85681671,
+            "venue_id":1092384257
+        }
+    ],
     "wof:id":1092384257,
-    "wof:lastmodified":1473984295,
+    "wof:lastmodified":1496885925,
     "wof:name":"Pizzeria Verona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

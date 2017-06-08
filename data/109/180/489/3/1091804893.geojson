@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6881189346,47.3653793335,9.6881189346,47.3653793335",
     "geom:latitude":47.365379,
     "geom:longitude":9.688119,
@@ -32,17 +33,34 @@
         "banister"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59I9gaLyCPVjC3qi54a9Xy_47.365379_9.688119@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473887647,
-    "wof:geomhash":"dea762211091889e77b5eb8934bb882b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2af5fa70d7ddfcbb1fd139dddfe497c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1091804893
+        }
+    ],
     "wof:id":1091804893,
-    "wof:lastmodified":1473983444,
+    "wof:lastmodified":1496901131,
     "wof:name":"Johannes Wolf GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

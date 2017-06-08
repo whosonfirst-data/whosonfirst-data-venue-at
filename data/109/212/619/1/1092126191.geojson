@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4570045471,47.785785675,16.4570045471,47.785785675",
     "geom:latitude":47.785786,
     "geom:longitude":16.457005,
@@ -23,17 +24,33 @@
     "sg:postcode":"7024",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838711,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A5YCNZsLUXwENvETehCTx_47.785786_16.457005@1306268273"
     },
     "wof:country":"AT",
     "wof:created":1473902054,
-    "wof:geomhash":"3d18c094269635428ca8271d45e6e49b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3ac936cfecbfb65582786195e4372b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838711,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092126191
+        }
+    ],
     "wof:id":1092126191,
-    "wof:lastmodified":1473984564,
+    "wof:lastmodified":1496909160,
     "wof:name":"Druck Partner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

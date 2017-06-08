@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3275518417,47.5140838623,12.3275518417,47.5140838623",
     "geom:latitude":47.514084,
     "geom:longitude":12.327552,
@@ -23,17 +24,33 @@
     "sg:postcode":"6353",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837363,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tObp0I81b5N22cm6LMStd_47.514084_12.327552@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899444,
-    "wof:geomhash":"12fcbef4db6401d7b38307f9c4d3fb79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aa6648c7fbba5cc4d19c0c2a317f366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837363,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092073327
+        }
+    ],
     "wof:id":1092073327,
-    "wof:lastmodified":1473983929,
+    "wof:lastmodified":1496897304,
     "wof:name":"Gasthof Lanzenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

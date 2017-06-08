@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.50760746,47.2824859619,11.50760746,47.2824859619",
     "geom:latitude":47.282486,
     "geom:longitude":11.507607,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889889,
-    "wof:geomhash":"58e2fa3ac894524b168198ff0392992d",
+    "wof:geomhash":"de5b7e45a6fb09b0ebaefa7aa59d1676",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091854027
         }
     ],
     "wof:id":1091854027,
-    "wof:lastmodified":1473984098,
+    "wof:lastmodified":1496898712,
     "wof:name":"Cecil-In-Shop",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4896583557,47.5791320801,15.4896583557,47.5791320801",
     "geom:latitude":47.579132,
     "geom:longitude":15.489658,
@@ -23,17 +24,33 @@
     "sg:postcode":"8663",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838861,
+        85632785,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00LLhzMLz3dLezPNpAAgAV_47.579132_15.489658@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900827,
-    "wof:geomhash":"cf5232ee42c9c68d55d6fdc49b97ff3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99c5207008dd176ae4c3089866db05ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838861,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092100441
+        }
+    ],
     "wof:id":1092100441,
-    "wof:lastmodified":1473983403,
+    "wof:lastmodified":1496909682,
     "wof:name":"Marktgemeindeamt Veitsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2859315872,47.5070075989,12.2859315872,47.5070075989",
     "geom:latitude":47.507008,
     "geom:longitude":12.285932,
@@ -28,17 +29,33 @@
     "sg:postcode":"6352",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837681,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nM98SLKAHTParoO1UFFt5_47.507008_12.285932@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898404,
-    "wof:geomhash":"0502e7f4636d447ee95c4faeebbeb7b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cfb3e200fa478f3b4fbb66ed37cca89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837681,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092047203
+        }
+    ],
     "wof:id":1092047203,
-    "wof:lastmodified":1473984055,
+    "wof:lastmodified":1496899164,
     "wof:name":"Hotel Kaiserhof GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

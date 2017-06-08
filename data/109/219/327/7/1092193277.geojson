@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0453147888,48.1389274597,14.0453147888,48.1389274597",
     "geom:latitude":48.138927,
     "geom:longitude":14.045315,
@@ -32,17 +33,33 @@
         "alphabetic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836587,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GfbuwgwA9tOLls0fNDird_48.138927_14.045315@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905162,
-    "wof:geomhash":"c82ae9ba7626e44520ac637c46dc38d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecec326b2684ff176183ee59062011bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836587,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092193277
+        }
+    ],
     "wof:id":1092193277,
-    "wof:lastmodified":1473984088,
+    "wof:lastmodified":1496891809,
     "wof:name":"Hermann Herm\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

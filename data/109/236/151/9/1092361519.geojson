@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6387739182,47.1954116821,9.6387739182,47.1954116821",
     "geom:latitude":47.195412,
     "geom:longitude":9.638774,
@@ -23,17 +24,33 @@
     "sg:postcode":"6820",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838015,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zlTpGrKazu78t9Ersw1M6_47.195412_9.638774@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912580,
-    "wof:geomhash":"95ed617fc08e5538c79493313909a318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6f52c8e6d8bd2a38d7998497f33d996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838015,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092361519
+        }
+    ],
     "wof:id":1092361519,
-    "wof:lastmodified":1473983643,
+    "wof:lastmodified":1496901590,
     "wof:name":"Berghof Latzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

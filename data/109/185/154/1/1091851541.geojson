@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6545448303,47.4250564575,9.6545448303,47.4250564575",
     "geom:latitude":47.425056,
     "geom:longitude":9.654545,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"metzler-design.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KL4uabupUBFgf4wydWQoL_47.425056_9.654545@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889784,
-    "wof:geomhash":"5962373b788e1d8da953076668211b8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8786e7f2c0e643642ae3385d33316b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091851541
+        }
+    ],
     "wof:id":1091851541,
-    "wof:lastmodified":1473983527,
+    "wof:lastmodified":1496901381,
     "wof:name":"Metzler-Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

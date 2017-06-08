@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2921695709,48.210018158,14.2921695709,48.210018158",
     "geom:latitude":48.210018,
     "geom:longitude":14.29217,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898417,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904260,
-    "wof:geomhash":"bf8a7ba669fc5c9100be2a4dcc38ef8f",
+    "wof:geomhash":"a12520d878948743dcaec3b3ce2faaff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898417,
             "region_id":85681677,
             "venue_id":1092173223
         }
     ],
     "wof:id":1092173223,
-    "wof:lastmodified":1473983959,
+    "wof:lastmodified":1496887012,
     "wof:name":"Bauernladen Ansfelden",
     "wof:parent_id":85898417,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5357704163,48.2327842712,16.5357704163,48.2327842712",
     "geom:latitude":48.232784,
     "geom:longitude":16.53577,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910931,
-    "wof:geomhash":"3267072ab6405062114736181a82a738",
+    "wof:geomhash":"2d120a5846026fd4d42a4bae92f13ff2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092323089
         }
     ],
     "wof:id":1092323089,
-    "wof:lastmodified":1473984128,
+    "wof:lastmodified":1496928667,
     "wof:name":"Schmidt Rolf GesmbH",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

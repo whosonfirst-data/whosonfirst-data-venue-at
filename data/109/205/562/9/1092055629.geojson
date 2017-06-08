@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.492067337,47.4709129333,16.492067337,47.4709129333",
     "geom:latitude":47.470913,
     "geom:longitude":16.492067,
@@ -23,17 +24,33 @@
     "sg:postcode":"7453",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838449,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QKplMj9LqO47C0hkc62SU_47.470913_16.492067@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898727,
-    "wof:geomhash":"0440de658d11922b8ac1bf998a757183",
-    "wof:hierarchy":[],
+    "wof:geomhash":"911b5ee6b4d7a9c7ec6136e02fade55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838449,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092055629
+        }
+    ],
     "wof:id":1092055629,
-    "wof:lastmodified":1473984382,
+    "wof:lastmodified":1496907970,
     "wof:name":"Galerie Alte Schmiede",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

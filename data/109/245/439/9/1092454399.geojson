@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3151073456,48.0712242126,15.3151073456,48.0712242126",
     "geom:latitude":48.071224,
     "geom:longitude":15.315107,
@@ -34,17 +35,33 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835425,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TVtZeZVCifGPAH5pMKSgS_48.071224_15.315107@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917027,
-    "wof:geomhash":"11f251d42705a2777882509c2ed54cad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e00027309befd0f9d9e2c74a2ec7ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835425,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092454399
+        }
+    ],
     "wof:id":1092454399,
-    "wof:lastmodified":1473983487,
+    "wof:lastmodified":1496886563,
     "wof:name":"Karl Schmutzer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

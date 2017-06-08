@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2869415283,47.0282058716,16.2869415283,47.0282058716",
     "geom:latitude":47.028206,
     "geom:longitude":16.286942,
@@ -23,17 +24,33 @@
     "sg:postcode":"7540",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838483,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49HW3Du2v6jtamnkgr8i2u_47.028206_16.286942@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911217,
-    "wof:geomhash":"8a09a4cf5d7982465205dd09c5aef4db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7e701379fcb02142b8f7771d19c9afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838483,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092330083
+        }
+    ],
     "wof:id":1092330083,
-    "wof:lastmodified":1473983322,
+    "wof:lastmodified":1496908127,
     "wof:name":"Tapler Malerbetrieb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

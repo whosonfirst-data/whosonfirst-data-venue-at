@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4112758636,47.9565887451,16.4112758636,47.9565887451",
     "geom:latitude":47.956589,
     "geom:longitude":16.411276,
@@ -32,17 +33,34 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835383,
+        85632785,
+        101833185,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yh56xFtzf2iampnivIl4z_47.956589_16.411276@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897119,
-    "wof:geomhash":"5fe2838266c676369981311d20cc4515",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb36db44eb43aad0bf8545aa6ce754fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835383,
+            "locality_id":101833185,
+            "region_id":85681671,
+            "venue_id":1092014089
+        }
+    ],
     "wof:id":1092014089,
-    "wof:lastmodified":1473983669,
+    "wof:lastmodified":1496886441,
     "wof:name":"Haider Steuerungstechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

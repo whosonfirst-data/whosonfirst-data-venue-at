@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2417287827,48.9308166504,15.2417287827,48.9308166504",
     "geom:latitude":48.930817,
     "geom:longitude":15.241729,
@@ -32,17 +33,33 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835021,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w1L9qyqLyNVImOVRCHDDv_48.930817_15.241729@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905508,
-    "wof:geomhash":"a2752164a96482835c4d0a06f15296ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48e72a5f0006533d33f770181b88080e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835021,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092200869
+        }
+    ],
     "wof:id":1092200869,
-    "wof:lastmodified":1473983467,
+    "wof:lastmodified":1496884218,
     "wof:name":"Matthias Schawerda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

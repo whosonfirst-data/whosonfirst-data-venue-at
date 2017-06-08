@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8344078064,47.9588508606,16.8344078064,47.9588508606",
     "geom:latitude":47.958851,
     "geom:longitude":16.834408,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"kaintz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838489,
+        85632785,
+        101785751,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LllqfppSJn2I9mE641SUm_47.958851_16.834408@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889378,
-    "wof:geomhash":"9a8ecc17fee839cb532acd5308e04e31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86a4dfe6335e1ada15738d7b5dcd45b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838489,
+            "locality_id":101785751,
+            "region_id":85681651,
+            "venue_id":1091842611
+        }
+    ],
     "wof:id":1091842611,
-    "wof:lastmodified":1473983802,
+    "wof:lastmodified":1496908182,
     "wof:name":"Kaintz Johann Bmstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

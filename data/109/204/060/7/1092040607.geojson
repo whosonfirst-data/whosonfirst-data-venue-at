@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0805807114,47.7641563416,13.0805807114,47.7641563416",
     "geom:latitude":47.764156,
     "geom:longitude":13.080581,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898151,
-    "wof:geomhash":"61e3660c59c69e242a617239c78a76b3",
+    "wof:geomhash":"ac4a1053a11b608a7728db9d19e5fc8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092040607
         }
     ],
     "wof:id":1092040607,
-    "wof:lastmodified":1473983307,
+    "wof:lastmodified":1496895290,
     "wof:name":"G\u00f6tz Carl GmbH - Platten, Furniere, T\u00fcren, Holz",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

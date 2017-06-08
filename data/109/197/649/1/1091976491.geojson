@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3384780884,46.9130249023,15.3384780884,46.9130249023",
     "geom:latitude":46.913025,
     "geom:longitude":15.338478,
@@ -23,17 +24,33 @@
     "sg:postcode":"8503",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839287,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EaJ3GsXczrniUOPgomhd3_46.913025_15.338478@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895516,
-    "wof:geomhash":"05bb31c36dd30a849b1c0053122a2711",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eccc0bd412af87bbccca83dd977e8b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839287,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091976491
+        }
+    ],
     "wof:id":1091976491,
-    "wof:lastmodified":1473984750,
+    "wof:lastmodified":1496912510,
     "wof:name":"HB Immobilien GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

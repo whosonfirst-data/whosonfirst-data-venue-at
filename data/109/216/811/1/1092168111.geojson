@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1271591187,47.864200592,13.1271591187,47.864200592",
     "geom:latitude":47.864201,
     "geom:longitude":13.127159,
@@ -23,17 +24,34 @@
     "sg:postcode":"5301",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        101786773,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J2lqFF98MxZ3s1aV6jS2G_47.864201_13.127159@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904031,
-    "wof:geomhash":"c511a850dad34cf18203f4269967c008",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c94906e30d7e0d88618efdf193535689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":101786773,
+            "region_id":85681681,
+            "venue_id":1092168111
+        }
+    ],
     "wof:id":1092168111,
-    "wof:lastmodified":1473984967,
+    "wof:lastmodified":1496895295,
     "wof:name":"DeLaval GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5106372833,47.4480514526,16.5106372833,47.4480514526",
     "geom:latitude":47.448051,
     "geom:longitude":16.510637,
@@ -23,17 +24,33 @@
     "sg:postcode":"7451",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838479,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4va7IYGEWNNa85nbXYUqF2_47.448051_16.510637@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899898,
-    "wof:geomhash":"5eb56d9316090fb3cfc8c427331210c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a23388314b0c71ca20ac73e5918f8704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838479,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092083089
+        }
+    ],
     "wof:id":1092083089,
-    "wof:lastmodified":1473984017,
+    "wof:lastmodified":1496908105,
     "wof:name":"Supperwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

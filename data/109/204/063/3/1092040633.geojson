@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3960180283,47.3768577576,13.3960180283,47.3768577576",
     "geom:latitude":47.376858,
     "geom:longitude":13.396018,
@@ -23,17 +24,33 @@
     "sg:postcode":"5542",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837005,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VM0JGcgHeLKSrqh2Smm3U_47.376858_13.396018@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473898152,
-    "wof:geomhash":"8850cfdd8eb8eb729d2609cc29143315",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90a39814e5a698775ea91ee12201eebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837005,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092040633
+        }
+    ],
     "wof:id":1092040633,
-    "wof:lastmodified":1473983305,
+    "wof:lastmodified":1496893919,
     "wof:name":"Holzcenter Weiss GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

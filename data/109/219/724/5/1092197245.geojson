@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4185428619,47.7831573486,16.4185428619,47.7831573486",
     "geom:latitude":47.783157,
     "geom:longitude":16.418543,
@@ -31,17 +32,33 @@
         "canopy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838665,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47rJunuNlID5P9VH5Asjyi_47.783157_16.418543@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905336,
-    "wof:geomhash":"143aa729bd411f533bd431569b5cc7f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"063d31a7d05b431907f3244da8d12de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838665,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092197245
+        }
+    ],
     "wof:id":1092197245,
-    "wof:lastmodified":1473984954,
+    "wof:lastmodified":1496909041,
     "wof:name":"Stefan Hilbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

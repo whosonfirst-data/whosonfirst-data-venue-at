@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2451839447,47.4463233948,12.2451839447,47.4463233948",
     "geom:latitude":47.446323,
     "geom:longitude":12.245184,
@@ -28,17 +29,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZkZSa04MGdOsWc2cix1YL_47.446323_12.245184@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895059,
-    "wof:geomhash":"cbfafa534af8af06697e981655cc11dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd653ebe6c5a8df93f9482995902ab0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091965601
+        }
+    ],
     "wof:id":1091965601,
-    "wof:lastmodified":1473984216,
+    "wof:lastmodified":1496897264,
     "wof:name":"Restaurant Fischerstadl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

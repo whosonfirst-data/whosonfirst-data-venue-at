@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0562639236,47.7223434448,13.0562639236,47.7223434448",
     "geom:latitude":47.722343,
     "geom:longitude":13.056264,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901396,
-    "wof:geomhash":"964585d32d10ba8f4bd5a2765ae54222",
+    "wof:geomhash":"fe373b1324261663e51962d3615435f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1092112257
         }
     ],
     "wof:id":1092112257,
-    "wof:lastmodified":1473983824,
+    "wof:lastmodified":1496895010,
     "wof:name":"Josef Gehmacher ZimmereigesmbH",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

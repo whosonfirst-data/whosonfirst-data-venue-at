@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3179512024,46.6498756409,14.3179512024,46.6498756409",
     "geom:latitude":46.649876,
     "geom:longitude":14.317951,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473917023,
-    "wof:geomhash":"730c27f48c75b7dcf569e5cca9ce244d",
+    "wof:geomhash":"aa4f81932c42bb5fe89bd3ef62be685a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1092454291
         }
     ],
     "wof:id":1092454291,
-    "wof:lastmodified":1473983476,
+    "wof:lastmodified":1496905580,
     "wof:name":"EFP M\u00f6belteile Produktions- und Handels GmbH",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

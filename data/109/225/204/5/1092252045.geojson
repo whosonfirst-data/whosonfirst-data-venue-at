@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.89153862,47.3827056885,10.89153862,47.3827056885",
     "geom:latitude":47.382706,
     "geom:longitude":10.891539,
@@ -23,17 +24,33 @@
     "sg:postcode":"6633",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837801,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SwwxfyjJ3Sn3LU4zxSfAv_47.382706_10.891539@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907801,
-    "wof:geomhash":"0709190c585245ce549033b5fa2e06e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3187dc424a3d6dc5f8ba2c7d5c5e4fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837801,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092252045
+        }
+    ],
     "wof:id":1092252045,
-    "wof:lastmodified":1473983818,
+    "wof:lastmodified":1496900005,
     "wof:name":"Zugspitz Tourismusregion Lermoos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

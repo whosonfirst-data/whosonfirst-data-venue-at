@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4142580032,46.7030258179,13.4142580032,46.7030258179",
     "geom:latitude":46.703026,
     "geom:longitude":13.414258,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"weissensee-schifffahrt.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838355,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EnFgCAglP9JA2Qoppq51v_46.703026_13.414258@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891937,
-    "wof:geomhash":"b3bb41bded8ec7694c329fe59eb3e796",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87da0ac183491d0a260e6bdb3cc39742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838355,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091897227
+        }
+    ],
     "wof:id":1091897227,
-    "wof:lastmodified":1473984905,
+    "wof:lastmodified":1496907459,
     "wof:name":"Weissensee-Schifffahrt A. M\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

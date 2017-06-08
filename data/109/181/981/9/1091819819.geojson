@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6996107101,47.1101608276,15.6996107101,47.1101608276",
     "geom:latitude":47.110161,
     "geom:longitude":15.699611,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"neuhold-envirotec.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838867,
+        85632785,
+        101789137,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y5Ke3K5Sl769FA8Z4bPPS_47.110161_15.699611@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473888338,
-    "wof:geomhash":"e9ddbebe1f9e4bcc0b40229a832edd7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"703263d42355841c0611e9fb6fbd5b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838867,
+            "locality_id":101789137,
+            "region_id":85681687,
+            "venue_id":1091819819
+        }
+    ],
     "wof:id":1091819819,
-    "wof:lastmodified":1473985282,
+    "wof:lastmodified":1496909734,
     "wof:name":"Neuhold Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.52684021,48.367023468,16.52684021,48.367023468",
     "geom:latitude":48.367023,
     "geom:longitude":16.52684,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836323,
+        85632785,
+        101833283,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wSYmwiq9nhQ6TK2YOUaVJ_48.367023_16.526840@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913576,
-    "wof:geomhash":"e5dc204008d297e4b837dd2174fa931f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42cbd57e3fed06dc41ea4a8a72aef8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836323,
+            "locality_id":101833283,
+            "region_id":85681671,
+            "venue_id":1092382783
+        }
+    ],
     "wof:id":1092382783,
-    "wof:lastmodified":1473984036,
+    "wof:lastmodified":1496890518,
     "wof:name":"Pizzeria & Eissalon di Mare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

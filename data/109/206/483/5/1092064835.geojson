@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2726535797,47.2545928955,11.2726535797,47.2545928955",
     "geom:latitude":47.254593,
     "geom:longitude":11.272654,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899096,
-    "wof:geomhash":"e333816f1915a0867b0455f2e8d0d256",
+    "wof:geomhash":"fd0ff987bd26ac6e4a18a5e65b05cf17",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092064835
         }
     ],
     "wof:id":1092064835,
-    "wof:lastmodified":1473984232,
+    "wof:lastmodified":1496898654,
     "wof:name":"Gasthaus Altwirt",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

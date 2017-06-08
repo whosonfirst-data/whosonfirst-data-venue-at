@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0847539902,47.8312988281,13.0847539902,47.8312988281",
     "geom:latitude":47.831299,
     "geom:longitude":13.084754,
@@ -30,11 +31,14 @@
     "sg:website":"santafe.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
+        102191581,
+        1108837155,
+        85632785,
         102049799,
-        85904341
+        85681681,
+        85904341,
+        1108837145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,27 +46,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473895088,
-    "wof:geomhash":"0f60e04952959422840ea77ff24f9392",
+    "wof:geomhash":"d9c505090fabc5abe1da7bad6756e8fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1091966343
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1091966343
         }
     ],
     "wof:id":1091966343,
-    "wof:lastmodified":1473984290,
+    "wof:lastmodified":1496895391,
     "wof:name":"Restaurant Santa Fe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

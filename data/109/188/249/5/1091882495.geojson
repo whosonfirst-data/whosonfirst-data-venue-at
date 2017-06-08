@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.299451828,47.1080932617,11.299451828,47.1080932617",
     "geom:latitude":47.108093,
     "geom:longitude":11.299452,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        101834213,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hmCuuPe874npBQx4sVMqo_47.108093_11.299452@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891239,
-    "wof:geomhash":"cf0996bfadef11ddd0077a2cff619082",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c2550854396a164d0d09766d59bfaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":101834213,
+            "region_id":85681661,
+            "venue_id":1091882495
+        }
+    ],
     "wof:id":1091882495,
-    "wof:lastmodified":1473983881,
+    "wof:lastmodified":1496898550,
     "wof:name":"PFURTSCHELLER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

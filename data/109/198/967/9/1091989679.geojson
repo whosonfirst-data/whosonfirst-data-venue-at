@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0283689499,47.2223777771,12.0283689499,47.2223777771",
     "geom:latitude":47.222378,
     "geom:longitude":12.028369,
@@ -23,17 +24,33 @@
     "sg:postcode":"6281",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837867,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06fkzbgFN45gZ5GZmz2fdb_47.222378_12.028369@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896090,
-    "wof:geomhash":"8a712510f43ae39d1e6153821110311b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b95c1b32bb6a888c8f49893138cb228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837867,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091989679
+        }
+    ],
     "wof:id":1091989679,
-    "wof:lastmodified":1473984657,
+    "wof:lastmodified":1496900318,
     "wof:name":"Haas Installationen GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

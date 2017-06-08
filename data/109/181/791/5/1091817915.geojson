@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8503751755,46.7427215576,13.8503751755,46.7427215576",
     "geom:latitude":46.742722,
     "geom:longitude":13.850375,
@@ -22,17 +23,33 @@
     "sg:postcode":"9543",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838325,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GzxVx647zyGxI2n4hrdUh_46.742722_13.850375@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888266,
-    "wof:geomhash":"da620bf6840a21eee06f315413a59bb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33af32cfc0ba01c1f9240a06ba2ed388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838325,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091817915
+        }
+    ],
     "wof:id":1091817915,
-    "wof:lastmodified":1473985018,
+    "wof:lastmodified":1496907332,
     "wof:name":"Feuerwehr Laastadt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

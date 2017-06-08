@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4911136627,48.0255050659,16.4911136627,48.0255050659",
     "geom:latitude":48.025505,
     "geom:longitude":16.491114,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836311,
+        85632785,
+        101784507,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ycwToMCUzGeRPbycOTSEV_48.025505_16.491114@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913651,
-    "wof:geomhash":"b2c19765b5659ae8abfcaf264bfb1cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"530a9937c51bed56b74f21dba29a075e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836311,
+            "locality_id":101784507,
+            "region_id":85681671,
+            "venue_id":1092384319
+        }
+    ],
     "wof:id":1092384319,
-    "wof:lastmodified":1473984337,
+    "wof:lastmodified":1496890460,
     "wof:name":"Pizzeria Zenek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

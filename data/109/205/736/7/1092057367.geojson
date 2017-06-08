@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4780540466,47.5758552551,12.4780540466,47.5758552551",
     "geom:latitude":47.575855,
     "geom:longitude":12.478054,
@@ -23,17 +24,33 @@
     "sg:postcode":"6383",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pj6AanOr7TXu6DSWJIcIe_47.575855_12.478054@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898802,
-    "wof:geomhash":"367b737696f8d0dba2622fd8057b9ce4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ab4fbef0f3b9d53874be8ee71dfeb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092057367
+        }
+    ],
     "wof:id":1092057367,
-    "wof:lastmodified":1473984585,
+    "wof:lastmodified":1496897058,
     "wof:name":"Huter Tore Handels KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

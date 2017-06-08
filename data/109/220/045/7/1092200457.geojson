@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7188901901,47.3091659546,11.7188901901,47.3091659546",
     "geom:latitude":47.309166,
     "geom:longitude":11.71889,
@@ -34,17 +35,33 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837823,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xtNFS7jxrATCvr2QPYk12_47.309166_11.718890@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905479,
-    "wof:geomhash":"bb0d51a92abf03a250d09ac8f1d567ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba1feab58d5d33d3cb2c2fbbf8d996e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837823,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092200457
+        }
+    ],
     "wof:id":1092200457,
-    "wof:lastmodified":1473983388,
+    "wof:lastmodified":1496900079,
     "wof:name":"Oswald Steinlechner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

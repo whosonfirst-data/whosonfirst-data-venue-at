@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4645023346,48.2595977783,16.4645023346,48.2595977783",
     "geom:latitude":48.259598,
     "geom:longitude":16.464502,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893317,
-    "wof:geomhash":"65ccbe269c73d0bcb350dbe8e135550a",
+    "wof:geomhash":"ce7ae26ba2e2d467618a86f8532de577",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091926815
         }
     ],
     "wof:id":1091926815,
-    "wof:lastmodified":1473984512,
+    "wof:lastmodified":1496904112,
     "wof:name":"Fussmann A Ch",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

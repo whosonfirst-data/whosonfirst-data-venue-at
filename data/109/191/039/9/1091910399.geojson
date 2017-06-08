@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3765001297,47.0987434387,14.3765001297,47.0987434387",
     "geom:latitude":47.098743,
     "geom:longitude":14.3765,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.mariahof.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838811,
+        85632785,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cHvngtzmtq0O09nEM4aXG_47.098743_14.376500@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892565,
-    "wof:geomhash":"2fc465199875dc480fac652df918060a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"267954f7952f533aa55a7bc92660e311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838811,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091910399
+        }
+    ],
     "wof:id":1091910399,
-    "wof:lastmodified":1473983315,
+    "wof:lastmodified":1496909402,
     "wof:name":"Mariahof Internet Portal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.151099205,47.4464912415,12.151099205,47.4464912415",
     "geom:latitude":47.446491,
     "geom:longitude":12.151099,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gIfgcO5BDfl8vz2Ptx7u6_47.446491_12.151099@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899204,
-    "wof:geomhash":"83d0d907c02a2db117c0ec8f44701a69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2116ff810eb9394a45278b683939949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092067333
+        }
+    ],
     "wof:id":1092067333,
-    "wof:lastmodified":1473984787,
+    "wof:lastmodified":1496897022,
     "wof:name":"Gasthaus Leamwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

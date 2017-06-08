@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9215183258,47.834487915,16.9215183258,47.834487915",
     "geom:latitude":47.834488,
     "geom:longitude":16.921518,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838505,
+        85632785,
+        101785745,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MfIwKd5c4I7yCtaW50Nd8_47.834488_16.921518@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913645,
-    "wof:geomhash":"eac0d92fc75458f0f38316c820a76ae2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bb2a755b95d2a94cb566b6d1b276351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838505,
+            "locality_id":101785745,
+            "region_id":85681651,
+            "venue_id":1092384161
+        }
+    ],
     "wof:id":1092384161,
-    "wof:lastmodified":1473984280,
+    "wof:lastmodified":1496908290,
     "wof:name":"Pizzeria und Discothek Caribic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3992891312,47.28647995,11.3992891312,47.28647995",
     "geom:latitude":47.28648,
     "geom:longitude":11.399289,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899182,
-    "wof:geomhash":"e9a4c6d58b3eca2074a22c79909ddbac",
+    "wof:geomhash":"01fb92608dd18a1fe027ec523edba290",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092066995
         }
     ],
     "wof:id":1092066995,
-    "wof:lastmodified":1473984686,
+    "wof:lastmodified":1496899245,
     "wof:name":"Gasthaus Klamm",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4508113861,47.4304504395,13.4508113861,47.4304504395",
     "geom:latitude":47.43045,
     "geom:longitude":13.450811,
@@ -23,17 +24,33 @@
     "sg:postcode":"5531",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837001,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72FCutC3sxBOAL0QNSsCit_47.430450_13.450811@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909755,
-    "wof:geomhash":"13c574bf58a780e71974642e3be85fb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92f4f326dbce9204b068cae63e4b41fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837001,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092297115
+        }
+    ],
     "wof:id":1092297115,
-    "wof:lastmodified":1473984947,
+    "wof:lastmodified":1496893872,
     "wof:name":"Neudegghof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

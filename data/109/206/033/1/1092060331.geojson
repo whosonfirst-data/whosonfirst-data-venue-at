@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.486741066,47.9315643311,13.486741066,47.9315643311",
     "geom:latitude":47.931564,
     "geom:longitude":13.486741,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836493,
+        85632785,
+        101786815,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zg0bJRYR4OBFbyHjUCXfm_47.931564_13.486741@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898913,
-    "wof:geomhash":"e1ae7814ec9322ac2bb9f2c70c557400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3bcdd2742779c1475a697e4cdb147a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836493,
+            "locality_id":101786815,
+            "region_id":85681677,
+            "venue_id":1092060331
+        }
+    ],
     "wof:id":1092060331,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496891298,
     "wof:name":"Josef Winzer GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

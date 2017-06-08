@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7503004074,47.4450950623,10.7503004074,47.4450950623",
     "geom:latitude":47.445095,
     "geom:longitude":10.7503,
@@ -32,17 +33,33 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837735,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xOMtDUoRt03dHkGFRFhsp_47.445095_10.750300@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889208,
-    "wof:geomhash":"c6cfee67f34ffca016ef5e282bd887c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f0395cfe22dbb24b50f262ce73bc599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837735,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091838495
+        }
+    ],
     "wof:id":1091838495,
-    "wof:lastmodified":1473985091,
+    "wof:lastmodified":1496899830,
     "wof:name":"Wolfram Frick - K\u00fcchenstudio Wohnen von A-Z",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

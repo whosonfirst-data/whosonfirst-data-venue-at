@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4787826538,48.2065620422,14.4787826538,48.2065620422",
     "geom:latitude":48.206562,
     "geom:longitude":14.478783,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911566,
-    "wof:geomhash":"2146a6c33ce35dff1d743e5996bd976a",
+    "wof:geomhash":"065492d8caf86bbb5671a2d0efec5d98",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092338479
         }
     ],
     "wof:id":1092338479,
-    "wof:lastmodified":1473985264,
+    "wof:lastmodified":1496887086,
     "wof:name":"BROSCHE GALVANOWERK GMBH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4879360199,48.2098312378,13.4879360199,48.2098312378",
     "geom:latitude":48.209831,
     "geom:longitude":13.487936,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"krautgartner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75sP6e3qJtbhWqsW52Mm0l_48.209831_13.487936@1306268249"
     },
     "wof:country":"AT",
     "wof:created":1473894727,
-    "wof:geomhash":"02be6b0072bce75daea01b4819c5552e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b7c8137b47830edd9a6e8f2380ee468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1091957741
+        }
+    ],
     "wof:id":1091957741,
-    "wof:lastmodified":1473985095,
+    "wof:lastmodified":1496887938,
     "wof:name":"Krautgartner Verkehrsbetriebe GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1428947449,47.0214653015,16.1428947449,47.0214653015",
     "geom:latitude":47.021465,
     "geom:longitude":16.142895,
@@ -23,17 +24,33 @@
     "sg:postcode":"7564",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838559,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Rn9d3fbd3YIVjgLVTg0XS_47.021465_16.142895@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888685,
-    "wof:geomhash":"abb069ef11b3df2ae37d041d26ee5a10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65a8a7bd322b73b93dac5a8deba128bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838559,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091827327
+        }
+    ],
     "wof:id":1091827327,
-    "wof:lastmodified":1473985149,
+    "wof:lastmodified":1496908438,
     "wof:name":"Raiffeisenbank Lafnitztal regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

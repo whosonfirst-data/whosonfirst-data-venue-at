@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8559980392,47.1430969238,9.8559980392,47.1430969238",
     "geom:latitude":47.143097,
     "geom:longitude":9.855998,
@@ -22,17 +23,33 @@
     "sg:postcode":"6700",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LvVLSIOxGBKtADN188rAf_47.143097_9.855998@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888257,
-    "wof:geomhash":"51fa2f5dd628710543bdbd2c4c1de068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"721b50b10612cf81fca364690e516e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091817755
+        }
+    ],
     "wof:id":1091817755,
-    "wof:lastmodified":1473984984,
+    "wof:lastmodified":1496900597,
     "wof:name":"Feuerwehr Bings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

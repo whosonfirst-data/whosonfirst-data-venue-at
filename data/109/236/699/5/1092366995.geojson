@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2551269531,47.4496994019,12.2551269531,47.4496994019",
     "geom:latitude":47.449699,
     "geom:longitude":12.255127,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GqYIsgOg4uxQUJiv5uN4B_47.449699_12.255127@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912855,
-    "wof:geomhash":"138b6126439dc0a97047a0342f6b621d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebbe0eec6203b60d8c7fe1de0f1adafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092366995
+        }
+    ],
     "wof:id":1092366995,
-    "wof:lastmodified":1473984963,
+    "wof:lastmodified":1496897243,
     "wof:name":"Haus Tiefenbacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

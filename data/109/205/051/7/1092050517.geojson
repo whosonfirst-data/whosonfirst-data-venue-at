@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1440286636,47.8715057373,13.1440286636,47.8715057373",
     "geom:latitude":47.871506,
     "geom:longitude":13.144029,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"www.gschirn.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        101786773,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67w25Ts5thR681umSjJ0SB_47.871506_13.144029@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898533,
-    "wof:geomhash":"b9d11c1d856d352a8a64dd81e4dad6e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abc570d2a15347fbc77c90fd85eed61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":101786773,
+            "region_id":85681681,
+            "venue_id":1092050517
+        }
+    ],
     "wof:id":1092050517,
-    "wof:lastmodified":1473983449,
+    "wof:lastmodified":1496895337,
     "wof:name":"Landhotel Gschirnwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

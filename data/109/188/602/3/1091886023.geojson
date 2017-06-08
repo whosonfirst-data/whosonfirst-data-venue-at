@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.104183197,48.0124931335,17.104183197,48.0124931335",
     "geom:latitude":48.012493,
     "geom:longitude":17.104183,
@@ -23,17 +24,33 @@
     "sg:postcode":"2423",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838643,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EqFDgaktjGxQRIh28wM1O_48.012493_17.104183@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891448,
-    "wof:geomhash":"74bb29950a5b00459f4ead385bccf29b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"373e3d08926555abd8961c2a0fdc68b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838643,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091886023
+        }
+    ],
     "wof:id":1091886023,
-    "wof:lastmodified":1473984488,
+    "wof:lastmodified":1496908961,
     "wof:name":"Hiessberger Roland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

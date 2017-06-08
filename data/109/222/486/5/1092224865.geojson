@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3606338501,47.2667922974,11.3606338501,47.2667922974",
     "geom:latitude":47.266792,
     "geom:longitude":11.360634,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904367,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906609,
-    "wof:geomhash":"cbe3715d1a5a7bddbdbb55e193b97d2c",
+    "wof:geomhash":"35de1a510d3f2861c04492d45a1e4527",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904367,
             "region_id":85681661,
             "venue_id":1092224865
         }
     ],
     "wof:id":1092224865,
-    "wof:lastmodified":1473984484,
+    "wof:lastmodified":1496899391,
     "wof:name":"Prieth Erich Ing",
     "wof:parent_id":85904367,
     "wof:placetype":"venue",

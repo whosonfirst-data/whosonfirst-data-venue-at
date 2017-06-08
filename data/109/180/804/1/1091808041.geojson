@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4052753448,47.7409133911,16.4052753448,47.7409133911",
     "geom:latitude":47.740913,
     "geom:longitude":16.405275,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"ipl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838419,
+        85632785,
+        101833073,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gCeZ3m65PqIUTbMs45QjL_47.740913_16.405275@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473887825,
-    "wof:geomhash":"c948fb0e884900e2b7582cd41859e26c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb2da468bfc5d6e3ddf713c4e6152fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838419,
+            "locality_id":101833073,
+            "region_id":85681651,
+            "venue_id":1091808041
+        }
+    ],
     "wof:id":1091808041,
-    "wof:lastmodified":1473984085,
+    "wof:lastmodified":1496907840,
     "wof:name":"IPL - Ing. Peter Leitgeb KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

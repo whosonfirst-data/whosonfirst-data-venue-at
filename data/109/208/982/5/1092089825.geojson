@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6584587097,47.5356216431,16.6584587097,47.5356216431",
     "geom:latitude":47.535622,
     "geom:longitude":16.658459,
@@ -23,17 +24,33 @@
     "sg:postcode":"7302",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838715,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ko5VXLiAQoHXFmGAQ99Wv_47.535622_16.658459@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900222,
-    "wof:geomhash":"2968164e0260cb19ff6d9a1d75fc9d38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"054e51164a5457cba0ce7caf67f1908d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838715,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092089825
+        }
+    ],
     "wof:id":1092089825,
-    "wof:lastmodified":1473985267,
+    "wof:lastmodified":1496909173,
     "wof:name":"Gemeindeamt Nikitsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

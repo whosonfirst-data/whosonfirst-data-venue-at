@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4256477356,47.3904724121,12.4256477356,47.3904724121",
     "geom:latitude":47.390472,
     "geom:longitude":12.425648,
@@ -33,17 +34,34 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837347,
+        85632785,
+        101844539,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dUkzOIObLMHMiDqGzyLrm_47.390472_12.425648@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473908963,
-    "wof:geomhash":"b6958f204eff81d702f94152030a6f0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04af398f4d89dd3c9d97162e53e16956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837347,
+            "locality_id":101844539,
+            "region_id":85681661,
+            "venue_id":1092278535
+        }
+    ],
     "wof:id":1092278535,
-    "wof:lastmodified":1473985290,
+    "wof:lastmodified":1496897039,
     "wof:name":"INNUTEC GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9632253647,46.9349746704,14.9632253647,46.9349746704",
     "geom:latitude":46.934975,
     "geom:longitude":14.963225,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838103,
+        85632785,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pAxfOA0owbobbhGEg6LVN_46.934975_14.963225@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905073,
-    "wof:geomhash":"91c583412cf79a234c7ba3a029985173",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5ff215e2daeb96fc1ccb403c9cb834e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838103,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092191109
+        }
+    ],
     "wof:id":1092191109,
-    "wof:lastmodified":1473983569,
+    "wof:lastmodified":1496905071,
     "wof:name":"KONRAD FORSTTECHNIK GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

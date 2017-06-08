@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2546730042,48.1351280212,16.2546730042,48.1351280212",
     "geom:latitude":48.135128,
     "geom:longitude":16.254673,
@@ -24,10 +25,12 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894344,
-    "wof:geomhash":"800f83ec180b8c5ea53fe7591bf6145a",
+    "wof:geomhash":"1c7a8f85135634086d1f6cc245654849",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091949337
         }
     ],
     "wof:id":1091949337,
-    "wof:lastmodified":1473985237,
+    "wof:lastmodified":1496902233,
     "wof:name":"Haase Irene Mag",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

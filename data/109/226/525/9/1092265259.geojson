@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7457036972,47.1497344971,13.7457036972,47.1497344971",
     "geom:latitude":47.149734,
     "geom:longitude":13.745704,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837049,
+        85632785,
+        101844471,
+        102049721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XZRiyxIkZD47WvKD1AKMo_47.149734_13.745704@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908394,
-    "wof:geomhash":"75f63aaa5a467862f78e38880daa3234",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ac361bcd0b038e9b6355abe4856a885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837049,
+            "locality_id":101844471,
+            "region_id":85681681,
+            "venue_id":1092265259
+        }
+    ],
     "wof:id":1092265259,
-    "wof:lastmodified":1473984426,
+    "wof:lastmodified":1496894215,
     "wof:name":"Berger Elektroanlagenbau GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

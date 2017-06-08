@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1269598007,48.8628311157,15.1269598007,48.8628311157",
     "geom:latitude":48.862831,
     "geom:longitude":15.12696,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108834865,
+        85633105,
+        101780875,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X49RDduNiuRr1H7gTX6WK_48.862831_15.126960@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913533,
-    "wof:geomhash":"b1ad5fea68cfe55e4c063330d5ca07d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2e3d510563038739da57de07a1f82f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108834865,
+            "locality_id":101780875,
+            "region_id":85682415,
+            "venue_id":1092382129
+        }
+    ],
     "wof:id":1092382129,
-    "wof:lastmodified":1473983839,
+    "wof:lastmodified":1496883097,
     "wof:name":"Cafe Burgpub-Pizzeria Rock In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

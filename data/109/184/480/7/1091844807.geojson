@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4594860077,48.2737998962,16.4594860077,48.2737998962",
     "geom:latitude":48.2738,
     "geom:longitude":16.459486,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889467,
-    "wof:geomhash":"47b9f3951c7016f78ed9aa28226e8d83",
+    "wof:geomhash":"8e036c65682e67670b13d9cc77fb0a6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091844807
         }
     ],
     "wof:id":1091844807,
-    "wof:lastmodified":1473984203,
+    "wof:lastmodified":1496903294,
     "wof:name":"Innovative Baustoffe Vertrieb u Entwicklung GmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

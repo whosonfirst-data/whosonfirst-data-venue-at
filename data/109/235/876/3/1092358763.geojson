@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0687942505,47.7743339539,13.0687942505,47.7743339539",
     "geom:latitude":47.774334,
     "geom:longitude":13.068794,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912467,
-    "wof:geomhash":"cd3d3d11c22764c237240ccde790b6c9",
+    "wof:geomhash":"dfb7696064a343035225c5a17aab6616",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092358763
         }
     ],
     "wof:id":1092358763,
-    "wof:lastmodified":1473985192,
+    "wof:lastmodified":1496894390,
     "wof:name":"Coty Austria GmbH",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

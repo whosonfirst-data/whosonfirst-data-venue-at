@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1171894073,47.7197418213,16.1171894073,47.7197418213",
     "geom:latitude":47.719742,
     "geom:longitude":16.117189,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"ndt-systems.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834921,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T83rCLY6qk1wTnh8uKhZ8_47.719742_16.117189@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908277,
-    "wof:geomhash":"c5a5c612a56db998c8d3470bd565128f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbd2e7b0d7c74d8b41d32aab3ceb9b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108834921,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092262461
+        }
+    ],
     "wof:id":1092262461,
-    "wof:lastmodified":1473983975,
+    "wof:lastmodified":1496883552,
     "wof:name":"F. Wotke Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

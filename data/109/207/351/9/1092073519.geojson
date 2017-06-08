@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7248249054,47.440322876,12.7248249054,47.440322876",
     "geom:latitude":47.440323,
     "geom:longitude":12.724825,
@@ -23,17 +24,33 @@
     "sg:postcode":"5771",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837211,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7320P8fjRDTPYKtBDbDJyQ_47.440323_12.724825@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899451,
-    "wof:geomhash":"d4bd65a1f62a35733c0a97801465ccf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6464f73345054816c948f2b1d0360d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837211,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092073519
+        }
+    ],
     "wof:id":1092073519,
-    "wof:lastmodified":1473983943,
+    "wof:lastmodified":1496895993,
     "wof:name":"Gasthof Millinghof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

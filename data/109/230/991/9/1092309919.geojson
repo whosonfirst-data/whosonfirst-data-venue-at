@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.260892868,47.4498176575,12.260892868,47.4498176575",
     "geom:latitude":47.449818,
     "geom:longitude":12.260893,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"bus-schlechter.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o61xg7901mubXEsIE2rF5_47.449818_12.260893@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910356,
-    "wof:geomhash":"5b65f129648f9a74d2a397a84a738f5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f96badaa62d159355b9b38121de8d120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092309919
+        }
+    ],
     "wof:id":1092309919,
-    "wof:lastmodified":1473985322,
+    "wof:lastmodified":1496897245,
     "wof:name":"Bustouristik Ulrich Schlechter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

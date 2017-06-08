@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1891345978,47.9001731873,13.1891345978,47.9001731873",
     "geom:latitude":47.900173,
     "geom:longitude":13.189135,
@@ -23,17 +24,34 @@
     "sg:postcode":"5302",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837147,
+        85632785,
+        101786775,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vuGjhiCDmnwXrK94QTWNe_47.900173_13.189135@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888933,
-    "wof:geomhash":"4986a90eba08eb29f341b8bd1faa146a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb9abc809b3c59c6a2c8f3f2869a304a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837147,
+            "locality_id":101786775,
+            "region_id":85681681,
+            "venue_id":1091832699
+        }
+    ],
     "wof:id":1091832699,
-    "wof:lastmodified":1473983829,
+    "wof:lastmodified":1496895403,
     "wof:name":"Bankomat d Raiffeisenkasse Henndorf am Wallersee regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

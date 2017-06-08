@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0927495956,47.1650009155,13.0927495956,47.1650009155",
     "geom:latitude":47.165001,
     "geom:longitude":13.09275,
@@ -23,17 +24,33 @@
     "sg:postcode":"5630",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836991,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Jecc2uSZ8twCVgCgf2b8B_47.165001_13.092750@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899182,
-    "wof:geomhash":"e659257fa3053df88a56bb47ba311170",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12f5a2b01aa7452c92d9708a498e2ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836991,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092066987
+        }
+    ],
     "wof:id":1092066987,
-    "wof:lastmodified":1473984674,
+    "wof:lastmodified":1496893713,
     "wof:name":"Gasthaus Kitzsteinalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

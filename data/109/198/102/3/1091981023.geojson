@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7854623795,48.3525314331,15.7854623795,48.3525314331",
     "geom:latitude":48.352531,
     "geom:longitude":15.785462,
@@ -32,17 +33,33 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836849,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0obEzVoQ9lLTTM6lDygfmz_48.352531_15.785462@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895740,
-    "wof:geomhash":"f8fb308fb7074e0bb6374aa516faad0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc9d3576c63b220700497d43786779f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836849,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091981023
+        }
+    ],
     "wof:id":1091981023,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496893042,
     "wof:name":"KLAUS Industrieprodukte KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3014163971,47.7167243958,14.3014163971,47.7167243958",
     "geom:latitude":47.716724,
     "geom:longitude":14.301416,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835497,
+        85632785,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AFt1w8ybTrhd7mfbRFxYp_47.716724_14.301416@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913657,
-    "wof:geomhash":"0ce6a6c6008aa15dc23067cb5ced3a26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54aa80a3f18dfcf00a066a8f1db7a671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835497,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092384497
+        }
+    ],
     "wof:id":1092384497,
-    "wof:lastmodified":1473984398,
+    "wof:lastmodified":1496886881,
     "wof:name":"Restaurant-Pizzeria Va bene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

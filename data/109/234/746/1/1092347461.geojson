@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0755386353,48.5750312805,16.0755386353,48.5750312805",
     "geom:latitude":48.575031,
     "geom:longitude":16.075539,
@@ -31,17 +32,33 @@
         "motor-cars"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37RHzcrAeDqwwTC1falZ4K_48.575031_16.075539@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911946,
-    "wof:geomhash":"748abbc6e4952e2b6c2415236a207465",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8232bcba05be41bbd5543b4d2c39b025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092347461
+        }
+    ],
     "wof:id":1092347461,
-    "wof:lastmodified":1473984825,
+    "wof:lastmodified":1496886288,
     "wof:name":"OPEL BRANTNER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

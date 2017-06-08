@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8352012634,46.6000709534,13.8352012634,46.6000709534",
     "geom:latitude":46.600071,
     "geom:longitude":13.835201,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899886,
-    "wof:geomhash":"34d4123deb9c440d335b238624e4e64a",
+    "wof:geomhash":"d80dea8aed288647270bc22e04d93297",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092082781
         }
     ],
     "wof:id":1092082781,
-    "wof:lastmodified":1473983989,
+    "wof:lastmodified":1496906018,
     "wof:name":"Steirerhof",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1411237717,47.0543251038,15.1411237717,47.0543251038",
     "geom:latitude":47.054325,
     "geom:longitude":15.141124,
@@ -32,17 +33,34 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839361,
+        85632785,
+        101834195,
+        102049717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IM8XZWEGrSazsW7n6mYJq_47.054325_15.141124@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905239,
-    "wof:geomhash":"fcf92f86ca9e083e439638f2e98ff84a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13b72e155b0984da0cb3871d5e72affa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108839361,
+            "locality_id":101834195,
+            "region_id":85681687,
+            "venue_id":1092194965
+        }
+    ],
     "wof:id":1092194965,
-    "wof:lastmodified":1473984515,
+    "wof:lastmodified":1496913749,
     "wof:name":"Altenburger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

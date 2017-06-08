@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6309900284,47.6108207703,13.6309900284,47.6108207703",
     "geom:latitude":47.610821,
     "geom:longitude":13.63099,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.salzkammergut.net/dachsteinpost/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835123,
+        85632785,
+        101788007,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HTgUukQ02uQX2HrT3ODid_47.610821_13.630990@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911602,
-    "wof:geomhash":"111e2af3a720b6ea26d67d2184cd2c45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2db42b35aa5e9466c7ece7cc80aeeaca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835123,
+            "locality_id":101788007,
+            "region_id":85681677,
+            "venue_id":1092339285
+        }
+    ],
     "wof:id":1092339285,
-    "wof:lastmodified":1473985307,
+    "wof:lastmodified":1496884699,
     "wof:name":"ERTL MarketingService",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

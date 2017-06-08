@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0858983994,47.7779769897,13.0858983994,47.7779769897",
     "geom:latitude":47.777977,
     "geom:longitude":13.085898,
@@ -25,10 +26,12 @@
     "sg:website":"lohnschnitt.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898136,
-    "wof:geomhash":"002ec0d8f84385f11710071002a97e13",
+    "wof:geomhash":"ea63019453d5495a9cce396e1e09b570",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1092040301
         }
     ],
     "wof:id":1092040301,
-    "wof:lastmodified":1473983303,
+    "wof:lastmodified":1496894590,
     "wof:name":"Mobiler Lohnschnitt Resch & Gmachl OEG",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

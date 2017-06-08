@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3375854492,48.0060653687,14.3375854492,48.0060653687",
     "geom:latitude":48.006065,
     "geom:longitude":14.337585,
@@ -32,17 +33,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836093,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gH4BSPklDeXNKsZiNgIwm_48.006065_14.337585@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905068,
-    "wof:geomhash":"8f54100d42e378ba934f65d14cfb05cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3978ab04a62b213f176d8535137456c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836093,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092190947
+        }
+    ],
     "wof:id":1092190947,
-    "wof:lastmodified":1473983464,
+    "wof:lastmodified":1496889455,
     "wof:name":"Karl Schmidhuber GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

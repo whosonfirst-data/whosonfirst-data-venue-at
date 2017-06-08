@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5303764343,48.175163269,14.5303764343,48.175163269",
     "geom:latitude":48.175163,
     "geom:longitude":14.530376,
@@ -32,17 +33,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835825,
+        85632785,
+        101844595,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BqrAbsNTIfbjeyVx2bmvJ_48.175163_14.530376@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889243,
-    "wof:geomhash":"8621725c0d4560545a2c353e619f64f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2daedbc674fa4fbc0ba5cc1a5290a252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835825,
+            "locality_id":101844595,
+            "region_id":85681671,
+            "venue_id":1091839321
+        }
+    ],
     "wof:id":1091839321,
-    "wof:lastmodified":1473985298,
+    "wof:lastmodified":1496888526,
     "wof:name":"Hans Ertl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

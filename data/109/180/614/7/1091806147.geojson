@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8413209915,46.8414840698,14.8413209915,46.8414840698",
     "geom:latitude":46.841484,
     "geom:longitude":14.841321,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"goldschmied-primus.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        101790087,
+        102049693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tHAJtXBaYqXiRkub2YjW4_46.841484_14.841321@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473887713,
-    "wof:geomhash":"0985520c28b4b8e4ebbd43fb79774217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6807f773787025785c2780d15be941c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":101790087,
+            "region_id":85681655,
+            "venue_id":1091806147
+        }
+    ],
     "wof:id":1091806147,
-    "wof:lastmodified":1473983639,
+    "wof:lastmodified":1496905235,
     "wof:name":"Goldschmied - Josef Primus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

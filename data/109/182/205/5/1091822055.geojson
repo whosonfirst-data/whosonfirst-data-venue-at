@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.877404213,48.3865013123,13.877404213,48.3865013123",
     "geom:latitude":48.386501,
     "geom:longitude":13.877404,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835219,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BnlWKZ4BC9zjaGLAhV6Vx_48.386501_13.877404@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888439,
-    "wof:geomhash":"9e47234ace9276e28faae6b9cde7417c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a3d2dcfd8c7f4642d101c9a6ca1b0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835219,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091822055
+        }
+    ],
     "wof:id":1091822055,
-    "wof:lastmodified":1473983839,
+    "wof:lastmodified":1496885491,
     "wof:name":"Josef Eder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

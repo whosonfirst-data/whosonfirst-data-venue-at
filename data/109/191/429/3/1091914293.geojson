@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.113401413,48.278793335,16.113401413,48.278793335",
     "geom:latitude":48.278793,
     "geom:longitude":16.113401,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834867,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oPu63lWwJGjTLuZeWJb5U_48.278793_16.113401@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892760,
-    "wof:geomhash":"c850d78af416c9a5f0d50c590ea08220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa671b0dd8bbdfe85dbbef7168073ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108834867,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091914293
+        }
+    ],
     "wof:id":1091914293,
-    "wof:lastmodified":1473983844,
+    "wof:lastmodified":1496883121,
     "wof:name":"Kerth Softwarehaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

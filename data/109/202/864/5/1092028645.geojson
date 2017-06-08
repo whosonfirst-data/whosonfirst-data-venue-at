@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8359127045,47.4079742432,12.8359127045,47.4079742432",
     "geom:latitude":47.407974,
     "geom:longitude":12.835913,
@@ -23,17 +24,33 @@
     "sg:postcode":"5760",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NTcYy9FlN6nQFd371Iobt_47.407974_12.835913@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897672,
-    "wof:geomhash":"863ea0d6ed8cfb32baedd52366fecb87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dcebb8f97ed56a553505e7f3c8611ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092028645
+        }
+    ],
     "wof:id":1092028645,
-    "wof:lastmodified":1473985067,
+    "wof:lastmodified":1496896344,
     "wof:name":"Herzog Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

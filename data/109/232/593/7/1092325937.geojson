@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3679924011,48.2579536438,16.3679924011,48.2579536438",
     "geom:latitude":48.257954,
     "geom:longitude":16.367992,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898361,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911053,
-    "wof:geomhash":"b9f7f3df013ec7f1ba67322f5050c03b",
+    "wof:geomhash":"e8d599eb1cbb652b8425b10f2019364b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898361,
             "region_id":85681667,
             "venue_id":1092325937
         }
     ],
     "wof:id":1092325937,
-    "wof:lastmodified":1473984820,
+    "wof:lastmodified":1496903157,
     "wof:name":"Irmgard Bocek-Weber",
     "wof:parent_id":85898361,
     "wof:placetype":"venue",

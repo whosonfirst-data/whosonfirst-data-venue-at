@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.819278717,47.3021240234,12.819278717,47.3021240234",
     "geom:latitude":47.302124,
     "geom:longitude":12.819279,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BtdhcQ1COv9adiYFNGsPT_47.302124_12.819279@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898991,
-    "wof:geomhash":"d154c81aeef68f55663de8af959f7103",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df174b6c9d0b0ab90cd4812debc01203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092062207
+        }
+    ],
     "wof:id":1092062207,
-    "wof:lastmodified":1473983769,
+    "wof:lastmodified":1496896495,
     "wof:name":"Berggasthaus Hasling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

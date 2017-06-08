@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7471818924,47.2354927063,10.7471818924,47.2354927063",
     "geom:latitude":47.235493,
     "geom:longitude":10.747182,
@@ -23,17 +24,34 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.ttz.co.at/ah/aclick/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ki59x0r2Ahsx7IrZr1khV_47.235493_10.747182@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896473,
-    "wof:geomhash":"a120a7b698764a756e2d700aa995636c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96ba4562a9394277921c5a3651f59871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1091998551
+        }
+    ],
     "wof:id":1091998551,
-    "wof:lastmodified":1473984956,
+    "wof:lastmodified":1496898402,
     "wof:name":"Austria Click",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

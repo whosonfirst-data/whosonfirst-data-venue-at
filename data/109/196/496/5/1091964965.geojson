@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4211406708,48.2974586487,16.4211406708,48.2974586487",
     "geom:latitude":48.297459,
     "geom:longitude":16.421141,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895035,
-    "wof:geomhash":"debaece5b39fc43a10e0a030610e1be0",
+    "wof:geomhash":"5dd720171444a1ad7c3f1fe33d363004",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1091964965
         }
     ],
     "wof:id":1091964965,
-    "wof:lastmodified":1473984126,
+    "wof:lastmodified":1496903877,
     "wof:name":"Pavlovic Anto",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

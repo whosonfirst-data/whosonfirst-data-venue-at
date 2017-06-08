@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.200056076,48.2330741882,16.200056076,48.2330741882",
     "geom:latitude":48.233074,
     "geom:longitude":16.200056,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898669,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913152,
-    "wof:geomhash":"c1c256f044daba5d2edead0a430005ff",
+    "wof:geomhash":"161d75f3ff2df29e99484e6d36ebd8d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898669,
             "region_id":85681667,
             "venue_id":1092373027
         }
     ],
     "wof:id":1092373027,
-    "wof:lastmodified":1473984120,
+    "wof:lastmodified":1496927657,
     "wof:name":"Pillmeier Gerhard",
     "wof:parent_id":85898669,
     "wof:placetype":"venue",

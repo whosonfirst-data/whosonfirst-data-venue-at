@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8164396286,48.2143783569,13.8164396286,48.2143783569",
     "geom:latitude":48.214378,
     "geom:longitude":13.81644,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.heltschl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gPRGxTJImYYwqgdXrrKlu_48.214378_13.816440@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911606,
-    "wof:geomhash":"7c0e19b5f01c035e92c34ac2e92988c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7252c637d2401192b7f722c66f916829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092339415
+        }
+    ],
     "wof:id":1092339415,
-    "wof:lastmodified":1473985316,
+    "wof:lastmodified":1496885293,
     "wof:name":"Hermann Heltschl GmbH.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5981664658,47.3015441895,15.5981664658,47.3015441895",
     "geom:latitude":47.301544,
     "geom:longitude":15.598166,
@@ -23,17 +24,33 @@
     "sg:postcode":"8171",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838905,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bJEjnJ7ZWtEot492CDGZt_47.301544_15.598166@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914781,
-    "wof:geomhash":"692df12e8251d77361ea814a9b3fef00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3b9991ebb1f59ac03e35e56d72f2872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838905,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092408409
+        }
+    ],
     "wof:id":1092408409,
-    "wof:lastmodified":1473984889,
+    "wof:lastmodified":1496910059,
     "wof:name":"Schinnerl Metall+Fassadenbau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

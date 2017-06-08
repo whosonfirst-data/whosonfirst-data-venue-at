@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4055213928,48.1379966736,16.4055213928,48.1379966736",
     "geom:latitude":48.137997,
     "geom:longitude":16.405521,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900945,
-    "wof:geomhash":"616dc7033e8293c3f07bf63effa7f706",
+    "wof:geomhash":"d9781461eebe902b7fdf59479ff07a51",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092102689
         }
     ],
     "wof:id":1092102689,
-    "wof:lastmodified":1473983791,
+    "wof:lastmodified":1496902412,
     "wof:name":"Grabsteinvertrieb GesmbH",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

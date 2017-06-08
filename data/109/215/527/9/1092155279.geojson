@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0861291885,48.881690979,15.0861291885,48.881690979",
     "geom:latitude":48.881691,
     "geom:longitude":15.086129,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108834865,
+        85633105,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IfHisSkr6mpzWZa7xQehV_48.881691_15.086129@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903455,
-    "wof:geomhash":"c3700b438df4cb7173d57d1cbc7b8dfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65a0bee5cb013559c688850905c71652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108834865,
+            "locality_id":-1,
+            "region_id":85682415,
+            "venue_id":1092155279
+        }
+    ],
     "wof:id":1092155279,
-    "wof:lastmodified":1473984387,
+    "wof:lastmodified":1496883082,
     "wof:name":"Granner Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3510808945,47.1532783508,11.3510808945,47.1532783508",
     "geom:latitude":47.153278,
     "geom:longitude":11.351081,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837587,
+        85632785,
+        101834205,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2crw02iyrxy1kUfKrZzEkq_47.153278_11.351081@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913585,
-    "wof:geomhash":"53f0d61f3a94a554a898343b93b5e125",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0e7709703adf565052b2ad5586cd8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837587,
+            "locality_id":101834205,
+            "region_id":85681661,
+            "venue_id":1092382927
+        }
+    ],
     "wof:id":1092382927,
-    "wof:lastmodified":1473984093,
+    "wof:lastmodified":1496898597,
     "wof:name":"Pizzeria Bel Ami",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

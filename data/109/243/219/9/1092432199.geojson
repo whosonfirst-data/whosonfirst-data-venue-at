@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7914581299,47.3042564392,12.7914581299,47.3042564392",
     "geom:latitude":47.304256,
     "geom:longitude":12.791458,
@@ -34,17 +35,33 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XOWXy3aPdTBsJmA6nS98P_47.304256_12.791458@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473916012,
-    "wof:geomhash":"e49da193622e5bb300ec2c78fd9735c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3db7a767c1441c9d1610af31e0bf7098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092432199
+        }
+    ],
     "wof:id":1092432199,
-    "wof:lastmodified":1473983696,
+    "wof:lastmodified":1496896448,
     "wof:name":"GEBR. FESTERER GMBH KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

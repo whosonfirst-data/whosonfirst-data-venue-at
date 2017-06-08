@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4053497314,47.0282897949,15.4053497314,47.0282897949",
     "geom:latitude":47.02829,
     "geom:longitude":15.40535,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891878,
-    "wof:geomhash":"b4e592777ee1b13c96088ccf8e5006ca",
+    "wof:geomhash":"b231e7a32a00ea7212f68d8540abf54a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1091895799
         }
     ],
     "wof:id":1091895799,
-    "wof:lastmodified":1473984656,
+    "wof:lastmodified":1496913558,
     "wof:name":"Pichler Sandstrahlunternehmen",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

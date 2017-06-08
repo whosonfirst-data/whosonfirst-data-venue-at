@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4703388214,47.2649230957,11.4703388214,47.2649230957",
     "geom:latitude":47.264923,
     "geom:longitude":11.470339,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891735,
-    "wof:geomhash":"6021b58ef9416aa929fe909853f3fde2",
+    "wof:geomhash":"b1dbdc1045a3406e5b39d4918d08f1e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091892407
         }
     ],
     "wof:id":1091892407,
-    "wof:lastmodified":1473983869,
+    "wof:lastmodified":1496898025,
     "wof:name":"Office Management - Ing Robert Hofer",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

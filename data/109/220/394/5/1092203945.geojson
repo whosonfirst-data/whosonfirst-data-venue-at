@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2425928116,48.2189178467,14.2425928116,48.2189178467",
     "geom:latitude":48.218918,
     "geom:longitude":14.242593,
@@ -31,17 +32,34 @@
         "cigarette"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        101754215,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SzCDpAv37Hsbqn2QZR6D0_48.218918_14.242593@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905700,
-    "wof:geomhash":"21b18011cd0fe7b94f00054e7fdd51e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d74f76ff790a03c6b80a2ec9b500b611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":101754215,
+            "region_id":85681677,
+            "venue_id":1092203945
+        }
+    ],
     "wof:id":1092203945,
-    "wof:lastmodified":1473984241,
+    "wof:lastmodified":1496887403,
     "wof:name":"Dr. Franz Feurstein Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

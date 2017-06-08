@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9228620529,47.9818496704,12.9228620529,47.9818496704",
     "geom:latitude":47.98185,
     "geom:longitude":12.922862,
@@ -23,17 +24,34 @@
     "sg:postcode":"5111",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837119,
+        85632785,
+        101833103,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gpcNti0MRX3vgigGrha8V_47.981850_12.922862@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888781,
-    "wof:geomhash":"0b751005fd09b7d56c056e8938c1b448",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0483a5580879413308fd591f9f0afffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837119,
+            "locality_id":101833103,
+            "region_id":85681681,
+            "venue_id":1091829697
+        }
+    ],
     "wof:id":1091829697,
-    "wof:lastmodified":1473985333,
+    "wof:lastmodified":1496895238,
     "wof:name":"Salzburger Sparkasse Bank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

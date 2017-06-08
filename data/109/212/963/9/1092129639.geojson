@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0822610855,47.789691925,13.0822610855,47.789691925",
     "geom:latitude":47.789692,
     "geom:longitude":13.082261,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902254,
-    "wof:geomhash":"480250d9856da646ca711ae7d32d9a87",
+    "wof:geomhash":"a2e9e4bab6eff88bdfd5afeff4cefd38",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092129639
         }
     ],
     "wof:id":1092129639,
-    "wof:lastmodified":1473985297,
+    "wof:lastmodified":1496923006,
     "wof:name":"Andre Marek - Osteopath",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

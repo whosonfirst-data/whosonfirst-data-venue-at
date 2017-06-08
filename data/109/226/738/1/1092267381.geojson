@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5371627808,48.2137832642,16.5371627808,48.2137832642",
     "geom:latitude":48.213783,
     "geom:longitude":16.537163,
@@ -37,10 +38,13 @@
     "sg:website":"mtm.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +52,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908488,
-    "wof:geomhash":"3c49a99f1f957675f009948b8bd863c0",
+    "wof:geomhash":"f6e1e6ef896bd126c1bbbbbab14a78e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092267381
         }
     ],
     "wof:id":1092267381,
-    "wof:lastmodified":1473984768,
+    "wof:lastmodified":1496902087,
     "wof:name":"MTM-Systeme",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6301765442,47.5495033264,10.6301765442,47.5495033264",
     "geom:latitude":47.549503,
     "geom:longitude":10.630177,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837779,
+        85632785,
+        101844507,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Epg2MRLSZaFrrJRJk3BUH_47.549503_10.630177@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889239,
-    "wof:geomhash":"8971ccff8dd7bcf0b10080fca1177493",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c95e3f11aa42231e216e3dce2ceb8082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837779,
+            "locality_id":101844507,
+            "region_id":85681661,
+            "venue_id":1091839219
+        }
+    ],
     "wof:id":1091839219,
-    "wof:lastmodified":1473985313,
+    "wof:lastmodified":1496899973,
     "wof:name":"Otto Lochbihler jun.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

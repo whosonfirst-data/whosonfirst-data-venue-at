@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5775699615,47.2391967773,9.5775699615,47.2391967773",
     "geom:latitude":47.239197,
     "geom:longitude":9.57757,
@@ -34,10 +35,13 @@
     "sg:website":"geiger-international.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905300,
-    "wof:geomhash":"fce403169aea69815f74b33ca652d8de",
+    "wof:geomhash":"20494dc6af042e6cb4bcb6ff438a5912",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092196393
         }
     ],
     "wof:id":1092196393,
-    "wof:lastmodified":1473984741,
+    "wof:lastmodified":1496900923,
     "wof:name":"Geiger International",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6678409576,47.414100647,9.6678409576,47.414100647",
     "geom:latitude":47.414101,
     "geom:longitude":9.667841,
@@ -23,17 +24,33 @@
     "sg:postcode":"6890",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QaF3znJbRQzgqX6zkSvit_47.414101_9.667841@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473902885,
-    "wof:geomhash":"52c199dedb0a04bb01b3a1e721bd78e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dac152cedc39edd6856051710333591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092143093
+        }
+    ],
     "wof:id":1092143093,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496901495,
     "wof:name":"Media Agentur K+H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

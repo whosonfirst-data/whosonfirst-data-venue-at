@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2556695938,46.538898468,14.2556695938,46.538898468",
     "geom:latitude":46.538898,
     "geom:longitude":14.25567,
@@ -32,17 +33,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838165,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CBLNu52gB4LsQ2phcG9oy_46.538898_14.255670@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908472,
-    "wof:geomhash":"e9bdf6cad6ae2df72ea5f7b333fd2374",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01dbf340ed4d10b90f0f574e60197040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838165,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092266975
+        }
+    ],
     "wof:id":1092266975,
-    "wof:lastmodified":1473984672,
+    "wof:lastmodified":1496906344,
     "wof:name":"Stefan Stern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

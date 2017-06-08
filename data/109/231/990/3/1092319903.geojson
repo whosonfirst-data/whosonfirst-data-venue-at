@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.651309967,48.1428489685,14.651309967,48.1428489685",
     "geom:latitude":48.142849,
     "geom:longitude":14.65131,
@@ -32,17 +33,33 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836251,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kErlx9hY6PlAdI4bVvcxN_48.142849_14.651310@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910800,
-    "wof:geomhash":"8d3a14a9fce2c56deb01538c045b0aa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92a5bc276bf15006410d16ada9a6eb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836251,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092319903
+        }
+    ],
     "wof:id":1092319903,
-    "wof:lastmodified":1473985322,
+    "wof:lastmodified":1496890201,
     "wof:name":"Martin Reichart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

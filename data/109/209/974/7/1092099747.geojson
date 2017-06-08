@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3760061264,47.2271842957,11.3760061264,47.2271842957",
     "geom:latitude":47.227184,
     "geom:longitude":11.376006,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900798,
-    "wof:geomhash":"cdaed25ad317feba16bff035e68c74c1",
+    "wof:geomhash":"1b8cd60964d31558b5e00f476c18fc7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092099747
         }
     ],
     "wof:id":1092099747,
-    "wof:lastmodified":1473985085,
+    "wof:lastmodified":1496898474,
     "wof:name":"Gemeindeamt Mutters",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

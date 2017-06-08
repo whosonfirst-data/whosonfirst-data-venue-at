@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2690315247,48.1225090027,16.2690315247,48.1225090027",
     "geom:latitude":48.122509,
     "geom:longitude":16.269032,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898897,
-    "wof:geomhash":"7efef8b806fbb76db09a58b91f19f6af",
+    "wof:geomhash":"42d1bfe93d45d093cd51da2b7de90608",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092059945
         }
     ],
     "wof:id":1092059945,
-    "wof:lastmodified":1473985209,
+    "wof:lastmodified":1496885847,
     "wof:name":"Ge-Schu Installateur GmbH",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

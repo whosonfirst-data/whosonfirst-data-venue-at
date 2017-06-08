@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1266918182,47.5662117004,12.1266918182,47.5662117004",
     "geom:latitude":47.566212,
     "geom:longitude":12.126692,
@@ -23,17 +24,33 @@
     "sg:postcode":"6336",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837405,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0veb3MOxlHzNt6pgjVhS32_47.566212_12.126692@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915970,
-    "wof:geomhash":"55df98486b3a52a9064ead23e30159f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eb323a541048ff02e93700149d5ae35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837405,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092431321
+        }
+    ],
     "wof:id":1092431321,
-    "wof:lastmodified":1473983519,
+    "wof:lastmodified":1496897739,
     "wof:name":"Flugplatz Kufstein-Langkampfen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

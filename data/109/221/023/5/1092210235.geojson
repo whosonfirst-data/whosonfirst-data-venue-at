@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4036626816,47.2792434692,11.4036626816,47.2792434692",
     "geom:latitude":47.279243,
     "geom:longitude":11.403663,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905972,
-    "wof:geomhash":"9592ba6a39f35b66fdf97cbb9b8de538",
+    "wof:geomhash":"3fceca400b2e7f04deedb4b54769f8ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092210235
         }
     ],
     "wof:id":1092210235,
-    "wof:lastmodified":1473983367,
+    "wof:lastmodified":1496899386,
     "wof:name":"Mark Dietmar Josef",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

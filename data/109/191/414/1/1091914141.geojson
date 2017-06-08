@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3891601562,47.481048584,12.3891601562,47.481048584",
     "geom:latitude":47.481049,
     "geom:longitude":12.38916,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837367,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OP9TdVNxYetLV43LlYBOm_47.481049_12.389160@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892755,
-    "wof:geomhash":"f0010c0295444183e2c1aa3d2e7136cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aad85e5d736bc16ef62854f5bfb1dc44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837367,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091914141
+        }
+    ],
     "wof:id":1091914141,
-    "wof:lastmodified":1473983866,
+    "wof:lastmodified":1496897322,
     "wof:name":"Inventcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

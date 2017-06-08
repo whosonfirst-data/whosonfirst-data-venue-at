@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6896791458,48.2278938293,14.6896791458,48.2278938293",
     "geom:latitude":48.227894,
     "geom:longitude":14.689679,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.cda-verlag.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835601,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A7PxJMY3hwE3U4xgvWIEx_48.227894_14.689679@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911601,
-    "wof:geomhash":"ff52cb65d23026d0223518883f72c267",
-    "wof:hierarchy":[],
+    "wof:geomhash":"252e1c1f0eb621f462d5df05045a8b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835601,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092339277
+        }
+    ],
     "wof:id":1092339277,
-    "wof:lastmodified":1473985298,
+    "wof:lastmodified":1496887628,
     "wof:name":"CDA Verlags- und HandelsgesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

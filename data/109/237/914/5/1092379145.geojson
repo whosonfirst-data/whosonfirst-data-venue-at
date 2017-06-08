@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0583324432,47.7392845154,13.0583324432,47.7392845154",
     "geom:latitude":47.739285,
     "geom:longitude":13.058332,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913414,
-    "wof:geomhash":"f4f99490162f9e2ed13871c78fb0f98b",
+    "wof:geomhash":"be6152d0f98ca3fc78c5faef250c6ac4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1092379145
         }
     ],
     "wof:id":1092379145,
-    "wof:lastmodified":1473985296,
+    "wof:lastmodified":1496895177,
     "wof:name":"Decimo Vital Stranig KEG",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

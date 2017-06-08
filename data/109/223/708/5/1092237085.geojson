@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3580331802,47.2498016357,11.3580331802,47.2498016357",
     "geom:latitude":47.249802,
     "geom:longitude":11.358033,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907133,
-    "wof:geomhash":"ddda5016569e19d462fa9935aff0845b",
+    "wof:geomhash":"696fff03f597ede5fe6ffa38a6acbe69",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092237085
         }
     ],
     "wof:id":1092237085,
-    "wof:lastmodified":1473984865,
+    "wof:lastmodified":1496899353,
     "wof:name":"Tierschutzverein f\u00fcr Tirol - Tierheim Mentlberg",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

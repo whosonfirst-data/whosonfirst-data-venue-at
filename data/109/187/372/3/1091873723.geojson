@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0866193771,47.8415870667,13.0866193771,47.8415870667",
     "geom:latitude":47.841587,
     "geom:longitude":13.086619,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890847,
-    "wof:geomhash":"6de8379b66098f648c08d15a91bfaaaf",
+    "wof:geomhash":"45012179e1042d7cc1978a2a5511fb96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1091873723
         }
     ],
     "wof:id":1091873723,
-    "wof:lastmodified":1473983905,
+    "wof:lastmodified":1496895377,
     "wof:name":"Rolands G\u00e4rtnerei",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

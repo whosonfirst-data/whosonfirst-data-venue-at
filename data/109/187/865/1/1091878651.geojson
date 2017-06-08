@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3104600906,46.6246604919,14.3104600906,46.6246604919",
     "geom:latitude":46.62466,
     "geom:longitude":14.31046,
@@ -24,13 +25,14 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
+        85898253,
         102191581,
+        1108838143,
         85632785,
         101748059,
         102049679,
-        85898267,
-        85898253
+        85681655,
+        85898267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473891071,
-    "wof:geomhash":"fb095ef74aa4753cc6cb43160eb2f32e",
+    "wof:geomhash":"9ec3d36134d7eb6a4dd91eaf94c55dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
             "locality_id":101748059,
-            "neighbourhood_id":85898267,
+            "neighbourhood_id":85898253,
             "region_id":85681655,
             "venue_id":1091878651
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
             "locality_id":101748059,
-            "neighbourhood_id":85898253,
+            "neighbourhood_id":85898267,
             "region_id":85681655,
             "venue_id":1091878651
         }
     ],
     "wof:id":1091878651,
-    "wof:lastmodified":1473985084,
+    "wof:lastmodified":1496905704,
     "wof:name":"L'Etienne",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

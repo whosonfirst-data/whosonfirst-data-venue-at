@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5810165405,47.2316436768,9.5810165405,47.2316436768",
     "geom:latitude":47.231644,
     "geom:longitude":9.581017,
@@ -24,10 +25,13 @@
     "sg:website":"http://www.dr-w-mayer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911609,
-    "wof:geomhash":"a65da9eb0d63152ed3035dc1eec4a031",
+    "wof:geomhash":"c3ed7cd822e97f27f59f664d6a84f77e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092339483
         }
     ],
     "wof:id":1092339483,
-    "wof:lastmodified":1473985317,
+    "wof:lastmodified":1496900909,
     "wof:name":"Dr. Wolfgang Mayer",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8518733978,48.3295631409,13.8518733978,48.3295631409",
     "geom:latitude":48.329563,
     "geom:longitude":13.851873,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835233,
+        85632785,
+        101784579,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SD2AFNeTgLqtYUxQfwdHH_48.329563_13.851873@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905070,
-    "wof:geomhash":"8751ec1f31eabbe23e2ef662d27f348d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c48969f399aad2bb83adf436b709386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835233,
+            "locality_id":101784579,
+            "region_id":85681677,
+            "venue_id":1092191015
+        }
+    ],
     "wof:id":1092191015,
-    "wof:lastmodified":1473983490,
+    "wof:lastmodified":1496885519,
     "wof:name":"HERBERT FLEISCHHANDEL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

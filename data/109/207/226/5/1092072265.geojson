@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0775022507,47.9702796936,13.0775022507,47.9702796936",
     "geom:latitude":47.97028,
     "geom:longitude":13.077502,
@@ -23,17 +24,34 @@
     "sg:postcode":"5164",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837181,
+        85632785,
+        101785611,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71iL83LhiCFRqe2bbPUCxs_47.970280_13.077502@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899399,
-    "wof:geomhash":"051c7a292b37c1388a236513ba10af83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c04e853d520ed394b6af86de6024bd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837181,
+            "locality_id":101785611,
+            "region_id":85681681,
+            "venue_id":1092072265
+        }
+    ],
     "wof:id":1092072265,
-    "wof:lastmodified":1473983742,
+    "wof:lastmodified":1496895666,
     "wof:name":"Gasthof Entenwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

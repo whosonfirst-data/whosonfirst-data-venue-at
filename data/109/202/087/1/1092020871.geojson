@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5655174255,48.2571868896,15.5655174255,48.2571868896",
     "geom:latitude":48.257187,
     "geom:longitude":15.565517,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"schlachthof.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836811,
+        85632785,
+        101784601,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fzfNQ2u5NvwjRsHfmOCH5_48.257187_15.565517@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897378,
-    "wof:geomhash":"b940130c09203c0124597efb5a0f74b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ba8d47c525ffa69c59b4b9ab0f44fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836811,
+            "locality_id":101784601,
+            "region_id":85681671,
+            "venue_id":1092020871
+        }
+    ],
     "wof:id":1092020871,
-    "wof:lastmodified":1473983512,
+    "wof:lastmodified":1496892889,
     "wof:name":"Julius Kloiber Schlachthof Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

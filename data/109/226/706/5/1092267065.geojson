@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9416599274,46.7231063843,15.9416599274,46.7231063843",
     "geom:latitude":46.723106,
     "geom:longitude":15.94166,
@@ -31,17 +32,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838805,
+        85632785,
+        102049687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gm8iupJbxOgLRkHywsshE_46.723106_15.941660@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908476,
-    "wof:geomhash":"14f189be89a721eb94a4ec721af190dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85bf12ee3e9b956ce2cf4a69280737e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049687,
+            "localadmin_id":1108838805,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092267065
+        }
+    ],
     "wof:id":1092267065,
-    "wof:lastmodified":1473984672,
+    "wof:lastmodified":1496909384,
     "wof:name":"Erich Eibl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

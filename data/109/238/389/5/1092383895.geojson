@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1621437073,47.1592254639,16.1621437073,47.1592254639",
     "geom:latitude":47.159225,
     "geom:longitude":16.162144,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838447,
+        85632785,
+        101787843,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wLDK8zdAKDt0CAhaVQZHh_47.159225_16.162144@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913634,
-    "wof:geomhash":"14d7d0a151c500183148d3d6f4b0b4b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"864719268261252e8e7f67d5d6fcb31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838447,
+            "locality_id":101787843,
+            "region_id":85681651,
+            "venue_id":1092383895
+        }
+    ],
     "wof:id":1092383895,
-    "wof:lastmodified":1473984206,
+    "wof:lastmodified":1496907949,
     "wof:name":"Pizzeria Restaurant San Marco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

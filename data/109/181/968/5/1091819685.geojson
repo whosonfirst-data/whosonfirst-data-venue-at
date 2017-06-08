@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3616580963,48.5267753601,16.3616580963,48.5267753601",
     "geom:latitude":48.526775,
     "geom:longitude":16.361658,
@@ -31,17 +32,34 @@
         "firewood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836857,
+        85632785,
+        101782217,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W8AzsdklyqpdP1gVyecud_48.526775_16.361658@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473888333,
-    "wof:geomhash":"99977872fca863ab5dee91a3fb1904ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c09f0f1b05f55c8e21ccd8a0ce6d02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836857,
+            "locality_id":101782217,
+            "region_id":85681671,
+            "venue_id":1091819685
+        }
+    ],
     "wof:id":1091819685,
-    "wof:lastmodified":1473985233,
+    "wof:lastmodified":1496893070,
     "wof:name":"Leopold Kranz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3583173752,47.2414016724,11.3583173752,47.2414016724",
     "geom:latitude":47.241402,
     "geom:longitude":11.358317,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904347,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899125,
-    "wof:geomhash":"2d03387b81fe03d1454c33964cd1dea4",
+    "wof:geomhash":"eca4e69b91a86c7e23ce0172ae18cabf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1092065555
         }
     ],
     "wof:id":1092065555,
-    "wof:lastmodified":1473984363,
+    "wof:lastmodified":1496898475,
     "wof:name":"Gasthaus Eichhof",
     "wof:parent_id":85904347,
     "wof:placetype":"venue",

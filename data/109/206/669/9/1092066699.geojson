@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3308153152,47.2380638123,13.3308153152,47.2380638123",
     "geom:latitude":47.238064,
     "geom:longitude":13.330815,
@@ -23,17 +24,33 @@
     "sg:postcode":"5603",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837019,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X3dSMH3nLu3p2yVszIGz2_47.238064_13.330815@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899170,
-    "wof:geomhash":"ebf89bd75b6aa6a960ef7bcc15cdd613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72c05cacf16b8223d6e48f5ea866e8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837019,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092066699
+        }
+    ],
     "wof:id":1092066699,
-    "wof:lastmodified":1473984636,
+    "wof:lastmodified":1496893972,
     "wof:name":"Gasthaus J\u00e4gersee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

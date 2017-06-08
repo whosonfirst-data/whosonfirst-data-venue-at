@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2862939835,47.4807853699,15.2862939835,47.4807853699",
     "geom:latitude":47.480785,
     "geom:longitude":15.286294,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"mcg-montagen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839319,
+        85632785,
+        101787997,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PNfF9MM0xOyausRnhpJ3W_47.480785_15.286294@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911920,
-    "wof:geomhash":"13f1e2cc6e7191d1458063b709f30007",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a815ec53b60e48e0d6d315d8fe3be722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839319,
+            "locality_id":101787997,
+            "region_id":85681687,
+            "venue_id":1092346789
+        }
+    ],
     "wof:id":1092346789,
-    "wof:lastmodified":1473984669,
+    "wof:lastmodified":1496912779,
     "wof:name":"McG Montagen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

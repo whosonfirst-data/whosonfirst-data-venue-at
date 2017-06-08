@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7357568741,47.2395896912,10.7357568741,47.2395896912",
     "geom:latitude":47.23959,
     "geom:longitude":10.735757,
@@ -23,17 +24,34 @@
     "sg:postcode":"6460",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M9jmOWI2k3uZVpJ43wyq6_47.239590_10.735757@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473898089,
-    "wof:geomhash":"3cc59885f020cce9452e786006daee0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5c1b000f9b9d76d82ae04aa804b6f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092039007
+        }
+    ],
     "wof:id":1092039007,
-    "wof:lastmodified":1473984932,
+    "wof:lastmodified":1496898376,
     "wof:name":"Kneippverein Imst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

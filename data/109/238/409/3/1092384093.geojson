@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5126419067,48.3791007996,16.5126419067,48.3791007996",
     "geom:latitude":48.379101,
     "geom:longitude":16.512642,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836323,
+        85632785,
+        101833285,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MDJj06b6sMfLNjTyJDzre_48.379101_16.512642@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913642,
-    "wof:geomhash":"c616882d27c2ec1619a0c8dc638faeeb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93bffcb361d8c051a17855327f635c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836323,
+            "locality_id":101833285,
+            "region_id":85681671,
+            "venue_id":1092384093
+        }
+    ],
     "wof:id":1092384093,
-    "wof:lastmodified":1473984278,
+    "wof:lastmodified":1496890551,
     "wof:name":"Pizzeria Tendro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

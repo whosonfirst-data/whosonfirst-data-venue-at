@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5405673981,46.8712730408,14.5405673981,46.8712730408",
     "geom:latitude":46.871273,
     "geom:longitude":14.540567,
@@ -32,17 +33,33 @@
         "refrigerator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838225,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VSdpEYMqzXBg0K6Pe86vm_46.871273_14.540567@1306268271"
     },
     "wof:country":"AT",
     "wof:created":1473901223,
-    "wof:geomhash":"a35296ee0269e4041f95dc523d0105e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05669e050d6807d4cf14d1b02cbdebeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838225,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092108603
+        }
+    ],
     "wof:id":1092108603,
-    "wof:lastmodified":1473984980,
+    "wof:lastmodified":1496906623,
     "wof:name":"Gerhard Kogler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

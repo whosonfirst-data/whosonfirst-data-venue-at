@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7216081619,47.5928230286,12.7216081619,47.5928230286",
     "geom:latitude":47.592823,
     "geom:longitude":12.721608,
@@ -23,17 +24,33 @@
     "sg:postcode":"5090",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837213,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G5y4S7AYweu8ERaUT0Q1R_47.592823_12.721608@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897605,
-    "wof:geomhash":"92fdc521a3a5935ea301646217ca43a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56d9401c5d5494d4ef9005d919762a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837213,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092027085
+        }
+    ],
     "wof:id":1092027085,
-    "wof:lastmodified":1473984786,
+    "wof:lastmodified":1496896018,
     "wof:name":"Wimmer KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

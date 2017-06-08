@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.783372879,47.6095199585,13.783372879,47.6095199585",
     "geom:latitude":47.60952,
     "geom:longitude":13.783373,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838965,
+        85632785,
+        101787973,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FUPy8CoXSWUBvWafWOyMO_47.609520_13.783373@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892785,
-    "wof:geomhash":"2728ce351f36079ac6080136e924298e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69e61131b95b683f34a6102e027c5ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838965,
+            "locality_id":101787973,
+            "region_id":85681687,
+            "venue_id":1091914831
+        }
+    ],
     "wof:id":1091914831,
-    "wof:lastmodified":1473983921,
+    "wof:lastmodified":1496910546,
     "wof:name":"Novacom Software GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

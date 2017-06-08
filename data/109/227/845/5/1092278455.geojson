@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3331365585,47.8625793457,13.3331365585,47.8625793457",
     "geom:latitude":47.862579,
     "geom:longitude":13.333137,
@@ -33,17 +34,34 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836451,
+        85632785,
+        101785673,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v9bX4N0g0T4BU5zNmAmKI_47.862579_13.333137@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473908960,
-    "wof:geomhash":"a277b98efc367a2e9786fd6d921454ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"510e64b4f75fae4a852bafa9e885bb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836451,
+            "locality_id":101785673,
+            "region_id":85681677,
+            "venue_id":1092278455
+        }
+    ],
     "wof:id":1092278455,
-    "wof:lastmodified":1473985297,
+    "wof:lastmodified":1496891158,
     "wof:name":"BWT AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

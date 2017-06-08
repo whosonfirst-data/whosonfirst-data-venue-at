@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0360631943,47.4098701477,12.0360631943,47.4098701477",
     "geom:latitude":47.40987,
     "geom:longitude":12.036063,
@@ -23,17 +24,33 @@
     "sg:postcode":"6313",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837277,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31DjYyDAnjJDu8puiKsLI4_47.409870_12.036063@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912794,
-    "wof:geomhash":"5df8123e9ec284dadeaa117b6402af3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e71139bd6f9fdbedd6efb7eeb9a395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837277,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092365885
+        }
+    ],
     "wof:id":1092365885,
-    "wof:lastmodified":1473984713,
+    "wof:lastmodified":1496896644,
     "wof:name":"Haus Feldalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

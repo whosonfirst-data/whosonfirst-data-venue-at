@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0134525299,48.2544212341,16.0134525299,48.2544212341",
     "geom:latitude":48.254421,
     "geom:longitude":16.013453,
@@ -31,17 +32,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835869,
+        85632785,
+        101784611,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BaAHfa6HBcBSLsfhZ233S_48.254421_16.013453@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473887977,
-    "wof:geomhash":"7df32a49b08f9da7a9e06ceb4a16eeb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8db2081a861a44053ef94f22957e4407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835869,
+            "locality_id":101784611,
+            "region_id":85681671,
+            "venue_id":1091811481
+        }
+    ],
     "wof:id":1091811481,
-    "wof:lastmodified":1473983613,
+    "wof:lastmodified":1496888705,
     "wof:name":"Franz Geiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

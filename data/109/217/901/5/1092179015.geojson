@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3204917908,48.1286201477,16.3204917908,48.1286201477",
     "geom:latitude":48.12862,
     "geom:longitude":16.320492,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904526,
-    "wof:geomhash":"82b395c73bd63edca51b32819f35ccea",
+    "wof:geomhash":"137e2e96bfe0017e3ace3c309f185bc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092179015
         }
     ],
     "wof:id":1092179015,
-    "wof:lastmodified":1473985242,
+    "wof:lastmodified":1496903087,
     "wof:name":"Plachy Maria",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

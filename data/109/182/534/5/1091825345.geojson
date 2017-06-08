@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5078983307,47.2816810608,11.5078983307,47.2816810608",
     "geom:latitude":47.281681,
     "geom:longitude":11.507898,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888581,
-    "wof:geomhash":"3ee4788eb1012d26575f7a2bb1af4a50",
+    "wof:geomhash":"b2e1cdd961e40d5f195ae9ac503b2b2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091825345
         }
     ],
     "wof:id":1091825345,
-    "wof:lastmodified":1473984734,
+    "wof:lastmodified":1496898731,
     "wof:name":"BTV - Bank f\u00fcr Tirol und Vorarlberg AG",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

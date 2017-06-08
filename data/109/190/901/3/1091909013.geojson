@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5922708511,47.9463615417,13.5922708511,47.9463615417",
     "geom:latitude":47.946362,
     "geom:longitude":13.592271,
@@ -31,17 +32,33 @@
         "second-hand-shops"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836501,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67qRXpRTUVKQ9B26DfbcZn_47.946362_13.592271@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892513,
-    "wof:geomhash":"d4b4d12a49acc810985fe57653c65c30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93f86d0841bbfcc242cbc9d25d46cb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836501,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091909013
+        }
+    ],
     "wof:id":1091909013,
-    "wof:lastmodified":1473985173,
+    "wof:lastmodified":1496891316,
     "wof:name":"Mode-Markt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

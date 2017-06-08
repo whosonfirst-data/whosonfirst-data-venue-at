@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4818601608,47.2754974365,11.4818601608,47.2754974365",
     "geom:latitude":47.275497,
     "geom:longitude":11.48186,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902988,
-    "wof:geomhash":"3d10382cfe32806cecf7149935135b9e",
+    "wof:geomhash":"ee1c33c2d855a89ad5be65e6a6ef1e1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092145259
         }
     ],
     "wof:id":1092145259,
-    "wof:lastmodified":1473984373,
+    "wof:lastmodified":1496898739,
     "wof:name":"Oswald & Karlitsch - Impulse Buchhandlung OEG",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

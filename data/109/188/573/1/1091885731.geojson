@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3700313568,48.2110824585,16.3700313568,48.2110824585",
     "geom:latitude":48.211082,
     "geom:longitude":16.370031,
@@ -25,13 +26,14 @@
     "sg:website":"grimm.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898685,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898749,
-        85898685
+        85681667,
+        85898749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +41,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473891433,
-    "wof:geomhash":"f77b4d744b7ee69b929dad496d5ad5ca",
+    "wof:geomhash":"5d3efb21333b5d4b375c1ac68e87135c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898749,
+            "neighbourhood_id":85898685,
             "region_id":85681667,
             "venue_id":1091885731
         },
@@ -54,16 +57,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898685,
+            "neighbourhood_id":85898749,
             "region_id":85681667,
             "venue_id":1091885731
         }
     ],
     "wof:id":1091885731,
-    "wof:lastmodified":1473984488,
+    "wof:lastmodified":1496903137,
     "wof:name":"Grimm Arthur Handels GmbH",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

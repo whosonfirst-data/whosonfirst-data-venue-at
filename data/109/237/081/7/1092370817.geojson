@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2171497345,46.6230697632,14.2171497345,46.6230697632",
     "geom:latitude":46.62307,
     "geom:longitude":14.21715,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913055,
-    "wof:geomhash":"8689d6fa91f129b5323494aa20066ba1",
+    "wof:geomhash":"df393a74f09342942bc3f6618b152bc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092370817
         }
     ],
     "wof:id":1092370817,
-    "wof:lastmodified":1473983469,
+    "wof:lastmodified":1496906395,
     "wof:name":"Pension Haus Tirol",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3505954742,47.4405899048,16.3505954742,47.4405899048",
     "geom:latitude":47.44059,
     "geom:longitude":16.350595,
@@ -32,17 +33,33 @@
         "banister"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838471,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Dcu99sW9qgu81wZWJsDVC_47.440590_16.350595@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888512,
-    "wof:geomhash":"c9727be455379a78fe2f722154b30763",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59f29e654c673ce1c86d311ffc00374d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838471,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091823733
+        }
+    ],
     "wof:id":1091823733,
-    "wof:lastmodified":1473984262,
+    "wof:lastmodified":1496908096,
     "wof:name":"Zettl J M GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

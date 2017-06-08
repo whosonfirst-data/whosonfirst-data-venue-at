@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0639619827,47.7317276001,13.0639619827,47.7317276001",
     "geom:latitude":47.731728,
     "geom:longitude":13.063962,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906121,
-    "wof:geomhash":"b21b9a7ae905947fc306f3f093d9019b",
+    "wof:geomhash":"a64a3a321cb3a15ef1e0a0bd520d678b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1092213859
         }
     ],
     "wof:id":1092213859,
-    "wof:lastmodified":1473984197,
+    "wof:lastmodified":1496895171,
     "wof:name":"AVANTI TankstellenbetriebsgesmbH",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

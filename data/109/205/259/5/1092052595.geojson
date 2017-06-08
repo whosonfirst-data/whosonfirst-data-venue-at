@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.9600296021,48.5000610352,14.9600296021,48.5000610352",
     "geom:latitude":48.500061,
     "geom:longitude":14.96003,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835767,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BmIcPGKnmzY7mIf1p2Lmd_48.500061_14.960030@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898611,
-    "wof:geomhash":"d5b7be337553fc5beac29c092250298f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1737f01cad4b7c388d29dd4aa806ad9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835767,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092052595
+        }
+    ],
     "wof:id":1092052595,
-    "wof:lastmodified":1473983815,
+    "wof:lastmodified":1496888270,
     "wof:name":"CHRISTIAN PFEIFFER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

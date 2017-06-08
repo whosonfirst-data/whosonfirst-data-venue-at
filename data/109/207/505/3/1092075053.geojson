@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8920450211,47.3836898804,10.8920450211,47.3836898804",
     "geom:latitude":47.38369,
     "geom:longitude":10.892045,
@@ -23,17 +24,33 @@
     "sg:postcode":"6633",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837801,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eHUpyEMP6wXihhr81xIHD_47.383690_10.892045@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899514,
-    "wof:geomhash":"c4ca52e9f75a3f83be888c4cddf0552b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b21ddd06652a676a8ef4873141e4836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837801,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092075053
+        }
+    ],
     "wof:id":1092075053,
-    "wof:lastmodified":1473984251,
+    "wof:lastmodified":1496900002,
     "wof:name":"Gasthof Wiesenheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

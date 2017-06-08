@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4044857025,48.0300521851,14.4044857025,48.0300521851",
     "geom:latitude":48.030052,
     "geom:longitude":14.404486,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836103,
+        85632785,
+        101913451,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aDXJC1QXzKoiR8HYtg1s9_48.030052_14.404486@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892651,
-    "wof:geomhash":"9e2369dd776812d25b32b7ab42b26346",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfc3c8f56e4c3e6eb40406dbedb12275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836103,
+            "locality_id":101913451,
+            "region_id":85681677,
+            "venue_id":1091912343
+        }
+    ],
     "wof:id":1091912343,
-    "wof:lastmodified":1473983527,
+    "wof:lastmodified":1496889525,
     "wof:name":"AGOSYS DR TANCZOS & Co KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

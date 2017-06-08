@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7507724762,47.2723426819,12.7507724762,47.2723426819",
     "geom:latitude":47.272343,
     "geom:longitude":12.750772,
@@ -23,17 +24,33 @@
     "sg:postcode":"5710",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837205,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68HCfuHiqbTITLihpCPrqy_47.272343_12.750772@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900753,
-    "wof:geomhash":"7ec3dfae0cc99d397783de65ce8a30d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8ae06bc897df5e9a9e281c991c8a619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837205,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092098931
+        }
+    ],
     "wof:id":1092098931,
-    "wof:lastmodified":1473984948,
+    "wof:lastmodified":1496895927,
     "wof:name":"Jausenstation Unteraigen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2448091507,47.2694320679,11.2448091507,47.2694320679",
     "geom:latitude":47.269432,
     "geom:longitude":11.244809,
@@ -32,17 +33,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837355,
+        85632785,
+        101834221,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46zAPRABX9W0Fp6rKqthTu_47.269432_11.244809@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473888132,
-    "wof:geomhash":"8c82788f00a5ab18b5ede86c647cf5ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26c3dd269983e9172b6fd89d6ec602db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837355,
+            "locality_id":101834221,
+            "region_id":85681661,
+            "venue_id":1091814837
+        }
+    ],
     "wof:id":1091814837,
-    "wof:lastmodified":1473984417,
+    "wof:lastmodified":1496897205,
     "wof:name":"Oswald Maurberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

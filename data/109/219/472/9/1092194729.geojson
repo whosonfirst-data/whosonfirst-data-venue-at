@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9432554245,48.2661437988,15.9432554245,48.2661437988",
     "geom:latitude":48.266144,
     "geom:longitude":15.943255,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"heckel.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835869,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CaSmqgI0xZTRJwx115yVA_48.266144_15.943255@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905231,
-    "wof:geomhash":"9baaaf38364f508e78a61f5da8865f9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fbac7f1c472b057441ecc73a2998c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835869,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092194729
+        }
+    ],
     "wof:id":1092194729,
-    "wof:lastmodified":1473984462,
+    "wof:lastmodified":1496888719,
     "wof:name":"Schlosserei Friedrich Heckel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.431470871,48.2964057922,16.431470871,48.2964057922",
     "geom:latitude":48.296406,
     "geom:longitude":16.431471,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898397,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903275,
-    "wof:geomhash":"3514aae866e8c3e9a1d75c3944c6a28e",
+    "wof:geomhash":"a4f98f9a92d9fd5fdd1c44bf670587d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898397,
             "region_id":85681667,
             "venue_id":1092151519
         }
     ],
     "wof:id":1092151519,
-    "wof:lastmodified":1473983591,
+    "wof:lastmodified":1496903289,
     "wof:name":"Kleingartenverein Wien XXI",
     "wof:parent_id":85898397,
     "wof:placetype":"venue",

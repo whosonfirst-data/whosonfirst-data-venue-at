@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2850341797,47.5185890198,12.2850341797,47.5185890198",
     "geom:latitude":47.518589,
     "geom:longitude":12.285034,
@@ -23,17 +24,33 @@
     "sg:postcode":"6352",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837681,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ym8lIYtwOpfGyJm6jB3ES_47.518589_12.285034@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912020,
-    "wof:geomhash":"d1c07e862ab95cc2fd9e5b5eae39a82d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d586afc4288d7bf710757a7d16147661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837681,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092348881
+        }
+    ],
     "wof:id":1092348881,
-    "wof:lastmodified":1473984989,
+    "wof:lastmodified":1496899148,
     "wof:name":"Heimatmuseum Ellmau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

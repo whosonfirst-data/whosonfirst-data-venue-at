@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8888254166,47.378742218,10.8888254166,47.378742218",
     "geom:latitude":47.378742,
     "geom:longitude":10.888825,
@@ -28,17 +29,33 @@
     "sg:postcode":"6633",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837801,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XwBnWYwwbIzUPNXooCY8z_47.378742_10.888825@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898499,
-    "wof:geomhash":"d6a50af6a6aa20569186eb9b13cfc108",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fdfe132493b4365eb2c488e0f968e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837801,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092049743
+        }
+    ],
     "wof:id":1092049743,
-    "wof:lastmodified":1473984537,
+    "wof:lastmodified":1496900004,
     "wof:name":"Hotel-Pension-Cafe Alpina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

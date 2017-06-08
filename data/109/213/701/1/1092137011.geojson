@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4681797028,47.7718887329,16.4681797028,47.7718887329",
     "geom:latitude":47.771889,
     "geom:longitude":16.46818,
@@ -23,17 +24,33 @@
     "sg:postcode":"7041",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838585,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M90Mg0Rom9aIwX67BR8AI_47.771889_16.468180@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902596,
-    "wof:geomhash":"23075f25689632a82169c11c9a9973c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"539a79dfc216ddb551d3280fd57efeb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838585,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092137011
+        }
+    ],
     "wof:id":1092137011,
-    "wof:lastmodified":1473984742,
+    "wof:lastmodified":1496908572,
     "wof:name":"Pannonia Weingut Migsich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

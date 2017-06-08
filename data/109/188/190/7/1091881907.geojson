@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7589826584,47.4050827026,9.7589826584,47.4050827026",
     "geom:latitude":47.405083,
     "geom:longitude":9.758983,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891215,
-    "wof:geomhash":"2e4f55dd5c2db2203a4c6f2657cce3a5",
+    "wof:geomhash":"96a05a8a389e0898e3f4a1d64b525c8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091881907
         }
     ],
     "wof:id":1091881907,
-    "wof:lastmodified":1473983733,
+    "wof:lastmodified":1496900774,
     "wof:name":"F.M. H\u00c4MMERLE TEXTILWERKE GES.MBH",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

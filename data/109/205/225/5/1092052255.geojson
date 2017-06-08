@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1922197342,47.3277130127,11.1922197342,47.3277130127",
     "geom:latitude":47.327713,
     "geom:longitude":11.19222,
@@ -28,17 +29,34 @@
     "sg:postcode":"6100",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837643,
+        85632785,
+        101789079,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43VHIgLfW6ywA6AjcbVZzm_47.327713_11.192220@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898595,
-    "wof:geomhash":"53ec61191345d3ab7188359eb0d92d08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7fddf1da1538bad5f54fd15c17e7be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837643,
+            "locality_id":101789079,
+            "region_id":85681661,
+            "venue_id":1092052255
+        }
+    ],
     "wof:id":1092052255,
-    "wof:lastmodified":1473983732,
+    "wof:lastmodified":1496898908,
     "wof:name":"Hotel Berghof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

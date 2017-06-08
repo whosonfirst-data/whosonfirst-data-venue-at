@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2668819427,48.1880378723,16.2668819427,48.1880378723",
     "geom:latitude":48.188038,
     "geom:longitude":16.266882,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891387,
-    "wof:geomhash":"c0ab4c828df833754bb3ca3b400b37bb",
+    "wof:geomhash":"4b52f29ca7c226f2ce5cee98b0cd1618",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091885155
         }
     ],
     "wof:id":1091885155,
-    "wof:lastmodified":1473984385,
+    "wof:lastmodified":1496928551,
     "wof:name":"Felber Franz & Co GesmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9231100082,47.2692832947,10.9231100082,47.2692832947",
     "geom:latitude":47.269283,
     "geom:longitude":10.92311,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"hgt.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837445,
+        85632785,
+        101844481,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MepkYZDqHZJOBehZRULeg_47.269283_10.923110@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900535,
-    "wof:geomhash":"e0fba11f83e8a8daa94cee232be63c06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df31fc7b4f2f2bdda92178430f069d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837445,
+            "locality_id":101844481,
+            "region_id":85681661,
+            "venue_id":1092094511
+        }
+    ],
     "wof:id":1092094511,
-    "wof:lastmodified":1473984193,
+    "wof:lastmodified":1496897904,
     "wof:name":"HGT Infrarot W\u00e4rmekabinen Heinz-G\u00fcnther Tschitschnig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

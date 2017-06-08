@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3788862228,47.2606735229,11.3788862228,47.2606735229",
     "geom:latitude":47.260674,
     "geom:longitude":11.378886,
@@ -24,13 +25,14 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
+        85904347,
         102191581,
+        1108837687,
         85632785,
         101748061,
         102049723,
-        85898603,
-        85904347
+        85681661,
+        85898603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,29 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473896398,
-    "wof:geomhash":"5e5b1501b7b61c4a09624c9a97e1f910",
+    "wof:geomhash":"aa6289086b36532c354d9f2b0ef460b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
             "locality_id":101748061,
-            "neighbourhood_id":85898603,
+            "neighbourhood_id":85904347,
             "region_id":85681661,
             "venue_id":1091996705
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
-            "neighbourhood_id":85904347,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
+            "neighbourhood_id":85898603,
             "region_id":85681661,
             "venue_id":1091996705
         }
     ],
     "wof:id":1091996705,
-    "wof:lastmodified":1473984698,
+    "wof:lastmodified":1496899455,
     "wof:name":"Technikerhaus Sch\u00fclerheim Wohnheim und Technikerzentrum",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

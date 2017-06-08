@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4972057343,47.2796020508,11.4972057343,47.2796020508",
     "geom:latitude":47.279602,
     "geom:longitude":11.497206,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897875,
-    "wof:geomhash":"d5ea93e10104ca4281391894a5cdcbe5",
+    "wof:geomhash":"831535f1226ae012ba0c170d0f5d7413",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092033699
         }
     ],
     "wof:id":1092033699,
-    "wof:lastmodified":1473984054,
+    "wof:lastmodified":1496898697,
     "wof:name":"Winklehner Franz",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7521896362,47.4636917114,9.7521896362,47.4636917114",
     "geom:latitude":47.463692,
     "geom:longitude":9.75219,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901171,
-    "wof:geomhash":"df57c8c48a66cb17b72f7d3eb9bbadcc",
+    "wof:geomhash":"defdee3d94de830e666a0906299241bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092107387
         }
     ],
     "wof:id":1092107387,
-    "wof:lastmodified":1473984751,
+    "wof:lastmodified":1496901903,
     "wof:name":"Gasser Dietmar",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

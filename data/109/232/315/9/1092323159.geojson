@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2288923264,47.954208374,13.2288923264,47.954208374",
     "geom:latitude":47.954208,
     "geom:longitude":13.228892,
@@ -23,17 +24,34 @@
     "sg:postcode":"5202",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        101786779,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AaLB8bbReCMZdipaoUZOb_47.954208_13.228892@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473910933,
-    "wof:geomhash":"903c66b75abea63a7402d46eae0a91fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87be535e595ebf39fc0c7922d571ecaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":101786779,
+            "region_id":85681681,
+            "venue_id":1092323159
+        }
+    ],
     "wof:id":1092323159,
-    "wof:lastmodified":1473984162,
+    "wof:lastmodified":1496895536,
     "wof:name":"Schweiberer F GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

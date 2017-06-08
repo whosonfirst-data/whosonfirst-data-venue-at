@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6707725525,47.4092483521,13.6707725525,47.4092483521",
     "geom:latitude":47.409248,
     "geom:longitude":13.670773,
@@ -23,17 +24,33 @@
     "sg:postcode":"8972",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838921,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PD9FNrjrkRpvcdtGI7V9l_47.409248_13.670773@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473915311,
-    "wof:geomhash":"ee3b56788c40fa0b38e6e4c31a420f56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c25f387976dbcdb703664af91041b989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838921,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092416765
+        }
+    ],
     "wof:id":1092416765,
-    "wof:lastmodified":1473984749,
+    "wof:lastmodified":1496910220,
     "wof:name":"Freiwillige Feuerwehr Ramsau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

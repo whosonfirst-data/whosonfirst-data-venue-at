@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8102321625,47.4133453369,12.8102321625,47.4133453369",
     "geom:latitude":47.413345,
     "geom:longitude":12.810232,
@@ -23,17 +24,33 @@
     "sg:postcode":"5760",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hOhcWdpHGqzmx746BjzCX_47.413345_12.810232@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899385,
-    "wof:geomhash":"eabf6f25fae099c8a158098efc5a499b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ca205b4daf87d185b4a7b52b97d09de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092071957
+        }
+    ],
     "wof:id":1092071957,
-    "wof:lastmodified":1473983659,
+    "wof:lastmodified":1496896267,
     "wof:name":"Gasthof Biberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

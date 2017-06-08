@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.826379776,47.4223136902,12.826379776,47.4223136902",
     "geom:latitude":47.422314,
     "geom:longitude":12.82638,
@@ -31,17 +32,34 @@
         "internet-provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        101834285,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mBOKxsB87Adh7s17tPZxm_47.422314_12.826380@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896488,
-    "wof:geomhash":"9d9672d23975261d4de61401c229ae9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20c4b59ae8acf2f7b8c5120caf75af80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":101834285,
+            "region_id":85681681,
+            "venue_id":1091998895
+        }
+    ],
     "wof:id":1091998895,
-    "wof:lastmodified":1473985030,
+    "wof:lastmodified":1496896318,
     "wof:name":"CondorNet GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

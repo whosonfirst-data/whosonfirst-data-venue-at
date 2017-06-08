@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1345033646,47.3404006958,13.1345033646,47.3404006958",
     "geom:latitude":47.340401,
     "geom:longitude":13.134503,
@@ -23,17 +24,33 @@
     "sg:postcode":"5621",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837031,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Su9S7czoqInQPjZ0e7HuC_47.340401_13.134503@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899636,
-    "wof:geomhash":"3e0b958b9f456c808c79abfdc589e889",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df20ee03f4a3811ce5cd195676ac8828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837031,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092077299
+        }
+    ],
     "wof:id":1092077299,
-    "wof:lastmodified":1473984673,
+    "wof:lastmodified":1496894112,
     "wof:name":"Hochrainberg-Stub'n",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

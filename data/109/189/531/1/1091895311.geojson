@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3366584778,48.3447265625,16.3366584778,48.3447265625",
     "geom:latitude":48.344727,
     "geom:longitude":16.336658,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RliSi4pwYwNFA24gIJnDR_48.344727_16.336658@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891853,
-    "wof:geomhash":"c71149a2effdaa177250d1f886236f9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61c7164369760eae98b1b9cf8a393bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1091895311
+        }
+    ],
     "wof:id":1091895311,
-    "wof:lastmodified":1473984522,
+    "wof:lastmodified":1496883697,
     "wof:name":"Hiesinger Autotransporte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

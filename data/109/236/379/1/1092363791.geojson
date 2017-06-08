@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1333646774,47.4132843018,12.1333646774,47.4132843018",
     "geom:latitude":47.413284,
     "geom:longitude":12.133365,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uiShHdrQ7mgU7aDqdKqaZ_47.413284_12.133365@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912696,
-    "wof:geomhash":"4e7c6e93ca36778db820cb41dc6c0d55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"682edbe811aead74366bac5f9ca5392c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092363791
+        }
+    ],
     "wof:id":1092363791,
-    "wof:lastmodified":1473984206,
+    "wof:lastmodified":1496897005,
     "wof:name":"Gastl Sebastian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

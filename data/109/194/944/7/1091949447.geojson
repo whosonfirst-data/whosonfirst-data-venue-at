@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1243257523,47.9040222168,14.1243257523,47.9040222168",
     "geom:latitude":47.904022,
     "geom:longitude":14.124326,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"hauckotto.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835251,
+        85632785,
+        101833153,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RjYOgPP7ROK6Q4yn7B88n_47.904022_14.124326@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894348,
-    "wof:geomhash":"35972653cbc5680586afb34bf2fbf8af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"349fa0334347a7139c67daec20c432ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835251,
+            "locality_id":101833153,
+            "region_id":85681677,
+            "venue_id":1091949447
+        }
+    ],
     "wof:id":1091949447,
-    "wof:lastmodified":1473985249,
+    "wof:lastmodified":1496885610,
     "wof:name":"Hauck Otto Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

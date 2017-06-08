@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3390102386,48.1395339966,16.3390102386,48.1395339966",
     "geom:latitude":48.139534,
     "geom:longitude":16.33901,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908505,
-    "wof:geomhash":"0a989d2205667a79d1b97106fdccd775",
+    "wof:geomhash":"a3165b66ff8d6f17710643db0acd954c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092267839
         }
     ],
     "wof:id":1092267839,
-    "wof:lastmodified":1473984804,
+    "wof:lastmodified":1496902333,
     "wof:name":"Elektra Bregenz AG - Kundendienst",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

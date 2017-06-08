@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4194126129,48.1259498596,16.4194126129,48.1259498596",
     "geom:latitude":48.12595,
     "geom:longitude":16.419413,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908540,
-    "wof:geomhash":"70da3ffdcb4adf142b0d6f016b7221e3",
+    "wof:geomhash":"48eade5fa9b423f8f36c641d4d5a2d42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092268635
         }
     ],
     "wof:id":1092268635,
-    "wof:lastmodified":1473984936,
+    "wof:lastmodified":1496927827,
     "wof:name":"VERBUND-Austrian Power Grid AG",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

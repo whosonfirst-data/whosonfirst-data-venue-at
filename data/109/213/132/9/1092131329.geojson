@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3266334534,48.1378631592,16.3266334534,48.1378631592",
     "geom:latitude":48.137863,
     "geom:longitude":16.326633,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902329,
-    "wof:geomhash":"d4ec504a76483d2613f641a9c451af1d",
+    "wof:geomhash":"38601618db2ecfc98b11e4156c125544",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092131329
         }
     ],
     "wof:id":1092131329,
-    "wof:lastmodified":1473983622,
+    "wof:lastmodified":1496903662,
     "wof:name":"Lex & Lex GesmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

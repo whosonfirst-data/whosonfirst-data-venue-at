@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5027761459,47.2521362305,11.5027761459,47.2521362305",
     "geom:latitude":47.252136,
     "geom:longitude":11.502776,
@@ -23,17 +24,34 @@
     "sg:postcode":"6074",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837663,
+        85632785,
+        101789087,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sM597E3K70DGf8uCK7iJ0_47.252136_11.502776@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899389,
-    "wof:geomhash":"830b6ed961bea633df17a52eeb30300b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15345bbe31523eaefbe866d91f366231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837663,
+            "locality_id":101789087,
+            "region_id":85681661,
+            "venue_id":1092072049
+        }
+    ],
     "wof:id":1092072049,
-    "wof:lastmodified":1473983695,
+    "wof:lastmodified":1496899044,
     "wof:name":"Gasthof Brunnerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

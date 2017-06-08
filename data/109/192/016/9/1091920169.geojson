@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7194662094,47.7681274414,13.7194662094,47.7681274414",
     "geom:latitude":47.768127,
     "geom:longitude":13.719466,
@@ -23,17 +24,33 @@
     "sg:postcode":"4802",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835129,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_123aoaDsuez3dR9nPOzfh1_47.768127_13.719466@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892996,
-    "wof:geomhash":"f96a3f28478185ddfc16b5ed41beb0ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f28c814c8bc53ce3db859688a0b500ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835129,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091920169
+        }
+    ],
     "wof:id":1091920169,
-    "wof:lastmodified":1473983347,
+    "wof:lastmodified":1496884823,
     "wof:name":"Pro mente Ober\u00f6sterreich - Tagesstruktur Landwirtschaft und Werkst\u00e4tte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0624637604,46.5461158752,14.0624637604,46.5461158752",
     "geom:latitude":46.546116,
     "geom:longitude":14.062464,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838353,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5C8hSQaZCHwkW7ygHPnfvc_46.546116_14.062464@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908421,
-    "wof:geomhash":"b6112f5ca01ec70de090d6e140bcf5c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"573347e2121c908e61915cc3c34eb46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838353,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265871
+        }
+    ],
     "wof:id":1092265871,
-    "wof:lastmodified":1473984491,
+    "wof:lastmodified":1496907455,
     "wof:name":"Willibald Rebernig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

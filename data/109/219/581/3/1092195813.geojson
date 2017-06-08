@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3373260498,47.9910049438,16.3373260498,47.9910049438",
     "geom:latitude":47.991005,
     "geom:longitude":16.337326,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"krone-gmbh.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835403,
+        85632785,
+        101785715,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F2YBMl0IBCBVcGGt0FV5H_47.991005_16.337326@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905274,
-    "wof:geomhash":"c5779a41f4de8475822200caa3e04107",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6f925a95a2b80c5148fe21f41a3e81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835403,
+            "locality_id":101785715,
+            "region_id":85681671,
+            "venue_id":1092195813
+        }
+    ],
     "wof:id":1092195813,
-    "wof:lastmodified":1473984624,
+    "wof:lastmodified":1496886501,
     "wof:name":"Krone Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

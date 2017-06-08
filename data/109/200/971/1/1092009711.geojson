@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4075651169,48.0228309631,14.4075651169,48.0228309631",
     "geom:latitude":48.022831,
     "geom:longitude":14.407565,
@@ -23,17 +24,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.body-service.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836103,
+        85632785,
+        101913431,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16pRAQ45KRNIB3d4HHNApg_48.022831_14.407565@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896933,
-    "wof:geomhash":"cd3d86e6a2770965c5aa148c5e33a46b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf6a7b6b7a07ea16cad0703b86fbe771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836103,
+            "locality_id":101913431,
+            "region_id":85681677,
+            "venue_id":1092009711
+        }
+    ],
     "wof:id":1092009711,
-    "wof:lastmodified":1473985065,
+    "wof:lastmodified":1496889529,
     "wof:name":"Body&Service - Gesundheit, Wohlbefinden, Assistenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

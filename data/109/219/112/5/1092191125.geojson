@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8947591782,48.0352516174,15.8947591782,48.0352516174",
     "geom:latitude":48.035252,
     "geom:longitude":15.894759,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835339,
+        85632785,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FTAL0WZtnXV1hjaJ7JC0l_48.035252_15.894759@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905074,
-    "wof:geomhash":"d66a101c6b988189210cc8df17cb3ee8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31feb0b1b19ca90fbb6278f5ff3a19e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108835339,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092191125
+        }
+    ],
     "wof:id":1092191125,
-    "wof:lastmodified":1473983532,
+    "wof:lastmodified":1496886165,
     "wof:name":"LEOPOLD LUNZER GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3275089264,48.1402015686,16.3275089264,48.1402015686",
     "geom:latitude":48.140202,
     "geom:longitude":16.327509,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911097,
-    "wof:geomhash":"7d61bcc1abb0d21b3be5c596ab813156",
+    "wof:geomhash":"bf221108161d27d95cc1f98d9771b141",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092327013
         }
     ],
     "wof:id":1092327013,
-    "wof:lastmodified":1473985041,
+    "wof:lastmodified":1496903860,
     "wof:name":"Chvatik Josef & Co GesmbH Nfg Einzelunternehmen",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

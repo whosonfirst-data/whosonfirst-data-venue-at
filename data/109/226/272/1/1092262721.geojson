@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5971765518,47.2373046875,9.5971765518,47.2373046875",
     "geom:latitude":47.237305,
     "geom:longitude":9.597177,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908288,
-    "wof:geomhash":"bc454d34c9540f6bf83d1368d7736336",
+    "wof:geomhash":"cc7a740c3c00475316b9242cbb542c87",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092262721
         }
     ],
     "wof:id":1092262721,
-    "wof:lastmodified":1473984039,
+    "wof:lastmodified":1496900933,
     "wof:name":"Karawane Inh Loacker",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

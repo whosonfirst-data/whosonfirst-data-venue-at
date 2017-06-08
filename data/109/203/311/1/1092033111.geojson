@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4112682343,48.2333602905,16.4112682343,48.2333602905",
     "geom:latitude":48.23336,
     "geom:longitude":16.411268,
@@ -24,13 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898289,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898693,
-        85898289
+        85681667,
+        85898693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473897850,
-    "wof:geomhash":"435f2c26ccc4934d3f7ed344f3e7c4b6",
+    "wof:geomhash":"8585354807484536d6a25b6cb0e55d20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898693,
+            "neighbourhood_id":85898289,
             "region_id":85681667,
             "venue_id":1092033111
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898289,
+            "neighbourhood_id":85898693,
             "region_id":85681667,
             "venue_id":1092033111
         }
     ],
     "wof:id":1092033111,
-    "wof:lastmodified":1473983979,
+    "wof:lastmodified":1496904097,
     "wof:name":"SNP Handelsges.m.b.H.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

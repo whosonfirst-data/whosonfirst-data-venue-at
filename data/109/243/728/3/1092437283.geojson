@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3470201492,47.2687225342,11.3470201492,47.2687225342",
     "geom:latitude":47.268723,
     "geom:longitude":11.34702,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916240,
-    "wof:geomhash":"4ba321bc97dfc3cf24e7ee461296840c",
+    "wof:geomhash":"e4f52291c5a91e9bf04ce4b0a9ee2872",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1092437283
         }
     ],
     "wof:id":1092437283,
-    "wof:lastmodified":1473984928,
+    "wof:lastmodified":1496899377,
     "wof:name":"Paparazzi",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

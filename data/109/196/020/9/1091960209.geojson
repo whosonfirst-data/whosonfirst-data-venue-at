@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.868563652,46.974571228,10.868563652,46.974571228",
     "geom:latitude":46.974571,
     "geom:longitude":10.868564,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.tirol.com/alpin-pitztal",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837441,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42cnKLILpop5WiATTjo7nn_46.974571_10.868564@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894832,
-    "wof:geomhash":"985d55374d9b77560ebcd26b16e03ed2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66b684f7748295e72095cbd5c68eff2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837441,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091960209
+        }
+    ],
     "wof:id":1091960209,
-    "wof:lastmodified":1473983345,
+    "wof:lastmodified":1496897875,
     "wof:name":"Appartement Pension Alpin Pitztal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

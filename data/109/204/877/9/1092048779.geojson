@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.3220453262,47.2531280518,10.3220453262,47.2531280518",
     "geom:latitude":47.253128,
     "geom:longitude":10.322045,
@@ -28,17 +29,33 @@
     "sg:postcode":"6655",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837775,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KCwZPiOqDTetYSMfLvgxQ_47.253128_10.322045@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898463,
-    "wof:geomhash":"ee6a03bec288716c838f27082fd0bd75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c3f532fd536b8622589eba067d18011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837775,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092048779
+        }
+    ],
     "wof:id":1092048779,
-    "wof:lastmodified":1473984306,
+    "wof:lastmodified":1496899951,
     "wof:name":"Hotel Tannenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

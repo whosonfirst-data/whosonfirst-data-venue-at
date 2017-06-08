@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0360603333,47.4098701477,12.0360603333,47.4098701477",
     "geom:latitude":47.40987,
     "geom:longitude":12.03606,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.pension-sunvalley.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837277,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eGkq2x4e43Hb3SbRL6EbX_47.409870_12.036060@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894844,
-    "wof:geomhash":"e6c55b1efcbcf8d8611ef6a01e22e6ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08f0760910982dafd5af6fc20bf8d73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837277,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091960529
+        }
+    ],
     "wof:id":1091960529,
-    "wof:lastmodified":1473983378,
+    "wof:lastmodified":1496896624,
     "wof:name":"Pension Sun Valley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

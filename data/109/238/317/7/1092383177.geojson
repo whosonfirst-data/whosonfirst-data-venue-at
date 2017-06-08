@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4181175232,48.3549804688,14.4181175232,48.3549804688",
     "geom:latitude":48.35498,
     "geom:longitude":14.418118,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836149,
+        85632785,
+        101784613,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aYKwqqvAJHWcWYEw5ljmF_48.354980_14.418118@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913598,
-    "wof:geomhash":"8e31fdbebde44ff1915862cf8a81c56c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1909395a88ec28c35a81809c81099ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836149,
+            "locality_id":101784613,
+            "region_id":85681677,
+            "venue_id":1092383177
+        }
+    ],
     "wof:id":1092383177,
-    "wof:lastmodified":1473984123,
+    "wof:lastmodified":1496889811,
     "wof:name":"Pizzeria Da Vinci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

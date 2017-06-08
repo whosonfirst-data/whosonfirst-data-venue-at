@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6978693008,48.5061988831,15.6978693008,48.5061988831",
     "geom:latitude":48.506199,
     "geom:longitude":15.697869,
@@ -32,17 +33,33 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834907,
+        85632785,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2up5AImz10hHJQnm35sYiU_48.506199_15.697869@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910301,
-    "wof:geomhash":"c0dd87485435b78372550f9da6f1126a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"895609d85796a3fa9bd6a4f72cf083d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108834907,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092308629
+        }
+    ],
     "wof:id":1092308629,
-    "wof:lastmodified":1473985232,
+    "wof:lastmodified":1496883493,
     "wof:name":"Karin Leopold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.0361967087,47.5192337036,12.0361967087,47.5192337036",
     "geom:latitude":47.519234,
     "geom:longitude":12.036197,
@@ -23,17 +24,33 @@
     "sg:postcode":"6300",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837273,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k3X9doYBpGvyA4xua8Vqd_47.519234_12.036197@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899701,
-    "wof:geomhash":"44f6da7ecc956a47012834e19c6afae7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3f5dd828f490f8728d914cfb4ea111a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837273,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092078681
+        }
+    ],
     "wof:id":1092078681,
-    "wof:lastmodified":1473984940,
+    "wof:lastmodified":1496896592,
     "wof:name":"Landgasthof Schlossblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

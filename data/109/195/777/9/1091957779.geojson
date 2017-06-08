@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4236478806,48.0405158997,14.4236478806,48.0405158997",
     "geom:latitude":48.040516,
     "geom:longitude":14.423648,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"kuoni.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LMnVXYNmF2I4FKAdufPTI_48.040516_14.423648@1306268249"
     },
     "wof:country":"AT",
     "wof:created":1473894728,
-    "wof:geomhash":"cdd85680427556a0b32a6e900468c9a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c87ed17c9106eb9244cc0269b6c2c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1091957779
+        }
+    ],
     "wof:id":1091957779,
-    "wof:lastmodified":1473985123,
+    "wof:lastmodified":1496881590,
     "wof:name":"Kuoni Reiseb\u00fcro GesmbH - Nemetschek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

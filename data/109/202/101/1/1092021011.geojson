@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6336240768,47.279209137,9.6336240768,47.279209137",
     "geom:latitude":47.279209,
     "geom:longitude":9.633624,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897384,
-    "wof:geomhash":"6bf088c2ada3cff5dd6887f53f2b5790",
+    "wof:geomhash":"452771a90aaecc43345ca7e190cd0703",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092021011
         }
     ],
     "wof:id":1092021011,
-    "wof:lastmodified":1473983545,
+    "wof:lastmodified":1496901631,
     "wof:name":"Karmelkloster",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

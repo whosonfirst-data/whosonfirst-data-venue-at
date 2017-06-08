@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3539743423,47.2731781006,12.3539743423,47.2731781006",
     "geom:latitude":47.273178,
     "geom:longitude":12.353974,
@@ -23,17 +24,33 @@
     "sg:postcode":"5733",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837193,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Bcz7KKlKhaf1fe1vdSbZi_47.273178_12.353974@1306268279"
     },
     "wof:country":"AT",
     "wof:created":1473904078,
-    "wof:geomhash":"54f27e14b62b5c5c9fb851c0fe00862b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ee4226fe27bb25616110f777dd60e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837193,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092168965
+        }
+    ],
     "wof:id":1092168965,
-    "wof:lastmodified":1473985090,
+    "wof:lastmodified":1496895873,
     "wof:name":"Raiffeisenverband Salzburg regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

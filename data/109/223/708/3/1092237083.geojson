@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6034603119,47.2287368774,9.6034603119,47.2287368774",
     "geom:latitude":47.228737,
     "geom:longitude":9.60346,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907133,
-    "wof:geomhash":"3e7cfb4e771766ed3e8258d28499a1f4",
+    "wof:geomhash":"66b0393f41ca8c03f841782d012ad127",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092237083
         }
     ],
     "wof:id":1092237083,
-    "wof:lastmodified":1473984852,
+    "wof:lastmodified":1496901005,
     "wof:name":"Tierschutzverein Frastanz",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

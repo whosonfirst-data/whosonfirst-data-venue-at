@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3306293488,47.362865448,15.3306293488,47.362865448",
     "geom:latitude":47.362865,
     "geom:longitude":15.330629,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"eder-installationen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839317,
+        85632785,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zLFpHIMj9F6b5y79lJVC7_47.362865_15.330629@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473896059,
-    "wof:geomhash":"8ccd6c03bd4ae412ccff98d15154dc47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4baeb8832a863f385f1afd865f46020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839317,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091988931
+        }
+    ],
     "wof:id":1091988931,
-    "wof:lastmodified":1473984545,
+    "wof:lastmodified":1496912775,
     "wof:name":"Eder Fritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

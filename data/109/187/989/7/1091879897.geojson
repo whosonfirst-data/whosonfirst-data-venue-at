@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.226808548,48.3870544434,16.226808548,48.3870544434",
     "geom:latitude":48.387054,
     "geom:longitude":16.226809,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.afis.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834843,
+        85632785,
+        101833277,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UpwVUDNOlE2FnedrUmcSL_48.387054_16.226809@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891135,
-    "wof:geomhash":"09f0c26e72f9d206a748c114c885a2d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e13dd802ca3e24b9ab2372dd041de6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834843,
+            "locality_id":101833277,
+            "region_id":85681671,
+            "venue_id":1091879897
+        }
+    ],
     "wof:id":1091879897,
-    "wof:lastmodified":1473985263,
+    "wof:lastmodified":1496882895,
     "wof:name":"AFIS alles f\u00fcr Ihre Sicherheit - Fritsch & Fink OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

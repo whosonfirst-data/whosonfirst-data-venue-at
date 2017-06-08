@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.799902916,47.2729721069,10.799902916,47.2729721069",
     "geom:latitude":47.272972,
     "geom:longitude":10.799903,
@@ -23,17 +24,33 @@
     "sg:postcode":"6464",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837453,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mxEOf69d3N8LlleeZlBKx_47.272972_10.799903@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899488,
-    "wof:geomhash":"ae0e49a783c5a7b78686da3cec63cf24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"809cacd244dfbaaef49d0b7b222234c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837453,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092074397
+        }
+    ],
     "wof:id":1092074397,
-    "wof:lastmodified":1473984123,
+    "wof:lastmodified":1496897971,
     "wof:name":"Gasthof Seewald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

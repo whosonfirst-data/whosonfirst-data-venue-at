@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4057121277,47.2835502625,11.4057121277,47.2835502625",
     "geom:latitude":47.28355,
     "geom:longitude":11.405712,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898605,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913030,
-    "wof:geomhash":"02c7b90ba2326c81fb279de7651ce669",
+    "wof:geomhash":"3f7954c54b9159cf662f98aaa67464b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898605,
             "region_id":85681661,
             "venue_id":1092370229
         }
     ],
     "wof:id":1092370229,
-    "wof:lastmodified":1473983375,
+    "wof:lastmodified":1496899320,
     "wof:name":"Pension Eckenried",
     "wof:parent_id":85898605,
     "wof:placetype":"venue",

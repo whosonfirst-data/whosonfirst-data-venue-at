@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5206050873,48.0718078613,14.5206050873,48.0718078613",
     "geom:latitude":48.071808,
     "geom:longitude":14.520605,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836371,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36EIS6niV3B43IA7vssxi2_48.071808_14.520605@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908441,
-    "wof:geomhash":"4f65828fe0dcb09af73cf7cc4b74f882",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fe9c66bf6e5ef9c3b2d81b9e75d51e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836371,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092266303
+        }
+    ],
     "wof:id":1092266303,
-    "wof:lastmodified":1473984532,
+    "wof:lastmodified":1496890772,
     "wof:name":"WARTECKER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

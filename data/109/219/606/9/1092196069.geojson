@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6976118088,48.15184021,14.6976118088,48.15184021",
     "geom:latitude":48.15184,
     "geom:longitude":14.697612,
@@ -33,17 +34,33 @@
         "cad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835323,
+        85632785,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vVr0FN2mNOKkIAUvw2RVJ_48.151840_14.697612@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905287,
-    "wof:geomhash":"6762809ade86a0089db038cb93a312da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92be4b7c02a244582c4c8aa9b4513798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835323,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092196069
+        }
+    ],
     "wof:id":1092196069,
-    "wof:lastmodified":1473984666,
+    "wof:lastmodified":1496886094,
     "wof:name":"EDV Braun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

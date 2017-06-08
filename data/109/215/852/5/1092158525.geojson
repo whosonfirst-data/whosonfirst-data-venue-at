@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1214294434,47.8664588928,13.1214294434,47.8664588928",
     "geom:latitude":47.866459,
     "geom:longitude":13.121429,
@@ -23,17 +24,34 @@
     "sg:postcode":"5301",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        101786773,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iIM8RABb7gzwel4Z5GgnU_47.866459_13.121429@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903607,
-    "wof:geomhash":"b536504c7ce6729d854ff801160162de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85a15712957a8e7969afb4f2d313f2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":101786773,
+            "region_id":85681681,
+            "venue_id":1092158525
+        }
+    ],
     "wof:id":1092158525,
-    "wof:lastmodified":1473985081,
+    "wof:lastmodified":1496895309,
     "wof:name":"Volksschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

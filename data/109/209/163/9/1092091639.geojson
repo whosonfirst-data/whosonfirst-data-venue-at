@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7453317642,47.4084625244,9.7453317642,47.4084625244",
     "geom:latitude":47.408463,
     "geom:longitude":9.745332,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900321,
-    "wof:geomhash":"1989a34993c1a5dba6b5c21965fecd7a",
+    "wof:geomhash":"2ecefce49bcf2b3a94636832f3ad1267",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092091639
         }
     ],
     "wof:id":1092091639,
-    "wof:lastmodified":1473983551,
+    "wof:lastmodified":1496900762,
     "wof:name":"Vorarlberger gemeinn\u00fctzige Wohnungsbau- u SiedlungsgesmbH",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0555753708,47.7243881226,13.0555753708,47.7243881226",
     "geom:latitude":47.724388,
     "geom:longitude":13.055575,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904335,
-        102049799
+        102191581,
+        1108837139,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910412,
-    "wof:geomhash":"1d6aa1a95e7ef88aa9f05d21ac8f6c24",
+    "wof:geomhash":"ddf5ff22959307cb687924b67742897c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837139,
+            "locality_id":-1,
             "neighbourhood_id":85904335,
             "region_id":85681681,
             "venue_id":1092311119
         }
     ],
     "wof:id":1092311119,
-    "wof:lastmodified":1473983570,
+    "wof:lastmodified":1496895174,
     "wof:name":"G\u00f6schl Georg",
     "wof:parent_id":85904335,
     "wof:placetype":"venue",

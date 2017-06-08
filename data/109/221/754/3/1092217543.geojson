@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6535558701,47.5907554626,13.6535558701,47.5907554626",
     "geom:latitude":47.590755,
     "geom:longitude":13.653556,
@@ -23,17 +24,33 @@
     "sg:postcode":"4823",
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835139,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_294mXjmO3sb36OXwMBpHH4_47.590755_13.653556@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906309,
-    "wof:geomhash":"2674c482c522840d063602168bba0424",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b75319074282bffe3c979863a741168f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835139,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092217543
+        }
+    ],
     "wof:id":1092217543,
-    "wof:lastmodified":1473984893,
+    "wof:lastmodified":1496885019,
     "wof:name":"Shell Austria GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

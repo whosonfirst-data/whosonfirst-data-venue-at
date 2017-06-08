@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3396186829,46.6062316895,14.3396186829,46.6062316895",
     "geom:latitude":46.606232,
     "geom:longitude":14.339619,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891604,
-    "wof:geomhash":"74dd2784db5b8af3bcbd6d58bdcf1b84",
+    "wof:geomhash":"bf3595dcb963c2d6c7438359ef77f7fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1091889253
         }
     ],
     "wof:id":1091889253,
-    "wof:lastmodified":1473985093,
+    "wof:lastmodified":1496905775,
     "wof:name":"Taumberger GesmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

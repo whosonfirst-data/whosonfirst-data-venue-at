@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3827018738,47.8655395508,16.3827018738,47.8655395508",
     "geom:latitude":47.86554,
     "geom:longitude":16.382702,
@@ -32,17 +33,34 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838577,
+        85632785,
+        101785631,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_312KWE6gPX1IbmIon9X1El_47.865540_16.382702@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898937,
-    "wof:geomhash":"4603f0d9ddefd7c6bb515d56aa4722be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a93499d0611bf0ff29397be47f9cb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838577,
+            "locality_id":101785631,
+            "region_id":85681651,
+            "venue_id":1092060897
+        }
+    ],
     "wof:id":1092060897,
-    "wof:lastmodified":1473983553,
+    "wof:lastmodified":1496908543,
     "wof:name":"Peter Heinzl Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

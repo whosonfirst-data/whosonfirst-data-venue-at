@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7247028351,48.0225868225,13.7247028351,48.0225868225",
     "geom:latitude":48.022587,
     "geom:longitude":13.724703,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.bvm-glas.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836425,
+        85632785,
+        101833159,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dCvEKajod6rWB7JxHOo6Z_48.022587_13.724703@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900682,
-    "wof:geomhash":"0074ffbada1196c0cfcabb114a92a0a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57202a5f83eb1902e88204fd6cf0b810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836425,
+            "locality_id":101833159,
+            "region_id":85681677,
+            "venue_id":1092097451
+        }
+    ],
     "wof:id":1092097451,
-    "wof:lastmodified":1473984663,
+    "wof:lastmodified":1496891011,
     "wof:name":"BVM Bauverglasung-Verfugung-Mair OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

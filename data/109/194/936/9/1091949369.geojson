@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0772981644,47.3153572083,11.0772981644,47.3153572083",
     "geom:latitude":47.315357,
     "geom:longitude":11.077298,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"haidlen.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        101834219,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CxpzhEDOaM8wXH0wBWPd5_47.315357_11.077298@1306268248"
     },
     "wof:country":"AT",
     "wof:created":1473894345,
-    "wof:geomhash":"1d562585c82ae59cc21fa6210e49f4d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f702e3ad6f63b241a55aa612ce25a2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":101834219,
+            "region_id":85681661,
+            "venue_id":1091949369
+        }
+    ],
     "wof:id":1091949369,
-    "wof:lastmodified":1473985247,
+    "wof:lastmodified":1496898807,
     "wof:name":"Haidlen Christoph Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

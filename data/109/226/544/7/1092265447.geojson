@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9430456161,48.2302246094,13.9430456161,48.2302246094",
     "geom:latitude":48.230225,
     "geom:longitude":13.943046,
@@ -31,17 +32,34 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835237,
+        85632785,
+        101833239,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M7wEio2Gw0Gs56NM1dtp1_48.230225_13.943046@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908403,
-    "wof:geomhash":"e52638660921b562748c87d2080b5373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b60dfb04fc4425e90708baf7e6e4e388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835237,
+            "locality_id":101833239,
+            "region_id":85681677,
+            "venue_id":1092265447
+        }
+    ],
     "wof:id":1092265447,
-    "wof:lastmodified":1473984479,
+    "wof:lastmodified":1496885533,
     "wof:name":"Elektrotechnik Rohregger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

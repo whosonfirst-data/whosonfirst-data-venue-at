@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1081838608,47.8200416565,13.1081838608,47.8200416565",
     "geom:latitude":47.820042,
     "geom:longitude":13.108184,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473912055,
-    "wof:geomhash":"b7db95c2789d235167aa5c9c864b19df",
+    "wof:geomhash":"4b7989d7c54e9748612abb35b10cf5bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092349695
         }
     ],
     "wof:id":1092349695,
-    "wof:lastmodified":1473985156,
+    "wof:lastmodified":1496895464,
     "wof:name":"HGS Showtechnik",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

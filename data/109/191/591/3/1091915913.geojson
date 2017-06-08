@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4787015915,47.0959968567,15.4787015915,47.0959968567",
     "geom:latitude":47.095997,
     "geom:longitude":15.478702,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892828,
-    "wof:geomhash":"c7427018e55c629fa5a1880000b6763d",
+    "wof:geomhash":"542b4d100e24f383da1e52e093d5208d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1091915913
         }
     ],
     "wof:id":1091915913,
-    "wof:lastmodified":1473984125,
+    "wof:lastmodified":1496913061,
     "wof:name":"Tertschnig Dr KEG",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

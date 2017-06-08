@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2918567657,47.4439163208,15.2918567657,47.4439163208",
     "geom:latitude":47.443916,
     "geom:longitude":15.291857,
@@ -23,17 +24,34 @@
     "sg:postcode":"8605",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839319,
+        85632785,
+        101834339,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V5QpV9agsEv4AR7mxk4lz_47.443916_15.291857@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888877,
-    "wof:geomhash":"19e69a58a24a5ee673c5fed02899e48c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53d9c81e97a81901f7c2a077fd562aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839319,
+            "locality_id":101834339,
+            "region_id":85681687,
+            "venue_id":1091831809
+        }
+    ],
     "wof:id":1091831809,
-    "wof:lastmodified":1473983661,
+    "wof:lastmodified":1496912878,
     "wof:name":"Bank Austria Creditanstalt AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

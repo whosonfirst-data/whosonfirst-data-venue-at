@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3998155594,47.2386932373,11.3998155594,47.2386932373",
     "geom:latitude":47.238693,
     "geom:longitude":11.399816,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915351,
-    "wof:geomhash":"d245ef855f26bdb429a46cc69ba01cae",
+    "wof:geomhash":"75ac5ae2e53ce9d6ebcde66f7a09b87d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092417577
         }
     ],
     "wof:id":1092417577,
-    "wof:lastmodified":1473984877,
+    "wof:lastmodified":1496899251,
     "wof:name":"Freiwillige Feuerwehr Vill",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

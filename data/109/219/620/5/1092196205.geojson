@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1604738235,48.1303253174,13.1604738235,48.1303253174",
     "geom:latitude":48.130325,
     "geom:longitude":13.160474,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"rt-cad.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834797,
+        85632785,
+        101833215,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BBz8uyDLECaCBc4DfqfYo_48.130325_13.160474@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905292,
-    "wof:geomhash":"e9c2b6f1718a6788f6b6e8236862b0d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c250f11dc0318fb32100080091f8ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834797,
+            "locality_id":101833215,
+            "region_id":85681677,
+            "venue_id":1092196205
+        }
+    ],
     "wof:id":1092196205,
-    "wof:lastmodified":1473984715,
+    "wof:lastmodified":1496882611,
     "wof:name":"RT-CAD Roland Tiefenb\u00f6ck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

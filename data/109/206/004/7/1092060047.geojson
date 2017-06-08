@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3651885986,47.769859314,13.3651885986,47.769859314",
     "geom:latitude":47.769859,
     "geom:longitude":13.365189,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837175,
+        85632785,
+        101786783,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZnllH9bDmmSuSaUt2PdUc_47.769859_13.365189@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898901,
-    "wof:geomhash":"19c838372b794b0bd85e7e00353cf5da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11948b02167ede690ca3fb472df443a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837175,
+            "locality_id":101786783,
+            "region_id":85681681,
+            "venue_id":1092060047
+        }
+    ],
     "wof:id":1092060047,
-    "wof:lastmodified":1473983326,
+    "wof:lastmodified":1496895640,
     "wof:name":"Heinrich Nobis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

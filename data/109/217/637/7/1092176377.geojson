@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3937158585,48.2259101868,14.3937158585,48.2259101868",
     "geom:latitude":48.22591,
     "geom:longitude":14.393716,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898441,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904412,
-    "wof:geomhash":"51c9cee0cd927ad0652b8b8b6f23c785",
+    "wof:geomhash":"8486ef2f926ae06d9eb825b17eecafbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
             "neighbourhood_id":85898441,
             "region_id":85681677,
             "venue_id":1092176377
         }
     ],
     "wof:id":1092176377,
-    "wof:lastmodified":1473984617,
+    "wof:lastmodified":1496887236,
     "wof:name":"Hofer KG",
     "wof:parent_id":85898441,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3635349274,48.112651825,16.3635349274,48.112651825",
     "geom:latitude":48.112652,
     "geom:longitude":16.363535,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907191,
-    "wof:geomhash":"8a2a4f87427c2992517e0a0ed3cb4a3d",
+    "wof:geomhash":"de91ade0a96363b468472b2e5cb0bf84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092238067
         }
     ],
     "wof:id":1092238067,
-    "wof:lastmodified":1473985049,
+    "wof:lastmodified":1496888734,
     "wof:name":"Hausenberger Jens Dipl-TA Mag",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

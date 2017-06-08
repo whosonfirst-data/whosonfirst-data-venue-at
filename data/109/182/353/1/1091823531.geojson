@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2734899521,47.4113273621,15.2734899521,47.4113273621",
     "geom:latitude":47.411327,
     "geom:longitude":15.27349,
@@ -23,17 +24,34 @@
     "sg:postcode":"8600",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839323,
+        85632785,
+        101834337,
+        102049783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SUrkH3LFdD1Iko4Aiutq9_47.411327_15.273490@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888504,
-    "wof:geomhash":"80e73314d94c96b3bdfe9c2544dcaa19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a413a00a89e21d088399fbe0a2f55557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049783,
+            "localadmin_id":1108839323,
+            "locality_id":101834337,
+            "region_id":85681687,
+            "venue_id":1091823531
+        }
+    ],
     "wof:id":1091823531,
-    "wof:lastmodified":1473984257,
+    "wof:lastmodified":1496912913,
     "wof:name":"Sanit\u00e4tshaus Bandagist-Orthop\u00e4dietechnik Schumnig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

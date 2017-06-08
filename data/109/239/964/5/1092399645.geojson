@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2601051331,48.1675033569,16.2601051331,48.1675033569",
     "geom:latitude":48.167503,
     "geom:longitude":16.260105,
@@ -24,11 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898337,
+        102191581,
+        1108838101,
         85632785,
-        85898715,
+        101748073,
         102049859,
-        85898337
+        85681667,
+        85898715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,27 +40,33 @@
     },
     "wof:country":"AT",
     "wof:created":1473914403,
-    "wof:geomhash":"093d8f2fbaab25cd3f3fc1b5d44d5b8d",
+    "wof:geomhash":"6394337e8c33e436d6fb9150b38a50bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
-            "neighbourhood_id":85898715,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092399645
         },
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
-            "neighbourhood_id":85898337,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092399645
         }
     ],
     "wof:id":1092399645,
-    "wof:lastmodified":1473985076,
+    "wof:lastmodified":1496928959,
     "wof:name":"K\u00f6nig-Eichhorn Maria",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8151683807,47.4207191467,12.8151683807,47.4207191467",
     "geom:latitude":47.420719,
     "geom:longitude":12.815168,
@@ -23,17 +24,33 @@
     "sg:postcode":"5760",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cfTCgEBXA8VG9lqT4mE2o_47.420719_12.815168@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912870,
-    "wof:geomhash":"1b9c3bd7ce75d548f86dc077bbb425c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"012f4187342639e3f59d8a3faf808c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092367297
+        }
+    ],
     "wof:id":1092367297,
-    "wof:lastmodified":1473984968,
+    "wof:lastmodified":1496896333,
     "wof:name":"Hinterburghof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7383260727,46.8539466858,15.7383260727,46.8539466858",
     "geom:latitude":46.853947,
     "geom:longitude":15.738326,
@@ -23,17 +24,33 @@
     "sg:postcode":"8091",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839253,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12Mqq9mGXTVa8rVbZzeeBv_46.853947_15.738326@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903736,
-    "wof:geomhash":"8a26eb026e2ddda8091350945635956d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de6f690e90ce2549ea90ed79e34fd4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839253,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092161127
+        }
+    ],
     "wof:id":1092161127,
-    "wof:lastmodified":1473983575,
+    "wof:lastmodified":1496912192,
     "wof:name":"Volksschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

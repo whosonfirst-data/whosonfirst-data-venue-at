@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0491981506,48.2501525879,16.0491981506,48.2501525879",
     "geom:latitude":48.250153,
     "geom:longitude":16.049198,
@@ -34,17 +35,33 @@
         "childrens"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835869,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RYwYpdsDNq2BEKnyXX14w_48.250153_16.049198@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905643,
-    "wof:geomhash":"367a850d85e06e8ad1b508a189332f5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1eda2320ff7a57c8d9b51fb3f709c599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835869,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092203089
+        }
+    ],
     "wof:id":1092203089,
-    "wof:lastmodified":1473983993,
+    "wof:lastmodified":1496888700,
     "wof:name":"Franz Sprengnagel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

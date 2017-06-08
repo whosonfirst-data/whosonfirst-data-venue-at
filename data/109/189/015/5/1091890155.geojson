@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2578277588,47.46144104,13.2578277588,47.46144104",
     "geom:latitude":47.461441,
     "geom:longitude":13.257828,
@@ -23,17 +24,33 @@
     "sg:postcode":"5453",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837043,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EyI5mh9x0P9rcLLKNyTmH_47.461441_13.257828@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891646,
-    "wof:geomhash":"ecc1963968758b7089961801c927b9a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65d07ed78eb57682fa958ad2f587f4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837043,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091890155
+        }
+    ],
     "wof:id":1091890155,
-    "wof:lastmodified":1473983337,
+    "wof:lastmodified":1496894196,
     "wof:name":"Badesee Werfenweng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

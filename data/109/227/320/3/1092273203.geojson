@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7906103134,47.0232505798,15.7906103134,47.0232505798",
     "geom:latitude":47.023251,
     "geom:longitude":15.79061,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"intellihome.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839263,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WOawKvUF3a3kcCxruHUtp_47.023251_15.790610@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908733,
-    "wof:geomhash":"01611ebac1af14ee73a4620bebc500ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e22c360215a1a7045fe9912f7d7436e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839263,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092273203
+        }
+    ],
     "wof:id":1092273203,
-    "wof:lastmodified":1473984141,
+    "wof:lastmodified":1496912358,
     "wof:name":"IntelliHome Automatisierungstechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

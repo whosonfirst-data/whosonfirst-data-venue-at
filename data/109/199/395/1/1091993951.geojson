@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5041303635,47.2847747803,11.5041303635,47.2847747803",
     "geom:latitude":47.284775,
     "geom:longitude":11.50413,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896281,
-    "wof:geomhash":"a5fbe8009e8a44fe763dc7c5cd065116",
+    "wof:geomhash":"f9b68ba118d6aa14b5d6a231616add18",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091993951
         }
     ],
     "wof:id":1091993951,
-    "wof:lastmodified":1473984086,
+    "wof:lastmodified":1496898728,
     "wof:name":"IFAP Institut f angewandte Politikwissenschaft",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

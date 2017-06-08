@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3586111069,47.5167350769,12.3586111069,47.5167350769",
     "geom:latitude":47.516735,
     "geom:longitude":12.358611,
@@ -23,17 +24,33 @@
     "sg:postcode":"6353",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837363,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vPc2qS0BUJ66VsIpTd0Tf_47.516735_12.358611@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473902893,
-    "wof:geomhash":"9f0fa66e1a45221970827404a8c05601",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4941354e1a635a217a9bdef34413449f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837363,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092143273
+        }
+    ],
     "wof:id":1092143273,
-    "wof:lastmodified":1473984004,
+    "wof:lastmodified":1496897313,
     "wof:name":"MR - Mike Reitmaier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8902292252,47.2293777466,11.8902292252,47.2293777466",
     "geom:latitude":47.229378,
     "geom:longitude":11.890229,
@@ -23,17 +24,33 @@
     "sg:postcode":"6280",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837721,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aO402w0RCUpD1rxaJlZby_47.229378_11.890229@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891154,
-    "wof:geomhash":"6b5359b4f86c57034fb86d63fca4ccc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74895de8c3d4ec508193100c13550f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837721,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091880379
+        }
+    ],
     "wof:id":1091880379,
-    "wof:lastmodified":1473983459,
+    "wof:lastmodified":1496899759,
     "wof:name":"Zillertal Bier GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

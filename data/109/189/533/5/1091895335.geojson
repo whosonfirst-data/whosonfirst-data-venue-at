@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4667205811,48.2657814026,16.4667205811,48.2657814026",
     "geom:latitude":48.265781,
     "geom:longitude":16.466721,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891854,
-    "wof:geomhash":"52b525dd644358dcf716c93c9b5e5b7c",
+    "wof:geomhash":"5e0bba96478721841311d395964113eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1091895335
         }
     ],
     "wof:id":1091895335,
-    "wof:lastmodified":1473984541,
+    "wof:lastmodified":1496902525,
     "wof:name":"JKI Sand u Kies Deponiebetrieb GesmbH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

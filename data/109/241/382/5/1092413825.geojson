@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7953882217,46.6160926819,13.7953882217,46.6160926819",
     "geom:latitude":46.616093,
     "geom:longitude":13.795388,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915163,
-    "wof:geomhash":"4863e185bca407bd303628279267ea0b",
+    "wof:geomhash":"22635180f8d4e55c193a1acea29a23e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1092413825
         }
     ],
     "wof:id":1092413825,
-    "wof:lastmodified":1473984131,
+    "wof:lastmodified":1496906139,
     "wof:name":"Austrian Brandschutz Primig",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

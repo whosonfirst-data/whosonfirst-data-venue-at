@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.411699295,48.5025596619,16.411699295,48.5025596619",
     "geom:latitude":48.50256,
     "geom:longitude":16.411699,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"www.1a-installateur.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836913,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nH8B0oITCxXSsEjEN5l9g_48.502560_16.411699@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898910,
-    "wof:geomhash":"ebddd26a1435515deb2a965420ed8a2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fff6e4745b7f430909086df54c518b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836913,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092060251
+        }
+    ],
     "wof:id":1092060251,
-    "wof:lastmodified":1473983410,
+    "wof:lastmodified":1496893362,
     "wof:name":"Johann Gepp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

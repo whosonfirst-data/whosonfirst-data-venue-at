@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7173948288,47.4898414612,10.7173948288,47.4898414612",
     "geom:latitude":47.489841,
     "geom:longitude":10.717395,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"notar-saxl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837767,
+        85632785,
+        101834255,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W9y56R93B4SdJtp0HAk2R_47.489841_10.717395@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897636,
-    "wof:geomhash":"257d59b407260532b276fdbadc2df3e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77bf1f017d680a9b648dfab37a4f123f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837767,
+            "locality_id":101834255,
+            "region_id":85681661,
+            "venue_id":1092027805
+        }
+    ],
     "wof:id":1092027805,
-    "wof:lastmodified":1473984937,
+    "wof:lastmodified":1496899909,
     "wof:name":"Saxl Ulrich Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

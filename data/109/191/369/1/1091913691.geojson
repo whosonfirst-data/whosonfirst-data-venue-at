@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3288116455,48.3599624634,16.3288116455,48.3599624634",
     "geom:latitude":48.359962,
     "geom:longitude":16.328812,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lpR69ap8zl4ejTk4BwVGY_48.359962_16.328812@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892732,
-    "wof:geomhash":"28387d3e1c8ce38cbd961242a6e7e401",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b060bdb2ed2c2f5fdcad68d09728375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1091913691
+        }
+    ],
     "wof:id":1091913691,
-    "wof:lastmodified":1473983746,
+    "wof:lastmodified":1496883673,
     "wof:name":"Gemdat N\u00f6 Gemeinde-Datenservice GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5227708817,48.0140647888,15.5227708817,48.0140647888",
     "geom:latitude":48.014065,
     "geom:longitude":15.522771,
@@ -32,17 +33,33 @@
         "crushed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836799,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LZahJePCiEtPK3a2ernTg_48.014065_15.522771@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905801,
-    "wof:geomhash":"fed11190338f1c5a59ef9a04c03ce3db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"839270e11a8d9e1b1b09642b81a72be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836799,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092206343
+        }
+    ],
     "wof:id":1092206343,
-    "wof:lastmodified":1473984735,
+    "wof:lastmodified":1496892793,
     "wof:name":"Grasmann GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

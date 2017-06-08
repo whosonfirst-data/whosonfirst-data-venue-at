@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3508663177,47.1186141968,15.3508663177,47.1186141968",
     "geom:latitude":47.118614,
     "geom:longitude":15.350866,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908130,
-    "wof:geomhash":"f4ff57d71c08e2295035ccea0e8eaa99",
+    "wof:geomhash":"faac224980ab002bb775ed7cb22411a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092259487
         }
     ],
     "wof:id":1092259487,
-    "wof:lastmodified":1473985167,
+    "wof:lastmodified":1496911841,
     "wof:name":"Sigmund Bernd",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

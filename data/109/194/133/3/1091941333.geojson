@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0826778412,48.5633850098,16.0826778412,48.5633850098",
     "geom:latitude":48.563385,
     "geom:longitude":16.082678,
@@ -23,17 +24,34 @@
     "sg:postcode":"2020",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        101782253,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YDBfCilF7MUy4oyqTm2Wu_48.563385_16.082678@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473893993,
-    "wof:geomhash":"9a239e03472ce8ba7b5584d9719faf54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3711508bcdf7f7adb9cfb6b78b616c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":101782253,
+            "region_id":85681671,
+            "venue_id":1091941333
+        }
+    ],
     "wof:id":1091941333,
-    "wof:lastmodified":1473983587,
+    "wof:lastmodified":1496886262,
     "wof:name":"Auenheimer & Nebenf\u00fchr Trockenausbau OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

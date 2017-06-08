@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7273159027,48.2735557556,13.7273159027,48.2735557556",
     "geom:latitude":48.273556,
     "geom:longitude":13.727316,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835205,
+        85632785,
+        101784575,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ksIYrfQTfigmCARzjINSL_48.273556_13.727316@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913542,
-    "wof:geomhash":"0f9c584debc9b2936d5c05e3332b5be3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccbaf5062e2b4f8050e26ab0d9c1c15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835205,
+            "locality_id":101784575,
+            "region_id":85681677,
+            "venue_id":1092382277
+        }
+    ],
     "wof:id":1092382277,
-    "wof:lastmodified":1473983877,
+    "wof:lastmodified":1496885454,
     "wof:name":"Don Camillo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

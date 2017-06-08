@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6709756851,47.2785606384,11.6709756851,47.2785606384",
     "geom:latitude":47.278561,
     "geom:longitude":11.670976,
@@ -23,17 +24,33 @@
     "sg:postcode":"6133",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837715,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QrdyRU7EqQ8oT2nENYfEf_47.278561_11.670976@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903569,
-    "wof:geomhash":"9a51788890302957f4a921b302ad8246",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d0f589a3a3de5210d062cb1b3c1b4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837715,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092157619
+        }
+    ],
     "wof:id":1092157619,
-    "wof:lastmodified":1473984841,
+    "wof:lastmodified":1496899736,
     "wof:name":"Volksschule Innerweerberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

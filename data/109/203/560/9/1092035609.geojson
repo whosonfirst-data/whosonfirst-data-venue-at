@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6588878632,46.937297821,15.6588878632,46.937297821",
     "geom:latitude":46.937298,
     "geom:longitude":15.658888,
@@ -23,17 +24,33 @@
     "sg:postcode":"8082",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839247,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ct38ExySHVKPvkQnyV2L1_46.937298_15.658888@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473897956,
-    "wof:geomhash":"1b903e76bf9cc38b990483777273184d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f59b1dbfddb8aa39f584482b0464e91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839247,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092035609
+        }
+    ],
     "wof:id":1092035609,
-    "wof:lastmodified":1473984371,
+    "wof:lastmodified":1496912183,
     "wof:name":"Hauptschule",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

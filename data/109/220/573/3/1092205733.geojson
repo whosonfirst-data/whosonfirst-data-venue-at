@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.075504303,47.8233604431,13.075504303,47.8233604431",
     "geom:latitude":47.82336,
     "geom:longitude":13.075504,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905773,
-    "wof:geomhash":"4ca149416c0f310bfc58ce154bc4c2f7",
+    "wof:geomhash":"53c52de4de0c68ff9658d9efdbb57046",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092205733
         }
     ],
     "wof:id":1092205733,
-    "wof:lastmodified":1473984642,
+    "wof:lastmodified":1496922856,
     "wof:name":"SALZBURGER PRESSEAGENTUR GMBH & CO KG",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

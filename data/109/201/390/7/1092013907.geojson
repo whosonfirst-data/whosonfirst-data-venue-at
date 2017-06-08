@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8359928131,47.8285522461,15.8359928131,47.8285522461",
     "geom:latitude":47.828552,
     "geom:longitude":15.835993,
@@ -31,17 +32,33 @@
         "drink"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835375,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BbS68IQfu8mHtlETBNDZ4_47.828552_15.835993@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897102,
-    "wof:geomhash":"734b2af41a435c5cc1e1161c69d3b984",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84e41df158fbdcc8df4970737ae642a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835375,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092013907
+        }
+    ],
     "wof:id":1092013907,
-    "wof:lastmodified":1473983639,
+    "wof:lastmodified":1496886364,
     "wof:name":"KLOSTERQUELL ING.*KURT HOFER",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

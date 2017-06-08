@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.457857132,48.3344116211,16.457857132,48.3344116211",
     "geom:latitude":48.334412,
     "geom:longitude":16.457857,
@@ -23,17 +24,33 @@
     "sg:postcode":"2201",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835839,
+        85632785,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69O0ridN746apgZ40Se2RN_48.334412_16.457857@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473911956,
-    "wof:geomhash":"32bc768f78d557e5d871bc3d85d11605",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67386cefd5254fbbbf06ece75a835dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108835839,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092347705
+        }
+    ],
     "wof:id":1092347705,
-    "wof:lastmodified":1473984824,
+    "wof:lastmodified":1496888643,
     "wof:name":"Motor Center Austria GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

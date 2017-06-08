@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8226032257,48.2252693176,16.8226032257,48.2252693176",
     "geom:latitude":48.225269,
     "geom:longitude":16.822603,
@@ -32,17 +33,34 @@
         "crushed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835349,
+        85632785,
+        101784629,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YEoi2AdPYFvbFhdaYXoHN_48.225269_16.822603@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905803,
-    "wof:geomhash":"1b6654b27825ecd7062185c03b6c8c01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dc78d145af3efbfaa32f5ec3a58ca5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835349,
+            "locality_id":101784629,
+            "region_id":85681671,
+            "venue_id":1092206387
+        }
+    ],
     "wof:id":1092206387,
-    "wof:lastmodified":1473984727,
+    "wof:lastmodified":1496886201,
     "wof:name":"Johannes Riedm\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

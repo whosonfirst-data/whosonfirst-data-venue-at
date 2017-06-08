@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.808971405,47.7636375427,16.808971405,47.7636375427",
     "geom:latitude":47.763638,
     "geom:longitude":16.808971,
@@ -32,17 +33,34 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838513,
+        85632785,
+        101786825,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DDk47VA5PimSwhGy3dSjq_47.763638_16.808971@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905064,
-    "wof:geomhash":"d1cca957690aa0935a5a6078d5aa9da5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce8f4ab8463f249b82ba8ede47ed5189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838513,
+            "locality_id":101786825,
+            "region_id":85681651,
+            "venue_id":1092190843
+        }
+    ],
     "wof:id":1092190843,
-    "wof:lastmodified":1473983458,
+    "wof:lastmodified":1496908309,
     "wof:name":"Otto Wein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

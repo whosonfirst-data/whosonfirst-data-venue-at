@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7266902924,47.4402503967,12.7266902924,47.4402503967",
     "geom:latitude":47.44025,
     "geom:longitude":12.72669,
@@ -33,17 +34,33 @@
         "snowboardschulen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837211,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kYXyctY4Dp7cqkc67UVMl_47.440250_12.726690@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892596,
-    "wof:geomhash":"9c5a14c4c587031a0723d515241d9a47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40f00e0611fa92eb54f3981f9dc3e7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837211,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091911243
+        }
+    ],
     "wof:id":1091911243,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496895992,
     "wof:name":"1. Snowboardschule Leogang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

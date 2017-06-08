@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0737838745,47.305770874,11.0737838745,47.305770874",
     "geom:latitude":47.305771,
     "geom:longitude":11.073784,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"ccb-baumann.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        101834219,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07LfUZIxuhbCDXCZgf816t_47.305771_11.073784@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902815,
-    "wof:geomhash":"f8bb30bb0c8ad71a1f8502bae9c10215",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4afb8da70f529d47a2a4b2390a1bc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":101834219,
+            "region_id":85681661,
+            "venue_id":1092141427
+        }
+    ],
     "wof:id":1092141427,
-    "wof:lastmodified":1473983640,
+    "wof:lastmodified":1496898812,
     "wof:name":"CCB Baumann Communication GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

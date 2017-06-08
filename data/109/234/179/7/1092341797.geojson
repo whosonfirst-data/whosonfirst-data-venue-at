@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8485641479,47.9385795593,14.8485641479,47.9385795593",
     "geom:latitude":47.93858,
     "geom:longitude":14.848564,
@@ -31,17 +32,33 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836827,
+        85632785,
+        102049801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62TJyYNvniPzDswo2XFT2C_47.938580_14.848564@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911705,
-    "wof:geomhash":"d9edac5341caaf6832e2844dc0e6c1f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"017f8e88e973743c3a65e21afaeef203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049801,
+            "localadmin_id":1108836827,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092341797
+        }
+    ],
     "wof:id":1092341797,
-    "wof:lastmodified":1473983625,
+    "wof:lastmodified":1496892974,
     "wof:name":"RIESS GMBH & CO. KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

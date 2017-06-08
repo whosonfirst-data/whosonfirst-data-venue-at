@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2674369812,48.1566429138,16.2674369812,48.1566429138",
     "geom:latitude":48.156643,
     "geom:longitude":16.267437,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895863,
-    "wof:geomhash":"394fa36af2a7c8dedff8fb64ca6f15bf",
+    "wof:geomhash":"1fbd3c06efc60d26a59ded3f41b1eea8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1091984271
         }
     ],
     "wof:id":1091984271,
-    "wof:lastmodified":1473983843,
+    "wof:lastmodified":1496904220,
     "wof:name":"Meyer Fritz Dipl-Ing",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

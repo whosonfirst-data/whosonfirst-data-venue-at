@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2916698456,47.8055000305,13.2916698456,47.8055000305",
     "geom:latitude":47.8055,
     "geom:longitude":13.29167,
@@ -23,17 +24,33 @@
     "sg:postcode":"5330",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W5cemSNcQvNpujgYdq8L4_47.805500_13.291670@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913198,
-    "wof:geomhash":"a5a29882b9e51d11d4cb561736f890de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0a0b9f8d072ce693cc6a13bb21fa1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092374113
+        }
+    ],
     "wof:id":1092374113,
-    "wof:lastmodified":1473984366,
+    "wof:lastmodified":1496895369,
     "wof:name":"Sch\u00f6ffbaumgut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

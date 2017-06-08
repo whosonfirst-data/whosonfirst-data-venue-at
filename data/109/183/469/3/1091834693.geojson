@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6870946884,47.3613014221,9.6870946884,47.3613014221",
     "geom:latitude":47.361301,
     "geom:longitude":9.687095,
@@ -23,17 +24,34 @@
     "sg:postcode":"6845",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837963,
+        85632785,
+        101827469,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p0coMoATzQN1UfdctdVr3_47.361301_9.687095@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889025,
-    "wof:geomhash":"ae011bfc87ba5a872d78fac9c2f673ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebeb921f25505e286e25fa022fbf5e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":101827469,
+            "region_id":85681649,
+            "venue_id":1091834693
+        }
+    ],
     "wof:id":1091834693,
-    "wof:lastmodified":1473984249,
+    "wof:lastmodified":1496901133,
     "wof:name":"Bankomat d Dornbirner Sparkasse Bank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

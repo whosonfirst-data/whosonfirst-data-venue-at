@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6603240967,47.4363555908,9.6603240967,47.4363555908",
     "geom:latitude":47.436356,
     "geom:longitude":9.660324,
@@ -29,17 +30,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"gasthaus-meindl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        101827473,
+        102049737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5t3FAnJCB2pM3qxGKQTD7b_47.436356_9.660324@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895076,
-    "wof:geomhash":"e1e9e9cc91cdea65f3c0a8b7e132c288",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9290a6e8d6025587f1702538b45ea8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":101827473,
+            "region_id":85681649,
+            "venue_id":1091966033
+        }
+    ],
     "wof:id":1091966033,
-    "wof:lastmodified":1473984282,
+    "wof:lastmodified":1496901458,
     "wof:name":"Restaurant Meindl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

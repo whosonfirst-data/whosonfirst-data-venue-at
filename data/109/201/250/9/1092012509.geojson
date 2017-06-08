@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.229385376,47.0000534058,16.229385376,47.0000534058",
     "geom:latitude":47.000053,
     "geom:longitude":16.229385,
@@ -35,17 +36,33 @@
         "gate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838739,
+        85632785,
+        102049715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LUHfhoZc3oeMRGrPKtmmF_47.000053_16.229385@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897044,
-    "wof:geomhash":"449ef1e0595d4499f2710f146fbccad7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f67a67795280ca44765f9b2bd36f143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838739,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092012509
+        }
+    ],
     "wof:id":1092012509,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496909202,
     "wof:name":"Theodor Jaindl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

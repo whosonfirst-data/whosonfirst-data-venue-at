@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2038955688,48.3357772827,16.2038955688,48.3357772827",
     "geom:latitude":48.335777,
     "geom:longitude":16.203896,
@@ -32,17 +33,34 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835345,
+        85632785,
+        101754233,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AzG1xFiFfdaCmPhFIyYxd_48.335777_16.203896@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905518,
-    "wof:geomhash":"df5d2ce8af11c928bcd8f780eac19dd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae907bde384185adb93b5a1e2862ba36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835345,
+            "locality_id":101754233,
+            "region_id":85681671,
+            "venue_id":1092201059
+        }
+    ],
     "wof:id":1092201059,
-    "wof:lastmodified":1473983504,
+    "wof:lastmodified":1496886178,
     "wof:name":"M. Musil Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

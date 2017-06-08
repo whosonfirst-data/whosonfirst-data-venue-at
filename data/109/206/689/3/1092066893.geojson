@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.33963871,47.1126174927,15.33963871,47.1126174927",
     "geom:latitude":47.112617,
     "geom:longitude":15.339639,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898567,
-        102049741
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899178,
-    "wof:geomhash":"faf6e62bb40d5880655ce947dc6d171c",
+    "wof:geomhash":"3c7051b9e88d626ca53b9e90604cd199",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049741,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898567,
             "region_id":85681687,
             "venue_id":1092066893
         }
     ],
     "wof:id":1092066893,
-    "wof:lastmodified":1473984658,
+    "wof:lastmodified":1496911818,
     "wof:name":"Gasthaus Kirchenwirt",
     "wof:parent_id":85898567,
     "wof:placetype":"venue",

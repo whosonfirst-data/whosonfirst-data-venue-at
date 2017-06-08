@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2425670624,46.6541442871,14.2425670624,46.6541442871",
     "geom:latitude":46.654144,
     "geom:longitude":14.242567,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899498,
-    "wof:geomhash":"bc6557afcd1d43d3229d8c1955283117",
+    "wof:geomhash":"5b77e205089237b657b5793e8d1a7bae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1092074639
         }
     ],
     "wof:id":1092074639,
-    "wof:lastmodified":1473984174,
+    "wof:lastmodified":1496905603,
     "wof:name":"Gasthof Stopper",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5040378571,47.5742950439,16.5040378571,47.5742950439",
     "geom:latitude":47.574295,
     "geom:longitude":16.504038,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838649,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kHFM21uCWLxDQfzs5xpy0_47.574295_16.504038@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899822,
-    "wof:geomhash":"c66d1ae2be6cc5884a6bfd6b3a80c0d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfffcf20ef95dc3259d5880edc6e44a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838649,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092081277
+        }
+    ],
     "wof:id":1092081277,
-    "wof:lastmodified":1473983597,
+    "wof:lastmodified":1496909002,
     "wof:name":"Rust Benedikt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

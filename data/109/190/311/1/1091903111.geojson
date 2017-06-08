@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4584693909,47.7866401672,16.4584693909,47.7866401672",
     "geom:latitude":47.78664,
     "geom:longitude":16.458469,
@@ -23,17 +24,33 @@
     "sg:postcode":"7024",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838711,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NFqM6kws3d4vwnJHqQO13_47.786640_16.458469@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892266,
-    "wof:geomhash":"ebc1157fd5607ec08ec1242015aa735b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"453483dcab2a22ac386818ace8a26ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838711,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091903111
+        }
+    ],
     "wof:id":1091903111,
-    "wof:lastmodified":1473983971,
+    "wof:lastmodified":1496909155,
     "wof:name":"Sachs Heinrich Metallwarenfabrik KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

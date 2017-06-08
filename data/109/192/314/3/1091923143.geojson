@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8364877701,47.1362342834,9.8364877701,47.1362342834",
     "geom:latitude":47.136234,
     "geom:longitude":9.836488,
@@ -23,17 +24,33 @@
     "sg:postcode":"6700",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eBAHpH374xynBkHcDvIVS_47.136234_9.836488@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893114,
-    "wof:geomhash":"5a29440d99d5ecb0c8249ea6a66b64ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"446df05dfd89dbc4d3cad9c666aedf73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091923143
+        }
+    ],
     "wof:id":1091923143,
-    "wof:lastmodified":1473983911,
+    "wof:lastmodified":1496900597,
     "wof:name":"Fritz Spenglerei GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

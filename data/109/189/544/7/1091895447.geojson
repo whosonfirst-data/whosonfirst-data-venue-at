@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8188409805,46.6777458191,13.8188409805,46.6777458191",
     "geom:latitude":46.677746,
     "geom:longitude":13.818841,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838357,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U7Q7u7gr6AYPTwN6vFTsA_46.677746_13.818841@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891858,
-    "wof:geomhash":"adacc572a30b9ce50dddb5ead2b7348a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db724d74337e7801113702c0948aa4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838357,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091895447
+        }
+    ],
     "wof:id":1091895447,
-    "wof:lastmodified":1473984596,
+    "wof:lastmodified":1496907475,
     "wof:name":"Modre GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

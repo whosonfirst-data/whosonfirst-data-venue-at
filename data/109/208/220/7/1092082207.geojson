@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.9070167542,47.4615097046,11.9070167542,47.4615097046",
     "geom:latitude":47.46151,
     "geom:longitude":11.907017,
@@ -23,17 +24,33 @@
     "sg:postcode":"6233",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837399,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vqVTJYjYEZUeNvMfAuPy0_47.461510_11.907017@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899861,
-    "wof:geomhash":"f1faa5eb6f4b4e3f2479065b2dcb3f18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0636ac5cccb687a7aed945d0aee6a24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837399,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092082207
+        }
+    ],
     "wof:id":1092082207,
-    "wof:lastmodified":1473983853,
+    "wof:lastmodified":1496897573,
     "wof:name":"Seehof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6323013306,47.3113365173,9.6323013306,47.3113365173",
     "geom:latitude":47.311337,
     "geom:longitude":9.632301,
@@ -23,17 +24,33 @@
     "sg:postcode":"6833",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837973,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NoiqC2ugKTFp9ajboOYcZ_47.311337_9.632301@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899347,
-    "wof:geomhash":"4522031488c81b877ba439b1cd8fd0d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40905d7f700e46d2a794ea33dc9663ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837973,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092070995
+        }
+    ],
     "wof:id":1092070995,
-    "wof:lastmodified":1473983497,
+    "wof:lastmodified":1496901191,
     "wof:name":"Gasthaus zur Birke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

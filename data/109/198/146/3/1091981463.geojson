@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3557815552,48.2110404968,13.3557815552,48.2110404968",
     "geom:latitude":48.21104,
     "geom:longitude":13.355782,
@@ -31,17 +32,33 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835647,
+        85632785,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wFNN5aYvrbGvXz5v42NQK_48.211040_13.355782@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895756,
-    "wof:geomhash":"5d509c71867baa6c57ad213d4c976130",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5426704129c82b9eb109c0aa041c5f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835647,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091981463
+        }
+    ],
     "wof:id":1091981463,
-    "wof:lastmodified":1473983331,
+    "wof:lastmodified":1496887787,
     "wof:name":"REICH GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

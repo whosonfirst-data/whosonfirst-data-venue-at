@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4980678558,48.2510261536,16.4980678558,48.2510261536",
     "geom:latitude":48.251026,
     "geom:longitude":16.498068,
@@ -29,10 +30,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898283,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895016,
-    "wof:geomhash":"2976936195bbfde028ca86487931d7be",
+    "wof:geomhash":"30b58970852d871543b0be2b5855d2b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898283,
             "region_id":85681667,
             "venue_id":1091964467
         }
     ],
     "wof:id":1091964467,
-    "wof:lastmodified":1473984034,
+    "wof:lastmodified":1496928120,
     "wof:name":"Lindenhof",
     "wof:parent_id":85898283,
     "wof:placetype":"venue",

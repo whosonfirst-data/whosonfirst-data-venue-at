@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4303398132,47.4347610474,12.4303398132,47.4347610474",
     "geom:latitude":47.434761,
     "geom:longitude":12.43034,
@@ -24,17 +25,33 @@
     "sg:province":"Tirol",
     "sg:website":"http://www.cki.at/default2.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Oud8YqGl5Xr4Uwj2cjZVn_47.434761_12.430340@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895468,
-    "wof:geomhash":"44b17de4c337176889864e745d8ee74c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23c036aea08cdc32fbaae2e06151f964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091975451
+        }
+    ],
     "wof:id":1091975451,
-    "wof:lastmodified":1473984516,
+    "wof:lastmodified":1496897141,
     "wof:name":"Immobilien Christian Krassnigg Tirol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

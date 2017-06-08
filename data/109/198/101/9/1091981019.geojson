@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0310726166,47.7343635559,16.0310726166,47.7343635559",
     "geom:latitude":47.734364,
     "geom:longitude":16.031073,
@@ -32,17 +33,33 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Rt0yghirNNRqpUyf7qM5V_47.734364_16.031073@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895739,
-    "wof:geomhash":"4427dbf3086c315341b26a2f2cae9b83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7120b7de22dbe00a4be715978d1fa20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091981019
+        }
+    ],
     "wof:id":1091981019,
-    "wof:lastmodified":1473983322,
+    "wof:lastmodified":1496885881,
     "wof:name":"BFT - Bearbeitungs- und Fluidtechnik GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

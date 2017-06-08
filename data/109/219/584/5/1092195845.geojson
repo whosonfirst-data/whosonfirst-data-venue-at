@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8857727051,47.9468040466,14.8857727051,47.9468040466",
     "geom:latitude":47.946804,
     "geom:longitude":14.885773,
@@ -31,17 +32,33 @@
         "laying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836827,
+        85632785,
+        102049801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vqKSZQr9bFJeZBOKXWLfq_47.946804_14.885773@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905276,
-    "wof:geomhash":"ed48fb5030d8f8a8bfa2a32a1813777c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd214648ad212fd9d33404befb66cacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049801,
+            "localadmin_id":1108836827,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092195845
+        }
+    ],
     "wof:id":1092195845,
-    "wof:lastmodified":1473984614,
+    "wof:lastmodified":1496892975,
     "wof:name":"Herbert Pichler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

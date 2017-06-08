@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1211643219,47.3497924805,11.1211643219,47.3497924805",
     "geom:latitude":47.349792,
     "geom:longitude":11.121164,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U3SvLzklOqmnJMNOFotv7_47.349792_11.121164@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912776,
-    "wof:geomhash":"ea48da33bebe0f02785b23cfe1114d3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e629a438ff4d7e8bf59b11070a69c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092365495
+        }
+    ],
     "wof:id":1092365495,
-    "wof:lastmodified":1473984636,
+    "wof:lastmodified":1496898444,
     "wof:name":"Haus Barbara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

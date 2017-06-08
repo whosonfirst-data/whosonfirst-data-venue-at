@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5075330734,47.2816696167,11.5075330734,47.2816696167",
     "geom:latitude":47.28167,
     "geom:longitude":11.507533,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913876,
-    "wof:geomhash":"1b22f7ca5a97eb5aea555a556e4582ce",
+    "wof:geomhash":"2da980e469f6b62d00da2ae2a1bc550e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092388613
         }
     ],
     "wof:id":1092388613,
-    "wof:lastmodified":1473985256,
+    "wof:lastmodified":1496898707,
     "wof:name":"Sozialistische Partei \u00f6sterreichs",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9784126282,47.8666610718,16.9784126282,47.8666610718",
     "geom:latitude":47.866661,
     "geom:longitude":16.978413,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"gs-bau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838459,
+        85632785,
+        101785747,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xMotSfTbpZlpsqYoK86ib_47.866661_16.978413@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889377,
-    "wof:geomhash":"7ed5fe71669fb8c4644230614235cd01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f4ebded81265e33feec724365305199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838459,
+            "locality_id":101785747,
+            "region_id":85681651,
+            "venue_id":1091842601
+        }
+    ],
     "wof:id":1091842601,
-    "wof:lastmodified":1473983771,
+    "wof:lastmodified":1496907990,
     "wof:name":"GARTNER-SCHIENER BAU GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

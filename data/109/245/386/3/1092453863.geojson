@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0559005737,47.0233078003,16.0559005737,47.0233078003",
     "geom:latitude":47.023308,
     "geom:longitude":16.055901,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"teeblatt.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839227,
+        85632785,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IaLRtcl7yeJWyLkDBeaCn_47.023308_16.055901@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917005,
-    "wof:geomhash":"85f4de3022539c2dfa66ef639f6861f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07eb21a55239014de088000c15acc2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839227,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092453863
+        }
+    ],
     "wof:id":1092453863,
-    "wof:lastmodified":1473983381,
+    "wof:lastmodified":1496912069,
     "wof:name":"Teeblatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

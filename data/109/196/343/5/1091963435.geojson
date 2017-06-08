@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9615249634,47.7803497314,12.9615249634,47.7803497314",
     "geom:latitude":47.78035,
     "geom:longitude":12.961525,
@@ -29,10 +30,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904373,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894967,
-    "wof:geomhash":"af67cac697a1db333217a0f047188f77",
+    "wof:geomhash":"f39eb936d8cb9f55571b1830e3d8896a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85904373,
             "region_id":85681681,
             "venue_id":1091963435
         }
     ],
     "wof:id":1091963435,
-    "wof:lastmodified":1473983856,
+    "wof:lastmodified":1496895769,
     "wof:name":"Gasthaus-Restaurant Rupertigau",
     "wof:parent_id":85904373,
     "wof:placetype":"venue",

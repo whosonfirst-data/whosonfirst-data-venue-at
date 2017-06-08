@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6845636368,48.4771575928,15.6845636368,48.4771575928",
     "geom:latitude":48.477158,
     "geom:longitude":15.684564,
@@ -32,17 +33,34 @@
         "implant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835935,
+        85632785,
+        101783391,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yFP6ueaojNqM6OzdpWbQM_48.477158_15.684564@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896840,
-    "wof:geomhash":"a3020096b36376d50be6cc63c7054c37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30fe2fc924154932264210c46c4d0002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835935,
+            "locality_id":101783391,
+            "region_id":85681671,
+            "venue_id":1092007369
+        }
+    ],
     "wof:id":1092007369,
-    "wof:lastmodified":1473984706,
+    "wof:lastmodified":1496888965,
     "wof:name":"Wolfgang Hartner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

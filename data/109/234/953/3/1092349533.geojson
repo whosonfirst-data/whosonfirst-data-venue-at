@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8208045959,47.3980751038,11.8208045959,47.3980751038",
     "geom:latitude":47.398075,
     "geom:longitude":11.820805,
@@ -23,17 +24,33 @@
     "sg:postcode":"6261",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837653,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YZw6LUNdaTKmdBGwxRLD7_47.398075_11.820805@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912047,
-    "wof:geomhash":"03c6c5bb468cef0141a1da660dfd898e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8873df6bfc04eb7944025e87af50f266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837653,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092349533
+        }
+    ],
     "wof:id":1092349533,
-    "wof:lastmodified":1473985129,
+    "wof:lastmodified":1496898996,
     "wof:name":"Austria Musik Agentur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

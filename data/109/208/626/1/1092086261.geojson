@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6810445786,47.1750450134,14.6810445786,47.1750450134",
     "geom:latitude":47.175045,
     "geom:longitude":14.681045,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"opss-ofner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839395,
+        85632785,
+        101834249,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jCDJh2BTCJPt0Bh76GYyL_47.175045_14.681045@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900046,
-    "wof:geomhash":"290c5381b351e942ce504ac00a561006",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6f6dc90bc33ab7e3306328cd6c1e42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839395,
+            "locality_id":101834249,
+            "region_id":85681687,
+            "venue_id":1092086261
+        }
+    ],
     "wof:id":1092086261,
-    "wof:lastmodified":1473984660,
+    "wof:lastmodified":1496914020,
     "wof:name":"OPSS OFNER Objekt & Personal-Service-Systeme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

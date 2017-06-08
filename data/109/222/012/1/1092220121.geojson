@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5028781891,46.9248657227,12.5028781891,46.9248657227",
     "geom:latitude":46.924866,
     "geom:longitude":12.502878,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837499,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wCzggs5LMuo0QSQFSOPS5_46.924866_12.502878@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906402,
-    "wof:geomhash":"8c1a217dd22627a649b2ecfcb85dc301",
-    "wof:hierarchy":[],
+    "wof:geomhash":"812d99cda42a88fad6e108c2069b04ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837499,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092220121
+        }
+    ],
     "wof:id":1092220121,
-    "wof:lastmodified":1473983333,
+    "wof:lastmodified":1496898108,
     "wof:name":"Blasisker Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

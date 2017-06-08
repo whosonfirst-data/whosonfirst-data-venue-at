@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4717922211,48.3000984192,16.4717922211,48.3000984192",
     "geom:latitude":48.300098,
     "geom:longitude":16.471792,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909289,
-    "wof:geomhash":"31692cc2c9455f3d47cd929f3e125b55",
+    "wof:geomhash":"1b9669815d80b25ab09cff427b995cc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092286091
         }
     ],
     "wof:id":1092286091,
-    "wof:lastmodified":1473984543,
+    "wof:lastmodified":1496890125,
     "wof:name":"Gerhard Hiess",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

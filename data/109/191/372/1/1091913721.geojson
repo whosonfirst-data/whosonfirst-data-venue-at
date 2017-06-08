@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9425268173,47.9438362122,12.9425268173,47.9438362122",
     "geom:latitude":47.943836,
     "geom:longitude":12.942527,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837167,
+        85632785,
+        101833107,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75jrPaTfev4qjIJvw7LqAj_47.943836_12.942527@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892734,
-    "wof:geomhash":"f9bf23e4ac2e0e9a3bf0d250b27245ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aef96eb934342ded0b24c63299911c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837167,
+            "locality_id":101833107,
+            "region_id":85681681,
+            "venue_id":1091913721
+        }
+    ],
     "wof:id":1091913721,
-    "wof:lastmodified":1473983759,
+    "wof:lastmodified":1496895561,
     "wof:name":"GMS West Lankmayer KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

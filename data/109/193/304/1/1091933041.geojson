@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.6594419479,47.3111572266,11.6594419479,47.3111572266",
     "geom:latitude":47.311157,
     "geom:longitude":11.659442,
@@ -23,17 +24,33 @@
     "sg:postcode":"6114",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837713,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BjDyAso5BSygIlQ2G70EE_47.311157_11.659442@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893644,
-    "wof:geomhash":"c8556efd40fbd74896d9e4861ae02926",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1df22182195b5bc2bb1454fcd8694057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837713,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091933041
+        }
+    ],
     "wof:id":1091933041,
-    "wof:lastmodified":1473984047,
+    "wof:lastmodified":1496899731,
     "wof:name":"Koppensteiner GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

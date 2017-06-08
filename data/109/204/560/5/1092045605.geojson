@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4563598633,47.2924880981,13.4563598633,47.2924880981",
     "geom:latitude":47.292488,
     "geom:longitude":13.45636,
@@ -28,17 +29,33 @@
     "sg:postcode":"5541",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836989,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ozD7oL9ZpcuvMr6lP4OGl_47.292488_13.456360@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898340,
-    "wof:geomhash":"6f6f4facaabc1cc0a7c0b0a353bcd97c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e58b4411991127dde12646c5d01535d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836989,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092045605
+        }
+    ],
     "wof:id":1092045605,
-    "wof:lastmodified":1473983799,
+    "wof:lastmodified":1496893673,
     "wof:name":"Hotel Alpenrose GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

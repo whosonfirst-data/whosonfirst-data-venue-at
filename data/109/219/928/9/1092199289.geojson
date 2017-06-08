@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0360450745,48.4158782959,14.0360450745,48.4158782959",
     "geom:latitude":48.415878,
     "geom:longitude":14.036045,
@@ -33,17 +34,33 @@
     ],
     "sg:website":"strasser.steinbau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835999,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rTIhXTbSdnMHgnEcvXEO4_48.415878_14.036045@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905416,
-    "wof:geomhash":"e5c898d59e2d314903fcb224a9291810",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c56d91dd9d9762f6f67fbf1534cf266b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835999,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092199289
+        }
+    ],
     "wof:id":1092199289,
-    "wof:lastmodified":1473985309,
+    "wof:lastmodified":1496889184,
     "wof:name":"Strasser Steinbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

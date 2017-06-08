@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.53515625,48.1158790588,15.53515625,48.1158790588",
     "geom:latitude":48.115879,
     "geom:longitude":15.535156,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836183,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SiMGNJ9jKQ3PoAVVUoCJV_48.115879_15.535156@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913652,
-    "wof:geomhash":"3e63a9243da7ebe5179212c4a86256bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7faf2e29b52c2a7aaed100f16c4e055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836183,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092384339
+        }
+    ],
     "wof:id":1092384339,
-    "wof:lastmodified":1473984339,
+    "wof:lastmodified":1496889915,
     "wof:name":"Pizzeria-Gast-u Cafest\u00fcberl Linde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

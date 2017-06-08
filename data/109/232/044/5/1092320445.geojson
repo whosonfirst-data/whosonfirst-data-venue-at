@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4907608032,48.419708252,16.4907608032,48.419708252",
     "geom:latitude":48.419708,
     "geom:longitude":16.490761,
@@ -23,17 +24,33 @@
     "sg:postcode":"2123",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836975,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4joCc1YV4KJ4Oco2TI9KOy_48.419708_16.490761@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473910822,
-    "wof:geomhash":"fcd7b638d3a8f66bf64e3cca7e6d6cae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"745e656a35e99da30a1ba3148710b124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836975,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092320445
+        }
+    ],
     "wof:id":1092320445,
-    "wof:lastmodified":1473983385,
+    "wof:lastmodified":1496893618,
     "wof:name":"AUTOHAUS Hackl - Bosch - Ford - Service - Tankstelle - ALLROPA Autohandel GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

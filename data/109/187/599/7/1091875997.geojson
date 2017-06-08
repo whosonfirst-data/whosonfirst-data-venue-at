@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4152698517,48.2841110229,14.4152698517,48.2841110229",
     "geom:latitude":48.284111,
     "geom:longitude":14.41527,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835587,
+        85632785,
+        102049865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iIg51qaj6CLWZA0DPXFpv_48.284111_14.415270@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890947,
-    "wof:geomhash":"9d1dd3dccc58af26ca3d995a7c1cd006",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1b45e22b62c8b59c3a833ec8c01d876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835587,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091875997
+        }
+    ],
     "wof:id":1091875997,
-    "wof:lastmodified":1473984434,
+    "wof:lastmodified":1496887538,
     "wof:name":"Palmetshofer Nautic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

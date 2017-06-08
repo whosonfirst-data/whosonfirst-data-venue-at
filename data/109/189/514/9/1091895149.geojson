@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7280693054,47.355342865,11.7280693054,47.355342865",
     "geom:latitude":47.355343,
     "geom:longitude":11.728069,
@@ -33,17 +34,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vsb9HEU1N9wfFYaXinXMg_47.355343_11.728069@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891847,
-    "wof:geomhash":"c2b2c87090ddc8455f9129498a0fb019",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fa792eaf7c2e2fd7869bfac1eb38298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1091895149
+        }
+    ],
     "wof:id":1091895149,
-    "wof:lastmodified":1473984479,
+    "wof:lastmodified":1496900125,
     "wof:name":"Bergbau Falkenstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

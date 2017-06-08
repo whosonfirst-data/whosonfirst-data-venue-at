@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7290458679,47.4413261414,12.7290458679,47.4413261414",
     "geom:latitude":47.441326,
     "geom:longitude":12.729046,
@@ -23,17 +24,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.eder-leogang-sb.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837211,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EknvaM97MtvXXxAVqjrip_47.441326_12.729046@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895465,
-    "wof:geomhash":"96d24855a5267f71dd63b2799b6bf5c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38a7290ff7888ac83ea904362d137545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837211,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091975349
+        }
+    ],
     "wof:id":1091975349,
-    "wof:lastmodified":1473984475,
+    "wof:lastmodified":1496895992,
     "wof:name":"OfenEder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

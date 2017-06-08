@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2889270782,47.2319335938,11.2889270782,47.2319335938",
     "geom:latitude":47.231934,
     "geom:longitude":11.288927,
@@ -29,10 +30,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898354,
-    "wof:geomhash":"b867706145bd60e02384f5e265e86718",
+    "wof:geomhash":"784b2106b2172f06b763663d197b11c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092045981
         }
     ],
     "wof:id":1092045981,
-    "wof:lastmodified":1473983892,
+    "wof:lastmodified":1496898030,
     "wof:name":"Hotel Bergland",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

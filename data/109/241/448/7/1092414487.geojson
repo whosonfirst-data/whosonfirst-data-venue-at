@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6415052414,46.7165794373,13.6415052414,46.7165794373",
     "geom:latitude":46.716579,
     "geom:longitude":13.641505,
@@ -23,17 +24,33 @@
     "sg:postcode":"9711",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838119,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54FkKRtdrWG26N0WnEyZ4X_46.716579_13.641505@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473915190,
-    "wof:geomhash":"2ec56bed34a3eaaffbd983eae0af6850",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a60e5d177b83e9a308233cdc2bb04da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838119,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092414487
+        }
+    ],
     "wof:id":1092414487,
-    "wof:lastmodified":1473984280,
+    "wof:lastmodified":1496905335,
     "wof:name":"Feuerwehr Paternion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

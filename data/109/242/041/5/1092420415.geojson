@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9754934311,48.2867126465,15.9754934311,48.2867126465",
     "geom:latitude":48.286713,
     "geom:longitude":15.975493,
@@ -23,17 +24,33 @@
     "sg:postcode":"3441",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835035,
+        85632785,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sp3ZNOlpyvvYLoRKmHTeN_48.286713_15.975493@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915472,
-    "wof:geomhash":"9313aa0002d91e0be011ce29da24519d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f40ab4b9b3386ca65536d9115767568b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835035,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092420415
+        }
+    ],
     "wof:id":1092420415,
-    "wof:lastmodified":1473983411,
+    "wof:lastmodified":1496884306,
     "wof:name":"Finanzberatung Johann Hellein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

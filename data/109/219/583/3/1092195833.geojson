@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2464847565,46.7158546448,15.2464847565,46.7158546448",
     "geom:latitude":46.715855,
     "geom:longitude":15.246485,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"elsta.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839271,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OG0gufur4vWLAGGAU5ZSd_46.715855_15.246485@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905276,
-    "wof:geomhash":"352485992c960fc31dfddd088437adf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51bff0ff3a1e4a4512ff121f235ce7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839271,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092195833
+        }
+    ],
     "wof:id":1092195833,
-    "wof:lastmodified":1473984613,
+    "wof:lastmodified":1496912413,
     "wof:name":"Elsta-Mosdorfer Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3845596313,46.7407836914,12.3845596313,46.7407836914",
     "geom:latitude":46.740784,
     "geom:longitude":12.38456,
@@ -23,17 +24,33 @@
     "sg:postcode":"9920",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837785,
+        85632785,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OhTS39drF2Vc2ASBfEifF_46.740784_12.384560@1306268280"
     },
     "wof:country":"AT",
     "wof:created":1473904268,
-    "wof:geomhash":"86c74d8b0ada0d9ca5125f6e4484835b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3d024d8fd0f563449bac68301e519b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837785,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092173395
+        }
+    ],
     "wof:id":1092173395,
-    "wof:lastmodified":1473984001,
+    "wof:lastmodified":1496899978,
     "wof:name":"Billa AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

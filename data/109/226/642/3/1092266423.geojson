@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7662000656,47.1968612671,9.7662000656,47.1968612671",
     "geom:latitude":47.196861,
     "geom:longitude":9.7662,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838073,
+        85632785,
+        101827445,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3In0VOdcYj1mcKtKtc2Jdl_47.196861_9.766200@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908447,
-    "wof:geomhash":"ca06fc14443c91d4360b4da691e654ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59355cad0da9c50da96dbce168435314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838073,
+            "locality_id":101827445,
+            "region_id":85681649,
+            "venue_id":1092266423
+        }
+    ],
     "wof:id":1092266423,
-    "wof:lastmodified":1473984562,
+    "wof:lastmodified":1496901831,
     "wof:name":"VORARLBERGER KRAFTWERKE AG KW UNTERSTUFE LUTZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

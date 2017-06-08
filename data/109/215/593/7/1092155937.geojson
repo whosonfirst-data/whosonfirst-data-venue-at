@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8648147583,48.0955429077,13.8648147583,48.0955429077",
     "geom:latitude":48.095543,
     "geom:longitude":13.864815,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898443,
-        102049831
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903483,
-    "wof:geomhash":"9fded7c7cb84772c9c72368ff595e83b",
+    "wof:geomhash":"eb3061be1f1aa882de2fa1ee1b9f233a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
             "neighbourhood_id":85898443,
             "region_id":85681677,
             "venue_id":1092155937
         }
     ],
     "wof:id":1092155937,
-    "wof:lastmodified":1473984547,
+    "wof:lastmodified":1496891640,
     "wof:name":"Volkshochschule Lambach",
     "wof:parent_id":85898443,
     "wof:placetype":"venue",

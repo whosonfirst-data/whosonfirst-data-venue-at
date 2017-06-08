@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7797899246,47.5360412598,9.7797899246,47.5360412598",
     "geom:latitude":47.536041,
     "geom:longitude":9.77979,
@@ -22,17 +23,33 @@
     "sg:postcode":"6911",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837933,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Z4Gd0mOQkFKPWdPkyl5No_47.536041_9.779790@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888258,
-    "wof:geomhash":"44825b8c8ceefcb78056c3cd963b80ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d493fa9b6e869f9c91b25f98653a6cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837933,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091817797
+        }
+    ],
     "wof:id":1091817797,
-    "wof:lastmodified":1473984999,
+    "wof:lastmodified":1496900891,
     "wof:name":"Feuerwehr Eichenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

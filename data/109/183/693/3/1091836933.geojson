@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5981283188,47.2372055054,9.5981283188,47.2372055054",
     "geom:latitude":47.237206,
     "geom:longitude":9.598128,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889124,
-    "wof:geomhash":"a35ad473c6142d25ae8bf3027a4c6e26",
+    "wof:geomhash":"3daa811e01ea8a60b4e000fb8cc4c899",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091836933
         }
     ],
     "wof:id":1091836933,
-    "wof:lastmodified":1473984629,
+    "wof:lastmodified":1496900894,
     "wof:name":"Cafe-Bar Hecht",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

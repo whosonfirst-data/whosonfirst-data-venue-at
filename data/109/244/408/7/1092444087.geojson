@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3901777267,47.2581596375,11.3901777267,47.2581596375",
     "geom:latitude":47.25816,
     "geom:longitude":11.390178,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916572,
-    "wof:geomhash":"c8342935c4e59b0a55e3ef65906798fe",
+    "wof:geomhash":"8927e6cfda00c5a8b7075704524d53fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092444087
         }
     ],
     "wof:id":1092444087,
-    "wof:lastmodified":1473984262,
+    "wof:lastmodified":1496925969,
     "wof:name":"Friseursalon Brigitte",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6343688965,47.2080841064,15.6343688965,47.2080841064",
     "geom:latitude":47.208084,
     "geom:longitude":15.634369,
@@ -32,17 +33,34 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838919,
+        85632785,
+        101787937,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mvB5Q1WzUPr80MfbepNRa_47.208084_15.634369@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905518,
-    "wof:geomhash":"ab24f6be7a1bc657abf7852ff11ad261",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d4d1e3bb7473011c36f35a1efd2f746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838919,
+            "locality_id":101787937,
+            "region_id":85681687,
+            "venue_id":1092201073
+        }
+    ],
     "wof:id":1092201073,
-    "wof:lastmodified":1473983541,
+    "wof:lastmodified":1496910143,
     "wof:name":"Tabor Inh. Franz Zach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

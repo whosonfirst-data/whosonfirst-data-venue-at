@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3633213043,48.113899231,16.3633213043,48.113899231",
     "geom:latitude":48.113899,
     "geom:longitude":16.363321,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898383,
-        102049843
+        102191581,
+        1108835875,
+        85632785,
+        102049837,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473917025,
-    "wof:geomhash":"e380ec082e3ac67b8f2eda6f531ccb6c",
+    "wof:geomhash":"612258b7b6d0c612f424447ce06b853d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049843,
+            "county_id":102049837,
+            "localadmin_id":1108835875,
+            "locality_id":-1,
             "neighbourhood_id":85898383,
             "region_id":85681671,
             "venue_id":1092454341
         }
     ],
     "wof:id":1092454341,
-    "wof:lastmodified":1473983482,
+    "wof:lastmodified":1496888736,
     "wof:name":"G & K Mayer Unternehmensberatungs- und Handels GmbH",
     "wof:parent_id":85898383,
     "wof:placetype":"venue",

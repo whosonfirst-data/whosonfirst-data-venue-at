@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3903684616,47.4445495605,12.3903684616,47.4445495605",
     "geom:latitude":47.44455,
     "geom:longitude":12.390368,
@@ -33,17 +34,34 @@
         "ski"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        101787927,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39gDGaebSe3CYHz3Hz5SJD_47.444550_12.390368@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892594,
-    "wof:geomhash":"6992a5fe397fcad4b258f14fc506f7e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"718f649333032d48b231fbf75dc59c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":101787927,
+            "region_id":85681661,
+            "venue_id":1091911187
+        }
+    ],
     "wof:id":1091911187,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496897139,
     "wof:name":"Sport Olympia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

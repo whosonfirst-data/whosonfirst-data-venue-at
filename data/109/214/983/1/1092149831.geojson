@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5137615204,48.2145080566,16.5137615204,48.2145080566",
     "geom:latitude":48.214508,
     "geom:longitude":16.513762,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903206,
-    "wof:geomhash":"b08d46f1af0aab031716fa0c6e2b9551",
+    "wof:geomhash":"3e4b331df6f1b5f8666f2adfe8f621e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092149831
         }
     ],
     "wof:id":1092149831,
-    "wof:lastmodified":1473985151,
+    "wof:lastmodified":1496902960,
     "wof:name":"Exclusiv-Kosmetik Gl\u00f6ssner",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

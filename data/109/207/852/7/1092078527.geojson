@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1229057312,47.0943069458,13.1229057312,47.0943069458",
     "geom:latitude":47.094307,
     "geom:longitude":13.122906,
@@ -23,17 +24,33 @@
     "sg:postcode":"5645",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59tUhSzF6rUwig2gZHlGQ5_47.094307_13.122906@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899695,
-    "wof:geomhash":"cb1c27c493fa55978e97eb812c88e4ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf85c4b200bda0da82e30b577718e9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092078527
+        }
+    ],
     "wof:id":1092078527,
-    "wof:lastmodified":1473984883,
+    "wof:lastmodified":1496893770,
     "wof:name":"Landgasthaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

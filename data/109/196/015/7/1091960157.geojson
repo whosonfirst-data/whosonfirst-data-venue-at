@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9015293121,47.0776405334,9.9015293121,47.0776405334",
     "geom:latitude":47.077641,
     "geom:longitude":9.901529,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"http://www.tiscover.com/schruns/tschagguns",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838077,
+        85632785,
+        101827447,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5In1RrSuqi3aC6QEu3QFNA_47.077641_9.901529@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894830,
-    "wof:geomhash":"8cffc5f5b984f901ced053543f09ae78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7201faebbdb400080cbf31731fa3115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838077,
+            "locality_id":101827447,
+            "region_id":85681649,
+            "venue_id":1091960157
+        }
+    ],
     "wof:id":1091960157,
-    "wof:lastmodified":1473983332,
+    "wof:lastmodified":1496901853,
     "wof:name":"Tourismusinformation Schruns/Tschagguns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

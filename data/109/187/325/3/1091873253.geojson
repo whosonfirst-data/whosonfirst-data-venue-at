@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2707500458,48.1902999878,16.2707500458,48.1902999878",
     "geom:latitude":48.1903,
     "geom:longitude":16.27075,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890825,
-    "wof:geomhash":"422aa70d8313ae4832e533eadba0f157",
+    "wof:geomhash":"844bb6562d32050e20b291eda9e9eccc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091873253
         }
     ],
     "wof:id":1091873253,
-    "wof:lastmodified":1473983856,
+    "wof:lastmodified":1496902646,
     "wof:name":"Kuprian Matthias",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

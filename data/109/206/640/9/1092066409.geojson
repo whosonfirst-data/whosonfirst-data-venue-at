@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4607896805,47.2088088989,11.4607896805,47.2088088989",
     "geom:latitude":47.208809,
     "geom:longitude":11.46079,
@@ -23,17 +24,33 @@
     "sg:postcode":"6082",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837565,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78QG9bLVhF3xbp8y0o2RBr_47.208809_11.460790@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899158,
-    "wof:geomhash":"a933206c30bb35adee2b9304e6610a5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90b05fc2cd3084def4da693cc57d06db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837565,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092066409
+        }
+    ],
     "wof:id":1092066409,
-    "wof:lastmodified":1473984569,
+    "wof:lastmodified":1496898501,
     "wof:name":"Gasthaus Hochmahdalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

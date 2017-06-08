@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8684749603,47.4071426392,10.8684749603,47.4071426392",
     "geom:latitude":47.407143,
     "geom:longitude":10.868475,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837753,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HZMVm3OWtqkVOWTgmnCwS_47.407143_10.868475@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906485,
-    "wof:geomhash":"5e57da79bf21c6f76831d83aa10baf58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a20afce2b6bf7c035cdb389db983c045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837753,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092222083
+        }
+    ],
     "wof:id":1092222083,
-    "wof:lastmodified":1473983824,
+    "wof:lastmodified":1496899851,
     "wof:name":"Schonger Jakob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

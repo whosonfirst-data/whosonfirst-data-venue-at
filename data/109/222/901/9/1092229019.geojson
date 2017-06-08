@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7427740097,47.4120941162,9.7427740097,47.4120941162",
     "geom:latitude":47.412094,
     "geom:longitude":9.742774,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906780,
-    "wof:geomhash":"867256f90dce5ef3cf14bec4e0f135e3",
+    "wof:geomhash":"806afafeaa1d73079b357f93f254372e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092229019
         }
     ],
     "wof:id":1092229019,
-    "wof:lastmodified":1473985324,
+    "wof:lastmodified":1496900856,
     "wof:name":"Galaxy 2000 Sahin GmbH",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

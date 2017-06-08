@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.518327713,48.2272262573,16.518327713,48.2272262573",
     "geom:latitude":48.227226,
     "geom:longitude":16.518328,
@@ -35,10 +36,13 @@
     "sg:website":"wda.co.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905007,
-    "wof:geomhash":"71d65c4c9fe0a1ca51e4ecc818940a33",
+    "wof:geomhash":"3be3eae27802e55c36774d788f19e899",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092189621
         }
     ],
     "wof:id":1092189621,
-    "wof:lastmodified":1473985218,
+    "wof:lastmodified":1496904381,
     "wof:name":"Werbedesign Austria",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

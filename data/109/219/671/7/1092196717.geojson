@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7546901703,47.4015541077,9.7546901703,47.4015541077",
     "geom:latitude":47.401554,
     "geom:longitude":9.75469,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905314,
-    "wof:geomhash":"64788ad6451b51d38590eb3cfc463afd",
+    "wof:geomhash":"9737d4fe1b06d7e84f8b39d8ef3204ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092196717
         }
     ],
     "wof:id":1092196717,
-    "wof:lastmodified":1473984810,
+    "wof:lastmodified":1496900781,
     "wof:name":"Campingplatz i d Enz",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

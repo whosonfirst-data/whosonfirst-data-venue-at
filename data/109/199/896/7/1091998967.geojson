@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8064146042,47.1650657654,9.8064146042,47.1650657654",
     "geom:latitude":47.165066,
     "geom:longitude":9.806415,
@@ -31,17 +32,34 @@
         "internet-provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        101827451,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TjRI7HPUZqqmEKiHfkHVu_47.165066_9.806415@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896490,
-    "wof:geomhash":"31bd58cfa8483210e6a23086f0248c6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5bc89f69640080e134316e5d4ec366d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":101827451,
+            "region_id":85681649,
+            "venue_id":1091998967
+        }
+    ],
     "wof:id":1091998967,
-    "wof:lastmodified":1473985001,
+    "wof:lastmodified":1496901614,
     "wof:name":"iPlace Internet Services - Harald Wellinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2157802582,47.9991226196,16.2157802582,47.9991226196",
     "geom:latitude":47.999123,
     "geom:longitude":16.21578,
@@ -34,10 +35,12 @@
     "sg:website":"efaflex.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915983,
-    "wof:geomhash":"f68a9814456d3970f50984278bdfdbb9",
+    "wof:geomhash":"fd21f6c5df1ba010739d5b16cbf4d97e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092431651
         }
     ],
     "wof:id":1092431651,
-    "wof:lastmodified":1473983588,
+    "wof:lastmodified":1496886045,
     "wof:name":"EFAFLEX Torsysteme GmbH",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

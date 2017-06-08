@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.423412323,47.5855674744,16.423412323,47.5855674744",
     "geom:latitude":47.585567,
     "geom:longitude":16.423412,
@@ -23,17 +24,33 @@
     "sg:postcode":"7331",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838541,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BfwDie80WnPdOki4o77z1_47.585567_16.423412@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910581,
-    "wof:geomhash":"e5308245417022ad2c01f2e185eadbf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0cce9b42998d417948242096e8a0614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838541,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092314891
+        }
+    ],
     "wof:id":1092314891,
-    "wof:lastmodified":1473984525,
+    "wof:lastmodified":1496908402,
     "wof:name":"KFZ Center Weppersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

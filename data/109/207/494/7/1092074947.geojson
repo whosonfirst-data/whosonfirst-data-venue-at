@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.566362381,47.3027992249,11.566362381,47.3027992249",
     "geom:latitude":47.302799,
     "geom:longitude":11.566362,
@@ -23,17 +24,33 @@
     "sg:postcode":"6121",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837469,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N3VSAGrBVHlXllbF7feej_47.302799_11.566362@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899509,
-    "wof:geomhash":"3c99140432d71d4d66ea05311a4f036b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"469bd7814573e28de002a291d3a35c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837469,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092074947
+        }
+    ],
     "wof:id":1092074947,
-    "wof:lastmodified":1473984209,
+    "wof:lastmodified":1496898043,
     "wof:name":"Gasthof Waldluft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

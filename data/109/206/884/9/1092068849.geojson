@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0994443893,47.3187332153,13.0994443893,47.3187332153",
     "geom:latitude":47.318733,
     "geom:longitude":13.099444,
@@ -23,17 +24,33 @@
     "sg:postcode":"5622",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837009,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lMLJnQsB1jOagc93nHJrI_47.318733_13.099444@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899263,
-    "wof:geomhash":"826e0301de57454d77f0d593160ec7bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c643acadeb316e447629e7367d466d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837009,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092068849
+        }
+    ],
     "wof:id":1092068849,
-    "wof:lastmodified":1473984986,
+    "wof:lastmodified":1496893951,
     "wof:name":"Gasthaus Seebichl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

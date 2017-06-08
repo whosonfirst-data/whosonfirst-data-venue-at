@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2004947662,47.3166999817,13.2004947662,47.3166999817",
     "geom:latitude":47.3167,
     "geom:longitude":13.200495,
@@ -28,17 +29,33 @@
     "sg:postcode":"5600",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eH50BzzRvAJCpwO8cJna3_47.316700_13.200495@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898438,
-    "wof:geomhash":"b5f59b5cefc3717c1809da8318729e49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0bb5de7b04b26cda7a47e02d651c2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092048135
+        }
+    ],
     "wof:id":1092048135,
-    "wof:lastmodified":1473984215,
+    "wof:lastmodified":1496894097,
     "wof:name":"Hotel Restaurant Alpenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7580966949,47.3554267883,11.7580966949,47.3554267883",
     "geom:latitude":47.355427,
     "geom:longitude":11.758097,
@@ -23,17 +24,33 @@
     "sg:postcode":"6200",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837865,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J8oz1p0Nmkf8tKxsH8HZq_47.355427_11.758097@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898951,
-    "wof:geomhash":"1791f5b037677c71665a66af6e75730d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbeeefb37391be709ae4778177f381a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837865,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092061295
+        }
+    ],
     "wof:id":1092061295,
-    "wof:lastmodified":1473983658,
+    "wof:lastmodified":1496900312,
     "wof:name":"Alpengasthaus Koglmoos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

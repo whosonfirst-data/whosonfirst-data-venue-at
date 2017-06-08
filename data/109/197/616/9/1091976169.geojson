@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3141336441,47.4305496216,12.3141336441,47.4305496216",
     "geom:latitude":47.43055,
     "geom:longitude":12.314134,
@@ -23,17 +24,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KNF0is463BBn3wfWOuakX_47.430550_12.314134@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895504,
-    "wof:geomhash":"a88ed92eb3531791e076f021173ece8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cdcfd1f642bf80d85eb537a9726bf1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091976169
+        }
+    ],
     "wof:id":1091976169,
-    "wof:lastmodified":1473984682,
+    "wof:lastmodified":1496899134,
     "wof:name":"Euro Immobilien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9199781418,48.0013656616,13.9199781418,48.0013656616",
     "geom:latitude":48.001366,
     "geom:longitude":13.919978,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.thomalaser.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        101785621,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2czYJ7m0yV0OupzsaGpCEI_48.001366_13.919978@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892466,
-    "wof:geomhash":"4bf6250dc963ded872f70bbcd7a31604",
-    "wof:hierarchy":[],
+    "wof:geomhash":"259222cfb5dd338b502189166b7289bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":101785621,
+            "region_id":85681677,
+            "venue_id":1091907881
+        }
+    ],
     "wof:id":1091907881,
-    "wof:lastmodified":1473984990,
+    "wof:lastmodified":1496885220,
     "wof:name":"ThoMa Laserschweiss GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

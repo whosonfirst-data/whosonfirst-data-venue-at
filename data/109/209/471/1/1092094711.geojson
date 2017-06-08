@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0983142853,47.8736839294,16.0983142853,47.8736839294",
     "geom:latitude":47.873684,
     "geom:longitude":16.098314,
@@ -23,17 +24,34 @@
     "sg:postcode":"2753",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834833,
+        85632785,
+        101785619,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_734ucjZWlmOG0j4jx0FYOg_47.873684_16.098314@1306268269"
     },
     "wof:country":"AT",
     "wof:created":1473900549,
-    "wof:geomhash":"eaae28f3f40693d1ff582210abaab0df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e41f1b9e0c17bdac4912443747d1d8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834833,
+            "locality_id":101785619,
+            "region_id":85681671,
+            "venue_id":1092094711
+        }
+    ],
     "wof:id":1092094711,
-    "wof:lastmodified":1473984222,
+    "wof:lastmodified":1496882866,
     "wof:name":"Bauthermografiemessung - Blower-Door Messung - Wolfgang Past",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

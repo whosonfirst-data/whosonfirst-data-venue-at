@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4027700424,47.0307846069,15.4027700424,47.0307846069",
     "geom:latitude":47.030785,
     "geom:longitude":15.40277,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898585,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916098,
-    "wof:geomhash":"8d25febeb788de3b8a7cf6136b2a2c6f",
+    "wof:geomhash":"6df4a231b2b785cf835eca1d82488ca4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898585,
             "region_id":85681687,
             "venue_id":1092433937
         }
     ],
     "wof:id":1092433937,
-    "wof:lastmodified":1473984115,
+    "wof:lastmodified":1496913357,
     "wof:name":"Lammer Forstbetriebe Pernegg & Schlo\u00dfberg",
     "wof:parent_id":85898585,
     "wof:placetype":"venue",

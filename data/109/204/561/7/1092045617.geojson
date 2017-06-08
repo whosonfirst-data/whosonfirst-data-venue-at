@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5977039337,47.2366714478,9.5977039337,47.2366714478",
     "geom:latitude":47.236671,
     "geom:longitude":9.597704,
@@ -29,10 +30,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898341,
-    "wof:geomhash":"fadff55e5d84541d7821a2f97a9871f9",
+    "wof:geomhash":"fd88f3ee20c01544aeafb659bc6e7ac7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092045617
         }
     ],
     "wof:id":1092045617,
-    "wof:lastmodified":1473983815,
+    "wof:lastmodified":1496900907,
     "wof:name":"Hotel Alpenrose",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

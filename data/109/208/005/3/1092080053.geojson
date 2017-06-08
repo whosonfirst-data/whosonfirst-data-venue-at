@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8840141296,47.3094749451,10.8840141296,47.3094749451",
     "geom:latitude":47.309475,
     "geom:longitude":10.884014,
@@ -23,17 +24,33 @@
     "sg:postcode":"6416",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837433,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eYh4Nx3KutOZAIBwcsiH5_47.309475_10.884014@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899760,
-    "wof:geomhash":"5feea8541fd236af6881fd9de5d3e1fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3c6fde3e8d7ab6578cb5809fb51abcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837433,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092080053
+        }
+    ],
     "wof:id":1092080053,
-    "wof:lastmodified":1473983331,
+    "wof:lastmodified":1496897828,
     "wof:name":"Panorama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

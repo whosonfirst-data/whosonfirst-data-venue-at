@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1493463516,47.4563941956,12.1493463516,47.4563941956",
     "geom:latitude":47.456394,
     "geom:longitude":12.149346,
@@ -32,17 +33,34 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        101844537,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ur6b64WMxFWP0fmJlR2Jq_47.456394_12.149346@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905061,
-    "wof:geomhash":"2a5783faa0cec8c2f1ade01ef4976d80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac464b13a6a72f51625b13271b0fca4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":101844537,
+            "region_id":85681661,
+            "venue_id":1092190749
+        }
+    ],
     "wof:id":1092190749,
-    "wof:lastmodified":1473983451,
+    "wof:lastmodified":1496897002,
     "wof:name":"Hauser GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

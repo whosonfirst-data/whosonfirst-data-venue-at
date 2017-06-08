@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2672119141,48.1479377747,16.2672119141,48.1479377747",
     "geom:latitude":48.147938,
     "geom:longitude":16.267212,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890557,
-    "wof:geomhash":"2f3665accbd340e1ba96819fbec99197",
+    "wof:geomhash":"59eb08dc897132a4660c168c58e8128a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1091867651
         }
     ],
     "wof:id":1091867651,
-    "wof:lastmodified":1473985038,
+    "wof:lastmodified":1496902362,
     "wof:name":"Sch\u00f6ner Olaf",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

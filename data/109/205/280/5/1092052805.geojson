@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9165287018,46.6092071533,13.9165287018,46.6092071533",
     "geom:latitude":46.609207,
     "geom:longitude":13.916529,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        101748057,
+        102049673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Px2TvaqE88ZXXQIeVyd6j_46.609207_13.916529@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898619,
-    "wof:geomhash":"30c54a976ffd0d74dc56a55df07c45c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f2aa7b1037412db376c8489f2332dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":101748057,
+            "region_id":85681655,
+            "venue_id":1092052805
+        }
+    ],
     "wof:id":1092052805,
-    "wof:lastmodified":1473983852,
+    "wof:lastmodified":1496906088,
     "wof:name":"LEOPOLD W\u00dcRTL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

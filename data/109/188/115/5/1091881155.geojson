@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2015247345,48.6026115417,15.2015247345,48.6026115417",
     "geom:latitude":48.602612,
     "geom:longitude":15.201525,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"fessl.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836883,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40vEEOcLZqR6EyECBH22wn_48.602612_15.201525@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891186,
-    "wof:geomhash":"7abe7eecfd5f05522cf2f44ad59a89bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"329c948ef85ea20c2095d0cdd75e4feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836883,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091881155
+        }
+    ],
     "wof:id":1091881155,
-    "wof:lastmodified":1473983618,
+    "wof:lastmodified":1496893241,
     "wof:name":"Georg Fe\u00dfl GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

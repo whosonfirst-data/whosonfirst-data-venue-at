@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3225345612,47.7847557068,13.3225345612,47.7847557068",
     "geom:latitude":47.784756,
     "geom:longitude":13.322535,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"www.leitner-holz.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837135,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FxrVL1AfVG0oxcJG4IXyU_47.784756_13.322535@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898228,
-    "wof:geomhash":"b911fe46709e3e8f704db8f59a0e7ac4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5ee68fdba79f9e55a5f6d28765fa7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837135,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092042589
+        }
+    ],
     "wof:id":1092042589,
-    "wof:lastmodified":1473983321,
+    "wof:lastmodified":1496895369,
     "wof:name":"Leitner Engelbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

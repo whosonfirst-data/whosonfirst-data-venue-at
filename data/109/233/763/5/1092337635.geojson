@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6997966766,47.9834327698,13.6997966766,47.9834327698",
     "geom:latitude":47.983433,
     "geom:longitude":13.699797,
@@ -34,17 +35,33 @@
         "measurement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836487,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nrQCqBrhzYMPiFFcOV1bq_47.983433_13.699797@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911528,
-    "wof:geomhash":"c47e13f1d878a727e307602a3c0d4ea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ffbc69258105b87bc405fc34434478f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836487,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092337635
+        }
+    ],
     "wof:id":1092337635,
-    "wof:lastmodified":1473985214,
+    "wof:lastmodified":1496891267,
     "wof:name":"HOLLER - WAAGEN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

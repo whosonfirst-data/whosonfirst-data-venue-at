@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2995967865,47.236328125,11.2995967865,47.236328125",
     "geom:latitude":47.236328,
     "geom:longitude":11.299597,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916386,
-    "wof:geomhash":"ca31f6713c325353632a399b4e97f972",
+    "wof:geomhash":"d7da564235a5d60f0bc14058eb7f33a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092440429
         }
     ],
     "wof:id":1092440429,
-    "wof:lastmodified":1473983418,
+    "wof:lastmodified":1496898046,
     "wof:name":"Kapferer Mary",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

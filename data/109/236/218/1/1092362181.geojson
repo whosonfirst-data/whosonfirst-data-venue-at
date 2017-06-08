@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3840656281,46.779460907,13.3840656281,46.779460907",
     "geom:latitude":46.779461,
     "geom:longitude":13.384066,
@@ -23,17 +24,33 @@
     "sg:postcode":"9753",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838271,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QnhnnvAaHTJpDrudjI9Ud_46.779461_13.384066@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912616,
-    "wof:geomhash":"c733d50ba9d7a4f55800a307c9f3011a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c825c31db3c0626d665573c1298e573d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838271,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092362181
+        }
+    ],
     "wof:id":1092362181,
-    "wof:lastmodified":1473983856,
+    "wof:lastmodified":1496906914,
     "wof:name":"Eggerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

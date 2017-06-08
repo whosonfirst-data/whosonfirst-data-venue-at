@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2813863754,47.1003761292,11.2813863754,47.1003761292",
     "geom:latitude":47.100376,
     "geom:longitude":11.281386,
@@ -28,17 +29,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RPMz54yZXM2ml74EIMop8_47.100376_11.281386@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898357,
-    "wof:geomhash":"8342a703eb9e5612e1c05c3a036b41b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63f68e096a3e4767c4b66134d0511d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092046051
+        }
+    ],
     "wof:id":1092046051,
-    "wof:lastmodified":1473983867,
+    "wof:lastmodified":1496898538,
     "wof:name":"Hotel Brennerspitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

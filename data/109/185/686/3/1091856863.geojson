@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.346364975,47.2687835693,11.346364975,47.2687835693",
     "geom:latitude":47.268784,
     "geom:longitude":11.346365,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904329,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890037,
-    "wof:geomhash":"9fce9d7f3cb1722669e90be1c98c9fdf",
+    "wof:geomhash":"593d243186345ca8d02c197c64321ae1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85904329,
             "region_id":85681661,
             "venue_id":1091856863
         }
     ],
     "wof:id":1091856863,
-    "wof:lastmodified":1473984621,
+    "wof:lastmodified":1496899379,
     "wof:name":"Erziehungsberatungsstelle",
     "wof:parent_id":85904329,
     "wof:placetype":"venue",

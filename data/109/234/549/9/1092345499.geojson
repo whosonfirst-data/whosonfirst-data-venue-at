@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8148622513,47.3523483276,12.8148622513,47.3523483276",
     "geom:latitude":47.352348,
     "geom:longitude":12.814862,
@@ -23,17 +24,33 @@
     "sg:postcode":"5751",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837217,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48UwhHCuJCKVwPSN0bGfjQ_47.352348_12.814862@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911870,
-    "wof:geomhash":"54f04b1fea52cb0916cf334b92acaa3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf18566859b756ae101bc20269a5059a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837217,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092345499
+        }
+    ],
     "wof:id":1092345499,
-    "wof:lastmodified":1473984474,
+    "wof:lastmodified":1496896039,
     "wof:name":"Mobile Trading GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

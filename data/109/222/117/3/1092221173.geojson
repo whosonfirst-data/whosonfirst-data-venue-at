@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3883743286,47.2567672729,11.3883743286,47.2567672729",
     "geom:latitude":47.256767,
     "geom:longitude":11.388374,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906446,
-    "wof:geomhash":"0d902f74e0fe562d9aa3b04a19bca602",
+    "wof:geomhash":"614fbb6f2e59ebc7c689a7094eeac3b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092221173
         }
     ],
     "wof:id":1092221173,
-    "wof:lastmodified":1473983625,
+    "wof:lastmodified":1496899574,
     "wof:name":"Klotz Gabriele",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

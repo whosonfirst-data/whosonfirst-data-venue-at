@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3846111298,47.4698104858,12.3846111298,47.4698104858",
     "geom:latitude":47.46981,
     "geom:longitude":12.384611,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        101787927,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7im1gPt2hLjt9CQWdr76f3_47.469810_12.384611@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906525,
-    "wof:geomhash":"fbd5afc12c22e20bb73b98ad3447d638",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f6947568ce38b43d5f1caa2abf92816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":101787927,
+            "region_id":85681661,
+            "venue_id":1092222865
+        }
+    ],
     "wof:id":1092222865,
-    "wof:lastmodified":1473984014,
+    "wof:lastmodified":1496897154,
     "wof:name":"Taxi Silver Star",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

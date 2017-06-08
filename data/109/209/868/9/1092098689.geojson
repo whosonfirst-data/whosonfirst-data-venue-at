@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0764789581,47.8131408691,13.0764789581,47.8131408691",
     "geom:latitude":47.813141,
     "geom:longitude":13.076479,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900741,
-    "wof:geomhash":"f6ba8907a9c4122c2b7185d7d680af1a",
+    "wof:geomhash":"f22c8c69cbbeea0e57ba980adec5cf4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092098689
         }
     ],
     "wof:id":1092098689,
-    "wof:lastmodified":1473984906,
+    "wof:lastmodified":1496923006,
     "wof:name":"Hotel Gasthof Kendl",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

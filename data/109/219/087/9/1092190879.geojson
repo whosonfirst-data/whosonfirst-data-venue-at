@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3567991257,46.8306045532,13.3567991257,46.8306045532",
     "geom:latitude":46.830605,
     "geom:longitude":13.356799,
@@ -32,17 +33,34 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838297,
+        85632785,
+        101834177,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o1suY4t7FIc7LOJA4JI6j_46.830605_13.356799@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905065,
-    "wof:geomhash":"04b1c46e0f74b7a2dac09bd1f78d9fb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"514ab89f66ebee3a52dbc16ef5805499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838297,
+            "locality_id":101834177,
+            "region_id":85681655,
+            "venue_id":1092190879
+        }
+    ],
     "wof:id":1092190879,
-    "wof:lastmodified":1473983488,
+    "wof:lastmodified":1496907058,
     "wof:name":"Willibald Weichsler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3742332458,47.2243309021,11.3742332458,47.2243309021",
     "geom:latitude":47.224331,
     "geom:longitude":11.374233,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892597,
-    "wof:geomhash":"5b54f9f6746a797d3fe950aca960eef8",
+    "wof:geomhash":"735b4daa0527086371d80fba2beaa28c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1091911261
         }
     ],
     "wof:id":1091911261,
-    "wof:lastmodified":1473983332,
+    "wof:lastmodified":1496898474,
     "wof:name":"Bartsch Race Academy",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

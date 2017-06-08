@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.162153244,48.0747756958,14.162153244,48.0747756958",
     "geom:latitude":48.074776,
     "geom:longitude":14.162153,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835257,
+        85632785,
+        102049815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GLQNwECHC2CnPGtybnREi_48.074776_14.162153@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889462,
-    "wof:geomhash":"d741537eb151ec9121139cfacc42f172",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14b774158c9d5d060b70e8fa41c5b9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835257,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091844673
+        }
+    ],
     "wof:id":1091844673,
-    "wof:lastmodified":1473984178,
+    "wof:lastmodified":1496885663,
     "wof:name":"Gruber Friedrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

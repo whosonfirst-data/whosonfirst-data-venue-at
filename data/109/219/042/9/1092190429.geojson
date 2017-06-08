@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6243743896,48.1167526245,16.6243743896,48.1167526245",
     "geom:latitude":48.116753,
     "geom:longitude":16.624374,
@@ -31,17 +32,34 @@
         "aeronautic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836773,
+        85632785,
+        101784517,
+        102049843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TncIjWcIN7PW6KGEIIHtO_48.116753_16.624374@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905044,
-    "wof:geomhash":"75953e377b55a43b208217a6dbd29855",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fe4484c8bee1a79614e00a24579c771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1108836773,
+            "locality_id":101784517,
+            "region_id":85681671,
+            "venue_id":1092190429
+        }
+    ],
     "wof:id":1092190429,
-    "wof:lastmodified":1473983416,
+    "wof:lastmodified":1496892692,
     "wof:name":"ACS AIRCONTAINER SERVICES GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

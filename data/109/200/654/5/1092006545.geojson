@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4161434174,47.2579956055,11.4161434174,47.2579956055",
     "geom:latitude":47.257996,
     "geom:longitude":11.416143,
@@ -25,10 +26,13 @@
     "sg:website":"gnigler.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898595,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896808,
-    "wof:geomhash":"d9caa103b7128176bb5dc0d6885b113a",
+    "wof:geomhash":"a47e194d29f3e03ef15f1aafa24b5cab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898595,
             "region_id":85681661,
             "venue_id":1092006545
         }
     ],
     "wof:id":1092006545,
-    "wof:lastmodified":1473984580,
+    "wof:lastmodified":1496899200,
     "wof:name":"GNIGLER Gesellschaft m b H Metalldecken",
     "wof:parent_id":85898595,
     "wof:placetype":"venue",

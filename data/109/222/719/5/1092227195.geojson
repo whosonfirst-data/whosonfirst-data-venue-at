@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1397361755,47.8950004578,13.1397361755,47.8950004578",
     "geom:latitude":47.895,
     "geom:longitude":13.139736,
@@ -23,17 +24,33 @@
     "sg:postcode":"5201",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KXMkghnVEmPTNZcwfRGFJ_47.895000_13.139736@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906707,
-    "wof:geomhash":"438886745d18b60ed979b60bc50d4f2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4e412c2bb9e47aa173f3e9ec86207f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092227195
+        }
+    ],
     "wof:id":1092227195,
-    "wof:lastmodified":1473984974,
+    "wof:lastmodified":1496895831,
     "wof:name":"Strobl Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

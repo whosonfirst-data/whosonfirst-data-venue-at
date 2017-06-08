@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1129007339,47.8547325134,13.1129007339,47.8547325134",
     "geom:latitude":47.854733,
     "geom:longitude":13.112901,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910765,
-    "wof:geomhash":"017142161e6c234042705d246e5db32f",
+    "wof:geomhash":"b3fd01e3cdd0befaad1f3f96d4859d47",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092319239
         }
     ],
     "wof:id":1092319239,
-    "wof:lastmodified":1473985324,
+    "wof:lastmodified":1496895303,
     "wof:name":"Dorma Austria GesmbH",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

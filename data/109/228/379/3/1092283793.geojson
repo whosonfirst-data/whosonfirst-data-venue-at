@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3762073517,48.3005027771,16.3762073517,48.3005027771",
     "geom:latitude":48.300503,
     "geom:longitude":16.376207,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898395,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909204,
-    "wof:geomhash":"2eb18fd431d81c36d9d10d27a7a69f91",
+    "wof:geomhash":"72ef6c94f9f107bdc4ee2a5772bd1a4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898395,
             "region_id":85681667,
             "venue_id":1092283793
         }
     ],
     "wof:id":1092283793,
-    "wof:lastmodified":1473984115,
+    "wof:lastmodified":1496886344,
     "wof:name":"Dalex Marketingberatung & HandelsgesmbH",
     "wof:parent_id":85898395,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2774810791,47.9248313904,13.2774810791,47.9248313904",
     "geom:latitude":47.924831,
     "geom:longitude":13.277481,
@@ -32,17 +33,33 @@
         "pharmaceutical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pVw3QKj3ZHzuEKdOloZYT_47.924831_13.277481@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905575,
-    "wof:geomhash":"9c36cd5a48e5bc68265719b615d44b79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82e3e6bdadb5b11c5f271528884ae332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092202007
+        }
+    ],
     "wof:id":1092202007,
-    "wof:lastmodified":1473983840,
+    "wof:lastmodified":1496895523,
     "wof:name":"SORMA VERTRIEB GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

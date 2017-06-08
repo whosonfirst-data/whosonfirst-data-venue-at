@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8287973404,48.2335128784,13.8287973404,48.2335128784",
     "geom:latitude":48.233513,
     "geom:longitude":13.828797,
@@ -32,17 +33,34 @@
         "brewing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835183,
+        85632785,
+        101784569,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41BUMPKIiDGJA6auzuNxjV_48.233513_13.828797@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891181,
-    "wof:geomhash":"7ff1e33f31164b96f12f59f6b6ba4089",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf830f5f7bf09cfeceabc70e6785fead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835183,
+            "locality_id":101784569,
+            "region_id":85681677,
+            "venue_id":1091881023
+        }
+    ],
     "wof:id":1091881023,
-    "wof:lastmodified":1473983581,
+    "wof:lastmodified":1496885360,
     "wof:name":"Johann Plohberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1545696259,47.9396133423,16.1545696259,47.9396133423",
     "geom:latitude":47.939613,
     "geom:longitude":16.15457,
@@ -33,17 +34,34 @@
         "heater"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835315,
+        85632785,
+        101833189,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G3RLN0mVfQSkktb9uiWDM_47.939613_16.154570@1306268301"
     },
     "wof:country":"AT",
     "wof:created":1473910751,
-    "wof:geomhash":"f02a9ebc965195f457afb6165d2e1351",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1df321cc41b35e860b11ff35b453f954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835315,
+            "locality_id":101833189,
+            "region_id":85681671,
+            "venue_id":1092318889
+        }
+    ],
     "wof:id":1092318889,
-    "wof:lastmodified":1473985307,
+    "wof:lastmodified":1496885991,
     "wof:name":"Andreas Herzog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

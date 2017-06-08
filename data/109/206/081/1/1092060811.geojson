@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8765659332,48.0256004333,12.8765659332,48.0256004333",
     "geom:latitude":48.0256,
     "geom:longitude":12.876566,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834789,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_342cZVe7dMINp5TxgbdWM1_48.025600_12.876566@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473898934,
-    "wof:geomhash":"7ea0ced10ea8c337ba0dfcf6f09b4150",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d441896d67232f23b7464c569a027a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834789,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092060811
+        }
+    ],
     "wof:id":1092060811,
-    "wof:lastmodified":1473983536,
+    "wof:lastmodified":1496882583,
     "wof:name":"Winter GesmbH & Co KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

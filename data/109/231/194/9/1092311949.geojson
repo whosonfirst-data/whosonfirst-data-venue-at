@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0011978149,48.1589736938,14.0011978149,48.1589736938",
     "geom:latitude":48.158974,
     "geom:longitude":14.001198,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"autoglas-fiedler.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gf8nl1rSh9Wzf0Di9BK1S_48.158974_14.001198@1306268300"
     },
     "wof:country":"AT",
     "wof:created":1473910458,
-    "wof:geomhash":"d2137f6e79c8b89a868adf423ad9437d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2136a7697042ab39bc4d4ea9f855fcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092311949
+        }
+    ],
     "wof:id":1092311949,
-    "wof:lastmodified":1473983822,
+    "wof:lastmodified":1496882146,
     "wof:name":"Autoglas Fiedler AWS Autoglasfachbetrieb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

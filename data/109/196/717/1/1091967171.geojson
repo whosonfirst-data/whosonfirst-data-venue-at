@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0855197906,47.1000976562,14.0855197906,47.1000976562",
     "geom:latitude":47.100098,
     "geom:longitude":14.08552,
@@ -28,17 +29,33 @@
     "sg:postcode":"8861",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838791,
+        85632785,
+        102049733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NZwWHnzhWmbWSDFH2tnQY_47.100098_14.085520@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895119,
-    "wof:geomhash":"0bb98757599f95cc48c2739e61ffcd87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"817a70d83edb0a82211c5871e3369fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838791,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091967171
+        }
+    ],
     "wof:id":1091967171,
-    "wof:lastmodified":1473984374,
+    "wof:lastmodified":1496909325,
     "wof:name":"SB-Rest Grillboden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

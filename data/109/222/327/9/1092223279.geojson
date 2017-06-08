@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.070977211,47.794670105,13.070977211,47.794670105",
     "geom:latitude":47.79467,
     "geom:longitude":13.070977,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906545,
-    "wof:geomhash":"88623648cf02ebe50a452fd4bcf1d1fa",
+    "wof:geomhash":"76a1addea12aa3b14897e5f1b6e4a611",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092223279
         }
     ],
     "wof:id":1092223279,
-    "wof:lastmodified":1473984060,
+    "wof:lastmodified":1496894377,
     "wof:name":"Weiler-Szalay Arno",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

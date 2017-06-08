@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6044902802,47.2731742859,9.6044902802,47.2731742859",
     "geom:latitude":47.273174,
     "geom:longitude":9.60449,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908191,
-    "wof:geomhash":"a05654de4e7950fcea367bd52b51af79",
+    "wof:geomhash":"a98c611e4cd7998d37aec9928925bbc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092260715
         }
     ],
     "wof:id":1092260715,
-    "wof:lastmodified":1473983463,
+    "wof:lastmodified":1496901642,
     "wof:name":"Windisch Transport GesmbH & Co KG",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

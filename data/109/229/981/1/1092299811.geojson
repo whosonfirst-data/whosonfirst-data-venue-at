@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.572555542,48.5701980591,16.572555542,48.5701980591",
     "geom:latitude":48.570198,
     "geom:longitude":16.572556,
@@ -34,17 +35,34 @@
         "arch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836627,
+        85632785,
+        101782249,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cSaLF7YKM7QbqEr2N6qnB_48.570198_16.572556@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473909868,
-    "wof:geomhash":"ba008de38ad9e0125e9a29c42d926cea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e11f92871fd9ec69fbcbbe28f357eaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836627,
+            "locality_id":101782249,
+            "region_id":85681671,
+            "venue_id":1092299811
+        }
+    ],
     "wof:id":1092299811,
-    "wof:lastmodified":1473985257,
+    "wof:lastmodified":1496892065,
     "wof:name":"Johann Artner OHG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

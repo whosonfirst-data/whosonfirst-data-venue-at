@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7233076096,47.3391609192,11.7233076096,47.3391609192",
     "geom:latitude":47.339161,
     "geom:longitude":11.723308,
@@ -23,17 +24,33 @@
     "sg:postcode":"6130",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WK0LAXRjV0pbXCSjcyHUb_47.339161_11.723308@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899656,
-    "wof:geomhash":"cce370029ce6b2137854fca29c760180",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71b5a708d55295506d665604b96afcf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092077615
+        }
+    ],
     "wof:id":1092077615,
-    "wof:lastmodified":1473984769,
+    "wof:lastmodified":1496900153,
     "wof:name":"Jausenstation Schmadelegg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

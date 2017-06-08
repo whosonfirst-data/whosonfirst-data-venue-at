@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5813789368,47.5907554626,16.5813789368,47.5907554626",
     "geom:latitude":47.590755,
     "geom:longitude":16.581379,
@@ -23,17 +24,33 @@
     "sg:postcode":"7312",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838523,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42zlAkGJSF6f70X3pIyjvk_47.590755_16.581379@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900822,
-    "wof:geomhash":"9df2d76880e1396877887b11a65fb29a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c7c53c5c03c87ea00e9072655fd4a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838523,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092100313
+        }
+    ],
     "wof:id":1092100313,
-    "wof:lastmodified":1473983374,
+    "wof:lastmodified":1496908361,
     "wof:name":"Marktgemeinde Horitschon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

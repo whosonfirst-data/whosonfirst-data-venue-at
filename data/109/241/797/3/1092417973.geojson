@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1546726227,47.8706054688,15.1546726227,47.8706054688",
     "geom:latitude":47.870605,
     "geom:longitude":15.154673,
@@ -23,17 +24,33 @@
     "sg:postcode":"3295",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835303,
+        85632785,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ABfsQY8jwNxseS4tOOW0B_47.870605_15.154673@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915365,
-    "wof:geomhash":"b6de24105eba2ad64003bea98f18845c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8799d545fdae95565d14d60c7c941924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835303,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092417973
+        }
+    ],
     "wof:id":1092417973,
-    "wof:lastmodified":1473984978,
+    "wof:lastmodified":1496885965,
     "wof:name":"Freiwillige Feuerwehr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

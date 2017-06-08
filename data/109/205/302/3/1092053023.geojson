@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7376003265,48.4644088745,16.7376003265,48.4644088745",
     "geom:latitude":48.464409,
     "geom:longitude":16.7376,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835277,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J7aGCmHEJihV6JVOyJQhL_48.464409_16.737600@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898627,
-    "wof:geomhash":"b5d32f4821ba4d9007ea24b7fdf00411",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f664ee25fcb98ae3f696df4ab170ca8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835277,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092053023
+        }
+    ],
     "wof:id":1092053023,
-    "wof:lastmodified":1473983887,
+    "wof:lastmodified":1496885790,
     "wof:name":"WALTER B\u00d6HM-MITSCH GES.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

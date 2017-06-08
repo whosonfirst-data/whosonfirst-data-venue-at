@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0824556351,47.3215675354,13.0824556351,47.3215675354",
     "geom:latitude":47.321568,
     "geom:longitude":13.082456,
@@ -23,17 +24,33 @@
     "sg:postcode":"5622",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837009,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JYaxiO40MgImMiAUuEQm4_47.321568_13.082456@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899101,
-    "wof:geomhash":"f186466fcbe8860aa53af263b31d7d6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ef98f11f683559c346463303198964e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837009,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092064939
+        }
+    ],
     "wof:id":1092064939,
-    "wof:lastmodified":1473984241,
+    "wof:lastmodified":1496893949,
     "wof:name":"Gasthaus Auerhahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

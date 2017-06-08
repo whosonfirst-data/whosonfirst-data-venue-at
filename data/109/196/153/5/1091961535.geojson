@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1723709106,47.1651306152,16.1723709106,47.1651306152",
     "geom:latitude":47.165131,
     "geom:longitude":16.172371,
@@ -23,17 +24,33 @@
     "sg:postcode":"7551",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838447,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mLvALefC5YIqJwlEjh8zl_47.165131_16.172371@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894887,
-    "wof:geomhash":"0e80983c6d1f13547e90e38d553ce310",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d8c369d68eb0f1e085b8aab94e205bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838447,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091961535
+        }
+    ],
     "wof:id":1091961535,
-    "wof:lastmodified":1473983517,
+    "wof:lastmodified":1496907941,
     "wof:name":"Reitstall Hannes Wagner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

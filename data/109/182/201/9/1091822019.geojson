@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6538696289,47.7195777893,14.6538696289,47.7195777893",
     "geom:latitude":47.719578,
     "geom:longitude":14.65387,
@@ -32,17 +33,33 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838969,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JNnrEI92GON4dFset1qPe_47.719578_14.653870@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888438,
-    "wof:geomhash":"da3089ef7578863c09e2375b9de1e5bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22aeb924b794873dff2ec7429f4ad49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838969,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091822019
+        }
+    ],
     "wof:id":1091822019,
-    "wof:lastmodified":1473983839,
+    "wof:lastmodified":1496910582,
     "wof:name":"Ing. Manfred Modl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

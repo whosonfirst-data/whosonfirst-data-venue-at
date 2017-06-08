@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7766828537,46.7083320618,15.7766828537,46.7083320618",
     "geom:latitude":46.708332,
     "geom:longitude":15.776683,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839343,
+        85632785,
+        101790123,
+        102049687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73i5ZiLj9L4Ce4v7jQnLWN_46.708332_15.776683@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913613,
-    "wof:geomhash":"887a3c2aa068209a1ffe7613e0670fe6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d4afe3fdf29dd52ae1e69ac20de1907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049687,
+            "localadmin_id":1108839343,
+            "locality_id":101790123,
+            "region_id":85681687,
+            "venue_id":1092383387
+        }
+    ],
     "wof:id":1092383387,
-    "wof:lastmodified":1473984189,
+    "wof:lastmodified":1496913704,
     "wof:name":"Pizzeria Giovanni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

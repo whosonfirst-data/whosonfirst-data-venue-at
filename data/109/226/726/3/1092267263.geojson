@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2157287598,47.2900657654,16.2157287598,47.2900657654",
     "geom:latitude":47.290066,
     "geom:longitude":16.215729,
@@ -31,17 +32,34 @@
         "electricity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838461,
+        85632785,
+        101787889,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L7onPLECt5Hyh8LaOksbH_47.290066_16.215729@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908484,
-    "wof:geomhash":"7d3e35733e662744b9e324096cbd96f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42670dfaafd3220921edaed97c93fd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838461,
+            "locality_id":101787889,
+            "region_id":85681651,
+            "venue_id":1092267263
+        }
+    ],
     "wof:id":1092267263,
-    "wof:lastmodified":1473984706,
+    "wof:lastmodified":1496908065,
     "wof:name":"RM DATA DATENVERARBEITUNGSGESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

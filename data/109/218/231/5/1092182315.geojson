@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6385850906,47.2740287781,9.6385850906,47.2740287781",
     "geom:latitude":47.274029,
     "geom:longitude":9.638585,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473904672,
-    "wof:geomhash":"6cb1335601e5a34e7ca9e9aad33a848d",
+    "wof:geomhash":"54f68a0b3e9a79cbe5d044b5f9a5eb96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092182315
         }
     ],
     "wof:id":1092182315,
-    "wof:lastmodified":1473983948,
+    "wof:lastmodified":1496901663,
     "wof:name":"Sutterl\u00fcty Handels GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

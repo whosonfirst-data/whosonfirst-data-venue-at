@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2202701569,46.9250335693,15.2202701569,46.9250335693",
     "geom:latitude":46.925034,
     "geom:longitude":15.22027,
@@ -31,17 +32,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839279,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MzR4U8r93MwLgVX8CTVpT_46.925034_15.220270@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473888096,
-    "wof:geomhash":"0bdcb8b66ccd3194d640748ee98ce3c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"484700086cec5dac1401c6e3c563cc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839279,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091814071
+        }
+    ],
     "wof:id":1091814071,
-    "wof:lastmodified":1473984216,
+    "wof:lastmodified":1496912491,
     "wof:name":"Taxi Prall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

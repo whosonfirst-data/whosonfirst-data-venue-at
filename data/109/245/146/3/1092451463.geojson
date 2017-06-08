@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4105176926,47.2309074402,11.4105176926,47.2309074402",
     "geom:latitude":47.230907,
     "geom:longitude":11.410518,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916901,
-    "wof:geomhash":"423e4a59bcd1e60ee24e6e66f243e73b",
+    "wof:geomhash":"3b78cfb58a76ddd93b5d96ae25a200a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092451463
         }
     ],
     "wof:id":1092451463,
-    "wof:lastmodified":1473983309,
+    "wof:lastmodified":1496899395,
     "wof:name":"Salon Haargenau",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

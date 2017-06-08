@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8168182373,46.5611190796,13.8168182373,46.5611190796",
     "geom:latitude":46.561119,
     "geom:longitude":13.816818,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473889043,
-    "wof:geomhash":"ee4ed30fb0d83ce0dc92bd15ec17c0dd",
+    "wof:geomhash":"6f19a303748405de8f28322e41d2514f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091835131
         }
     ],
     "wof:id":1091835131,
-    "wof:lastmodified":1473984369,
+    "wof:lastmodified":1496907389,
     "wof:name":"Bankomat d Raiffeisenbank F\u00fcrnitz regGenmbH",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

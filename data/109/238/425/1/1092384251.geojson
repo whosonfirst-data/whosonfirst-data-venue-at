@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5977563858,47.2378005981,9.5977563858,47.2378005981",
     "geom:latitude":47.237801,
     "geom:longitude":9.597756,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913648,
-    "wof:geomhash":"a0c9ece30f1f33b5a799d7d6efba6b75",
+    "wof:geomhash":"e54faf9c314744c535d427abdbdc8244",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092384251
         }
     ],
     "wof:id":1092384251,
-    "wof:lastmodified":1473984286,
+    "wof:lastmodified":1496900943,
     "wof:name":"Pizzeria Verona Due",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7282562256,47.9515457153,16.7282562256,47.9515457153",
     "geom:latitude":47.951546,
     "geom:longitude":16.728256,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"isap.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838521,
+        85632785,
+        101785627,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6slVHqQFO5LszCjAuubx4o_47.951546_16.728256@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892755,
-    "wof:geomhash":"5f2ecfced741dd852a23b98ce8e57dc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"992786d81f457ceac1231d4dbf5d9592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838521,
+            "locality_id":101785627,
+            "region_id":85681651,
+            "venue_id":1091914157
+        }
+    ],
     "wof:id":1091914157,
-    "wof:lastmodified":1473983853,
+    "wof:lastmodified":1496908351,
     "wof:name":"Isap-Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

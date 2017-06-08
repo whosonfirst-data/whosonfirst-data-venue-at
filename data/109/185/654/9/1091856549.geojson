@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8736810684,48.5157623291,13.8736810684,48.5157623291",
     "geom:latitude":48.515762,
     "geom:longitude":13.873681,
@@ -33,17 +34,33 @@
         "bent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835989,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M0MQaiIfOHtug9IZpaLXm_48.515762_13.873681@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473890021,
-    "wof:geomhash":"12421ddb0c292a6a7dabd89680e4f6e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"962dec64a9fc0023027ee6adb80409eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835989,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091856549
+        }
+    ],
     "wof:id":1091856549,
-    "wof:lastmodified":1473984502,
+    "wof:lastmodified":1496889159,
     "wof:name":"Hubert Kartusch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

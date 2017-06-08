@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9669818878,46.7435951233,12.9669818878,46.7435951233",
     "geom:latitude":46.743595,
     "geom:longitude":12.966982,
@@ -31,17 +32,34 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838285,
+        85632785,
+        101910899,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gEp8nuErjyY5rtKw4XFIl_46.743595_12.966982@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905282,
-    "wof:geomhash":"40a20899d3f481e62301a350ec98bff4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e00c0596422fc85438ce2364cf46be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838285,
+            "locality_id":101910899,
+            "region_id":85681655,
+            "venue_id":1092195965
+        }
+    ],
     "wof:id":1092195965,
-    "wof:lastmodified":1473984641,
+    "wof:lastmodified":1496906979,
     "wof:name":"Mario Moser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

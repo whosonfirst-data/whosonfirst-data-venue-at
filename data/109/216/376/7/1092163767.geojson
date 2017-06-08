@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5156984329,48.3676109314,14.5156984329,48.3676109314",
     "geom:latitude":48.367611,
     "geom:longitude":14.515698,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"fh-hagenberg.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835067,
+        85632785,
+        101833271,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N9zW2BoqIBJ8UVfZMqjs9_48.367611_14.515698@1306268278"
     },
     "wof:country":"AT",
     "wof:created":1473903844,
-    "wof:geomhash":"5afdce5c9787a7cd0e88582edc65b51a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14c4208a691b2648b57af19035c87cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835067,
+            "locality_id":101833271,
+            "region_id":85681677,
+            "venue_id":1092163767
+        }
+    ],
     "wof:id":1092163767,
-    "wof:lastmodified":1473984030,
+    "wof:lastmodified":1496884465,
     "wof:name":"Fachhochschule Hagenberg - Studiengang Software Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

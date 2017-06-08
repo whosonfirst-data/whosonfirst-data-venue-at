@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5812005997,47.2293281555,9.5812005997,47.2293281555",
     "geom:latitude":47.229328,
     "geom:longitude":9.581201,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473894402,
-    "wof:geomhash":"435986db1a922479922e93afd7b5d554",
+    "wof:geomhash":"d17797f9ea652da8c83821dfc48dd3a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1091950735
         }
     ],
     "wof:id":1091950735,
-    "wof:lastmodified":1473983510,
+    "wof:lastmodified":1496900914,
     "wof:name":"Lener Angelika Dr",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.701584816,46.5500564575,13.701584816,46.5500564575",
     "geom:latitude":46.550056,
     "geom:longitude":13.701585,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838323,
+        85632785,
+        101790107,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22PfCftvHEoXBXD7sAwzQf_46.550056_13.701585@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913641,
-    "wof:geomhash":"8b0dbb33c3ec1f8aec34a7e57df5c31b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d705aa35c3d6bccd14f9478e8e5b9d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838323,
+            "locality_id":101790107,
+            "region_id":85681655,
+            "venue_id":1092384049
+        }
+    ],
     "wof:id":1092384049,
-    "wof:lastmodified":1473984297,
+    "wof:lastmodified":1496907318,
     "wof:name":"Pizzeria Servus Ciao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

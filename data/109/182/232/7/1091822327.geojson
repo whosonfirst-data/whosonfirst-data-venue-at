@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9492521286,47.2827720642,15.9492521286,47.2827720642",
     "geom:latitude":47.282772,
     "geom:longitude":15.949252,
@@ -32,17 +33,34 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839121,
+        85632785,
+        101787899,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gQfQddDeoVIihCACumNhe_47.282772_15.949252@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888449,
-    "wof:geomhash":"8d4cbd6579ee4c1d5121935474186183",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b5532102e14f0032504d120e3c4a165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839121,
+            "locality_id":101787899,
+            "region_id":85681687,
+            "venue_id":1091822327
+        }
+    ],
     "wof:id":1091822327,
-    "wof:lastmodified":1473983923,
+    "wof:lastmodified":1496911417,
     "wof:name":"Metallbau Wilfinger GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

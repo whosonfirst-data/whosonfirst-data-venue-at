@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3855381012,47.1677703857,11.3855381012,47.1677703857",
     "geom:latitude":47.16777,
     "geom:longitude":11.385538,
@@ -32,17 +33,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837545,
+        85632785,
+        101844499,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FTu0OiEtIOSvrpbxZ27RV_47.167770_11.385538@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898924,
-    "wof:geomhash":"0faf182bd1124c6bfcea5c895aff6158",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1023342979eaa84be71bc6cb4bb669ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837545,
+            "locality_id":101844499,
+            "region_id":85681661,
+            "venue_id":1092060593
+        }
+    ],
     "wof:id":1092060593,
-    "wof:lastmodified":1473983537,
+    "wof:lastmodified":1496898462,
     "wof:name":"Richard Spatzier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

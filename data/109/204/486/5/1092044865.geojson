@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5162248611,47.4965858459,10.5162248611,47.4965858459",
     "geom:latitude":47.496586,
     "geom:longitude":10.516225,
@@ -28,17 +29,33 @@
     "sg:postcode":"6675",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837777,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76ZoviPSle4kYFi9SgkZOD_47.496586_10.516225@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898313,
-    "wof:geomhash":"588cb7a6a2668d8775c9258b9411abba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac008fb1aa37ccc18f9d19e06450a750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837777,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092044865
+        }
+    ],
     "wof:id":1092044865,
-    "wof:lastmodified":1473983719,
+    "wof:lastmodified":1496899963,
     "wof:name":"Drei Tannen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2340803146,48.2261428833,14.2340803146,48.2261428833",
     "geom:latitude":48.226143,
     "geom:longitude":14.23408,
@@ -33,17 +34,34 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        101754215,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N4jQg7uvRZNIfspiD3LDo_48.226143_14.234080@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889008,
-    "wof:geomhash":"f5391526d29249fbf423e4bf5e273adc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd85a39b050586c30a333404d7453b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":101754215,
+            "region_id":85681677,
+            "venue_id":1091834297
+        }
+    ],
     "wof:id":1091834297,
-    "wof:lastmodified":1473984112,
+    "wof:lastmodified":1496887433,
     "wof:name":"UNIQA VERSICHERUNGEN AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

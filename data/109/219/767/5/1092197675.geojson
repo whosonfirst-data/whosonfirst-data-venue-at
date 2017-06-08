@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1608867645,47.582572937,12.1608867645,47.582572937",
     "geom:latitude":47.582573,
     "geom:longitude":12.160887,
@@ -33,17 +34,34 @@
         "brokerage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        101834313,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Dn9pn8mxd92RbdPuhJa1_47.582573_12.160887@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905353,
-    "wof:geomhash":"924ab4154a47d1b838832ff50e92b182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51a71203d28261e12d669c7cf2377d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":101834313,
+            "region_id":85681661,
+            "venue_id":1092197675
+        }
+    ],
     "wof:id":1092197675,
-    "wof:lastmodified":1473985057,
+    "wof:lastmodified":1496897704,
     "wof:name":"Josef Ebner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

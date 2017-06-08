@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2652740479,48.1203346252,16.2652740479,48.1203346252",
     "geom:latitude":48.120335,
     "geom:longitude":16.265274,
@@ -34,10 +35,13 @@
     "sg:website":"optik-silhanek.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905406,
-    "wof:geomhash":"6b69dd4a64b21fea0c2568566e5e00e6",
+    "wof:geomhash":"216066dde94474fb80e1cbd6db1d5705",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092199035
         }
     ],
     "wof:id":1092199035,
-    "wof:lastmodified":1473985263,
+    "wof:lastmodified":1496885859,
     "wof:name":"Optik Silhanek KEG",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

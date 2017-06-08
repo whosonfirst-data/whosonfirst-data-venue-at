@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2425575256,48.2222099304,14.2425575256,48.2222099304",
     "geom:latitude":48.22221,
     "geom:longitude":14.242558,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"elektro-neumann.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        101754215,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uQ6Zu4jxNJ16vHQotwSL4_48.222210_14.242558@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908590,
-    "wof:geomhash":"4e8903f38ce2e6421cac6a4004b92af9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"289733c5e5408c7cf61859de91f4732a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":101754215,
+            "region_id":85681677,
+            "venue_id":1092269893
+        }
+    ],
     "wof:id":1092269893,
-    "wof:lastmodified":1473985190,
+    "wof:lastmodified":1496887427,
     "wof:name":"EHN Elektrohandel Neumann KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4284715652,48.0414619446,14.4284715652,48.0414619446",
     "geom:latitude":48.041462,
     "geom:longitude":14.428472,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"fahrschule-staudinger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3l2BZKLTgbmx5fQ6qeDK37_48.041462_14.428472@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914662,
-    "wof:geomhash":"31fbedb15002cfa2ee403999d6b49609",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6579b52b3b6efe7f30f6e088df7ecd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1092405939
+        }
+    ],
     "wof:id":1092405939,
-    "wof:lastmodified":1473984408,
+    "wof:lastmodified":1496881613,
     "wof:name":"Fahrschule Staudinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

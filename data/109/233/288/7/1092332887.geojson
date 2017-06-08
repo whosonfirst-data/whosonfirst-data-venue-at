@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8325166702,47.2294311523,10.8325166702,47.2294311523",
     "geom:latitude":47.229431,
     "geom:longitude":10.832517,
@@ -23,17 +24,33 @@
     "sg:postcode":"6426",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837439,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yBa2Iwxz3lwE1XNjyi2SM_47.229431_10.832517@1306268303"
     },
     "wof:country":"AT",
     "wof:created":1473911338,
-    "wof:geomhash":"e883efc13b49bee780b8caa00db9ca15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a02fecb8f43fa2151c115e96f5db3861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837439,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092332887
+        }
+    ],
     "wof:id":1092332887,
-    "wof:lastmodified":1473984026,
+    "wof:lastmodified":1496897867,
     "wof:name":"BMTI-Baumaschinentechnik International GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

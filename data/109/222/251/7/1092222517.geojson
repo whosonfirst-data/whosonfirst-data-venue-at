@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.7207317352,47.3446578979,11.7207317352,47.3446578979",
     "geom:latitude":47.344658,
     "geom:longitude":11.720732,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837831,
+        85632785,
+        101834265,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GFJU3hMyDSWDjpLwhOuj2_47.344658_11.720732@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906506,
-    "wof:geomhash":"f7b602f0d6998b6ccb3727dca843ba02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cc4552379b5b4e05bedecddd28e4888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837831,
+            "locality_id":101834265,
+            "region_id":85681661,
+            "venue_id":1092222517
+        }
+    ],
     "wof:id":1092222517,
-    "wof:lastmodified":1473983929,
+    "wof:lastmodified":1496900141,
     "wof:name":"Taxi Egger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

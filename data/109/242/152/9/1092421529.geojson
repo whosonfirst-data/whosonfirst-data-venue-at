@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3337306976,47.2665176392,12.3337306976,47.2665176392",
     "geom:latitude":47.266518,
     "geom:longitude":12.333731,
@@ -33,17 +34,33 @@
         "metallic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837193,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LzkW58MYgc4qYPpIqAJ7k_47.266518_12.333731@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915515,
-    "wof:geomhash":"3c00129666ad000d84b627da2d2fa195",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8119626cbbb9757868e4257d7df23cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837193,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092421529
+        }
+    ],
     "wof:id":1092421529,
-    "wof:lastmodified":1473983636,
+    "wof:lastmodified":1496895871,
     "wof:name":"ANTON EDER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

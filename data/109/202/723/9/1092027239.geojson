@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2653064728,48.1187133789,16.2653064728,48.1187133789",
     "geom:latitude":48.118713,
     "geom:longitude":16.265306,
@@ -25,10 +26,13 @@
     "sg:website":"drx.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898381,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897612,
-    "wof:geomhash":"da92af90e141353cdc2eb517594a8348",
+    "wof:geomhash":"6d12d321c7230fe4a90065fc85481462",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898381,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092027239
         }
     ],
     "wof:id":1092027239,
-    "wof:lastmodified":1473984817,
+    "wof:lastmodified":1496885854,
     "wof:name":"Draxler Martin Dr",
     "wof:parent_id":85898381,
     "wof:placetype":"venue",

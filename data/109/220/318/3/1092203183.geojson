@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3573379517,48.3759460449,14.3573379517,48.3759460449",
     "geom:latitude":48.375946,
     "geom:longitude":14.357338,
@@ -36,10 +37,12 @@
     "sg:website":"tischlerei-freudenthaler.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898433,
-        102049881
+        102191581,
+        1108836139,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905649,
-    "wof:geomhash":"98c964f8b456cb758c9fce4fb312d80b",
+    "wof:geomhash":"0b6d69b6b84be4fc5c45265a547fb44d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":-1,
             "neighbourhood_id":85898433,
             "region_id":85681677,
             "venue_id":1092203183
         }
     ],
     "wof:id":1092203183,
-    "wof:lastmodified":1473984022,
+    "wof:lastmodified":1496889720,
     "wof:name":"Tischlerei Freudenthaler GmbH",
     "wof:parent_id":85898433,
     "wof:placetype":"venue",

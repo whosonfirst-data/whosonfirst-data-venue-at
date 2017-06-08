@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9917840958,48.1539382935,13.9917840958,48.1539382935",
     "geom:latitude":48.153938,
     "geom:longitude":13.991784,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"ssc-wels.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zu75tMoIS6qKnIjy2Smpa_48.153938_13.991784@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891911,
-    "wof:geomhash":"ea256aa70c1b1bb304337e8e81a2319c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60ee6ab588e09385051b1838fd9b4447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1091896561
+        }
+    ],
     "wof:id":1091896561,
-    "wof:lastmodified":1473984813,
+    "wof:lastmodified":1496881968,
     "wof:name":"SSC Schwimmbad Sauna GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

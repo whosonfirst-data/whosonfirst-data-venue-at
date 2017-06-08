@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1205282211,48.2893295288,14.1205282211,48.2893295288",
     "geom:latitude":48.28933,
     "geom:longitude":14.120528,
@@ -33,17 +34,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834811,
+        85632785,
+        101833243,
+        102049863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FDS0VJcauFMWUey42zduU_48.289330_14.120528@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905816,
-    "wof:geomhash":"0af985b9046210b91dd741dcb24b117a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dfbc7621fe33c5f81169664afdb8504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834811,
+            "locality_id":101833243,
+            "region_id":85681677,
+            "venue_id":1092206723
+        }
+    ],
     "wof:id":1092206723,
-    "wof:lastmodified":1473984749,
+    "wof:lastmodified":1496882639,
     "wof:name":"Josef Steineder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

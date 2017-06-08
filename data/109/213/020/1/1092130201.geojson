@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3099794388,46.6539764404,14.3099794388,46.6539764404",
     "geom:latitude":46.653976,
     "geom:longitude":14.309979,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473902277,
-    "wof:geomhash":"1f1438ca4955d5f5f1dbc66c9294c796",
+    "wof:geomhash":"8e6018c73a91c44a879a1c65f63e4ead",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1092130201
         }
     ],
     "wof:id":1092130201,
-    "wof:lastmodified":1473983334,
+    "wof:lastmodified":1496905647,
     "wof:name":"Schuster Kurt",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

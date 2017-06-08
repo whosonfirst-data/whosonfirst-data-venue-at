@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4672136307,47.4913673401,14.4672136307,47.4913673401",
     "geom:latitude":47.491367,
     "geom:longitude":14.467214,
@@ -32,17 +33,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838887,
+        85632785,
+        101844561,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VQWWeLPr4gj8hIspJnLMV_47.491367_14.467214@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895392,
-    "wof:geomhash":"aac78c7d147e4d40495a84f21d94e12c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63d1c766f16da1c3f3e2fd43eac2df1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838887,
+            "locality_id":101844561,
+            "region_id":85681687,
+            "venue_id":1091973529
+        }
+    ],
     "wof:id":1091973529,
-    "wof:lastmodified":1473984090,
+    "wof:lastmodified":1496909876,
     "wof:name":"ADS GROSSHANDEL UND TRANSPORTE GESMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5269947052,48.2137145996,16.5269947052,48.2137145996",
     "geom:latitude":48.213715,
     "geom:longitude":16.526995,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896849,
-    "wof:geomhash":"41fd3b2b787a6e89d3d6aa398165b9d4",
+    "wof:geomhash":"3f22b965dd79d13d8f728061628b3517",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092007603
         }
     ],
     "wof:id":1092007603,
-    "wof:lastmodified":1473984766,
+    "wof:lastmodified":1496903792,
     "wof:name":"Wolfram Walter DentalvertriebsgesmbH",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

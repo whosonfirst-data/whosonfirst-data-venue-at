@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9009952545,47.0488739014,15.9009952545,47.0488739014",
     "geom:latitude":47.048874,
     "geom:longitude":15.900995,
@@ -23,17 +24,33 @@
     "sg:postcode":"8312",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839217,
+        85632785,
+        102049719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OMYZw2S5BcMnYpzMQUziA_47.048874_15.900995@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907947,
-    "wof:geomhash":"6910e24e7a8d5f06532ab56176fe97bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e23ba84fa9ef36f299a329a68510adce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049719,
+            "localadmin_id":1108839217,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092255401
+        }
+    ],
     "wof:id":1092255401,
-    "wof:lastmodified":1473984593,
+    "wof:lastmodified":1496911987,
     "wof:name":"Graf Franz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

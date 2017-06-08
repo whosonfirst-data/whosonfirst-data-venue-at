@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.299366951,47.235584259,11.299366951,47.235584259",
     "geom:latitude":47.235584,
     "geom:longitude":11.299367,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913642,
-    "wof:geomhash":"8a9f5115dcd01c3d71deaf01c965e4b1",
+    "wof:geomhash":"ca3d7135db65141b8725ec2926825e47",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092384089
         }
     ],
     "wof:id":1092384089,
-    "wof:lastmodified":1473984296,
+    "wof:lastmodified":1496898044,
     "wof:name":"Pizzeria Taverna da Guzzi",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

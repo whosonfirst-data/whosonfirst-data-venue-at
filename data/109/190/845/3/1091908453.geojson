@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5310916901,47.8469657898,16.5310916901,47.8469657898",
     "geom:latitude":47.846966,
     "geom:longitude":16.531092,
@@ -24,17 +25,34 @@
     "sg:province":"Burgenland",
     "sg:website":"www.schmikal-3s.bkf.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50Amw0VC27eANd4rM6qqXX_47.846966_16.531092@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892486,
-    "wof:geomhash":"109fb3fa0ad028fe41c3ba765827eaee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9c86bb7acab3c3c74f80c2051d9e9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1091908453
+        }
+    ],
     "wof:id":1091908453,
-    "wof:lastmodified":1473985108,
+    "wof:lastmodified":1496908741,
     "wof:name":"3S - Schwimmbad Sauna Schmikal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

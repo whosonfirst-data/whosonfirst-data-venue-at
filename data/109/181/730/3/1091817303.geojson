@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7832202911,46.5485839844,13.7832202911,46.5485839844",
     "geom:latitude":46.548584,
     "geom:longitude":13.78322,
@@ -23,10 +24,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +37,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473888231,
-    "wof:geomhash":"a16d77e9f7f6e22ef08982d45d416fd9",
+    "wof:geomhash":"c2629dd80d6f58339784b8932bb050ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1091817303
         }
     ],
     "wof:id":1091817303,
-    "wof:lastmodified":1473984913,
+    "wof:lastmodified":1496907312,
     "wof:name":"Postamt 9587 Riegersdorf",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

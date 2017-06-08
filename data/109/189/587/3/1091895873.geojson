@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6107845306,47.9758720398,16.6107845306,47.9758720398",
     "geom:latitude":47.975872,
     "geom:longitude":16.610785,
@@ -31,17 +32,34 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836593,
+        85632785,
+        101785777,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kB5UJg8bqckUdzYhg6xkv_47.975872_16.610785@1306268241"
     },
     "wof:country":"AT",
     "wof:created":1473891881,
-    "wof:geomhash":"23e41b8873e779bdb3b5db14e28d91fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea857b1362f4feae12c1772b3599d53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836593,
+            "locality_id":101785777,
+            "region_id":85681671,
+            "venue_id":1091895873
+        }
+    ],
     "wof:id":1091895873,
-    "wof:lastmodified":1473984673,
+    "wof:lastmodified":1496891842,
     "wof:name":"Radinger's Sandwiches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

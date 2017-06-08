@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5152244568,47.5305900574,15.5152244568,47.5305900574",
     "geom:latitude":47.53059,
     "geom:longitude":15.515224,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838861,
+        85632785,
+        101834335,
+        102049781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nWemkEdknOLYzA82x28aH_47.530590_15.515224@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906499,
-    "wof:geomhash":"069fb51b1011cc9525283abcea0e0800",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdac70248554be406eeee69aa2652f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049781,
+            "localadmin_id":1108838861,
+            "locality_id":101834335,
+            "region_id":85681687,
+            "venue_id":1092222345
+        }
+    ],
     "wof:id":1092222345,
-    "wof:lastmodified":1473983884,
+    "wof:lastmodified":1496909686,
     "wof:name":"Taxi & Mietwagenservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

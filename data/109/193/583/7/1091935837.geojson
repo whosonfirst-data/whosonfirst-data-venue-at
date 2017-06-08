@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.208946228,48.3880157471,16.208946228,48.3880157471",
     "geom:latitude":48.388016,
     "geom:longitude":16.208946,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"cts-partner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834843,
+        85632785,
+        101833277,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mxdGupGm9wbbatcJLyJJh_48.388016_16.208946@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893757,
-    "wof:geomhash":"f6ce857f88f9c67a57db9d0e808151b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ace39b411000271bc374e5fb607f480f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834843,
+            "locality_id":101833277,
+            "region_id":85681671,
+            "venue_id":1091935837
+        }
+    ],
     "wof:id":1091935837,
-    "wof:lastmodified":1473984480,
+    "wof:lastmodified":1496882891,
     "wof:name":"CTS Steuerberatung GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

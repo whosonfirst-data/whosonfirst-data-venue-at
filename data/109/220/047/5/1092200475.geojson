@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8448486328,47.515625,9.8448486328,47.515625",
     "geom:latitude":47.515625,
     "geom:longitude":9.844849,
@@ -34,17 +35,33 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837981,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_690Tkcaa0ip22YecIpPSVZ_47.515625_9.844849@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905480,
-    "wof:geomhash":"0b762ea12eb8e483db2d33753f0f93b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d66e72bde8a82faa89d5ea1ea1d83de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837981,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092200475
+        }
+    ],
     "wof:id":1092200475,
-    "wof:lastmodified":1473983391,
+    "wof:lastmodified":1496901241,
     "wof:name":"Roland Haller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

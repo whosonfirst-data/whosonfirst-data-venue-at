@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9221019745,47.3687019348,9.9221019745,47.3687019348",
     "geom:latitude":47.368702,
     "geom:longitude":9.922102,
@@ -24,17 +25,34 @@
     "sg:province":"Vorarlberg",
     "sg:website":"www.uebelher.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837901,
+        85632785,
+        101911757,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PNUvzKpgGihyZ3l3BigUq_47.368702_9.922102@1306268291"
     },
     "wof:country":"AT",
     "wof:created":1473907691,
-    "wof:geomhash":"0765991f2aa141d4b7c4b9fcf752d59b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d9525db8bfaaa963a6b38a45934aa51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837901,
+            "locality_id":101911757,
+            "region_id":85681649,
+            "venue_id":1092249191
+        }
+    ],
     "wof:id":1092249191,
-    "wof:lastmodified":1473985161,
+    "wof:lastmodified":1496900565,
     "wof:name":"\u00dcbelher Franz Josef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

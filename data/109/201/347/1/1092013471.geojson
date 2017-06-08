@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0909404755,48.464099884,14.0909404755,48.464099884",
     "geom:latitude":48.4641,
     "geom:longitude":14.09094,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835979,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UdVWiocsCN709RAxX2ILA_48.464100_14.090940@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897083,
-    "wof:geomhash":"214960ea65ba70012785821d56416ece",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b46fb22cb75d8b464a4a91e2f7f0ab2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835979,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092013471
+        }
+    ],
     "wof:id":1092013471,
-    "wof:lastmodified":1473983557,
+    "wof:lastmodified":1496889134,
     "wof:name":"Hermann Reiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5285997391,47.1090164185,15.5285997391,47.1090164185",
     "geom:latitude":47.109016,
     "geom:longitude":15.5286,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910846,
-    "wof:geomhash":"2277a0aa074f190ec5e1ac4985bb6422",
+    "wof:geomhash":"f8dd3725c82a38fb8506d77d5ec03923",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092320977
         }
     ],
     "wof:id":1092320977,
-    "wof:lastmodified":1473983529,
+    "wof:lastmodified":1496913222,
     "wof:name":"Ehgarter Adalbert",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

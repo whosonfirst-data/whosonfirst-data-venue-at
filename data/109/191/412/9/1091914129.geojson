@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2124938965,46.6307830811,14.2124938965,46.6307830811",
     "geom:latitude":46.630783,
     "geom:longitude":14.212494,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838175,
+        85632785,
+        101754115,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JxF9TZ1ELHiJLeHV0tFY2_46.630783_14.212494@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892754,
-    "wof:geomhash":"6e314db49dbc18441e407e9b3dd0d091",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5507e1095ec7645ba841519817b2c00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838175,
+            "locality_id":101754115,
+            "region_id":85681655,
+            "venue_id":1091914129
+        }
+    ],
     "wof:id":1091914129,
-    "wof:lastmodified":1473983854,
+    "wof:lastmodified":1496906404,
     "wof:name":"Intranet Software & Consulting GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2574806213,48.184387207,15.2574806213,48.184387207",
     "geom:latitude":48.184387,
     "geom:longitude":15.257481,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"HausUmbauPartner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835387,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ijuU9kXdDqGXZdPenppSp_48.184387_15.257481@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910147,
-    "wof:geomhash":"945fd39a9a373c57c6aaca0ee0b4b5a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f26a43adb116dcd24a80efda55d102b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835387,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092305199
+        }
+    ],
     "wof:id":1092305199,
-    "wof:lastmodified":1473984550,
+    "wof:lastmodified":1496886464,
     "wof:name":"HUP - Ihr unabh\u00e4ngiger Haus & Umbau Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

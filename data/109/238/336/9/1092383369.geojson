@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5136671066,46.7906951904,13.5136671066,46.7906951904",
     "geom:latitude":46.790695,
     "geom:longitude":13.513667,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838301,
+        85632785,
+        101790155,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xLd4XVyBypjOWEjzwJgZm_46.790695_13.513667@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913613,
-    "wof:geomhash":"c9900c02b3543d78d22d8829dc62020f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9487c234364a302818efe6f55abaea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":101790155,
+            "region_id":85681655,
+            "venue_id":1092383369
+        }
+    ],
     "wof:id":1092383369,
-    "wof:lastmodified":1473984176,
+    "wof:lastmodified":1496907203,
     "wof:name":"Pizzeria Gallorosso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

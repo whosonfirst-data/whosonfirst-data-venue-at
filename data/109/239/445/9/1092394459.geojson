@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4731807709,48.2641830444,16.4731807709,48.2641830444",
     "geom:latitude":48.264183,
     "geom:longitude":16.473181,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914177,
-    "wof:geomhash":"0aec0671c3e31ea30492f8a27373d0fa",
+    "wof:geomhash":"474818ace9cd88e398fbce04456fcc11",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092394459
         }
     ],
     "wof:id":1092394459,
-    "wof:lastmodified":1473984032,
+    "wof:lastmodified":1496903522,
     "wof:name":"Van Linthoudt Ges.m.b.H.",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

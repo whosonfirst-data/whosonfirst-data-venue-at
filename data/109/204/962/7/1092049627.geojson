@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4150419235,47.2357826233,11.4150419235,47.2357826233",
     "geom:latitude":47.235783,
     "geom:longitude":11.415042,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898494,
-    "wof:geomhash":"9e7a7de970893c1d711571a2f732c31e",
+    "wof:geomhash":"216905703c0e4231991201673878e639",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092049627
         }
     ],
     "wof:id":1092049627,
-    "wof:lastmodified":1473984541,
+    "wof:lastmodified":1496899472,
     "wof:name":"Hotel-Pension Leitgebhof",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

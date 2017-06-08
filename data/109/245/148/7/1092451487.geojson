@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0717878342,47.7760124207,13.0717878342,47.7760124207",
     "geom:latitude":47.776012,
     "geom:longitude":13.071788,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898471,
-        102049799
+        102191581,
+        1108837129,
+        85632785,
+        101754163,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916901,
-    "wof:geomhash":"6a1f250e53ac7d89ce772505f0b5c9b5",
+    "wof:geomhash":"5c09dd9d3d3762936dccd0615a8a2169",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837129,
+            "locality_id":101754163,
             "neighbourhood_id":85898471,
             "region_id":85681681,
             "venue_id":1092451487
         }
     ],
     "wof:id":1092451487,
-    "wof:lastmodified":1473983310,
+    "wof:lastmodified":1496894493,
     "wof:name":"Salon Hair",
     "wof:parent_id":85898471,
     "wof:placetype":"venue",

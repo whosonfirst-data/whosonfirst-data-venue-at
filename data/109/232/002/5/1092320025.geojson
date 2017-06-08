@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3506822586,48.1142196655,14.3506822586,48.1142196655",
     "geom:latitude":48.11422,
     "geom:longitude":14.350682,
@@ -33,17 +34,33 @@
         "tools"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836131,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DCZf5lgul0OEaLO5HE19q_48.114220_14.350682@1306268302"
     },
     "wof:country":"AT",
     "wof:created":1473910805,
-    "wof:geomhash":"4522a29d62cf21dde09991d410609782",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b122311fb76b5a6cfaf4145177ac8660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836131,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092320025
+        }
+    ],
     "wof:id":1092320025,
-    "wof:lastmodified":1473983316,
+    "wof:lastmodified":1496889673,
     "wof:name":"Alfred Wolfinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

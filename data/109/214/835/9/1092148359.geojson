@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3489761353,47.160774231,16.3489761353,47.160774231",
     "geom:latitude":47.160774,
     "geom:longitude":16.348976,
@@ -23,17 +24,33 @@
     "sg:postcode":"7512",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838759,
+        85632785,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62nuyYrmyRwNqC5Lj4kg0n_47.160774_16.348976@1306268276"
     },
     "wof:country":"AT",
     "wof:created":1473903130,
-    "wof:geomhash":"33f51352bb797b0f8e819b8fb68692b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db412422b1fe327f9c39d9c6055566f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838759,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092148359
+        }
+    ],
     "wof:id":1092148359,
-    "wof:lastmodified":1473984974,
+    "wof:lastmodified":1496909237,
     "wof:name":"Simon Waltraud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

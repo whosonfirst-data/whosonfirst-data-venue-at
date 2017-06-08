@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.500544548,47.062461853,11.500544548,47.062461853",
     "geom:latitude":47.062462,
     "geom:longitude":11.500545,
@@ -22,17 +23,34 @@
     "sg:postcode":"6154",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837633,
+        85632785,
+        101912385,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a35PfJyHopohSIHrFVDRP_47.062462_11.500545@1306268315"
     },
     "wof:country":"AT",
     "wof:created":1473888259,
-    "wof:geomhash":"626151f0e967d7d04693d991a38f0a89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb28dc96c3aef7488df859c267203503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837633,
+            "locality_id":101912385,
+            "region_id":85681661,
+            "venue_id":1091817825
+        }
+    ],
     "wof:id":1091817825,
-    "wof:lastmodified":1473985002,
+    "wof:lastmodified":1496898877,
     "wof:name":"Feuerwehr Freiwillige",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

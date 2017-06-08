@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4979639053,48.2295608521,14.4979639053,48.2295608521",
     "geom:latitude":48.229561,
     "geom:longitude":14.497964,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908379,
-    "wof:geomhash":"a4531e7e91b1b6b4b05e4cfe313d9d2f",
+    "wof:geomhash":"e5cb83690aafc4da7a3658a43ac8fe05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092264875
         }
     ],
     "wof:id":1092264875,
-    "wof:lastmodified":1473984385,
+    "wof:lastmodified":1496887072,
     "wof:name":"MULTICON ELECTRONIC GES.MBH",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

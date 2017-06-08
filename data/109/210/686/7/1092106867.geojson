@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6484746933,47.2781944275,9.6484746933,47.2781944275",
     "geom:latitude":47.278194,
     "geom:longitude":9.648475,
@@ -25,10 +26,12 @@
     "sg:website":"gartenparkgeringer.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901143,
-    "wof:geomhash":"2449075a5ae972bcf7c1c7800983ac68",
+    "wof:geomhash":"dd9f07a28392703f7d5781110c53c43a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092106867
         }
     ],
     "wof:id":1092106867,
-    "wof:lastmodified":1473984691,
+    "wof:lastmodified":1496901659,
     "wof:name":"Geringer Ing Gartenpark GmbH",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

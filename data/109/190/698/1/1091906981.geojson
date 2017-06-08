@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4539928436,47.7640380859,16.4539928436,47.7640380859",
     "geom:latitude":47.764038,
     "geom:longitude":16.453993,
@@ -23,17 +24,33 @@
     "sg:postcode":"7023",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838585,
+        85632785,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tHxAJvKcqb2F6cIdrZagS_47.764038_16.453993@1306268242"
     },
     "wof:country":"AT",
     "wof:created":1473892432,
-    "wof:geomhash":"0507c18bd9ce9b7273972bed763bdf9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc71fa139c716020f6fa2a3209dd9380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838585,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091906981
+        }
+    ],
     "wof:id":1091906981,
-    "wof:lastmodified":1473984728,
+    "wof:lastmodified":1496908574,
     "wof:name":"Fischer Manfred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

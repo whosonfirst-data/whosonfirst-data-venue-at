@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5377597809,48.0409698486,13.5377597809,48.0409698486",
     "geom:latitude":48.04097,
     "geom:longitude":13.53776,
@@ -32,17 +33,33 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836453,
+        85632785,
+        102049817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZSlMkA9JixXQQuXskWUs5_48.040970_13.537760@1306268260"
     },
     "wof:country":"AT",
     "wof:created":1473897887,
-    "wof:geomhash":"d132395c99f5bec1bfd31dfa04d922ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b99e3fa58c3e90dd3b0969ff3257437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836453,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092034029
+        }
+    ],
     "wof:id":1092034029,
-    "wof:lastmodified":1473984092,
+    "wof:lastmodified":1496891177,
     "wof:name":"Hermann Muss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

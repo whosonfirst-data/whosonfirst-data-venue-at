@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1378955841,48.0990447998,16.1378955841,48.0990447998",
     "geom:latitude":48.099045,
     "geom:longitude":16.137896,
@@ -33,17 +34,33 @@
         "fitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836663,
+        85632785,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67xQBDjK25ItaiTj3YgaZV_48.099045_16.137896@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889223,
-    "wof:geomhash":"36301041ccd2fcab59edf5529ddf2ee7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a0bc87297420f0f61edce76568af3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108836663,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091838865
+        }
+    ],
     "wof:id":1091838865,
-    "wof:lastmodified":1473985195,
+    "wof:lastmodified":1496892221,
     "wof:name":"Ing. Roland Schwier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

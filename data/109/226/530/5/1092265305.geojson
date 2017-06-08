@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4032297134,46.6328582764,14.4032297134,46.6328582764",
     "geom:latitude":46.632858,
     "geom:longitude":14.40323,
@@ -31,17 +32,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838143,
+        85632785,
+        102049679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vb9FzvDNZv1cpT4nQBlId_46.632858_14.403230@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908396,
-    "wof:geomhash":"8d07d1496893b2df3502489433583e32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edb26cefe96f6301bf187fce7798bb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092265305
+        }
+    ],
     "wof:id":1092265305,
-    "wof:lastmodified":1473984461,
+    "wof:lastmodified":1496905899,
     "wof:name":"Elektro Erwin Raschun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

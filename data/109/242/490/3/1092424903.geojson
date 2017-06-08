@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3148860931,46.6651878357,14.3148860931,46.6651878357",
     "geom:latitude":46.665188,
     "geom:longitude":14.314886,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"sam-kuchler.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QZasHTX1c98rd345IYbli_46.665188_14.314886@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915688,
-    "wof:geomhash":"940744804e1c7843303d72cb5f38ac38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7260f09f642aae05d72f06c579943d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
+            "region_id":85681655,
+            "venue_id":1092424903
+        }
+    ],
     "wof:id":1092424903,
-    "wof:lastmodified":1473984265,
+    "wof:lastmodified":1496905579,
     "wof:name":"Kuchler Fritz R & D Research and Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

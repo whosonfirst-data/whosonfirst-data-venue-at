@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6528358459,47.3541297913,9.6528358459,47.3541297913",
     "geom:latitude":47.35413,
     "geom:longitude":9.652836,
@@ -23,17 +24,34 @@
     "sg:postcode":"6844",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837887,
+        85632785,
+        101913361,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qCoHMdu6SmkFLxIYPJ2yR_47.354130_9.652836@1306268277"
     },
     "wof:country":"AT",
     "wof:created":1473903282,
-    "wof:geomhash":"df056545abfc7ae8c3734eac0edc7155",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e4d3e8ed6ddc72b3f5dc7260314392e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837887,
+            "locality_id":101913361,
+            "region_id":85681649,
+            "venue_id":1092151655
+        }
+    ],
     "wof:id":1092151655,
-    "wof:lastmodified":1473983607,
+    "wof:lastmodified":1496900489,
     "wof:name":"Krankenpflegeverein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

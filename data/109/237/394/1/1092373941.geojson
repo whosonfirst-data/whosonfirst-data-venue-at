@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5164327621,47.5033607483,10.5164327621,47.5033607483",
     "geom:latitude":47.503361,
     "geom:longitude":10.516433,
@@ -23,17 +24,33 @@
     "sg:postcode":"6675",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837777,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x8uTDCWKOxZ4VC3A5eECa_47.503361_10.516433@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913191,
-    "wof:geomhash":"a140728f26714c3af607161d140ffe9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"540697bcf52caac42a293919c70492ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837777,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092373941
+        }
+    ],
     "wof:id":1092373941,
-    "wof:lastmodified":1473984296,
+    "wof:lastmodified":1496899959,
     "wof:name":"Schneider Helena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

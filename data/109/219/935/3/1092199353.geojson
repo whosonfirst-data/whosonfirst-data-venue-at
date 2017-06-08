@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5938549042,47.9771728516,16.5938549042,47.9771728516",
     "geom:latitude":47.977173,
     "geom:longitude":16.593855,
@@ -31,17 +32,33 @@
         "catalogue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836593,
+        85632785,
+        102049845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76yJsra6glT6NKrywuGtUI_47.977173_16.593855@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905424,
-    "wof:geomhash":"72c2be6fa4568e21e356528d42e8bb7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9a9afdca70e5f334ee12e2513e3f6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836593,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092199353
+        }
+    ],
     "wof:id":1092199353,
-    "wof:lastmodified":1473985290,
+    "wof:lastmodified":1496891832,
     "wof:name":"GD Druck- und Verlagsges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

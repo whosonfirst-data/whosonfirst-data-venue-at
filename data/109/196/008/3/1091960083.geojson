@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0940999985,46.7261657715,14.0940999985,46.7261657715",
     "geom:latitude":46.726166,
     "geom:longitude":14.0941,
@@ -24,17 +25,34 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"http://www.fe-online.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        101790125,
+        102049689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hG0tXyVPDkRWghPsqN6gw_46.726166_14.094100@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894827,
-    "wof:geomhash":"dd28fd768f201c3097840f7e778e06fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"429370998c94a2e21416ea0a8a09d29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":101790125,
+            "region_id":85681655,
+            "venue_id":1091960083
+        }
+    ],
     "wof:id":1091960083,
-    "wof:lastmodified":1473983334,
+    "wof:lastmodified":1496905362,
     "wof:name":"Fe-Online - Feldkirchen in K\u00e4rnten am Ossiacher See",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

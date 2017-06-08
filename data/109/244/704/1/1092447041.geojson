@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2668228149,48.1869659424,16.2668228149,48.1869659424",
     "geom:latitude":48.186966,
     "geom:longitude":16.266823,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916700,
-    "wof:geomhash":"e4beca77c112eeed6c0421d6871babc5",
+    "wof:geomhash":"843612d50af199ef5b3a78d8ef024b70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092447041
         }
     ],
     "wof:id":1092447041,
-    "wof:lastmodified":1473985108,
+    "wof:lastmodified":1496904427,
     "wof:name":"Haarscharf - Hans Jamernik",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7709188461,47.569568634,9.7709188461,47.569568634",
     "geom:latitude":47.569569,
     "geom:longitude":9.770919,
@@ -23,17 +24,33 @@
     "sg:postcode":"6914",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837965,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uWUWhyrYQTFSpv4fHBNFP_47.569569_9.770919@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897400,
-    "wof:geomhash":"e88df3f4d91eaf03fa0b34602dfeb12c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a658cc3e1909128b3243baec34b48cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837965,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092021425
+        }
+    ],
     "wof:id":1092021425,
-    "wof:lastmodified":1473983609,
+    "wof:lastmodified":1496901173,
     "wof:name":"Kloster Mariastern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

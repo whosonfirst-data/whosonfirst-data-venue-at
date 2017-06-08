@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7436361313,48.0416183472,15.7436361313,48.0416183472",
     "geom:latitude":48.041618,
     "geom:longitude":15.743636,
@@ -31,17 +32,34 @@
         "drink"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836661,
+        85632785,
+        101844589,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08cnzJwfbP2xSkHj1VgyN1_48.041618_15.743636@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897103,
-    "wof:geomhash":"d0d9cbd51fb511b8d7e7d67fe2fe7dc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c9cd81427f2513a1f2b6e3eb2352100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108836661,
+            "locality_id":101844589,
+            "region_id":85681671,
+            "venue_id":1092013939
+        }
+    ],
     "wof:id":1092013939,
-    "wof:lastmodified":1473983664,
+    "wof:lastmodified":1496892589,
     "wof:name":"OBST-MOST-GEMEINSCHAFT ALPENVORLAND",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

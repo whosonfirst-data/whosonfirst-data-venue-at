@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6256923676,47.4674491882,12.6256923676,47.4674491882",
     "geom:latitude":47.467449,
     "geom:longitude":12.625692,
@@ -28,17 +29,34 @@
     "sg:postcode":"6395",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837339,
+        85632785,
+        101844541,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44tGCOpESEwVVwln9a25tE_47.467449_12.625692@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898391,
-    "wof:geomhash":"63512cc82301fabd6592067d6b8ffc5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"442045ef71404a5b42f1daee8c59fae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837339,
+            "locality_id":101844541,
+            "region_id":85681661,
+            "venue_id":1092047001
+        }
+    ],
     "wof:id":1092047001,
-    "wof:lastmodified":1473984046,
+    "wof:lastmodified":1496896975,
     "wof:name":"Hotel Hochfilzner Hof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

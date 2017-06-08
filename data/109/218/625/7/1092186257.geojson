@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2267360687,47.9405059814,16.2267360687,47.9405059814",
     "geom:latitude":47.940506,
     "geom:longitude":16.226736,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"ghw.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835733,
+        85632785,
+        101833193,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MDDxLZLvFZN33E6a59DQ7_47.940506_16.226736@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904861,
-    "wof:geomhash":"d48c050f80a0ab2c3f394e84468cd50d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d53578c2b0a193e749d6149583e45dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835733,
+            "locality_id":101833193,
+            "region_id":85681671,
+            "venue_id":1092186257
+        }
+    ],
     "wof:id":1092186257,
-    "wof:lastmodified":1473984633,
+    "wof:lastmodified":1496888106,
     "wof:name":"GHW Logistics Winkler KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

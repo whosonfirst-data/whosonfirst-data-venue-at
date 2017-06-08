@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3247375488,47.456615448,12.3247375488,47.456615448",
     "geom:latitude":47.456615,
     "geom:longitude":12.324738,
@@ -23,17 +24,33 @@
     "sg:postcode":"6365",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837679,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dOFiB5Zg1CKzcNQ44PJrM_47.456615_12.324738@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912639,
-    "wof:geomhash":"4b4e56cc4141c2437bec28a66eb48478",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54e7b754e86f86a2d52ce38537a38b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837679,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092362713
+        }
+    ],
     "wof:id":1092362713,
-    "wof:lastmodified":1473983959,
+    "wof:lastmodified":1496899116,
     "wof:name":"Ferienhof Stallh\u00e4usl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

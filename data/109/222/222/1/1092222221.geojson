@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1728496552,47.1731681824,16.1728496552,47.1731681824",
     "geom:latitude":47.173168,
     "geom:longitude":16.17285,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838447,
+        85632785,
+        102049729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HME64nSKrrgtk2h4Jqyiz_47.173168_16.172850@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906493,
-    "wof:geomhash":"872d2ecd06b0ff55229c96fb717d073a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab7f7b8b46188843483ea162baef62df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838447,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092222221
+        }
+    ],
     "wof:id":1092222221,
-    "wof:lastmodified":1473983863,
+    "wof:lastmodified":1496907960,
     "wof:name":"Space Taxi - Udo Feiertag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

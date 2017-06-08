@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6053876877,47.0633087158,13.6053876877,47.0633087158",
     "geom:latitude":47.063309,
     "geom:longitude":13.605388,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"http://www.katschberg.at/hutter/index.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837063,
+        85632785,
+        102049721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dfXfLBlU0JtAhHrojlNDE_47.063309_13.605388@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894831,
-    "wof:geomhash":"ef288e09a86632444cbdd69b2fa52e90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69d557a89ebfc74569c898ae9cd36725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837063,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091960189
+        }
+    ],
     "wof:id":1091960189,
-    "wof:lastmodified":1473983339,
+    "wof:lastmodified":1496894273,
     "wof:name":"Aparthotel Hutter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

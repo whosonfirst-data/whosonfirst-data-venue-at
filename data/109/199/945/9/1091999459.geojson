@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.394285202,47.2575874329,11.394285202,47.2575874329",
     "geom:latitude":47.257587,
     "geom:longitude":11.394285,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896509,
-    "wof:geomhash":"3f48381eaf0a16ce6954c06f4e2bbff9",
+    "wof:geomhash":"020791f0bcd0c0119c4a8a26a0d3a3c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091999459
         }
     ],
     "wof:id":1091999459,
-    "wof:lastmodified":1473985103,
+    "wof:lastmodified":1496899439,
     "wof:name":"Isoliertechnik GesmbH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1259908676,47.4226226807,12.1259908676,47.4226226807",
     "geom:latitude":47.422623,
     "geom:longitude":12.125991,
@@ -23,17 +24,33 @@
     "sg:postcode":"6361",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dF5VnalcYxanOsLJzkfu9_47.422623_12.125991@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899418,
-    "wof:geomhash":"82cadefc499c5877a91a722e8783e5e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03211eee9969f97b61bd7fe1b97944b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092072673
+        }
+    ],
     "wof:id":1092072673,
-    "wof:lastmodified":1473983813,
+    "wof:lastmodified":1496896989,
     "wof:name":"Gasthof Haagalm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

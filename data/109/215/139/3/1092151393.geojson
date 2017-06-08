@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7440700531,47.4109306335,9.7440700531,47.4109306335",
     "geom:latitude":47.410931,
     "geom:longitude":9.74407,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903270,
-    "wof:geomhash":"a6e9f1857ca60d1beb26f66d4fcdaf61",
+    "wof:geomhash":"d805c05028fea67cc14ea8ada95e5145",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092151393
         }
     ],
     "wof:id":1092151393,
-    "wof:lastmodified":1473983591,
+    "wof:lastmodified":1496900859,
     "wof:name":"Kinderfreunde Vorarlberg",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

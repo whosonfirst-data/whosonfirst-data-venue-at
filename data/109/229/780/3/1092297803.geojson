@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0155124664,47.385848999,13.0155124664,47.385848999",
     "geom:latitude":47.385849,
     "geom:longitude":13.015512,
@@ -23,17 +24,33 @@
     "sg:postcode":"5652",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837199,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YCFwQgslZ8oZlWqSduYrA_47.385849_13.015512@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909785,
-    "wof:geomhash":"b84ac818e63784b4714f4b703c56b7a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03adf0b09fa968cf63979b4e976824e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837199,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092297803
+        }
+    ],
     "wof:id":1092297803,
-    "wof:lastmodified":1473985095,
+    "wof:lastmodified":1496895908,
     "wof:name":"Schnegghof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8768100739,48.21534729,15.8768100739,48.21534729",
     "geom:latitude":48.215347,
     "geom:longitude":15.87681,
@@ -35,17 +36,33 @@
     ],
     "sg:website":"tischlerei-bauer.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834967,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gWfrNh1rQWDr8ycdjh7ax_48.215347_15.876810@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905649,
-    "wof:geomhash":"84d582f82339f0532ab09bacd797d73c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0da0d8bec93faffc1ff08511278865ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834967,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092203177
+        }
+    ],
     "wof:id":1092203177,
-    "wof:lastmodified":1473983990,
+    "wof:lastmodified":1496883746,
     "wof:name":"Tischlerei Bauer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

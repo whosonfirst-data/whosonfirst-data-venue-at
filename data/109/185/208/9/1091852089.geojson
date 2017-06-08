@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3222408295,48.9154167175,15.3222408295,48.9154167175",
     "geom:latitude":48.915417,
     "geom:longitude":15.322241,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"handl.co.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836229,
+        85632785,
+        102049903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EA4BR5PQ0Iku1gJdot57I_48.915417_15.322241@1306268235"
     },
     "wof:country":"AT",
     "wof:created":1473889808,
-    "wof:geomhash":"6aae9fc6a06cee5137a05f3ed33520d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c40749be0c7228e47a0b7ccdd90d64dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836229,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091852089
+        }
+    ],
     "wof:id":1091852089,
-    "wof:lastmodified":1473983702,
+    "wof:lastmodified":1496890107,
     "wof:name":"Lambert Handl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

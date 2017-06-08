@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4966430664,46.8330764771,13.4966430664,46.8330764771",
     "geom:latitude":46.833076,
     "geom:longitude":13.496643,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838299,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TaKuUIEWtt0RwVXwvDedt_46.833076_13.496643@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898922,
-    "wof:geomhash":"a2905558797611d57acd2e8c3212aa8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7f89b70428d9cab8b5df9e5db793c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838299,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092060553
+        }
+    ],
     "wof:id":1092060553,
-    "wof:lastmodified":1473983533,
+    "wof:lastmodified":1496907058,
     "wof:name":"Pirker-Fr\u00fchauf Installationen GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

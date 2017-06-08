@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8162879944,48.2086486816,13.8162879944,48.2086486816",
     "geom:latitude":48.208649,
     "geom:longitude":13.816288,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        101784571,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bQU5OmFe9W7FuV0UhM4XG_48.208649_13.816288@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898617,
-    "wof:geomhash":"734514b934c25f50c917911f45e0f99c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6916b048d3e219e26399013302ab1cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":101784571,
+            "region_id":85681677,
+            "venue_id":1092052753
+        }
+    ],
     "wof:id":1092052753,
-    "wof:lastmodified":1473983852,
+    "wof:lastmodified":1496885281,
     "wof:name":"ING. FRANZ STADLMAIR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

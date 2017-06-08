@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4988594055,48.5876922607,16.4988594055,48.5876922607",
     "geom:latitude":48.587692,
     "geom:longitude":16.498859,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836781,
+        85632785,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06zMD6JCFl3mciIzNp2pDO_48.587692_16.498859@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892768,
-    "wof:geomhash":"97c0ef44dc4ad486f9325b67e7f03880",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f09621922ab4be11818584b611d9b55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836781,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091914511
+        }
+    ],
     "wof:id":1091914511,
-    "wof:lastmodified":1473983898,
+    "wof:lastmodified":1496892741,
     "wof:name":"M & E Sch\u00f6ndorfer OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

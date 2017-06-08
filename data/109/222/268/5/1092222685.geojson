@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7953987122,46.5857315063,14.7953987122,46.5857315063",
     "geom:latitude":46.585732,
     "geom:longitude":14.795399,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838365,
+        85632785,
+        101790113,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fKVYYO8RihvXLBUnsBDDR_46.585732_14.795399@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906513,
-    "wof:geomhash":"7aa343390268ad52cbd86e0a84968768",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebae9a4dc1abe5fb7f808afd6b73b0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838365,
+            "locality_id":101790113,
+            "region_id":85681655,
+            "venue_id":1092222685
+        }
+    ],
     "wof:id":1092222685,
-    "wof:lastmodified":1473983976,
+    "wof:lastmodified":1496907608,
     "wof:name":"Taxi Kuehs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

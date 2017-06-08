@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1646842957,48.4681549072,14.1646842957,48.4681549072",
     "geom:latitude":48.468155,
     "geom:longitude":14.164684,
@@ -32,17 +33,33 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836011,
+        85632785,
+        102049889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XJcK3MGvD1l9U43NzYNfn_48.468155_14.164684@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908465,
-    "wof:geomhash":"1c8cd75f3577c8e55af89e38370a05db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fc00b91e81ec739f60031907bbbaa2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836011,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092266797
+        }
+    ],
     "wof:id":1092266797,
-    "wof:lastmodified":1473984620,
+    "wof:lastmodified":1496889207,
     "wof:name":"Erich F\u00fcreder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9764890671,47.2508621216,15.9764890671,47.2508621216",
     "geom:latitude":47.250862,
     "geom:longitude":15.976489,
@@ -32,17 +33,33 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839119,
+        85632785,
+        102049759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ffoVHwHsrgnAph4FCbFdS_47.250862_15.976489@1306268318"
     },
     "wof:country":"AT",
     "wof:created":1473915989,
-    "wof:geomhash":"f37b0b9dc231e6bd79c252d092017def",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ab4282fd5db14219016ab58eadb4a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049759,
+            "localadmin_id":1108839119,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092431797
+        }
+    ],
     "wof:id":1092431797,
-    "wof:lastmodified":1473983653,
+    "wof:lastmodified":1496911406,
     "wof:name":"INTEREX HANDELS GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

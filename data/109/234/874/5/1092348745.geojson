@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4127235413,47.4482078552,16.4127235413,47.4482078552",
     "geom:latitude":47.448208,
     "geom:longitude":16.412724,
@@ -23,17 +24,33 @@
     "sg:postcode":"7371",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838545,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TsofxekGXJkcY5x0X2fg7_47.448208_16.412724@1306268306"
     },
     "wof:country":"AT",
     "wof:created":1473912012,
-    "wof:geomhash":"964dbb01aed6067cfd6bee8a72d92f04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22cfd3112fd7c80ef226e11a4f7751c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838545,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092348745
+        }
+    ],
     "wof:id":1092348745,
-    "wof:lastmodified":1473985007,
+    "wof:lastmodified":1496908409,
     "wof:name":"Dorfmuseum i Gemeindehaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

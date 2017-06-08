@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1717758179,47.3831977844,11.1717758179,47.3831977844",
     "geom:latitude":47.383198,
     "geom:longitude":11.171776,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h4HGI0TM6Ea5Sywvo7XZ1_47.383198_11.171776@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909636,
-    "wof:geomhash":"73f4f03b947c55f8fade14a2a441b365",
-    "wof:hierarchy":[],
+    "wof:geomhash":"893eb40afe76fe9a98fb0ed8c83d2d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092294527
+        }
+    ],
     "wof:id":1092294527,
-    "wof:lastmodified":1473984419,
+    "wof:lastmodified":1496898421,
     "wof:name":"Fiakerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

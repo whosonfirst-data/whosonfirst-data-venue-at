@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7029781342,47.1987838745,9.7029781342,47.1987838745",
     "geom:latitude":47.198784,
     "geom:longitude":9.702978,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838035,
+        85632785,
+        101913365,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gzgQGGa760CQI7J1IaQFU_47.198784_9.702978@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913653,
-    "wof:geomhash":"bf6b05206cd0f60341ab36f9428f4f2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3860d597b78492d3d94350c42c962a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838035,
+            "locality_id":101913365,
+            "region_id":85681649,
+            "venue_id":1092384363
+        }
+    ],
     "wof:id":1092384363,
-    "wof:lastmodified":1473984395,
+    "wof:lastmodified":1496901697,
     "wof:name":"Pizzeria-Restaurant Schlinserhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

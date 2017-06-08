@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.516831398,48.2411422729,14.516831398,48.2411422729",
     "geom:latitude":48.241142,
     "geom:longitude":14.516831,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892910,
-    "wof:geomhash":"b2bf6669a069182e113d896e3cb4c423",
+    "wof:geomhash":"8a9fd9ad55a2569c0d07e3293bd77cd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1091917879
         }
     ],
     "wof:id":1091917879,
-    "wof:lastmodified":1473984509,
+    "wof:lastmodified":1496887544,
     "wof:name":"Sonnenstudio Ergo-Sun",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

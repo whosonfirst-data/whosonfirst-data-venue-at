@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7352161407,46.7049674988,12.7352161407,46.7049674988",
     "geom:latitude":46.704967,
     "geom:longitude":12.735216,
@@ -23,17 +24,33 @@
     "sg:postcode":"9655",
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838161,
+        85632785,
+        102049675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sGrmseUICTfZ9ojjw7RSF_46.704967_12.735216@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899458,
-    "wof:geomhash":"362617e9db61fbfd844492add7504026",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd3d73d0f096cfc895be3e6c46f2e84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838161,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092073711
+        }
+    ],
     "wof:id":1092073711,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496906294,
     "wof:name":"Gasthof Paternwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

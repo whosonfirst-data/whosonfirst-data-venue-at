@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.661904335,48.3509178162,14.661904335,48.3509178162",
     "geom:latitude":48.350918,
     "geom:longitude":14.661904,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835119,
+        85632785,
+        102049883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ACgHdcM1rCVWUyNHXe8ET_48.350918_14.661904@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892682,
-    "wof:geomhash":"7518beaad7185a0a7a7cbf1b01d18ca5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fa0a29dd040f8a613e4d039040e8f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835119,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091912917
+        }
+    ],
     "wof:id":1091912917,
-    "wof:lastmodified":1473983645,
+    "wof:lastmodified":1496884642,
     "wof:name":"Computer-Shop Grohmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

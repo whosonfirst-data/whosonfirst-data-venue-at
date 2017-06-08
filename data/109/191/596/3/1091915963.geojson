@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4933414459,48.2083129883,13.4933414459,48.2083129883",
     "geom:latitude":48.208313,
     "geom:longitude":13.493341,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27nLQrRTxwGrvqe0WQZFn4_48.208313_13.493341@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892829,
-    "wof:geomhash":"aab480120579d36e2774e68210c7d627",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92337f204d410808e0aa7b7ffc7f840a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1091915963
+        }
+    ],
     "wof:id":1091915963,
-    "wof:lastmodified":1473984128,
+    "wof:lastmodified":1496887960,
     "wof:name":"Troyer Information Systems GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

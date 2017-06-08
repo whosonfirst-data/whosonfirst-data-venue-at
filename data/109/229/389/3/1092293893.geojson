@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.728849411,47.4413414001,12.728849411,47.4413414001",
     "geom:latitude":47.441341,
     "geom:longitude":12.728849,
@@ -23,17 +24,33 @@
     "sg:postcode":"5771",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837211,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Kwr6FyaCEUJ5jpGwlPI7_47.441341_12.728849@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909610,
-    "wof:geomhash":"f08e1e038116cb0a31f1daa79dada33a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70e80bd54c94020e59281318ed986467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837211,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092293893
+        }
+    ],
     "wof:id":1092293893,
-    "wof:lastmodified":1473984294,
+    "wof:lastmodified":1496895986,
     "wof:name":"Ferienhof Sonnleiten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0544395447,48.3304710388,16.0544395447,48.3304710388",
     "geom:latitude":48.330471,
     "geom:longitude":16.05444,
@@ -32,17 +33,34 @@
         "production"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        101833267,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DVxwv1ZIjPE8RspVgNNKX_48.330471_16.054440@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891203,
-    "wof:geomhash":"1b723da4ab4359d612bd0e7518ddac14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b1325b2f2dfcc231ada77b7dd313a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":101833267,
+            "region_id":85681671,
+            "venue_id":1091881597
+        }
+    ],
     "wof:id":1091881597,
-    "wof:lastmodified":1473983700,
+    "wof:lastmodified":1496893166,
     "wof:name":"Druckerei Schmied",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

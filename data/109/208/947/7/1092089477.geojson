@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5863761902,47.540473938,16.5863761902,47.540473938",
     "geom:latitude":47.540474,
     "geom:longitude":16.586376,
@@ -23,17 +24,33 @@
     "sg:postcode":"7304",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838645,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OMFZqlMde3RyL6WkIOpiZ_47.540474_16.586376@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900207,
-    "wof:geomhash":"cdcbe8d4ea3837d7eaccdcd7e4e1e951",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de85deecf1525256453dc3c8c684d9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838645,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092089477
+        }
+    ],
     "wof:id":1092089477,
-    "wof:lastmodified":1473985207,
+    "wof:lastmodified":1496908965,
     "wof:name":"Gemeindeamt Kleinwarasdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

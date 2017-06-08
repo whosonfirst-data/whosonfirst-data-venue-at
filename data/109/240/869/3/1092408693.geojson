@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7710447311,46.8204727173,13.7710447311,46.8204727173",
     "geom:latitude":46.820473,
     "geom:longitude":13.771045,
@@ -24,17 +25,33 @@
     "sg:province":"K\u00e4rnten",
     "sg:website":"fassadenbau-eigner.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dbefxWR0LO926ubG4Nwvh_46.820473_13.771045@1306268314"
     },
     "wof:country":"AT",
     "wof:created":1473914795,
-    "wof:geomhash":"12492b7d7759f223adb8e3c9f190b497",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dd33b9ad1c58f56f01811a341aa95d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092408693
+        }
+    ],
     "wof:id":1092408693,
-    "wof:lastmodified":1473984933,
+    "wof:lastmodified":1496906816,
     "wof:name":"Fassaden-Bau-Eigner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3967571259,47.2633972168,11.3967571259,47.2633972168",
     "geom:latitude":47.263397,
     "geom:longitude":11.396757,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890875,
-    "wof:geomhash":"29b79ef80cc8f85c4077ae43499c07e5",
+    "wof:geomhash":"1e0a577efc75bf95bbafe388b50f4c96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091874163
         }
     ],
     "wof:id":1091874163,
-    "wof:lastmodified":1473983997,
+    "wof:lastmodified":1496926032,
     "wof:name":"Walpoth Blumen GesmbH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

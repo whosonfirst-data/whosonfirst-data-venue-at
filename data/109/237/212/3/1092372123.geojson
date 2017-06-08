@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8945007324,47.3498268127,9.8945007324,47.3498268127",
     "geom:latitude":47.349827,
     "geom:longitude":9.894501,
@@ -23,17 +24,33 @@
     "sg:postcode":"6881",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838009,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QrubMaDpaJBiYo8wMU4Si_47.349827_9.894501@1306268309"
     },
     "wof:country":"AT",
     "wof:created":1473913115,
-    "wof:geomhash":"2193147cd1240285c9515e758b788952",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f82eca365c6766e1209ed0f650497a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838009,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092372123
+        }
+    ],
     "wof:id":1092372123,
-    "wof:lastmodified":1473983914,
+    "wof:lastmodified":1496901513,
     "wof:name":"Pension Sonnberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

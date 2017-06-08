@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9040966034,48.2800788879,16.9040966034,48.2800788879",
     "geom:latitude":48.280079,
     "geom:longitude":16.904097,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"fritzbau.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835301,
+        85632785,
+        101783433,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3laIH9FHmNPYh9Eqju1f1C_48.280079_16.904097@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889626,
-    "wof:geomhash":"986ddcbdef7b72675afb4b8124b12821",
-    "wof:hierarchy":[],
+    "wof:geomhash":"285ae5cfc3e98b1f6f8069752d37c2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835301,
+            "locality_id":101783433,
+            "region_id":85681671,
+            "venue_id":1091848073
+        }
+    ],
     "wof:id":1091848073,
-    "wof:lastmodified":1473984880,
+    "wof:lastmodified":1496885943,
     "wof:name":"Fritz BaugesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

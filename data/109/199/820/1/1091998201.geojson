@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3006591797,47.3319702148,13.3006591797,47.3319702148",
     "geom:latitude":47.33197,
     "geom:longitude":13.300659,
@@ -29,17 +30,34 @@
     "sg:province":"Salzburg",
     "sg:website":"systemnet.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        101912395,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zYZUZ5oXwdcZXs2WGGbHX_47.331970_13.300659@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896459,
-    "wof:geomhash":"c2860aa3ac7082784ff8951ced785f02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e76367121307b8661092daadbed0dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":101912395,
+            "region_id":85681681,
+            "venue_id":1091998201
+        }
+    ],
     "wof:id":1091998201,
-    "wof:lastmodified":1473984902,
+    "wof:lastmodified":1496894171,
     "wof:name":"System Net",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

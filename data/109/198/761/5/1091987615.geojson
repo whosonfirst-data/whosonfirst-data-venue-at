@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8081855774,46.656703949,14.8081855774,46.656703949",
     "geom:latitude":46.656704,
     "geom:longitude":14.808186,
@@ -33,17 +34,33 @@
         "storehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838383,
+        85632785,
+        102049685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NOxDYAxrOhDYYHtYXWMZp_46.656704_14.808186@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473895998,
-    "wof:geomhash":"1ed07ec0ddebaa9497fe1d2ffc5c0ec5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f097632485179d0d9615256bb2f74901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838383,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091987615
+        }
+    ],
     "wof:id":1091987615,
-    "wof:lastmodified":1473984334,
+    "wof:lastmodified":1496907691,
     "wof:name":"Herbert M\u00fcller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

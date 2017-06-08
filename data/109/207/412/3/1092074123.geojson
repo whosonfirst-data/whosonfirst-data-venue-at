@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3474349976,46.6810035706,14.3474349976,46.6810035706",
     "geom:latitude":46.681004,
     "geom:longitude":14.347435,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898263,
-        102049679
+        102191581,
+        1108838181,
+        85632785,
+        101844431,
+        102049681,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899475,
-    "wof:geomhash":"e9ac1b08709c908435e2a2e17aa2d021",
+    "wof:geomhash":"5a9525e62de2f10419255a90ad0cdd39",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049679,
+            "county_id":102049681,
+            "localadmin_id":1108838181,
+            "locality_id":101844431,
             "neighbourhood_id":85898263,
             "region_id":85681655,
             "venue_id":1092074123
         }
     ],
     "wof:id":1092074123,
-    "wof:lastmodified":1473984052,
+    "wof:lastmodified":1496906426,
     "wof:name":"Gasthof Sandwirt",
     "wof:parent_id":85898263,
     "wof:placetype":"venue",

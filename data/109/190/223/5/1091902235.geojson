@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6162443161,47.2575798035,9.6162443161,47.2575798035",
     "geom:latitude":47.25758,
     "geom:longitude":9.616244,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892224,
-    "wof:geomhash":"55a650b3ee951d50cac0aacfaa85940c",
+    "wof:geomhash":"0533a69451825176b392d587074821fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091902235
         }
     ],
     "wof:id":1091902235,
-    "wof:lastmodified":1473983724,
+    "wof:lastmodified":1496900924,
     "wof:name":"Nikolic Draga",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

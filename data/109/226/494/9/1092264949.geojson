@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4642524719,48.2628669739,16.4642524719,48.2628669739",
     "geom:latitude":48.262867,
     "geom:longitude":16.464252,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898301,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908382,
-    "wof:geomhash":"dd9c132e602838bd94454a4a2bf40a9e",
+    "wof:geomhash":"c53845aa62232571736c16f7906a6036",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898301,
             "region_id":85681667,
             "venue_id":1092264949
         }
     ],
     "wof:id":1092264949,
-    "wof:lastmodified":1473984398,
+    "wof:lastmodified":1496902898,
     "wof:name":"L\u00dcTZE GESMBH",
     "wof:parent_id":85898301,
     "wof:placetype":"venue",

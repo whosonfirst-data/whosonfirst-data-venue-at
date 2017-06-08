@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.796423912,47.3231735229,12.796423912,47.3231735229",
     "geom:latitude":47.323174,
     "geom:longitude":12.796424,
@@ -23,17 +24,34 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        101787923,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gZbCIP6OO0Cyt5I6ssd2O_47.323174_12.796424@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900291,
-    "wof:geomhash":"bb135fc35b327774bdd31addb2242def",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc960d03f69d67c4f21d398add16b737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":101787923,
+            "region_id":85681681,
+            "venue_id":1092091021
+        }
+    ],
     "wof:id":1092091021,
-    "wof:lastmodified":1473983466,
+    "wof:lastmodified":1496896441,
     "wof:name":"Stadtgemeinde Zell am See",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

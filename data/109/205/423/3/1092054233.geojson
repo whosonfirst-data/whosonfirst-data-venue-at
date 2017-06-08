@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.116271019,47.855342865,13.116271019,47.855342865",
     "geom:latitude":47.855343,
     "geom:longitude":13.116271,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85904341,
-        102049799
+        102191581,
+        1108837145,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473898671,
-    "wof:geomhash":"d1d9ae91c227ba6d67b56254c74a6c15",
+    "wof:geomhash":"5f536fa8bbf63907fbf144fd309a7bf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837145,
+            "locality_id":-1,
             "neighbourhood_id":85904341,
             "region_id":85681681,
             "venue_id":1092054233
         }
     ],
     "wof:id":1092054233,
-    "wof:lastmodified":1473984151,
+    "wof:lastmodified":1496895315,
     "wof:name":"\u00f6lhydraulik Garstenauer GmbH",
     "wof:parent_id":85904341,
     "wof:placetype":"venue",

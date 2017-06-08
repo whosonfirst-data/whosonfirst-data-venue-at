@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7112607956,47.1053771973,15.7112607956,47.1053771973",
     "geom:latitude":47.105377,
     "geom:longitude":15.711261,
@@ -23,17 +24,34 @@
     "sg:province":"Steiermark",
     "sg:website":"http://www.weiz.volksbank.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838867,
+        85632785,
+        101789137,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n3pUWrDh2350Is9CVfrHD_47.105377_15.711261@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473915502,
-    "wof:geomhash":"bfa8c4fd026443337c141a4f2e81f562",
-    "wof:hierarchy":[],
+    "wof:geomhash":"388c99277a2e356d16a63985669b2f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838867,
+            "locality_id":101789137,
+            "region_id":85681687,
+            "venue_id":1092421189
+        }
+    ],
     "wof:id":1092421189,
-    "wof:lastmodified":1473983557,
+    "wof:lastmodified":1496909713,
     "wof:name":"Volksbank f\u00fcr den Bezirk Weiz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

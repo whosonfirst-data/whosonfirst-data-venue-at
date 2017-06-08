@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7539634705,48.3509368896,15.7539634705,48.3509368896",
     "geom:latitude":48.350937,
     "geom:longitude":15.753963,
@@ -23,17 +24,34 @@
     "sg:postcode":"3133",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836849,
+        85632785,
+        101783341,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65ZO2l6aD4TsKY1QgEsD3h_48.350937_15.753963@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911442,
-    "wof:geomhash":"f9c70eaa1acf99a39c4abea3d8f7ecf9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68bbf376b2e01d80d4339a1a7fc43566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836849,
+            "locality_id":101783341,
+            "region_id":85681671,
+            "venue_id":1092335735
+        }
+    ],
     "wof:id":1092335735,
-    "wof:lastmodified":1473984727,
+    "wof:lastmodified":1496893046,
     "wof:name":"Massagefachinstitut Elfriede Hutterer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

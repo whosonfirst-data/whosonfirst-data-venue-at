@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.055978775,48.3314743042,16.055978775,48.3314743042",
     "geom:latitude":48.331474,
     "geom:longitude":16.055979,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836869,
+        85632785,
+        101833267,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vZmhtoLF66sXquRTmZ8N3_48.331474_16.055979@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914522,
-    "wof:geomhash":"4e100bd842af1f567d79cfd63347bcd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcf780a9bf0f094a718f413d4b376253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836869,
+            "locality_id":101833267,
+            "region_id":85681671,
+            "venue_id":1092402615
+        }
+    ],
     "wof:id":1092402615,
-    "wof:lastmodified":1473983862,
+    "wof:lastmodified":1496893153,
     "wof:name":"E & A Public Relations GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

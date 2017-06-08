@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7379770279,47.0179710388,15.7379770279,47.0179710388",
     "geom:latitude":47.017971,
     "geom:longitude":15.737977,
@@ -31,17 +32,33 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839245,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63g7Z8cim441vTEVliNVc5_47.017971_15.737977@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898624,
-    "wof:geomhash":"49ad1a5007c5bbf7fab3e6c0629e2f71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db26b975304bfef1d85ea3c33aac1019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839245,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092052959
+        }
+    ],
     "wof:id":1092052959,
-    "wof:lastmodified":1473983877,
+    "wof:lastmodified":1496912158,
     "wof:name":"STEINER GMBH & CO. KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

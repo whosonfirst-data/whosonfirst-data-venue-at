@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2361125946,46.627696991,14.2361125946,46.627696991",
     "geom:latitude":46.627697,
     "geom:longitude":14.236113,
@@ -23,10 +24,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898271,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +37,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887812,
-    "wof:geomhash":"918d2a6b7c974c2f2919dc842cda9cb5",
+    "wof:geomhash":"b7e788d46bea036ae8af43054a0da672",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":-1,
             "neighbourhood_id":85898271,
             "region_id":85681655,
             "venue_id":1091807753
         }
     ],
     "wof:id":1091807753,
-    "wof:lastmodified":1473983973,
+    "wof:lastmodified":1496906409,
     "wof:name":"Versehrtensportgruppe Klagenfurt",
     "wof:parent_id":85898271,
     "wof:placetype":"venue",

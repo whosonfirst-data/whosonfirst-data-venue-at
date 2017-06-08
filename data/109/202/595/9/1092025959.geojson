@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.697385788,46.8600997925,15.697385788,46.8600997925",
     "geom:latitude":46.8601,
     "geom:longitude":15.697386,
@@ -24,17 +25,33 @@
     "sg:province":"Steiermark",
     "sg:website":"scheucherfleisch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839253,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68PuVuoAeTxD2x8OLYy56k_46.860100_15.697386@1306268259"
     },
     "wof:country":"AT",
     "wof:created":1473897561,
-    "wof:geomhash":"24bc1f9ea265b40de96661c4001f2415",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43f06d7328ee644415c742a6662f4ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839253,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092025959
+        }
+    ],
     "wof:id":1092025959,
-    "wof:lastmodified":1473984539,
+    "wof:lastmodified":1496912193,
     "wof:name":"Scheucher - Fleisch GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

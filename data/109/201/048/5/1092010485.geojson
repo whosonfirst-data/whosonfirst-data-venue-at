@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8192396164,47.3946495056,11.8192396164,47.3946495056",
     "geom:latitude":47.39465,
     "geom:longitude":11.81924,
@@ -33,17 +34,33 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837653,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VbH8iIVMLNVrEqhwat10z_47.394650_11.819240@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896965,
-    "wof:geomhash":"f0c28bbe2f12fb09f80b8351b6d3dde6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a83470b0de930a27a759422b0447d788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837653,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092010485
+        }
+    ],
     "wof:id":1092010485,
-    "wof:lastmodified":1473983308,
+    "wof:lastmodified":1496898998,
     "wof:name":"Elektro Brunner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

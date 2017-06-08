@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3910169601,48.5635643005,14.3910169601,48.5635643005",
     "geom:latitude":48.563564,
     "geom:longitude":14.391017,
@@ -31,17 +32,33 @@
         "planer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836401,
+        85632785,
+        102049881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19vGsBYhGXmfJVhKwIAynP_48.563564_14.391017@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913674,
-    "wof:geomhash":"6adcaa10a264f5d3fc633edf981454b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6b97c43529d284cb40d2b8ae9469838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836401,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092384885
+        }
+    ],
     "wof:id":1092384885,
-    "wof:lastmodified":1473984504,
+    "wof:lastmodified":1496890906,
     "wof:name":"Franz Handlbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

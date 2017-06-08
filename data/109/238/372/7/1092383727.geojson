@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.210018158,46.6271095276,14.210018158,46.6271095276",
     "geom:latitude":46.62711,
     "geom:longitude":14.210018,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838175,
+        85632785,
+        101754115,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YQbVUh1ae7p4g0yZpfh2u_46.627110_14.210018@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913627,
-    "wof:geomhash":"05eaef9a6006ff51a45b76741c3ebe93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0301284f03fa14cf1c0f4eaf220f4175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838175,
+            "locality_id":101754115,
+            "region_id":85681655,
+            "venue_id":1092383727
+        }
+    ],
     "wof:id":1092383727,
-    "wof:lastmodified":1473984187,
+    "wof:lastmodified":1496906401,
     "wof:name":"Pizzeria Nautik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

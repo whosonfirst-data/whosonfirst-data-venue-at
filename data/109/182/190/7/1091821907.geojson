@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0129966736,48.2548522949,16.0129966736,48.2548522949",
     "geom:latitude":48.254852,
     "geom:longitude":16.012997,
@@ -32,17 +33,34 @@
         "balcony"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835869,
+        85632785,
+        101784611,
+        102049879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JS6tMDcoTZgtRaFS62Vcc_48.254852_16.012997@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888433,
-    "wof:geomhash":"a24307bb74a5ecf00407febdbdb35e9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"971ccf02e67e9e3d4be785a90cb3f902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835869,
+            "locality_id":101784611,
+            "region_id":85681671,
+            "venue_id":1091821907
+        }
+    ],
     "wof:id":1091821907,
-    "wof:lastmodified":1473983819,
+    "wof:lastmodified":1496888713,
     "wof:name":"Erich Staffenberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

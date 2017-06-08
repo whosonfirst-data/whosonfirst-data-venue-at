@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.02302742,48.1631088257,14.02302742,48.1631088257",
     "geom:latitude":48.163109,
     "geom:longitude":14.023027,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"winkler-stein.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vWv0a62cKC1oFtgpqpZQI_48.163109_14.023027@1306268246"
     },
     "wof:country":"AT",
     "wof:created":1473893725,
-    "wof:geomhash":"ce4de868aff1e611d1d14c63682b12b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29f0d8f22df4dba17fc214b74a53da13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1091935057
+        }
+    ],
     "wof:id":1091935057,
-    "wof:lastmodified":1473984386,
+    "wof:lastmodified":1496882000,
     "wof:name":"Winkler Reinhard Steinmetzmeister GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

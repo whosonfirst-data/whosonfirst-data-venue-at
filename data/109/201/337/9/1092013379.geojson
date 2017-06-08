@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4747371674,48.3028297424,15.4747371674,48.3028297424",
     "geom:latitude":48.30283,
     "geom:longitude":15.474737,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835417,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sXkaA6JOubFxczBc9g1Dy_48.302830_15.474737@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897080,
-    "wof:geomhash":"9fd3e9a7f9ee24fcfa246f660b429a12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdaff45bdaaec2db381717f3fd148245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835417,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092013379
+        }
+    ],
     "wof:id":1092013379,
-    "wof:lastmodified":1473983553,
+    "wof:lastmodified":1496886543,
     "wof:name":"Christian Kitzw\u00f6gerer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

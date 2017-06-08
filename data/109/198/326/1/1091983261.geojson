@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6329832077,47.2800827026,9.6329832077,47.2800827026",
     "geom:latitude":47.280083,
     "geom:longitude":9.632983,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895824,
-    "wof:geomhash":"7590794a43899eeaa4c03f2b9148af3c",
+    "wof:geomhash":"d0b3d2ff07d28b7d6469d2727b8cf3b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1091983261
         }
     ],
     "wof:id":1091983261,
-    "wof:lastmodified":1473983679,
+    "wof:lastmodified":1496901639,
     "wof:name":"Frick Paul Dipl-Ing",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

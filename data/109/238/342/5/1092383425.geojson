@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9195652008,47.984085083,12.9195652008,47.984085083",
     "geom:latitude":47.984085,
     "geom:longitude":12.919565,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837119,
+        85632785,
+        101833103,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gUHoCu0U3egzlFRXJiunc_47.984085_12.919565@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913615,
-    "wof:geomhash":"428f6b791a4dbe5fe3f033a7af9d9816",
-    "wof:hierarchy":[],
+    "wof:geomhash":"159c5c3a7fc6c01351a6dd7797e95989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837119,
+            "locality_id":101833103,
+            "region_id":85681681,
+            "venue_id":1092383425
+        }
+    ],
     "wof:id":1092383425,
-    "wof:lastmodified":1473984177,
+    "wof:lastmodified":1496895243,
     "wof:name":"Pizzeria Helio polis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

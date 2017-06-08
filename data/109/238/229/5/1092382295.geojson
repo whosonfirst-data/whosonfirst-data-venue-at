@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.5652446747,46.7262611389,13.5652446747,46.7262611389",
     "geom:latitude":46.726261,
     "geom:longitude":13.565245,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838355,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27u0UVzir1AP7FnDc4AZ1I_46.726261_13.565245@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913543,
-    "wof:geomhash":"96b7a9f0f5caff519f87c8b787641910",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00d2065d177f64158aa570219afa5303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838355,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092382295
+        }
+    ],
     "wof:id":1092382295,
-    "wof:lastmodified":1473983912,
+    "wof:lastmodified":1496907460,
     "wof:name":"Fischerhof Astrid Wassertheurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

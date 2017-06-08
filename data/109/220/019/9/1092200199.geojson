@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3009986877,47.8464317322,16.3009986877,47.8464317322",
     "geom:latitude":47.846432,
     "geom:longitude":16.300999,
@@ -32,17 +33,34 @@
         "database"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835911,
+        85632785,
+        101833127,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GhcoHq1WFqcUgKh9NtHwl_47.846432_16.300999@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905462,
-    "wof:geomhash":"5f6ded8a2a0f029fe412711a01346886",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b8bfc517d402734d32ce357d1c88858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835911,
+            "locality_id":101833127,
+            "region_id":85681671,
+            "venue_id":1092200199
+        }
+    ],
     "wof:id":1092200199,
-    "wof:lastmodified":1473983334,
+    "wof:lastmodified":1496891952,
     "wof:name":"Schwaab Datenverarbeitungs Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8094758987,48.206489563,13.8094758987,48.206489563",
     "geom:latitude":48.20649,
     "geom:longitude":13.809476,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"www.zeileis.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        101784571,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Rc2y157XJzGzXGXzJnzIv_48.206490_13.809476@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913401,
-    "wof:geomhash":"241b7f3e0721c1368d09d3b30e48be5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c1146062439f211e89facaaa9f45f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":101784571,
+            "region_id":85681677,
+            "venue_id":1092378839
+        }
+    ],
     "wof:id":1092378839,
-    "wof:lastmodified":1473985294,
+    "wof:lastmodified":1496885285,
     "wof:name":"Institut Zeileis GmbH & Co KG Physikalische Medizin & Rehabilitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

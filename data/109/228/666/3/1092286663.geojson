@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7513122559,47.951751709,16.7513122559,47.951751709",
     "geom:latitude":47.951752,
     "geom:longitude":16.751312,
@@ -23,17 +24,34 @@
     "sg:postcode":"7092",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108839433,
+        85632785,
+        101785767,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TexSHiz3pmAJe6q4aahpc_47.951752_16.751312@1306268297"
     },
     "wof:country":"AT",
     "wof:created":1473909312,
-    "wof:geomhash":"ffeb323dc2a5588c23fc81708e8f99e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4c915985b1217b4bfa0580275374258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108839433,
+            "locality_id":101785767,
+            "region_id":85681651,
+            "venue_id":1092286663
+        }
+    ],
     "wof:id":1092286663,
-    "wof:lastmodified":1473984718,
+    "wof:lastmodified":1496914225,
     "wof:name":"Allgas-Volkmann KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

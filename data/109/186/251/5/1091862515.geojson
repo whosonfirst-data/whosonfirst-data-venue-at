@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.984046936,47.8155899048,12.984046936,47.8155899048",
     "geom:latitude":47.81559,
     "geom:longitude":12.984047,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898521,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        101913413,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473890322,
-    "wof:geomhash":"abd05fc75adb123b590d80c5228ecf08",
+    "wof:geomhash":"ee8fd20bba28dcbec206153b6fd75bf5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101913413,
             "neighbourhood_id":85898521,
             "region_id":85681681,
             "venue_id":1091862515
         }
     ],
     "wof:id":1091862515,
-    "wof:lastmodified":1473983952,
+    "wof:lastmodified":1496895745,
     "wof:name":"Europaglas Hilmar Haebler",
     "wof:parent_id":85898521,
     "wof:placetype":"venue",

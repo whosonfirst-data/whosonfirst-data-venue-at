@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.387550354,48.748085022,15.387550354,48.748085022",
     "geom:latitude":48.748085,
     "geom:longitude":15.38755,
@@ -32,17 +33,33 @@
         "systems"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836195,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f7DTEgjhymlNGVWzCY3Uo_48.748085_15.387550@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905358,
-    "wof:geomhash":"4f879de29f6daba14414d2b408faee35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef6eb16ff4ac877d309214d342e3cb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836195,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092197813
+        }
+    ],
     "wof:id":1092197813,
-    "wof:lastmodified":1473985095,
+    "wof:lastmodified":1496889946,
     "wof:name":"System Waschtechnik GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

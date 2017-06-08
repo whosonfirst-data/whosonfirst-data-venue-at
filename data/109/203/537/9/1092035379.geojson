@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2771997452,47.2334327698,11.2771997452,47.2334327698",
     "geom:latitude":47.233433,
     "geom:longitude":11.2772,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897947,
-    "wof:geomhash":"470558708fe18471052a199288a68720",
+    "wof:geomhash":"d4be59c06161b4f25e742554008f3174",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092035379
         }
     ],
     "wof:id":1092035379,
-    "wof:lastmodified":1473984353,
+    "wof:lastmodified":1496898039,
     "wof:name":"Hauptschule",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

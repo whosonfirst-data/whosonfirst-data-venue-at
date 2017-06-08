@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5065345764,47.2888679504,11.5065345764,47.2888679504",
     "geom:latitude":47.288868,
     "geom:longitude":11.506535,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897861,
-    "wof:geomhash":"d48792c6f5da7f811a36b641de66ea60",
+    "wof:geomhash":"42e003a8d906ea2a1d89b417150710b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092033427
         }
     ],
     "wof:id":1092033427,
-    "wof:lastmodified":1473984028,
+    "wof:lastmodified":1496898010,
     "wof:name":"Tschugg Peter",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0165119171,47.5508384705,16.0165119171,47.5508384705",
     "geom:latitude":47.550838,
     "geom:longitude":16.016512,
@@ -24,17 +25,33 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.topspin-wallner.bus.at/index.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835009,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h0XG3nryCD1as7zL8wXmL_47.550838_16.016512@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911609,
-    "wof:geomhash":"56fc7467b5cc77a0a35bc568d12fe58a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6443c978a8ed0c489b2161eb737c9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835009,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092339489
+        }
+    ],
     "wof:id":1092339489,
-    "wof:lastmodified":1473985320,
+    "wof:lastmodified":1496884187,
     "wof:name":"Reiseb\u00fcro Top-Spin / Wallner Reisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

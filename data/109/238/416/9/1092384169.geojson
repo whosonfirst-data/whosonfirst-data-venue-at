@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.0693044662,47.3065223694,11.0693044662,47.3065223694",
     "geom:latitude":47.306522,
     "geom:longitude":11.069304,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        101834219,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dRlzdGCYtIsGAdilY9tPB_47.306522_11.069304@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913645,
-    "wof:geomhash":"0eb49afe76ba2d52b3acad9940548e71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77f8112a969ae435541593f58e40a563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":101834219,
+            "region_id":85681661,
+            "venue_id":1092384169
+        }
+    ],
     "wof:id":1092384169,
-    "wof:lastmodified":1473984281,
+    "wof:lastmodified":1496898829,
     "wof:name":"Pizzeria Vabene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

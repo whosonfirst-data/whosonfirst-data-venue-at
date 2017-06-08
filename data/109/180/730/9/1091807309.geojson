@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4135332108,48.0431976318,14.4135332108,48.0431976318",
     "geom:latitude":48.043198,
     "geom:longitude":14.413533,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        101913443,
+        102049813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bEIEpdeguVvDHCh5FiWSp_48.043198_14.413533@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473887785,
-    "wof:geomhash":"d7b57df1e9848d129bdefd87ae248a19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61839e9b623a056927d17014e1360ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913443,
+            "region_id":85681677,
+            "venue_id":1091807309
+        }
+    ],
     "wof:id":1091807309,
-    "wof:lastmodified":1473983900,
+    "wof:lastmodified":1496881773,
     "wof:name":"Gesellschaft f Automatische Systeme GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

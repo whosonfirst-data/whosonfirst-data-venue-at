@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.3845748901,47.2004432678,15.3845748901,47.2004432678",
     "geom:latitude":47.200443,
     "geom:longitude":15.384575,
@@ -31,17 +32,33 @@
         "dredging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839155,
+        85632785,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J8q6LikvQIe24PCuw95Fo_47.200443_15.384575@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897088,
-    "wof:geomhash":"673440d8c896657d2fbc2c9b2d16a770",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f7a387713aacbd899079a0e4aacb00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839155,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092013591
+        }
+    ],
     "wof:id":1092013591,
-    "wof:lastmodified":1473983609,
+    "wof:lastmodified":1496911596,
     "wof:name":"Transporte & Erdbewegungen Josef Krinner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3299865723,46.6104660034,14.3299865723,46.6104660034",
     "geom:latitude":46.610466,
     "geom:longitude":14.329987,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473903853,
-    "wof:geomhash":"eb80e1dd983010931a2dd8011f680fec",
+    "wof:geomhash":"5ba22dcf013abbe158864fa93bcce90f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1092164003
         }
     ],
     "wof:id":1092164003,
-    "wof:lastmodified":1473984054,
+    "wof:lastmodified":1496905758,
     "wof:name":"Fachhochschule Technikum K\u00e4rnten",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

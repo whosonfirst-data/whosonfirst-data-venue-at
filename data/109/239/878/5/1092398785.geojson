@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.50689888,47.0905838013,15.50689888,47.0905838013",
     "geom:latitude":47.090584,
     "geom:longitude":15.506899,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898571,
-        102049741
+        102191581,
+        1108839185,
+        85632785,
+        102049741,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914360,
-    "wof:geomhash":"fe3ba4710ab9850ac2de3cd7f9487a93",
+    "wof:geomhash":"c6f663a41b5c6523692a308ea640817c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049741,
+            "localadmin_id":1108839185,
+            "locality_id":-1,
             "neighbourhood_id":85898571,
             "region_id":85681687,
             "venue_id":1092398785
         }
     ],
     "wof:id":1092398785,
-    "wof:lastmodified":1473984908,
+    "wof:lastmodified":1496913092,
     "wof:name":"Harter Christine",
     "wof:parent_id":85898571,
     "wof:placetype":"venue",

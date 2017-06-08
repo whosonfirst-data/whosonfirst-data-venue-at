@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2111206055,48.0048027039,16.2111206055,48.0048027039",
     "geom:latitude":48.004803,
     "geom:longitude":16.211121,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909204,
-    "wof:geomhash":"600481df31f5c5f1c69260a6d9a6a1d1",
+    "wof:geomhash":"c21f01471f9ee65b5be59cd8581c7ae8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092283797
         }
     ],
     "wof:id":1092283797,
-    "wof:lastmodified":1473984117,
+    "wof:lastmodified":1496886072,
     "wof:name":"DOMO Trading Modrzejewska",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

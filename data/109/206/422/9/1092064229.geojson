@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8714790344,47.4040641785,9.8714790344,47.4040641785",
     "geom:latitude":47.404064,
     "geom:longitude":9.871479,
@@ -23,17 +24,33 @@
     "sg:postcode":"6866",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837889,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77CPDZ5PuLtv4ZEOKdCAaI_47.404064_9.871479@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899072,
-    "wof:geomhash":"581b9fe881a7766194d07894ae271042",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83ffeede03ab002246f80a9165f22c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837889,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092064229
+        }
+    ],
     "wof:id":1092064229,
-    "wof:lastmodified":1473984150,
+    "wof:lastmodified":1496900511,
     "wof:name":"Fischteich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

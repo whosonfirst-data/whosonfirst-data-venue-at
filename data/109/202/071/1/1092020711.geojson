@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8129863739,46.6312484741,13.8129863739,46.6312484741",
     "geom:latitude":46.631248,
     "geom:longitude":13.812986,
@@ -24,10 +25,12 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898255,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897370,
-    "wof:geomhash":"fef5a32f0e75d704d7c8a3792c11fb6c",
+    "wof:geomhash":"5ff4d1a5fe0b15044da31a06273810cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898255,
             "region_id":85681655,
             "venue_id":1092020711
         }
     ],
     "wof:id":1092020711,
-    "wof:lastmodified":1473983490,
+    "wof:lastmodified":1496906161,
     "wof:name":"Hensel-Kaserne",
     "wof:parent_id":85898255,
     "wof:placetype":"venue",

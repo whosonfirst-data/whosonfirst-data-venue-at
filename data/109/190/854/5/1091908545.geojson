@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.280957222,48.3132095337,14.280957222,48.3132095337",
     "geom:latitude":48.31321,
     "geom:longitude":14.280957,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898453,
-        102049853
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892489,
-    "wof:geomhash":"3a178a0ab629fcfeb7948d99973e5b73",
+    "wof:geomhash":"65d0bf71285a343438034e56f78322d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898453,
             "region_id":85681677,
             "venue_id":1091908545
         }
     ],
     "wof:id":1091908545,
-    "wof:lastmodified":1473985132,
+    "wof:lastmodified":1496914403,
     "wof:name":"Bioline HandelsgesmbH",
     "wof:parent_id":85898453,
     "wof:placetype":"venue",

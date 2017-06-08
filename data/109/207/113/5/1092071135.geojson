@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.1776485443,48.3322982788,14.1776485443,48.3322982788",
     "geom:latitude":48.332298,
     "geom:longitude":14.177649,
@@ -24,10 +25,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85904371,
-        102049847
+        102191581,
+        1108836395,
+        85632785,
+        101784615,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899353,
-    "wof:geomhash":"57d69f304a2628a56d5d5cc2bc804dad",
+    "wof:geomhash":"2eb10bec755774316853b9e91d883391",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049881,
+            "localadmin_id":1108836395,
+            "locality_id":101784615,
             "neighbourhood_id":85904371,
             "region_id":85681677,
             "venue_id":1092071135
         }
     ],
     "wof:id":1092071135,
-    "wof:lastmodified":1473983542,
+    "wof:lastmodified":1496890887,
     "wof:name":"Gasthaus Zur Post",
     "wof:parent_id":85904371,
     "wof:placetype":"venue",

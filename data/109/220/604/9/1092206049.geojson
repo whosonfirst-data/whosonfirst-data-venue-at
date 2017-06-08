@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.1948165894,48.5980834961,15.1948165894,48.5980834961",
     "geom:latitude":48.598083,
     "geom:longitude":15.194817,
@@ -32,17 +33,33 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836883,
+        85632785,
+        102049895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_302rDE86nIAI2TSjeLySkS_48.598083_15.194817@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905788,
-    "wof:geomhash":"702af73762dd9addc5a54519a7b3780f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7c6e6ce452ef6078cc4d50d9685dbe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836883,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092206049
+        }
+    ],
     "wof:id":1092206049,
-    "wof:lastmodified":1473984702,
+    "wof:lastmodified":1496893253,
     "wof:name":"SWIETELSKY BAU GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

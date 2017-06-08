@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.6799926758,47.1830558777,14.6799926758,47.1830558777",
     "geom:latitude":47.183056,
     "geom:longitude":14.679993,
@@ -31,17 +32,34 @@
         "transport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839395,
+        85632785,
+        101834249,
+        102049743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sYoTszhXTjQJKK7PRpaiB_47.183056_14.679993@1306268255"
     },
     "wof:country":"AT",
     "wof:created":1473896399,
-    "wof:geomhash":"97f33f7431746c5d499b456ed6bc3870",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddd8b24e240cb24314b13288233c8b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049743,
+            "localadmin_id":1108839395,
+            "locality_id":101834249,
+            "region_id":85681687,
+            "venue_id":1091996731
+        }
+    ],
     "wof:id":1091996731,
-    "wof:lastmodified":1473984682,
+    "wof:lastmodified":1496913907,
     "wof:name":"Zechner Transport-Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

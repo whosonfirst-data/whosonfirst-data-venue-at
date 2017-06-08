@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1208343506,47.8742599487,16.1208343506,47.8742599487",
     "geom:latitude":47.87426,
     "geom:longitude":16.120834,
@@ -23,17 +24,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"http://www.athleticon-austria.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834833,
+        85632785,
+        101785619,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EzJvHoEUiRjgJ9hVncZrw_47.874260_16.120834@1306268253"
     },
     "wof:country":"AT",
     "wof:created":1473895763,
-    "wof:geomhash":"c9f4f52c513b9baff62343dbe5ca2fac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aea8a99cf335aed845a398e9116c628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834833,
+            "locality_id":101785619,
+            "region_id":85681671,
+            "venue_id":1091981639
+        }
+    ],
     "wof:id":1091981639,
-    "wof:lastmodified":1473983400,
+    "wof:lastmodified":1496883587,
     "wof:name":"Athleticon Handelsgesellschaft m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

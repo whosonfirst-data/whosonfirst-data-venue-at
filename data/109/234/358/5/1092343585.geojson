@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7673549652,47.9318466187,13.7673549652,47.9318466187",
     "geom:latitude":47.931847,
     "geom:longitude":13.767355,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"back-forward.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835151,
+        85632785,
+        101833139,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ynP19BrxXzP5vZOVUZ8bG_47.931847_13.767355@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911784,
-    "wof:geomhash":"27aa8aa269877da408a6769357b8015a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d3347e1df6dcb5a6cb7a61c25b326b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835151,
+            "locality_id":101833139,
+            "region_id":85681677,
+            "venue_id":1092343585
+        }
+    ],
     "wof:id":1092343585,
-    "wof:lastmodified":1473983974,
+    "wof:lastmodified":1496885106,
     "wof:name":"Back-Forward Umwelttechnik Markus Ellmauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

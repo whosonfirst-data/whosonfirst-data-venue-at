@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6177768707,48.1736450195,16.6177768707,48.1736450195",
     "geom:latitude":48.173645,
     "geom:longitude":16.617777,
@@ -31,17 +32,33 @@
         "agriculture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836641,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gvy2bhSnKCjM8tXN6y7mv_48.173645_16.617777@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905083,
-    "wof:geomhash":"3b6b92cd2ff8a8bdbae5b6aa4aa55dfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0ce7bb4142d3ede3c0f4e159df544ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836641,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092191339
+        }
+    ],
     "wof:id":1092191339,
-    "wof:lastmodified":1473983629,
+    "wof:lastmodified":1496892135,
     "wof:name":"SAATZUCHT DONAU GES.MBH & CO KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

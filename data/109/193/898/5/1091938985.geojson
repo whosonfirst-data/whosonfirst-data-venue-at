@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2666664124,48.181968689,16.2666664124,48.181968689",
     "geom:latitude":48.181969,
     "geom:longitude":16.266666,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893892,
-    "wof:geomhash":"b6663ffb758fbcfc44af4a2163b523f6",
+    "wof:geomhash":"baca1f2cc836556ebdce076eaeaf6ab0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1091938985
         }
     ],
     "wof:id":1091938985,
-    "wof:lastmodified":1473985082,
+    "wof:lastmodified":1496928553,
     "wof:name":"WWV Partner Steuerberatung GmbH",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

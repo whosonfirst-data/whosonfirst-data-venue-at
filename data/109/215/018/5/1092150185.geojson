@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3639144897,48.2107048035,16.3639144897,48.2107048035",
     "geom:latitude":48.210705,
     "geom:longitude":16.363914,
@@ -24,13 +25,14 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898679,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898749,
-        85898679
+        85681667,
+        85898749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +40,15 @@
     },
     "wof:country":"AT",
     "wof:created":1473903221,
-    "wof:geomhash":"ec0f7dd82a195d9fcf3588552530950e",
+    "wof:geomhash":"bf18c6aabca78edb52e05e7e40997f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898749,
+            "neighbourhood_id":85898679,
             "region_id":85681667,
             "venue_id":1092150185
         },
@@ -53,16 +56,17 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
-            "neighbourhood_id":85898679,
+            "neighbourhood_id":85898749,
             "region_id":85681667,
             "venue_id":1092150185
         }
     ],
     "wof:id":1092150185,
-    "wof:lastmodified":1473983345,
+    "wof:lastmodified":1496903704,
     "wof:name":"Gemeinschaft Emmanuel \u00f6sterreich",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
     "wof:superseded_by":[],

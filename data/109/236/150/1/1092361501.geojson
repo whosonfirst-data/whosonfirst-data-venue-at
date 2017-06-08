@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1602430344,47.3375205994,10.1602430344,47.3375205994",
     "geom:latitude":47.337521,
     "geom:longitude":10.160243,
@@ -23,17 +24,33 @@
     "sg:postcode":"6993",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838011,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AkCZQ6BMvBHl82WBhH4ye_47.337521_10.160243@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912580,
-    "wof:geomhash":"e10fb7dc62e1b1b216e8a604038d0268",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9079225620a2875209c63f55f9fbdd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838011,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092361501
+        }
+    ],
     "wof:id":1092361501,
-    "wof:lastmodified":1473983620,
+    "wof:lastmodified":1496901523,
     "wof:name":"Berghaus Sonnenuhr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

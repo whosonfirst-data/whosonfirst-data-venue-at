@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6019382477,47.2412185669,9.6019382477,47.2412185669",
     "geom:latitude":47.241219,
     "geom:longitude":9.601938,
@@ -25,10 +26,13 @@
     "sg:website":"www.autowaeger.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910482,
-    "wof:geomhash":"2c31500014e50297a6032b10173cb555",
+    "wof:geomhash":"28ac3b893817d451109c7c8cf89ee102",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092312525
         }
     ],
     "wof:id":1092312525,
-    "wof:lastmodified":1473983930,
+    "wof:lastmodified":1496900926,
     "wof:name":"Auto W\u00e4ger",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3453264236,46.6068916321,14.3453264236,46.6068916321",
     "geom:latitude":46.606892,
     "geom:longitude":14.345326,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898257,
-        102049681
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892656,
-    "wof:geomhash":"d13f029c19cd12de7e336e2fb0c1be1b",
+    "wof:geomhash":"0e890e7173026fee34001a3d4e21cc4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049681,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898257,
             "region_id":85681655,
             "venue_id":1091912477
         }
     ],
     "wof:id":1091912477,
-    "wof:lastmodified":1473983529,
+    "wof:lastmodified":1496905597,
     "wof:name":"asis.at Entwicklungs- und DienstleistungsgmbH",
     "wof:parent_id":85898257,
     "wof:placetype":"venue",

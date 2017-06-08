@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7788448334,47.1712989807,15.7788448334,47.1712989807",
     "geom:latitude":47.171299,
     "geom:longitude":15.778845,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838895,
+        85632785,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Of95bibsHeXn3EylWndGe_47.171299_15.778845@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906408,
-    "wof:geomhash":"bfe9ecba52dc082dca81d7a1cdb294be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d648dc2ac9504809ecba16fd537fea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838895,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092220279
+        }
+    ],
     "wof:id":1092220279,
-    "wof:lastmodified":1473983389,
+    "wof:lastmodified":1496909917,
     "wof:name":"Darnhofer Johann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

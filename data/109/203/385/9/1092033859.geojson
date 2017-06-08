@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2653503418,48.1818313599,16.2653503418,48.1818313599",
     "geom:latitude":48.181831,
     "geom:longitude":16.26535,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898715,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897880,
-    "wof:geomhash":"675ab279ed40da0e8cb7721c275630cb",
+    "wof:geomhash":"1d20f4f6b686588469152d468192eba2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898715,
             "region_id":85681667,
             "venue_id":1092033859
         }
     ],
     "wof:id":1092033859,
-    "wof:lastmodified":1473984085,
+    "wof:lastmodified":1496927912,
     "wof:name":"Fichtinger Karl",
     "wof:parent_id":85898715,
     "wof:placetype":"venue",

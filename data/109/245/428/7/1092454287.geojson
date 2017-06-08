@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4907169342,48.3834342957,13.4907169342,48.3834342957",
     "geom:latitude":48.383434,
     "geom:longitude":13.490717,
@@ -34,17 +35,33 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836065,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uZutgquhBc8H1eNaboMPb_48.383434_13.490717@1306268321"
     },
     "wof:country":"AT",
     "wof:created":1473917023,
-    "wof:geomhash":"dae352f902dc9d648bf9d29307627227",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9ed2fc7ba69f4940e7ee2ded7d07915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836065,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092454287
+        }
+    ],
     "wof:id":1092454287,
-    "wof:lastmodified":1473983457,
+    "wof:lastmodified":1496889368,
     "wof:name":"Alois Wimmeder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

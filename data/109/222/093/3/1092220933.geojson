@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6452579498,48.3716316223,16.6452579498,48.3716316223",
     "geom:latitude":48.371632,
     "geom:longitude":16.645258,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834871,
+        85632785,
+        101843345,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ihTFuKuD0FDicchY3Pmh6_48.371632_16.645258@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906437,
-    "wof:geomhash":"b28313c683af65a179d5eb11132b4bfc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ebb7b60da4090aa6c2557e46db7cf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108834871,
+            "locality_id":101843345,
+            "region_id":85681671,
+            "venue_id":1092220933
+        }
+    ],
     "wof:id":1092220933,
-    "wof:lastmodified":1473983542,
+    "wof:lastmodified":1496883212,
     "wof:name":"Hoppel & Co GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

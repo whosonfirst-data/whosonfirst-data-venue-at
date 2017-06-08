@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0803565979,47.7202644348,16.0803565979,47.7202644348",
     "geom:latitude":47.720264,
     "geom:longitude":16.080357,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835465,
+        85632785,
+        101786761,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EpcBjJOgNkcty2e6BaiUK_47.720264_16.080357@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892732,
-    "wof:geomhash":"5ec8d9f10f8c6da1b3bc4c02f37c35fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"233aeb1745022bbd35440ebdc76142c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835465,
+            "locality_id":101786761,
+            "region_id":85681671,
+            "venue_id":1091913681
+        }
+    ],
     "wof:id":1091913681,
-    "wof:lastmodified":1473983745,
+    "wof:lastmodified":1496886748,
     "wof:name":"GEDV - G\u00f6schl KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

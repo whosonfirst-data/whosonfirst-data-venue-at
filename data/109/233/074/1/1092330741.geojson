@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5086526871,47.2819480896,11.5086526871,47.2819480896",
     "geom:latitude":47.281948,
     "geom:longitude":11.508653,
@@ -29,10 +30,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911244,
-    "wof:geomhash":"aec9d7ad753db6575a1205a6b2c42b86",
+    "wof:geomhash":"06c6d1301a1af4773894e7e493c7514b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092330741
         }
     ],
     "wof:id":1092330741,
-    "wof:lastmodified":1473983525,
+    "wof:lastmodified":1496898731,
     "wof:name":"BauManagement Oswald & Partner",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

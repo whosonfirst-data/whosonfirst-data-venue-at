@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7398347855,47.2391662598,10.7398347855,47.2391662598",
     "geom:latitude":47.239166,
     "geom:longitude":10.739835,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837533,
+        85632785,
+        101789033,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NzXvm2yZJVwHkOYlzoHkQ_47.239166_10.739835@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913615,
-    "wof:geomhash":"19a6e0bdfeac735bac895a89269c554d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce3b0794794d4eea01f51182721e7661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837533,
+            "locality_id":101789033,
+            "region_id":85681661,
+            "venue_id":1092383439
+        }
+    ],
     "wof:id":1092383439,
-    "wof:lastmodified":1473984183,
+    "wof:lastmodified":1496898340,
     "wof:name":"Pizzeria Il Camino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

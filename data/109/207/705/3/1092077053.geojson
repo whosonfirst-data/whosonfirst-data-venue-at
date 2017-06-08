@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.085316658,47.3158226013,13.085316658,47.3158226013",
     "geom:latitude":47.315823,
     "geom:longitude":13.085317,
@@ -23,17 +24,33 @@
     "sg:postcode":"5622",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837009,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BFjVxg067eC8j1HovL9Wz_47.315823_13.085317@1306268267"
     },
     "wof:country":"AT",
     "wof:created":1473899625,
-    "wof:geomhash":"8b9203d4875d921ee89d9fe3e0533f9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dd5534ae8c1c9fd4ce42cf2daa49abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837009,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092077053
+        }
+    ],
     "wof:id":1092077053,
-    "wof:lastmodified":1473984600,
+    "wof:lastmodified":1496893944,
     "wof:name":"Hackerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.8021497726,47.1729774475,9.8021497726,47.1729774475",
     "geom:latitude":47.172977,
     "geom:longitude":9.80215,
@@ -23,17 +24,34 @@
     "sg:postcode":"6714",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        101827451,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dyvXgLgnKhqErtCjcxQXy_47.172977_9.802150@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890440,
-    "wof:geomhash":"a72cbed59b10ac67f5c8527dcc0d68ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"580ada3bce359c8723ff3160640be608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":101827451,
+            "region_id":85681649,
+            "venue_id":1091865077
+        }
+    ],
     "wof:id":1091865077,
-    "wof:lastmodified":1473984588,
+    "wof:lastmodified":1496901606,
     "wof:name":"Bibliothek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

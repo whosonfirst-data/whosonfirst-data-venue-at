@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4545545578,48.4528198242,13.4545545578,48.4528198242",
     "geom:latitude":48.45282,
     "geom:longitude":13.454555,
@@ -32,17 +33,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836061,
+        85632785,
+        102049877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B9w8tsnXsUFAEJrsRX1qy_48.452820_13.454555@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906419,
-    "wof:geomhash":"80dfdf8581288deab8e84ecfdaf3e1cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbcf88662201a572a8ec55a20d73c495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836061,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092220561
+        }
+    ],
     "wof:id":1092220561,
-    "wof:lastmodified":1473983444,
+    "wof:lastmodified":1496889353,
     "wof:name":"Funktaxi Kapshammer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

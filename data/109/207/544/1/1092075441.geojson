@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1881723404,47.4932250977,13.1881723404,47.4932250977",
     "geom:latitude":47.493225,
     "geom:longitude":13.188172,
@@ -23,17 +24,33 @@
     "sg:postcode":"5450",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837023,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wGgmqhaTLw3tyyjIzhTMc_47.493225_13.188172@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899534,
-    "wof:geomhash":"c03b7eb20d96a08148046985ff584ae8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99d8ccedfc4b1992858edb63cad6270e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837023,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092075441
+        }
+    ],
     "wof:id":1092075441,
-    "wof:lastmodified":1473984273,
+    "wof:lastmodified":1496893984,
     "wof:name":"Gasthof Zaismann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

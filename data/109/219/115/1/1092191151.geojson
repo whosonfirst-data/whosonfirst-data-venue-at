@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4042205811,48.1019821167,15.4042205811,48.1019821167",
     "geom:latitude":48.101982,
     "geom:longitude":15.404221,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836335,
+        85632785,
+        101784557,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eYlbFUQnuIxGRFvzdKn5c_48.101982_15.404221@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905075,
-    "wof:geomhash":"f14930e51615d3ceb11c08ea8995a2c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e0f32ca993a5caf612ed4ee2d395425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836335,
+            "locality_id":101784557,
+            "region_id":85681671,
+            "venue_id":1092191151
+        }
+    ],
     "wof:id":1092191151,
-    "wof:lastmodified":1473983576,
+    "wof:lastmodified":1496890624,
     "wof:name":"RAIFFEISEN-LAGERHAUS KILB REG.GEN.MBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

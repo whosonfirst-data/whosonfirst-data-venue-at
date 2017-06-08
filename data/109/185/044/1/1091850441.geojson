@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4287834167,47.5333404541,12.4287834167,47.5333404541",
     "geom:latitude":47.53334,
     "geom:longitude":12.428783,
@@ -23,17 +24,33 @@
     "sg:postcode":"6380",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837373,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CQ1wQW59pshO0qKxewbnH_47.533340_12.428783@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889737,
-    "wof:geomhash":"d650bbfd23dd27362accc756b40770ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e56d4fab26ffd6d35687048921cdbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837373,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091850441
+        }
+    ],
     "wof:id":1091850441,
-    "wof:lastmodified":1473983379,
+    "wof:lastmodified":1496897378,
     "wof:name":"STRABAG AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

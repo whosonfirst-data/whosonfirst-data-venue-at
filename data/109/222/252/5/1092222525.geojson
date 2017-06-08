@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5264701843,47.8416671753,16.5264701843,47.8416671753",
     "geom:latitude":47.841667,
     "geom:longitude":16.52647,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TGEfOEWwmdiXa5c16k9EX_47.841667_16.526470@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906507,
-    "wof:geomhash":"106320c4278d339c60138b517a436b26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7c4fcdaace1adc4f6f416baeadddc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092222525
+        }
+    ],
     "wof:id":1092222525,
-    "wof:lastmodified":1473983922,
+    "wof:lastmodified":1496908831,
     "wof:name":"Taxi ERDT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

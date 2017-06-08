@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4858503342,47.1031532288,15.4858503342,47.1031532288",
     "geom:latitude":47.103153,
     "geom:longitude":15.48585,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909985,
-    "wof:geomhash":"37e96520d406258f4a953a3c1a57e29c",
+    "wof:geomhash":"1f78e32b94ab54408c7f060638777863",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092301889
         }
     ],
     "wof:id":1092301889,
-    "wof:lastmodified":1473983736,
+    "wof:lastmodified":1496934413,
     "wof:name":"Heyszl Roland Arch Dipl-Ing Dr",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

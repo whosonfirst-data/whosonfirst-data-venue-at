@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.903263092,47.7037734985,16.903263092,47.7037734985",
     "geom:latitude":47.703773,
     "geom:longitude":16.903263,
@@ -23,17 +24,34 @@
     "sg:postcode":"7152",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838615,
+        85632785,
+        101786827,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60IfuOADLTyCH3hTHfUyy1_47.703773_16.903263@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888413,
-    "wof:geomhash":"7a4cf40dd3e205cbcd05228a57e91839",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b93c75f79b0d1428932db840348ff021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838615,
+            "locality_id":101786827,
+            "region_id":85681651,
+            "venue_id":1091821421
+        }
+    ],
     "wof:id":1091821421,
-    "wof:lastmodified":1473983670,
+    "wof:lastmodified":1496908727,
     "wof:name":"Bahnhof Pamhagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

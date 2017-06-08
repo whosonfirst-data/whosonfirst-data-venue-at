@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.603094101,47.2211761475,9.603094101,47.2211761475",
     "geom:latitude":47.221176,
     "geom:longitude":9.603094,
@@ -23,17 +24,34 @@
     "sg:postcode":"6820",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cw6aDY228ZFlTiGqAKIbW_47.221176_9.603094@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891664,
-    "wof:geomhash":"787269f4ade094c9575588f765a59c37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9c2583e533ca7ae5db94f46cb40a890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
+            "region_id":85681649,
+            "venue_id":1091890581
+        }
+    ],
     "wof:id":1091890581,
-    "wof:lastmodified":1473983476,
+    "wof:lastmodified":1496900985,
     "wof:name":"Hallenbad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

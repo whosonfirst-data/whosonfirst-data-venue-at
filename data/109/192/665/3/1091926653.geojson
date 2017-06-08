@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.8554573059,47.2036895752,11.8554573059,47.2036895752",
     "geom:latitude":47.20369,
     "geom:longitude":11.855457,
@@ -23,17 +24,33 @@
     "sg:postcode":"6283",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837875,
+        85632785,
+        102049755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KYn8Lh65pcHabDkTAJANW_47.203690_11.855457@1306268245"
     },
     "wof:country":"AT",
     "wof:created":1473893306,
-    "wof:geomhash":"0015282429e3d7b7e36aa951957bc058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b50d75f27286e655b52142555d1983b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837875,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091926653
+        }
+    ],
     "wof:id":1091926653,
-    "wof:lastmodified":1473984504,
+    "wof:lastmodified":1496900338,
     "wof:name":"Creation Bair GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4068813324,47.2302894592,11.4068813324,47.2302894592",
     "geom:latitude":47.230289,
     "geom:longitude":11.406881,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898611,
-        102049735
+        102191581,
+        1108837687,
+        85632785,
+        101789029,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915248,
-    "wof:geomhash":"2ce174ed804de05daf8e3b428b7e7328",
+    "wof:geomhash":"e4b3a3d1873a1d3c739c135da11dc57c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049735,
+            "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101789029,
             "neighbourhood_id":85898611,
             "region_id":85681661,
             "venue_id":1092415667
         }
     ],
     "wof:id":1092415667,
-    "wof:lastmodified":1473984571,
+    "wof:lastmodified":1496899220,
     "wof:name":"Freiwillige Feuerwehr Igls",
     "wof:parent_id":85898611,
     "wof:placetype":"venue",

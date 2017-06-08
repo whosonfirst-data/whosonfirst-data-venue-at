@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8498706818,48.5516395569,15.8498706818,48.5516395569",
     "geom:latitude":48.55164,
     "geom:longitude":15.849871,
@@ -31,17 +32,33 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835755,
+        85632785,
+        102049899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x16sm2GsGGyWk7NqlNKLy_48.551640_15.849871@1306268311"
     },
     "wof:country":"AT",
     "wof:created":1473913624,
-    "wof:geomhash":"2992252859fb791bfdd80325d20ad385",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba5b52e503fa316eed8c273bb549bd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835755,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092383661
+        }
+    ],
     "wof:id":1092383661,
-    "wof:lastmodified":1473984199,
+    "wof:lastmodified":1496888213,
     "wof:name":"Pizzeria Mario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7785205841,47.3992805481,9.7785205841,47.3992805481",
     "geom:latitude":47.399281,
     "geom:longitude":9.778521,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893907,
-    "wof:geomhash":"8a62000ac8f10573cc7aab8d49432d7b",
+    "wof:geomhash":"0f597c20a231c93673957b83e298adfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1091939397
         }
     ],
     "wof:id":1091939397,
-    "wof:lastmodified":1473985154,
+    "wof:lastmodified":1496900816,
     "wof:name":"Bartl Kurt GesmbH",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

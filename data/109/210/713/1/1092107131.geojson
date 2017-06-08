@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3950386047,47.2581558228,11.3950386047,47.2581558228",
     "geom:latitude":47.258156,
     "geom:longitude":11.395039,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901160,
-    "wof:geomhash":"662904f216ebf33ab1971d3b251fc29d",
+    "wof:geomhash":"8ab45d4e064f821b4bbbf248a796387a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092107131
         }
     ],
     "wof:id":1092107131,
-    "wof:lastmodified":1473984680,
+    "wof:lastmodified":1496899317,
     "wof:name":"Yoga Zentrum Samvit Sagar",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

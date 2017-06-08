@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.128988266,47.2823791504,11.128988266,47.2823791504",
     "geom:latitude":47.282379,
     "geom:longitude":11.128988,
@@ -23,17 +24,33 @@
     "sg:postcode":"6403",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837583,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lEYXj70Hz8F50CPWwH0DT_47.282379_11.128988@1306268238"
     },
     "wof:country":"AT",
     "wof:created":1473890978,
-    "wof:geomhash":"bbd9de96bfee6b68437e334b0bba71e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0f034964be5f85adbc15da09903548d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837583,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091876451
+        }
+    ],
     "wof:id":1091876451,
-    "wof:lastmodified":1473984510,
+    "wof:lastmodified":1496898584,
     "wof:name":"Feuchter Reinhard Schnellieferdienst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

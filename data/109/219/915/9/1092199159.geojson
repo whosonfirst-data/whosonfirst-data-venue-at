@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0596113205,48.072845459,14.0596113205,48.072845459",
     "geom:latitude":48.072845,
     "geom:longitude":14.059611,
@@ -34,17 +35,33 @@
     ],
     "sg:website":"epos-sattledt.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836573,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XwU89IcHGXbJE0yBMPV1Y_48.072845_14.059611@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905411,
-    "wof:geomhash":"98260faf4f05013241072edccf1acdf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b40cd1dedd670ca2db77cdc8fba352e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836573,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092199159
+        }
+    ],
     "wof:id":1092199159,
-    "wof:lastmodified":1473985299,
+    "wof:lastmodified":1496891735,
     "wof:name":"EPOS Handelsunternehmen Kassensysteme G\u00fcnther Lang KEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

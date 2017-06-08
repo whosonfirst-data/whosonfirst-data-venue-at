@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7884988785,47.2019309998,9.7884988785,47.2019309998",
     "geom:latitude":47.201931,
     "geom:longitude":9.788499,
@@ -28,17 +29,33 @@
     "sg:postcode":"6713",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837999,
+        85632785,
+        102049711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CEsmvUUHyj04U6Gid5s7R_47.201931_9.788499@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895051,
-    "wof:geomhash":"921922e36b83f165018f79cb222a901b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6adabcd5b70bd3da130d3f71ef4ccacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837999,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1091965379
+        }
+    ],
     "wof:id":1091965379,
-    "wof:lastmodified":1473984211,
+    "wof:lastmodified":1496901351,
     "wof:name":"Restaurant Bofel-Stuba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.590171814,47.3753700256,12.590171814,47.3753700256",
     "geom:latitude":47.37537,
     "geom:longitude":12.590172,
@@ -28,17 +29,33 @@
     "sg:postcode":"5754",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837231,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qvn1I634YM4Dysz1krSEf_47.375370_12.590172@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898387,
-    "wof:geomhash":"35e6bd5e3c14b3f7837ff60867739867",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e6a45563d7396c1d201a85043bb6d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837231,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092046883
+        }
+    ],
     "wof:id":1092046883,
-    "wof:lastmodified":1473983982,
+    "wof:lastmodified":1496896245,
     "wof:name":"Hotel Gungau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

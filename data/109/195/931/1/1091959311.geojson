@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3762712479,47.4543457031,12.3762712479,47.4543457031",
     "geom:latitude":47.454346,
     "geom:longitude":12.376271,
@@ -23,17 +24,33 @@
     "sg:postcode":"6370",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n2OdKYDnYqqJHtO2zcIuQ_47.454346_12.376271@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894797,
-    "wof:geomhash":"e08862bd4d65cf7f4c1594d27816cc35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"385c9fa7c6afd15e74528fc6694fa9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091959311
+        }
+    ],
     "wof:id":1091959311,
-    "wof:lastmodified":1473985323,
+    "wof:lastmodified":1496897112,
     "wof:name":"Tourist Incoming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

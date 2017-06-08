@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0438785553,48.9425468445,15.0438785553,48.9425468445",
     "geom:latitude":48.942547,
     "geom:longitude":15.043879,
@@ -32,17 +33,34 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682415,
+        102191581,
+        1108836269,
+        85633105,
+        101780877,
+        102049905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63oVtUByiJWEME2L1qekrx_48.942547_15.043879@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908467,
-    "wof:geomhash":"1281d785f03b245cc6234ebd975675c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b49259d192c7ddeba37bbd7156a9b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "county_id":102049905,
+            "localadmin_id":1108836269,
+            "locality_id":101780877,
+            "region_id":85682415,
+            "venue_id":1092266835
+        }
+    ],
     "wof:id":1092266835,
-    "wof:lastmodified":1473984643,
+    "wof:lastmodified":1496890278,
     "wof:name":"Hauer GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

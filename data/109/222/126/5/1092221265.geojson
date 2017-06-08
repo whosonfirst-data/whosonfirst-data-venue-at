@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.7527093887,47.4110908508,9.7527093887,47.4110908508",
     "geom:latitude":47.411091,
     "geom:longitude":9.752709,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906449,
-    "wof:geomhash":"bbb183e6fc6e09a8875f40329185a9f3",
+    "wof:geomhash":"97bc390951dd18c24b0081f9db66dd53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092221265
         }
     ],
     "wof:id":1092221265,
-    "wof:lastmodified":1473983620,
+    "wof:lastmodified":1496900793,
     "wof:name":"Kuchling Margit",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4470357895,47.5587158203,12.4470357895,47.5587158203",
     "geom:latitude":47.558716,
     "geom:longitude":12.447036,
@@ -23,17 +24,34 @@
     "sg:postcode":"6382",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837349,
+        85632785,
+        101833057,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QScjLGlmbLfBBF0wOfnze_47.558716_12.447036@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914130,
-    "wof:geomhash":"120e5457a20b8aa3506acd6dc44bf938",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fac984bf812d2a44c03ca5dae8ba292a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837349,
+            "locality_id":101833057,
+            "region_id":85681661,
+            "venue_id":1092393329
+        }
+    ],
     "wof:id":1092393329,
-    "wof:lastmodified":1473983781,
+    "wof:lastmodified":1496897081,
     "wof:name":"Postamt 6382 Kirchdorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

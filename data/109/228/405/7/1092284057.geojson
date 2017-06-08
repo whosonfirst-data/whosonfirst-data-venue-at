@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3269405365,48.1388282776,16.3269405365,48.1388282776",
     "geom:latitude":48.138828,
     "geom:longitude":16.326941,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909213,
-    "wof:geomhash":"290fba72b0337cba07ea2544c8f40b74",
+    "wof:geomhash":"0354206b95db66f959d3aa201740abe6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092284057
         }
     ],
     "wof:id":1092284057,
-    "wof:lastmodified":1473984173,
+    "wof:lastmodified":1496904360,
     "wof:name":"MAGLIC Export-Import GmbH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

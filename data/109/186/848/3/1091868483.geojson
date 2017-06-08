@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4998970032,46.9727783203,15.4998970032,46.9727783203",
     "geom:latitude":46.972778,
     "geom:longitude":15.499897,
@@ -35,17 +36,34 @@
         "covers"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839205,
+        85632785,
+        101754127,
+        102049741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gbz3sCP4fNFC39sVxtZNP_46.972778_15.499897@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890590,
-    "wof:geomhash":"d116dbca2622e1cb00ccac5a050ac143",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94be2196a6b8e1ca757014df77011236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839205,
+            "locality_id":101754127,
+            "region_id":85681687,
+            "venue_id":1091868483
+        }
+    ],
     "wof:id":1091868483,
-    "wof:lastmodified":1473985193,
+    "wof:lastmodified":1496911926,
     "wof:name":"Buchbinderei Gutmann Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

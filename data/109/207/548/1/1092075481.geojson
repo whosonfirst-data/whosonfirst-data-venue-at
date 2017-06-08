@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1970043182,46.9711837769,10.1970043182,46.9711837769",
     "geom:latitude":46.971184,
     "geom:longitude":10.197004,
@@ -23,17 +24,33 @@
     "sg:postcode":"6563",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837293,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gy4dpkpV9kgA2RnnVMNmi_46.971184_10.197004@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899535,
-    "wof:geomhash":"984b1976eb75704a85a9493d929d1228",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91b5fc79e82e01cf795c6c37fff2dce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837293,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092075481
+        }
+    ],
     "wof:id":1092075481,
-    "wof:lastmodified":1473984266,
+    "wof:lastmodified":1496896731,
     "wof:name":"Gasthof Zontaja",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

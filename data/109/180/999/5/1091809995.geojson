@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2144765854,47.6262741089,12.2144765854,47.6262741089",
     "geom:latitude":47.626274,
     "geom:longitude":12.214477,
@@ -33,17 +34,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837393,
+        85632785,
+        101834303,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bBJ68W23LezjNKx7WiSWt_47.626274_12.214477@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473887913,
-    "wof:geomhash":"a92dfc50034770efe2be47950a9dbff6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cbf4b5d8d9d413e33ac88481d47fae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837393,
+            "locality_id":101834303,
+            "region_id":85681661,
+            "venue_id":1091809995
+        }
+    ],
     "wof:id":1091809995,
-    "wof:lastmodified":1473984687,
+    "wof:lastmodified":1496897537,
     "wof:name":"Johann Zangerle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

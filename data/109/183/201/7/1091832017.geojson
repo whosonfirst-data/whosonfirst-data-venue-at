@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1335706711,47.1195220947,13.1335706711,47.1195220947",
     "geom:latitude":47.119522,
     "geom:longitude":13.133571,
@@ -23,17 +24,34 @@
     "sg:postcode":"5640",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836993,
+        85632785,
+        101789115,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gmTuoBpC1POu2900wg4D1_47.119522_13.133571@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888885,
-    "wof:geomhash":"5ff9842435723aeafe39e89419f7a7cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2e81cd8086a833e6803b9720c5f33cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836993,
+            "locality_id":101789115,
+            "region_id":85681681,
+            "venue_id":1091832017
+        }
+    ],
     "wof:id":1091832017,
-    "wof:lastmodified":1473983707,
+    "wof:lastmodified":1496893762,
     "wof:name":"Bankomat d Oberbank AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2193412781,48.0062904358,16.2193412781,48.0062904358",
     "geom:latitude":48.00629,
     "geom:longitude":16.219341,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906040,
-    "wof:geomhash":"2ffa523cc2a13b725955988f7c84ea37",
+    "wof:geomhash":"1d516c2c40ef0aa8046824afe32cd190",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092212045
         }
     ],
     "wof:id":1092212045,
-    "wof:lastmodified":1473983832,
+    "wof:lastmodified":1496886071,
     "wof:name":"Steininger Alfred",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

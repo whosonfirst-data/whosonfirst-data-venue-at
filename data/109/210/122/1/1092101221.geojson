@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4874362946,48.2074623108,13.4874362946,48.2074623108",
     "geom:latitude":48.207462,
     "geom:longitude":13.487436,
@@ -24,17 +25,34 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"krausmann.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835679,
+        85632785,
+        101784551,
+        102049851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ADNzqorfsNox1KVlTV2JS_48.207462_13.487436@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900865,
-    "wof:geomhash":"87b8859e1c8606f2c669e9fb4a5edf59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0be435cb6cb3d4a9fed84804dc15a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835679,
+            "locality_id":101784551,
+            "region_id":85681677,
+            "venue_id":1092101221
+        }
+    ],
     "wof:id":1092101221,
-    "wof:lastmodified":1473983539,
+    "wof:lastmodified":1496887888,
     "wof:name":"Krausmann Glas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

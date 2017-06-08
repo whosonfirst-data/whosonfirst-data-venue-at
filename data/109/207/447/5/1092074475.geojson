@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9686918259,47.4594459534,9.9686918259,47.4594459534",
     "geom:latitude":47.459446,
     "geom:longitude":9.968692,
@@ -23,17 +24,33 @@
     "sg:postcode":"6952",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837959,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lQ23kVlwtDMHlxLwpE7yU_47.459446_9.968692@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899492,
-    "wof:geomhash":"522329b0d21daab16d24b14150395c8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"064acbb91b38e8ea8dd75d73b1f675a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837959,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092074475
+        }
+    ],
     "wof:id":1092074475,
-    "wof:lastmodified":1473984130,
+    "wof:lastmodified":1496901082,
     "wof:name":"Gasthof Sonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

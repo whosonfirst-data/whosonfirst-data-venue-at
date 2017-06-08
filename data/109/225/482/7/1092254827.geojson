@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9176416397,47.4055328369,10.9176416397,47.4055328369",
     "geom:latitude":47.405533,
     "geom:longitude":10.917642,
@@ -23,17 +24,34 @@
     "sg:postcode":"6632",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837813,
+        85632785,
+        101787859,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sERMiXYwKzWQ78ftzn5SE_47.405533_10.917642@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473907922,
-    "wof:geomhash":"08d977b432b75278f64c8dadc2ca3a7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d27c42f9342b81ab64722a8896745278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837813,
+            "locality_id":101787859,
+            "region_id":85681661,
+            "venue_id":1092254827
+        }
+    ],
     "wof:id":1092254827,
-    "wof:lastmodified":1473984480,
+    "wof:lastmodified":1496900044,
     "wof:name":"ESO-Transport GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5610589981,47.2578392029,9.5610589981,47.2578392029",
     "geom:latitude":47.257839,
     "geom:longitude":9.561059,
@@ -23,17 +24,33 @@
     "sg:postcode":"6800",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837937,
+        85632785,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NcvPSWZpC1lhUIpgTG5oF_47.257839_9.561059@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911670,
-    "wof:geomhash":"fa3c258ef8272516c89cf43afeb8be8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d56d7854a2f26fa2276f396e62db3acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092340997
+        }
+    ],
     "wof:id":1092340997,
-    "wof:lastmodified":1473983471,
+    "wof:lastmodified":1496900951,
     "wof:name":"CI Marketing - Presse Messe Events",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

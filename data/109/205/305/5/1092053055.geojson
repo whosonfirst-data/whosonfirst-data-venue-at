@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5317134857,47.8276748657,16.5317134857,47.8276748657",
     "geom:latitude":47.827675,
     "geom:longitude":16.531713,
@@ -31,17 +32,34 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838617,
+        85632785,
+        101833093,
+        102049797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XmO356D2dJZHfj7sijh5F_47.827675_16.531713@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898628,
-    "wof:geomhash":"db064b17249a7027bdd65b0b30e2a1a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2de633f36877818b9471666fcc6dacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049797,
+            "localadmin_id":1108838617,
+            "locality_id":101833093,
+            "region_id":85681651,
+            "venue_id":1092053055
+        }
+    ],
     "wof:id":1092053055,
-    "wof:lastmodified":1473983874,
+    "wof:lastmodified":1496908840,
     "wof:name":"XXX-LUTZ GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

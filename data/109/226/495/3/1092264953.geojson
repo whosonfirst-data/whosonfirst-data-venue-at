@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3131685257,48.2737693787,14.3131685257,48.2737693787",
     "geom:latitude":48.273769,
     "geom:longitude":14.313169,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898435,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908382,
-    "wof:geomhash":"fe4331507c1fbaca5edc055f86720484",
+    "wof:geomhash":"ad2c4e8ce18c20329212f34350ec5e28",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898435,
             "region_id":85681677,
             "venue_id":1092264953
         }
     ],
     "wof:id":1092264953,
-    "wof:lastmodified":1473984400,
+    "wof:lastmodified":1496881203,
     "wof:name":"R\u00d6HRNBACHER & PARTNER ELEKTRO GMBH",
     "wof:parent_id":85898435,
     "wof:placetype":"venue",

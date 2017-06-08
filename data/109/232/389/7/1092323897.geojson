@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5038614273,47.1175804138,15.5038614273,47.1175804138",
     "geom:latitude":47.11758,
     "geom:longitude":15.503861,
@@ -24,10 +25,12 @@
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681687,
-        85632785,
         85898549,
-        102049709
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910965,
-    "wof:geomhash":"dd4cf67393883b6212aa40f5956b602f",
+    "wof:geomhash":"27977915aaec5a23cf1d5d6222145b62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
             "neighbourhood_id":85898549,
             "region_id":85681687,
             "venue_id":1092323897
         }
     ],
     "wof:id":1092323897,
-    "wof:lastmodified":1473984376,
+    "wof:lastmodified":1496934426,
     "wof:name":"Rantasa Theodor",
     "wof:parent_id":85898549,
     "wof:placetype":"venue",

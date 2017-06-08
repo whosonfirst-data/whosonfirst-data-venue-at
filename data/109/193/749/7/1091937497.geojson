@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5103597641,47.2826728821,11.5103597641,47.2826728821",
     "geom:latitude":47.282673,
     "geom:longitude":11.51036,
@@ -25,10 +26,13 @@
     "sg:website":"wtmetzler.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +40,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893829,
-    "wof:geomhash":"b51dbb80b60f55f162001d9b65471cf8",
+    "wof:geomhash":"a85ee5f2c6d6f414906320117da901cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091937497
         }
     ],
     "wof:id":1091937497,
-    "wof:lastmodified":1473984792,
+    "wof:lastmodified":1496898709,
     "wof:name":"Metzler Hubert",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

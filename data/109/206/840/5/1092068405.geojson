@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3062553406,47.5274505615,12.3062553406,47.5274505615",
     "geom:latitude":47.527451,
     "geom:longitude":12.306255,
@@ -23,17 +24,33 @@
     "sg:postcode":"6352",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837681,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jhLIYFkzUY5dC4dhFps4V_47.527451_12.306255@1306268265"
     },
     "wof:country":"AT",
     "wof:created":1473899246,
-    "wof:geomhash":"c9e5f723547eb0c1e49bb26fe13041de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fd2033234487200691105e7b5eca59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837681,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092068405
+        }
+    ],
     "wof:id":1092068405,
-    "wof:lastmodified":1473984945,
+    "wof:lastmodified":1496899165,
     "wof:name":"Gasthaus Riesenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

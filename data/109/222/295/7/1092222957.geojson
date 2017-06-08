@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2123241425,46.7560653687,15.2123241425,46.7560653687",
     "geom:latitude":46.756065,
     "geom:longitude":15.212324,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839277,
+        85632785,
+        101790131,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BjnwMwH94RkFOImcLKq0y_46.756065_15.212324@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906532,
-    "wof:geomhash":"f7c0f5a69f75ee58d939cdda24673546",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7035af06cc258033b27fe497dce014c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839277,
+            "locality_id":101790131,
+            "region_id":85681687,
+            "venue_id":1092222957
+        }
+    ],
     "wof:id":1092222957,
-    "wof:lastmodified":1473984040,
+    "wof:lastmodified":1496912463,
     "wof:name":"Taxi Wildbacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

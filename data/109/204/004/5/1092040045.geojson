@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5327758789,46.9979248047,12.5327758789,46.9979248047",
     "geom:latitude":46.997925,
     "geom:longitude":12.532776,
@@ -23,17 +24,34 @@
     "sg:postcode":"9971",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837513,
+        85632785,
+        101788979,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ks4ps9DcueocjfQEuLq6k_46.997925_12.532776@1306268261"
     },
     "wof:country":"AT",
     "wof:created":1473898127,
-    "wof:geomhash":"6259167395c6cdf0f5aac71616b54434",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dd0c60642be342b11f487c38d24f731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837513,
+            "locality_id":101788979,
+            "region_id":85681661,
+            "venue_id":1092040045
+        }
+    ],
     "wof:id":1092040045,
-    "wof:lastmodified":1473983307,
+    "wof:lastmodified":1496898249,
     "wof:name":"Steiner Holzbau GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3251781464,47.7751464844,16.3251781464,47.7751464844",
     "geom:latitude":47.775146,
     "geom:longitude":16.325178,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838667,
+        85632785,
+        101786735,
+        102049789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VqC2RPEd0LHkGFrmNFTPm_47.775146_16.325178@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888978,
-    "wof:geomhash":"fd774a7a2b9ecd74426d27e7f212d3f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60b4d263968aee902e00af149b954732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838667,
+            "locality_id":101786735,
+            "region_id":85681651,
+            "venue_id":1091833583
+        }
+    ],
     "wof:id":1091833583,
-    "wof:lastmodified":1473983988,
+    "wof:lastmodified":1496909049,
     "wof:name":"BANK AUSTRIA KREDITANSTALT AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3958034515,47.4440383911,12.3958034515,47.4440383911",
     "geom:latitude":47.444038,
     "geom:longitude":12.395803,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"www.tf-reisen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837351,
+        85632785,
+        101787927,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tYZaoaXl9pmbs4lvSCvQ4_47.444038_12.395803@1306268250"
     },
     "wof:country":"AT",
     "wof:created":1473894794,
-    "wof:geomhash":"d56fe66e09c7beb8a001652ec4111b19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85334678d25145c2cb5942ea396eeb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837351,
+            "locality_id":101787927,
+            "region_id":85681661,
+            "venue_id":1091959233
+        }
+    ],
     "wof:id":1091959233,
-    "wof:lastmodified":1473985323,
+    "wof:lastmodified":1496897188,
     "wof:name":"TF Reisen GesmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

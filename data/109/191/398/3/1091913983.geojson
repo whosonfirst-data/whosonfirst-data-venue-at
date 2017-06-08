@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5142230988,48.3874168396,16.5142230988,48.3874168396",
     "geom:latitude":48.387417,
     "geom:longitude":16.514223,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.idv.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836323,
+        85632785,
+        101833285,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A9yXbj8nDYE09oV7XlYVk_48.387417_16.514223@1306268243"
     },
     "wof:country":"AT",
     "wof:created":1473892744,
-    "wof:geomhash":"5a7bead4a739dcc14ed8507e728dba6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23489b4085cb93aed7f3d0dc3d6c9e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836323,
+            "locality_id":101833285,
+            "region_id":85681671,
+            "venue_id":1091913983
+        }
+    ],
     "wof:id":1091913983,
-    "wof:lastmodified":1473983840,
+    "wof:lastmodified":1496890517,
     "wof:name":"IDV-Innovative Datenverarbeitung Dr G\u00fcnter Linhart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

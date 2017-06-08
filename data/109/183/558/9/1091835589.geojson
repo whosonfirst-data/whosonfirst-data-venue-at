@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.8828926086,47.9616966248,12.8828926086,47.9616966248",
     "geom:latitude":47.961697,
     "geom:longitude":12.882893,
@@ -23,17 +24,33 @@
     "sg:postcode":"5113",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837173,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4umEh7k9SwY7ANMYa2R4e5_47.961697_12.882893@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473889061,
-    "wof:geomhash":"c80837767e174b748cfddc140c400039",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb655c6b4e3f66841d95b1b093a48c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837173,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091835589
+        }
+    ],
     "wof:id":1091835589,
-    "wof:lastmodified":1473984395,
+    "wof:lastmodified":1496895615,
     "wof:name":"Bankomat d Raiffeisenkasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

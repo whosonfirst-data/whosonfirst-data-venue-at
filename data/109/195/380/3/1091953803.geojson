@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2155189514,46.8428344727,15.2155189514,46.8428344727",
     "geom:latitude":46.842834,
     "geom:longitude":15.215519,
@@ -28,17 +29,33 @@
     "sg:postcode":"8530",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Vazd8Yll1UdgwUPUVnRff_46.842834_15.215519@1306268249"
     },
     "wof:country":"AT",
     "wof:created":1473894536,
-    "wof:geomhash":"76b909d9dc382a7a4afa18ccca2ab185",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be4a32786894996d0fdc08816b1c9a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091953803
+        }
+    ],
     "wof:id":1091953803,
-    "wof:lastmodified":1473984243,
+    "wof:lastmodified":1496912668,
     "wof:name":"Bauhof Deutschlandsberg GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

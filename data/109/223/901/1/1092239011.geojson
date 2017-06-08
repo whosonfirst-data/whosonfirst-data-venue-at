@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0387468338,47.7630615234,13.0387468338,47.7630615234",
     "geom:latitude":47.763062,
     "geom:longitude":13.038747,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898463,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473907227,
-    "wof:geomhash":"721a1a894cc209bdba72d9995233da35",
+    "wof:geomhash":"e624174b2876c9fd2a40d324e88823b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898463,
             "region_id":85681681,
             "venue_id":1092239011
         }
     ],
     "wof:id":1092239011,
-    "wof:lastmodified":1473985220,
+    "wof:lastmodified":1496894570,
     "wof:name":"Pacher-Theinburg Anton Dipl-TA Dr",
     "wof:parent_id":85898463,
     "wof:placetype":"venue",

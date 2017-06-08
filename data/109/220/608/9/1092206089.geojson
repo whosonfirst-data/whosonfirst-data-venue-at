@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2839336395,48.0114326477,16.2839336395,48.0114326477",
     "geom:latitude":48.011433,
     "geom:longitude":16.283934,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835275,
+        85632785,
+        101833199,
+        102049829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QuAwRvFZLYZ33nteobSdY_48.011433_16.283934@1306268285"
     },
     "wof:country":"AT",
     "wof:created":1473905789,
-    "wof:geomhash":"d41ef21ee945a299f3a929f9ab572431",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a33ce2ed323d69ef135ea56821d6b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835275,
+            "locality_id":101833199,
+            "region_id":85681671,
+            "venue_id":1092206089
+        }
+    ],
     "wof:id":1092206089,
-    "wof:lastmodified":1473984709,
+    "wof:lastmodified":1496885775,
     "wof:name":"KLAUS BERGHOLTZ GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6855964661,48.2667388916,15.6855964661,48.2667388916",
     "geom:latitude":48.266739,
     "geom:longitude":15.685596,
@@ -33,17 +34,34 @@
         "dachdeckereibedarf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        101784543,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OZjYIezsCLoLocp0secrH_48.266739_15.685596@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896520,
-    "wof:geomhash":"4bcca5290d4718efdff753561a352fce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2735a82b9324f7237158500af700392f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":101784543,
+            "region_id":85681671,
+            "venue_id":1091999721
+        }
+    ],
     "wof:id":1091999721,
-    "wof:lastmodified":1473985146,
+    "wof:lastmodified":1496890071,
     "wof:name":"Austro Dach Handels GmbH & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

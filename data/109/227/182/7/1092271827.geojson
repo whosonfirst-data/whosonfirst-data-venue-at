@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8352146149,47.8559837341,16.8352146149,47.8559837341",
     "geom:latitude":47.855984,
     "geom:longitude":16.835215,
@@ -23,17 +24,34 @@
     "sg:postcode":"7141",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838607,
+        85632785,
+        101785757,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yERPgZMeKbtAYOKYcQTTM_47.855984_16.835215@1306268295"
     },
     "wof:country":"AT",
     "wof:created":1473908675,
-    "wof:geomhash":"e4045210677a840838bc944b3103086b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21f306c8386ef44d2bdeaaa617864532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838607,
+            "locality_id":101785757,
+            "region_id":85681651,
+            "venue_id":1092271827
+        }
+    ],
     "wof:id":1092271827,
-    "wof:lastmodified":1473983827,
+    "wof:lastmodified":1496908679,
     "wof:name":"Elektro Steiner GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

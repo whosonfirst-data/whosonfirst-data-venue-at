@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0750112534,47.7904396057,13.0750112534,47.7904396057",
     "geom:latitude":47.79044,
     "geom:longitude":13.075011,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897291,
-    "wof:geomhash":"22b1c9682fd751d4351478d0039e5288",
+    "wof:geomhash":"0ad749cc6a83f9ab79d23943fb01a605",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092018485
         }
     ],
     "wof:id":1092018485,
-    "wof:lastmodified":1473984551,
+    "wof:lastmodified":1496894662,
     "wof:name":"Austria Tabak AG & Co KG",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

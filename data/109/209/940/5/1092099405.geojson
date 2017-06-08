@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6368694305,47.4636802673,16.6368694305,47.4636802673",
     "geom:latitude":47.46368,
     "geom:longitude":16.636869,
@@ -23,17 +24,33 @@
     "sg:postcode":"7361",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838703,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RQclrYxzTRYI0iyU4dyAX_47.463680_16.636869@1306268270"
     },
     "wof:country":"AT",
     "wof:created":1473900785,
-    "wof:geomhash":"695d3512cb68189d34901c9a5356e492",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd70b5de7081359ea605176fdac26b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838703,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092099405
+        }
+    ],
     "wof:id":1092099405,
-    "wof:lastmodified":1473985023,
+    "wof:lastmodified":1496909128,
     "wof:name":"Pacher Klaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

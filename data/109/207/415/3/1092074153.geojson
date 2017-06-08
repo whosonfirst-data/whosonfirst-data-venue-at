@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2780599594,47.0889282227,11.2780599594,47.0889282227",
     "geom:latitude":47.088928,
     "geom:longitude":11.27806,
@@ -23,17 +24,33 @@
     "sg:postcode":"6167",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07MPEKe8E8KJ3280YcouAF_47.088928_11.278060@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899476,
-    "wof:geomhash":"69b3ea8ad2bef756026d83c4a63c279b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc683db155bada777e5ade9046a2a1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092074153
+        }
+    ],
     "wof:id":1092074153,
-    "wof:lastmodified":1473984058,
+    "wof:lastmodified":1496898525,
     "wof:name":"Gasthof Schallerhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

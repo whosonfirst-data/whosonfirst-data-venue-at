@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9176454544,48.0750389099,13.9176454544,48.0750389099",
     "geom:latitude":48.075039,
     "geom:longitude":13.917645,
@@ -33,17 +34,33 @@
         "roof"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836551,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DVwKaAg1Nx7V0L8MZMulR_48.075039_13.917645@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915648,
-    "wof:geomhash":"171c0ee01823ee6ed2f9cda65488452d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2a5fde0ffca95c94485052eb4220c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836551,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092424341
+        }
+    ],
     "wof:id":1092424341,
-    "wof:lastmodified":1473984176,
+    "wof:lastmodified":1496891582,
     "wof:name":"Gerhard Schiffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

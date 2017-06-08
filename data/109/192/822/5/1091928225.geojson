@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3916282654,47.2590827942,11.3916282654,47.2590827942",
     "geom:latitude":47.259083,
     "geom:longitude":11.391628,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893428,
-    "wof:geomhash":"a16baf9c3c0aaa1ca89647bdb916b3e5",
+    "wof:geomhash":"f052b13936731e2a6181a6c3c44ad802",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1091928225
         }
     ],
     "wof:id":1091928225,
-    "wof:lastmodified":1473984778,
+    "wof:lastmodified":1496899454,
     "wof:name":"Sport Wolf Inh Hans J\u00f6rg Wolf",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

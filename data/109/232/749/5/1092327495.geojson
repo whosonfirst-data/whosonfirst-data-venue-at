@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.4990148544,47.2794113159,11.4990148544,47.2794113159",
     "geom:latitude":47.279411,
     "geom:longitude":11.499015,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473911114,
-    "wof:geomhash":"efe513642c9f62eb2d033dd770d9fc61",
+    "wof:geomhash":"70892c58a99594a5e3d3efc814cd89f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092327495
         }
     ],
     "wof:id":1092327495,
-    "wof:lastmodified":1473985068,
+    "wof:lastmodified":1496898723,
     "wof:name":"Ghetta Wolfgang",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

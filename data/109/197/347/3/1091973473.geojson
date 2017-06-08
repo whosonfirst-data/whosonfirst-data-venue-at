@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4031600952,48.1998100281,15.4031600952,48.1998100281",
     "geom:latitude":48.19981,
     "geom:longitude":15.40316,
@@ -35,17 +36,34 @@
         "agricultural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835017,
+        85632785,
+        101784561,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UZeJhXODGGB45vhgK7u6r_48.199810_15.403160@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895390,
-    "wof:geomhash":"a4911790b7ce45e519462bf9ca1cb55b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bcfa09c7e31d1b234cf46fc8b44e62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835017,
+            "locality_id":101784561,
+            "region_id":85681671,
+            "venue_id":1091973473
+        }
+    ],
     "wof:id":1091973473,
-    "wof:lastmodified":1473984079,
+    "wof:lastmodified":1496884205,
     "wof:name":"Franz Seidl Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

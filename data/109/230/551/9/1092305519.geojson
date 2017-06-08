@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3947620392,47.2599601746,11.3947620392,47.2599601746",
     "geom:latitude":47.25996,
     "geom:longitude":11.394762,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910162,
-    "wof:geomhash":"663368e3b28885cebdec3a241e40784a",
+    "wof:geomhash":"62b08385b8a49a5f4960d6061d39b377",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092305519
         }
     ],
     "wof:id":1092305519,
-    "wof:lastmodified":1473984623,
+    "wof:lastmodified":1496926018,
     "wof:name":"Tiroler Landesarchiv",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6871089935,47.3925628662,13.6871089935,47.3925628662",
     "geom:latitude":47.392563,
     "geom:longitude":13.687109,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838897,
+        85632785,
+        101787981,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_339dPM9miKDtgnuFHtYmOE_47.392563_13.687109@1306268288"
     },
     "wof:country":"AT",
     "wof:created":1473906519,
-    "wof:geomhash":"ca7792185e72ed6a037bd76f65590356",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0ed338ababb93541e63990a0fdf811a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838897,
+            "locality_id":101787981,
+            "region_id":85681687,
+            "venue_id":1092222713
+        }
+    ],
     "wof:id":1092222713,
-    "wof:lastmodified":1473983979,
+    "wof:lastmodified":1496910008,
     "wof:name":"Taxi Maxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

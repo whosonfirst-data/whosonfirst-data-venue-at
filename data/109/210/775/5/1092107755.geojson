@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3575401306,48.3756713867,14.3575401306,48.3756713867",
     "geom:latitude":48.375671,
     "geom:longitude":14.35754,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898433,
-        102049881
+        102191581,
+        1108836139,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901186,
-    "wof:geomhash":"af0a19b934b5212f7ab97dfc05d6288c",
+    "wof:geomhash":"e87ae64f236d4379f772ec66a3c6d66b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":-1,
             "neighbourhood_id":85898433,
             "region_id":85681677,
             "venue_id":1092107755
         }
     ],
     "wof:id":1092107755,
-    "wof:lastmodified":1473984785,
+    "wof:lastmodified":1496889715,
     "wof:name":"Altstoffsammelzentrum",
     "wof:parent_id":85898433,
     "wof:placetype":"venue",

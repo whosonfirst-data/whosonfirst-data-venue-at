@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.255657196,48.1547431946,16.255657196,48.1547431946",
     "geom:latitude":48.154743,
     "geom:longitude":16.255657,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473900071,
-    "wof:geomhash":"0fc6b8f5edbb275585d73fd3b9839a41",
+    "wof:geomhash":"cf8332ca7bbbc234154139089cd4dcae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092086823
         }
     ],
     "wof:id":1092086823,
-    "wof:lastmodified":1473984721,
+    "wof:lastmodified":1496902117,
     "wof:name":"Nikolaus Reisser KEG Garten- u. Reinigungsservice",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

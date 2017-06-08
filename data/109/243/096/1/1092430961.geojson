@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5376033783,48.2835121155,16.5376033783,48.2835121155",
     "geom:latitude":48.283512,
     "geom:longitude":16.537603,
@@ -35,10 +36,12 @@
     "sg:website":"kammel.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898401,
-        102049891
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915951,
-    "wof:geomhash":"2ea671810b0780db721ebe08a74b60b2",
+    "wof:geomhash":"36d3ae73ff4f7eda006481c3ada36781",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049891,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898401,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092430961
         }
     ],
     "wof:id":1092430961,
-    "wof:lastmodified":1473983466,
+    "wof:lastmodified":1496883054,
     "wof:name":"Eva Kammel Ges.m.b.H.",
     "wof:parent_id":85898401,
     "wof:placetype":"venue",

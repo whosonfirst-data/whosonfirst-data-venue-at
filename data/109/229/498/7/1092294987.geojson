@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1415777206,47.313205719,13.1415777206,47.313205719",
     "geom:latitude":47.313206,
     "geom:longitude":13.141578,
@@ -23,17 +24,33 @@
     "sg:postcode":"5620",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837031,
+        85632785,
+        102049753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_430oYotdNcQwVIgLtwZlJF_47.313206_13.141578@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909654,
-    "wof:geomhash":"3efcd46708b77bbf37cb933cb347f8db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fd19eb89e79d55fd370d408005deb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837031,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092294987
+        }
+    ],
     "wof:id":1092294987,
-    "wof:lastmodified":1473984466,
+    "wof:lastmodified":1496894113,
     "wof:name":"Hacksteiner Gotthard u Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

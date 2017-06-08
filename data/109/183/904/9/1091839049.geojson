@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8113975525,48.2051544189,13.8113975525,48.2051544189",
     "geom:latitude":48.205154,
     "geom:longitude":13.811398,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        101784571,
+        102049861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09KMLNs0i9651iNlK2pX83_48.205154_13.811398@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889229,
-    "wof:geomhash":"b3bee094ef44ac993658b20754f44101",
-    "wof:hierarchy":[],
+    "wof:geomhash":"736c79b382e9107c28d6cc978680ed79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":101784571,
+            "region_id":85681677,
+            "venue_id":1091839049
+        }
+    ],
     "wof:id":1091839049,
-    "wof:lastmodified":1473985256,
+    "wof:lastmodified":1496885286,
     "wof:name":"Friedrich Breslmayr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

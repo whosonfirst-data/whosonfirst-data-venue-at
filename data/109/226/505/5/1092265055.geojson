@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8842430115,47.5699615479,13.8842430115,47.5699615479",
     "geom:latitude":47.569962,
     "geom:longitude":13.884243,
@@ -33,17 +34,33 @@
         "cooker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838931,
+        85632785,
+        102049777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28XSSMBuOLtnyTf6hkJpWn_47.569962_13.884243@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908386,
-    "wof:geomhash":"a9950a4527b25c3304728598bd5fa565",
-    "wof:hierarchy":[],
+    "wof:geomhash":"444bf7bf2ebbad79576ca40f1d7f14e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838931,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1092265055
+        }
+    ],
     "wof:id":1092265055,
-    "wof:lastmodified":1473984422,
+    "wof:lastmodified":1496910273,
     "wof:name":"Elektro-Lemmerer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.0937652588,47.5294952393,16.0937652588,47.5294952393",
     "geom:latitude":47.529495,
     "geom:longitude":16.093765,
@@ -35,17 +36,33 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835009,
+        85632785,
+        102049791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BIfRByqf1NzNbPgXp5T6o_47.529495_16.093765@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905549,
-    "wof:geomhash":"33f9b67dd63c1cc260e52234d6d2a8d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b271e3485dc74e025a689fe988fe690d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835009,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092201623
+        }
+    ],
     "wof:id":1092201623,
-    "wof:lastmodified":1473983729,
+    "wof:lastmodified":1496884186,
     "wof:name":"Aspanger Bergbau und Mineralwerke GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

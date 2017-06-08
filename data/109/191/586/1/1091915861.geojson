@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5233955383,48.2040252686,16.5233955383,48.2040252686",
     "geom:latitude":48.204025,
     "geom:longitude":16.523396,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473892824,
-    "wof:geomhash":"6af88a1cd4048a811c2554f6ab1c1403",
+    "wof:geomhash":"e9f5c12ab5316f8545f0a49deaf41353",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091915861
         }
     ],
     "wof:id":1091915861,
-    "wof:lastmodified":1473984080,
+    "wof:lastmodified":1496903303,
     "wof:name":"Tanzer Peter",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

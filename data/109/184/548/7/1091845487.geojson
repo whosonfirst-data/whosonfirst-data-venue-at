@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7038078308,47.9884147644,16.7038078308,47.9884147644",
     "geom:latitude":47.988415,
     "geom:longitude":16.703808,
@@ -33,17 +34,33 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838463,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QpCyFUkgFhIPCL1XfWw1m_47.988415_16.703808@1306268234"
     },
     "wof:country":"AT",
     "wof:created":1473889495,
-    "wof:geomhash":"052868bca5d33287aad69c3390b90c90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9d40c89a6fbe235c5c4bdb1a691d387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838463,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1091845487
+        }
+    ],
     "wof:id":1091845487,
-    "wof:lastmodified":1473984298,
+    "wof:lastmodified":1496908078,
     "wof:name":"Weiss Edwin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

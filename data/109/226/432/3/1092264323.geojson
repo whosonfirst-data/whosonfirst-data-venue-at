@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5077962875,47.2815132141,11.5077962875,47.2815132141",
     "geom:latitude":47.281513,
     "geom:longitude":11.507796,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908352,
-    "wof:geomhash":"128fb899b8cb4b8fcdd4437dc16c22e0",
+    "wof:geomhash":"fb547a997757a54e9ccabf1c4ce0666b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092264323
         }
     ],
     "wof:id":1092264323,
-    "wof:lastmodified":1473984250,
+    "wof:lastmodified":1496898706,
     "wof:name":"VIS a VIS Ing Anton Waltl",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

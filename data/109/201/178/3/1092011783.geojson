@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2574462891,48.2385101318,14.2574462891,48.2385101318",
     "geom:latitude":48.23851,
     "geom:longitude":14.257446,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898435,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897015,
-    "wof:geomhash":"faf05fe87de93c762b2bddf335c42997",
+    "wof:geomhash":"bff05e6ca850f78e84082e0a3c0d7b56",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898435,
             "region_id":85681677,
             "venue_id":1092011783
         }
     ],
     "wof:id":1092011783,
-    "wof:lastmodified":1473983319,
+    "wof:lastmodified":1496887449,
     "wof:name":"Franz Lepschi",
     "wof:parent_id":85898435,
     "wof:placetype":"venue",

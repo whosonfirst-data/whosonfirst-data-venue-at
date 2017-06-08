@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5071220398,47.2816925049,11.5071220398,47.2816925049",
     "geom:latitude":47.281693,
     "geom:longitude":11.507122,
@@ -24,10 +25,13 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891051,
-    "wof:geomhash":"5e398fc4e1a903fc0c2299440bbbf3f9",
+    "wof:geomhash":"516a784822dedbdd8ac0fccb23323c26",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1091878171
         }
     ],
     "wof:id":1091878171,
-    "wof:lastmodified":1473984857,
+    "wof:lastmodified":1496898742,
     "wof:name":"Crazy Mode",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

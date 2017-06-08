@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.9004325867,47.9017066956,16.9004325867,47.9017066956",
     "geom:latitude":47.901707,
     "geom:longitude":16.900433,
@@ -23,17 +24,33 @@
     "sg:postcode":"7122",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838647,
+        85632785,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24oxW9uA1JEdj5yHld8c4s_47.901707_16.900433@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902545,
-    "wof:geomhash":"be5a2a8d3f502d9e3c1f781c1684602d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35acd513e588df5af286b702ea956c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838647,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092135793
+        }
+    ],
     "wof:id":1092135793,
-    "wof:lastmodified":1473984457,
+    "wof:lastmodified":1496908973,
     "wof:name":"Allacher Hans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

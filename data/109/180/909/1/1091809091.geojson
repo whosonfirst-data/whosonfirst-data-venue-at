@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.8395175934,47.8537712097,16.8395175934,47.8537712097",
     "geom:latitude":47.853771,
     "geom:longitude":16.839518,
@@ -34,17 +35,34 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838607,
+        85632785,
+        101785757,
+        102049841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N9XxLBaqDabJYUXAtzf6F_47.853771_16.839518@1306268254"
     },
     "wof:country":"AT",
     "wof:created":1473887873,
-    "wof:geomhash":"c1fbe7f0704b301efd98391cdcda8ae1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d6219fba72f31f19ca6bf9a4c693ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838607,
+            "locality_id":101785757,
+            "region_id":85681651,
+            "venue_id":1091809091
+        }
+    ],
     "wof:id":1091809091,
-    "wof:lastmodified":1473984455,
+    "wof:lastmodified":1496908659,
     "wof:name":"Lorenz Lentsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

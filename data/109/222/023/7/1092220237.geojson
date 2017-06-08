@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7086296082,47.1058807373,15.7086296082,47.1058807373",
     "geom:latitude":47.105881,
     "geom:longitude":15.70863,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"www.citytaxi.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838867,
+        85632785,
+        101789137,
+        102049765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wrHcxCcho6VyEaP7kfqpH_47.105881_15.708630@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906407,
-    "wof:geomhash":"e766cfe9c873f2173cef7988fb3f7518",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8acd8692177193ddc1c0b418e4e7bc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838867,
+            "locality_id":101789137,
+            "region_id":85681687,
+            "venue_id":1092220237
+        }
+    ],
     "wof:id":1092220237,
-    "wof:lastmodified":1473983388,
+    "wof:lastmodified":1496909719,
     "wof:name":"City Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2608203888,47.4495697021,12.2608203888,47.4495697021",
     "geom:latitude":47.44957,
     "geom:longitude":12.26082,
@@ -23,17 +24,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WdmhuoOovBh92NeEry5wK_47.449570_12.260820@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888398,
-    "wof:geomhash":"e0a63c58e7c496b21820990b45d9fa1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abeb8b1c51df1d093d566000fa6fdfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091821089
+        }
+    ],
     "wof:id":1091821089,
-    "wof:lastmodified":1473983637,
+    "wof:lastmodified":1496897255,
     "wof:name":"Bahnhof Brixen im Thale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

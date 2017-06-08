@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2321844101,48.2502365112,13.2321844101,48.2502365112",
     "geom:latitude":48.250237,
     "geom:longitude":13.232184,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834707,
+        85632785,
+        101784469,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_561XjgeP37un0FKhVYvOl4_48.250237_13.232184@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913589,
-    "wof:geomhash":"3fdc9b8426237cf6e6f56d3897d12819",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b7aa39a2e47867319ff8dcdcf77b21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834707,
+            "locality_id":101784469,
+            "region_id":85681677,
+            "venue_id":1092382961
+        }
+    ],
     "wof:id":1092382961,
-    "wof:lastmodified":1473984140,
+    "wof:lastmodified":1496882182,
     "wof:name":"Pizzeria Bella Rosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

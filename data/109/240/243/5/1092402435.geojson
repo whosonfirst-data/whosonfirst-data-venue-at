@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.7995710373,47.9448165894,14.7995710373,47.9448165894",
     "geom:latitude":47.944817,
     "geom:longitude":14.799571,
@@ -32,17 +33,34 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835029,
+        85632785,
+        101833147,
+        102049809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GhewRm8PeeSMd7vVFPVXC_47.944817_14.799571@1306268313"
     },
     "wof:country":"AT",
     "wof:created":1473914515,
-    "wof:geomhash":"45b3901c579e295adfb7752a3da92684",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddcb894cba9391f9c67166af3c8791cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049809,
+            "localadmin_id":1108835029,
+            "locality_id":101833147,
+            "region_id":85681671,
+            "venue_id":1092402435
+        }
+    ],
     "wof:id":1092402435,
-    "wof:lastmodified":1473983812,
+    "wof:lastmodified":1496884275,
     "wof:name":"Air-Play Vienna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

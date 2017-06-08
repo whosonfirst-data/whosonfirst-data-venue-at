@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0882263184,47.9284133911,15.0882263184,47.9284133911",
     "geom:latitude":47.928413,
     "geom:longitude":15.088226,
@@ -33,17 +34,34 @@
         "cooker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835303,
+        85632785,
+        101785687,
+        102049825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UwhQ1sFoU0EhcN01T2Yeu_47.928413_15.088226@1306268293"
     },
     "wof:country":"AT",
     "wof:created":1473908386,
-    "wof:geomhash":"a801ed012be99b7c3ce13bd18be94e77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"926c426a896777661c18fe282aa2c47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835303,
+            "locality_id":101785687,
+            "region_id":85681671,
+            "venue_id":1092265053
+        }
+    ],
     "wof:id":1092265053,
-    "wof:lastmodified":1473984422,
+    "wof:lastmodified":1496885954,
     "wof:name":"Elektro-Allmer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

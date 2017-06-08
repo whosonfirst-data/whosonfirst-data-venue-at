@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2778224945,48.161529541,16.2778224945,48.161529541",
     "geom:latitude":48.16153,
     "geom:longitude":16.277822,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898337,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473914747,
-    "wof:geomhash":"2c5a2a222759b8bd48dc7dc5c367d66b",
+    "wof:geomhash":"746a492cc166f75b5e78972ce647ecf1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898337,
             "region_id":85681667,
             "venue_id":1092407719
         }
     ],
     "wof:id":1092407719,
-    "wof:lastmodified":1473984790,
+    "wof:lastmodified":1496927729,
     "wof:name":"Pyringer Maria",
     "wof:parent_id":85898337,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3452596664,47.9244613647,14.3452596664,47.9244613647",
     "geom:latitude":47.924461,
     "geom:longitude":14.34526,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836127,
+        85632785,
+        102049819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5m6aam59CcNe8fvTb9Kavz_47.924461_14.345260@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895404,
-    "wof:geomhash":"26df538aa9f4ce4f43db8899f5ceac18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf93ca17c85fd5cc6e08c1ac91cc505e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836127,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1091973781
+        }
+    ],
     "wof:id":1091973781,
-    "wof:lastmodified":1473984138,
+    "wof:lastmodified":1496889642,
     "wof:name":"KLAUS RIEGLER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

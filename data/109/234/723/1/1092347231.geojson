@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2466812134,47.2743682861,11.2466812134,47.2743682861",
     "geom:latitude":47.274368,
     "geom:longitude":11.246681,
@@ -24,17 +25,34 @@
     "sg:province":"Tirol",
     "sg:website":"storch-mosaik.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837355,
+        85632785,
+        101834221,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PvixdBONbivpPwhr4o1hX_47.274368_11.246681@1306268305"
     },
     "wof:country":"AT",
     "wof:created":1473911935,
-    "wof:geomhash":"88046fa63e6ba23b37fa758bb5d3ec72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"509b994b078563385f25dc3bf2e2eb25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837355,
+            "locality_id":101834221,
+            "region_id":85681661,
+            "venue_id":1092347231
+        }
+    ],
     "wof:id":1092347231,
-    "wof:lastmodified":1473984770,
+    "wof:lastmodified":1496897230,
     "wof:name":"Mosaik Storch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

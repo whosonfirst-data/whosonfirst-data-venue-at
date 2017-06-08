@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6559028625,47.2714614868,12.6559028625,47.2714614868",
     "geom:latitude":47.271461,
     "geom:longitude":12.655903,
@@ -23,17 +24,33 @@
     "sg:postcode":"5722",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837225,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uKMBWDZSYEmbIZHTV2OOK_47.271461_12.655903@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912621,
-    "wof:geomhash":"dcb3b24db920b5fb41cfbd35fdd10be3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d948205ef1cb63298c522324a86543f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837225,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092362287
+        }
+    ],
     "wof:id":1092362287,
-    "wof:lastmodified":1473983906,
+    "wof:lastmodified":1496896138,
     "wof:name":"Erlachgut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

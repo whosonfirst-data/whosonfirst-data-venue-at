@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2417793274,48.1311607361,16.2417793274,48.1311607361",
     "geom:latitude":48.131161,
     "geom:longitude":16.241779,
@@ -25,10 +26,12 @@
     "sg:website":"phytron.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898325,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473893732,
-    "wof:geomhash":"6d1f578f4ef64d9bd448774819d48171",
+    "wof:geomhash":"3a6542dc52c1a5089fceadd5b519c212",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":-1,
             "neighbourhood_id":85898325,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1091935257
         }
     ],
     "wof:id":1091935257,
-    "wof:lastmodified":1473984395,
+    "wof:lastmodified":1496904211,
     "wof:name":"Phytron-Elektronik GmbH",
     "wof:parent_id":85898325,
     "wof:placetype":"venue",

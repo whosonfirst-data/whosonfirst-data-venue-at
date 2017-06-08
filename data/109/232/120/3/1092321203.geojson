@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6114177704,47.2485351562,9.6114177704,47.2485351562",
     "geom:latitude":47.248535,
     "geom:longitude":9.611418,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473910854,
-    "wof:geomhash":"934c44a49bcbe9e27ec7e553d082a8e5",
+    "wof:geomhash":"ab57c4f48758005839f0a0dc70accebe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092321203
         }
     ],
     "wof:id":1092321203,
-    "wof:lastmodified":1473983600,
+    "wof:lastmodified":1496900922,
     "wof:name":"Frick J\u00fcrgen",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

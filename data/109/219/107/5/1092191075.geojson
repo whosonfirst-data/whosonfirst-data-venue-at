@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9528465271,48.0142478943,13.9528465271,48.0142478943",
     "geom:latitude":48.014248,
     "geom:longitude":13.952847,
@@ -33,17 +34,33 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        102049807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wzDcVVj7x2Hc2HYHqpW42_48.014248_13.952847@1306268282"
     },
     "wof:country":"AT",
     "wof:created":1473905072,
-    "wof:geomhash":"4c393a7e4b6e2a2e52a46bff7e84e9a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c542136f2a89e8436043e815e8d3fa4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092191075
+        }
+    ],
     "wof:id":1092191075,
-    "wof:lastmodified":1473983526,
+    "wof:lastmodified":1496885219,
     "wof:name":"GOLLINGER GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

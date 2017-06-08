@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2676496506,47.1279144287,10.2676496506,47.1279144287",
     "geom:latitude":47.127914,
     "geom:longitude":10.26765,
@@ -23,17 +24,33 @@
     "sg:postcode":"6580",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837321,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wi7EYxtyyTEACUGk9PVPh_47.127914_10.267650@1306268289"
     },
     "wof:country":"AT",
     "wof:created":1473906847,
-    "wof:geomhash":"4c8965188996bd5a717e2db8777f27d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cae52b8e7dcac31493b2f66bb7e66f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837321,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092230695
+        }
+    ],
     "wof:id":1092230695,
-    "wof:lastmodified":1473983463,
+    "wof:lastmodified":1496896888,
     "wof:name":"Tenniscenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

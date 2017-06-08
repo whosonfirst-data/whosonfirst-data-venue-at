@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3344936371,48.1451454163,16.3344936371,48.1451454163",
     "geom:latitude":48.145145,
     "geom:longitude":16.334494,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898311,
-        102049837
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473908441,
-    "wof:geomhash":"876e4b10161b3ec59baeee5b6b32b28f",
+    "wof:geomhash":"2e1eb66c93bcdefad885959fe6088454",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049837,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898311,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092266299
         }
     ],
     "wof:id":1092266299,
-    "wof:lastmodified":1473984531,
+    "wof:lastmodified":1496904547,
     "wof:name":"TOUSEK GESMBH",
     "wof:parent_id":85898311,
     "wof:placetype":"venue",

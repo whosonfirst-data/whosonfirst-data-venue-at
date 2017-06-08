@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7759532928,47.3307876587,12.7759532928,47.3307876587",
     "geom:latitude":47.330788,
     "geom:longitude":12.775953,
@@ -28,17 +29,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XUGT1mkoGNm0gwNokhPRX_47.330788_12.775953@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895067,
-    "wof:geomhash":"32f63cb0b1d7fb16c2db63c83f97800b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6415dbb6169d4bd60efbdddf27ec2453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091965803
+        }
+    ],
     "wof:id":1091965803,
-    "wof:lastmodified":1473984235,
+    "wof:lastmodified":1496896417,
     "wof:name":"Restaurant Jaga Alm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

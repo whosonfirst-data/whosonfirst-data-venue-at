@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0040483475,47.8122329712,13.0040483475,47.8122329712",
     "geom:latitude":47.812233,
     "geom:longitude":13.004048,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898521,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        101913413,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899907,
-    "wof:geomhash":"f78c011cc6fb33cfc70e8ee944ab7563",
+    "wof:geomhash":"41a1f875595ca4004ef78ab79b0791e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101913413,
             "neighbourhood_id":85898521,
             "region_id":85681681,
             "venue_id":1092083171
         }
     ],
     "wof:id":1092083171,
-    "wof:lastmodified":1473984004,
+    "wof:lastmodified":1496894677,
     "wof:name":"Taxhamerst\u00fcberl",
     "wof:parent_id":85898521,
     "wof:placetype":"venue",

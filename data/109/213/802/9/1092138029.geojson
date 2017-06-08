@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.6442375183,47.8994827271,16.6442375183,47.8994827271",
     "geom:latitude":47.899483,
     "geom:longitude":16.644238,
@@ -23,17 +24,33 @@
     "sg:postcode":"7082",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838469,
+        85632785,
+        102049811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BEbXjxOJ6j1gjxsETrkoB_47.899483_16.644238@1306268275"
     },
     "wof:country":"AT",
     "wof:created":1473902639,
-    "wof:geomhash":"19f31d6b6390c6c6442de6119f73a202",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc3a03e6b34bc3c66b21d13132ab2982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1108838469,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092138029
+        }
+    ],
     "wof:id":1092138029,
-    "wof:lastmodified":1473984942,
+    "wof:lastmodified":1496908092,
     "wof:name":"Weingut Kamper GesnbR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

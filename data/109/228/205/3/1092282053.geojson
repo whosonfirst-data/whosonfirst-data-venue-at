@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5201282501,48.3879051208,16.5201282501,48.3879051208",
     "geom:latitude":48.387905,
     "geom:longitude":16.520128,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"flp-europe.com/margit.trum",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836323,
+        85632785,
+        101833285,
+        102049897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23qpAkes5VUMqgyFV5OpkL_48.387905_16.520128@1306268296"
     },
     "wof:country":"AT",
     "wof:created":1473909126,
-    "wof:geomhash":"c046490dd6103bb6f7eee8c896471faf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fd98b9c0ca7249b672e0b40619700d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836323,
+            "locality_id":101833285,
+            "region_id":85681671,
+            "venue_id":1092282053
+        }
+    ],
     "wof:id":1092282053,
-    "wof:lastmodified":1473983605,
+    "wof:lastmodified":1496890517,
     "wof:name":"Aloe Vera - Beraterin - Margit Trum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

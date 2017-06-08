@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.0703268051,47.0631484985,15.0703268051,47.0631484985",
     "geom:latitude":47.063148,
     "geom:longitude":15.070327,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839349,
+        85632785,
+        101789007,
+        102049717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SNoZJMjWIQZbU9eaZR1nk_47.063148_15.070327@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889229,
-    "wof:geomhash":"7e01aa28570615f5b8c92527676cf87b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b094768c0eb03226d7ffd7c47337f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108839349,
+            "locality_id":101789007,
+            "region_id":85681687,
+            "venue_id":1091839029
+        }
+    ],
     "wof:id":1091839029,
-    "wof:lastmodified":1473985260,
+    "wof:lastmodified":1496909512,
     "wof:name":"Franz J\u00f6bstl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

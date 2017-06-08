@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.8399801254,46.5983467102,13.8399801254,46.5983467102",
     "geom:latitude":46.598347,
     "geom:longitude":13.83998,
@@ -25,10 +26,12 @@
     "sg:website":"berglitsch.at",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898251,
-        102049673
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906563,
-    "wof:geomhash":"e64ecf79091dc3faf371903d7df29124",
+    "wof:geomhash":"f4bb7b3e64131dd027360be95e74ec77",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
             "neighbourhood_id":85898251,
             "region_id":85681655,
             "venue_id":1092223649
         }
     ],
     "wof:id":1092223649,
-    "wof:lastmodified":1473984155,
+    "wof:lastmodified":1496906196,
     "wof:name":"Berglitsch Siegfried Ing",
     "wof:parent_id":85898251,
     "wof:placetype":"venue",

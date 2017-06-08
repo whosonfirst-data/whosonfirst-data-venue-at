@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5399513245,47.0029144287,12.5399513245,47.0029144287",
     "geom:latitude":47.002914,
     "geom:longitude":12.539951,
@@ -31,17 +32,34 @@
         "bathroom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837513,
+        85632785,
+        101788979,
+        102049703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17PaSfa03nLnFB0eTyIwOW_47.002914_12.539951@1306268233"
     },
     "wof:country":"AT",
     "wof:created":1473889227,
-    "wof:geomhash":"e360707a205e73432583c611b482fb5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afee890160b226050d6bc6bc19c8d556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837513,
+            "locality_id":101788979,
+            "region_id":85681661,
+            "venue_id":1091838989
+        }
+    ],
     "wof:id":1091838989,
-    "wof:lastmodified":1473985255,
+    "wof:lastmodified":1496898255,
     "wof:name":"Andreas Steiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

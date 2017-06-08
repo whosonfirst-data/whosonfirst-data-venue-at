@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2878847122,46.506855011,14.2878847122,46.506855011",
     "geom:latitude":46.506855,
     "geom:longitude":14.287885,
@@ -33,17 +34,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838165,
+        85632785,
+        102049681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EG9KzU3GIHDeKu5U7azUp_46.506855_14.287885@1306268304"
     },
     "wof:country":"AT",
     "wof:created":1473911551,
-    "wof:geomhash":"47c99f7c73c94036d62760469415b046",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1791f288b107a96fc6f71df76a2736a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838165,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092338097
+        }
+    ],
     "wof:id":1092338097,
-    "wof:lastmodified":1473985244,
+    "wof:lastmodified":1496906315,
     "wof:name":"KOSTWEIN-PRECIS MASCHINENBAU GMBH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

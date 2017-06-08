@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5041694641,48.2137908936,16.5041694641,48.2137908936",
     "geom:latitude":48.213791,
     "geom:longitude":16.504169,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901139,
-    "wof:geomhash":"a7f5754d39b24c0b7b1fab7dcde2d9d9",
+    "wof:geomhash":"cdc5f91c3d0c85811beb11325157ff47",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092106775
         }
     ],
     "wof:id":1092106775,
-    "wof:lastmodified":1473984657,
+    "wof:lastmodified":1496902163,
     "wof:name":"Weixlbraun Magdalena",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

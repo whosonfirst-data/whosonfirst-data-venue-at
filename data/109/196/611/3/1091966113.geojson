@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.563495636,47.2495193481,13.563495636,47.2495193481",
     "geom:latitude":47.249519,
     "geom:longitude":13.563496,
@@ -28,17 +29,33 @@
     "sg:postcode":"5562",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837069,
+        85632785,
+        102049721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3szxVbfXJ8DIUnGIims4YZ_47.249519_13.563496@1306268251"
     },
     "wof:country":"AT",
     "wof:created":1473895079,
-    "wof:geomhash":"0fffbe257791eb9718934b81b6739d20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de88cbc107d35bb56e74cf6b18ae44ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837069,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091966113
+        }
+    ],
     "wof:id":1091966113,
-    "wof:lastmodified":1473984270,
+    "wof:lastmodified":1496894327,
     "wof:name":"Restaurant Olympiast\u00fctzpunkt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

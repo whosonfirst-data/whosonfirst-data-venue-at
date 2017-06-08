@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6395320892,47.2743301392,9.6395320892,47.2743301392",
     "geom:latitude":47.27433,
     "geom:longitude":9.639532,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473916137,
-    "wof:geomhash":"b3ccb6cb769f8f0676169d28904ad025",
+    "wof:geomhash":"2e3450d76c5c705476641c894be8eb9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092434939
         }
     ],
     "wof:id":1092434939,
-    "wof:lastmodified":1473984386,
+    "wof:lastmodified":1496901645,
     "wof:name":"Helga's Fotostudio",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

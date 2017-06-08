@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2117538452,48.00548172,16.2117538452,48.00548172",
     "geom:latitude":48.005482,
     "geom:longitude":16.211754,
@@ -24,10 +25,12 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898379,
-        102049829
+        102191581,
+        1108835321,
+        85632785,
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913462,
-    "wof:geomhash":"1b6183ce14c240275e65ef6866a8f33e",
+    "wof:geomhash":"280df01cb9115b8b6f37bc6b8bd37381",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":-1,
             "neighbourhood_id":85898379,
             "region_id":85681671,
             "venue_id":1092380307
         }
     ],
     "wof:id":1092380307,
-    "wof:lastmodified":1473983388,
+    "wof:lastmodified":1496886052,
     "wof:name":"Necker Doris Dipl-PT",
     "wof:parent_id":85898379,
     "wof:placetype":"venue",

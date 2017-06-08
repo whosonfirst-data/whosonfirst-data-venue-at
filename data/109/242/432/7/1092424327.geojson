@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9158706665,47.4344444275,9.9158706665,47.4344444275",
     "geom:latitude":47.434444,
     "geom:longitude":9.915871,
@@ -33,17 +34,34 @@
         "roof"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837931,
+        85632785,
+        101827501,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qZ8LFh5BzHfH3FStc00vd_47.434444_9.915871@1306268317"
     },
     "wof:country":"AT",
     "wof:created":1473915647,
-    "wof:geomhash":"3529f427bf3d977de56149eda7152f5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1de640684b3aa213b488d84ffd372c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837931,
+            "locality_id":101827501,
+            "region_id":85681649,
+            "venue_id":1092424327
+        }
+    ],
     "wof:id":1092424327,
-    "wof:lastmodified":1473984148,
+    "wof:lastmodified":1496900878,
     "wof:name":"Dachdeckerei Wirth GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

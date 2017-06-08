@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.7957191467,48.260471344,15.7957191467,48.260471344",
     "geom:latitude":48.260471,
     "geom:longitude":15.795719,
@@ -23,17 +24,33 @@
     "sg:postcode":"3142",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835491,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kQV8yhzKmankqUe4ToWj9_48.260471_15.795719@1306268231"
     },
     "wof:country":"AT",
     "wof:created":1473888797,
-    "wof:geomhash":"a076399816badbdeedc549430ec2e087",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27419dba5295c541bbd816141bc20b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835491,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091830121
+        }
+    ],
     "wof:id":1091830121,
-    "wof:lastmodified":1473983303,
+    "wof:lastmodified":1496886859,
     "wof:name":"Sparkasse Herzogenburg-Neulengbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8744573593,47.9443016052,14.8744573593,47.9443016052",
     "geom:latitude":47.944302,
     "geom:longitude":14.874457,
@@ -24,17 +25,34 @@
     "sg:province":"Nieder\u00f6sterreich",
     "sg:website":"www.seisenbacher.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836827,
+        85632785,
+        101785613,
+        102049801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gv4tFHH5Y2M9IBDq0V7Z0_47.944302_14.874457@1306268312"
     },
     "wof:country":"AT",
     "wof:created":1473914192,
-    "wof:geomhash":"cd6d59ee35d6a7e9de7e002854555261",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f0dbd273c689bd56bc894e0a6825b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049801,
+            "localadmin_id":1108836827,
+            "locality_id":101785613,
+            "region_id":85681671,
+            "venue_id":1092394807
+        }
+    ],
     "wof:id":1092394807,
-    "wof:lastmodified":1473984077,
+    "wof:lastmodified":1496892985,
     "wof:name":"Seisenbacher GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

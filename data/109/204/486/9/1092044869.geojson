@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.6246204376,47.0540885925,10.6246204376,47.0540885925",
     "geom:latitude":47.054089,
     "geom:longitude":10.62462,
@@ -28,17 +29,33 @@
     "sg:postcode":"6533",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837285,
+        85632785,
+        102049707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JYLaVfzUqWXQetcl3E7xI_47.054089_10.624620@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898313,
-    "wof:geomhash":"799f9a4034738fa533ba6ce6ca7955b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a58be531d685e71e37c7f340f68d4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837285,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092044869
+        }
+    ],
     "wof:id":1092044869,
-    "wof:lastmodified":1473983719,
+    "wof:lastmodified":1496896656,
     "wof:name":"Dreisonnenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

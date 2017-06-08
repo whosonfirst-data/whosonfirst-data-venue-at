@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.5055961609,47.2808761597,11.5055961609,47.2808761597",
     "geom:latitude":47.280876,
     "geom:longitude":11.505596,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85904327,
-        102049735
+        102191581,
+        1108837615,
+        85632785,
+        101844489,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905829,
-    "wof:geomhash":"c1f3983fbdcddd0ffe807ed67ec756c9",
+    "wof:geomhash":"9c1d989214cc5ed8deaad8f92e4726d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837615,
+            "locality_id":101844489,
             "neighbourhood_id":85904327,
             "region_id":85681661,
             "venue_id":1092207023
         }
     ],
     "wof:id":1092207023,
-    "wof:lastmodified":1473984794,
+    "wof:lastmodified":1496898735,
     "wof:name":"Schlosserei & Schl\u00fcsselschmiede Graber GmbH",
     "wof:parent_id":85904327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7697143555,46.8102226257,13.7697143555,46.8102226257",
     "geom:latitude":46.810223,
     "geom:longitude":13.769714,
@@ -32,17 +33,33 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838249,
+        85632785,
+        102049701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RxEqUO93scHUZkNpMOBNK_46.810223_13.769714@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895400,
-    "wof:geomhash":"16f70f6fa691e72827e5e44259de46a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94a0bf229944c9f678c737baeea13e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838249,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1091973743
+        }
+    ],
     "wof:id":1091973743,
-    "wof:lastmodified":1473984152,
+    "wof:lastmodified":1496906797,
     "wof:name":"JAKOB FORSTNIG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

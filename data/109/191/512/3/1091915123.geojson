@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4884805679,48.2197418213,15.4884805679,48.2197418213",
     "geom:latitude":48.219742,
     "geom:longitude":15.488481,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836925,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pMWup5CAUyIqfnJV4aSqh_48.219742_15.488481@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892795,
-    "wof:geomhash":"565f85eb787c673b653b5419592c9721",
-    "wof:hierarchy":[],
+    "wof:geomhash":"997a5b87ed534dde3d68c5f019e7c523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836925,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1091915123
+        }
+    ],
     "wof:id":1091915123,
-    "wof:lastmodified":1473983974,
+    "wof:lastmodified":1496893386,
     "wof:name":"Prologic Computer GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

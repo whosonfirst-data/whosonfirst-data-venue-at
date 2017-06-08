@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4893169403,48.2168426514,16.4893169403,48.2168426514",
     "geom:latitude":48.216843,
     "geom:longitude":16.489317,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898281,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896813,
-    "wof:geomhash":"d38164428b9318e824ecb7f8210ab869",
+    "wof:geomhash":"5df6ef317d4c794b7e662b79ae7e234d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898281,
             "region_id":85681667,
             "venue_id":1092006667
         }
     ],
     "wof:id":1092006667,
-    "wof:lastmodified":1473984611,
+    "wof:lastmodified":1496929393,
     "wof:name":"Felsberger Ges.m.b.H.",
     "wof:parent_id":85898281,
     "wof:placetype":"venue",

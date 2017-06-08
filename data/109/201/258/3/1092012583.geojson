@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9219732285,48.0457038879,12.9219732285,48.0457038879",
     "geom:latitude":48.045704,
     "geom:longitude":12.921973,
@@ -33,17 +34,33 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834723,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35dfHUw6gs9jG8MzBmjv2h_48.045704_12.921973@1306268258"
     },
     "wof:country":"AT",
     "wof:created":1473897047,
-    "wof:geomhash":"5303f9efa7a1024531c99db9836969c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ed5a2341638db059bc05d3563f55ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834723,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092012583
+        }
+    ],
     "wof:id":1092012583,
-    "wof:lastmodified":1473983386,
+    "wof:lastmodified":1496882341,
     "wof:name":"Erich Veichtlbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

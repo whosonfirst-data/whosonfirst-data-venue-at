@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.9939680099,47.8666114807,15.9939680099,47.8666114807",
     "geom:latitude":47.866611,
     "geom:longitude":15.993968,
@@ -32,17 +33,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835845,
+        85632785,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00EnnYlqZc7oaFmfkgi5Lr_47.866611_15.993968@1306268264"
     },
     "wof:country":"AT",
     "wof:created":1473898916,
-    "wof:geomhash":"58ead4cb28b84230d49afb3499d7c390",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be323787e8cc7dedcca0e57ae904cf01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835845,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092060411
+        }
+    ],
     "wof:id":1092060411,
-    "wof:lastmodified":1473983470,
+    "wof:lastmodified":1496888652,
     "wof:name":"Kurz Installationen Ges.m.b.H.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

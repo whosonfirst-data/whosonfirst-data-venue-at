@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.529958725,47.5672149658,16.529958725,47.5672149658",
     "geom:latitude":47.567215,
     "geom:longitude":16.529959,
@@ -23,17 +24,33 @@
     "sg:postcode":"7321",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838747,
+        85632785,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gv3pgV2f2qmeqRU4n8qNN_47.567215_16.529959@1306268268"
     },
     "wof:country":"AT",
     "wof:created":1473900229,
-    "wof:geomhash":"81bffedf3a25528309a1315b391e1a8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19b9540d9e52d8f0f73a2d89aec99ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838747,
+            "locality_id":-1,
+            "region_id":85681651,
+            "venue_id":1092089985
+        }
+    ],
     "wof:id":1092089985,
-    "wof:lastmodified":1473985269,
+    "wof:lastmodified":1496909216,
     "wof:name":"Gemeindeamt Raiding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

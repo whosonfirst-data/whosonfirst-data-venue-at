@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0801868439,47.7915115356,13.0801868439,47.7915115356",
     "geom:latitude":47.791512,
     "geom:longitude":13.080187,
@@ -24,10 +25,13 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898461,
-        102049779
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901275,
-    "wof:geomhash":"3ba7852254846f31e53ea235e3e4ecb5",
+    "wof:geomhash":"6308735152261d042059e35008a2c48d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
             "neighbourhood_id":85898461,
             "region_id":85681681,
             "venue_id":1092109721
         }
     ],
     "wof:id":1092109721,
-    "wof:lastmodified":1473985193,
+    "wof:lastmodified":1496894405,
     "wof:name":"Rohrmanstorfer Dentallabor KEG",
     "wof:parent_id":85898461,
     "wof:placetype":"venue",

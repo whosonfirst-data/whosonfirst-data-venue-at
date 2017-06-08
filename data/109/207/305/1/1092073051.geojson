@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0742731094,47.9685249329,13.0742731094,47.9685249329",
     "geom:latitude":47.968525,
     "geom:longitude":13.074273,
@@ -23,17 +24,34 @@
     "sg:postcode":"5164",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837181,
+        85632785,
+        101785611,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L7Ctm9cIMTHYjBcdy8ihZ_47.968525_13.074273@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899433,
-    "wof:geomhash":"556eb5e2d0b5d599b97fc67afdd9f72e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b240ff6c000a24209fc0091b1149feb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837181,
+            "locality_id":101785611,
+            "region_id":85681681,
+            "venue_id":1092073051
+        }
+    ],
     "wof:id":1092073051,
-    "wof:lastmodified":1473983830,
+    "wof:lastmodified":1496895666,
     "wof:name":"Gasthof Kellerwirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.3896932602,47.2595558167,11.3896932602,47.2595558167",
     "geom:latitude":47.259556,
     "geom:longitude":11.389693,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898613,
-        102049723
+        102191581,
+        1108837687,
+        85632785,
+        101748061,
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473896842,
-    "wof:geomhash":"78ab8eac6fd0810b916fcc95173d0b9e",
+    "wof:geomhash":"c7d2a43c6024a5cdb13dc8e1148de06d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049723,
+            "localadmin_id":1108837687,
+            "locality_id":101748061,
             "neighbourhood_id":85898613,
             "region_id":85681661,
             "venue_id":1092007399
         }
     ],
     "wof:id":1092007399,
-    "wof:lastmodified":1473984741,
+    "wof:lastmodified":1496899440,
     "wof:name":"Ortho-Dental Egg Ges.m.b.H.",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",

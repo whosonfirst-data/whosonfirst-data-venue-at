@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4790391922,48.213760376,14.4790391922,48.213760376",
     "geom:latitude":48.21376,
     "geom:longitude":14.479039,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473899272,
-    "wof:geomhash":"ad4d4d9b5083d16c60104c1db9e7b2cf",
+    "wof:geomhash":"f94227512b9c893037cabb731a4dbf23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092069039
         }
     ],
     "wof:id":1092069039,
-    "wof:lastmodified":1473985016,
+    "wof:lastmodified":1496887084,
     "wof:name":"Gasthaus Stadt Linz",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

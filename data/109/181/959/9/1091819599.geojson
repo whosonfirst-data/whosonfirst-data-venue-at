@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.1922245026,48.1365089417,16.1922245026,48.1365089417",
     "geom:latitude":48.136509,
     "geom:longitude":16.192225,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"multidata.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835791,
+        85632785,
+        101754177,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58uvnihwJokJP3SNCfoefI_48.136509_16.192225@1306268316"
     },
     "wof:country":"AT",
     "wof:created":1473888330,
-    "wof:geomhash":"268a7a50fef2d738887026ea2d53f7aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"441cd4521ba904fa995b3baba8adb613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108835791,
+            "locality_id":101754177,
+            "region_id":85681671,
+            "venue_id":1091819599
+        }
+    ],
     "wof:id":1091819599,
-    "wof:lastmodified":1473985195,
+    "wof:lastmodified":1496888356,
     "wof:name":"MultiData Software Entwicklungsges.m.b.H. & Co KG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

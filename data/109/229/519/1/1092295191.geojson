@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.1513023376,47.3726921082,11.1513023376,47.3726921082",
     "geom:latitude":47.372692,
     "geom:longitude":11.151302,
@@ -23,17 +24,33 @@
     "sg:postcode":"6105",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lZnVdUaY9ZnpI220nmkyJ_47.372692_11.151302@1306268298"
     },
     "wof:country":"AT",
     "wof:created":1473909661,
-    "wof:geomhash":"63ea5971a2ec953fbe2082980a06be12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c4049c875001e32505273f80009869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092295191
+        }
+    ],
     "wof:id":1092295191,
-    "wof:lastmodified":1473984538,
+    "wof:lastmodified":1496898443,
     "wof:name":"Haus Bergfreund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

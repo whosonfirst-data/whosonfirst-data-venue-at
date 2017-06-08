@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5359764099,48.2075157166,16.5359764099,48.2075157166",
     "geom:latitude":48.207516,
     "geom:longitude":16.535976,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473906557,
-    "wof:geomhash":"a279b440588ab2cc5506745565390400",
+    "wof:geomhash":"6fd1ae11ada24cc5ffec886061e6e9c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1092223473
         }
     ],
     "wof:id":1092223473,
-    "wof:lastmodified":1473984136,
+    "wof:lastmodified":1496902086,
     "wof:name":"Klug Margot",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.2472200394,47.9540710449,13.2472200394,47.9540710449",
     "geom:latitude":47.954071,
     "geom:longitude":13.24722,
@@ -23,17 +24,33 @@
     "sg:postcode":"5202",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837163,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cVtVRgatStO2DevyaTNCb_47.954071_13.247220@1306268281"
     },
     "wof:country":"AT",
     "wof:created":1473904827,
-    "wof:geomhash":"32a1c1ce656ace3cf79f3c1739cc5f65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e15d9258caea0984ec82a7defff9ffc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837163,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092185563
+        }
+    ],
     "wof:id":1092185563,
-    "wof:lastmodified":1473984555,
+    "wof:lastmodified":1496895550,
     "wof:name":"Wolf Elmar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

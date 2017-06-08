@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5149765015,48.2147407532,16.5149765015,48.2147407532",
     "geom:latitude":48.214741,
     "geom:longitude":16.514977,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898293,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895207,
-    "wof:geomhash":"ff53208a993a6645648cdc088faf3311",
+    "wof:geomhash":"cb6185b27658e589dab5b97e4da9c95c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898293,
             "region_id":85681667,
             "venue_id":1091969233
         }
     ],
     "wof:id":1091969233,
-    "wof:lastmodified":1473984784,
+    "wof:lastmodified":1496902957,
     "wof:name":"China-Restaurant E\u00dfling",
     "wof:parent_id":85898293,
     "wof:placetype":"venue",

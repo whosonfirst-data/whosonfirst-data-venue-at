@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2340507507,48.2785758972,15.2340507507,48.2785758972",
     "geom:latitude":48.278576,
     "geom:longitude":15.234051,
@@ -33,17 +34,33 @@
         "pool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836977,
+        85632785,
+        102049855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ETUl2aQAkaM6chjPm81Uv_48.278576_15.234051@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905348,
-    "wof:geomhash":"d6483e0bf75329f2b0241296ca736ca7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac92828ae6231324c8040dbf701e0632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836977,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092197579
+        }
+    ],
     "wof:id":1092197579,
-    "wof:lastmodified":1473985055,
+    "wof:lastmodified":1496893625,
     "wof:name":"Werner Weissensteiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

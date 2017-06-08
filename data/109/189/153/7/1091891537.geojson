@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2125644684,47.2865753174,16.2125644684,47.2865753174",
     "geom:latitude":47.286575,
     "geom:longitude":16.212564,
@@ -23,17 +24,34 @@
     "sg:postcode":"7400",
     "sg:province":"Burgenland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838461,
+        85632785,
+        101787889,
+        102049757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lHFo58motMVSc6exNXcG9_47.286575_16.212564@1306268240"
     },
     "wof:country":"AT",
     "wof:created":1473891700,
-    "wof:geomhash":"0e6baa86723d4459b1cf4a0e775390d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10c98699edc8dc8413fa940d2d2f608f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838461,
+            "locality_id":101787889,
+            "region_id":85681651,
+            "venue_id":1091891537
+        }
+    ],
     "wof:id":1091891537,
-    "wof:lastmodified":1473983700,
+    "wof:lastmodified":1496908020,
     "wof:name":"Buch-Papier-B\u00fcro Gro\u00df- u Einzelhandel Pokorny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

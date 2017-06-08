@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4632968903,48.1487541199,14.4632968903,48.1487541199",
     "geom:latitude":48.148754,
     "geom:longitude":14.463297,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"latschbacher.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835539,
+        85632785,
+        101844597,
+        102049847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mNcFxz629k3Yuoeqc1rqZ_48.148754_14.463297@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896748,
-    "wof:geomhash":"411cabb36fb8ceb66d24a1538385d173",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad261663add8b3a863bd7613166fb2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835539,
+            "locality_id":101844597,
+            "region_id":85681677,
+            "venue_id":1092005323
+        }
+    ],
     "wof:id":1092005323,
-    "wof:lastmodified":1473984373,
+    "wof:lastmodified":1496887140,
     "wof:name":"Latschbacher GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

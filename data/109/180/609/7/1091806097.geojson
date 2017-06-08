@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0871562958,47.777923584,13.0871562958,47.777923584",
     "geom:latitude":47.777924,
     "geom:longitude":13.087156,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898469,
-        102049799
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473887710,
-    "wof:geomhash":"9d25207d62dfb1353061cbc194baf5e5",
+    "wof:geomhash":"a6b2abd02f6b62b0a8056992bfcf377c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049799,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
             "neighbourhood_id":85898469,
             "region_id":85681681,
             "venue_id":1091806097
         }
     ],
     "wof:id":1091806097,
-    "wof:lastmodified":1473983633,
+    "wof:lastmodified":1496894538,
     "wof:name":"SCHNAPS-EXPRESS-SCHWAB",
     "wof:parent_id":85898469,
     "wof:placetype":"venue",

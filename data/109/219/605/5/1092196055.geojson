@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4941835403,48.2140045166,14.4941835403,48.2140045166",
     "geom:latitude":48.214005,
     "geom:longitude":14.494184,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898431,
-        102049847
+        102191581,
+        1108835527,
+        85632785,
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473905286,
-    "wof:geomhash":"02b5e5075682a1c6f8d02f453a2f4102",
+    "wof:geomhash":"3b00d434eff281796a37e677c09e5188",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049847,
+            "localadmin_id":1108835527,
+            "locality_id":-1,
             "neighbourhood_id":85898431,
             "region_id":85681677,
             "venue_id":1092196055
         }
     ],
     "wof:id":1092196055,
-    "wof:lastmodified":1473984660,
+    "wof:lastmodified":1496886556,
     "wof:name":"Klaffenb\u00f6ck & Lasch OEG",
     "wof:parent_id":85898431,
     "wof:placetype":"venue",

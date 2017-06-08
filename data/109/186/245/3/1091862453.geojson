@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.2324714661,46.8155288696,15.2324714661,46.8155288696",
     "geom:latitude":46.815529,
     "geom:longitude":15.232471,
@@ -24,17 +25,34 @@
     "sg:province":"Steiermark",
     "sg:website":"pinter-gmbh.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        101788963,
+        102049691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EbQsKTJbwS3e1QOvC568i_46.815529_15.232471@1306268236"
     },
     "wof:country":"AT",
     "wof:created":1473890320,
-    "wof:geomhash":"1bfcd8b060c968e9dbe7fa37388c7a7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd2d47f83f52ff77cd23132c43dbcf7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":101788963,
+            "region_id":85681687,
+            "venue_id":1091862453
+        }
+    ],
     "wof:id":1091862453,
-    "wof:lastmodified":1473983918,
+    "wof:lastmodified":1496912607,
     "wof:name":"Pinter GesmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

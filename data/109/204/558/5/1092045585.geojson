@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.2622976303,47.4517326355,12.2622976303,47.4517326355",
     "geom:latitude":47.451733,
     "geom:longitude":12.262298,
@@ -28,17 +29,33 @@
     "sg:postcode":"6364",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837357,
+        85632785,
+        102049763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jPTGOCDbDcHM9l9uaHqI0_47.451733_12.262298@1306268262"
     },
     "wof:country":"AT",
     "wof:created":1473898340,
-    "wof:geomhash":"6572e5073d32362c71b383260aa90eae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c34d98bf8719f31ad49a98bdacf0916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837357,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092045585
+        }
+    ],
     "wof:id":1092045585,
-    "wof:lastmodified":1473983811,
+    "wof:lastmodified":1496897251,
     "wof:name":"Hotel Alpenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

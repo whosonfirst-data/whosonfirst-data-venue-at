@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0711765289,47.8185958862,13.0711765289,47.8185958862",
     "geom:latitude":47.818596,
     "geom:longitude":13.071177,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898479,
-        102049799
+        102191581,
+        1108837155,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901432,
-    "wof:geomhash":"f27d414536e2bce06c155249aaf5d9d8",
+    "wof:geomhash":"78526565e4016afab69149b8b97758e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837155,
+            "locality_id":-1,
             "neighbourhood_id":85898479,
             "region_id":85681681,
             "venue_id":1092113017
         }
     ],
     "wof:id":1092113017,
-    "wof:lastmodified":1473983962,
+    "wof:lastmodified":1496894580,
     "wof:name":"Niederreiter Thomas",
     "wof:parent_id":85898479,
     "wof:placetype":"venue",

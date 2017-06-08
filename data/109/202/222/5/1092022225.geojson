@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.4525032043,48.2945632935,16.4525032043,48.2945632935",
     "geom:latitude":48.294563,
     "geom:longitude":16.452503,
@@ -24,10 +25,13 @@
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681671,
-        85632785,
         85898359,
-        102049871
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897431,
-    "wof:geomhash":"9e421bcb94532b88ca842f2ed78fc375",
+    "wof:geomhash":"dbc85416c173d8862f4f27ad11ff34c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049871,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898359,
-            "region_id":85681671,
+            "region_id":85681667,
             "venue_id":1092022225
         }
     ],
     "wof:id":1092022225,
-    "wof:lastmodified":1473983728,
+    "wof:lastmodified":1496890145,
     "wof:name":"Pfarramt Oberlisse",
     "wof:parent_id":85898359,
     "wof:placetype":"venue",

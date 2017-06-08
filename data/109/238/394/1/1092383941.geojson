@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.650850296,47.2748718262,9.650850296,47.2748718262",
     "geom:latitude":47.274872,
     "geom:longitude":9.65085,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898615,
-        102049725
+        102191581,
+        1108838021,
+        85632785,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913636,
-    "wof:geomhash":"1bc3efc585d22a834bacbafe6349703f",
+    "wof:geomhash":"392dd95fe5a644141d588b7cf0ce1941",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":-1,
             "neighbourhood_id":85898615,
             "region_id":85681649,
             "venue_id":1092383941
         }
     ],
     "wof:id":1092383941,
-    "wof:lastmodified":1473984214,
+    "wof:lastmodified":1496901661,
     "wof:name":"Pizzeria Ristorante Michele",
     "wof:parent_id":85898615,
     "wof:placetype":"venue",

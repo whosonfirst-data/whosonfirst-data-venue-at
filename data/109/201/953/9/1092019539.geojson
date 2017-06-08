@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.746931076,47.4098701477,9.746931076,47.4098701477",
     "geom:latitude":47.40987,
     "geom:longitude":9.746931,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898625,
-        102049737
+        102191581,
+        1108837925,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897328,
-    "wof:geomhash":"d54a61dd1b7aa001f8b4a28ed97c5a2a",
+    "wof:geomhash":"b53533475e81b9fd7e2730a18c766a55",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837925,
+            "locality_id":-1,
             "neighbourhood_id":85898625,
             "region_id":85681649,
             "venue_id":1092019539
         }
     ],
     "wof:id":1092019539,
-    "wof:lastmodified":1473984745,
+    "wof:lastmodified":1496900817,
     "wof:name":"Evangelisches Pfarramt",
     "wof:parent_id":85898625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3150043488,48.3720245361,16.3150043488,48.3720245361",
     "geom:latitude":48.372025,
     "geom:longitude":16.315004,
@@ -31,17 +32,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836331,
+        85632785,
+        101754249,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77OeRCFWR2ZlT1uycp1X5X_48.372025_16.315004@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892780,
-    "wof:geomhash":"33b737b6f3a8e1cbcef7b140af294e01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf8a0d6390810c47fa3d082e189f3b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836331,
+            "locality_id":101754249,
+            "region_id":85681671,
+            "venue_id":1091914687
+        }
+    ],
     "wof:id":1091914687,
-    "wof:lastmodified":1473983925,
+    "wof:lastmodified":1496890618,
     "wof:name":"MMM Software - Michael Markus Maresch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

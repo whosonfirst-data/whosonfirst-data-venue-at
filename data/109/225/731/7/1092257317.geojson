@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1359500885,47.9733581543,13.1359500885,47.9733581543",
     "geom:latitude":47.973358,
     "geom:longitude":13.13595,
@@ -24,17 +25,33 @@
     "sg:province":"Salzburg",
     "sg:website":"www.lindner-erdbau.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837159,
+        85632785,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N2l7KJIwUEPYh9wu2hqg1_47.973358_13.135950@1306268292"
     },
     "wof:country":"AT",
     "wof:created":1473908032,
-    "wof:geomhash":"4b4cbbb9bfc35d50295f9223ca4f6c78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae12048c7aa43d849fc453747d416a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837159,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1092257317
+        }
+    ],
     "wof:id":1092257317,
-    "wof:lastmodified":1473985008,
+    "wof:lastmodified":1496895495,
     "wof:name":"Lindner Josef Ing GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3955020905,48.1383590698,16.3955020905,48.1383590698",
     "geom:latitude":48.138359,
     "geom:longitude":16.395502,
@@ -24,10 +25,13 @@
     "sg:province":"Wien",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
-        85632785,
         85898365,
-        102049859
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473897089,
-    "wof:geomhash":"b1d8d3d7f3ec83ef12f7e016e8a10388",
+    "wof:geomhash":"7f15ef7cfcec37492c8ddb254d190a17",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
             "neighbourhood_id":85898365,
             "region_id":85681667,
             "venue_id":1092013607
         }
     ],
     "wof:id":1092013607,
-    "wof:lastmodified":1473983597,
+    "wof:lastmodified":1496904144,
     "wof:name":"Christoph & Co",
     "wof:parent_id":85898365,
     "wof:placetype":"venue",

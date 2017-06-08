@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5976524353,47.2377853394,9.5976524353,47.2377853394",
     "geom:latitude":47.237785,
     "geom:longitude":9.597652,
@@ -24,10 +25,13 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898631,
-        102049725
+        102191581,
+        1108837937,
+        85632785,
+        101827453,
+        102049725,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473901867,
-    "wof:geomhash":"64d2a152bacfbc05f693ea2c0b99cbdf",
+    "wof:geomhash":"5ab53f83fdfc2a9b1d5f73fdf9527b0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049725,
+            "localadmin_id":1108837937,
+            "locality_id":101827453,
             "neighbourhood_id":85898631,
             "region_id":85681649,
             "venue_id":1092122277
         }
     ],
     "wof:id":1092122277,
-    "wof:lastmodified":1473983911,
+    "wof:lastmodified":1496900938,
     "wof:name":"Ritter Eugen",
     "wof:parent_id":85898631,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2501354218,47.8976898193,16.2501354218,47.8976898193",
     "geom:latitude":47.89769,
     "geom:longitude":16.250135,
@@ -31,17 +32,34 @@
         "pizzeria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834873,
+        85632785,
+        101833123,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6khNCIiZx3iDNFlUEVB6Rb_47.897690_16.250135@1306268310"
     },
     "wof:country":"AT",
     "wof:created":1473913604,
-    "wof:geomhash":"c623327965d134ad64f99c7f7a9fac9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb610e9b093e42154ef50ae71a4fc16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108834873,
+            "locality_id":101833123,
+            "region_id":85681671,
+            "venue_id":1092383249
+        }
+    ],
     "wof:id":1092383249,
-    "wof:lastmodified":1473984158,
+    "wof:lastmodified":1496883226,
     "wof:name":"Pizzeria Don Alfredo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

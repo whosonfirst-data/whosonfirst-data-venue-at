@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.1540203094,47.5950698853,12.1540203094,47.5950698853",
     "geom:latitude":47.59507,
     "geom:longitude":12.15402,
@@ -31,17 +32,33 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        102049771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Yi4BFXhCgpP6aGeHAT431_47.595070_12.154020@1306268244"
     },
     "wof:country":"AT",
     "wof:created":1473892820,
-    "wof:geomhash":"eb90a5057b571b4fc9b8716680f95687",
-    "wof:hierarchy":[],
+    "wof:geomhash":"262ce46091ad3990b32d1e3fd2b2d2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1091915753
+        }
+    ],
     "wof:id":1091915753,
-    "wof:lastmodified":1473984073,
+    "wof:lastmodified":1496897640,
     "wof:name":"Styletronic GmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

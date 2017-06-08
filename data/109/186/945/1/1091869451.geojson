@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.7903766632,47.303276062,12.7903766632,47.303276062",
     "geom:latitude":47.303276,
     "geom:longitude":12.790377,
@@ -23,17 +24,33 @@
     "sg:postcode":"5700",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fTIwuBBNThUpQVeWbNoHk_47.303276_12.790377@1306268237"
     },
     "wof:country":"AT",
     "wof:created":1473890632,
-    "wof:geomhash":"961929983494b497d7725da69f9754fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"877d80d1c4a23d95358b26dd90046698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091869451
+        }
+    ],
     "wof:id":1091869451,
-    "wof:lastmodified":1473985318,
+    "wof:lastmodified":1496896421,
     "wof:name":"Schlo\u00dfladen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

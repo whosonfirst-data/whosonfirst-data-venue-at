@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9226799011,47.487121582,9.9226799011,47.487121582",
     "geom:latitude":47.487122,
     "geom:longitude":9.92268,
@@ -23,17 +24,33 @@
     "sg:postcode":"6942",
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837979,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ouWRb5sjB1CxuYSloCR4U_47.487122_9.922680@1306268308"
     },
     "wof:country":"AT",
     "wof:created":1473912762,
-    "wof:geomhash":"27ebf5fc91482a8553083fd4e5668b53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39e6795fbbff7263a0a69f18963cc172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837979,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1092365143
+        }
+    ],
     "wof:id":1092365143,
-    "wof:lastmodified":1473984531,
+    "wof:lastmodified":1496901233,
     "wof:name":"Haldenst\u00fcble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

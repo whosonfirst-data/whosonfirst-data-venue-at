@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.6327676773,46.7029151917,13.6327676773,46.7029151917",
     "geom:latitude":46.702915,
     "geom:longitude":13.632768,
@@ -33,17 +34,33 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838119,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28tjC2KUTqmu6u5BXQcpua_46.702915_13.632768@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905512,
-    "wof:geomhash":"b1cd5608fabb7aa9df8a6e7d6b066662",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6b397de5531c8e27c1322d328623849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838119,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1092200943
+        }
+    ],
     "wof:id":1092200943,
-    "wof:lastmodified":1473983505,
+    "wof:lastmodified":1496905307,
     "wof:name":"Atelier Kunstwerkstatt Roland Mikula",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2039985657,48.1188545227,16.2039985657,48.1188545227",
     "geom:latitude":48.118855,
     "geom:longitude":16.203999,
@@ -23,17 +24,34 @@
     "sg:postcode":"2391",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835409,
+        85632785,
+        101784493,
+        102049837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Bi7wRlXgiIJTFOIaZMao3_48.118855_16.203999@1306268252"
     },
     "wof:country":"AT",
     "wof:created":1473895363,
-    "wof:geomhash":"0e6f049b6c5e50c5296218d11acfba6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2ae6ea02773347d516bd493590d05dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108835409,
+            "locality_id":101784493,
+            "region_id":85681671,
+            "venue_id":1091972773
+        }
+    ],
     "wof:id":1091972773,
-    "wof:lastmodified":1473983945,
+    "wof:lastmodified":1496886525,
     "wof:name":"Rotes Kreuz \u00d6sterr Ortsstelle Kaltenleutgeben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

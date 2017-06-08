@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.8389644623,46.967754364,15.8389644623,46.967754364",
     "geom:latitude":46.967754,
     "geom:longitude":15.838964,
@@ -22,17 +23,33 @@
     "sg:postcode":"8330",
     "sg:province":"Steiermark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839259,
+        85632785,
+        102049705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uk5n7U7iLtzlcjF4vAN0u_46.967754_15.838964@1306268274"
     },
     "wof:country":"AT",
     "wof:created":1473888006,
-    "wof:geomhash":"d9158cb88f2c46b158433af6a9366a6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3946636312b88b150498ba401f2c7810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049705,
+            "localadmin_id":1108839259,
+            "locality_id":-1,
+            "region_id":85681687,
+            "venue_id":1091812065
+        }
+    ],
     "wof:id":1091812065,
-    "wof:lastmodified":1473983727,
+    "wof:lastmodified":1496912260,
     "wof:name":"Wasserbauhof Paurach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6984453201,47.3817367554,9.6984453201,47.3817367554",
     "geom:latitude":47.381737,
     "geom:longitude":9.698445,
@@ -24,10 +25,12 @@
     "sg:province":"Vorarlberg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681649,
-        85632785,
         85898621,
-        102049737
+        102191581,
+        1108837963,
+        85632785,
+        102049737,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473913968,
-    "wof:geomhash":"d0f96ce8c1e45eb72d1c8707eabf72b4",
+    "wof:geomhash":"8d89103d46b69bab2e81dea222a02053",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049737,
+            "localadmin_id":1108837963,
+            "locality_id":-1,
             "neighbourhood_id":85898621,
             "region_id":85681649,
             "venue_id":1092390251
         }
     ],
     "wof:id":1092390251,
-    "wof:lastmodified":1473983354,
+    "wof:lastmodified":1496901102,
     "wof:name":"Gendarmerie-Flugeinsatzstelle BMI",
     "wof:parent_id":85898621,
     "wof:placetype":"venue",

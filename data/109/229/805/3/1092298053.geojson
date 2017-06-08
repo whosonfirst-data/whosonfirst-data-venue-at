@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.2874746323,47.2319488525,11.2874746323,47.2319488525",
     "geom:latitude":47.231949,
     "geom:longitude":11.287475,
@@ -24,10 +25,12 @@
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681661,
-        85632785,
         85898607,
-        102049735
+        102191581,
+        1108837635,
+        85632785,
+        102049735,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473909794,
-    "wof:geomhash":"66524fcc7b60af66df1dfd49f0ad0f49",
+    "wof:geomhash":"98e81921a17bdc63926801688f86b72c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049735,
+            "localadmin_id":1108837635,
+            "locality_id":-1,
             "neighbourhood_id":85898607,
             "region_id":85681661,
             "venue_id":1092298053
         }
     ],
     "wof:id":1092298053,
-    "wof:lastmodified":1473985130,
+    "wof:lastmodified":1496898033,
     "wof:name":"Sonnpark",
     "wof:parent_id":85898607,
     "wof:placetype":"venue",

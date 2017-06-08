@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5173368454,47.505153656,10.5173368454,47.505153656",
     "geom:latitude":47.505154,
     "geom:longitude":10.517337,
@@ -23,17 +24,33 @@
     "sg:postcode":"6675",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837777,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6E2xoDjJjNMokpST2QaYXl_47.505154_10.517337@1306268307"
     },
     "wof:country":"AT",
     "wof:created":1473912579,
-    "wof:geomhash":"b6691686a76a1ab960e34b565bb141d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32a8cb804be873acaacf35942cc27a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837777,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092361483
+        }
+    ],
     "wof:id":1092361483,
-    "wof:lastmodified":1473983632,
+    "wof:lastmodified":1496899962,
     "wof:name":"Berger Hof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

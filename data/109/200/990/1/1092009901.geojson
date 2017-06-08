@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9914302826,48.0812759399,12.9914302826,48.0812759399",
     "geom:latitude":48.081276,
     "geom:longitude":12.99143,
@@ -24,17 +25,33 @@
     "sg:province":"Ober\u00f6sterreich",
     "sg:website":"http://www.eggelsberg-innviertel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834719,
+        85632785,
+        102049833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2buNmLxWHcs6hQDQ6rPNBG_48.081276_12.991430@1306268257"
     },
     "wof:country":"AT",
     "wof:created":1473896940,
-    "wof:geomhash":"26abab3c07480defbf2814c0a861b057",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2396ed0e3fc40f6e76597d8fcb20954f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834719,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092009901
+        }
+    ],
     "wof:id":1092009901,
-    "wof:lastmodified":1473985112,
+    "wof:lastmodified":1496882319,
     "wof:name":"\u00d6sterreichische K\u00fcche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

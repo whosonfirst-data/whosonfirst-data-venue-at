@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.6535511017,47.2751121521,9.6535511017,47.2751121521",
     "geom:latitude":47.275112,
     "geom:longitude":9.653551,
@@ -31,17 +32,34 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838021,
+        85632785,
+        101827459,
+        102049725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4np54ODQkpeP5TDXg9xrys_47.275112_9.653551@1306268299"
     },
     "wof:country":"AT",
     "wof:created":1473910178,
-    "wof:geomhash":"abab230305fc822dd514b1663eb4e787",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f31c1b2fc649db58b368098dec5b8ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838021,
+            "locality_id":101827459,
+            "region_id":85681649,
+            "venue_id":1092305833
+        }
+    ],
     "wof:id":1092305833,
-    "wof:lastmodified":1473984670,
+    "wof:lastmodified":1496901633,
     "wof:name":"Armyshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

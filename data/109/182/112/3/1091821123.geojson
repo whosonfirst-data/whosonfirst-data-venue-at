@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.9131708145,47.4105644226,10.9131708145,47.4105644226",
     "geom:latitude":47.410564,
     "geom:longitude":10.913171,
@@ -23,17 +24,34 @@
     "sg:postcode":"6632",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837813,
+        85632785,
+        101787859,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VfNh8Pd2TvJoLHY5tQDG2_47.410564_10.913171@1306268230"
     },
     "wof:country":"AT",
     "wof:created":1473888399,
-    "wof:geomhash":"bdab59af93fd70a64529d1f26e140127",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d03701dabe7f0c736e7542a4a72000b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837813,
+            "locality_id":101787859,
+            "region_id":85681661,
+            "venue_id":1091821123
+        }
+    ],
     "wof:id":1091821123,
-    "wof:lastmodified":1473983627,
+    "wof:lastmodified":1496900049,
     "wof:name":"Bahnhof Ehrwald-Zugspitzbahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

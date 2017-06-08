@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.1095256805,47.6893730164,13.1095256805,47.6893730164",
     "geom:latitude":47.689373,
     "geom:longitude":13.109526,
@@ -23,17 +24,33 @@
     "sg:postcode":"5400",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837091,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Y135XsCDyFc0R5GNuEF6Q_47.689373_13.109526@1306268247"
     },
     "wof:country":"AT",
     "wof:created":1473893973,
-    "wof:geomhash":"f51514fd52066e842474be0a6f862ea6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f58a7a11cc56dfdb7071d62ee3cf656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837091,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091940821
+        }
+    ],
     "wof:id":1091940821,
-    "wof:lastmodified":1473983483,
+    "wof:lastmodified":1496894970,
     "wof:name":"Karl Klaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

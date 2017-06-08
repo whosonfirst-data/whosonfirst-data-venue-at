@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9679498672,47.7723350525,12.9679498672,47.7723350525",
     "geom:latitude":47.772335,
     "geom:longitude":12.96795,
@@ -24,10 +25,12 @@
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681681,
-        85632785,
         85898517,
-        102049799
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895448,
-    "wof:geomhash":"8ea83ca35f2401e50efaf1800f28f818",
+    "wof:geomhash":"098c8a8fa3730e85ed77c8a15ab88139",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
             "neighbourhood_id":85898517,
             "region_id":85681681,
             "venue_id":1091974927
         }
     ],
     "wof:id":1091974927,
-    "wof:lastmodified":1473984425,
+    "wof:lastmodified":1496895757,
     "wof:name":"Bogenhuber Horst",
     "wof:parent_id":85898517,
     "wof:placetype":"venue",

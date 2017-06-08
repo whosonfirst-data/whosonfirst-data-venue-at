@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.8722696304,48.1121788025,14.8722696304,48.1121788025",
     "geom:latitude":48.112179,
     "geom:longitude":14.87227,
@@ -31,17 +32,34 @@
         "electricity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834895,
+        85632785,
+        101784475,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29C7fXIUBIcq98Xs57HzSO_48.112179_14.872270@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908482,
-    "wof:geomhash":"0a433b7d85e3be129056fb79fad45016",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11232a93033dfb28285c9c60c488a912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834895,
+            "locality_id":101784475,
+            "region_id":85681671,
+            "venue_id":1092267223
+        }
+    ],
     "wof:id":1092267223,
-    "wof:lastmodified":1473984699,
+    "wof:lastmodified":1496883449,
     "wof:name":"ELEKTRIZIT\u00c4TSWERK STADTWERKE AMSTETTEN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

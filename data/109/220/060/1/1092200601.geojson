@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.7973575592,48.1306343079,13.7973575592,48.1306343079",
     "geom:latitude":48.130634,
     "geom:longitude":13.797358,
@@ -32,17 +33,33 @@
     ],
     "sg:website":"friedhofsbagger.at",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836539,
+        85632785,
+        102049831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gGWH6bPmHx4hIzPesDtvm_48.130634_13.797358@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905485,
-    "wof:geomhash":"b8976a7051a00ab57d58fd38b68655e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98c97abac22ff4c0ea6c6a175b441d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836539,
+            "locality_id":-1,
+            "region_id":85681677,
+            "venue_id":1092200601
+        }
+    ],
     "wof:id":1092200601,
-    "wof:lastmodified":1473983399,
+    "wof:lastmodified":1496891529,
     "wof:name":"HUMER Friedhofstechnologie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

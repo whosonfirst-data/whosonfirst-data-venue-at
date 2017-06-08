@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.2965755463,47.8385543823,16.2965755463,47.8385543823",
     "geom:latitude":47.838554,
     "geom:longitude":16.296576,
@@ -32,17 +33,34 @@
         "u"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835911,
+        85632785,
+        101833127,
+        102049805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D4R7RCJyfs7gLT67UTRNm_47.838554_16.296576@1306268287"
     },
     "wof:country":"AT",
     "wof:created":1473906457,
-    "wof:geomhash":"6f681df8650918b5e79dcd705752e731",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9bf8773697a7da8b550718d844a04f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835911,
+            "locality_id":101833127,
+            "region_id":85681671,
+            "venue_id":1092221485
+        }
+    ],
     "wof:id":1092221485,
-    "wof:lastmodified":1473983710,
+    "wof:lastmodified":1496888839,
     "wof:name":"Michael Perner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

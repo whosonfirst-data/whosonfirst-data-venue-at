@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.5229330063,48.1789627075,14.5229330063,48.1789627075",
     "geom:latitude":48.178963,
     "geom:longitude":14.522933,
@@ -28,17 +29,34 @@
     "sg:postcode":"4300",
     "sg:province":"Nieder\u00f6sterreich",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835825,
+        85632785,
+        101844595,
+        102049835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07HpvbMzbEikZxyntcf4jZ_48.178963_14.522933@1306268263"
     },
     "wof:country":"AT",
     "wof:created":1473898435,
-    "wof:geomhash":"558582cec264b0d16dfa115dfc5dc669",
-    "wof:hierarchy":[],
+    "wof:geomhash":"760a0cc4f72fa1b79be32b0eabb3de7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835825,
+            "locality_id":101844595,
+            "region_id":85681671,
+            "venue_id":1092048043
+        }
+    ],
     "wof:id":1092048043,
-    "wof:lastmodified":1473984194,
+    "wof:lastmodified":1496888544,
     "wof:name":"Hotel Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.3399477005,48.3278503418,14.3399477005,48.3278503418",
     "geom:latitude":48.32785,
     "geom:longitude":14.339948,
@@ -24,10 +25,12 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898427,
-        102049853
+        102191581,
+        1108836411,
+        85632785,
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +38,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473891900,
-    "wof:geomhash":"9e4768c372fd1ada0247af5f2a4ba926",
+    "wof:geomhash":"8bbf46bb74fdcdf7600be3bc041f2f55",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049853,
+            "county_id":102049881,
+            "localadmin_id":1108836411,
+            "locality_id":-1,
             "neighbourhood_id":85898427,
             "region_id":85681677,
             "venue_id":1091896269
         }
     ],
     "wof:id":1091896269,
-    "wof:lastmodified":1473984769,
+    "wof:lastmodified":1496881398,
     "wof:name":"TechniSat Vertriebs-GmbH",
     "wof:parent_id":85898427,
     "wof:placetype":"venue",

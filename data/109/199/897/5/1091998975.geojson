@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.3168811798,48.3552627563,16.3168811798,48.3552627563",
     "geom:latitude":48.355263,
     "geom:longitude":16.316881,
@@ -31,17 +32,34 @@
         "internet-provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834957,
+        85632785,
+        101754245,
+        102049887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W3nF5xQ6FOyhXE9nlnyYe_48.355263_16.316881@1306268256"
     },
     "wof:country":"AT",
     "wof:created":1473896491,
-    "wof:geomhash":"288716072965c431f97f58567cf824df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c3f5685a07eaa0d30e7e8195b0acc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834957,
+            "locality_id":101754245,
+            "region_id":85681671,
+            "venue_id":1091998975
+        }
+    ],
     "wof:id":1091998975,
-    "wof:lastmodified":1473985020,
+    "wof:lastmodified":1496883657,
     "wof:name":"ISSP Internet-Solutions Szongott & Pert OEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

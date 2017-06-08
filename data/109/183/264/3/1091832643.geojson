@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.4674339294,47.5948143005,13.4674339294,47.5948143005",
     "geom:latitude":47.594814,
     "geom:longitude":13.467434,
@@ -23,17 +24,33 @@
     "sg:postcode":"5442",
     "sg:province":"Salzburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837101,
+        85632785,
+        102049773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Gc7n4U1GhbapHPHO3XhkY_47.594814_13.467434@1306268232"
     },
     "wof:country":"AT",
     "wof:created":1473888931,
-    "wof:geomhash":"8848f54155577e2dee95277e4260d05f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95b6f5090cb1a79c6fd9be973a1d697b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837101,
+            "locality_id":-1,
+            "region_id":85681681,
+            "venue_id":1091832643
+        }
+    ],
     "wof:id":1091832643,
-    "wof:lastmodified":1473983807,
+    "wof:lastmodified":1496895148,
     "wof:name":"Bankomat d Raiffeisenkasse Abtenau-Ru\u00dfbach regGenmbH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

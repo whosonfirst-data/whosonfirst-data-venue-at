@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.327794075,46.6488418579,14.327794075,46.6488418579",
     "geom:latitude":46.648842,
     "geom:longitude":14.327794,
@@ -24,10 +25,13 @@
     "sg:province":"K\u00e4rnten",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681655,
-        85632785,
         85898245,
-        102049679
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +39,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473915964,
-    "wof:geomhash":"2b90298ccc87a83f7f43845ab6ba1abe",
+    "wof:geomhash":"8ebaf1cea819e9f003de638a94301530",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
             "neighbourhood_id":85898245,
             "region_id":85681655,
             "venue_id":1092431163
         }
     ],
     "wof:id":1092431163,
-    "wof:lastmodified":1473983480,
+    "wof:lastmodified":1496905579,
     "wof:name":"Goldeck Flug GesmbH",
     "wof:parent_id":85898245,
     "wof:placetype":"venue",

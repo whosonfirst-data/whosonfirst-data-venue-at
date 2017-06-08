@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.0291204453,48.1615409851,14.0291204453,48.1615409851",
     "geom:latitude":48.161541,
     "geom:longitude":14.02912,
@@ -31,17 +32,34 @@
         "electricity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834705,
+        85632785,
+        101748067,
+        102049827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fSoFdu1eyBp43zoE8tsbx_48.161541_14.029120@1306268294"
     },
     "wof:country":"AT",
     "wof:created":1473908482,
-    "wof:geomhash":"96853770c19b70435e98aec594d706b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6eda75a7f84ba800082748ef9957579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049827,
+            "localadmin_id":1108834705,
+            "locality_id":101748067,
+            "region_id":85681677,
+            "venue_id":1092267227
+        }
+    ],
     "wof:id":1092267227,
-    "wof:lastmodified":1473984700,
+    "wof:lastmodified":1496882158,
     "wof:name":"ELEKTRIZIT\u00c4TSWERK WELS AG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

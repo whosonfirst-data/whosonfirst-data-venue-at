@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.5047283173,47.501953125,16.5047283173,47.501953125",
     "geom:latitude":47.501953,
     "geom:longitude":16.504728,
@@ -32,17 +33,34 @@
         "spectacle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838597,
+        85632785,
+        101834323,
+        102049775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v6iMunLjZdwWKinp5nxlS_47.501953_16.504728@1306268284"
     },
     "wof:country":"AT",
     "wof:created":1473905408,
-    "wof:geomhash":"3e66103b52e68a311444cdbf681d7e8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57529a4bc363539a8bf436b526f30fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838597,
+            "locality_id":101834323,
+            "region_id":85681651,
+            "venue_id":1092199081
+        }
+    ],
     "wof:id":1092199081,
-    "wof:lastmodified":1473985254,
+    "wof:lastmodified":1496908626,
     "wof:name":"Wohlfart Optik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

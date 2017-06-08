@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.2541370392,48.266456604,14.2541370392,48.266456604",
     "geom:latitude":48.266457,
     "geom:longitude":14.254137,
@@ -29,10 +30,13 @@
     "sg:province":"Ober\u00f6sterreich",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681677,
-        85632785,
         85898435,
-        102049847
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"AT",
     "wof:created":1473895072,
-    "wof:geomhash":"7c956cef5d8961451d44abf443910e7b",
+    "wof:geomhash":"31a05cd62811f5b125e1f13f41671430",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049847,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
             "neighbourhood_id":85898435,
             "region_id":85681677,
             "venue_id":1091965931
         }
     ],
     "wof:id":1091965931,
-    "wof:lastmodified":1473984282,
+    "wof:lastmodified":1496887224,
     "wof:name":"Restaurant K\u00fcrnberghalle",
     "wof:parent_id":85898435,
     "wof:placetype":"venue",

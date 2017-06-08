@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.406747818,47.2690925598,10.406747818,47.2690925598",
     "geom:latitude":47.269093,
     "geom:longitude":10.406748,
@@ -23,17 +24,33 @@
     "sg:postcode":"6653",
     "sg:province":"Tirol",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837799,
+        85632785,
+        102049745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iKaoOrpXwzMIW4PDYeFQL_47.269093_10.406748@1306268266"
     },
     "wof:country":"AT",
     "wof:created":1473899376,
-    "wof:geomhash":"4c9d21e10058530f876f07d530cde368",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9f6d494e0f3f8da58f5a41759095750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837799,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1092071739
+        }
+    ],
     "wof:id":1092071739,
-    "wof:lastmodified":1473983623,
+    "wof:lastmodified":1496899997,
     "wof:name":"Gasthof Alpenblick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

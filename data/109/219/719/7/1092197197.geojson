@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.7823562622,48.193611145,16.7823562622,48.193611145",
     "geom:latitude":48.193611,
     "geom:longitude":16.782356,
@@ -31,17 +32,33 @@
         "candle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835385,
+        85632785,
+        102049891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zPRaM32N3tOxdAwFTvLkk_48.193611_16.782356@1306268283"
     },
     "wof:country":"AT",
     "wof:created":1473905334,
-    "wof:geomhash":"6323ee518fe80b7217367eb2014f83e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72cf32df10c8bdd96abd98d3faf157df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835385,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1092197197
+        }
+    ],
     "wof:id":1092197197,
-    "wof:lastmodified":1473984939,
+    "wof:lastmodified":1496886459,
     "wof:name":"Theodora Gemperle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

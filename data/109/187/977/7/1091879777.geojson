@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.4157829285,48.3640098572,15.4157829285,48.3640098572",
     "geom:latitude":48.36401,
     "geom:longitude":15.415783,
@@ -32,17 +33,34 @@
         "bracelet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836357,
+        85632785,
+        101843339,
+        102049885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pkt8JrJw3qucNhAUgvLQI_48.364010_15.415783@1306268239"
     },
     "wof:country":"AT",
     "wof:created":1473891131,
-    "wof:geomhash":"dafd902250d0d5251fa4e5b2b69748d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34085e3f940739e4592c5bd3805cc010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108836357,
+            "locality_id":101843339,
+            "region_id":85681671,
+            "venue_id":1091879777
+        }
+    ],
     "wof:id":1091879777,
-    "wof:lastmodified":1473985242,
+    "wof:lastmodified":1496890692,
     "wof:name":"Johann Fertl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
