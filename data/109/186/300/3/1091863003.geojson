@@ -7,6 +7,7 @@
     "addr:postcode":"7000",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":16.518955,
     "iso:country":"AT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"TZ Marktstr 3",
     "sg:city":"Eisenstadt",
     "sg:classifiers":[],
@@ -51,13 +53,17 @@
         }
     ],
     "wof:id":1091863003,
-    "wof:lastmodified":1496908821,
+    "wof:lastmodified":1510942530,
     "wof:name":"Wirtschaftsservice Burgenland AG-WIBAG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1091863005
+    ],
+    "wof:supersedes":[
+        1091863001
+    ],
     "wof:tags":[]
 },
   "bbox": [

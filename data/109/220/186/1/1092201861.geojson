@@ -7,6 +7,7 @@
     "addr:postcode":"6020",
     "addr:street":"Str. 15;Tirol",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":11.396224,
     "iso:country":"AT",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Salurner Str. 15 ",
     "sg:city":"Innsbruck",
     "sg:classifiers":[
@@ -62,13 +64,17 @@
         }
     ],
     "wof:id":1092201861,
-    "wof:lastmodified":1496899189,
+    "wof:lastmodified":1510941614,
     "wof:name":"TIGAS-ERDGAS TIROL GMBH",
     "wof:parent_id":85898613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-at",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1092290929
+    ],
+    "wof:supersedes":[
+        1092086131
+    ],
     "wof:tags":[
         "chemical",
         "pharmaceutical"
